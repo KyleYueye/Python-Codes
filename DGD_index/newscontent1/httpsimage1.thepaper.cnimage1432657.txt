@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">男子虚构认识海关高管，以捞货为由诈骗多名代购87万元</h1>
+<div class="news_about">
+<p>郑舜、桐检/浙青网-青年时报</p>
+<p>
+							2019-01-08 14:40<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">浙青网-青年时报1月8日消息，多名代购看着价值不菲的商品被上海海关扣押，纷纷急着找有“门路”的廖某帮忙。然而“认识高官、海关里有熟人、拿钱打点捞货，通关率百分百”这种旁观者一看就是虚假骗局的事儿，代购却盲目相信，还一次又一次地相信廖某的推辞，心甘情愿拿出几千、几万不等的“通关费”……<br/><div class="contheight"></div>2017年5月，做韩国代购周边生意的艳姐，经人介绍，认识了在韩国做整容中介的浙江泰顺女子廖某。很快，两个年轻人就相谈甚欢。一次聊天中，艳姐跟廖某提起，一个做韩国代购的朋友的一大批货物被扣押了在上海海关。<br/><div class="contheight"></div>廖某马上说，因她在上海市政里有个高官熟人，还认识上海海关里的领导，跟他们关系都很铁，只需要付一点手续费和捞货费，就可以通过他们帮忙出关，过关率百分百。看艳姐听得非常认真，廖某又说：“你不如跟我一起做通关生意吧。”<br/><div class="contheight"></div>见廖某把捞货报价与海关分成都说得非常详细，艳姐很心动，就同意了一起做通关生意。随后，艳姐陆陆续续把认识的需要“捞货”的代购介绍给廖某。<br/><div class="contheight"></div>两个月后，陆续有代购要求廖某帮忙“捞货”，廖某先是安慰代购别着急，再等等。到8月时，廖某才告诉代购，可以打钱给她准备捞货了。<br/><div class="contheight"></div>到了9月份，廖某又问代购是否需要消除黑名单，还严肃地跟代购说：“如果不消除，以后私自代购商品被抓多次可能被判刑。”这些代购一听急了，连忙又汇钱给廖某办事。<br/><div class="contheight"></div>随后，代购时常来询问捞货情况，廖某便把她认识的“海关领导”微信发了出来，让他们直接联系。微信上，“海关领导”一直以各种理由推脱，例如暂时捞不出来、要办退运、要打点退货部、货物太多要加钱、加急出关要加钱等等。<br/><div class="contheight"></div>终于，到了10月中旬，“海关领导”发微信给艳姐，让她带着一个代购去上海机场拿货。在机场等待时，“海关领导”又发微信给艳姐，说代购再出3万元，便立马办理退货。这个从桐庐火急火燎赶到上海拿货的代购，又咬咬牙，付了3万钱。<br/><div class="contheight"></div>然而“海关领导”收了钱，又转而说中途有意外。此时这名代购已等不住，不停催促廖某，廖某只好说捞货钱会退回到代购的银行卡。然而代购到银行一查，发现根本没有退钱，便报了警。之后，警方又陆续收到艳姐以及其他代购的报案。<br/><div class="contheight"></div>公安侦查发现，2017年7月至2018年3月期间，廖某通过虚构其认识海关高管，并自己注册微信账号，扮演海关人员，以“捞货”、消除黑名单为由，骗取多名被害人共计87万余元。<br/><div class="contheight"></div>艳姐说，她之所以会这么信任廖某，是因为她去韩国时，廖某带她旅游过，而且廖某曾经拉她进过一个微信群，群里都在说这里的包通关可靠。谁知道，廖某满嘴没一句真话。<br/><div class="contheight"></div>检察机关认为，廖某以非法占有为目的，虚构事实隐瞒真相，骗取公私财物，数额特别巨大，其行为触犯了我国刑法第二百六十六条，犯罪事实清楚，证据确实充分，应当以诈骗罪追究其刑事责任。<br/><div class="contheight"></div>日前，廖某因涉嫌诈骗罪被桐庐县检察院提起公诉。<br/><div class="contheight"></div>（原题为《多名代购多次花钱托关系“捞货”，却不知“海关领导”是熟人》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 诈骗罪</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827253">
+<div class="nbgbox">
+<a class="zan" contid="2827253" href="javascript:;" onclick="voteCont(this)" praisetimes="16">
+                           15</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 诈骗罪</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827253&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827253&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

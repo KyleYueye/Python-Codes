@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">中国农科院发现控制黄瓜苦味基因，已推广100万亩 </h1>
+<div class="news_about">
+<p>郭超凯 孙自法/中新社</p>
+<p>
+							2019-01-08 17:27<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新社北京1月8日电 中国农业科学院蔬菜花卉研究所完成的黄瓜基因组和重要农艺性状基因研究8日获得2018年度国家自然科学奖二等奖。该研究发现了控制黄瓜苦味物质合成的基因，成功解决了华南黄瓜品种变苦而丧失商品价值的生产难题，累计推广约100万亩，创造约80亿元人民币的经济价值。<br/><div class="contheight"></div>黄瓜基因组和重要农艺性状基因研究项目主要完成人、中国农业科学院蔬菜花卉研究所研究员黄三文在接受采访时表示，黄瓜基因组研究最有代表性的成果是发现了控制黄瓜苦味物质合成的9个基因，并发现有两个“开关”基因分别在叶片和果实中控制苦味物质的合成。把果实“开关”关上，可以不让黄瓜变苦；把叶片“开关”打开，能够让叶片苦来抗虫。基于上述发现，中国农业科学院蔬菜花卉研究所培育了“蔬研”系列新品种，取得了显著的社会效益。<br/><div class="contheight"></div>近年来，老百姓抱怨“黄瓜没有黄瓜味啦！”“西红柿的味道越来越淡了”。如何培育品质优良的蔬菜品种是老百姓关心的大事，也是中国蔬菜科研工作者努力的方向。<br/><div class="contheight"></div>中国农业科学院蔬菜花卉研究所联合多家单位以黄瓜为研究对象，通过破译黄瓜基因密码为突破口，开创了从“基因组到新品种”的新道路，成功培育了无苦味的美味黄瓜新品种，使中国蔬菜基因组学科实现了从跟跑到领跑的重大跨越。<br/><div class="contheight"></div>黄三文表示，该研究进一步全面揭示了黄瓜的遗传变异，系统阐明了黄瓜的起源和演化过程，证实了黄瓜原产于印度，是当地传统的草药。因为在苦味基因上的改变，变成了大受欢迎的可口蔬菜。黄瓜后来传播到不同地域，形成了三个主要类型：欧亚黄瓜、东亚黄瓜、西双版纳黄瓜。该研究还发现东亚黄瓜与印度黄瓜的分离时间是2000多年，与张骞出使西域给中国带来黄瓜这个大众蔬菜的史实相吻合。<br/><div class="contheight"></div>据介绍，黄瓜基因组是第一个蔬菜作物基因组，这个项目的成果带动了其它蔬菜(包括白菜和番茄等)的基因组研究。中国科学家在Nature、Science和Cell等国际顶尖期刊发表10多篇研究论文，推动中国蔬菜基因组学科进入国际领先行列。<br/><div class="contheight"></div>（原题为《中国农科院发现控制黄瓜苦味基因 已推广100万亩 》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：崔烜<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 基因 黄瓜</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828045">
+<div class="nbgbox">
+<a class="zan" contid="2828045" href="javascript:;" onclick="voteCont(this)" praisetimes="50">
+                           49</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 基因技术</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828045&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828045&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（69）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

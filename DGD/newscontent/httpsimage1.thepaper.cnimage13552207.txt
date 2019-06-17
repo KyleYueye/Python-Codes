@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">济南一男子冒充电视台记者骗婚，两名受害人共被骗120余万</h1>
+<div class="news_about">
+<p>崔岩/齐鲁壹点</p>
+<p>
+							2018-12-27 14:14<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">齐鲁壹点12月27日消息，济南一男子平时不务正业，假冒电视台记者，骗取2名女子感情及钱财，其中一女子已与其结婚登记。两名受害人及家人共被骗120余万元，骗来的钱供其外出旅游、购买彩票及高档服装。目前，诈骗犯罪嫌疑人何某某已被刑事拘留。<br/><div class="contheight"></div>何某某今年31岁，济南人，中专学历。毕业后，以四处打零工为生。<br/><div class="contheight"></div>2017年5月到2018年12月案发，何某某假冒济南电视台某频道记者，并称其个人名下有多套房产，骗取2名受害人及其家人信任。<br/><div class="contheight"></div>“何某某冒充记者的伎俩非常高超。”燕山派出所副所长刘江介绍说，一起看电视，看到一个新闻节目，何某某会突然询问周围人对此新闻的看法，并借此发表一下他的看法。刘江说，何某某还随时会拿起电话，声称直接找到播这条新闻的记者，告知对方这条新闻的报道方式有何问题。<br/><div class="contheight"></div>2017年5月，30岁的单身母亲谷某是在一场朋友聚会上认识的何某某。此后，何某某先后以战友生病、工作出差需要、电视台领导借钱、学车需要费用为由，多次从谷某处索要钱财，并透支谷某信用卡，共计61万元。<br/><div class="contheight"></div>“谷某的钱都是透支的信用卡，直到何某某被抓获，谷某还欠着银行50余万。”刘江说，<br/><div class="contheight"></div>2017年11月，何某某又在学车过程中认识了受害人徐某某，他采用同样方式，故伎重演，假冒电视台记者，骗取了徐某某及其家人信任。<br/><div class="contheight"></div>利用从谷某处骗来的钱，江苏、张家界……何某某假借出差公款为由，带着徐某某转遍了大半个中国。“每到一个地方，非五星级酒店不住，购买奢侈品，看中一双鞋可以同款买好几个不同颜色。”刘江说，在何某某租住的地方，到处是名牌鞋子、包、衣服。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/552/185.jpg" width="100%"/></div>今年6月，何某某与徐某某登记结婚。以结婚需要为由，何某某向徐某某的哥哥以及其父母索要钱财，订婚纱照、订酒店、垫付家居尾款、购买家居用品等，并以徐某某的名义透支徐某某多张信用卡以及在互联网金融平台贷款，共计人民币62万元。<br/><div class="contheight"></div>“他跟谷女士说，2018年11月15日和她在良友富临结婚；他跟徐女士也说，2018年11月15日和她在良友富临结婚，实际上都是假的。”刘江介绍说，事后经与酒店方确认，何某某并未定过酒店。<br/><div class="contheight"></div>徐某某及其家人也逐渐发现，何某某根本没有准备任何与结婚相关的事宜，遂发现上当受骗。<br/><div class="contheight"></div>2018年12月12日，徐某某与家人到燕山派出所报案。<br/><div class="contheight"></div>燕山派出所民警深入调查了解到，何某某所称其在济南电视台某频道工作的情况为其本人捏造，其名下亦未有其所述位于棋盘街小区、大舜天成的房产，更没有上千万的身价。<br/><div class="contheight"></div>何某某对其犯罪事实供认不讳，据其交代，除十几万元用来购买彩票，剩余的钱全部用来挥霍了，出入高档酒店、购买高档服装及鞋子等。<br/><div class="contheight"></div>目前，何某某已被历下警方刑事拘留。（本文原题为《男子冒充电视台记者骗婚，竟然成功了！这演技了得》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 骗婚,冒充记者</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780137">
+<div class="nbgbox">
+<a class="zan" contid="2780137" href="javascript:;" onclick="voteCont(this)" praisetimes="22">
+                           21</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 冒充记者</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780137&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780137&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

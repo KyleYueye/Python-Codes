@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25433">地产界</a>
+</div>
+<h1 class="news_title">对房租抵扣个税新问题，应尽快推出解决方案</h1>
+<div class="news_about">
+<p>安宁/证券日报</p>
+<p>
+							2019-01-09 08:19<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">今年1月1日，新个税法开始实施，对住房贷款利息以及住房租金等六项支出专项扣除，这对老百姓来说是一件大好事。但是，这件好事，却让很多房东和房客有点闹心。因为在申请住房租金专项扣除时，因为需要填报房东信息，而房东怕给了信息以后成为纳税的依据，由此，也引发了房东和房客的博弈。<br/><div class="contheight"></div>虽然税务局已表示，“目前并没有收到加强房租收入征管的通知”，但是，笔者认为，此事应引起有关部门的重视，并且应尽快拿出解决方案。虽然现在不太可能出台具体的政策，但是可以通过房租优惠或是减免的短期政策来解决当前的问题，对于已经发生的事情，模糊处理或是不回应都不是解决之策。<br/><div class="contheight"></div>对于很多租房和出租房的人来说都没有想到，这项房租专项抵扣福利会引发这样的问题。因为，这项政策的目的是为了减少租客的个税压力，但由于当前租赁市场上存在的一些问题，导致这一政策的实施有点困难。<br/><div class="contheight"></div>根据《财政部 国家税务总局关于调整住房租赁市场税收政策的通知》(财税〔2000〕125号)规定：“对个人出租房屋取得的所得暂减按10%的税率征收个人所得税。”但长久以来，租房市场中普遍存在房东出租房屋不缴税，这是因为税源分散且金额小，信息不透明且人力有限，导致地方征税部门很少针对个人出租住房严格征税。<br/><div class="contheight"></div>由此也造成了当需要提供房东的详细信息时很多人有点慌。“让我提供信息，那我就给你涨房租”“不管你同不同意，反正我有租房合同，上面有详细信息，直接就申报了”这是当前很多房东和房客存在两种极端现象。虽然多位税务局人士接受媒体采访时表示，目前地方不大可能会通过专项附加扣除信息去查房东租金收入是否交税，税务总局也没有这方面加强征管的通知。<br/><div class="contheight"></div>但是， 对这个问题，笔者认为，需要相关部门应尽快拿出解决方案。笔者建议，为解决燃眉之急，可以先出台一个关于房租的优惠减免措施。但这只是权宜之计，从长期来看，最重要的是要完善个税征收体系，今后，不管房东是否主动提供个人租房信息，税收部门都能有据可查，这样也就不存在这个问题了。<br/><div class="contheight"></div>（原标题为《对房租抵扣个税新问题，应尽快推出解决方案》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：庞静涛<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2830297">
+<div class="nbgbox">
+<a class="zan" contid="2830297" href="javascript:;" onclick="voteCont(this)" praisetimes="61">
+                           60</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 房租抵扣个税</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2830297&caid=25433",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2830297&amp;caid=25433" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（43）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

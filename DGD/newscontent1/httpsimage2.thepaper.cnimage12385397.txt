@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜马拉松递国旗，别拿添乱当爱国</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-11-19 12:00<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">11月18日，在苏州举行的马拉松比赛中发生了雷人的一幕。在冲刺阶段，中国选手何引丽与非洲选手争夺冠军时，志愿者连续两次上前递国旗，打乱何引丽节奏上，导致她被拉开距离，遗憾获得亚军。<br/><div class="contheight"></div>视频显示在何引丽接国旗后，国旗从手中滑落。事后有同样是马拉松运动员的博主指责她“成绩比国旗更重要？”何引丽回应称，当时“胳膊僵了，摆臂的时候甩出去了，很抱歉”。<br/><div class="contheight"></div>何引丽不需要道歉，她应该被道歉。问题仅仅在于，都有哪些人应该向她道歉。<br/><div class="contheight"></div>排在第一位的肯定是那位递国旗的志愿者。不干扰比赛是观看比赛的基本道德，志愿者肯定要比普通观众更懂这一点。起码的常识，即便要递国旗也要在选手冲过终点线之后。<br/><div class="contheight"></div>目前不清楚的是，递国旗究竟是志愿者的一时抽风，还是接到了何方的指令。不管是谁做出的决定，他们的初衷到底是什么呢？<br/><div class="contheight"></div>表面看起来是为了爱国，如果中国选手获得冠军时，手上拿着国旗，那肯定是引人瞩目的一幕。但实际效果是添乱。因为这个愚蠢举动，害得别人连冠军都丢了。爱国从来都不应该是添乱。<br/><div class="contheight"></div>那位指责何引丽的马拉松运动员就更荒诞无稽了，试问，等她参加比赛时，十步一个国旗递给她，她会开心吗？<br/><div class="contheight"></div>其实，递国旗究竟是真爱国，还是借爱国之名为自己刷存在感，谁又说得清呢？别人辛辛苦苦跑完42公里，你在终点线前来个锦上添花，最后别人夺冠时你“与有荣焉”。输了是别人的，赢了是大家的，这如意算盘打的太精明。<br/><div class="contheight"></div>更值得追问的是，当志愿者递国旗的时候，本应阻止她的安保在哪里？责任必须落到主办方头上。<br/><div class="contheight"></div>据了解，这次马拉松的组织混乱可能还不止这一处。不止一位参与的网友反映，更衣室少、存包被弄湿、几千人冒雨等接驳车等，还有人表示“场面差点失控”。<br/><div class="contheight"></div>近年来，马拉松比赛遍地开花。一边是热衷跑步、到处参赛的都市白领，一边是有宣传需求的地方政府和赞助商，双方一拍即合。但如果没有良好的组织，多赢就沦为了共输。之前一些地方的马拉松出现过随地便溺、垃圾遍地、伤病众多等乱象，递国旗只不过使马拉松乱象清单又延长了。<br/><div class="contheight"></div>这次马拉松比赛的主办方，务必从递国旗的闹剧中吸取教训，对网友反映的其他混乱场面也要有所回应。当务之急，请给何引丽选手一个说法。亡羊补牢，从直面问题开始。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 马拉松 国旗</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2648859">
+<div class="nbgbox">
+<a class="zan" contid="2648859" href="javascript:;" onclick="voteCont(this)" praisetimes="517">
+                           516</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 马拉松</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2648859&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2648859&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（166）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

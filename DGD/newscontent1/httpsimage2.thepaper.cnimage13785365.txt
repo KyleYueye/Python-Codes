@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">乌克兰总统选举活动正式启动，前美女总理民调领先</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-01 15:01<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">2018年12月31日，乌克兰正式拉开总统大选的帷幕。<br/><div class="contheight"></div>据俄罗斯卫星通讯社援引乌新社消息，乌克兰总统选举活动将持续90天。总统选举参加者登记工作应在2019年2月8日之前完成。候选人在登记后第二天即可开展竞选活动，直到3月29日午夜为止。乌克兰中央选举委员会将在5月31日前举行，新当选的总统就职典礼将于2019年5月31日举行。<br/><div class="contheight"></div>报道称，据“评级”机构12月26日的民意调查结果显示，同意为乌克兰现任总统彼得·波罗申科投票的选民占11.1%。在最受欢迎的候选人排行榜中，波罗申科排第三名。支持率最高的是祖国党领导人尤利娅·季莫申科，目前有20.8%的选民愿意为其投票。排在第二位的是宣布将参加总统选举的演员兼脱口秀主持人人弗拉基米尔·泽林斯基（13.4％）。<br/><div class="contheight"></div>据俄罗斯卫星网此前报道，俄罗斯总理梅德韦杰夫11月曾表示，刻赤海峡事件是波罗申科为赢得乌克兰总统之位所刻意制造的选举手段，否则他甚至无法进入总统选举第二轮，更不用说赢得选举胜利。<br/><div class="contheight"></div>此外，乌克兰2018年计划在2019年的的总统大选中花费23.5亿格里夫纳（超过8300万美元）。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：廖婧雯<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 乌克兰，总统竞选，季莫申科</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2802074">
+<div class="nbgbox">
+<a class="zan" contid="2802074" href="javascript:;" onclick="voteCont(this)" praisetimes="53">
+                           52</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 乌克兰总统</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2802074&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2802074&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（141）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

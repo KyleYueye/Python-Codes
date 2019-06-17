@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">李克强会见第三届“读懂中国”国际会议代表并座谈</h1>
+<div class="news_about">
+<p>中国政府网</p>
+<p>
+							2018-12-17 21:44<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/263/265.jpg" width="100%"/></div><br/><div class="contheight"></div>中国政府网12月17日消息，国务院总理李克强12月17日下午在人民大会堂会见第三届“读懂中国”国际会议代表并同他们座谈。30多位全球著名前政要、战略家、企业家和学界知名人士参加。<br/><div class="contheight"></div>李克强听取墨西哥前总统塞迪略、英国前首相布朗、丹麦前首相施密特、希腊前总理帕潘德里欧、世界贸易组织前总干事拉米等的发言，并回答了他们提出的问题。<br/><div class="contheight"></div>李克强表示，中方赞赏与会代表为促进中国同世界的交流所做努力。习近平主席向会议发来贺信。今年适逢中国改革开放40周年。40年来，中国发展取得举世瞩目的成就，不仅造福中国人民，也惠及世界，这是中国人民筚路蓝缕、苦干实干出来的。中国过去发展靠改革开放，今后发展还得靠改革开放。我们将继续深化改革，进一步扩大开放，打造内外资企业一视同仁、公平竞争的营商环境，严格保护知识产权，致力于发展更高水平的开放型经济。中国有条件、有能力应对各种风险挑战，保持经济平稳运行，推动高质量发展。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/263/264.jpg" width="100%"/></div><br/><div class="contheight"></div>李克强指出，过去70多年来，人类在维护世界和平与减少贫困等方面取得的成绩，主要得益于多边主义、自由贸易和以规则为基础的国际秩序。当前错综复杂的国际政治经济形势下，更应当坚持多边主义和自由贸易，坚持以发展的眼光看待全球化进程和世界贸易中出现的问题。中国支持与时俱进地改革和完善世界贸易组织规则。改革要坚持贸易自由化的大方向，照顾各方关切和利益，维护发展中成员的发展权益，促进缩小南北差距。<br/><div class="contheight"></div>李克强强调，中国经济总量已位居世界前列，但按照任何一个国际组织的现行标准，中国仍然是并将长期是一个发展中国家，这样的情况从历史和全球范围来看都是很特殊的。中国愿同外部世界加强互动交流，让世界更好了解中国。同时，世界也需要走近中国，了解并读懂真实的中国。希望与会代表做中国同世界沟通的桥梁、合作的纽带，为中国与世界的共同发展进步作出更大贡献。<br/><div class="contheight"></div>与会代表表示，当前世界政治经济形势遇到前所未有的挑战。在中国纪念改革开放40周年之际，举行“读懂中国”国际会议恰逢其时。祝贺中国改革开放以来在经济发展、减贫、教育等诸多领域取得的巨大发展成就。全球化时代需要对话与合作，各国应当携手推进国际规则改革和完善，维护多边主义和自由贸易，共同为人类进步作出贡献。<br/><div class="contheight"></div>全国政协副主席、国家发展和改革委员会主任何立峰出席上述活动。<br/><div class="contheight"></div>（原标题《李克强会见第三届“读懂中国”国际会议代表并座谈》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 读懂中国国际会议</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2747550">
+<div class="nbgbox">
+<a class="zan" contid="2747550" href="javascript:;" onclick="voteCont(this)" praisetimes="52">
+                           51</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 读懂中国国际会议</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2747550&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2747550&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

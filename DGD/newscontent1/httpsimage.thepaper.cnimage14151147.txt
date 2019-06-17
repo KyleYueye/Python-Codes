@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25435">金改实验室</a>
+</div>
+<h1 class="news_title">美联储主席鲍威尔重申对加息保持耐心，不拒绝与特朗普会面</h1>
+<div class="news_about">
+<p>澎湃新闻记者 蒋梦莹 综合报道</p>
+<p>
+							2019-01-11 07:39<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="334" src="http://image.thepaper.cn/www/image/14/151/165.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">当地时间1月10日，美联储主席鲍威尔在华盛顿特区经济俱乐部对话凯雷集团联席执行董事长David Rubenstein。  </span><br/><div class="contheight"></div>当地时间1月10日，在华盛顿特区经济俱乐部与凯雷集团联席执行董事长David Rubenstein对话时，美联储主席鲍威尔表示，不会拒绝与美国总统特朗普会面，但尚未收到会面邀请。<br/><div class="contheight"></div>在特朗普几个月来批评美联储加息后，白宫释放了总统与鲍威尔可能会面的信号。<br/><div class="contheight"></div>鲍威尔称，他还没有收到与特朗普会面的邀请，并认为拒绝邀请不合适。“总统与美联储主席之间确实会进行会谈。会谈往往很少见，”鲍威尔说。“我认为拒绝邀请并不合适。”鲍威尔表示，过去有过联储主席和总统会面，“我不知道哪位联储主席拒绝过邀请。”<br/><div class="contheight"></div>特朗普屡次公开批评美联储加息。美联储在12月19日决定2018年第四次加息，并预测今年还会有两次加息。特朗普因为对股市连续大跌不满，曾讨论过辞退美联储主席。<br/><div class="contheight"></div>鲍威尔1月4日表示，如果总统要求他辞职，他也不会辞职。鲍威尔安抚投资者称，决策官员们会仔细聆听金融市场传递的有关增长面临风险的信息。<br/><div class="contheight"></div>值得一提的是，在对话前几分钟里，鲍威尔就四次提到“耐心”一词。<br/><div class="contheight"></div>“对于加息，我能说的是，我们会观望并保持耐心。” 鲍威尔强调，美联储有能力在利率问题上保持耐心，并体现出灵活性。“当前环境下，我们可以保持耐心和灵活，拭目以待形势变化，我认为我们正在等待和观察。”<br/><div class="contheight"></div>美联储12月会议纪要显示，许多委员会成员表示，鉴于通胀压力减弱，美联储有能力对进一步收紧政策保持耐心。<br/><div class="contheight"></div>当Rubenstein问及，去年12月更新的利率预期显示大多数联储官员预计今年还将两次加息时，鲍威尔称，美联储在加息的具体次数上并没有特定“计划”。“没有任何预设的利率路径。”他说，美联储成员意见的多样性会带来更好的决策。他并未向美联储其他成员游说政策。<br/><div class="contheight"></div>鲍威尔称，2018年美国经济表现非常不错。诸多指标显示，劳动力市场非常强劲。金融市场在下行风险上的担忧言过其实，他并未看到美国经济衰退风险加剧的迹象。预计通胀水平将保持在2%左右，经济增长2%-2.5%。“美国经济是稳健的，我主要担心的是全球增长。”<br/><div class="contheight"></div>鲍威尔称，美国联邦政府停摆往往不会持续太长时间，也不会冲击到经济。他“非常担心”的是正在增长的美国政府债务，未来的资产负债表规模将“显著”（substantially）低于当前水平，不过还高于过去的水平。<br/><div class="contheight"></div>鲍威尔还表示，中国经济增速已经放缓，但仍预测中国经济会稳健增长。如果关税摩擦促成关税下降，那将是好事。<br/><div class="contheight"></div>鲍威尔发表“鸽”派讲话后提振市场信心，美股三大股指齐涨，道琼斯指数涨幅超百点。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑景昕<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2839938">
+<div class="nbgbox">
+<a class="zan" contid="2839938" href="javascript:;" onclick="voteCont(this)" praisetimes="12">
+                           11</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美联储主席</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2839938&caid=25435",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2839938&amp;caid=25435" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">新《专利代理条例》2019年3月1日起施行</h1>
+<div class="news_about">
+<p>张泉/新华社</p>
+<p>
+							2018-11-13 19:23<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京11月13日消息，9月6日召开的国务院常务会议通过了《专利代理条例（修订草案）》。记者13日在国新办举行的国务院政策例行吹风会上获悉，修订后的《专利代理条例》将自2019年3月1日起施行。<br/><div class="contheight"></div>“专利代理制度是保障发明人权益，促进科技创新的支撑性基础制度，是专利制度不可或缺的重要组成部分。”国家知识产权局副局长贺化介绍，此次修改，重在根据专利代理行业实际情况变化，加大“放管服”改革力度，优化营商环境，完善专利代理制度，服务大众创业、万众创新。<br/><div class="contheight"></div>——简政放权，支持创新创业，减轻群众负担，激发市场活力与创造力。取消代理机构设立审批的省级初审；放宽代理机构组织形式要求；简化考试报名条件，取消申请代理师资格应当具有工作经验等要求；取消不必要的证明材料。<br/><div class="contheight"></div>——放管结合，加强日常监管，规范市场秩序，保障创新主体合法权益。管理部门应当采取随机抽查方式，对代理机构和代理师的执业活动进行检查、监督，并向社会公布检查、处理结果；支持创新，鼓励代理机构和代理师为小微企业以及弱势群体提供代理援助服务；健全执业规范，要求代理机构建立健全利益冲突审查制度；完善关于代理机构和代理师违法行为的法律责任。<br/><div class="contheight"></div>——优化服务，加大便民利民，提高服务效率。管理部门应当加强专利代理公共信息发布，为公众了解代理机构经营情况、代理师执业情况提供查询服务；代理师和代理机构办理备案、审批全部实现一网办通。<br/><div class="contheight"></div>据介绍，截至2018年10月底，我国42569人取得专利代理人资格，执业专利代理人达到18468人，专利代理机构达到2126家，开展PCT申请业务的机构数量超过1000家。<br/><div class="contheight"></div>（原题为《完善专利代理制度优化营商环境　新&lt;专利代理条例&gt;2019年3月1日起施行》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 专利代理,优化营商环境</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2630607">
+<div class="nbgbox">
+<a class="zan" contid="2630607" href="javascript:;" onclick="voteCont(this)" praisetimes="15">
+                           14</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 专利</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2630607&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2630607&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

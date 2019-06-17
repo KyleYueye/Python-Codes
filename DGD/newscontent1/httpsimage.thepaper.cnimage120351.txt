@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">北京首例监察委移送案背后：通州检方提前介入成为样本</h1>
+<div class="news_about">
+<p>澎湃新闻记者 庄岸 实习生 高瑜键</p>
+<p>
+							2018-11-06 20:21<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">过去五年，北京通州区检察院所办理的刑事案件有罪生效判决率高达100%，其中包括北京首例监察委移送职务犯罪案件。<br/><div class="contheight"></div>11月6日，通州区检察院发布近五年检察服务大局重点工作情况，副中心建设安全被置于首位。<br/><div class="contheight"></div><strong>五年间有罪生效判决100%，提前介入首例监察委移送案</strong><br/><div class="contheight"></div>通报显示，近五年来，通州检察院共审查逮捕刑事犯罪案件4770件6095人。审查移送起诉案件7030件8555人，提起公诉6298件7588人，有罪生效判决率100%。<br/><div class="contheight"></div>澎湃新闻注意到，上述通报披露了北京市首例监察委移送职务犯罪案件。案情显示，2016年间，原通州区某镇财政所出纳李某，利用职务便利挪用公款761万元用于个人股票交易活动。<br/><div class="contheight"></div>2017年4月，通州区监察委员会将李某留置，通州区检察院提前介入调查。2017年5月2日，通州区检察院受理区监委移送的李某挪用公款案，决定对该案进行审查；5月5日，决定对李某采取逮捕刑事强制措施并由公安机关执行；5月7日，对李某以涉嫌挪用公款罪向区法院提起公诉。区法院最终以挪用公款罪判处李某有期徒刑三年，缓刑五年。<br/><div class="contheight"></div>“该案系国家监察体制改革试点后，北京市首例监察委员会向检察机关移送的职务犯罪案件。”通州检察院审查逮捕部主任刘军伟表示，该院从实践中总结出“三审一移”工作法，提前介入监察机关调查工作，该办案模式在全市检察系统推广，为“北京经验”提供了生动的基层实践样本，保障了反腐败工作力度不改、节奏不变。<br/><div class="contheight"></div><strong>恶性犯罪明显下降，稳妥办理涉企案防机械执法</strong><br/><div class="contheight"></div>通报还显示，近五年来，通州区检察院办理的侵犯公民人身权、并造成严重后果的案件呈明显下降趋势，“公民安全感、幸福感明显提升”。<br/><div class="contheight"></div>“北京城市副中心建设进入新发展阶段，对通州区提出了全方位的新要求，也对检察工作提出了更新更高要求。”通州区检察院新闻办主任张永平说。<br/><div class="contheight"></div>为此，通州检察院发布了《关于进一步服务保障北京城市副中心建设实施意见》。《意见》特别指出，要强化对涉副中心建设发展的刑事诉讼监督。坚决纠正有案不立、有罪不究和量刑确有错误的案件，坚决打击刑讯逼供、虐待被监管人等违法犯罪行为，防止冤假错案，保障人权。<br/><div class="contheight"></div>《意见》强调，对于“涉副中心建设”的重大复杂案件，检察长、副检察长、检委会委员要带头办理，相关业务部门要及时分析、定期上报。<br/><div class="contheight"></div>与此同时，《意见》还要求开展营造良好营商环境专项工作。稳妥办理涉及企业案件，落实平等保护各种所有制经济的宪法法律原则，讲究办案方式方法，慎重选择办案时机、慎用强制性措施，依法维护企业合法权益。办理案件注意听取行业主管、监管部门意见，防止机械执法。准确把握法律政策界限，严格区分经济纠纷与经济犯罪、金融创新与金融犯罪、正当融资与非法集资、个人犯罪与企业违规、单位犯罪等的界限，营造良好营商环境。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：谭君<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 监委移送 无罪</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2606556">
+<div class="nbgbox">
+<a class="zan" contid="2606556" href="javascript:;" onclick="voteCont(this)" praisetimes="41">
+                           40</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 监委</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2606556&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2606556&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜破解“不闹没人管，一闹就软”：各层级都要主动担责</h1>
+<div class="news_about">
+<p>澎湃特约评论员 胡印斌</p>
+<p>
+							2018-07-11 12:22<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2251832" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜破解“不闹没人管，一闹就软”：各层级都要主动担责" src="//image2.thepaper.cn/image/8/763/947.jpg"/>
+</a>
+<div class="atlas_360_txt">半月谈：“不闹没人管，一闹就软”折射当下基层治理软肋<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">据微信公号“半月谈”近日消息，记者在采访中，时常听到基层干部自嘲患了“恐闹症”: 个别群众不顾法律和政策，遇事就闹，甚至催生出专业的“闹事团队”。然而，也有群众表示，有些“闹”是出于无奈，不闹问题就得不到重视和解决。 <br/><div class="contheight"></div>客观而言，基层干部反映的情况确实存在。但也要认识到，这并非问题的主流。对此，不能无视，也不必放大。这个看似死结的难题，折射出的是当下基层治理的软肋。<br/><div class="contheight"></div>首先要搞清楚的是，一些原本并不复杂的事为什么会闹大？老百姓果真是为了闹事而闹事吗？其实，记者的采访已经讲述得很清楚，正常渠道走不通，或者即便走了程序，往往也会石沉大海，无人理睬。久而久之，小问题就成了大毛病，甚至成为一种刺激民众情绪的积怨。这方面公开报道的个案很多，如于欢案等，不必一一例举。<br/><div class="contheight"></div>基层政府和官员并非没有努力，但他们中的一些人，确实没有真正把畅通诉求表达渠道、处理解决民众意见当回事。很多人的眼睛总是盯着上面，而不是下边。这种取向在导致民意诉求无人搭理的同时，也加剧了社会的对立情绪。 <br/><div class="contheight"></div>老百姓更关注家常日用、世俗生活，本意其实也是在寻求解决之道。只是，在目前的基层治理格局下，很多时候，只有让事件进入官员视野，才有可能获得解决。一旦闹大了，事件就会被上面的领导看见，而眼睛盯着上面的基层官员就不能不解决问题。<br/><div class="contheight"></div>社会生活纷纭复杂，问题和矛盾多，处理起来也很棘手，但有问题不可怕，只要及时介入、协商解决、公平处理，往往也就可以了，这本身也是社会的常态，怕就怕一拖再拖，公权力一味闪避，不作为、慢作为甚至乱作为，从而导致矛盾在积累中激化。 <br/><div class="contheight"></div>“不闹没人管，一闹就软”，这样的困局并非完全不能破解。一方面，要充分发挥现有的民意表达机制，让老百姓的诉求都能依法顺畅表达，并及时获得回应。每一个层级都切实负起相应的责任来，要有首问责任制，该哪一级的责任一定要有担当，不要动不动就把问题上交。要知道，很多问题只要一开始就积极主动的介入，并不会发酵成为大问题。 <br/><div class="contheight"></div>另一方面，持续纠偏，彻底清除由来已久的“唯上”导向。官员要眼睛向下，多往老百姓中间跑。不要总是想着“攀高枝”、欺下瞒上。要把西装换成工装，把耽搁在办公室的功夫匀一些给田间地头、工厂社区，接地气的时候多了，对基层民众的真实情形也就有了更多了解，相应的就会减少政策下行的抵触。 <br/><div class="contheight"></div>此外，对于老百姓正常的表达也要多一些包容。让工作运行在良性互动中，实现最优选择，而不是有事就“捂”住。政府治理现代化并不是层层下任务、确保不出事，也不是面对棘手问题时热衷“灭火”，而是在法律的框架内充分表达、合理解决，是在尊重民意、双向交流中形成共识。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 基层治理</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2255601">
+<div class="nbgbox">
+<a class="zan" contid="2255601" href="javascript:;" onclick="voteCont(this)" praisetimes="77">
+                           76</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 基层治理</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2255601&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2255601&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（91）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

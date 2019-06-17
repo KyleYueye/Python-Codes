@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">中央扫黑除恶督导组进驻山东11天，125名涉黑恶人员自首</h1>
+<div class="news_about">
+<p>齐鲁网</p>
+<p>
+							2018-09-11 21:29<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">9月11日，山东省政府新闻办公室举行“扫黑除恶专项斗争”新闻发布会，邀请省公安厅负责同志等介绍全省公安机关近期扫 黑除恶专项斗争有关情况。记者从发布会上了解到，中央督导组8月30日进驻山东省以来，11天时间全省查结线索144条，新增涉黑案件5起、恶势力犯罪集团案件19起、涉恶类共同犯罪案件186起，破获刑事案件1228起，移送起诉涉黑恶团伙案件36起，提请批捕322人，查处涉案资产2.7亿元，125名涉黑涉恶人员投案自首。扫黑除恶专项斗争开展以来，山东省已累计侦办涉黑案件46起、恶势力犯罪集团案件238起；侦办涉恶共同犯罪案件2099起，破获各类刑事案件6311起，查处涉案资产16.5亿元，1078名涉黑涉恶人员投案自首，整体战果居全国前列。<br/><div class="contheight"></div><strong>群众举报黑恶犯罪热情空前高涨</strong><br/><div class="contheight"></div><strong>省公安厅举报中心平均每天接听举报电话110余次</strong><br/><div class="contheight"></div>充当“主力军”，勇于打头阵。全省公安机关牢固树立“四个意识”，践行“两个维护”，把扫黑除恶专项斗争作为当前的中心工作来抓。各级公安机关坚决落实“三个一律”“局长盯案”等制度要求，“一把手”担任专案组长，直接靠案指挥，推动案件侦办，进一步巩固上下齐心、全警全力的攻坚态势。在前期部署开展“铁拳”“金剑”集中行动基础上，9月6日，副省长、公安厅长孙立成同志在全省公安机关做出部署，迅速打响扫黑除恶专项斗争“山东战役”，准确把握“前卫师”“先锋团”“尖刀连”的职能定位，向黑恶犯罪发起新一轮凌厉攻势，实现“集中查结一批涉黑恶线索，集中抓获一批涉黑恶违法犯罪分子，集中侦破一批涉黑恶案件，集中提请批捕一批涉黑恶犯罪分子，集中移诉一批涉黑恶案件”的目标。强力推进省公安厅领导包片督导机制，认真落实重点案件全程督办要求，全力督导各地公安机关加大线索排查和案件侦办力度，全面增强专项斗争实效。创新方式方法，综合运用各类媒体工具，广泛宣传党委、政府和公安机关扫黑除恶的鲜明态度和斗争成效。广大人民群众积极参与，举报黑恶犯罪的热情空前高涨。目前，省公安厅举报中心平均每天接听举报电话110余次，收到举报信件20余封。<br/><div class="contheight"></div><strong>严格落实线索核查“三长负责制”<br/><div class="contheight"></div>每份线索核查报告都经过公安局长、分管局长和刑警队长共同签字上报</strong><br/><div class="contheight"></div>全面“过筛子”，全力查线索。全省公安机关广辟线索渠道来源，严格筛查各类线索，不断提升战果转化率。建立健全多警种、多渠道、常态化的线索摸排机制，聚焦重点行业、领域、部位，不间断地开展“地毯式”“拉网式”“滚动式”摸排，瞄准涉黑恶常见案件、信访案件和110警情，常态化开展分析研判、比对碰撞，确定一批重点人员，侦办一批重点案件。省、市、县三级公安机关全部成立线索核查工作专班，建立线索快速核查机制，对群众举报线索立接立查，事不过夜，做到快处理、快核查、快回复，确保所有线索按期“清零”。严格落实线索核查“三长负责制”，每一份线索核查报告都要经过公安局长、分管局长和刑警队长共同签字上报，确保查实有结果、查否有依据，确保每条线索结论都经得起检验。近日，烟台市公安机关根据省厅扫黑办重点线索，打掉以村主任汪某彬为首，利用滋扰纠缠、撒泼耍赖等软暴力方式非法把持集体事务的涉黑恶犯罪团伙，抓获犯罪嫌疑人13名，破获案件13起。<br/><div class="contheight"></div>（原题为《中央扫黑除恶督导组进驻山东11天 125名涉黑涉恶人员自首》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：马世鹏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 山东 扫黑除恶</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2430795">
+<div class="nbgbox">
+<a class="zan" contid="2430795" href="javascript:;" onclick="voteCont(this)" praisetimes="167">
+                           166</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 扫黑除恶</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2430795&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2430795&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

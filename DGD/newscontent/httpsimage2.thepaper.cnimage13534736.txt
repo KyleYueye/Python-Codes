@@ -1,0 +1,80 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25464">澎湃质量报告</a>
+</div>
+<h1 class="news_title">“丁香医生”：收到权健律师函，已准备走司法程序 </h1>
+<div class="news_about">
+<p>张旭/中新网</p>
+<p>
+							2018-12-26 20:49<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网客户端北京12月26日电 近日，“丁香医生”一篇名为《百亿保健帝国权健，和它阴影下的中国家庭》的文章刷屏朋友圈。<br/><div class="contheight"></div>文中提到一名女童周洋，曾在北京儿童医院治疗，在经历几次痛苦的手术后，肿瘤标志物一度接近正常水平，北京儿童医院建议其继续化疗。但听信权健公司销售人员的家长不忍让女儿受苦，让其吃了两个多月权健公司的“抗癌产品”，周洋病情恶化最终死亡，权健却对外宣称其已重获新生。<br/><div class="contheight"></div>权健公司在12月26日凌晨发布《严正声明》称，丁香医生“对权健进行诽谤中伤，严重侵犯权健合法权益，致使社会大众对权健品牌造成曲解。”权健公司还表示，其从未官方宣传治愈女童的相关消息，并要求该自媒体所在公司撤销该文章并刊登道歉声明。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="798" src="http://image.thepaper.cn/www/image/13/534/733.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">权健律师函 丁香医生供图<br/><div class="contheight"></div></span><strong>对此，丁香医生向中新网表示，已收到权健公司发出的律师函，准备走司法程序。“我们已经说了，对内容的每一个字负责，不会删稿。”</strong><br/><div class="contheight"></div>丁香医生还回应外界质疑时表示：“健康所系，性命相托。这篇文章绝对没有任何利益相关。”<br/><div class="contheight"></div>丁香医生工作人员向记者介绍，之所以决定做权健的选题，是因为有大量读者在后台询问权健火疗和其他相关产品是否有效。一位急诊科医生朋友表示曾接诊过火疗烧伤的病人，烧伤触目惊心，这引起了丁香医生方面的注意。<br/><div class="contheight"></div>丁香医生称，调查持续约两个月，先后参与了权健销售团队在天津两天一夜的培训，搜集到了周洋家人和医生的证言，以及10多位外科、急诊科、骨科、消化内科医生以及营养师咨询对于权健产品和火疗的看法，研究了涉及权健火疗、传销和经销商纷争的20多份司法判决书，获得多起重点官司当事人律师的说法。<br/><div class="contheight"></div>根据媒体报道，12月26日下午，天津市武清区市场监管局表示，正在核实文章中反映的情况。<br/><div class="contheight"></div>26日，市场监管总局发布关于进一步加强保健食品生产经营企业电话营销行为管理的公告指出，保健食品经营者以电话形式进行保健食品营销和宣传时，应当真实、合法，不得作虚假或者误导性宣传；不得明示或暗示保健食品具有疾病预防或治疗功能等。<br/><div class="contheight"></div>（原题为《丁香医生收到权健律师函 已准备走司法程序》）</div>
+<div class="go_to_topic">
+<p style="line-height: 20px; margin-bottom:5px">
+<img alt="" src="//file.thepaper.cn/www/v3/img/topic.gif" style="float:left">
+<a href="newsDetail_forward_64937" target="_blank">
+<span class="news_topic">
+                              【专题】专题｜权健帝国漩涡</span>
+</a>
+</img></p></div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：崔烜<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 权健 丁香医生</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2778113">
+<div class="nbgbox">
+<a class="zan" contid="2778113" href="javascript:;" onclick="voteCont(this)" praisetimes="1668">
+                           1667</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 权健集团</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2778113&caid=25464",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2778113&amp;caid=25464" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（2k）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

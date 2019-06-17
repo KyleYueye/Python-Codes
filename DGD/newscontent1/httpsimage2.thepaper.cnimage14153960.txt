@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">加媒：加拿大再次探视在华被拘加前外交官康明凯</h1>
+<div class="news_about">
+<p>左甜/环球网</p>
+<p>
+							2019-01-11 08:30<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">环球网消息，加拿大《环球邮报》1月10日消息称，加拿大驻华领事馆官员当天再次探视了去年底被中方拘押的加拿大前外交官康明凯。去年12月10日，康明凯因涉嫌从事危害中国国家安全的活动而被依法审查。12月14日，加拿大驻华大使麦家廉首次探视康明凯。<br/><div class="contheight"></div>报道引述加拿大外交部声明称，“今天(10日)，加拿大驻华领事馆官员探视康明凯。加拿大领事馆官员将继续为他和他的家人提供领事服务，并将继续寻求再次探望康明凯先生。由于隐私法的规定，没有更多信息可以披露。“<br/><div class="contheight"></div>另据此前报道，加拿大驻华领事馆官员8日也对被中方拘押的另一位加拿大公民迈克尔·斯帕弗进行了第二次探视。<br/><div class="contheight"></div>针对加拿大公民在中国被依法采取强制措施，最高人民检察院检察长、首席大检察官张军3日表示，按照中国法律，他们处在被调查阶段。毫无疑问，他们在中国违反了我国的法律规定，现在接受调查是符合程序的，相信会按照程序向前推进。<br/><div class="contheight"></div>外交部发言人也曾多次回应此事件。陆慷1月3日在回答记者提问时表示，我想你应该记得，我们曾经在这里介绍过，你所提到的这两名加拿大公民是因涉嫌从事危害中国国家安全的活动而被依法审查。有关审查正在进行当中，当然不便透露更多具体情况。<br/><div class="contheight"></div>（原题为《加媒：加拿大再次探视在华被拘加前外交官康明凯》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 康明凯,加拿大</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2840220">
+<div class="nbgbox">
+<a class="zan" contid="2840220" href="javascript:;" onclick="voteCont(this)" praisetimes="55">
+                           54</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 康明凯</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2840220&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2840220&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜“来份大西洋鲑，不要三文鱼”，别让这一幕成真</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-08-17 14:06<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">三文鱼是什么鱼？这个曾经不是问题的问题，现在成了莫大的问题。发生于三文鱼身上的剧情，越来越魔幻。<br/><div class="contheight"></div>人们通常理解的三文鱼，学名叫大西洋鲑。大西洋鲑的原始栖息地为大西洋北部，每年会洄游到欧洲沿岸的河流里产卵，洄游时会奋力跃上瀑布，因此用“Salmon”称呼这类鱼。Salmon”的拉丁词源是“salire”，即奋力跃起的意思。三文鱼的中文名称，来自于粤语对“Salmon”一词的音译。<br/><div class="contheight"></div>但这都是过去的事了。8月10日，中国水产流通与加工协会牵头的《生食三文鱼》团体标准正式发布。该团体标准在术语定义中将“虹鳟”归为“三文鱼(salmon)”。而虹鳟与三文鱼之争，今年5月份已爆发，《生食三文鱼》团体标准是单方面为这场争论画上句号。<br/><div class="contheight"></div>从舆论反响看，这份团体标准引发嘘声一片，还是自说自话。但从某种意义上来说，强势的虹鳟已经赢了。<br/><div class="contheight"></div>据业内人士透露，争论爆发后，全国大西洋鲑市场暴跌，“大量一级进口商一批以及二批的三文鱼烂在手上，大众对整个消费体系的三文鱼都产生了恐慌。”<br/><div class="contheight"></div>为了自保，进口三文鱼未来的称谓或将改变。圈子里流行一个新说法，“未来大家都卖三文鱼的时候，我们就再也不会说三文鱼了。我们会说我们卖的都是海产的大西洋鲑。”<br/><div class="contheight"></div>有网友评论：“点餐，来份海产大西洋鲑刺身，不要三文鱼”。现在这还是段子，但就怕过不了多久，段子就成了现实。<br/><div class="contheight"></div>这让我想起《西游记》里的真假美猴王之争，以及《水浒传》里的李逵遇李鬼，发觉古人的想象力还是太局限。<br/><div class="contheight"></div>六耳猕猴再厉害一点，完全可以逼得孙悟空放弃美猴王的称呼，改名“出身东胜神洲傲来国花果山水帘洞的那只石猴”。李鬼再找几个帮手，就可以联名发布一份《绿林人士名号使用》团体标准，宣告“黑旋风李逵”是李姓好汉的统称，包括李逵、李鬼、李魁、李奎等。<br/><div class="contheight"></div>孔子说：“名不正则言不顺，言不顺则事不成”。协会牵头发布的团体标准固然没有强制力，只能被“自愿采用”，但势必给市场造成更大的混乱，给消费者带来持久的困扰。再加上寄生虫的问题，消费者的身体健康都受到了威胁。<br/><div class="contheight"></div>根据记者查证，《生食三文鱼》团体标准所谓“参考欧洲国家提法”并不属实，其引用的文件不支持虹鳟归入三文鱼。美国食品药品监督管理局（Food and Drug Administration）明文规定，虹鳟在食品包装上不得标注为鲑鱼（Salmon）。<br/><div class="contheight"></div>“虹鳟也是三文鱼”的说法已被各方驳斥地体无完肤，但利益相关方仍然死不松口，只能解释为“你叫不醒装睡的人”。这是一个很坏的先例，假如将来哪个产品卖的不好，就拉来一个卖得好的远亲捆绑，市场秩序将多么混乱。因此职能部门应该尽快出面回应，平息纷争。<audio controls="controls" style="display: none;"></audio></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 国产三文鱼 大西洋鲑</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2356240">
+<div class="nbgbox">
+<a class="zan" contid="2356240" href="javascript:;" onclick="voteCont(this)" praisetimes="358">
+                           357</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国产三文鱼</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2356240&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2356240&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（144）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

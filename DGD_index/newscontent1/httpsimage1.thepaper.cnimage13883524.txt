@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">加媒：加拿大一议员团6日将启程访华，前往上海、深圳、香港</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-04 13:04<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">加拿大官员透露，一个此前计划的国会议员赴中国的参访团将在本周末如期启程。<br/><div class="contheight"></div>据加拿大《环球邮报》4日报道，此次访问由加中立法协会( Canada-China Legislative Association)主办，参访团将于1月6日至12日到中国上海、深圳和香港进行访问。访问团成员包括加拿大联邦参议员胡子修（Victor Oh）丶约瑟夫•戴(Joseph Day)和众议员谭耕丶迈克尔•库柏(Michael Cooper)丶马万里(Majid Jowhari )丶阿利亚(Chandra Arya)等人。<br/><div class="contheight"></div>加中立法协会(CCLA, Canada-China Legislative Association)成立于1998年，是一个旨在为中加两国提供一个讨论双边和多边所面临挑战的无党派平台。通过两国立法机构成员的相互交流以增进和加强两国间的关系。目前此次访问的细节仍不清楚。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中加关系</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2812225">
+<div class="nbgbox">
+<a class="zan" contid="2812225" href="javascript:;" onclick="voteCont(this)" praisetimes="9">
+                           8</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中加关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2812225&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2812225&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

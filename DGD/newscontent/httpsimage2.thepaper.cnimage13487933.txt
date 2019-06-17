@@ -1,0 +1,77 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">安徽省监委留置“第一案”宣判，被告人苏从勇获刑6年</h1>
+<div class="news_about">
+<p>@安徽日报</p>
+<p>
+							2018-12-25 15:28<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="610" src="http://image.thepaper.cn/www/image/13/487/931.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">微博@安徽日报 图<br/><div class="contheight"></div></span>@安徽日报 12月25日消息，今日上午，宣城市中级法院对马鞍山市委原常委、宣传部长苏从勇受贿案一审公开宣判，以受贿罪判处苏从勇有期徒刑6年，并处罚金50万元。法院审理查明，被告人苏从勇利用担任马鞍山市金家庄区区长、区委书记，马鞍山市政府副市长，马鞍山市委常委、政法委书记、宣传部部长等职务之便，在环保整治、征地拆迁、项目规划审批、群体性事件处置、工程项目招投标等方面为他人谋取利益，并利用职权和地位形成的便利条件，通过其他国家工作人员职务上的行为，为请托人谋取不正当利益，共非法收受财物折合人民币281.4万余元。鉴于苏从勇到案后主动交代办案机关尚未掌握的犯罪事实，退出全部违法所得，庭审中如实供述自己的罪行，法院依法对其从轻处罚。宣判后，苏从勇表示服从判决。该案是安徽省监委成立后办理的第一起省管干部留置案件。（本文原题为《安徽省监委留置“第一案”宣判，被告人苏从勇获刑6年》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2416639" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">被控受贿281万，安徽马鞍山市原市委宣传部长苏从勇受审</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2414219" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">马鞍山市委宣传部原部长苏从勇受审，检方指控22起受贿事实</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2263278" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">安徽马鞍山市委原常委、宣传部部长苏从勇违纪违法被双开</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 安徽反腐</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772703">
+<div class="nbgbox">
+<a class="zan" contid="2772703" href="javascript:;" onclick="voteCont(this)" praisetimes="9">
+                           8</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 安徽反腐</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772703&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772703&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

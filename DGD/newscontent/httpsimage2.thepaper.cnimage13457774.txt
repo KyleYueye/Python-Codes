@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">我国力争3到5年实现全国中小学影视教育基本普及</h1>
+<div class="news_about">
+<p>施雨岑/新华社</p>
+<p>
+							2018-12-24 16:57<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京12月24日消息，为充分发挥优秀影片在促进中小学生德智体美劳全面发展中的重要作用，教育部、中共中央宣传部近日发布关于加强中小学影视教育的指导意见，提出力争用3到5年时间，实现全国中小学影视教育基本普及。<br/><div class="contheight"></div>指导意见明确，力争用3到5年时间，全国中小学影视教育基本普及，形式多样、资源丰富、常态开展的中小学影视教育工作机制基本建立，中小学生影视教育活动时间得到切实落实，适合中小学生观看的优秀影片得到充分保障，学校、青少年校外活动场所和社会观影资源得到有效利用，形成中小学影视教育的浓厚氛围。<br/><div class="contheight"></div>指导意见提出，各地教育行政部门要会同宣传部门加强对中小学影视教育工作指导，把影视教育作为中小学德育、美育等工作的重要内容，纳入学校教育教学计划，与学科教学内容有机融合，与校内外活动统筹考虑，灵活安排观影时间和方式，使观看优秀影片成为每名中小学生的必修内容，保障每名中小学生每学期至少免费观看两次优秀影片。<br/><div class="contheight"></div>同时，针对农村学生和残疾儿童少年，指导意见强调，各地要组织农村放映队深入农村中小学校进行电影放映，实现农村学生免费观影活动全覆盖；要组织开展特种电影公益放映活动，让盲、聋等残疾儿童少年与健全孩子一样，感受优秀影片魅力。<br/><div class="contheight"></div>（原标题《我国力争3到5年实现全国中小学影视教育基本普及》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中小学影视教育</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2769151">
+<div class="nbgbox">
+<a class="zan" contid="2769151" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中小学影视教育</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2769151&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2769151&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

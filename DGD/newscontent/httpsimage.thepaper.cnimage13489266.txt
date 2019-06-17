@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">广州市河长办公布河长履职情况，3名履职较差河长被严批</h1>
+<div class="news_about">
+<p>郑澍 赵雪峰/央广网</p>
+<p>
+							2018-12-25 16:14<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">央广网广州12月25日消息 广州市河长办24日公布最新一期的全市河长履职情况，其中花都区狮岭镇镇党委委员、镇（街）级河长黄敏贤，海珠区南洲街道沥滘经联社书记、村（居）级河长卫锦鹏，增城区增江街道光辉村书记、村（居）级河长赖来建分别存在虚假巡河、应付式打卡式巡河、巡河达标率低、没有开展四个查清，没有上报河道问题。为此，广州市河长办对个别基层河长履职较差的区提出严厉批评，并要求相关区对水环境治理工作中履职不力的相关人员追究其责任。<br/><div class="contheight"></div>广州市河长办每半个多月发布一期河长管理简报，对全市河长的履职情况进行统计和评价，以督促各级河长认真履职。简报对187条河涌的镇街级河长和村居级河长履职情况进行评分，公布分数最高的十名和最低的后十名河长名单。<br/><div class="contheight"></div>根据通报，2018年11月12日至2018年12月2日期间，全市各区镇（街）级河长有效巡河达标情况基本良好，其中荔湾区（81.33%）、从化区（85.67%）、增城区（93.67%）有效巡河达标情况滞后。村（居）级河长巡河达标情况基本良好，其中黄埔区（77.95%）、番禺区（85.10%）、白云区（86.71%）有效巡河达标率全市最低。但全市镇街、村居级河长上报问题情况也不乐观，其中村（居）级河长近两周平均巡河上报问题率（上报问题人数占巡河人数比率）为27% ，镇（街）级河长近两周平均巡河上报问题率为34%，表面上都有巡河，但实际上报问题河长寥寥无几，形式巡河表现突出。基层河长履职意识差的情况仍然存在，整体情况虽有所好转，但镇（街）级河长相对于村（居）级河长情况较严重，如增城、从化、白云、番禺、南沙。<br/><div class="contheight"></div>此外，11月19日至12月2日，全市村（居）级河长“四个查清”完成率缓慢上升，为20.43%，大部分河长未能按要求完成内容巡河工作，其中越秀区提升较明显，完成率达到100%；南沙区（4.65%）、从化区（4.80%）、花都区（8.33%）、黄埔区（9.52%）、白云区（10.00%）四个查清完成情况较差。特别是南沙区，没有明显改善，而且有下降趋势。2017年9月9日至2018年12月2日，河长APP问题各区办结率达到89.89%，其中白云区（83.41%）、番禺区（84.71%）、海珠区（84.79%）办结情况滞后。11月15日至11月30日，市河长办抽查了全市区、镇（街）、村（居）级河长电话接听情况共388人次，共有6位村居级河长未接听电话。其中南沙区和花都区接听率（94.44%），增城区、从化区、番禺区、天河区接听率（97.22%），其余各区接听率则是（100%）。<br/><div class="contheight"></div>同时，本期公布了187条河涌镇（街）、村（居）级河长履职评价前十名和后十名。此外，本期简报还公布3位履职差的河长具体情况，本期被“曝光”的3位履职较差河长分别是花都区狮岭镇镇党委委员、镇（街）级河长黄敏贤，海珠区南洲街道沥滘经联社书记、村（居）级河长卫锦鹏，增城区增江街道光辉村书记、村（居）级河长赖来建。这3位河长都存在巡河时间不达标，没有上报问题，虚假巡河、应付式打卡式巡河等问题。<br/><div class="contheight"></div>广州市河长办对个别河长履职较差的区提出严厉批评，并要求各相关区认真调查核实相关职能部门和基层河长履职情况，依照《广州市水环境治理责任追究工作意见》和《关于强化河长责任打赢黑臭水体剿灭战的意见》，对在水环境治理工作中履职不力的相关人员追究其责任。<br/><div class="contheight"></div>（原题为《广州市河长办公布最新河长履职情况 对履职不力相关人员提出严厉批评》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：崔烜<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 河长 广州</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772897">
+<div class="nbgbox">
+<a class="zan" contid="2772897" href="javascript:;" onclick="voteCont(this)" praisetimes="14">
+                           13</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 河长制</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772897&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772897&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

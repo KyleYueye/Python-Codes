@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">北京网信办深入推进自媒体账号专项治理，关闭11万个账号</h1>
+<div class="news_about">
+<p>“网信北京”微信公号</p>
+<p>
+							2018-12-25 20:22<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“网信北京”微信公号12月25日消息，按照国家互联网信息办公室有关自媒体账号清理整治专项行动部署，北京市网信办积极指导属地微博、新浪、搜狐、网易、凤凰、腾讯、百度、今日头条、一点资讯、知乎等自媒体平台切实履行主体责任，强化依法依规办网，通过提升自媒体账号开办门槛、加大违规内容和账号处置力度、完善内部内容审核管理机制、加快投诉举报处置效率、及时公示违法违规账号等方式，全面加强自媒体账号管理工作，有效清朗网络空间。截至12月18日，各平台共删除各类违法违规自媒体信息49.6万篇，关闭违法违规自媒体账号11万个。<br/><div class="contheight"></div>同时，北京市网信办针对自媒体账号集中存在的“曲解政策 违背正确导向”“无中生有 散布虚假信息”“颠倒是非 歪曲党史国史”“格调低俗 突破道德底线”“惊悚诱导 标题党现象泛滥”“抄袭盗图 版权意识淡薄”“炫富享乐 宣扬扭曲价值观”“题无禁区 挑战公序良俗”等八大乱象进行了重点整治。<br/><div class="contheight"></div>（原题为《北京市网信办深入推进自媒体账号专项治理 依法关闭11万个违法违规账号》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 自媒体</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2774293">
+<div class="nbgbox">
+<a class="zan" contid="2774293" href="javascript:;" onclick="voteCont(this)" praisetimes="1198">
+                           1197</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 自媒体</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2774293&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2774293&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（235）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

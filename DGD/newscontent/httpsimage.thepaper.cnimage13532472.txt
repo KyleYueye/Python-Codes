@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25463">港台来信</a>
+</div>
+<h1 class="news_title">越南旅客赴台逃脱数暴增14倍，今年一年逃了500人</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2018-12-26 19:56<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/532/445.jpg" width="100%"/></div><span style="color: rgb(128, 128, 128);">越南团客走出饭店大门<br/><div class="contheight"></div></span>海外网12月26日报道，昨日（25日），台“观光局”证实，153人的越南旅行团有152人逃脱。今日（26日）台媒报道称，台当局官方数据显示，对比起去年，2018年在台逃脱的越南籍旅客暴增14倍，加上新近逃脱的152人，一年共逃脱了500个。<br/><div class="contheight"></div>综合台媒报道，台“观光局”25日证实，153人的越南旅行团分别于21日、23日入境高雄，其中152人失踪逃脱。台“观光局国际组组长”郑瑛惠将此事形容为“史上最大型的脱团事件”。台“观光局”也发声承认“事态严重”。消息一出，台媒纷纷以“新南向漏洞”“新南向出包”等标题进行报道。台湾“国际观光救援服务协会理事长”许高庆25日在社交平台指出，“东南亚赴台旅客，经常传出无故滞台或脱团，违法在台打工或是卖淫，甚至犯法影响治安，困扰旅游业者及相关主管单位。”<br/><div class="contheight"></div>台外事部门为实施所谓“新南向”政策，针对东南亚国家优质团体旅客提供赴台观光签证便捷措施，即“观宏项目”，越南民众可通过“观光局”指定旅行社团体旅游或企业赞助之奖励旅游团（5人以上）申请电子签证赴台。<br/><div class="contheight"></div>据台湾“中时电子报”26日报道，据台“观光局”统计，“观宏项目”自2015年上路后，16年逃脱的越南籍旅客为29人，2017年是32人。然而2018年，逃脱的越南籍旅客却陡然暴增。截止至2018年11月，逃脱的越南籍旅客为348人，加上这次逃脱的152人，2018年共有500名越南籍旅客在台逃脱，对比起2017年，暴增了14倍。<br/><div class="contheight"></div>而且从国别上来看，越南籍旅客在台逃脱数量也是常年高居各东南亚国家榜首。自台当局“观宏项目”出台后，柬埔寨也有旅客在台逃脱的案例，不过三年来逃脱的人数不超过5人。<br/><div class="contheight"></div>面对暴涨的数字，台“观光局长”周永晖却表示，该案是个案，因此对个案的组团社采取停止受理申请案件。<br/><div class="contheight"></div>台“观光局”对相关细节的说明也让人深深怀疑他们的业务能力。案件中，接待这些越南旅行团的东森旅行社原本说153名旅客只买单程机票，后来又改口称，有回程机票纪录。外界质疑为何“观光局”审查连有没有回程机票都搞不清楚？台媒不禁调侃台“观光局局长”是“一问三不知”。<br/><div class="contheight"></div>对此，台当局“观光局”开脱称，他们负责“观宏项目”文件初审，很少有旅客会在还没拿到签证时，就买好来回机票，因此“观光局”不会看到回程机票，一般也不会去检视这一部分。<br/><div class="contheight"></div>不少岛内网友在留言区感叹“蔡英文当局为了凑观光人头数，害死了台湾”。<br/><div class="contheight"></div>（原题为《越南旅客赴台逃脱数暴增14倍 一年逃了500个》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2773955" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">台媒：153人越南旅行团赴台旅游，152人失踪脱逃</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 越南旅客,赴台,逃脱</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2777807">
+<div class="nbgbox">
+<a class="zan" contid="2777807" href="javascript:;" onclick="voteCont(this)" praisetimes="17">
+                           16</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 赴台游</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2777807&caid=25463",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2777807&amp;caid=25463" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

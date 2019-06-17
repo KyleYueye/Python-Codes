@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25423">人事风向</a>
+</div>
+<h1 class="news_title">同一天内，山西10名县（市、区）委书记集中走马上任</h1>
+<div class="news_about">
+<p>微信公号“山西发布”</p>
+<p>
+							2019-01-10 18:31<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日，山西多地召开干部大会，多名县（市、区）委书记走马上任。<br/><div class="contheight"></div><strong>太原市尖草坪区召开全区干部大会</strong><br/><div class="contheight"></div>1月8日，太原市尖草坪区召开全区干部大会。会上宣布了山西省委、太原市委的决定：卢俊峰同志任太原市委委员，尖草坪区委书记。<br/><div class="contheight"></div><strong>古交召开全市干部大会</strong><br/><div class="contheight"></div>1月8日，古交召开全市干部大会，宣布山西省委、太原市委关于古交市委主要领导调整的决定：翟永清同志任太原市委委员、古交市委书记。<br/><div class="contheight"></div><strong>阳曲召开干部大会</strong><br/><div class="contheight"></div>1月8日，阳曲县召开干部大会。会上宣布山西省委、太原市委任免决定：裴耀军同志任阳曲县委书记。<br/><div class="contheight"></div><strong>大同市云冈区召开全区干部大会</strong><br/><div class="contheight"></div>1月8日，大同市云冈区干部大会召开，会上宣布山西省委、大同市委决定：苏智同志任中共大同市云冈区区委书记。<br/><div class="contheight"></div><strong>朔州市朔城区召开领导干部大会</strong><br/><div class="contheight"></div>1月8日，朔州朔城区召开全区领导干部大会，会上宣布山西省委、朔州市委关于朔城区委主要领导的任职决定：吴晓斌同志任朔城区委书记。<br/><div class="contheight"></div><strong>交城召开全县干部大会</strong><br/><div class="contheight"></div>1月8日，交城召开全县干部大会，会议宣布山西省委、吕梁市委关于交城县委主要负责同志职务调整的决定：张振明同志任交城县委委员、常委、书记。<br/><div class="contheight"></div><strong>昔阳召开全县领导干部大会</strong><br/><div class="contheight"></div>1月8日，昔阳县召开全县领导干部大会，会议宣布山西省委、晋中市委关于昔阳县委主要领导调整的决定：经省委研究决定，许利伟同志任晋中市委委员、昔阳县委书记。<br/><div class="contheight"></div><strong>寿阳召开全县领导干部大会</strong><br/><div class="contheight"></div>1月8日，寿阳县召开全县领导干部大会。会上宣布寿阳县委书记任命决定：经省委研究决定，任命杨隽同志为晋中市委委员、寿阳县委书记。<br/><div class="contheight"></div><strong>太谷召开领导干部大会</strong><br/><div class="contheight"></div>1月8日，太谷召开领导干部大会，宣布县委主要领导同志的变动：经省委研究决定，刘伟同志担任太谷县委书记。<br/><div class="contheight"></div><strong>闻喜召开全县干部大会</strong><br/><div class="contheight"></div>1月8日，闻喜召开全县干部大会，会上宣布了省委关于闻喜县委主要领导的调整任免决定：经省委批准，段慧刚同志任中共闻喜县委书记。<br/><div class="contheight"></div>（原标题为《 山西多名县（市、区）委书记走马上任》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：钟煜豪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 山西，山西官场</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837216">
+<div class="nbgbox">
+<a class="zan" contid="2837216" href="javascript:;" onclick="voteCont(this)" praisetimes="47">
+                           46</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 山西人事</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837216&caid=25423",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837216&amp;caid=25423" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

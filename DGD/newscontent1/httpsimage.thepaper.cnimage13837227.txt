@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">日企未执行法院赔偿判决，韩遭强征劳工申请扣押日企资产</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2019-01-03 09:28<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="339" src="http://image.thepaper.cn/www/image/13/837/235.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">当地时间2018年10月30日，韩国首尔，原韩国受害劳工在最高法院外集会抗议。 东方IC 资料</span><br/><div class="contheight"></div>日本殖民时期遭强征为劳工的4名韩国原告的律师团2日说，由于被告新日铁住金公司没有执行法院所作赔偿判决，原告方已经向韩国一家法院申请扣押日本这家最大钢铁联合企业在韩部分资产。<br/><div class="contheight"></div>律师团声明2018年12月31日向韩国大邱地方法院申请扣押新日铁住金与韩国浦项制铁公司合资企业中前者所占股份，大邱地方法院证实这一说法。<br/><div class="contheight"></div>新日铁住金拥有那家合资企业30%股份，市值大约983万美元。声明没有显示原告请求法院扣押新日铁住金公司所占股份的数量。<br/><div class="contheight"></div>日本共同社报道，原告方没有同时申请变卖日方资产，而是保留这项权利，为与被告方谈判留下空间。<br/><div class="contheight"></div>原告方律师团去年12月初通知新日铁住金，希望后者同月24日前依据法院先前裁决与原告商讨赔偿事宜，后者没有回应。<br/><div class="contheight"></div>原告方律师团2日在声明中说：“新日铁住金公司就法院裁决没有采取任何行动，我们非常担忧这种不真诚和不人道的态度。原告及其家人为他们的权利抗争了70多年。”<br/><div class="contheight"></div>这起诉讼中，4名原劳工中仅1人在世。<br/><div class="contheight"></div>韩国首尔高等法院2013年7月判决，新日铁住金曾把这4名韩国人强掳至日本的炼钢厂作苦力，应当向他们每人赔偿1亿韩元（约合8.8万美元）。新日铁住金次月上诉，以两国1965年签订《请求权协定》恢复邦交正常化为由，认定这类民间索赔问题“已经解决”。<br/><div class="contheight"></div>韩国大法院、即最高法院2018年10月30日作出裁定，维持首尔高等法院判决，同时认定两国1965年恢复邦交正常化时签署的双边协定没有终止公民索赔权利。新日铁住金当时回应，韩方裁定“令人极其遗憾”。<br/><div class="contheight"></div>路透社报道，如果韩方法院批准原告方扣押被告方资产的请求，可能进一步加剧韩日就日方强征韩国劳工的争议。<br/><div class="contheight"></div>日本1910年至1945年在朝鲜半岛施行殖民统治，强征大批劳工至日本做苦力。韩国大法院去年11月裁决日本三菱重工公司赔偿多名遭强征的韩国劳工。韩国《中央日报》援引一名律师的话报道，那起诉讼的韩方原告同样正考虑申请法院扣押被告方资产。<br/><div class="contheight"></div>（原文标题：《韩遭强征劳工申请扣押日企资产》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 韩国劳工</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2807149">
+<div class="nbgbox">
+<a class="zan" contid="2807149" href="javascript:;" onclick="voteCont(this)" praisetimes="21">
+                           20</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 韩国劳工</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2807149&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2807149&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

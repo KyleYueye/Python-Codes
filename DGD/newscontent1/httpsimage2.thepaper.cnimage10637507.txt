@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜去广东救灾的车，在湖南高速就该收费吗？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 涂格</p>
+<p>
+							2018-09-20 16:44<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2459531" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">河南救援队广东救灾返程被卡，收费站：没在湖南救不能免费</span></a></img></p></div>
+<div class="news_txt" data-size="standard">据人民日报客户端报道,9月16日，河南洛阳神鹰救援队远赴广东阳春，参与台风“山竹”的抗洪救灾工作。结束返回时，在二广高速湖南段城头山收费站，被要求缴费。救援队出示了阳春市“三防”救灾指挥部的公文，仍因“救援地不是湖南省不能免费”被拒。滞留4小时（另有媒体称是6小时）后，救援队被迫缴费通过。<div style="text-align:center;"><img alt="" height="735" src="http://image.thepaper.cn/www/image/10/637/505.jpg" width="500"/></div><font color="#808080">救援队出示的阳春市“三防”救灾指挥部的公文  大河报·大河客户端 图</font><br/><div class="contheight"></div>台风“山竹”造成的破坏，全国人民都有感受。灾情当前，正是“一方有难、八方支援”的时候，神鹰救援队正是如此。阳春救灾指挥部的证明显示，该救援队累计“转移受灾群众400多人，给我市的抗洪救灾工作较大的帮助”。这么一支纯公益性质的救援队，却在救灾回程时，遭遇高速“拦路虎”，着实令人心寒。<br/><div class="contheight"></div>这样的情况并非首次出现。上个月，台风“温比亚”肆虐山东，造成潍坊等地水灾泛滥。一辆从山东减灾中心出发，前往青州的救援物资运输车辆，在高青收费站被拦住收费。司机向收费员出示了山东省减灾捐助办公室开具的“请予放行为盼”凭证，但仍遭拒绝，最终司机交了185元过路费。此事引发热议。 <br/><div class="contheight"></div>根据《收费公路管理条例》等规定，经国务院交通运输主管部门或者省、自治区、直辖市人民政府批准执行抢险救灾任务的车辆，在收费公路上通行时，应免交车辆通行费。如果一定要“咬文嚼字”，此次神鹰救援队手持的凭证，确实有“规格不够”的嫌疑。但阳春“三防”救灾指挥部作为救灾的官方直接指挥部门，其开具的证明是否也应该酌情考虑？实际上，除了广东本省，广西等地的高速收费站也都给予了免费放行，为何在湖南却被拦了下来？ <br/><div class="contheight"></div>没有任何法律或规定支持“因为不在湖南救援，所以不免费”的说法。否则，就无法解释广西等地的免费放行。对救灾车辆的免费，应该是贯穿路途全程的，岂能因救援地是本地还是外地而区别对待？ <br/><div class="contheight"></div>当然，将板子都打在收费员身上是不公平的，“没有接到领导通知”的情况下，收费员确实无权免费放行。更大的责任还在高速公路的管理者。广东出现灾情时，理应想到会有外地救援车辆路过湖南，就该提前做好预案，出台应急办法，保障救灾人员、物资高效低损耗地通过。这也是在为救灾出一份力。 <br/><div class="contheight"></div>英国诗人约翰·多恩说过“没有谁是一座孤岛”。任何人、任何地方、任何国家，总会遇到需要别人帮助的时候。一味追求利益，或“从严苛求”救灾人员，寻找各种借口推脱本应承担的公共义务，只能损人不利己。这个道理并不复杂。收费公路系统不知道什么时候才能听进去。</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 救援队高速被收费</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2460104">
+<div class="nbgbox">
+<a class="zan" contid="2460104" href="javascript:;" onclick="voteCont(this)" praisetimes="255">
+                           254</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 救援队</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2460104&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2460104&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（150）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

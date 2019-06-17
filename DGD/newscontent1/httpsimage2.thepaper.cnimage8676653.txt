@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜与离职同事吃饭就开除？对职场潜规则不能止于曝光</h1>
+<div class="news_about">
+<p>澎湃特约评论员 栗中西</p>
+<p>
+							2018-07-05 18:20<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">最近，杭州有两位企业员工，将和几名离职同事吃饭的照片发到朋友圈，被现任老板看见后，在微信群要求他俩递交辞呈。<br/><div class="contheight"></div>面对网友质疑，这名“霸道总裁”将自己的行为，用一套看似合理的逻辑包装后娓娓道来：“如果这两人留在公司里，按照我的理解，他们不会呆很久。另外一种角度考虑，会把负面能量带进公司，我不想两个人的负面能量带坏整个公司。”“出现这种情况，是对直接管理领导的对抗”。这位老板还把新闻链接发到公司群，称“恭喜我们公司上了头条”，并转发到朋友圈。 <br/><div class="contheight"></div>更神奇的是，这位老板其实非常具有“法律意识”。他思路清晰地告诉记者，宁愿出些赔偿，也没有时间让他们在公司慢慢拖延下去。所以根本用不着别人正襟危坐地给他解释：《劳动法》规定用人单位解除劳动合同必须符合《劳动合同法》第39、40、41条的规定，不符合上述条文的情形，用人单位不得解除。 <br/><div class="contheight"></div>只有中学文凭的老板无视《劳动法》，可以理解为底层奋斗者悟出来的朴素“管理之道”，倒是网友的淡定反应让人意外——这条新闻在各平台中点赞最高的评论都是“老板格局不大”，更像是一副在商言商、站在企业利益角度替老板“捉急”的态度。甚至，还有不少同情老板的声音表示，超过三名同事不能一起吃饭是职场“潜规则”，是为了杜绝职场小圈子文化。 <br/><div class="contheight"></div>必须承认，职场中确实存在一些复杂的“潜规则”，为的是保持某种生态平衡。但限制员工的私人交际，甚至在微信群“私设公堂”，一逾矩就被要求自动离职，赤裸裸无视员工的法律权益，就明显超出“潜规则”的限度了。更大的问题在于，身处职场，我们都有可能是这类粗暴管理的受害者，为何有人对“潜规则”的重视胜过对法律的信任，哪里出了错？ <br/><div class="contheight"></div>翻看法条，会发现法律对用人单位的解雇权限制不足，因而对劳动者的保护就少了。《劳动法》赋予劳资双方都有单方面解除劳动合同的权利，但实际中“资强劳弱”，法律这杆秤有必要适当地向劳动者这一方倾斜，这就是所谓的“解雇保护制度”。改革开放以来，我国从固定工制度向劳动合同制度转变，对用人单位的解雇限制开始出现在相关法律中，但实际效用却不太乐观。 <br/><div class="contheight"></div>具体说来，虽然有比较严苛的解雇条件，但是可有可无的解雇程序（提前一个月预告并通知工会，前者可以通过预付一个月薪水代替）和惩罚性质较弱的解雇救济条款，消解了解雇条件的苛刻性，也为用人单位提供了可以任性的“生杀大权”。特别是，工会对企业没有任何约束权，法律规定无过失解雇可以通过劳动仲裁要求“复职”，法院对此既无办法强制执行，也没有监督的实际能力。在遭到无过失解雇时，员工除了接受点有底线的“打发钱”，没有任何办法可想。并且越是基础性的工种，员工的这种弱势就越明显。<br/><div class="contheight"></div>此消彼长，法律保护的底气弱了，老板的气焰自然就涨起来了。所以，当网友边剔牙边摆出“甚矣汝之不惠”的通透脸时，那厢员工却还是陷于即使赢得了舆论同情也必须准备卷铺盖走人的困境。“自己在公司里也兢兢业业，而且这次什么也没做，无缘无故就被解聘。”奇葩老板不光是个笑谈，投诉者小李的这个“疙瘩”需引起重视，因为千千万万个“小李”能不能保住饭碗，关乎商业社会基石的稳固性。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 被离职</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2242210">
+<div class="nbgbox">
+<a class="zan" contid="2242210" href="javascript:;" onclick="voteCont(this)" praisetimes="40">
+                           39</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 违法解雇</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2242210&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2242210&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（75）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

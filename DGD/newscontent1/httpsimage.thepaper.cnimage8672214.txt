@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜每一桩假离婚背后都对应着相应的社会治理问题</h1>
+<div class="news_about">
+<p>澎湃特约评论员 任君</p>
+<p>
+							2018-07-05 15:46<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2240724" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜每一桩假离婚背后都对应着相应的社会治理问题" src="//image1.thepaper.cn/image/8/665/291.gif"/>
+</a>
+<div class="atlas_360_txt">户口异地父母“扎堆”离婚：石家庄“幼升小”政策执行引争议<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">据《中国青年报》报道，近日，石家庄一些教育主管部门和学校在执行“幼升小”政策时要求：父母和孩子3个人的户口必须在一处才能上片内学校，否则只能接受调剂。为了孩子能够在片内入学，一些夫妻二人中有一方户口没在片内的，只好去办了离婚手续。有家长说，等19号拿到孩子入学通知，就复婚。 <br/><div class="contheight"></div>为了能够让孩子就近上学，石家庄这些家长也是拼了。一般老百姓没办法逾越政策，更跨不过电脑派位，那就只好内部“挖潜”。离个婚、复个婚，不过是婚姻登记处多跑几趟，几分钟的事儿。 <br/><div class="contheight"></div>很多人都在质疑，既然文件上只写着“随父母”，那为什么下面区县的教育部门和学校擅自收紧政策，将“随父母”解读为“随父和母”？这里边是不是存在滥权行为？由此给老百姓带来的麻烦、给社会增加的成本，又该怎么算？<br/><div class="contheight"></div>尽管石家庄市教育局有关负责人表示，政策没有那么细，但同时也说了，义务教育招生以区县为主。也就是说，区县是承载学生入学的主体，但其所出台的“幼升小”政策，必然与上级教育部门会有一个沟通，会求得上级的支持和认可。要知道，文件中的“随父母”是指“父和母”还是“父或母”，差别实在太大了。 <br/><div class="contheight"></div>从官方角度看，问题的症结仍在于当地小学资源的合理配置。如果片内小学没有那么大的容量，无法兑现各级政府公开宣示的“就近入学”承诺；如果当地的优质小学少得可怜，仅有的几所无法满足各式各样蜂拥而来的学生，那么，教育局也好，学校也罢，恐怕只能从报名资格上设限想法。<br/><div class="contheight"></div>而对于假离婚的家长们而言，是辗转于各个学校之间、学校与登记处之间无助的悲哀。连婚姻这等一向被视为神圣的东西，都可以轻松作为一块“敲门砖”了。不要嘲笑那些为孩子离婚的家长，什么面子、里子，都不如孩子有学上要紧。<br/><div class="contheight"></div>这些年来，公众见多了形形色色的假离婚。为了买房，假离婚；为了拆迁，假离婚；为了上学，假离婚。这种行为确实对社会产生了不良影响，是对主流价值观的扰乱，但几乎每一桩假离婚背后，都对应着相应的社会治理问题。 <br/><div class="contheight"></div>也因此，石家庄不能无视这种现象，要从中查找根源，研究对策。要及时摸底，调查各片区适龄孩子的人数，配置相应的学位，尽可能地让孩子们实现就近入学，以缓解民众的入学焦虑。 <br/><div class="contheight"></div>关键还是要抓紧弥补学位缺口，均衡配置教育资源。要提供足够的小学学位，也要真正把提升教学质量当做一件大事、要事去抓。好的小学多了，情况自然改观，老百姓也不会动不动就走极端假离婚了。<br/><div class="contheight"></div>这些年来，石家庄屡次被评为“幸福城市”，但此次为了“幼升小”假离婚事件，足以成为当地人心头的痛。很难想象，一个家长为孩子“幼升小”假离婚的城市，会有多幸福？</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2241709">
+<div class="nbgbox">
+<a class="zan" contid="2241709" href="javascript:;" onclick="voteCont(this)" praisetimes="27">
+                           26</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 为上学假离婚</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2241709&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2241709&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

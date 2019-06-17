@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=42341">亚洲雄风</a>
+</div>
+<h1 class="news_title">中印关系怎么走？听听亚洲司长和印度新大使的“三句半”</h1>
+<div class="news_about">
+<p>亚洲雄风</p>
+<p>
+                            2019-01-10 20:29<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard">印度新任驻华大使唐勇胜到啦！自习近平主席和莫迪总理武汉非正式会晤后，中印关系全面升温。此时赴任，唐大使可谓肩负重任，人选自是百里挑一。阿亚从履历上看，这位大使不仅先后出任过印度驻西班牙、缅甸等国大使，还曾任三位印度总理的私人秘书！说是深得信任、委以重任也不为过。<br/><div class="contheight"></div>在印度新大使抵京履新的第二天，外交部亚洲司司长吴江浩就在橄榄厅会见了他。<br/><div class="contheight"></div>看惯了官方的消息稿，阿亚把司长和大使谈的内容整理成个“三句半”，抱走不谢。<br/><div class="contheight"></div><strong>吴江浩：</strong>欢迎唐大使来华履新，我愿为你在华履职提供支持和便利。<span style="color:#808080;">（第一句，欢迎你来！有事说话。）</span><br/><div class="contheight"></div>去年习近平主席同莫迪总理四度会晤，为两国关系注入强劲动力，推动中印关系呈现全方位发展态势。<span style="color:#808080;">（第二句，领导人经常见，两国关系好得很！）</span><br/><div class="contheight"></div>希望双方共同努力，落实好领导人重要共识，使中印关系不断取得新的发展成果。<span style="color:#808080;">（第三句，领导人共识要落实，撸起袖子加油干！）</span><br/><div class="contheight"></div><strong>唐勇胜：</strong>我对出任印度驻华大使深感荣幸，愿同中方保持密切沟通，推动印中关系持续向前发展。<span style="color:#808080;">（必须哒！）</span></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2837035">
+<div class="nbgbox ">
+<a class="zan" contid="2837035" href="javascript:;" onclick="voteCont(this)" praisetimes="23">
+                                    22</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

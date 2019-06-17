@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">栗战书：人大代表要树牢“四个意识”，做到“两个维护”</h1>
+<div class="news_about">
+<p>杨维汉/新华社</p>
+<p>
+							2018-12-26 11:38<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京12月26日消息，中共中央政治局常委、全国人大常委会委员长栗战书在12月24日召开的部分全国人大代表座谈会上强调，人大代表要树牢“四个意识”，做到“两个维护”，以担当精神、饱满热情、良好作风履行代表职责，不辜负党和人民的重托。<br/><div class="contheight"></div>中共中央政治局委员、全国人大常委会副委员长王晨主持座谈会。<br/><div class="contheight"></div>54位列席十三届全国人大常委会第七次会议的全国人大代表参加座谈。会上，代表们纷纷发言，围绕常委会一年来履职情况、需要加强和改进的工作、起草好全国人大常委会工作报告稿等提出意见和建议。<br/><div class="contheight"></div>在认真听取大家发言后，栗战书指出，今年是十三届全国人大及其常委会依法履职的第一年。在以习近平同志为核心的党中央坚强领导下，常委会深入学习贯彻习近平新时代中国特色社会主义思想和党的十九大精神，深入学习贯彻习近平总书记关于坚持和完善人民代表大会制度的重要思想，坚持党的领导、人民当家作主、依法治国有机统一，把人大工作紧紧扣在贯彻党中央重大决策部署上来，紧紧扣在回应人民群众重大关切上来，紧紧扣在厉行法治、推进全面依法治国上来，履职尽责、扎实工作，实现了本届工作的良好开局。全国人大代表积极参与常委会、专门委员会工作，提出许多好的意见建议，为做好新一届人大工作贡献了重要力量。<br/><div class="contheight"></div>栗战书指出，十三届全国人大二次会议的组织筹备工作已提上工作日程，希望代表们紧紧围绕党和国家工作大局，认真听取群众意见、呼声，结合自身工作实际和专业特长，在深入研究、反复论证的基础上提出高质量的议案和建议。要善于从政治上、大局上看待问题、分析问题，接地气、察民情、聚民智，审议好各项议案和报告，为圆满完成大会各项任务作贡献。要始终保持奋发有为的精神状态，求真务实、严谨细致，遵守会议纪律，发扬良好会风，时时处处发挥模范带头作用。有关工作机构要组织好代表集中视察、情况通报等活动，保证代表知情知政，为代表依法履职提供服务和保障。<br/><div class="contheight"></div>（原题为《栗战书在部分全国人大代表座谈会上强调 树牢“四个意识”　做到“两个维护” 依法履职尽责不辜负党和人民重托》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 栗战书,部分全国人大代表座谈会</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2775871">
+<div class="nbgbox">
+<a class="zan" contid="2775871" href="javascript:;" onclick="voteCont(this)" praisetimes="53">
+                           52</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 栗战书</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2775871&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2775871&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">我国机动车保有量达3.25亿辆，一次致死多人事故同比下降</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-02 08:38<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京12月1日电  截至第七个“全国交通安全日”前夕，全国机动车保有量达3.25亿辆，这是记者1日从公安部获悉的。<br/><div class="contheight"></div>随着我国经济社会持续快速发展，机动车保有量继续保持快速增长态势。据公安部统计，截至交通安全日前，全国机动车保有量达3.25亿辆，与2017年底相比增加1556万辆；机动车驾驶人达4.07亿人，与2017年底相比增加2236万人。<br/><div class="contheight"></div>同时私家车也增速加快。以个人名义登记的小型和微型载客汽车达1.87亿辆，每百户家庭私家车拥有量已超过40辆。从城市情况看，全国有61个城市的汽车保有量超过百万辆，26个城市超200万辆，8个城市超300万辆。<br/><div class="contheight"></div>而与机动车保有量快速上升相反的是，今年以来全国共发生一次死亡3人以上交通事故520起，同比下降24.2%；发生一次死亡5人以上交通事故95起，同比下降13.6%；发生一次死亡10人以上重大事故5起，同比下降44.4%。<br/><div class="contheight"></div>公安部相关负责人表示，这一升一降，说明在交通管理部门的积极努力下，我国道路交通安全形势基本平稳。但道路交通安全风险隐患仍需高度警惕。如近期甘肃、陕西等地接连发生恶性交通事故，充分表明道路交通安全风险隐患不容忽视。<br/><div class="contheight"></div>针对影响当前道路交通安全的突出风险和隐患，公安部于近期部署全国公安机关深入开展“百日安全行动”，专项打击整治假牌套牌假证、酒驾醉驾等严重交通违法行为，深入排查“两客一危一货”等重点企业、重点车辆和驾驶人安全隐患，集中组织排查长下坡、急弯、陡坡等重点危险路段、雾区路段，并联合出行服务、货运平台等科技应用公司加强提示警示，全力预防重特大交通事故。 （原标题《我国机动车保有量达3.25亿辆》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周喜丰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 机动车保有量 交通事故</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2696521">
+<div class="nbgbox">
+<a class="zan" contid="2696521" href="javascript:;" onclick="voteCont(this)" praisetimes="23">
+                           22</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 交通事故</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2696521&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2696521&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

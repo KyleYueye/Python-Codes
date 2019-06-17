@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25433">地产界</a>
+</div>
+<h1 class="news_title">衡阳发改委：开发商在明年元旦后可根据市场情况调整价格</h1>
+<div class="news_about">
+<p>澎湃新闻</p>
+<p>
+							2018-12-27 10:02<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">湖南省第二大城市、位于湖南南部的衡阳市12月26日发文称，由于本地房地产已回归理性，将自2019年元旦起暂停执行限价令。<br/><div class="contheight"></div>12月27日，衡阳市发展和改革委员会相关工作人员对澎湃新闻表示这意味着原来限价的文件到今年年底失效，已经对房源进行过备案的开发商在元旦后就可以根据市场情况调整价格，只需去政务中心办理手续即可。<br/><div class="contheight"></div>澎湃新闻拨打衡阳市住房和城乡建设局相关部门的联系电话，接通电话的工作人员表示，他理解是取消了一房一价的备案手续，但政府对房价还是会监管的。他同时表示，领导在开会，而他刚到这个部门不久，对文件的理解并不能作为官方权威解读。<br/><div class="contheight"></div>2017年10月17日，为规范衡阳市房地产市场，衡阳发布《关于规范市城区新z商品房销售价格行为的通知》。要求对市城区新建商品住房实施销售价格明码标价管理，开发商在预售商品房前必须到市价格主管部门办理明码标价监制手续。对于报价偏高或者涨幅偏高的房企，住建局将会暂停其预售许可申请，同时价格主管部门将对开发商进行约谈。与此同时，开发商必须在网上公示其申请预售的价格，不得擅自在实际销售中突破限价。<br/><div class="contheight"></div>根据衡阳市统计局数据，1-10月，全市固定资产投资增长8.8%，比1-9月回落1.8个百分点，年内首次跌落至个位数的增长区间。从投资方向看，基础设施投资降幅呈收窄趋势，比1-9月收窄2.4个百分点。高新技术产业投资增长22.6%，房地产开发投资增长54.4%，均远高于固定资产投资增速。<br/><div class="contheight"></div>在经济运行需要关注的问题上，衡阳市统计局称，从今年8月以来逐月累计投资增幅情况看，基本呈逐月下滑态势。1-10月全市固定资产投资增长8.8%，低于年初目标5.2个百分点，与1-8月、1-9月相比，分别回落4.6、1.8个百分点。从项目推进情况看，受宏观经济形势等多种因素影响，全市部分项目推进速度不理想，与年初计划目标存在差距，个别重大项目，由于拆（搬）迁、有关手续、阻工等多种原因，导致投资进度偏慢，年度计划目标难以完成。从项目到位资金情况看，1-10月，全市投资项目到位资金下降8.7 %，低于全部投资增速17.5个百分点。其中，国家预算资金下降16.5%，自筹资金下降11.9 %。社会和企业投资意愿不强，资金供应紧张，对投资发展后劲带来不利影响。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘畅<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 衡阳,取消限价</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2779286">
+<div class="nbgbox">
+<a class="zan" contid="2779286" href="javascript:;" onclick="voteCont(this)" praisetimes="42">
+                           41</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 楼市调控</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2779286&caid=25433",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2779286&amp;caid=25433" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

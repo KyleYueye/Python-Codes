@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜电话标记随意取消难，追责平台更要挖出黑色产业链</h1>
+<div class="news_about">
+<p>澎湃特约评论员 杨三喜</p>
+<p>
+							2018-12-18 18:57<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">贵州一市民在拨打当地公安机关举报电话时，发现号码在手机上被标记为诈骗电话。类似的是，广西与河南公安厅官宣的电话号码，武汉一血液中心献血热线，某地一社居委办公室电话，也被标记为“诈骗”或者“骚扰”。原来，这些号码都被手机App错误标记。<br/><div class="contheight"></div>对个人信息泄漏的普遍担心，使得手机安全软件应运而生。用户可以对来电分类标记，诸如“骚扰”“诈骗”“快递”“中介”“广告”等。下载了相同软件的用户，在接到被标记的电话时会被提醒。这实质上是一种通过信息共享来防骚扰、防诈骗的方式。只要标记信息真实准确，可以解决骚扰来电这一社会痛点，是值得肯定的。<br/><div class="contheight"></div>但问题恰就在于，标记的真实性非常低。因为提供服务的平台对标记很少有审核，谁都可以随意标记。一些平台开出免责声明，企图把本属于自身的核实责任转嫁给用户。这些都是导致乱象滋生的主要原因。由此造成的误导公众、损害公众利益、破坏职能部门形象等代价，却无形甩给了社会和当事人。<br/><div class="contheight"></div>奇葩的是，标记容易，取消却很难。用户首先要搞清楚标记来源，才能提出取消申请。但就算找到了源头，取消也不容易。比如，某手机管家软件提供的误标记申诉渠道，只有系统自动问答和提交文字申诉，无法转入人工客服。有用户申请提交了半年都无果。<br/><div class="contheight"></div>这一切都指向了一点：电话标记乱象背后，很有可能暗藏着一条黑色利益链。从标记到查询标记来源，再到取消标记，在某些人眼里，都是牟利的“生意”。记者调查发现，有专门的网站提供号码标记来源查询，收费19元。一些平台提供取消标记服务，同样要付费。媒体曾报道，湖南某女士的正常手机被标注为推销，与某平台交涉后，最终以80元取消标注。这就等于说，用户明明无任何过错，却不得不花钱“消灾”，怎一个郁闷了得？ <br/><div class="contheight"></div>在网上搜索“电话标记”，能找到许多取消标记的“秘笈”。这说明，防骚扰、诈骗的信息共享方式，已经给用户带来了侵扰，涉嫌对用户知情权、名誉权等的侵害。而平台要求用户“自行负责”，结果就是没人负责。<br/><div class="contheight"></div>要扭转乱象，首先要让平台履行信息服务的主体责任，加强审核，防止随意、恶意标记，避免滥用公众信任和公共资源，尤其要确保公共机构的电话号码不被随意、恶意标记。其次，要提高标记的门槛，如果只有少量被呼叫者给某个号码贴了标签，平台不宜立即显示该标记并对外公开，可以设定一个数值，被标记多少次之后才对外展示。同时，要畅通申诉渠道，避免误标记给机主带来的困扰。 <br/><div class="contheight"></div>当然，要精准区分何为骚扰、诈骗电话，意味着大量的人力、技术投入，不是电话标记平台能完全承受得了的，平台也没有足够的动力来做这件事。归根结底，出现电话标记的需求，根源在于个人信息泄漏泛滥。所以，还必须从根子上加强个人信息安全保护。当人们的信息不被随意挂在网上，电话标记才会失去需求。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 电话标记</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2750028">
+<div class="nbgbox">
+<a class="zan" contid="2750028" href="javascript:;" onclick="voteCont(this)" praisetimes="96">
+                           95</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 电话诈骗</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2750028&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2750028&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">韩国国防部：将与朝磋商拆除非军事区全部哨所</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2018-12-20 16:46<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新社首尔12月20日消息，韩国国防部20日公布2019年工作报告，称将和朝方继续磋商拆除非军事区内全部警备哨所，明年争取建立韩朝军事联合委员会等。<br/><div class="contheight"></div>当天，韩国国防部在其官网公布了报告部分内容。报告称，2019年韩国国防预算同比增加8.2%，达到约46.69万亿韩元。韩媒称，同比增幅创下历史新高。<br/><div class="contheight"></div>针对2019年韩朝军事合作，报告提出五个主要目标：<br/><div class="contheight"></div>第一，协商板门店共同警备区联合执勤方式，为实现韩朝民众、外国游客等自由出入进行准备。<br/><div class="contheight"></div>第二，将和朝方继续磋商拆除非军事区内所有警备哨所，并讨论拆除哨所后的监管方式等。<br/><div class="contheight"></div>今年10月，韩朝商定分别撤出非军事区内11个哨所的人员与装备。11月底，韩朝分别完成10个哨所的撤离和拆除工作，出于历史意义等方面考虑，双方各自保留一个哨所原址。<br/><div class="contheight"></div>第三，将组建韩朝联合遗骸发掘团队，于2019年4月启动遗骸联合挖掘工作。<br/><div class="contheight"></div>第四，为韩朝民间船只在汉江等地通行提供保障。<br/><div class="contheight"></div>韩朝今年9月签署军事协议，提出共同利用汉江和临津江入海口水域资源。11月，韩朝联合考察汉江、临津江入海口。韩国官方称，将绘制航行地图，供民间船只航行使用。<br/><div class="contheight"></div>第五，争取明年启动韩朝军事联合委员会，建立定期沟通制度，如协商开通韩朝军方的直通热线等。<br/><div class="contheight"></div>韩国国防部称，将继续落实韩朝军事协议，推动缓解韩朝军事紧张、建立互信，为实现朝鲜半岛建立永久和平机制奠定基础。<br/><div class="contheight"></div>（原题为《韩国国防部：将与朝磋商拆除非军事区全部哨所》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2746407" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">韩国军方：朝鲜非军事区11个哨所全部撤除，军事功能已丧失</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 朝韩关系</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2756475">
+<div class="nbgbox">
+<a class="zan" contid="2756475" href="javascript:;" onclick="voteCont(this)" praisetimes="27">
+                           26</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 朝韩关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2756475&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2756475&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

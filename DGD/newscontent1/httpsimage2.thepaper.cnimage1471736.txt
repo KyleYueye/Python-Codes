@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">199位党外人士上榜2018年度国家科学技术奖</h1>
+<div class="news_about">
+<p>微信公众号“统战新语”</p>
+<p>
+							2019-01-09 14:24<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月8日，2018年度国家科学技术奖揭晓，哈尔滨工业大学刘永坦院士和中国人民解放军陆军工程大学钱七虎院士荣获2018年度国家最高科学技术奖。<br/><div class="contheight"></div>2018年度国家科学技术奖共评选出278个项目和7名科技专家。其中，国家最高科学技术奖2人；国家自然科学奖38项，其中一等奖1项、二等奖37项；国家技术发明奖67项，其中一等奖4项、二等奖63项；国家科学技术进步奖173项，其中特等奖2项、一等奖23项、二等奖148项；授予5名外籍专家中华人民共和国国际科学技术合作奖。<br/><div class="contheight"></div>新语君从有关方面独家获悉，<strong>据不完全统计，在这次评选中，共有199位党外人士上榜，涉及国家自然科学奖、国家技术发明奖、国家科学技术进步奖在内的125个项目。其中，“第一完成人”31位。</strong><br/><div class="contheight"></div>在199位上榜的党外人士中，民革4位，民盟34位，民建8位，民进5位，农工党13位，致公党14位，九三学社36位，无党派人士85位！<br/><div class="contheight"></div>作为国家科技奖“三大奖”，自然科学奖侧重于基础研究和应用基础研究领域，例如数理化、天文、地质、生物等学科；技术发明奖主要奖励在产品、工艺、材料及其系统等几方面做出重大技术发明的我国公民；科学技术进步奖则涵盖了包括技术开发、社会公益、国家安全和重大工程等领域。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/71/731.jpg" width="100%"/></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/71/732.jpg" width="100%"/></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/71/733.jpg" width="100%"/></div><br/><div class="contheight"></div>（原题为《【独家】你知道吗？刚刚公布的2018年度国家科学技术奖，有199位党外人士上榜！》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋子文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 国家科学技术奖，党外人士</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831572">
+<div class="nbgbox">
+<a class="zan" contid="2831572" href="javascript:;" onclick="voteCont(this)" praisetimes="15">
+                           14</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国家科学技术奖</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831572&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831572&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

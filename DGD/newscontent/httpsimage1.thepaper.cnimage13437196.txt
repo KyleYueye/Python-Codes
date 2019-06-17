@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">吉林省文旅厅厅长：开展暗访检查，全力保障旅游市场安全</h1>
+<div class="news_about">
+<p>澎湃新闻记者 汤琪</p>
+<p>
+							2018-12-23 21:35<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日，由吉林省委宣传部主办的 “渔猎查干湖·2018冰雪吉林行”中外媒体大型采风活动正式启动，近百名媒体记者实地走访长春、吉林、延边、长白山、松原5个地区，见证当地“白雪换白银”的寒地冰雪经济和以生态文明引领绿色发展的探索与创新。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）注意到，作为今年吉林省机构改革后该省首家挂牌的省级新机构，吉林省文化和旅游厅（以下简称“吉林省文旅厅”）往往充当起吉林旅游的代言人，吉林省文旅厅厅长杨安娣更是如此。<br/><div class="contheight"></div>杨安娣在12月22日的活动启动仪式上如此推介吉林，她说，“走近吉林冰雪，感受它的大气磅礴、如诗如画；体验吉林冰雪，回味它的丰厚底蕴、冷暖交融。雪，是大自然对吉林人的馈赠，也是吉林冬季旅游的点睛之笔。独具魅力的吉林冰雪已然盛装绽放，真诚质朴的吉林人温暖相约，欢迎到吉林来玩雪。”<br/><div class="contheight"></div>值得关注的是，在冬季冰雪旅游旺季，扰乱旅游市场的重大事件会对一个地区的冰雪旅游形象产生较大负面影响。近日，当被媒体问及吉林省在旅游市场秩序治理上的经验时，杨安娣坦言，“我们也是边学习边实践，边摸索边总结。”<br/><div class="contheight"></div>杨安娣表示，一是强化产业安全。在全省旅游工作会议上与各地旅游部门现场签订《旅游行业安全生产工作目标责任状》，压实旅游安全责任；制定《吉林省旅游安全风险评估与预警体系》，落实双重预防机制；建立完善全省旅游安全监管微信群，实现预警提示前移；在元旦、春节、两会、“清明”、“五一”和“十一”等重要时段和敏感时期，做好应急值守，并组织专项督导检查，联合相关部门开展暗访检查，全力保障吉林旅游市场安全。<br/><div class="contheight"></div>二是强化市场安全。年初以来，吉林省开展了旅游市场秩序“利剑行动—1”“不合理低价游”“五一”假期市场秩序专项整顿。加强投诉管理，全省旅游投诉率维持在全国较低水平，未发生一起强迫购物等重大违规行为，未发生重大负面舆情，有效维护了旅游者合法权益。<br/><div class="contheight"></div>三是强化舆情安全。建立鹰眼全网监测系统，密切监测网络舆情，发现问题、快速出击、依法处置、及时发布，全力化解旅游网络暴力风险。特别是黑龙江雪乡事件发生以后，吉林旅游本着绝不以邻为壑，但也绝不放弃发展良机的原则，去年12月以来通过中省直各大主流媒体高水准、高站位、高密度发起宣传攻势，迅速扭转舆论氛围。<br/><div class="contheight"></div>杨安娣指出，旅游安全和市场监管备受瞩目、影响重大。目前，吉林省旅游安全问题和市场乱象相对较少，一方面得益于管控措施有力，更重要的是旅游经济发展还不够充分，旅游经济现象还没有那么纷繁复杂。随着旅游产业的发展，特别是冰雪产业的发展，安全隐患和风险将逐步显现，冰雪安全永远在路上。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 吉林,旅游</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766997">
+<div class="nbgbox">
+<a class="zan" contid="2766997" href="javascript:;" onclick="voteCont(this)" praisetimes="61">
+                           60</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 东北振兴</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766997&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766997&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">安倍内阁支持率跌至42%，逾半数日本民众反对修宪</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2018-12-17 13:14<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据日本共同社报道，共同社15、16两日实施的日本全国电话舆论调查结果显示，安倍内阁支持率为42.4%，较11月初进行的上次调查下跌4.9个百分点。不支持率为44.1%，增加4.6个百分点，反超支持率。这是今年5月的调查以来，不支持率首次超过支持率。<br/><div class="contheight"></div>据报道，对于政府和执政党在此前的临时国会上促成扩大接纳外籍劳动者的《出入境管理及难民认定法》修正案获得通过，65.8%的人回答“不予肯定”，24.8%的人表示“肯定”。关于政府开始向美军普天间机场迁入地的名护市边野古沿岸地区投入沙土一事，56.5%的人表示不支持推进基地搬迁，35.3%的人表示支持。<br/><div class="contheight"></div>关于与俄罗斯的“北方四岛”(俄称“南千岛群岛”)领土谈判，回答“先让俄方归还2岛，再就剩余2岛继续磋商”的占53.2%，人数最多。之后是回答“一下子归还所有4岛”的，占28.6%。其后依次是“仅归还2岛即可”及“不要求归还4岛”。<br/><div class="contheight"></div>此次调查还围绕《入管难民法》询问是否赞成扩大接纳外籍劳动者，回答“赞成”的为56.6%，“反对”的为35.3%。<br/><div class="contheight"></div>有关明年10月把消费税税率上调至10%的设问，回答“反对”的人占49.8%，回答“赞成”的也达到了46.3%。<br/><div class="contheight"></div>围绕改装日本海上自卫队护卫舰“出云”号的事实上航母化，回答“反对”改装的为45.2%，“赞成”的为43.3%，两者不相上下。关于本月10日安倍再次表示力争2020年施行修改后的《宪法》，“反对”的回答占52.8%，赞成的占37.6%。<br/><div class="contheight"></div>政党支持率方面，执政党自民党较上次调查下降6.6个百分点，为38.6% ；其执政伙伴公明党的支持率为3.8%。<br/><div class="contheight"></div>在野党中，立宪民主党增加2.4个百分点为11.5%，日本共产党为3.4%，国民民主党和日本维新会均为1.4%，自由党为0.8%，社民党为0.5%，希望之党为0.2%。表示“无支持政党”的无党派人群占36.1%。<br/><div class="contheight"></div>（原题为：《安倍内阁支持率跌至42% 逾半数日本民众反对修宪》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：廖婧雯<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 安倍内阁，支持率，改宪</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2746190">
+<div class="nbgbox">
+<a class="zan" contid="2746190" href="javascript:;" onclick="voteCont(this)" praisetimes="61">
+                           60</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 安倍支持率</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2746190&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2746190&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜“盗版有理”的论调不该在大学校园出现</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-07-06 15:33<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据中国青年报消息：记者走访武汉多所高校，发现大学教材盗版现象正愈演愈烈，正版教材太贵、教材使用率低、盗版教材监管难是背后的主要原因。<br/><div class="contheight"></div>看完这个报道和网友评论，我不由得感慨万千，没想到时至今日“盗版有理”的论调依然在大学校园里泛滥。如果大学生群体都起不到带头作用，在整个社会培养尊重知识产权的氛围无疑更加艰难。<br/><div class="contheight"></div>在报道里，有大学生声称“我们全班同学都使用过盗版。”而根据去年的一项调查，52.5%的受访者曾购买过盗版教材，其中86.8%的受访者觉得高校正版教材贵，21.5%的受访者觉得非常贵。<br/><div class="contheight"></div>除了正版贵这个点之外，教材使用率低、教材编写水平差、大学生穷也是盗版支持者常用的理由。所有这些理由都只是看上去有道理，实际上站不住脚。<br/><div class="contheight"></div>很多大学生对正版教材的怨气，其实来源于学校或老师不合理的规定。比如有的学校统一订购教材，但收费不透明。有的老师要求学生上课必须携带纸质教材，但实际用不到。这些诉求我都能理解，我只是不能理解因此而迁怒于正版图书，进而产生理直气壮用盗版的心态。<br/><div class="contheight"></div>大学生穷、花父母的钱，这虽然不假，但不要当别人都没念过大学，买书费用在生活费中占多大比例，大家心里都有数。<br/><div class="contheight"></div>我是2005年上的大学，肯定比现在的大学生穷多了，我还申请了助学贷款。但是大学四年我几乎没买过一本盗版书。用“几乎”是为了准确，极偶尔情况下买旧书会不小心买到盗版，我也复印过一些不容易买到的书。毕业之后，我就更没买过盗版书了。大学四年，我积攒了几百本书，但从未感受到买书是多大的经济负担。<br/><div class="contheight"></div>我当然也不赞同强迫大学生花冤枉钱买用途不大的正版教材，但办法也并非只有盗版一条路。比如旧书流转、图书馆借阅就可以解决大部分需求。很多人不假思索选择盗版，只是因为买盗版方便。<br/><div class="contheight"></div>如果万不得已只能用盗版，至少内心应该感到一丝惭愧，意识到自己在做一件错事。<br/><div class="contheight"></div>大学里盗版盛行，主要还是观念问题。有些人喜欢说“这书太烂了，怎么好意思卖这么多钱，我用盗版还是看得起你”，这种口吻是我最不能接受的。餐厅难吃又贵，就能吃霸王餐吗？因为财物是有形的，知识产权是无形的，所以就不在意后者，这种思维于大学、于社会都是有害的。<br/><div class="contheight"></div>嫌正版教材水平差所以大家都买盗版，导致教材编写者无法获得应有的回报，所以教材只会更加粗制滥造。早就有人呼吁一流学者去写教材，但每个人的时间都有成本，光靠道德感召作用有限，只有当教材编写成为劳有所值的一件事，教材质量才会越来越高。驳斥“盗版有理”论便格外重要。<br/><div class="contheight"></div>盗版、抄袭是看得起你，这种论调并不罕见。说件小事，网上有人抄了我的文章，还到处宣称是自己原创。我在自己的公众号上说了这件事，揭露了抄袭者的嘴脸，结果有读者嫌我不够“大度”，因为抄袭者“也在传播你的思想”。我无言以对。<br/><div class="contheight"></div>尊重知识产权，往大了说，是构建创新社会的基本前提；往小了说，决定了一个现代人是否体面。大学校园至少不应该成为拖后腿的地方。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 盗版教材 知识产权</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2244337">
+<div class="nbgbox">
+<a class="zan" contid="2244337" href="javascript:;" onclick="voteCont(this)" praisetimes="34">
+                           33</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 盗版教材</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2244337&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2244337&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（194）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

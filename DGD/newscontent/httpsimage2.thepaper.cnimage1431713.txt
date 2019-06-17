@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">媒体评“王府井闹市吸烟区”：披共享经济外衣，挑战禁烟共识</h1>
+<div class="news_about">
+<p>西安网</p>
+<p>
+							2019-01-08 12:24<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="378" src="http://image.thepaper.cn/www/image/14/31/718.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">2019年1月7日，北京，在王府井百货大楼东门广场出现的这个占地超过70平方米的高地式吸烟区，其中包括两个烟客广告牌和一个巨型烟客形象标志广告牌。  视觉中国 图<br/><div class="contheight"></div></span>近日，小编发现王府井百货大楼的前方堂而皇之地建设了一个大型的室外吸烟区——70多平方米的占地面积，醒目的地标旁横着13根吸烟的柱子，围栏上刻着大大的“Yanker”。在人员如此密集的区域建立了吸烟区里的巨无霸。（1月7日 澎湃新闻）<br/><div class="contheight"></div>在王府井百货大楼前方设置的大型吸烟区，遭来各方的广泛质疑。在公共场所全面禁烟的大势下，公然在公共场所设立吸烟区“烟客”，让公众遭受烟草毒害，必然遭致公众反对，更有挑战禁烟共识的嫌疑。<br/><div class="contheight"></div>根据北京市控制吸烟条例和相关法规，不得在人员密集场所设置吸烟区。而在王府井百货门外区域设置，显然是赤裸裸地违背了北京市规定。让过往行人不仅不能在此地欣赏街头景致，更要急匆匆地走过，以免被重重烟毒所伤害。吸烟场所的设置，与其所宣传的公益属性完全是南辕北辙，也是对所谓的共享经济的扭曲和践踏。<br/><div class="contheight"></div>虽然这个吸烟区打着“共享经济”的旗号，让吸烟场堂而皇之地进入公共场所，也被共享起来，但这一场所的设置，地方选择之特殊，涉及人员流量之大，都具有极为特殊的反向指引作用。如果此地都可以设置大型吸烟区，那么，全国各地的大中型超市或其他人员密集公共场所之外是否也可设置相似的场所，恐怕这一吸烟区一旦站稳脚跟，必将效仿者众。因此，王府井外的大型吸烟区这个“骨牌”绝对不能开启。<br/><div class="contheight"></div>一段时间以来，国内禁烟虽然取得了一些成效，但禁烟进程仍然难以让人满意。从公共场所全面禁烟到在公共场所设置吸烟区，不少人就认为这是一种退步。王府井门前设置的吸烟区，更是起到了极坏的负面引导作用。倘若再算上一些影视剧中仍然频繁出现吸烟镜头等，烟草广告在各大赛事的赞助，或者有形无形宣传，仍未落实的烟草制品警示性图片包装，禁烟任务的繁重性就更需要枕戈待旦加快完成。<br/><div class="contheight"></div>吸烟区的设置，是禁烟进程中的一个权衡之举，而不是终点。是保证不吸烟者的公共利益和照顾吸烟者的吸烟陋习之间的平衡。从实践来看，吸烟区区域小，且偏僻，就是为了让吸烟者体会到吸烟的“逼仄性”，而王府井百货外面吸烟区的设置，显然抬高了吸烟者待遇，堪称史上“最豪华”，完全与禁烟趋势逆其道而行之。即便其把共享经济放在吸烟区的前头，但仍无法否认吸烟的实质经营内涵。<br/><div class="contheight"></div>禁烟是大势所趋，在公共场所全面禁烟更是如此。王府井门外的“烟客”吸烟区，不管变化为何种模式，都无法改变其吸烟有损他人健康的性质，无法否认放纵潜在的烟草广告宣传。北京市卫生和计划生育监督所已经介入此事，相信能够朝着共建文明城市、呵护公众健康方向前进，向这一大型“烟客”吸烟区形成人人喊打的高压态势。<br/><div class="contheight"></div>（原题为：《共享经济不是闹市“烟客”的护法外衣》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 王府井,吸烟区,共享经济,禁烟</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827092">
+<div class="nbgbox">
+<a class="zan" contid="2827092" href="javascript:;" onclick="voteCont(this)" praisetimes="160">
+                           159</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 吸烟区</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827092&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827092&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（87）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

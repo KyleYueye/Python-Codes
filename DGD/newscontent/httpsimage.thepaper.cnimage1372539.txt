@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_26878">上海书评</a>
+</div>
+<h1 class="news_title">俞晓群︱五行占：诗妖之上采虚誉 </h1>
+<div class="news_about">
+<p>俞晓群</p>
+<p>
+							2018-12-21 15:06<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">班固汉志，在言之不从名下，有诗妖一项。汉儒《言传》曰：“下既悲苦君上之行，又畏严刑而不敢正言，则必先发于歌谣。歌谣，口事也。口气逆则恶言，或有怪谣焉。”前文已列《汉书》《后汉书》中例子，而纵观诸史，诗妖一项内容最为丰富，本文接续《后汉书》例目五段如下：<br/><div class="contheight"></div>其一，顺帝之末，京都童谣曰：“直如弦，死道边。曲如钩，反封侯。”案顺帝即世，孝质短祚，大将军梁冀贪树疏幼，以为己功，专国号令，以赡其私。太尉李固以为清河王雅性聪明，敦诗悦礼，加又属亲，立长则顺，置善则固。而冀建白太后，策免固，征蠡吾侯，遂即至尊。固是日幽毙于狱，暴尸道路，而太尉胡广封安乐乡侯、司徒赵戒厨亭侯、司空袁汤安国亭侯云。<br/><div class="contheight"></div>其二，桓帝之初，天下童谣曰：“小麦青青大麦枯，谁当获者妇与姑。丈人何在西击胡，吏买马，君具车，请为诸君鼓咙胡。”案元嘉中凉州诸羌一时俱反，南入蜀、汉，东抄三辅，延及并、冀，大为民害。命将出众，每战常负，中国益发甲卒，麦多委弃，但有妇女获刈之也。吏买马，君具车者，言调发重及有秩者也。请为诸君鼓咙胡者，不敢公言，私咽语。<br/><div class="contheight"></div>其三，桓帝之初，京都童谣曰：“城上乌，尾毕逋，公为吏，子为徒。一徒死，百乘车。车班班，入河间。河间姹女工数钱，以钱为室金为堂。石上慊慊舂黄粱。梁下有悬鼓，我欲击之丞卿怒。”案此皆谓为政贪也。城上乌，尾毕逋者，处高利独食，不与下共，谓人主多聚敛也。公为吏，子为徒者，言蛮夷将畔逆，父既为军吏，其子又为卒徒往击之也。一徒死，百乘车者，言前一人往讨胡既死矣，后又遣百乘车往。车班班，入河间者，言上将崩，乘舆班班入河间迎灵帝也。河间姹女工数钱，以钱为室金为堂者，灵帝既立，其母永乐太后好聚金以为堂也。石上慊慊舂黄粱者，言永乐虽积金钱，慊慊常苦不足，使人舂黄粱而食之也。梁下有悬鼓，我欲击之丞卿怒者，言永乐主教灵帝，使卖官受钱，所禄非其人，天下忠笃之士怨望，欲击悬鼓以求见，丞卿主鼓者，亦复谄顺，怒而止我也。<br/><div class="contheight"></div>其四，桓帝之初，京都童谣曰：“游平卖印自有平，不辟豪贤及大姓。”案到延熹之末，邓皇后以谴自杀，乃以窦贵人代之，其父名武字游平，拜城门校尉。及太后摄政，为大将军，与太傅陈蕃合心戮力，惟德是建，印绶所加，咸得其人，豪贤大姓，皆绝望矣。<br/><div class="contheight"></div>其五，桓帝之末，京都童谣曰：“茅田一顷中有井，四方纤纤不可整。嚼复嚼，今年尚可后年铙。”案《易》曰：“拔茅茹以其汇，征吉。”茅喻群贤也。井者，法也。于时中常侍管霸、苏康憎疾海内英哲，与长乐少府刘嚣、太常许咏、尚书柳分、寻穆、史佟、司隶唐珍等，代作脣齿。河内牢川诣阙上书：“汝、颍、南阳，上采虚誉，专作威福；甘陵有南北二部，三辅尤甚。”由是传考黄门北寺，始见废阁。茅田一顷者，言群贤众多也。中有井者，言虽厄穷，不失其法度也。四方纤纤不可整者，言奸慝大炽，不可整理。嚼复嚼者，京都饮酒相强之辞也。言食肉者鄙，不恤王政，徒耽宴饮歌呼而已也。今年尚可者，言但禁锢也。后年铙者，陈、窦被诛，天下大坏。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：彭珊珊<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 阴阳五行</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2724030">
+<div class="nbgbox">
+<a class="zan" contid="2724030" href="javascript:;" onclick="voteCont(this)" praisetimes="16">
+                           15</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 五行</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2724030&caid=26878",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2724030&amp;caid=26878" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

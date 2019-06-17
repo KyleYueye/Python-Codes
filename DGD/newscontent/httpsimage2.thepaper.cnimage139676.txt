@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">在地方选举中失去三大邦支持，莫迪遭遇上任后最大挫折</h1>
+<div class="news_about">
+<p>澎湃新闻记者 李佩</p>
+<p>
+							2018-12-11 22:13<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/96/72.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">印度总理莫迪 视觉中国 资料图<br/><div class="contheight"></div></span>尽管印度大选在明年5月才最终尘埃落定，但是地方选举目前却正在印度国内进行得如火如荼。<br/><div class="contheight"></div>根据目前的投票数量，印度四家电视台在周二都指出，执政党印度人民党可能在新一轮的选举中面临着失去三个关键州的局面，这或许将是现任总理莫迪自2014年上任以来、下次大选之前，即将遭遇的最大失败。<br/><div class="contheight"></div>从目前的选情看，印度国内的主要反对党国大党已经在中部邦恰蒂斯加尔邦(Chattisgarh)、中央邦（Madhya Pradesh）和西部邦拉贾斯坦邦<br/><div class="contheight"></div>（Rajasthan）都获得了胜利，而这些地带都是为莫迪在2014年大选中获得压倒性胜利提供了巨大动力的邦。<br/><div class="contheight"></div>路透社指出，分析人士表示，尽管莫迪个人仍旧在印度国内很受欢迎，但他正在面临着越来越多的批评，包括没有兑现给年轻人创造更多工作、给农民创造更好条件的承诺。而此次莫迪所在的印度人民党在选举中遭受的重大损失，则正好证明了农村对该党的沮丧，这种局面或将帮印度其他的反对派团结起来。<br/><div class="contheight"></div>“我们这次都投票给了国大党，我们的候选人正在这里获胜，”一位来自中央邦的小麦种植者Bishnu Prasad Jalodia表示，看起来好像国大党只有不断吸引较小的政党才能阻止莫迪的政党获得胜利。<br/><div class="contheight"></div>“印度人民党忽视了我们这些农民，他们忽视了金字塔底层的我们。”他强调道。<br/><div class="contheight"></div>除了莫迪正在面临着就任以来最严峻的挑战，这次选举也是对国大党主席、尼赫鲁家族的第四代继承人拉胡尔·甘地的考验。目前，他正在努力与地区团体建立一个更加广泛的联盟，准备在明年5月和莫迪一决高低。<br/><div class="contheight"></div>据印度今日电视台称，国大党在拉贾斯坦邦的199个席位中获得了114个席位，而印度人民党目前只在第一轮投票中获得了81个席位。<br/><div class="contheight"></div>在恰蒂斯加尔邦，国大党在90个席位中获得了59个席位，遥遥领先于印度人民党获得的24个席位。在过去几周进行国会选举的五个州中，国大党在最重要的中央邦中也占据了领先优势，获得了230个席位中的112个席位。 <br/><div class="contheight"></div>其他三个电视频道也表示，国大党在以上三个州中均处于领先地位，而其他地区性政党也在相应较小的邦中获得了领先地位。<br/><div class="contheight"></div>但是，路透社也指出，一些民意调查分析师告诫说，由于目前的计票还处于初步阶段，现在预测这些人口数量高达数百万的邦的竞选结果为时尚早。但是一个事实是，地方议题通常在印度邦的投票过程中占主导地位，因此一些政治家们认为目前的选举形势将为数月之后的大选定下基调。<br/><div class="contheight"></div>作为尼赫鲁家族的第四代，甘地试图在这次大选中建立一个由地区集团组成的联盟，并由一些经验丰富的煽动者和野心勃勃的政治家来领导该联盟，以期获得大选的胜利。但是国大党方面已经表示，由于甘地缺乏经验，不会将甘地视为总理候选人。<br/><div class="contheight"></div>“当一个人逐渐变成十一人，甚至强者也可以被摧毁”，在谈到反对党组成联盟的前景时，反对党领袖阿基莱什·亚达夫(Akhilesh Yadav)如是说道。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：宁希巍<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 印度莫迪印度人民党</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2728158">
+<div class="nbgbox">
+<a class="zan" contid="2728158" href="javascript:;" onclick="voteCont(this)" praisetimes="137">
+                           136</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 印度大选</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2728158&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2728158&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

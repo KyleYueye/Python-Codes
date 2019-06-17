@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">上海地铁通报：乘客擅自翻越电动栏杆被卡身亡，原因有待调查</h1>
+<div class="news_about">
+<p>@上海地铁shmetro</p>
+<p>
+							2018-12-26 12:35<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><strong>【情况说明】</strong><br/><div class="contheight"></div>12月25日18:55分，3号线344号列车曹杨路站进站时，司机发现站台末端有乘客擅自翻越电动栏杆，立即紧急制动，列车越过该乘客约2节车厢后停下。车站站务员发现情况后，迅即报告并同步启动站台紧急停车装置，值班站长、民警快速奔跑至事发处，发现伤者被卡在29号电动栏杆门和车体之间。18:58分，车站拨打120，工作人员脱下大衣遮盖伤者防止乘客拍照，现场站务员维持站台秩序，并寻找目击证人。因乘客被电动栏杆防夹挡板和车体夹住腰部，液压扩张器使用后仍无法搬出。值班站长遂使用螺丝刀卸下电动栏杆防夹挡板后，将伤者移出。19:16分，120到场宣布该名乘客死亡。<br/><div class="contheight"></div><strong>【经事后调阅现场监控视频发现】</strong><br/><div class="contheight"></div>该乘客自行违规翻越车站电动安全门，擅自进入区间造成此次事件，并对当天晚高峰正常运营造成一定的影响。具体翻越跳轨原因有待公安部门进一步调查。<br/><div class="contheight"></div>（原题为《情况说明》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2774780" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">上海地铁3、4号线晚高峰运行延误，系因人员进入线路</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 上海地铁,乘客身亡</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776011">
+<div class="nbgbox">
+<a class="zan" contid="2776011" href="javascript:;" onclick="voteCont(this)" praisetimes="20">
+                           19</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 地铁安全</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776011&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776011&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（514）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜不要让一场外卖风波，砸了一所大学的招牌</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-11-15 12:11<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日来，闽江学院禁止外卖引发的风波一直热度不减。因为区区外卖小事，把一所大学搅得如此不平静，实在不可思议。<br/><div class="contheight"></div>简单做一下前情提要。11月11日，闽江学院发布《关于校园整治专项工作的说明》，针对学校“禁止外卖”的流言表示，学校将禁止外卖的车辆进校，禁止外卖进入宿舍和教室，“不是禁止外卖”。<br/><div class="contheight"></div>11月12日，有外卖商家到学校食堂门口发放免费外卖，鼓动学生抗议学校的“外卖新政”。事后多名商家被警方拘留。<br/><div class="contheight"></div>说明表示，“外卖新政”的初衷是为了饮食和环境卫生、治安和交通安全、生活方式和健康问题考虑。但许多学生并不买账，表示之所以点外卖是因为学校食堂价格贵而且拥挤。有一个网友自称该校的贫困生，表示“我真的穷，食堂我吃不起”，引发关注。<br/><div class="contheight"></div>更有自称学生的网友爆料，学校书记有食堂股份，校方回应称是谣传。<br/><div class="contheight"></div>酿出风波之后，闽江学院做出了多次回应和改变，比如食堂降价，校门口设取餐点等。但舆情几天来都没有平息。<br/><div class="contheight"></div>作为一个过来人，从一开始我就很困惑，大学生什么时候如此阔绰起来，竟然点外卖成风。看到学校食堂竟然比外卖还贵，我就更不解了。<br/><div class="contheight"></div>记得我上学的时候，都是校外白领想方设法到学校食堂蹭饭，因为学校食堂便宜、卫生。学校出台各种办法都堵不住，总有人排着排着队突然搭讪，“同学，帮忙刷个卡好不？”<br/><div class="contheight"></div>我们自然知道，学校食堂之所以便宜是因为有补贴，这些校外的人是在薅羊毛，但一般也不好意思拒绝。<br/><div class="contheight"></div>这应该是一般大学食堂的常态。虽然在校期间，食堂总有吃腻的时候，但是毕业之后大家基本都会怀念食堂的物美价廉。比如我现在就格外怀念母校面食部里的刀削面。<br/><div class="contheight"></div>为什么到了闽江学院这里，河水开始逆流？闽江学院也是公立学校，还是福建省重点建设学校，按道理不至于缺钱缺到从学生的伙食费里薅羊毛。<br/><div class="contheight"></div>大学食堂能办到逼学生点外卖的程度，真不寻常。外边的商家即便有平台补贴，也不可能长期做亏本生意。从新闻来看，这种现象已不是一天两天了。学校食堂竞争不过外卖，必有蹊跷。<br/><div class="contheight"></div>当学生争相选择外卖的时候，已经是在抗议学校食堂了。现在试图通过简单粗暴的禁止外卖来倒逼学生回流，当然会引起风波，也难怪会引发利益相关的揣测和议论。<br/><div class="contheight"></div>事已至此，闽江学院不该再假装诧异，拿卫生、交通、生活方式说事了。必须要解释一下，为什么学校食堂沦落到如此不得人心的地步。如果学校领导与食堂没有利益关系，就更应该查清楚有无猫腻。<br/><div class="contheight"></div>大学以教育和科研为本业，万一让吃饭这件小事砸了招牌就太荒唐了。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 闽江学院 高校外卖</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2636079">
+<div class="nbgbox">
+<a class="zan" contid="2636079" href="javascript:;" onclick="voteCont(this)" praisetimes="308">
+                           307</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 闽江学院外卖风波</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2636079&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2636079&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（188）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

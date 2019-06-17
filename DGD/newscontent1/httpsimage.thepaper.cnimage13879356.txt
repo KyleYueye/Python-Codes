@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">俄居民楼爆炸事故现场搜救结束，遇难者人数已达39人</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2019-01-04 07:34<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/879/368.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">1月2日，在俄罗斯马格尼托哥尔斯克市，救援人员在爆炸事故现场工作。 新华社 图<br/><div class="contheight"></div></span>海外网1月4日消息，综合塔斯社、俄罗斯卫星通讯社报道，俄罗斯马格尼托戈尔斯克市居民楼爆炸倒塌事故现场搜援已经结束，截至目前，遇难者人数已达39人。<br/><div class="contheight"></div>报道称，车里雅宾斯克州州长鲍里斯·杜布罗夫斯基1月3日表示，救援人员在爆炸现场又挖出1具遗体，事故已造成39人遇难。俄罗斯紧急情况部透露，该遇难者是一名女性。<br/><div class="contheight"></div>俄罗斯紧急情况部第一副部长亚历山大·丘普里扬向记者表示，“废墟中已经没有人，我们找到了最后一具遗体，搜救行动结束。”他强调，救灾过程中，居民楼还在不断地塌方，墙体松动一度达到3厘米，工作人员克服了极大的风险，没有人在救援中受伤。<br/><div class="contheight"></div>据了解，这起事故发生于当地时间2018年12月31日凌晨4点左右，位于卡尔·马克思大街164号院一栋10层住宅楼的一个单元突然爆炸并坍塌，俄罗斯调查委员会发言人表示，瓦斯爆炸是造成事故的主要原因。根据车里雅宾斯克州州长鲍里斯·杜布罗夫斯基稍早前发布的消息，州政府已经确定了事故补偿标准，遇难者家属将获得100万卢布，重度或中度伤者将获得40万卢布，轻度伤者将获得20万卢布。此外，鉴于事故造成的财产损失，州政府将向每个居住在自有三居公寓或公共租赁房的受灾家庭支付50万卢布的补偿金。<br/><div class="contheight"></div>（原题为《俄居民楼爆炸事故现场搜救结束，已造成39人丧生》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 俄罗斯,居民楼爆炸</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2811651">
+<div class="nbgbox">
+<a class="zan" contid="2811651" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 居民楼爆炸</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2811651&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2811651&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">湖南道县回应“拆危时三妇女喝药”：送医抢救，暂无生命危险</h1>
+<div class="news_about">
+<p>澎湃新闻记者 蒋格伟</p>
+<p>
+							2018-12-25 11:59<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月25日，澎湃新闻从湖南永州市道县县委宣传部获悉，该县正在处理一起突发事件：24日，三名中老年妇女在道县运输公司依法拆除一栋办公危房时喝下瓶装不明液体。三名妇女均已送医抢救，暂无生命危险。后续处置工作正在有序进行中。<br/><div class="contheight"></div>道县县委宣传部工作人员介绍，12月24日11：30许，在道县运输公司一栋D级办公危房依法依规拆除过程中，三名中老年妇女手持并喝下瓶装不明液体，突然冲到拆除现场警戒线边，继而倒在地上。现场工作人员当即将其送往县人民医院进行救治。目前，三人均无生命危险，后续处置工作正在有序开展。<br/><div class="contheight"></div>该工作人员称，据悉，该栋危旧三层办公楼始建于上世纪70年代，产权属县运输公司所有，经鉴定为D级危房，为确保人民生命财产安全，必须作拆除处理。该县相关部门工作人员耐心劝导该楼办公用房居住人员搬离，该楼14户中有12户已经腾房搬离。但运输公司退休职工蒋某秀（女，现年55岁）、另一名职工遗孀李某珍（女，现年65岁）两户已领取搬家费和奖励金，因要求提供有产权的房屋或者安置用地等个人要求无政策依据，没有满足，两人拒绝搬离，工作人员先后二十余次上门做思想工作未果。同时，运输公司退休职工周某英（女，现年65岁）以与该公司有运费结算纠纷为由，阻碍腾房工作并锁闭一间办公用房，在工作人员多次劝阻未果、公安机关训诫无效情况下，周某英被依法进行了行政拘留。<br/><div class="contheight"></div>前述工作人员表示，12月24日，为确保蒋某秀、李某珍两户及该栋危楼周边群众生命财产安全，由道县公证处对上述两户在办公用房内的物品进行现场登记、公证，并放置到为其提供的廉租房内。在清理好房屋现场的前提下，于当天9:30开始对该栋危楼依法实施拆除。11：30许，蒋某秀、周某英、李某珍三人，分别手持并喝下标有“敌敌畏”的瓶装不明液体(后证实为“敌敌畏”)，先后从不同方位突然冲到拆除现场警戒线边，继而倒在地上，现场工作人员当即将其送往道县人民医院进行救治。<br/><div class="contheight"></div>情况发生后，永州市、道县两级组织专家组对周某英等三人进行全力救治，三人目前均暂无生命危险。道县县委、县政府已组织成立了专门工作班子，救治工作、群众工作等后续处置工作正在有序开展。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王选辉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 湖南,拆危,正抢救</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2771847">
+<div class="nbgbox">
+<a class="zan" contid="2771847" href="javascript:;" onclick="voteCont(this)" praisetimes="69">
+                           68</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 拆危</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2771847&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2771847&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（40）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

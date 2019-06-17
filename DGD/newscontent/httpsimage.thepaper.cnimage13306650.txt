@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25455">艺术评论</a>
+</div>
+<h1 class="news_title">人工智能画作高额成交后的反思：何为人类，何为智能</h1>
+<div class="news_about">
+<p>文/Thomas Graham 编译/钱雪儿</p>
+<p>
+							2018-12-26 07:58<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>今年10月，法国艺术小组Obvious用人工智能（简称AI）而完成的《埃德蒙·德·贝拉米肖像》在纽约佳士得拍卖中以43万美元成交。这一新闻激发了一系列关于AI艺术以及AI与人类关系的讨论。在BBC最近的一篇报道中，作者Thomas Graham写道，AI艺术的“背后操手”依然是人类，AI能够帮助人们探索与突破认知的界限，对于AI艺术的讨论最终落于对于人类创造力的发问。</u><br/><div class="contheight"></div>今年早些时候，一份神秘的新闻稿降落在记者们的收件箱里，如同电脑游戏中“游戏结束”的画面那样，上面写着“创造力不只为人类所拥有”。写下这份新闻稿的是一个名叫Obvious的法国三人艺术小组，他们声称，他们的人工智能（AI）能够创造艺术。这是他们一系列宣传的第一步，最终，他们、或者说他们的AI所创作的肖像画出现在佳士得拍卖中，预估价格低于1万美元，最终以43万美元成交。<div style="text-align:center;"><img alt="" height="338" src="http://image.thepaper.cn/www/image/13/306/268.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">艺术小组Obvious的成员之一Pierre Fautrel与《埃德蒙·德·贝拉米肖像》合影，贝拉米是虚构的18世纪家族，埃德蒙从未在历史上出现过</span><br/><div class="contheight"></div>肖像本身看起来斑驳不清，似乎尚未完成。眯着眼看过去，这幅画好像能够符合伦敦国家肖像馆的要求。睁大眼睛，则感觉它模糊而古怪：一张苍白的圆脸浮现在朦胧的画布上，三块深色的区域意味着双眼和嘴巴。作品的“笔触”看起来是像素化的。在作品的右下角，作者的签名则是一串算法。那么，这幅画是否是机器“眼中”的我们？也许，跨过人类认知的偏见，这就是我们的模样。<br/><div class="contheight"></div>这幅肖像被列为第一件在拍卖中售出的AI艺术作品，使Obvious一下子成为了媒体口中一种新艺术的旗手。他们的营销利用人们对于AI的焦虑感而激起兴奋。媒体上涌现出一系列让人恐慌的疑问：这是艺术吗？对于这样的作品，艺术家和拥有者分别是谁？如今机器也具有创造力吗？<br/><div class="contheight"></div>所有的疑问都是合理的，却又是不成熟的。正如Obvious所暗示的那样，技术远远没有达到先进的程度，而公众对AI是什么、能够做什么充满困惑。Obvious的营销正是巧妙利用了这一点。<div style="text-align:center;"><img alt="" height="338" src="http://image.thepaper.cn/www/image/13/306/267.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">肖像右下角的“算法签名”</span><br/><div class="contheight"></div><strong>AI的智慧</strong><br/><div class="contheight"></div>AI艺术已经有50年左右的历史，但是Obvious的肖像掀起了新的浪潮。过去，用电脑来“生成”艺术的人们必须写下代码，指定所选美学的规则。对比之下，这种新浪潮运用的算法能够自己学习审美。然后，它们能够根据生成对抗网络（简称Gan）来生产新的图像。<br/><div class="contheight"></div>Obvious的肖像右下角的签名就是Gan算法。Gan并不是一个网络单独工作，而是让两个网络彼此竞争。它模拟了艺术伪造者和艺术侦探之间的互动。二者基于同样的数据训练而习得审美，一个生成新的图像，即模仿展示给它的东西，另一个则评判它们是生成出来的还是真实的。直到“侦探”无法分辨什么是生成的、什么是真实的，整个过程便结束了。佳士得拍卖上所卖出的这件作品就是经历了这样的过程。<br/><div class="contheight"></div>这幅肖像并不是AI所生产的唯一图像。事实上，这不过是它能够产出的无数张画中的一张。由于某些原因，Obvious三人组选择了它，他们认为这张画最“恰当”。他们也参与了整个过程的其他步骤。他们在AI开始之前对它进行了编程，然后选择了1.5万张肖像供它学习。在右下角的Gan算法签名是一种“狡猾”的营销手段，其实并非AI自己创作了这幅画。<br/><div class="contheight"></div>事实上，这甚至不是他们的AI。佳士得拍卖结束后，人们发现这个AI其实是另一位艺术家Robbie Barrat的作品。他对其进行了编程，用视觉艺术百科网站Wikiart来训练它，并且利用它生成了大量非常相似的肖像，之后，Barrat将代码发表在网上，附加上开源许可证，这样其他人也可以免费地使用他的AI。因此，Obvious的肖像不仅不能归功于AI，也不能归功于Obvious。<br/><div class="contheight"></div>了解了这些之后，围绕佳士得拍卖而产生的风暴也逐渐平息。AI并不是独立生产作品，从人类意义上来说，它没有创造力。这无疑和所谓的强人工智能，也就是在科幻电影里出现的那些有感情、有目标、能够独立思考的机器不一样。不过，作为一个工具，它的确能够做出有意思且让人意外的事情。<br/><div class="contheight"></div><strong>AI的艺术</strong><br/><div class="contheight"></div>使用AI的艺术家并不担心会被取代。他们打造了这些机器，每天和它们一起工作，他们了解机器的局限性。艺术季家们所感兴趣的是“共同创造”（co-creation）:AI让他们得以超越自己已有的能力。Mario Klingemann是在艺术中使用AI的先锋之一，他将其视为一种延伸人类认知的途径。<div style="text-align:center;"><img alt="" height="338" src="http://image.thepaper.cn/www/image/13/306/266.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">Mario Klingemann是在艺术中使用AI的先锋之一</span><br/><div class="contheight"></div>“最终，你会囿于自己所见、所听或者所读，在这个范围内，你不太会‘失灵’，”Klingemann说道，“有些人会通过吸毒来达到这种突破，但这只会带来更荒谬的联系。然而，机器则能够让你实现这种突破。因为相比人类大脑，机器更容易失灵或者偏离轨道。在这个过程中，常常会有些意想不到的有趣的事情发生。”<br/><div class="contheight"></div>运用AI的艺术家们不只是简单地复制代码、点击运行按钮，而是以自己的方式来设定。Klingemann建立生成模型的系统，他将它们连在一起，用一个模型的输出结果来训练另一个模型，直到最终的图像和原始输入相距甚大。Anna Ridler创造了独特的数据组来训练她的模型，比如拍摄成千上万张郁金香的照片，然后训练AI生成郁金香根据比特币价格浮动而“开花”的视频。Sougwen Chung基于自己的画作来训练AI，让它将学到的风格转化到她身旁的机械臂上。结果是一种“画笔的二重唱”，艺术家和她的机器之间自发的互动。<div style="text-align:center;"><img alt="" height="338" src="http://image.thepaper.cn/www/image/13/306/271.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">Sougwen Chung基于自己的画作来训练AI，最终形成“画笔的二重唱”<div style="text-align:center;"><img alt="" height="337" src="http://image.thepaper.cn/www/image/13/306/277.jpg" width="600"/></div></span><span style="color: rgb(128, 128, 128);">Anna Ridler拍摄成千上万张郁金香的照片，训练AI生成郁金香根据比特币价格浮动而“开花”的视频</span><br/><div class="contheight"></div>乍看之下，AI艺术圈似乎受到视觉艺术家的主导，因为在人们印象中AI必须要善于创造图像而非文本或声音等等。但事实是当AI尝试模仿它被训练的东西时，常常会出错，而视觉艺术只是对此更为宽容。正如Klingemann所说，“眼睛闭耳朵更宽容。”<br/><div class="contheight"></div>当然，也有在文本和声音上探索AI的艺术家。Ross Goodwin就是其中之一。他研究文本和计算的交集。在Goodwin的最新作品中，他驾驶一辆黑色轿车上路，轿车和相机、扩音器、电脑相连，“吐出”像超市收银发票那样无止境的数据。“这个项目背后的理念在于让轿车像一支笔那样写出小说，”Goodwin说道。车外的风景、车里的声响、时间和空间都被输入AI，然后将其转化成小说。“当你阅读的时候，你正在成为作者，因为文字的背后没有人类的意图，”Goodwin表示，“你开始将意义投射其上。读者成为了作者。”<div style="text-align:center;"><img alt="" height="338" src="http://image.thepaper.cn/www/image/13/306/269.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">Goodwin用AI写小说，将轿车变成一支“笔”</span><br/><div class="contheight"></div>意图的空缺正指向AI艺术概念转换上的核心。“这是一个让人反思何为人类、何为智能的机会，”Kyle McDonald说道，他是一个将AI运用于舞蹈的艺术家。“当我们建立这些模仿我们自己智慧的算法时，我们有机会明白一件事：创造力意味着什么？为什么艺术是好的或是坏的？我们和艺术的关系是怎样的？作者身份有多重要——如果我听到一首很美妙的乐曲，那么它是由人类或AI创作重要吗？”<br/><div class="contheight"></div>大多数艺术家嘲笑AI具有创造力的观点——但是这取决于你如何界定创造力。AI显然创造了一些东西，有时候它们的方式新颖而有效，不过，它们这么做是毫无意图且没有意义的。是人类对它们的输出进行了演绎和筛选。“机器没有创造任何东西的意图，”Klingemann说道。“就好比你生火，火产生了一些有趣的形状，但归根结底火并没有创造力——是你幻想出形状，然后看到了图案。AI也是一团火。”<div style="text-align:center;"><img alt="" height="338" src="http://image.thepaper.cn/www/image/13/306/265.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">Kyle McDonald将AI运用于舞蹈</span><br/><div class="contheight"></div>与其提出“机器是否可能拥有创造力”的问题，也许我们应该问的是“相信机器具有创造力对于我们而言意味着什么”。AI领域的重要人物之一Douglas Hofstadter曾写道，“有时候，AI的每一步新进展似乎并没有让人们在真正的智能是什么上达成一致，而只是揭示了真正的智能不是什么。”同样的问题也适用于创造力：机器所实现的东西越来越多，对于创造力的标准就越来越高，我们对人类创造力的理解也越来越深。“最终，AI与我们的竞争总是迫使我们做得更好，” Klingemann说道，“从而让人看清是什么让我们人类与众不同。”<br/><div class="contheight"></div>（本文编译自BBC网站，原作者为Thomas Graham）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：顾维华<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; AI艺术</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2752733">
+<div class="nbgbox">
+<a class="zan" contid="2752733" href="javascript:;" onclick="voteCont(this)" praisetimes="153">
+                           152</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: AI艺术</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2752733&caid=25455",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2752733&amp;caid=25455" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（47）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

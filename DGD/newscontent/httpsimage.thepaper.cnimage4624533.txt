@@ -1,0 +1,76 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25427">澎湃人物</a>
+</div>
+<h1 class="news_title">中央党校常务副校长何毅亭谈中央文件是如何“出炉”的</h1>
+<div class="news_about">
+<p>何毅亭</p>
+<p>
+							2015-11-02 19:34<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><strong>【编者按】<br/><div class="contheight"></div></strong><u>11月2日下午，在第二届“读懂中国”国际会议的专题讨论——“十三五规划和依法治国——中国治理能力现代化的必由之路”中，中央党校常务副校长何毅亭交流了自己的看法。<br/><div class="contheight"></div>以下发言内容为，何毅亭介绍的中央文件起草过程以及中央党校所肩负的责任。<br/><div class="contheight"></div></u><div style="text-align:center;"><img alt="" height="428" src="http://image.thepaper.cn/www/image/4/624/532.jpg" width="573"/></div>我以往曾多次参加内部事务、“十三五”规划建议这样的文件起草，想借今天这个场合简单说一说这类文件起草的过程。从一个侧面介绍一下，中国共产党对重大事项、重大问题是如何运作的。<br/><div class="contheight"></div>通常情况下，中国共产党要促成“十三五”规划建议这样的文件，首先，得成立一个由中央领导牵头的文件起草小组。然后，在党内一定范围征求对这个议题的意见和建议。在起草工作前期，会组织中央有关部门对相关的重大问题进行深入细致的调查研究，广泛征求各方面意见。实践证明，这样的调查研究在判断发展形势、明确前进方向、确定自己的目标、提出重大政策等方面，都已经发挥着非常重要的作用。<br/><div class="contheight"></div>那么，文件初稿出来以后，会下发党内一定范围来征集意见，同时，专门听取民主党派、全国工商联负责人和无党派人士的意见。党的领导人还会就一些重大问题，专门到地方进行调研，召开各种座谈会，来听取意见和建议。可以说，这样的文件和类似的重大事项决策都凝聚了广泛的社会共识，是集体智慧的结晶，是民主决策的样板，也突出反映中国推进治理体系和治理能力现代化的努力。<br/><div class="contheight"></div>在中国共产党执政体系中，我所服务的中共中央党校也处于一个重要的环节，担负着轮训培训党的高中级领导干部，提高他们能力和素质的任务。中央党校的学员来自中央部门和各省自治区直辖市，都是担负重要职责的领导干部。他们根据所在的不同班次，在中央党校的学习时间也不一样，有两个月、四个月的，最长的有一年的时间。在校期间，主要接受中国共产党党的理论和党纪方面的教育培训，毕业之后，再回到原来的岗位工作。<br/><div class="contheight"></div>现在，中央党校每学期大概有四千左右的学员，既注重领导干部的政绩考核，也注重领导干部的能力提高，这是中国共产党保持自己的先进性和提高执政水平的一条重要经验，也是推进国家治理体系和治理能力现代化的重要发动机。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<!-- 审稿人字段 -->
+<!-- 空格分隔后的作者列表-->
+<div class="news_editor">责任编辑：张维<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 读懂中国,中央文件,起草</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="1391987">
+<div class="nbgbox">
+<a class="zan" contid="1391987" href="javascript:;" onclick="voteCont(this)" praisetimes="21">
+                           20</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 读懂中国国际会议</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=1391987&caid=25427",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=1391987&amp;caid=25427" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

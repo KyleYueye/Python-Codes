@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">俄罗斯反腐新规：教师医生禁收鲜花、办公用品以外的礼物</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-10 20:43<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日，俄罗斯宣布将反腐败标准适用范围扩展到医生、教师和其他隶属国家机关的组织机构的职员中。如果相关规定进一步实施，那么俄罗斯的医生、教师等人群，将禁止收除鲜花和办公用品以外的任何礼品。<br/><div class="contheight"></div>据俄罗斯卫星通讯社12月10日消息，俄罗斯劳动和社会保障部公务发展司司长德米特里·巴斯纳克表示，俄罗斯政府于11月底向国家杜马提交了一份法案，规定将反腐败标准的适用范围扩展至有国家财政拨款的企业的工作人员中。<br/><div class="contheight"></div>目前，俄罗斯的《民法典》第575条对教师和医生有规定，要求文化、教育、卫生行业的工作人员不得收取价值3000卢布以上的礼品。因此，若上述法案获得通过，除了鲜花、办公用品、印刷品以及用人单位作为鼓励或奖励赠送的有价值礼品外，其他赠送礼品将被完全禁止，违者将根据《劳动法典》被追究相关责任。巴斯纳克称：“批评、警告还是解雇，由用人单位自行决定。”<br/><div class="contheight"></div>巴斯纳克表示，除禁止送礼外，高管、总会计师以及与财经权有关的职务人员面临的约束、限制和责任将会更大。例如，这些人员以后应提交个人的收支信息，或者未经用人单位同意不得从事商业活动。<br/><div class="contheight"></div>2003年的12月9日，联合国正式签署《国际反腐败公约》，公约要求缔约国将受贿行贿、侵吞资产和清洗贿款列为刑事犯罪，12月9日也被称为国际反腐败日。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 俄罗斯,反腐败,教师,医生</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2724582">
+<div class="nbgbox">
+<a class="zan" contid="2724582" href="javascript:;" onclick="voteCont(this)" praisetimes="56">
+                           55</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 俄罗斯反腐</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2724582&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2724582&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

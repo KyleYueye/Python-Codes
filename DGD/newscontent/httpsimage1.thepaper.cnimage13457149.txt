@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">中国将成为联合国第二大会费国和维和摊款国，外交部回应</h1>
+<div class="news_about">
+<p>李宁/人民日报客户端</p>
+<p>
+							2018-12-24 15:59<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">人民日报客户端12月24日消息，12月24日，外交部发言人华春莹主持例行记者会。<br/><div class="contheight"></div><strong>问：联合国大会刚刚通过2019-2021年会费和维和摊款比额决议，中国将成为联合国第二大会费国和维和摊款国。中方对此有何评论?<br/><div class="contheight"></div>答：</strong>联合国确定会费的核心原则是各国支付能力。中国经济总量大，但人均国民收入水平低，属于发展中国家，这是衡量中国支付能力的重要依据。<br/><div class="contheight"></div>根据联大刚刚通过的决议，未来3年中国承担的联合国会费和维和摊款均将大幅增长，承担12%的会费、15.2%维和摊款。<strong>这是中国作为世界第二大经济体，近年来经济总量和人均国民总收入增长的结果，也是中国国际影响力上升的体现。</strong><br/><div class="contheight"></div>中国坚定维护多边主义，将履行作为发展中国家对联合国应尽的财政义务，既为世界和平发展作出贡献，也坚决维护自身合法权利。同时，<strong>我们也敦促各国都及时、足额缴纳联合国会费和维和摊款，</strong>支持联合国为维护世界和平、促进共同发展发挥更大作用。<br/><div class="contheight"></div>（原题为《中国将成为联合国第二大会费国和维和摊款国 外交部回应》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 联合国,会费国,维和摊款,外交部</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2769132">
+<div class="nbgbox">
+<a class="zan" contid="2769132" href="javascript:;" onclick="voteCont(this)" praisetimes="1157">
+                           1156</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 外交部例行记者会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2769132&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2769132&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（357）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

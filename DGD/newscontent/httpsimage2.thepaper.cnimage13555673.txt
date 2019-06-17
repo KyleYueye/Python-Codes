@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">原农业部副部长王连铮同志逝世</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-27 16:33<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京12月27日消息，原农业部副部长、党组副书记，中国农业科学院原院长、党组副书记王连铮同志，因病于2018年12月12日在北京逝世，享年88岁。<br/><div class="contheight"></div>王连铮同志逝世后，中央有关领导同志以不同方式表示哀悼并向其亲属表示慰问。<br/><div class="contheight"></div>王连铮，1930年10月生于辽宁海城。1953年4月加入中国共产党。1962年10月起历任黑龙江省农业科学院生物室技术员、副主任。“文化大革命”初期受到冲击和迫害。 1970年2月起先后任黑龙江省农业科学院农作物育种研究所负责人、副院长、院长。1983年2月起历任黑龙江省人民政府副省长兼黑龙江省农业科学院院长，黑龙江省人民政府副省长、党组副书记。1987年10月起历任中国农业科学院院长、党组书记，农业部副部长兼中国农业科学院院长、党组书记，农业部副部长、党组副书记兼中国农业科学院院长，中国农业科学院院长、党组副书记等。1991年5月起当选为第四届、五届中国科学技术协会副主席。<br/><div class="contheight"></div>王连铮是中共十二大代表，第九届全国人大代表，第九届全国人大农业与农村委员会委员，政协第八届全国委员会委员。<br/><div class="contheight"></div>（原题为《王连铮同志逝世》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 农业部,王连铮,逝世</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780523">
+<div class="nbgbox">
+<a class="zan" contid="2780523" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 农业部</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780523&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780523&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

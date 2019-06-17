@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">连续看球3星期，你的皮肤还好吗</h1>
+<div class="news_about">
+<p>刘嘉郦</p>
+<p>
+							2018-07-11 09:35<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>就算世界杯冷门频出，就算你喜欢的球队已经回家，就算你支持的球星也都跟赛场告了别，作为一个忠实的球迷，这4年一度的盛世还是要坚持到最后一刻方能显示出“一个球迷的自我修养”的。随着比赛逐渐进入到了后半程，开赛时间也越来越晚，原本想好的不熬夜果断变成了浮云，而你的皮肤也在不知不觉的情况下，提出了抗议——如果你最近觉得自己的皮肤变得粗糙、容易出油或者上妆有点儿困难的话，那么是时候给自己来一帖护肤猛药了。<br/><div class="contheight"></div></u><strong>看上去比平时更老一些是因为熬夜？没错！<br/><div class="contheight"></div></strong>熬夜对于面部肌肤的伤害同样不可小觑，虽然与脆弱的眼部肌肤立马给夜猫子脸色看的情况相比，面部肌肤的表现可能不甚明显，但那些有害肌肤正常代谢的变化的确正在悄悄进行着。有研究发现，在熟睡时由脑下垂体分泌的褪黑激素不仅有利于清除体内的自由基、抗氧化，同时能令色素聚集于细胞核心，在视觉层面上使色斑看起来变得淡些，而熬夜除了有碍褪黑激素分泌，也会因光线过于明亮而使得褪黑激素的分泌量大为减少，从而使肌肤看上去比实际年龄来得苍老。害怕吗？别紧张，看球的时候带面膜上阵，或许会让这个情况有所改善。<br/><div class="contheight"></div>能够提亮肌肤的面膜是此时的最佳选择，适当地软化、剥离角质层后，肌肤的水润度和光滑度都会有所提升，除此之外，具有舒缓性质的面膜也可以考虑，让疲劳的肌肤得以恢复，第二天的状态就会好一些。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="175" src="http://image.thepaper.cn/www/image/8/751/715.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">Lush柠檬亮采面膜、Herborist佰草集御五行焕肌晚安面膜、Fresh馥蕾诗亮活维他果萃面膜、pearlosophy真珠美学玫瑰润泽保湿舒缓面膜、MG美即鲜注膜力黑曜亮泽面膜<br/><div class="contheight"></div></span><strong>熬夜2天以后，皮肤看上去不再水润了？有可能！<br/><div class="contheight"></div></strong>啤酒、咖啡加浓茶，这“熬夜三宝”的经典组合绝对会让你的肌肤看上去不够水润，要是再加上点夏日看球必备的糟毛豆、鸭脖子、卤鸡翅这些含盐量不低的食物，以及一、二手烟的侵袭，肌肤干燥也是指日可待了。<br/><div class="contheight"></div>熬夜过后的面部清洁非常重要，除此之外，见效迅速的面膜在熬夜急救中也占据着主要席位。保湿面膜自然是重点pick对象，中场休息时迅速地给自己糊一脸，等个15分钟之后去清洗干净再重新涂上面霜，保管第二天的皮肤看上去不像之前那么憔悴。要是你嫌洗脸麻烦，那么更偷懒的睡眠面膜也在等着你，开球之前把脸洗干净，涂上面膜等它稍干之后就可以看球护理两不误——当然，要是你视力不佳看球戴眼镜，那还是选择前一种，毕竟洗眼镜也挺麻烦的。<br/><div class="contheight"></div>要是你觉得只用了面膜并不能抚慰自己的肌肤，那么不妨考虑在用面膜之前给自己来一道打底精华，让肌肤可以更好地获取养分，加乘护理效果。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="179" src="http://image.thepaper.cn/www/image/8/751/716.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">Jurlique茱莉蔻紧致修护面膜、Caudalie欧缇丽补水舒缓面膜、Laneige兰芝鲜活亮采维果面膜、Chando自然堂2018球迷定制版水光面膜、OLEVA+水光润养酵素面膜</span></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李淑平<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2250111">
+<div class="nbgbox">
+<a class="zan" contid="2250111" href="javascript:;" onclick="voteCont(this)" praisetimes="9">
+                           8</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 世界杯</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2250111&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2250111&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

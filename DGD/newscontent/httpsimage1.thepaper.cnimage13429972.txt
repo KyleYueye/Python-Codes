@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">四川一村民砍7株楠树获刑，法院还判令其再种活35棵</h1>
+<div class="news_about">
+<p>澎湃新闻记者 胥辉</p>
+<p>
+							2018-12-23 14:34<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月23日，澎湃新闻（www.thepaper.cn）从四川省平昌县人民检察院了解到一起刑事附带民事公益诉讼。平昌县一村民因未获林业部门审批，砍掉7株国家二级重点保护植物桢楠而被诉。<br/><div class="contheight"></div>12月18日，平昌法院判处该村民朱某有期徒刑三年缓刑三年，并处罚金1万元，没收被扣押的桢楠原木，依法上缴国库，责令补植桢楠35棵，保证成活。朱某当庭表示服从法院判决，不上诉。<br/><div class="contheight"></div>据平昌县人民检察院通报，今年5月1日，四川省平昌县镇龙镇松岩村村民朱某经人介绍，以每株150元的价格购买了临近望京村村民周某某家自留山的7株野生桢楠。随后两天，在未经省级以上林业行政主管部门审批的情况下，朱某组织工人将属于国家二级重点保护植物的7株桢楠全部砍伐。<br/><div class="contheight"></div>经办案检察官审查，朱某的行为涉嫌非法采伐国家重点保护植物罪。同时，朱某的滥伐行为严重破坏了国家重点保护的野生植物资源和生物多样性，损害了社会公共利益，且至今未对砍伐桢楠进行补种，被破坏的野生植物资源没有得到修复，社会公共利益仍处于被侵害状态，应当追究其民事责任，在提起刑事公诉时一并提起刑事附带民事公益诉讼。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周喜丰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 砍树 获刑 植树</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766278">
+<div class="nbgbox">
+<a class="zan" contid="2766278" href="javascript:;" onclick="voteCont(this)" praisetimes="149">
+                           148</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 损害生态环境</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766278&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766278&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（56）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

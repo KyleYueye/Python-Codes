@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">2019米其林上海指南发布，6家新餐厅上榜1家餐厅降星</h1>
+<div class="news_about">
+<p>刘嘉郦</p>
+<p>
+							2018-09-20 18:14<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>《2019米其林上海指南》今日在沪发布。相比去年，今年的榜单上多出了6张新面孔，其中5家位列米其林一星，1家直接摘得米其林二星。值得玩味的是，曾获得米其林三星的粤餐厅唐阁被降为两星，而新上榜餐厅中则有2家主打江浙风味。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="337" src="http://image.thepaper.cn/www/image/10/641/635.jpg" width="600"/></div></u>和去年一样，今年的米其林上海指南发布也是在大雨中进行，不过即便如此，这一发布活动仍旧吸引了业内人士的目光，不过比起之前刚刚进入上海市场时的大张旗鼓，现在的发布显得低调又文雅了不少。<br/><div class="contheight"></div>相比较2017年那版的米其林上海指南中粤菜馆所占比重偏大的情况，今天发布的榜单明显可以看到走江浙风味的餐厅比重在上升，虽然比起粤菜馆来说，数量并不算多，但至少本地口味开始逐渐抬头。<br/><div class="contheight"></div>菁禧荟、Bo Shanghai、大董海参店（静安）、 大董（徐汇）、福和慧、苏浙总会、Jean-Georges、II Ristorante-Niko Romito 、吉品轩、老正兴（黄浦）、雍颐庭、Le Comptoir de Pierre Gagnaire、南麓·浙里（黄浦）、利苑（浦东新区）、利苑（徐汇）、鹅夫人（闵行）、鹿园、斐霓丝Phénix、家全七福（静安）、迷上海、艾利爵士、泰安门、大蔬无界（黄浦）、新荣记（黄浦）、甬府获颁米其林一星餐厅。其中，菁禧荟、II Ristorante-Niko Romito、吉品轩、Le Comptoir de Pierre Gagnaire和鹿园皆为新上榜餐厅。菁禧荟主打潮汕菜，吉品轩仍旧走高档粤菜路线，鹿园则是江浙菜风格，而开在宝格丽酒店的II Ristorante-Niko Romito和建业里嘉佩乐酒店的Le Comptoir de Pierre Gagnaire则分别主打意大利菜和法国菜。<br/><div class="contheight"></div>米其林二星梯队基本保持不变，新增两家新餐厅。除了刚刚降星落到米其林二星餐厅的唐阁之外，另一家是主打台州菜的新荣记（南阳路）。<br/><div class="contheight"></div>唐阁的降星意味着上海米其林三星餐厅仅剩Ultra Violet by Paul Pairet一家，这或许意味着这间本来预约时间就要长达3个月的餐厅，将会在接下来的时间里变得更加抢手了。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李淑平<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2460603">
+<div class="nbgbox">
+<a class="zan" contid="2460603" href="javascript:;" onclick="voteCont(this)" praisetimes="49">
+                           48</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 米其林</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2460603&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2460603&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

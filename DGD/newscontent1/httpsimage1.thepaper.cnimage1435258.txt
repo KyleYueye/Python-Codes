@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">网民发布涉及汶川大地震的极端言论，被海口警方依法行政拘留</h1>
+<div class="news_about">
+<p>@海口网警巡查执法</p>
+<p>
+							2019-01-08 15:54<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="303" src="http://image.thepaper.cn/www/image/14/35/246.jpg" width="500"/></div><br/><div class="contheight"></div>海口网警巡查执法官方微博1月8日消息，7日，网民向我局举报：有网民在微信群中发布涉及汶川大地震的极端言论。海口警方高度重视，迅速开展调查工作，当日晚上将嫌疑人刘某抓获。<br/><div class="contheight"></div>经查，刘某在微信群内发布“汶川大地震，禁止网吧网络，那三天是脱离网络跟吸毒一样”、“什么时候再来一次汶川大地震，我们在一起搞没有网络看看会不会跟吸毒一样”、“他们死就死了，害我们这些网虫跟着受罪”等极端言论。在群内网友质疑其污蔑汶川大地震遇难者、要求其撤回言论时，该网民仍然满不在乎地认为无所谓。根据《中华人民共和国治安管理处罚法》规定，刘某的行为构成寻衅滋事，海口警方依法对其处以行政拘留5日。<br/><div class="contheight"></div>海口警方提醒：互联网不是法外之地，对侮辱诽谤他人、寻衅滋事等违法行为，公安机关将一如既往，坚决予以严厉打击。<br/><div class="contheight"></div><div>（原标题《网民网上发布涉及汶川大地震的极端言论，被海口警方依法行政拘留》）</div></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 极端言论</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827635">
+<div class="nbgbox">
+<a class="zan" contid="2827635" href="javascript:;" onclick="voteCont(this)" praisetimes="39">
+                           38</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 极端言论</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827635&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827635&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

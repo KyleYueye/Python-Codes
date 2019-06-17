@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜简政放权的红利，不能被“土政策”拿走了</h1>
+<div class="news_about">
+<p>澎湃特约评论员 斯远</p>
+<p>
+							2018-11-29 10:50<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2679484" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜简政放权的红利，不能被“土政策”拿走了" src="//image2.thepaper.cn/image/12/653/96.jpg"/>
+</a>
+<div class="atlas_360_txt">甲地支持乙地反对，“政策打架”企业为难的事为何屡屡发生<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">一江之隔，通勤车在甲地顺利通行，在乙地却必须办证，否则罚款；审批项目，甲部门说需乙部门先出证明，乙部门说需甲部门先出证明；上级部门说不许收费，下级部门说其实还是要收一定费用……据新华视点报道，当前在一些地方和部门，仍不同程度地存在政策“打架”现象，导致企业无所适从，并增加了运营成本。<br/><div class="contheight"></div>随着经济社会的发展，新需求刺激了新供给，新供给衍生出新服务。以通勤车为例，当下很多企业与单位都存在多点办公、办公与居住分离的情况，通勤车的出现顺应了市场需求，也是一种相对环保、安全的通行措施。政策及时跟进，将其纳入规范管理，很有必要。这就要求各地管理部门正视变化，及时调整政策，跟得上市场的脚步。撒手不管或以罚代管，都不是正确的态度。<br/><div class="contheight"></div>在审批方面，中央已三令五申，要求简政放权，清理过期或与现行政策法规冲突的“红头文件”。近几年，情况已经得到了极大好转。但由于长期以来形成的行政惯性，很多地方在简政之后，又以管理方便的名义，陆续出台了不少地方性政策。这也使得市场主体从简政放权中获得的红利，很快又被形形色色的“土政策”拿走了。<br/><div class="contheight"></div>至于一些权力部门相互将各自业务设为“前置条件”、从而造成办事死结的情形，更是所在多多，不一而足。<br/><div class="contheight"></div>凡此种种，不排除新旧交替、职责交叉，以及管理边界不清等原因，但从根本上讲，仍在于一些单位和部门主观上的“土围子”意识。具体表现为，这些单位和部门的“地盘”意识、“首位”心态、“规矩”思想很强。<br/><div class="contheight"></div>在一些单位和部门看来，这是我的地盘，企业要进入，就得经过我的认可，接受我的规矩，按照我的要求去办。至于说，这些规矩是不是依法依规，并不在其首先考虑的范围内。<br/><div class="contheight"></div>即便面对中央简政放权的强大推动力，个别地方、部门也会阳奉阴违，甚至不断出台一些替代性政策规定，以固化地方利益、部门利益。他们关心的并不是如何激发市场的活力与民众的创造性，而是现实的、可触摸的利益。<br/><div class="contheight"></div>这其实就是一种“土围子”意识，与改革无关，与开放无关，甚至与地方经济的发展也无关。它所影响的，不仅是财富的涌流、市场的繁荣，还有政府的公信力。<br/><div class="contheight"></div>在纪念改革开放40周年的语境下，有必要彻底清除各地、各部门、各单位都可能存在的“土围子”意识，放市场主体到广阔天地中去，放广大民众到有序社会中去。改革从来都是进行时。惟有持续深化改革，才能不断清除障碍，走向更加有活力的经济蓝海。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 简政放权</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2685287">
+<div class="nbgbox">
+<a class="zan" contid="2685287" href="javascript:;" onclick="voteCont(this)" praisetimes="157">
+                           156</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 简政放权</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2685287&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2685287&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

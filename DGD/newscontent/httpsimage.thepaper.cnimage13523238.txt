@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25463">港台来信</a>
+</div>
+<h1 class="news_title">侯汉廷遭诬告“危害台湾”，当庭否认：支持统一没错</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2018-12-26 17:20<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网12月26日报道，台当局起诉台北市议员侯汉廷、新党王炳忠、林明正等人违反“国安法”，将三人正常两岸交流污蔑为“为敌发展组织”。台北市地方法院26日开庭审理此案，侯汉廷在庭上坚决否认犯罪，再次重申自己的理念是两岸终极统一。林明正则表示，自己为和平统一尽心，何来“为敌发展组织”一说。<br/><div class="contheight"></div>据台湾“中央社”报道，侯汉廷26日在法庭上批评检方属于“先射箭再画靶”，把他关于两岸交流活动草率粗暴地去认定为“意图危害台湾安全与社会安定”。侯汉廷还指出，检方起诉书内看不出他有危害台湾的意图，更没有发展组织的行为，所以罪名不应成立。<br/><div class="contheight"></div>林明正则用闽南话说：“我是一个正统的台湾人，我的祖先在清朝时，就来到台湾宜兰，我认为台湾人就是中国人。”林明正加入新党，积极参与中华儿女学会、中华讲武堂、台大中华复兴社等社团活动，他表示希望为和平统一尽一份心力。他进一步反问“这些社团很早就成立，何来私自发展组织一说。”<br/><div class="contheight"></div>台北地检署此前声称新党王炳忠等人涉嫌利用“燎原新闻网”吸收台湾现、退役军人等各阶层人士，今年6月依违反“国家安全法”将王炳忠与其父王进步、林明正、侯汉廷等4人起诉。<br/><div class="contheight"></div>台北地方法院原本打算不公开审理，经王炳忠等人要求公开审理后，法院决定公开审理并开放民众旁听。12日法院讯问王炳忠与其父王进步时，王炳忠当庭表示，“燎原新闻网”是他工作、生活居住的处所，检方称之为组织工作据点过于牵强附会，他与大陆人士的交流往来，是新党对外的正当两岸交流，宣扬和平统一是应受法律保障的的人权，他没有被迫、或受到利诱。<br/><div class="contheight"></div>早在2017年12月，新党青年军王炳忠、侯汉廷、林明正与陈斯俊等4人住处就曾遭检调搜索，并被带回审查。当时侯汉廷就表示，将持续对抗民进党的不公不义，并宣布投入2018年台北市议员选举。<br/><div class="contheight"></div>（原题为《侯汉廷遭诬告“危害台湾”，当庭否认：支持统一没错》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 新党,台湾,两岸统一</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776870">
+<div class="nbgbox">
+<a class="zan" contid="2776870" href="javascript:;" onclick="voteCont(this)" praisetimes="185">
+                           184</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 两岸统一</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776870&caid=25463",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776870&amp;caid=25463" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

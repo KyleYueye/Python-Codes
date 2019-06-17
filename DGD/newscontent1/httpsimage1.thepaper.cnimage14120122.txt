@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">京东下调iPhone8/8P售价：与苹果官方价差超过千元</h1>
+<div class="news_about">
+<p>澎湃新闻记者 周玲</p>
+<p>
+							2019-01-10 22:36<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">iPhone降价不是空穴来风。<br/><div class="contheight"></div>1月10日晚，澎湃新闻记者从京东获悉，1月11日零点开始，京东平台的iPhone8/8P的价格将下调至3999元和4799元，较变动前分别下调了600元和800元，与苹果官网报价5099元和5999元分别相差1100元和1200元。<br/><div class="contheight"></div>京东方面对澎湃新闻记者表示，这次降价行为是苹果公司降价，目前看也不是限时促销。<br/><div class="contheight"></div>这也意味着，iPhone在中国市场遭遇销售下滑后，苹果公司采用越来越灵活的价格政策来刺激消费者购买。<br/><div class="contheight"></div>1月9日，有报道称，苹果给深圳华强北的iPhone渠道商更优惠的iPhone定价，每台机器最多降低450元。不过，苹果官方未做出回应。<br/><div class="contheight"></div>上述报道称，苹果给深圳华强北的iPhone渠道商降价政策，iPhone在售的系列产品iPhone XR/8/8 Plus/X/XS/XS Max等均开始降价，最高单品的渠道价下降了450元。<br/><div class="contheight"></div>不过，1月10日早些时候，澎湃新闻记者向国美和京东了解，两家公司均表示，未收到苹果有关iPhone系列产品下调价格的信息。淘宝上的iPhone卖家也表示，未收到降价通知，暂时没有下调iPhone售价的计划。但随后，京东方面又披露，iPhone 8/8P这一系列有了新的价格下降计划。<br/><div class="contheight"></div>苹果CEO蒂姆·库克日前在致投资者的公开信中称，公司销售业绩未达预期，主要是新兴市场比之前预期的差，大中华区iPhone销售尤其不佳，用户升级iPhone的欲望疲软。<br/><div class="contheight"></div>尽管苹果官方未正面回应是否会在中国市场iPhone降价促销，但某些渠道或某些机型已经有了更灵活的价格操作空间。iPhone 8是苹果的上一代机型，如果入门级的64G iPhone8 价格为3999元的话，与国产手机的高端机价格在同一水平线上，对消费者来说更有吸引力。<br/><div class="contheight"></div>除了iPhone8/8P系列即将启动大幅降价外，苹果另一款主打性价比的iPhone XR在第三方平台本身售价也较低。以64G版的iPhone XR为例，苹果的官网价格是6499元，京东最为便宜只要5599元，价差最大达到900元。<br/><div class="contheight"></div>外界认为，iPhone在中国之所以出现销售疲软，一方面是iPhone价格太高；另外一方面，iPhone近年的创新难以支撑那么高的溢价，国产品牌的高端机在快速赶上，并且价格还有优势，受到了越来越多中国消费者的喜爱。<br/><div class="contheight"></div>中国市场对苹果iPhone全球营收来说至关重要，如果中国市场销售下滑将拖累苹果全球业绩。当下，苹果有动力采取措施来提振中国市场。毕竟，苹果下一代新机发布要等到今年秋季。<br/><div class="contheight"></div>不过，由于中国市场本身竞争激烈，加上市场本身萎缩，外界对苹果iPhone销售预期不乐观。1月10日，中信证券发布报告称：根据苹果三家供应商下修业绩来推断苹果全球iPhone出货量下滑至2.06亿-2.09亿部，其中2018年中国区iPhone出货同比下滑12％至3600万部左右。该报告称，展望2019年，由于新机创新不足带动作用偏弱，预计iPhone全球出货下滑幅度在5％-10％，中国区下滑幅度在15％-20％。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙扶<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; iPhone</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837036">
+<div class="nbgbox">
+<a class="zan" contid="2837036" href="javascript:;" onclick="voteCont(this)" praisetimes="466">
+                           465</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: iPhoneXR</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837036&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837036&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（288）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

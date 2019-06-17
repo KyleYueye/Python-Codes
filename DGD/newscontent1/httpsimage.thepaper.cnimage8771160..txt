@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜别让一个无良教师拖整个学校下水，中大当三思</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-07-10 14:58<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">俗话说，林子大了，什么鸟都有。但林子对“坏鸟”采取何种态度，决定了这个林子的声誉和前途。<br/><div class="contheight"></div>在近日网络热议的中山大学教授张鹏性骚扰女生事件中，中山大学的应对颇遭诟病。这不是公关水平的问题，这是一所大学对待性骚扰的真实态度的问题。<br/><div class="contheight"></div>事情由一篇网文《她曾经以为自己能逃开教授的手》在朋友圈刷屏开始，引发关注。7月10日，中大对外回应：“已经关注到网络反映人类学系教师张鹏有违师德师风的信息。今年4月份，中大已经开始调查核实工作，之后基于调查核实情况，给予了张鹏党纪政纪处分并在单位内部进行了通报。网文存在与学校调查核实不相符的情况。”<br/><div class="contheight"></div>这份回应本身就含糊其辞，对刷屏网文中5名女生的指控并未正面回应。所谓“网文存在与学校调查核实不相符的情况”，更是不明不白。<br/><div class="contheight"></div>7月10日有媒体报道称，5名女生是5月4日才正式向中山大学提交的举报材料，中大方面所谓的4月已对张鹏做出处理，并非针对她们的举报。根据已有信息，该处分针对的是4月初另一起性骚扰举报。<br/><div class="contheight"></div>如果这一报道属实，说明在这5名女生之外，还有其他的受害者。那么中山大学有意将两起举报混为一谈，则明显有大事化小、应付舆论的意图。但这种小算盘只能是一厢情愿。<br/><div class="contheight"></div>在信息如此发达的情况下，中山大学不可能不知道舆论对此事的关切程度。与对外发布的那份惜字如金的声明相比，学校内部或许是另外一番场景。许多机构在危机公关时都会采取“内紧外松”的策略。<br/><div class="contheight"></div>对中大来说，当务之急是避免一个无良教师拖整个学校下水，防止事态继续扩大。<br/><div class="contheight"></div>另据当事女生表示，张鹏妻子曾要求他的学生们签署一份有关“张鹏老师近期受到了外界的诽谤，其实师德良好，无不当行为”的声明书，但大家全都拒绝了。而这两天，张鹏实验室的所有学生都在一遍遍地转发相关的报道、文章。公道自在人心，这些迹象其实很能说明问题。<br/><div class="contheight"></div>在维护学校声誉这个初衷上，在校的同学、离校的校友其实和校方是一致的。只不过聪明的、正直的人都知道，当丑闻出现时，直面问题才能止损，遮遮掩掩只会导致事态扩大。暴露与批评都伤害不了一所学校，包庇与纵容才会。<br/><div class="contheight"></div>那5名受害的女生最开始是在学院、学校内部进行举报，但是等了两个月，学校迟迟不给说法，她们才对外发声。她们在教授、学校面前都是弱者，站出来已经付出了巨大的勇气，她们的诉求不应该一再被忽视。<br/><div class="contheight"></div>一所学校如果真的像珍爱眼睛一样珍爱声誉，就应该对性骚扰零容忍。如果说教育中要有几条红线，那么教师性骚扰绝对是排在前面的一条。一个人教书育人的资格，完全可以被性骚扰一票否决。目前公众和学生们已经充分表达了这种红线意识，学校不应该再抱有侥幸心理了。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 高校性骚扰 危机公关</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2252979">
+<div class="nbgbox">
+<a class="zan" contid="2252979" href="javascript:;" onclick="voteCont(this)" praisetimes="124">
+                           123</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 高校性骚扰</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2252979&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2252979&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（116）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

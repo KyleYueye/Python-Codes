@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25482">逝者</a>
+</div>
+<h1 class="news_title">二月河遗体送抵南阳殡仪馆，同学透露：他说不要惊动太多人</h1>
+<div class="news_about">
+<p>张丛博、张琮、郭启朝、程海舟/大河客户端</p>
+<p>
+							2018-12-15 20:15<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="436" src="http://image.thepaper.cn/www/image/13/225/602.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">15日下午，南阳市殡仪馆，二月河先生的灵堂正在紧张布置中。大河客户端 图</span><br/><div class="contheight"></div>大河报·大河客户端12月15日消息，今天下午4时许，记者赶到南阳市殡仪馆，二月河先生的灵堂正在紧张布置中。“沉痛悼念凌解放同志”的黑色横幅庄严肃穆，“寿终德望在，身去音容存”的挽联分挂在灵堂两侧，悼念的花圈摆满门外。二月河先生安静地躺在这片他生活了半个多世纪的南阳。前来悼念的亲朋、好友、读者络绎不绝，大家心情沉痛，含泪见二月河先生最后一面，与家属一一握手。<br/><div class="contheight"></div><strong>同学透露：他说不要惊动太多人</strong><br/><div class="contheight"></div>“先生人特别好，走得太突然了。”一位和二月河相识20多年的欧阳先生前来悼念时说，他曾在11月到医院看望过二月河，“当时先生身体不太好，不能说话，突然离去我们都难以接受。”<div style="text-align:center;"><img alt="" height="336" src="http://image.thepaper.cn/www/image/13/225/603.jpg" width="600"/></div>15日傍晚，二月河先生的几位高中同学赶来悼念，白发苍苍的老先生们见到二月河的遗容，不住悲泣。<br/><div class="contheight"></div>在悼念完离开时，二月河的南阳三高同学、战友刁书林对记者说，他们从二月河女儿那里得知，二月河先生说：“不要惊动太多人，身边亲人们知道就行了。”<br/><div class="contheight"></div><strong>生前多次强调：一定要把我安葬在南阳</strong><br/><div class="contheight"></div>当天15时左右，记者在南阳市殡仪馆见到了二月河的弟弟凌解兵(现南阳市汉画馆馆长)和女儿凌晓，并对二月河先生去世的有关情况进行访谈，就全国网友关心的一些问题做了了解。<br/><div class="contheight"></div>据悉，二月河在今年四月份因脑栓塞住进北京301医院，病情一直不稳定，在后期，医院专家对其气管进行了切除，一直不能说话。虽然病情得到了一定的控制，但是在12月15日凌晨2:17因心脏衰竭经抢救无效逝世。<br/><div class="contheight"></div>据二月河的女儿凌晓介绍，在住院期间，二月河的妻子、弟弟、女儿和女婿一直陪同照顾。由于气管切除未留有遗言，但是在他病重之前多次强调，将来不管他在哪里病逝，一定要把他的遗体运回南阳，安葬在南阳。<br/><div class="contheight"></div>河南省市有关领导第一时间赶到南阳市殡仪馆，对二月河先生逝世表示沉痛哀悼，对家属进行亲切慰问。<br/><div class="contheight"></div><strong>【人物简介】<br/><div class="contheight"></div>二月河</strong> <br/><div class="contheight"></div>二月河(本名凌解放)，男，汉族，出生于山西省昔阳县人，1945年9月出生，1968年3月参加工作，1969年12月加入中国共产党。著名作家,中国作协原主席团委员、河南省文联名誉主席、河南省作协名誉主席、郑州大学文学院院长、南阳市文联名誉主席、南阳市作协主席、南阳文学院院长，曾获全国“5.1”劳动奖章、“全国先进工作者”称号，享受国务院特殊津贴，中国共产党十五大、十六大、十七大、十八大、十九大党代表,十、十一、十二届全国人大代表。享誉全国的南阳作家群的领军人物，因其笔下五百万字的“帝王系列”：《康熙大帝》《雍正皇帝》《乾隆皇帝》三部作品，被海内外读者熟知。<br/><div class="contheight"></div>（原题为《社会各界群众纷纷前来悼念二月河！》、《同学透露二月河遗言：不要惊动太多人》、《二月河魂归故里！生前多次强调：一定要把我安葬在南阳》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 二月河逝世</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2743166">
+<div class="nbgbox">
+<a class="zan" contid="2743166" href="javascript:;" onclick="voteCont(this)" praisetimes="393">
+                           392</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 二月河逝世</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2743166&caid=25482",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2743166&amp;caid=25482" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（963）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

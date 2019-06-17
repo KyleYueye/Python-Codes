@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">福建35名罪犯获准回家与亲人共度中秋，为期3天</h1>
+<div class="news_about">
+<p>澎湃新闻记者 王选辉 通讯员 许海峰 陈宇光</p>
+<p>
+							2018-09-20 18:32<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">今年中秋节，福建将有35名服刑人员被准许回家与亲人团聚。9月20日，澎湃新闻（www.thepaper.cn）从福建省监狱管理局获悉，此次服刑人员离监探亲时间为期3天。<br/><div class="contheight"></div>这是福建省监狱管理局继今年春节首批“为爱回家”离监探亲活动之后，在全省监狱集中开展的第二批离监探亲活动。<br/><div class="contheight"></div>福建监狱管理局相关负责人介绍，为最大限度减少和防止人为等不规范因素，此次离监探亲办理工作坚持“审慎选择、层层把关、规范办理、细化流程”原则，程序更加规范严格，服刑人员需经过“书面申请、分监区审查复核、保证人资格条件调查核实、危险评估、监狱审批、全监公示”等一系列步骤并全程留痕，检察机关和纪检监察部门全程监督，确保离监探亲办理工作公开透明。<br/><div class="contheight"></div>同时，严格按照相关法律规定，对社会影响较大不宜离监探亲等8类罪犯不予审批，以确保社会安全稳定。同时，还加强了与罪犯探亲属地公安、司法行政机关和村委会（居委会、社区）等部门的沟通协调。<br/><div class="contheight"></div>上述负责人还介绍，为加强服刑人员离监期间的监督管理，服刑人员离监前夕，需签订《离监探亲承诺书》，承诺保证遵守国家法律法规和探亲纪律，离监当日需向当地公安和司法行政机关报到主动接受监管，不得离开探亲地所在县级行政区域。离监探亲期间每日下午，保证人应向当地司法行政机关和监狱指挥情报中心电话汇报情况。监狱将采取电话抽查、指派民警跟踪回访等方式，掌握了解离监探亲服刑人员行踪，确保不超越规定活动区域不违反相关法律规定。<br/><div class="contheight"></div>罪犯离监前，监狱将对获准离监探亲罪犯发放劳动奖励金并集中开展纪律教育亲情教育，逐一进行个别谈话，明确探亲期间应遵守的纪律。罪犯离监期间禁止赌博、酗酒、驾驶机动车，禁止进入夜总会、酒吧、迪吧等娱乐场所，禁止接触被害方等，3天期满，罪犯应准时归监，监狱将认真组织体检等收监工作，确保活动安全顺利按时完成。<br/><div class="contheight"></div>福建监狱管理局相关负责人介绍，全省监狱按照《监狱法》《罪犯离监探亲和特许离监规定》等规定，在总结借鉴春节期间离监探亲活动成功经验基础上，制定并细化了离监探亲工作具体实施方案，稳步推进离监探亲活动在春节、中秋等传统节日中实现常态化。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：马世鹏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 福建监狱 离监探亲</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2460155">
+<div class="nbgbox">
+<a class="zan" contid="2460155" href="javascript:;" onclick="voteCont(this)" praisetimes="78">
+                           77</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 离监探亲</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2460155&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2460155&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

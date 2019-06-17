@@ -1,0 +1,82 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">SIHH2018|爱彼：25周年的狂欢派对</h1>
+<div class="news_about">
+<p>钟天阳</p>
+<p>
+							2018-01-28 10:33<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+<p style="line-height: 20px; margin-bottom:5px">
+<img alt="" src="//file.thepaper.cn/www/v3/img/topic.gif" style="float:left">
+<a href="newsDetail_forward_30413" target="_blank">
+<span class="news_topic">
+                              【专题】专题｜聚焦2018SIHH日内瓦高级钟表沙龙</span>
+</a>
+</img></p></div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard"><u>爱彼的制表历史早已超过一个世纪，但是对于钟表藏家来说，最能打动他们的腕表系列反而是诞生只有数十年的皇家橡树系列——当然还包括在1993年诞生的皇家橡树离岸型。时值皇家橡树离岸型腕表（Royal Oak Offshore）诞生25周年，爱彼推出三枚全新标志性运动腕表，包括1993年第一枚皇家橡树离岸型自动上链计时码表复刻版，以及采用全新现代风格表盘设计的皇家橡树离岸型陀飞轮计时码表。一场狂欢派对就此拉开帷幕。<br/><div class="contheight"></div></u><div style="text-align:center;"><img alt="" height="799" src="http://image.thepaper.cn/www/image/6/759/95.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">1993年第一枚皇家橡树离岸型自动上链计时码表复刻版。<br/><div class="contheight"></div></span><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/6/759/96.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">全新设计的皇家橡树离岸型陀飞轮计时码表。</span><br/><div class="contheight"></div>特别推出全新皇家橡树离岸型陀飞轮计时表，有不锈钢及18K玫瑰金两种材质表壳。大胆运用创新材质组合一直是皇家橡树离岸型表款的特色，全新表款的表冠和按钮采用陶瓷制成，取代之前的金属或橡胶材质。皇家橡树离岸型陀飞轮计时表采用全新表盘结构设计，呈现出现代建筑美感，不仅秉承了品牌的传统风格，同时展现出爱彼通过离岸型腕表的工艺美学所传达的创新理念。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/6/759/94.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">突破常规的概念设计让这款结合了高级珠宝工艺与陀飞轮功能女士腕表呈现出前所未有的视觉效果。</span><br/><div class="contheight"></div>值得一提的是爱彼在概念设计上的突破。全新推出的皇家橡树概念系列浮动式陀飞轮腕表是自2002年该系列推出后的第一枚女装腕表，同时也是爱彼第一枚浮动式陀飞轮腕表。高级制表与珠宝工艺和谐共存，镶嵌明亮型切割美钻或阶梯式切割钻石，搭配复杂机制的独特设计，营造出如同悬浮的视觉效果。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/6/759/93.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">全新皇家橡树系列RD#2超薄万年历腕表，是当今市面上最纤薄的自动上链万年历腕表。</span><br/><div class="contheight"></div>经过5年研发，全新皇家橡树系列RD#2超薄万年历腕表以6.30毫米的表壳厚度成为当今最纤薄的自动上链万年历腕表。Calibre 5133机芯将传统的3层机芯创新为单层结构，实现超薄设计，重组机芯的结构与功能，以提高空间利用率、机芯效率以及稳定性。这枚专利机芯采用中央摆陀，厚度仅有2.89毫米，创下当今自动上链万年历机芯的纪录。</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<!-- 审稿人字段 -->
+<!-- 空格分隔后的作者列表-->
+<div class="news_editor">责任编辑：张颖<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="1965876">
+<div class="nbgbox">
+<a class="zan" contid="1965876" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 腕表</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=1965876&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=1965876&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

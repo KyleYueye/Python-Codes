@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">《移民问题全球契约》通过，外交部：中国将循序渐进落实</h1>
+<div class="news_about">
+<p>侯晓晨/新华社</p>
+<p>
+							2018-12-11 19:13<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社12月11日报道，针对联合国移民问题政府间大会通过了《移民问题全球契约》，外交部发言人陆慷11日在例行记者会上表示，《契约》为加强全球移民治理提供了全球性合作框架，中方愿同国际社会一道，为共同促进安全、有序、正常移民发挥积极作用。<br/><div class="contheight"></div>正在摩洛哥马拉喀什举行的联合国移民问题政府间大会于12月10日通过了《移民问题全球契约》。<br/><div class="contheight"></div>对此，陆慷说，《契约》获得了150多个国家支持，是国际社会首份全方位协调解决移民问题的全球性文件，为加强全球移民治理提供了全球性合作框架。<br/><div class="contheight"></div>他说，《契约》在呼吁加强对移民权益保障的同时，也明确了区分难民与移民、非法移民与正常移民，并将尊重主权作为《契约》的指导原则，与《联合国宪章》的宗旨和原则一致。“此外，《契约》并非国际公约，不具法律约束力，各国有权根据本国国情，在自愿基础上落实《契约》。这些也是国际社会的广泛共识。”<br/><div class="contheight"></div>“中国政府深入参与了《契约》谈判，对政府间大会通过《契约》表示欢迎。中国政府将结合本国国情，根据国内法律法规，本着自愿原则循序渐进落实《契约》。”陆慷说，“中方愿同国际社会一道，为共同促进安全、有序、正常移民发挥积极作用。”<br/><div class="contheight"></div>（原题为《外交部发言人介绍&lt;移民问题全球契约&gt;相关情况》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 外交部发言人,《移民问题全球契约》</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2727951">
+<div class="nbgbox">
+<a class="zan" contid="2727951" href="javascript:;" onclick="voteCont(this)" praisetimes="55">
+                           54</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 外交部</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2727951&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2727951&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

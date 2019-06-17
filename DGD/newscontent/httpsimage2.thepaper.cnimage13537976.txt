@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">生态环境部：全国土壤环境信息平台上线启动</h1>
+<div class="news_about">
+<p>生态环境部微信公众号</p>
+<p>
+							2018-12-26 22:01<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">生态环境部今日会同相关部门在北京举办全国土壤环境信息平台（以下简称土壤平台）上线启动仪式。<br/><div class="contheight"></div>生态环境部有关负责同志指出，建立土壤环境基础数据库，构建土壤平台，是落实习近平总书记关于大数据建设有关要求的具体举措，也是《土壤污染防治法》《土壤污染防治行动计划》的明确要求。<br/><div class="contheight"></div>生态环境部有关负责同志强调，土壤平台建设，一要抓好“建”，瞄准部委和地方管理需求，高层次谋划、高标准实施，围绕“打好净土保卫战”总体要求，加强各业务系统整合集成，打造“土壤环境信息一张图”，力争建成一流平台。二要致力“用”，坚持以建促用、以用带建，不断完善，发挥土壤环境大数据在污染防治、城乡规划、土地利用、农业生产中的作用。三要突出“管”，严把入库数据质量，建立数据更新机制，增加数据评价分析和可视化展示能力。<br/><div class="contheight"></div>国家发展改革委、教育部、科技部、工业和信息化部、自然资源部、住房城乡建设部、水利部、农业农村部、卫生健康委、粮食和储备局等共建部委代表，生态环境部有关司局和直属单位负责同志参加了启动仪式。<br/><div class="contheight"></div>（原题为《全国土壤环境信息平台上线启动》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：崔烜<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 土壤 环境 信息平台</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2778476">
+<div class="nbgbox">
+<a class="zan" contid="2778476" href="javascript:;" onclick="voteCont(this)" praisetimes="75">
+                           74</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 土壤监测</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2778476&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2778476&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

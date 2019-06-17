@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25444">社论</a>
+</div>
+<h1 class="news_title">【社论】从万州到龙岩，重视公交车上的安全新挑战</h1>
+<div class="news_about">
+<p></p>
+<p>
+							2018-12-26 17:08<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="250" src="http://image.thepaper.cn/www/image/13/523/65.jpg" width="600"/></div>10•28重庆公交坠江事故两个月后，重庆万州在保障公交车安全方面拿出实质性举措。<br/><div class="contheight"></div>今年11月以来，万运公司会同公交车生产厂家，开始着手公交车驾驶员物理隔离装置的研究论证和设计安装工作。经过反复论证和设计试装后，不到两个月时间就进入正式安装阶段，目前已首批在万州2路、3路、6路、22路的17辆新公交车上安装试运行。<br/><div class="contheight"></div>而就在昨天，福建龙岩发生一起持刀劫持公交车事件。据龙岩市政府通报：截至12月26日12:00，龙岩市“12.25”事件共造成8人死亡、25人受伤（新收治3名伤员）。<br/><div class="contheight"></div>无论是乘客抢方向盘导致公交车坠桥，还是此次发生的劫持公交车事件，这在过去都只能是在影视剧中才能看到的场景。而今如此猝不及防地在现实中上演，让人错愕。<br/><div class="contheight"></div>这类恶性事件，当然是小概率的。但其带来的直接伤害，以及对民众安全感的影响，却不能小视。将它们与近几年来发生的多起类似安全事件联系起来看，或许可以说，我们的城市公共安全态势，很可能将面临更复杂的新情况。其一个直观表现便是，过去我们都认为最安全、不会出问题的地方，却时有大问题发生。近年学校、幼儿园、公交车等场域发生的安全事件，都莫不如此。<br/><div class="contheight"></div>要溯及背后的原因，较复杂。一些因素可能是显性的，一些可能是隐性的。就像一些理论研究者指出的，“风险社会”可能就是现代性的一个重要特征；而随着我国城镇化的持续推进，现代城市的功能和系统都更趋复杂，城市内部所蕴含的风险因素也几乎必然会上升。这些都为恶性安全事件的发生提供了宏观意义上的解释。<br/><div class="contheight"></div>但是，安全事件发生的原因复杂，防范应对却要具体。面对新型的城市安全问题，不能完全指望个体的更小心和加强自我防范，更重要的是，城市公共安全的管理层面，应该构建更为周全的保障方案，从机制与系统上设置更多的安全冗余空间。<br/><div class="contheight"></div>《中国城市公共安全发展报告（2016～2017）》就指出，当前城市社会治安防控体系不健全。譬如，城市公共安全基础设施比较薄弱，应急管理体制机制不完善，应急能力有待进一步提升。<br/><div class="contheight"></div>具体看，鉴于抢方向盘事件在公交车上多次发生，为司乘之间构筑隔离措施，或就是较为现实的选择；而学校、商场、地铁等人流密集的地方，配备必要的安保力量，强化路面巡逻，并完善日常化的应急预警机制，提升公众的参与意识和参与能力等等，都应该纳入整个城市的公共安全防护体系的优化中去。同时，安全保障理念也需要刷新，把更多资源用于防患未然，将公共安全管理触角前移。今天，福建省应急管理厅已经表示，该省将进一步完善公交车安防措施，推进公交车乘务管理人员(安全员)配备。<br/><div class="contheight"></div>应该充分意识到，当前城市公共安全环境正在面临新的变化和更多的不确定性因素，在应对和防范上，不能再被“深夜撸串的安全”所迷惑。每一次个案，都宜置于更大的社会背景下来看，通过完整检视其背后的安全漏洞与风险因素，促进公共安全系统的优化。需要更有力地保卫民众的安全感，我们的城市安全防范等级是该提级了。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 万州抢方向盘 龙岩 公交车 公共安全</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776851">
+<div class="nbgbox">
+<a class="zan" contid="2776851" href="javascript:;" onclick="voteCont(this)" praisetimes="148">
+                           147</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 万州公交坠江</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776851&caid=25444",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776851&amp;caid=25444" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

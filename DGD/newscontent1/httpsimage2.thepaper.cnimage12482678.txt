@@ -1,0 +1,82 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜活牛注水：食品安全之殇，更是动物保护之痛</h1>
+<div class="news_about">
+<p>澎湃特约评论员 任然</p>
+<p>
+							2018-11-22 16:17<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2658332" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜活牛注水：食品安全之殇，更是动物保护之痛" src="//image.thepaper.cn/image/12/463/923.jpg"/>
+</a>
+<div class="atlas_360_txt">注水120斤黄牛痛到跪倒，全椒官方：屠宰点负责人已被控制<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">一根长约一米的塑料水管，从牛鼻直入牛胃，注水12小时，注水量达120斤后，黄牛才被屠宰，牛肉被运到南京市场上出售。这几天，安徽全椒、来安两地屠宰点“活牛注水”事件，引发关注。 <br/><div class="contheight"></div>媒体报道中，黄牛被注水后彻夜惨叫、跪地，眼角流淌痛苦泪水的画面，让人心生怜悯，激发人们本能的不适和普遍的同情，也让人对人性可能达到的残忍程度多了几分新的认识。 <br/><div class="contheight"></div>但事实上，如果不是此次报道突出了黄牛痛苦的种种细节，并没有太多人注意到，“活牛注水”其实一直就存在，以往不少被查处的案件中，都有这样的细节。2015年，西安一定点屠宰场里，不法者就把长管插入牛鼻子，用机器给每头牛注水约10分钟。只不过由于未能被媒体聚焦，而被湮没在人们对于食品安全问题的关注之中。 <br/><div class="contheight"></div>当然，即便是此次，活牛注水的痛苦场景让不少人同情，也有一部分人会释然：在食品安全问题都未得到充分解决的背景下，关心牛在屠宰场是否被人道对待，是否过于奢侈？可问题在于，面对一种真实存在的残忍行为，忽视它本身就是不人道的，这无关对象是人还是动物。 <br/><div class="contheight"></div>在中国目前的法律体系下，由于缺乏动物福利方面的保护规定，活牛注水这样的行为，并不会得到法律制裁，那些被查处的注水肉屠宰场，多是因生产、销售伪劣产品而被定罪、追责。这也是现实中，多数人认为谈动物福利显得奢侈的制度背景所在。 <br/><div class="contheight"></div>目前，当地相关屠宰点已被取缔，负责人也被警方控制，等待他们的将是法律严惩。但要追问的是，面对活体注水现象，就真的只能止于道德谴责？ <br/><div class="contheight"></div>近年来，我国动物福利观念的生长，乃至动保行动的发育，都是显而易见的。这尤其在一些宠物议题上得到直接体现。必须承认，宠物就在每个人身边，它们如何被对待，更容易受到动保人士的关心。但那些一般人看不见，或更容易被忽视的动物的处境是否能够得到一样的关注，往往更能体现出动物保护者的价值主张和诚意。 <br/><div class="contheight"></div>事实上，由于当前社会宠物饲养文明程度的相对滞后，在一些方面，动保主义者的种种举动时常遭遇争议。而主张制止活牛注水这样的残忍现象，应该极少会有人反对，它更接近于当前整个社会的动保底线。那么，社会动物保护力量在这一方面发力，无论是观念推广，还是实质性监督、干预，相信都能够获得社会更广泛的认同和支持，未尝不是宣扬动物福利观念的好机会。<br/><div class="contheight"></div>其实，基于当前中国动物保护的法律、观念和现实来看，在推广动保观念的话术上，相较于直接而空泛地谈动物保护、动物福利观念等，“反虐待”或许是一种更容易被接受、更接地气的价值主张和行动策略。如反对活熊取胆、活牛注水、虐待猫狗等。在这个领域，社会动保力量确实可以发挥更大作用。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2655625" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">安徽两地现注水牛屠宰点：12小时注水120斤，牛流泪下跪</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 活牛注水</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2660705">
+<div class="nbgbox">
+<a class="zan" contid="2660705" href="javascript:;" onclick="voteCont(this)" praisetimes="389">
+                           388</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 活牛注水</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2660705&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2660705&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（169）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

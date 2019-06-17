@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">布基纳法索总统卡博雷会见王毅</h1>
+<div class="news_about">
+<p>外交部</p>
+<p>
+							2019-01-05 17:15<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="412" src="http://image.thepaper.cn/www/image/13/936/976.jpg" width="500"/></div><span style="color: rgb(128, 128, 128);">外交部网站 图<br/><div class="contheight"></div></span>2019年1月4日，布基纳法索总统卡博雷在瓦加杜古总统府会见国务委员兼外交部长王毅。<br/><div class="contheight"></div>卡博雷请王毅转达对习近平主席的亲切问候和崇高敬意。卡博雷表示，你在新年伊始到访，体现了中国政府对布基纳法索的重视以及布中之间的友谊和团结。我愿意重申，布方承认世界上只有一个中国，致力于在一个中国原则基础上发展和加强同中国的双边关系。布中之间的崭新合作刚刚起步。布方感谢中方为布发展经济和改善民生给予的帮助，对中国医疗队、农业和培训专家组的高效、高质量工作表示赞赏，布人民对布中关系的未来充满希望。地区安全问题是布方的重大关切，感谢中方支持布等萨赫勒国家维护地区和平安全的努力，希望在这方面继续得到中方支持。布中在维护联合国作用等很多国际问题上立场一致，布方愿同中方加强沟通，共同维护非洲等发展中国家的利益。<br/><div class="contheight"></div>王毅向卡博雷转达习近平主席的亲切问候。王毅表示，总统先生审时度势，排除干扰，作出同中国恢复外交关系的重大决策，得到布基纳法索人民一致支持，也在非洲大陆受到广泛欢迎。历史将证明，中布复交的抉择完全正确，完全符合布国家和人民的根本和长远利益。双方应在涉及彼此核心利益的问题上相互坚定支持。相信布方将继续坚持一个中国原则，中方也将支持布方维护自身正当权益的努力。<br/><div class="contheight"></div>王毅表示，中国是一个发展中大国，理应同发展中国家坚定地站在一起，全力维护发展中国家的利益。包括布基纳法索在内的非洲国家始终在中国外交全局占据重要位置。中布复交为中布合作奠定了政治基础，也打开了壮丽前景。总统阁下去年对中国进行历史性访问并出席中非合作论坛北京峰会，习近平主席同你共同规划了中布关系的发展蓝图。半年来，两国各领域交往全面展开，务实合作迅速推进，已经取得一系列看得见、摸得着的成果。中方将根据布方需要，在经济、民生、卫生、教育等领域提供力所能及的帮助。中方理解并支持布维护国家和地区和平安全的关切，愿与布方深化和平安全领域合作，帮助布等非洲国家提高自主维和能力。<br/><div class="contheight"></div>（原题为《布基纳法索总统卡博雷会见王毅》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘惠<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 王毅,外交部,布基纳法索</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2817732">
+<div class="nbgbox">
+<a class="zan" contid="2817732" href="javascript:;" onclick="voteCont(this)" praisetimes="15">
+                           14</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 布基纳法索</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2817732&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2817732&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">江西九江鄱阳湖水域发现16只死亡白琵鹭，疑似中毒已立案</h1>
+<div class="news_about">
+<p>央视新闻客户端</p>
+<p>
+							2018-12-25 13:36<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">央视新闻客户端12月25日消息，中国野生动物保护协会江西志愿者在九江市湖口县南北港水产场附近的鄱阳湖水域发现16只白琵鹭的尸体。白琵鹭，名列《国家重点保护野生动物名录》，是国家二级保护动物。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="643" src="http://image.thepaper.cn/www/image/13/485/930.png" width="477"/></div>经最初发现的志愿者表述，12月23日下午，他们在江西九江市湖口县的鄱阳湖水域发现了3只已死亡的白琵鹭，随后向湖口县林业局报案。 而后第二天又在附近水域连续发现12只已死亡的白琵鹭。其中1只离前一天发现死亡白琵鹭尸体的地点约两百米，另外11只距离一公里左右，直到昨天一共发现了死亡白琵鹭共16只。 据介绍，经过林业部门现场勘查发现，其中一只白琵鹭尸体的喉咙里发现了红色黏液，尸体下面的地上也有一摊，有关部门怀疑是中毒的症状。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="451" src="http://image.thepaper.cn/www/image/13/485/931.jpg" width="600"/></div>目前湖口县林业局野生动物保护站已经介入正在调查，白琵鹭死因暂不能确定，湖口县森林公安局已经立案侦查。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="451" src="http://image.thepaper.cn/www/image/13/485/932.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">疑似中毒死亡的苍鹭<br/><div class="contheight"></div></span><div style="text-align:center;"><img alt="" height="455" src="http://image.thepaper.cn/www/image/13/485/933.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">疑似中毒死亡的琵鹭</span><br/><div class="contheight"></div>背景介绍：白琵鹭，是鹮科琵鹭属的一种，大型涉禽。长得很像可能混群的黑脸琵鹭，都是国家二级保护动物。白琵鹭喜欢在泥泞水塘、湖泊或泥滩等生境中活动，常在水中缓慢前进，嘴往两旁甩动以寻找食物，主食水生昆虫、小鱼、虾和其他无脊椎动物。在中国北方繁殖的种群均为夏候鸟，春季于4月初至4月末从南方越冬地迁到北方繁殖地，秋季于9月末至10月末南迁。在中国南方繁殖的种群主要为留鸟，不迁徒。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="381" src="http://image.thepaper.cn/www/image/13/485/934.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">白琵鹭资料图<br/><div class="contheight"></div></span>（本文原题为《江西九江鄱阳湖水域发现16只死亡白琵鹭 疑似中毒已立案》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 国家保护动物</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772439">
+<div class="nbgbox">
+<a class="zan" contid="2772439" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 野生保护动物</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772439&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772439&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

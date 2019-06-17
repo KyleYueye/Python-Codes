@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">吉林长白山欲打通南方旅游市场，推“惠民五条”政策吸引客流</h1>
+<div class="news_about">
+<p>澎湃新闻记者 汤琪</p>
+<p>
+							2018-12-26 20:14<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/530/780.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">长白山天池 澎湃新闻记者 汤琪 图<br/><div class="contheight"></div></span>每年一到冬季，中国北方名山长白山总是热闹非凡。<br/><div class="contheight"></div>12月26日晚，“长白山粉雪节”在长白山池北区全季地形公园正式开幕。澎湃新闻（www.thepaper.cn）从稍早前的新闻发布会上获悉，此次活动由吉林省文化和旅游厅、长白山管委会联合主办，活动以“12度粉雪·温暖相约”为主题，加快推动“白雪换白银”的中心目标，突出展示长白山世界级粉雪资源。<br/><div class="contheight"></div>何为“粉雪”？长白山管委会副主任李一杨在发布会上解释道，长白山地处世界级黄金粉雪带上，这里的雪像面粉一样松软，被誉为雪中极品，雪球结实饱满，富有弹性，水分含量极少，使得长白山的雪都以细粉状态呈现，是最适合滑雪的雪。<br/><div class="contheight"></div>自2006年起，长白山已彻底告别“冬季封山”的历史，每年冬季都会举办“长白山雪文化旅游节”，迄今已连续举办十二届。今年，当地在长白山雪文化旅游节的基础上，深度挖掘长白山世界级粉雪资源，对长白山冰雪进行升级宣传，举办“长白山粉雪节”。<br/><div class="contheight"></div>李一杨表示，与往届的雪节相比，今年的粉雪节深度拓展长白山冬季“浪漫、快乐、智慧、激情、温度”五元素。“我们突破传统的宣传模式，实现‘线上+线下’全方位宣传冰雪，在线上，通过微博、微信、火山小视频、抖音短视频等‘轰炸式’宣传长白山。”<br/><div class="contheight"></div>此外，在“粉雪节”举办期间，长白山还将举办“2019年中国雪地汽车拉力锦标赛”“2019年长白山天池大瀑布国际首攀大会”等冰雪体育赛事，同时打造多种冰雪旅游产品，让游客和居民与长白山粉雪进行“零距离接触”。<br/><div class="contheight"></div>有数据显示，冬季来长白山旅游的游客中，有将近40%的人来自东北三省。对此，李一杨在接受澎湃新闻采访时透露，今年希望通过官方的推介，让周边省份的游客增加来到长白山游玩的参与度，同时还要打通南方市场。“我们在珠三角、长三角已经展开‘地毯式’的宣传，今年冬天长白山一定是热闹的，一定能带给游客更多的玩法和乐子。”<br/><div class="contheight"></div>为此，长白山管委会在今年提出了“惠民五条”政策——每年11月1日至次年4月30日，长白山西、北景区免除125元门票；持长白山景区门票可在三天内不限次数进入北景区、西景区游览；设立1000万元人民币诚信基金，执行先行赔付制度，坚决维护旅游消费者合法权益；等等。<br/><div class="contheight"></div>“到长白山来，无论是滑雪、购物，还是饮食，我们都有一整套的监督体系，包括可追溯体系，如果买到假货，我们第一时间可以发现是谁卖的假货，同时第一时间进行理赔。”李一杨说。<br/><div class="contheight"></div>长白山管委会官网显示，长白山全国旅游统一咨询投诉电话为12301，长白山旅游咨询投诉电话为0433-5712345，长白山旅游咨询投诉处理平台将从游客需求出发，实现涉旅投诉“一口受理、分工协作、及时办结、跟踪督办”的长效工作机制。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 长白山,南方市场</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2777744">
+<div class="nbgbox">
+<a class="zan" contid="2777744" href="javascript:;" onclick="voteCont(this)" praisetimes="32">
+                           31</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 长白山</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2777744&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2777744&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=38613">哈尔滨日报</a>
+</div>
+<h1 class="news_title">哈尔滨新规：顺风车每天载客不能超过两次</h1>
+<div class="news_about">
+<p>哈尔滨日报</p>
+<p>
+                            2019-01-11 07:43<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard">日前，哈市出台《哈尔滨市关于规范私人小客车合乘的实施意见》并正式实施。根据《意见》，私人小客车进行合乘时，须通过合乘信息服务平台实名制注册，驾驶员提供合乘服务每车每日不超过两次。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="436" src="http://image.thepaper.cn/www/image/14/151/194.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">网络配图</span><br/><div class="contheight"></div>依据《意见》，合乘出行属于驾驶员、合乘者及合乘信息服务平台各方自愿的民事行为。合乘出行相关权利、义务及安全责任事故等责任由合乘各方依法、依约自行承担。私人小客车合乘出行可以合理分摊出行成本，出行成本仅限于燃料成本、通行费用、车辆折旧等直接费用。<br/><div class="contheight"></div>私人小客车合乘不得以营利为目的，不属于道路运输经营行为。驾驶员应当事先发布出行信息，与合乘者约定行驶线路、出行时间、乘车地点、费用分摊等事宜。驾驶员提供合乘服务每车每日不超过两次。<br/><div class="contheight"></div>《意见》要求，私家车进行合乘时，需通过合乘信息服务平台实名注册，内容包括驾驶员身份证、驾驶证；车辆行驶证、年检记录及保险状况；合乘者身份证；驾驶员、合乘者的手机号码。<br/><div class="contheight"></div>所提供服务的合乘软件应独立设置，或者所提供服务软件的合乘功能应独立设置；合乘软件应当为合乘双方提供合乘出行协议文本；使用取得本市公安部门核发的《机动车行驶证》且年检合格的车辆；每车每日派单不超过两次；合乘信息服务平台应通过技术手段做好合乘出行管理，将提供合乘出行的车辆相关信息接入政府监管平台，并实时传输合乘出行信息。<br/><div class="contheight"></div>合乘各方应当配合执法检查，主动提供合乘信息。禁止利用私人小客车合乘名义从事非法营运活动。违反上述规定的，由有关部门以非法营运依法查处。<br/><div class="contheight"></div>哈尔滨日报记者 节永志<br/><div class="contheight"></div>（原标题：《哈市新规施行：顺风车 每天载客不能超过两次》）<br/><div class="contheight"></div></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2839945">
+<div class="nbgbox ">
+<a class="zan" contid="2839945" href="javascript:;" onclick="voteCont(this)" praisetimes="109">
+                                    108</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（53）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=38613">哈尔滨日报</a>
+</div>
+<h1 class="news_title">广州一企业14.4万只避孕套不符合标准规定，被紧急召回</h1>
+<div class="news_about">
+<p>南方都市报</p>
+<p>
+                            2019-01-10 08:52<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard">近日，国家药监局的一纸通知，让不少以避孕套方式避孕的民众有些“心慌”。<br/><div class="contheight"></div>广州双一乳胶制品有限公司日前报告，该公司生产的天然胶乳橡胶避孕套经检验，涉嫌不符合标准规定。广州双一乳胶制品有限公司主动召回有关产品，召回级别为三级。涉及产品的型号为SY0031704，数量多达14.4万只。具体涉及型号等详细信息见《医疗器械召回事件报告表》（见下图）。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="869" src="http://image.thepaper.cn/www/image/14/103/335.jpg" width="600"/></div>公开资料显示，此次主动召回的避孕套生产厂家为广州双一乳胶制品有限公司，该公司原名广州广橡企业集团有限公司双一乳胶厂、广州第十一橡胶厂，诞生于20世纪50年代，原为化工部直属第十一橡胶厂。避孕套年生产能力8亿只。<br/><div class="contheight"></div>据记者了解，广州双一乳胶制品有限公司已在天猫开通旗舰店，但工商资料显示，旗舰店经营者并非上述《医疗器械召回事件报告表》中标示的代理商“舟山市普陀医药药材有限公司”，而是双一乳胶独立运营。<br/><div class="contheight"></div>广州双一乳胶制品有限公司相关负责人8日也表示，此次召回产品均是线下产品，未涉及网络销售途径。且该批次未销售的581盒已全部召回，已销售的产品会按照医疗器械相关管理规定进行处理。<br/><div class="contheight"></div>而舟山市普陀医药药材有限公司官网则显示，该公司成立于1960年，是一家有着悠久经营历史的药品批零企业。1998年改制后，由国有企业转型为股份制企业。2006年2月由浙江海氏实业集团全面控股。该公司还指其为一直以来是舟山地区医药行业的领军者。<br/><div class="contheight"></div>其实，避孕套因质量问题召回，国外也有多次先例。即便是跨国公司杜蕾斯也难避免。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="343" src="http://image.thepaper.cn/www/image/14/103/341.jpg" width="600"/></div><br/><div class="contheight"></div>就在去年底，据加拿大新闻媒体报道称，知名避孕套品牌杜蕾斯的部分产品将会在最近陆陆续续召回，尤其是加拿大地区，现在就已经全境召回了。<br/><div class="contheight"></div>据称，由于杜蕾斯公司Real Feel这个系列的避孕套在检查过程中发现了问题，并未通过贮藏期的测试，因此可能在使用时间上存在误差，为了避免有的顾客买了之后，发生“意外问题”，方才发布消息召回。<br/><div class="contheight"></div>（原标题：《【注意】14.4万只避孕套被紧急召回！这个型号 ↘》）</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2834976">
+<div class="nbgbox ">
+<a class="zan" contid="2834976" href="javascript:;" onclick="voteCont(this)" praisetimes="37">
+                                    36</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

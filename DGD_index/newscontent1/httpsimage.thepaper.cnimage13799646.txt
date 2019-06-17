@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美边防人员元旦夜连发催泪弹驱散难民，有妇孺和记者“中招”</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2019-01-02 10:29<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="391" src="http://image.thepaper.cn/www/image/13/799/644.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">美国海关及边防局人员向墨西哥发射至少三枚催泪弹，不少难民中招。视觉中国 图</span><br/><div class="contheight"></div>中新网1月2日电 据外媒报道，美国边防人员当地时间1日向墨西哥边境城镇蒂华纳的美墨边境连发催泪弹驱散难民。<br/><div class="contheight"></div>报道称，为数约150人的难民队伍在2018年12月31日元旦前夕企图趁越境赴美不果，踏入新年后不久，美国海关及边防局人员即向墨西哥发射至少三枚催泪弹，阻止他们前进。<br/><div class="contheight"></div>现场烟雾弥漫，不少难民包括妇孺以至传媒记者中招，有人辛苦掩脸，有人痛极大叫。有难民透露他们来自洪都拉斯，在上个月抵达墨西哥边境城镇蒂华纳。<br/><div class="contheight"></div>美国海关及边防局表示，这次发射催泪弹是针对在墨西哥边境投掷石头的难民，他们妨碍边防人员协助难民儿童通过铁丝网入境，目前已有25人在事件中被捕。<br/><div class="contheight"></div>（原文标题：《 美国边防人员向墨西哥连发催泪弹 驱散逾百难民》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美墨边境,移民</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2803238">
+<div class="nbgbox">
+<a class="zan" contid="2803238" href="javascript:;" onclick="voteCont(this)" praisetimes="16">
+                           15</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美墨边境墙</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2803238&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2803238&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

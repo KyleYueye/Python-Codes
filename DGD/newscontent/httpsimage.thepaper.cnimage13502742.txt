@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=31821">赤峰公安</a>
+</div>
+<h1 class="news_title">赤峰一男子非法网购枪支部件改造射钉枪，已被刑拘</h1>
+<div class="news_about">
+<p>赤峰公安</p>
+<p>
+                            2018-12-25 20:55<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard">今年12月初，松山区公安分局刑侦大队民警对“缉枪治爆”专项行动线索进行梳理时，接到上级单位核查指令，称松山区有一名女子在网上购买过疑似枪支部件（枪管）。<div style="text-align:center;"><img alt="" height="192" src="http://image.thepaper.cn/www/image/13/500/306.jpg" width="347"/></div>接到通知后，民警立即开展工作，通过研判得知，实际情况为该女子哥哥鲁某某使用妹妹的网购平台账号购买疑似枪支部件，且鲁某某曾在建筑工地工作，有长期使用射钉枪的经验。<br/><div class="contheight"></div>12月19日，民警迅速展开行动，将鲁某某传唤至刑侦大队，同时在鲁某某家中查获疑似枪支1支（后经有关部门鉴定为枪支）。经讯问，鲁某某交待其从小对射钉枪十分迷恋，2016年在网上购买改装射钉枪的无缝钢管，并对射钉枪进行改造的犯罪事实。<div style="text-align:center;"><img alt="" height="240" src="http://image.thepaper.cn/www/image/13/500/307.jpg" width="501"/></div>目前，犯罪嫌疑人鲁某某因涉嫌非法买卖枪支、制造枪支罪已被依法刑事拘留。<br/><div class="contheight"></div><strong>学点法律<br/><div class="contheight"></div>《中华人民共和国刑法》</strong><br/><div class="contheight"></div>第一百二十五条【非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物罪、非法制造、买卖、运输、储存危险物质罪】非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物的，处三年以上十年以下有期徒刑；情节严重的，处十年以上有期徒刑、无期徒刑或者死刑。非法制造、买卖、运输、储存毒害性、放射性、传染病病原体等物质，危害公共安全的，依照前款的规定处罚。<br/><div class="contheight"></div>第一百二十八条【非法持有、私藏枪支、弹药罪、非法出租、出借枪支罪】违反枪支管理规定，非法持有、私藏枪支、弹药的，处三年以下有期徒刑、拘役或者管制；情节严重的，处三年以上七年以下有期徒刑。<br/><div class="contheight"></div>《中华人民共和国治安管理处罚法》<br/><div class="contheight"></div>第三十二条非法携带枪支、弹药或者弩、匕首等国家规定的管制器具的，处五日以下拘留，可以并处五百元以下罚款；情节较轻的，处警告或者二百元以下罚款。非法携带枪支、弹药或者弩、匕首等国家规定的管制器具进入公共场所或者公共交通工具的，处五日以上十日以下拘留，可以并处五百元以下罚款。<br/><div class="contheight"></div>信源：平安松山<br/><div class="contheight"></div>（本文原标题：《松山区一男子非法买卖、制造枪支被刑拘》）<br/><div class="contheight"></div></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2774139">
+<div class="nbgbox ">
+<a class="zan" contid="2774139" href="javascript:;" onclick="voteCont(this)" praisetimes="16">
+                                    15</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

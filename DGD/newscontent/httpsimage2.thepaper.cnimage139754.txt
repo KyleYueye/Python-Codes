@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">《时代周刊》2018年度人物揭晓：守卫者卡舒吉及记者群体</h1>
+<div class="news_about">
+<p>左甜/环球网</p>
+<p>
+							2018-12-11 22:09<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="800" src="http://image.thepaper.cn/www/image/13/97/309.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">本文图片均来自环球网<br/><div class="contheight"></div></span>环球网12月11日消息，当地时间周二(11日)，美国《时代》周刊将2018年度人物给予作为“守卫者”的沙特记者贾马尔·卡舒吉以及其他被谋杀和监禁的记者。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="800" src="http://image.thepaper.cn/www/image/13/97/304.jpg" width="600"/></div>在10日的最终名单中，与卡舒吉及其同行同在最终候选名单上的还有：“通俄门”检察官穆勒、俄罗斯总统普京、美国总统特朗普。哥伦比亚广播公司(CBS)12月11日称，特朗普和穆勒分别名列二、三位。<br/><div class="contheight"></div>自1927年以来，《时代》周刊每年都会评选“年度人物”，选出对当年时事影响最大的人，至于对当年的影响是正面还是负面，《时代》周刊曾撰文表示称，这是要留给读者的问题。<div style="text-align:center;"><img alt="" height="800" src="http://image.thepaper.cn/www/image/13/97/307.jpg" width="600"/></div><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="800" src="http://image.thepaper.cn/www/image/13/97/308.png" width="600"/></div>以下为近三年，《时代》周刊所评选的“年度人物”：<br/><div class="contheight"></div>2017年12月6日，美国《时代》周刊“年度人物”是揭露性骚扰和性侵事件的“打破沉默者”。<br/><div class="contheight"></div>2016年12月7日，《时代》周刊以“改写美国政治的游戏规则”，给予特朗普“年度人物”头衔。<br/><div class="contheight"></div>2015年12月9日，德国总理默克尔当选美国《时代》周刊2015年度风云人物，《时代》周刊主编南希•吉布斯当时评价她：比多数政治人物敢于向她的国家提出要求，善用权宜之计。<br/><div class="contheight"></div>（原题为：《时代》周刊年度人物颁予“守卫者”：其中包括卡舒吉）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 《时代》周刊,年度人物,卡舒吉,记者</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2728579">
+<div class="nbgbox">
+<a class="zan" contid="2728579" href="javascript:;" onclick="voteCont(this)" praisetimes="154">
+                           153</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 卡舒吉</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2728579&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2728579&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

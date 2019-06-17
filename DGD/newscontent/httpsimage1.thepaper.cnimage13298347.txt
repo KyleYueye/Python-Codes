@@ -1,0 +1,76 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">再见小丸子！《樱桃小丸子》漫画将于圣诞节完结</h1>
+<div class="news_about">
+<p>王珊宁/海外网</p>
+<p>
+							2018-12-19 10:28<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="419" src="http://image.thepaper.cn/www/image/13/298/328.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">《樱桃小丸子》第17卷封面。<br/><div class="contheight"></div></span>海外网12月19日消息，据日本每日新闻报道，18日，日本最大的综合出版社集英社宣布，今年8月去世的漫画家樱桃子的代表作《樱桃小丸子》将在25日发售最后一本漫画，之后正式完结。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="326" src="http://image.thepaper.cn/www/image/13/298/329.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">樱桃子告别仪式。</span><br/><div class="contheight"></div>集英社此前官方发布讣告称，《樱桃小丸子》的原作者樱桃子于2018年8月15日因乳腺癌逝世，享年53岁。11月，樱桃子的告别仪式在东京举行，来自日本演艺、声优、出版等各界人士约1000人前来出席。会场按照樱桃子生前的希望“明朗、开心和和谐”的气氛布置，告别仪式上眼泪和笑声交织。<br/><div class="contheight"></div>日媒表示，在樱桃子逝世后，《樱桃小丸子》的漫画单行本也正式告一段落。最新一期，也是最后一期的第17卷将在2018年12月25日圣诞节发行。《樱桃小丸子》此前最新的一集漫画单行本是2009年推出的第16卷，在那之后，虽然电视动画不断推出新作品，但《樱桃小丸子》漫画此前始终停留在第16卷。<br/><div class="contheight"></div>第17卷的封面已经公开，里面将收录电视动画第109集“小丸子弄丢存折篇”等。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="282" src="http://image.thepaper.cn/www/image/13/298/330.jpg" width="496"/></div><span style="color: rgb(128, 128, 128);">樱桃子（人民网）</span><br/><div class="contheight"></div>日媒表示，《樱桃小丸子》以作者自己的少女时代为原型，创造了小学3年级的主人公小丸子，描绘小丸子在学校和在家的日常生活。自1986年在集英社出版的少女漫画杂志连载开始，已累计卖出3200万部相关作品。同时也改编成动画片，在中日两国大人和孩子心中都留下深刻印象。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="329" src="http://image.thepaper.cn/www/image/13/298/331.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">网友留言</span><br/><div class="contheight"></div>此前，中日网友也纷纷在网上留言怀念樱桃子，有网友深情表示：“感谢您温暖了我的童年。”<br/><div class="contheight"></div>樱桃子为笔名，作者原名是三浦美纪，出生于日本静冈县清水市，大学在读期间作为漫画家出道，曾经和责任主编结婚后离婚，育有一子。在樱桃子的漫画生涯中，最为知名的作品是漫画《樱桃小丸子》，此同时她也是动画《樱桃小丸子》主题曲的曲作者。<br/><div class="contheight"></div>（原题为《再见小丸子！《樱桃小丸子》漫画将于圣诞节完结》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2640383" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">樱桃小丸子作者樱桃子告别仪式今日举行，遗像是自画像</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2384752" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">《樱桃小丸子》原作者樱桃子因病去世，终年53岁</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 樱桃小丸子,圣诞节</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2751724">
+<div class="nbgbox">
+<a class="zan" contid="2751724" href="javascript:;" onclick="voteCont(this)" praisetimes="96">
+                           95</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 樱桃小丸子</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2751724&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2751724&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（163）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜减少过度开药、卖药，使家庭药箱不致成为过期药箱</h1>
+<div class="news_about">
+<p>澎湃特约评论员 周俊生</p>
+<p>
+							2018-07-05 18:49<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">有媒体日前对1990名受访者进行的问卷调查显示，99.6%的受访者家中有过期药品，但多达56.6%的受访者选择将其当成一般垃圾直接扔掉，73.6%的受访者坦言不知如何处理过期药品。 <br/><div class="contheight"></div>这是一个让人忧虑的现实。现在，很多家庭都会自备一个药箱，屯些日常药品以备不时之需，谁都知道，药品都是有期限的，过期就只能报废，服用过期药不仅无益反而容易生出新的病患。但如何处理过期药品如何处理，却是个难题。直接丢弃危害很大，比如可能有人捡拾误服，可能被不法药企“再利用”，也会污染环境。为了改变这种状况，我国已将家庭过期药品列入《国家危险废物名录》。但从此次的问卷调查结果来看，过期药品是危险废物的观念还没有深入人心。 <br/><div class="contheight"></div>要根治家庭过期药品乱丢的习惯，首先要追问其来源。现在到医院看病，医生往往会开出一大堆药，会超过病人的实际需要量，而病人由于有医保报销，对此也不在乎，甚至反而认为占了便宜。即使是到药房自购药品，通常也是整版整盒，很少有药房愿意拆零销售。这种多余的药品是家庭过期药品的主要来源。而这种与治病不匹配的大剂量开药卖药，只是给医院和药房创造了收益，既造成了医保资金的过度使用，也不利于病人的安全用药。因此，要杜绝产生过多的过期药品，首先要从医院开药、药房卖药这个源头抓起，减少过度开药、卖药，使家庭药箱不致成为过期药品的归宿。 <br/><div class="contheight"></div>除此以外，尽管过期药品已进入《国家危险废物名录》，但如果没有有效的配套措施跟进，就会导致制度空悬，起不到应有的督促作用。目前，已经有一些民间机构建立起了过期药品回收制度，比如今年3月，阿里就携手广药集团，联合多家国内医药行业龙头企业，发起建立了首个“全国家庭过期药品回收联盟”，尝试以技术力量驱动环保与公益。而广药集团设立的家庭过期药品回收机制至今已运行15年，累计回收过期药品1500多吨。对于这种民间自发的过期药品回收，政府自然应该鼓励，但企业毕竟有自己的经济追求，把这一责任完全压到它们身上，效果可能也不理想。<br/><div class="contheight"></div>更重要的是，国家应该动用一定的行政力量，要求所有公立、私立医院以及药房建立药品回收制度，病人在看病或者买药时，可以同时将过期药品带来交给专业人员回收。在这一制度建立初期，病人可能还未养成良好习惯，可以拨出一定的专款，对主动缴纳过期药品的人给予适当的经济或物质奖励，医院规定指定药品可以给予病人免费“以旧换新”的优惠，使公众逐渐养成按规定向有关机构缴纳过期药品的习惯，以此杜绝随意丢弃的风气。 <br/><div class="contheight"></div>过期药品问题看似小事，却牵连到民生健康、环境保护等多个方面，需要每一个人重视。对于政府来说，制订法律制度来规范这种行为当然是有必要的，但这种在家庭内部产生、很难监督的行为，更重要的是要加强宣传，通过各种更有人性化的措施，通过各种“润物细无声”的制度浸淫，来逐渐矫正人们的生活习惯，使不乱丢过期药品成为人们的自觉行为。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 过期药品回收</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2242245">
+<div class="nbgbox">
+<a class="zan" contid="2242245" href="javascript:;" onclick="voteCont(this)" praisetimes="16">
+                           15</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 过期药品回收</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2242245&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2242245&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

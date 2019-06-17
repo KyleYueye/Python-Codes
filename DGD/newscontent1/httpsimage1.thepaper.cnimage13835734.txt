@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">习近平主席特使吉炳轩出席巴西新总统就职仪式</h1>
+<div class="news_about">
+<p>新华网</p>
+<p>
+							2019-01-03 06:19<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华网巴西利亚1月2日消息，习近平主席特使、全国人大常委会副委员长吉炳轩1月1日在巴西首都巴西利亚出席巴西新总统博索纳罗就职仪式，并于2日会见博索纳罗。<br/><div class="contheight"></div>吉炳轩向博索纳罗转达了习近平主席的热烈祝贺和良好祝愿，并转交了习主席亲署函。吉炳轩表示，中巴友好是发展中大国关系和南南合作的典范。中方始终从战略高度和长远角度发展对巴关系，愿同巴方一道，加强全方位交往，深化各领域务实合作，密切多边协调配合，推动中巴全面战略伙伴关系取得更大发展。<br/><div class="contheight"></div>博索纳罗感谢习近平主席派特使出席其就职仪式，请吉炳轩转达他对习近平主席的亲切问候。博索纳罗表示，中国和巴西都是伟大的国家，巴西新政府高度重视对华合作，愿全力推动巴中关系，两国合作的前景一定会越来越美好。<br/><div class="contheight"></div>吉炳轩还会见了巴西新任副总统莫朗和卸任外长努内斯。<br/><div class="contheight"></div>（原题为《习近平主席特使吉炳轩出席巴西新总统就职仪式》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王建亮<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 巴西,中巴关系,博索纳罗</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2806989">
+<div class="nbgbox">
+<a class="zan" contid="2806989" href="javascript:;" onclick="voteCont(this)" praisetimes="37">
+                           36</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 巴西</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2806989&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2806989&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

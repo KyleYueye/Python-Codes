@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">曾出现微缝的俄“联盟MS-09”号飞船着陆，载3名宇航员</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-20 16:03<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">载有3名宇航员的一艘俄罗斯飞船成功着陆。<br/><div class="contheight"></div>据俄罗斯卫星通讯社12月20日报道，俄罗斯飞行控制中心消息，三名宇航员乘坐“联盟MS-09”号载人飞船返回舱成功从国际空间站返回地球，在哈萨克斯坦草原上着陆。<br/><div class="contheight"></div>乘坐返回舱从国际空间站返回到地球的宇航员，包括俄罗斯宇航员谢尔盖·普罗科皮耶夫、欧洲宇航员亚历山大·格斯特和美国宇航员塞莉娜·奥农-坎茨勒。由于云层较低，救援人员没有立即找到载有宇航员返回舱的着陆点。<br/><div class="contheight"></div>报道称，8月30日夜，国际空间站上发现有气体泄露。乘员检查了所有隔舱，发现在“联盟MS-09”号飞船上有微缝。俄罗斯飞行控制中心做出决定，立即堵漏。宇航员随后使用密封胶成功堵住“小洞”。<br/><div class="contheight"></div>12月11日晚，俄罗斯宇航员奥列格∙科诺年科和谢尔盖∙普罗科皮耶夫进入开放太空，对“联盟MS-09”号飞船外舱壁进行了检查。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：廖婧雯<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 宇宙飞船，宇航员，着陆</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2756090">
+<div class="nbgbox">
+<a class="zan" contid="2756090" href="javascript:;" onclick="voteCont(this)" praisetimes="42">
+                           41</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 俄罗斯载人飞船</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2756090&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2756090&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

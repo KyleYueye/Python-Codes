@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">太阳公公缺勤严重！2019年至今上海日照普遍不足2小时</h1>
+<div class="news_about">
+<p>澎湃新闻记者 栾晓娜</p>
+<p>
+							2019-01-10 18:00<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">上海的阴雨天气还将继续。<br/><div class="contheight"></div>1月10日，上海气象部门发布近期“太阳的出勤记录”显示，2019年1月1日以来，上海各区气象站日照时数普遍不足2小时，徐家汇、青浦、闵行、浦东、松江、奉贤等6个站基本无有效日照，嘉定、宝山、金山的日照时数在1-2小时，崇明稍高为3.4小时。这在历史同期极为罕见。<br/><div class="contheight"></div>据上海市气象局介绍，自2018年12月至今，上海全市雨量、雨日、日照等多项气象数据创历史同期极值。在过去的40天里，上海接连出现阴雨天气。<br/><div class="contheight"></div>气象数据统计显示：各郊区气象站雨量和雨日双双创历史同期新高（1961年建站以来）。总降水量普遍为常年同期的3倍，雨日约比常年同期多出15天；中心城区徐家汇站雨日为1872年建站以来同期最多，降水量为历史同期第三高位。<br/><div class="contheight"></div>同时，上海日照时数创历史同期新低。以宝山站为例，2018年12月至今太阳的“在岗”时间不足60小时，仅为常年同期（176小时）的三分之一，为历史同期最少。其他各站日照在54~72小时之间不等，接近或突破历史极值。<br/><div class="contheight"></div>而这样的阴雨寡照天气还将继续。据上海气象部门预计，受到活跃的暖湿气流和扩散南下的冷空气的共同影响，10日、11日，上海仍是阴雨天气。其中，10日夜间到11日的降水会明显一些。<br/><div class="contheight"></div>1月12日，上海将逐渐雨止转为阴到多云天气。13日，天空状况进一步改善，并较大可能见到久违的阳光。<br/><div class="contheight"></div>经历了周末短暂的降水间歇之后，下周初还将有一次降水天气过程。1月15-16日，受到北方冷空气影响，气温还将有所下降。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王维佳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 上海天气,阴雨</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837102">
+<div class="nbgbox">
+<a class="zan" contid="2837102" href="javascript:;" onclick="voteCont(this)" praisetimes="58">
+                           57</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 上海天气</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837102&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837102&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

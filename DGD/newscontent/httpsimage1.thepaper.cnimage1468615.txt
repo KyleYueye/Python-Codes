@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">海南将逐步禁止销售燃油汽车，制定全省新能源车推广使用规划</h1>
+<div class="news_about">
+<p>张洪波/南国都市报</p>
+<p>
+							2019-01-09 11:31<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">南国都市报1月8日讯 (记者 张宏波)8日，《海南省大气污染防治条例》(以下简称《条例》)新闻发布会在海口举行。《条例》对我省燃煤和其他能源污染防治、工业污染防治、机动车船等污染防治、扬尘污染防治、农林业和其他污染防治作出了明确规定，将于3月1日起施行。<br/><div class="contheight"></div>《条例》指出，省人民政府应当制定考核办法，对省人民政府有关部门和市、县、自治县大气环境质量改善目标和大气污染防治重点任务完成情况开展考核评价，将考核结果纳入省人民政府有关部门及其负责人和市、县、自治县人民政府及其负责人年度考核评价的重要内容，并向社会公开考核结果。<br/><div class="contheight"></div>《条例》要求，排污单位应当按照国家和本省有关规定取得排污许可证，设置大气污染物排放口，并保持大气污染防治设施的正常使用。大气污染物的原始监测记录保存时间不少于三年。<br/><div class="contheight"></div>在燃煤和其他能源污染防治方面，《条例》明确，我省实行煤炭消费总量控制制度，逐步减少煤炭消费总量，逐步淘汰现有燃煤机组。禁止进口、销售和燃用不符合质量标准的煤炭；禁止进口、销售不符合质量标准的石油焦；禁止燃用石油焦。<br/><div class="contheight"></div>对于工业污染防治，我省将建立产业准入负面清单制度，全面禁止高能耗、高污染、高排放产业和低端制造业发展。钢铁、建材、有色金属、石油、化工、制药、农药生产、矿产开采、制胶等企业，应当加强精细化管理，采取集中收集处理、密闭、围挡、遮盖、清扫、洒水等措施，严格控制、减少粉尘和气态污染物的排放。<br/><div class="contheight"></div>对于机动车船等污染防治，省人民政府工业和信息化主管部门应当制定全省新能源汽车推广使用规划，报省人民政府批准后实施。省和市、县、自治县人民政府应当采取措施减少机动车船污染物排放，逐步禁止销售燃油汽车，加快充电桩、岸电设施等配套基础设施建设。省住房和城乡建设主管部门应当制定新建建筑物停车位配建充电设施标准。<br/><div class="contheight"></div>（原标题：《海南省大气污染防治条例》将于3月1日起施行 逐步禁止销售燃油汽车）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：包雨朦<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831240">
+<div class="nbgbox">
+<a class="zan" contid="2831240" href="javascript:;" onclick="voteCont(this)" praisetimes="50">
+                           49</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 海南省大气污染防治条例</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831240&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831240&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

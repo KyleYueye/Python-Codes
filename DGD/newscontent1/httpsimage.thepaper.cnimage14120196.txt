@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">高校期末考题答错老师姓名得0分？老师回应：不影响考分</h1>
+<div class="news_about">
+<p>李华锡/中国青年网</p>
+<p>
+							2019-01-10 16:51<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中国青年网北京1月10日电 1月10日上午，广东药科大学医药商学院学生向中国青年网记者反映，在当天上午参加学校《统计学》科目期末考试时，试题中出现了一道附加题：需要填写教授此门课程的老师姓名，并注明答错此题将使试卷得0分。记者了解到，出题老师为该校医药商学院讲师谭清立，考试现场该老师澄清了这道题对试卷没有影响，不会得0分。目前，谭清立已向学院汇报相关情况，事件正在调查中。<br/><div class="contheight"></div>记者了解到，10日上午，广东药科大学医药商学院大二学生在参加《统计学》科目期末考试时，试卷中出现了一道附加题，内容为：教授此门课程的老师的姓名是？（答错此题将使本卷得0分）。<br/><div class="contheight"></div>该校学生告诉记者，该题目出现在试卷第一大题的最后，不少学生看到这个题时觉得既搞笑又新奇。“终于不是别人家的老师了！”<br/><div class="contheight"></div>有考生表示，考试现场同学们看到这道题反应不是很强烈，“估计心里在笑吧，考完了大家都在议论！”<br/><div class="contheight"></div>考生反映，教授该科目的老师平时上课有些一板一眼，并表示老师现场称，这次考试试题比较简单。考生反映称，考试题比较难。<br/><div class="contheight"></div>“我觉得这个老师还是挺不错的，考前还说我们有问题可以找他。”有考生表示，老师突然出附加题，感觉很意外。“老师有时候有些啰嗦，讲课中规中矩，有时候会开一两个玩笑，其实是个有趣的人。”<br/><div class="contheight"></div>考试结束后，同学们纷纷发朋友圈讨论这个送分的附加题。有考生表示，出题老师当场澄清了这题不写也不影响分数。<br/><div class="contheight"></div>有考生称：“虽然我不是那个老师的学生，也不是他们一个学院的，虽然我的朋友圈也被刷屏了，但是真的，我可以感受出来，他是个很负责任的老师。希望那位老师能不忘本心，坚持下去。”<br/><div class="contheight"></div>有考生留言说：“其实这个老师挺好的，划重点很详细，但是考试内容特别多，所以重点也特别多，当时特别崩溃来着（去年被他教过），他很认真负责的，比其他老师好很多，就是非常非常非常严格！”<br/><div class="contheight"></div>有考生向记者表示，出题老师姓谭，男性，记者在该校医药商学院官网的师资队伍一栏中看到，该学院只有一位谭姓老师，该老师为谭清立，医药商学院保险系讲师，讲授课程为《统计学》《计量经济学》《社会保险学》等，研究方向为社会保险、地质保险、健康管理。<br/><div class="contheight"></div>10日中午，有学生向记者发送了一个群聊截图，证实为该校医药商学院讲师谭清立的群聊，群聊内容为：“你们把附加题透露出去也请说明，我在考场上给大家说了，答错此题分数没有影响。”另一名学生提供的群聊截图内容为：“帮我回以下内容，当前学生称呼所有老师均为‘老师’，而不叫上姓，这种现象是不好的。因此设置了此题。我在开考时已向学生说明忽略此题，答错此题不会影响最终得分。”<br/><div class="contheight"></div>该学生称，有很多同学考试结束后发朋友圈表示不知道“答错附加题没有影响”，所以该教师在群聊中说明澄清。<br/><div class="contheight"></div>1月10日下午，记者致电广东药科大学医药商学院，办公室工作人员告诉记者，谭清立确实是医药商学院教师，目前谭清立已经向学院相关领导汇报情况，事件正在调查中，不能确定网络和学生说法是否真实。<br/><div class="contheight"></div>（原题为《高校期末考题答错老师姓名得0分？老师回应：不影响考分》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：崔烜<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 期末考试 老师姓名</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837041">
+<div class="nbgbox">
+<a class="zan" contid="2837041" href="javascript:;" onclick="voteCont(this)" praisetimes="22">
+                           21</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 期末考试</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837041&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837041&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

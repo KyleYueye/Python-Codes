@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">俄宇航员例行检查“联盟MS-09”飞船，又被发现破了个洞</h1>
+<div class="news_about">
+<p>任洁/环球网</p>
+<p>
+							2018-12-12 21:22<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="383" src="http://image.thepaper.cn/www/image/13/125/867.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">环球网 图<br/><div class="contheight"></div></span>12月11日，国际空间站。当两名俄罗斯宇航员进入外太空对俄罗斯“联盟MS-09”号飞船外壁进行例行检查时，发现飞船又破了个洞。<br/><div class="contheight"></div>为什么说“又”？<br/><div class="contheight"></div>因为早在今年8月30日，“联盟MS-09”号飞船上就曾出现过微小裂痕，导致俄罗斯国际空间站空气泄漏、舱压下降。经查发现，飞船漏气的原因是封胶的钻孔。随后宇航员使用特殊密封胶进行了补漏维修。<br/><div class="contheight"></div>据俄罗斯塔斯社报道，国际空间站俄宇航员奥列格·科诺年科和谢尔盖·普罗科皮耶夫11日在对“联盟MS-09”号飞船外舱壁进行检查时发现了一个洞，“这个洞看起来像一只庞大的蜘蛛”。俄罗斯飞行控制中心观测后也表示，看到了设备外壳上有一个黑点，“是的，我们也看到了”。<br/><div class="contheight"></div>宇航员发现，这个洞位于飞船外板上。为了对洞口材料进行取样，科诺年科还用刀子划开飞船的屏蔽真空热绝缘层和微陨石保护层，并将所取得的样本放入隔热容器中。此外，他还取了一个微陨石保护层样本。<br/><div class="contheight"></div>报道称，宇航员收集到的所有样本将随“联盟MS-09”号飞船一道于12月20日返回地球。根据俄方火箭航天工业代表所述，此洞和被划开的飞船外部绝缘层不会影响飞船安全着陆。<br/><div class="contheight"></div>（原题为《宇宙空间站中的俄罗斯飞船，又被发现破了个洞》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 俄罗斯宇宙飞船宇航员</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2731970">
+<div class="nbgbox">
+<a class="zan" contid="2731970" href="javascript:;" onclick="voteCont(this)" praisetimes="57">
+                           56</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 俄罗斯军事</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2731970&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2731970&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

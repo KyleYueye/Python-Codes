@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">人民日报评论员：新时代党的农村基层组织工作的基本遵循</h1>
+<div class="news_about">
+<p>本报评论员/人民日报</p>
+<p>
+							2019-01-11 06:40<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日，中共中央印发新修订的《中国共产党农村基层组织工作条例》，这是我们党关于农村基层组织建设工作理论和实践探索的最新成果。《条例》以习近平新时代中国特色社会主义思想为指导，贯彻党章和新时代党的建设总要求、新时代党的组织路线，坚持问题导向，总结成功经验，对党的农村基层组织工作作出全面规范，为新时代党的农村基层组织建设提供了重要制度保证。<br/><div class="contheight"></div>党的农村基层组织是党在农村全部工作和战斗力的基础。全国128万个农村基层党组织、3500万名农村党员，广泛分布在乡村大地、构成了严密的组织体系，具有团结带领亿万农民创造美好幸福生活的强大组织力。党的十八大以来，以习近平同志为核心的党中央高度重视党的农村基层组织建设，推动各级党组织认真落实党要管党、全面从严治党要求，大抓农村党支部、建强战斗堡垒，取得明显成效。当前，决战决胜脱贫攻坚、推动新时代乡村全面振兴，必须把农村基层党组织建设摆在更加突出的位置来抓，充分发挥党组织战斗堡垒作用和党员先锋模范作用，为农村改革发展稳定提供坚强政治和组织保证。<br/><div class="contheight"></div>必须坚持农村基层党组织领导地位不动摇。这是坚持和加强党的全面领导的内在要求，也是实现农村经济社会健康发展的根本保证。《条例》把坚持和加强农村基层党组织领导作为一条红线贯穿始终，明确规定乡镇党委和村党组织全面领导乡镇、村的各类组织和各项工作，凡是农村的重要事项、重大问题都要由党组织研究讨论，实行“四议两公开”等等。按照《条例》要求，既要在思想上不动摇不含糊，又要在实践中找路径找办法，进一步健全组织体系，完善制度机制，采取管用措施，确保农村基层党组织的领导具体地而不是抽象地、实在地而不是空泛地落到实处。<br/><div class="contheight"></div>要大抓农村党支部建设。《条例》着眼提升组织力、强化政治功能，明确了农村基层党组织的主要职责，提出了农村基层党组织领导经济建设、精神文明建设、乡村治理的重点任务，对农村基层党组织设置、领导班子和干部队伍建设、党员队伍建设等作出明确规定。按照《条例》要求，要坚持党支部建在村上，实现对农村各领域全覆盖。要持续加强基本队伍、基本活动、基本阵地、基本制度、基本保障建设，整顿软弱涣散村党组织，发展壮大村级集体经济。要加强对群众的教育，做好思想政治工作，增强党组织的影响力凝聚力，使每一个农村党支部都成为坚强战斗堡垒。<br/><div class="contheight"></div>党管农村工作是我党的一项优良传统，重视并抓好党的农村基层组织建设是党员领导干部的政治责任。《条例》对各级党委（党组）特别是县级党委认真履行主体责任作出规定。各级党委（党组）要牢固树立“四个意识”，从巩固党的执政基础的高度出发，切实把加强党的农村基层组织建设作为管党治党的重要任务抓紧抓好，采取有力措施，强化责任保障，推动《条例》的学习宣传和贯彻落实，不断增强党员干部特别是县、乡、村党组织书记抓农村党支部建设的本领，推动农村基层党组织全面进步、全面过硬。<br/><div class="contheight"></div>（原题为《新时代党的农村基层组织工作的基本遵循》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 农村基层组织</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2839847">
+<div class="nbgbox">
+<a class="zan" contid="2839847" href="javascript:;" onclick="voteCont(this)" praisetimes="26">
+                           25</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 农村基层组织</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2839847&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2839847&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

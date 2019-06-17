@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">威尼斯向游客征收“进城税”：不过夜游客最高每人10欧元</h1>
+<div class="news_about">
+<p>环球网</p>
+<p>
+							2019-01-02 11:09<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">威尼斯是意大利著名“水城”，近年来这座“水城”游客大增，城市逐渐不堪负荷。为了给城市“减负”，该市市长宣布将对不过夜的一日游游客征收最高10欧元（1欧元约合7.9元人民币）“进城税”。<br/><div class="contheight"></div>据美国有线电视新闻网（CNN）1日报道，根据统计，每年威尼斯吸引将近3000万游客到访。随着游客人数越来越多，街道变得拥挤不堪，当地政府决定加强措施打击过度旅游。威尼斯市长路易吉·布鲁加洛在推特上发布一段视频宣布要征收进城税，主要针对不过夜的一日游游客，从2.5欧元到10欧元不等，具体费用按淡旺季而定。据悉，在该税出台前，威尼斯旅游税只面向过夜游客。市长称，这笔税收将有助于市政当局更好地管理城市，保持城市整洁，并为游客提供更好的服务，此外，还能使威尼斯人的生活条件得到改善。<br/><div class="contheight"></div>CNN调侃道，如果去威尼斯旅游，你的钱包要比以前更空了。据悉，当地人对征收进城税意见不一。有人认为，确实需要出台新政策来遏制过度旅游；但也有人声称，靠征收进城解决不了问题。<br/><div class="contheight"></div>数据显示，每年来到威尼斯旅游的中国游客有300万之多，由于中国游客大多不懂意大利语，2018年意大利政府首次请来中国警察到威尼斯巡逻。<br/><div class="contheight"></div>进城税并不是威尼斯市政当局首创。在威尼斯之前，意大利埃奥利群岛和厄尔巴岛已经在向游客征收类似的登陆税。除意大利外，也有其他国家征收类似的旅游税。如，西班牙巴利阿里群岛在两年半前开始向游客征收旅游税，游客每人每天需支付2欧元左右，以此限制游客数量。今年1月1日起，克罗地亚旅游税增加25%。<br/><div class="contheight"></div>（原文标题：《 威尼斯“进城税”，最高每人10欧元》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 威尼斯</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2803468">
+<div class="nbgbox">
+<a class="zan" contid="2803468" href="javascript:;" onclick="voteCont(this)" praisetimes="29">
+                           28</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 威尼斯</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2803468&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2803468&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

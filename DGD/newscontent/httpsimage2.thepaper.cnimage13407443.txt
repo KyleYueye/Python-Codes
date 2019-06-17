@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">夜探极地动物看企鹅“生蛋”，上海这座海洋公园首推冰雪节</h1>
+<div class="news_about">
+<p>澎湃新闻记者 邹娟</p>
+<p>
+							2018-12-22 18:40<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">三万余海洋“明星”齐聚魔都，极地动物是什么生活状态，企鹅如何孵蛋？在这个冰雪节上都能看到。<div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/407/440.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">冰雪节启幕现场  澎湃新闻记者 邹娟 实习生 曾超颖 图<br/><div class="contheight"></div></span>2018年12月22日，“上海海昌海洋公园•极地冰雪节”启幕。澎湃新闻（www.thepaper.cn）记者获悉，这一极地冰雪节将从2018年12月22日持续至2019年2月19日，期间将推出企鹅“生蛋”季、海洋大马戏以及海洋动物大拜年等系列主题活动及产品。<br/><div class="contheight"></div>冬季是企鹅的繁殖季节， 在冰雪节期间，上海海昌海洋公园为游客带来了企鹅生蛋科普展，将全方位多角度地还原企鹅从生蛋到孵化的全过程，每位游客都能够近距离观看企鹅宝宝的破壳而出。<br/><div class="contheight"></div>同时，海洋大马戏也将重磅推出——国内首个虎鲸科普秀，原生态还原王者虎鲸的霸气雄姿，《白鲸之恋》、《海豚奇缘》、《人鱼童话》三大明星剧目震撼上演，更有北极熊、帝企鹅等三万余只海洋生物群星汇聚，共庆新年，为魔都的冬季增添一抹新色。<div style="text-align:center;"><img alt="" height="370" src="http://image.thepaper.cn/www/image/13/407/441.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">白鲸之恋。  海昌海洋公园 供图<br/><div class="contheight"></div></span>与此同时，上海海昌海洋公园推出门票特惠，游客可通过上海海昌海洋公园官方网站、官方微信平台及各大OTA平台进行购买：2018年12月17日-2019年1月1日期间，平日标准票为279 元/张，优待票为150 元/张；高峰日标准票为316 元/张，优待票为200 元/张；<br/><div class="contheight"></div>元旦小长假期间，上海海昌海洋公园更是首度开放夜场模式，将运营时间延长至20：30，“星光夜场票”门票价格150元起，游客在观赏夜晚极地海洋动物生活状态的同时，更可感受星空下海洋梦幻花车巡游的独特魅力。<br/><div class="contheight"></div>上海海昌海洋公园透露，未来，该公园将与中国水产科学研究院联合，致力于长江流域的相关研究及保护工作，并将通过系列科普展示、科普小课堂等寓教于乐的形式，让游客更深入地了解长江大保护的科研成果及科学知识，提升全民对于珍稀物种保护、生态平衡维护、栖息地保护的意识及热情。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佳蔚<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 上海海昌海洋公园,极地动物,冰雪节</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2764219">
+<div class="nbgbox">
+<a class="zan" contid="2764219" href="javascript:;" onclick="voteCont(this)" praisetimes="47">
+                           46</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 上海海昌海洋公园</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2764219&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2764219&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

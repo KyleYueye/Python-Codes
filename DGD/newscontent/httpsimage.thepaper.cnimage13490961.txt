@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">孩子被幼儿园老师用胶带粘嘴？警方：不存在违反师德的行为</h1>
+<div class="news_about">
+<p>青岛新闻网</p>
+<p>
+							2018-12-25 17:09<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">青岛新闻网12月25日消息，近日，有媒体报道称“市北区嘉乐幼儿园有孩子被老师用胶带粘嘴，并关保安室”，该事件受到家长和网友们的广泛关注。事后青岛新闻网记者联系到了该幼儿园的王园长，了解事件经过及处理结果。王园长称，事发后公安机关已经介入，在调查后出具了调查结果，证实幼儿园并没有违法和违反师德的行为。<br/><div class="contheight"></div>王园长说，孩子向家长宣称被关保安室的当天，幼儿园在组织查体，由于该名学生较为调皮，在查体后捣乱影响秩序，老师又忙着组织班级其他学生查体，故将该学生交给了保安代为看管。<br/><div class="contheight"></div>之所以找保安帮忙，是因为保安室跟保健室相邻，而且该学生的母亲是同一幼儿园的老师，与保安也熟悉，认为同事之间相互信任不会出问题。保安也确实对孩子很照顾，还拿了桔子给孩子吃。<br/><div class="contheight"></div>但由于保安室内有许多监控设备，一些报警的按钮不能轻易触碰。孩子在乱动监控按钮时，保安及时喝止了他。为此，孩子回到家中向母亲告状说体检时被关保安室，保安凶他，故才有了这次误会。<br/><div class="contheight"></div>上周五，部分学生家长也非常关心事件真相，来到幼儿园寻求说法。幼儿园在经过上级准许后，于周六组织了部分学生家长一同观看了事发当天的视频监控；周日又组织了全园家长会，向家长们解释了事件的经过，家长们看过监控后都表示理解和放心。<br/><div class="contheight"></div>至于该学生家长反映的“胶带粘嘴”事件，发生在8月份，当时也问过该班的老师和学生，并没有这一行为。该班班主任也向孩子母亲解释过了，当时该班老师趁孩子们午休时，正在装饰班级内环境，手中恰巧拿着胶带，看到该学生没有休息就吓唬他说，再吵闹就用胶带把嘴粘起来，但并没有真的付诸行动。老师认为是逗孩子的玩笑，结果却被当了真，事后老师也向孩子母亲道歉，并保证不再说这种话了。<br/><div class="contheight"></div>目前，公安机关经过调查证实，该校并不存在违反师德的行为，园方也向所有学生家长进行了解释，家长们看过监控后也已对园方和老师放心。王园长也表示，希望以后遇到同样的事件，家长先与幼儿园沟通并及时查看监控，不要日积月累萌生误会。<br/><div class="contheight"></div>（原标题《孩子被幼儿园老师用胶带粘嘴？公安介入：并不属实》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 胶带粘嘴</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2773120">
+<div class="nbgbox">
+<a class="zan" contid="2773120" href="javascript:;" onclick="voteCont(this)" praisetimes="45">
+                           44</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 胶带粘嘴</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2773120&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2773120&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

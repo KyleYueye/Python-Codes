@@ -1,0 +1,97 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜明确“霸座”违法，还要明确谁来执法</h1>
+<div class="news_about">
+<p>澎湃特约评论员 陆玄同</p>
+<p>
+							2018-10-10 18:20<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2511365" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜明确“霸座”违法，还要明确谁来执法" src="//image.thepaper.cn/image/11/156/184.jpg"/>
+</a>
+<div class="atlas_360_txt">广东立法通过铁路管理条例：明确旅客不得强占他人座位<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">对近一段时期以来连续出现的“霸座”现象，终于有一部地方性法规出手了！ <br/><div class="contheight"></div>据新华社报道，近日，《广东省铁路安全管理条例》（以下简称《条例》）已经立法程序通过，条例明确规定，旅客应当按照车票载明的座位乘车，不得强占他人座位。<br/><div class="contheight"></div>对霸座人员的“紧箍咒”有了，但如何戴好这个“紧箍咒”，或者说在具体执法中究竟如何落实，还需要考量。最突出的，是需要进一步明确乘警和安全员等相关群体的执法限度。 <br/><div class="contheight"></div>此前对霸座行为的惩处，主要依据是中国铁路总公司制定的《铁路旅客信用记录管理办法(试行)》、《中华人民共和国治安管理处罚法》等。但从实际效果看，对于霸座者的惩戒力度还不够，没有形成足够的震慑力，使得霸座行为时有发生，即便每次都陷入舆论漩涡，霸座者都很嚣张。 <br/><div class="contheight"></div>而且，依照《治安管理处罚法》，霸座往往会被以“扰乱社会治安”处理，这种处理有明确的执法主体。但从目前新闻披露的信息看，此次广东出台的规定，虽明确了霸座属于违法，相关补充条款有了，但依旧没有对乘警、安全员等进行明确具体的授权，这难免让人有担忧，再发生霸座事件时，能够进行及时有效的惩处吗？霸座会消失吗？ <br/><div class="contheight"></div>法学家霍姆斯在《普通法》一书中提出了一个著名论断：“法律的生命在于经验，而非逻辑”。就是说，法律规定需要依据生活实践而不断进行补充完善，并非依照前例进行逻辑判定。以前人们没有聚焦霸座这一行为，现在这类事件被集中连续曝光，就说明其不再是隐匿的、孤立的事件，而是较为常见的社会现象。因此，也就应该依据现实修改补充相关规定，增强法律操作的针对性，树立法律威严。只有根据现实经验作出的逻辑判断才是客观、公正、有力的。<br/><div class="contheight"></div>但话说回来，广东省此次及时回应民众关切，适时补充相关规定，对于打击和约束霸座行为，还是有积极的社会效应的，值得点赞。只不过，铁路及相关部门还要进一步细化和完善规定，赋予相应人员执法权。 <br/><div class="contheight"></div>当然，法律约束只是一方面，在法律不能及时有效地约束霸座人员时，后续的信用惩戒就要跟上。《条例》提出，“按照规定将信用惩戒推送全国和地方信用信息共享平台，有关部门和铁路运输企业应当依法对失信行为实施联合惩戒”，这是切实可行的。<br/><div class="contheight"></div>只有各方联动，把失信收益归零甚至变成负数，让违法者感觉到失信寸步难行，此类问题才能得到有效解决。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_asktopic">
+<div class="news_askuser" onclick="window.open('asktopic_detail_10013709');"><span class="verticalAlign_topic"></span>
+<div class="news_askuser_bd">
+<div class="news_askuser_sort">圆桌</div>
+<div class="news_askuser_profile">从“霸座男”到“霸座女”，面对不文明行为，公众真的无解吗？</div>
+</div> <div class="news_askuser_trbs"><span class="trbs">
+<div class="userleft_hdimg">
+<img src="http://image.thepaper.cn/html/image/def_head.jpg"/><div class="hdimg_bg30"><img src="//file.thepaper.cn/www/v3/img/headerimg_ctbg30.png"/></div>
+</div>
+<a class="u_sname"></a>
+<span>2018-09-20</span>
+<span class="trbs_zan" id="10013709" times="1471">1.4k</span>
+<span>提问征集中</span>
+</span></div>
+</div>
+</div>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 霸座违法</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2515687">
+<div class="nbgbox">
+<a class="zan" contid="2515687" href="javascript:;" onclick="voteCont(this)" praisetimes="134">
+                           133</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 霸座</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2515687&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2515687&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

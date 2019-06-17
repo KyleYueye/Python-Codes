@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">俄国防部：以军空袭叙利亚时贝鲁特和大马士革机场有民航着陆</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-26 20:52<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">俄国防部发布26日消息称，在25日以色列对叙利亚实施空袭时，黎巴嫩首都贝鲁特和叙利亚首都大马士革机场有民航客机着陆。<br/><div class="contheight"></div>叙利亚国家电视台25日报道说，以色列当晚对叙利亚发动导弹袭击，造成一处弹药库受损，3名士兵受伤。<br/><div class="contheight"></div>叙军方消息人士的话说，以色列战机25日晚从黎巴嫩领空向叙利亚持续发动导弹袭击，叙防空系统在首都大马士革以西地区上空拦截并击落了其中大部分导弹。<br/><div class="contheight"></div>俄罗斯卫星通讯社报道，俄罗斯国防部发言人 Konashenkov26日表示，有两架民航客机在着陆时受到以色列空袭的威胁，但两架客机不包含俄罗斯航空公司的飞机。<br/><div class="contheight"></div>媒体报道此前称，与伊朗有密切联系的黎巴嫩真主党武装是以色列这次空袭的重要目标。据以色列Nziv新闻社报道，以色列的空袭是在一个真主党高级成员代表团登上从大马士革前往伊朗的飞机后不久进行的。<br/><div class="contheight"></div>以色列“Ynetnews”网站26日报道，25日早上，与伊朗革命卫队有关联的伊朗航空公司Fars Air Qeshm一架波音747从伊朗德黑兰国际机场起飞，先飞往同样位于德黑兰的霍梅尼国际机场。随后，这架飞机于当地时间下午5:30飞往叙利亚，并于7:45在大马士革国际机场降落。Ynetnews称，这架飞机显然是用来向叙利亚军队和真主党运输军事装备的。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2776882" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">叙利亚：以色列22枚导弹空袭叙军火库等目标，大部分被击落</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：辛恩波<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 叙利亚,以色列,空袭,伊朗</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2778078">
+<div class="nbgbox">
+<a class="zan" contid="2778078" href="javascript:;" onclick="voteCont(this)" praisetimes="13">
+                           12</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 叙利亚</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2778078&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2778078&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

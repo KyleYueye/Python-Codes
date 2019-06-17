@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜2019，让我们从孩子真正的“减负”开始</h1>
+<div class="news_about">
+<p>澎湃特约评论员 然玉</p>
+<p>
+							2018-12-29 17:29<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2791653" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜2019，让我们从孩子真正的“减负”开始" src="//image.thepaper.cn/image/13/668/213.jpg"/>
+</a>
+<div class="atlas_360_txt">九部门印发中小学生“减负三十条”：严控书面作业总量<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">在2018年最后一个工作日，教育部等九部门联合发布《中小学生减负措施》（下简称《措施》），从学校、培训机构、家庭等方面作出全面规定，包括严控书面作业总量、科学合理布置作业、坚决控制考试次数等。<br/><div class="contheight"></div>给中小学生减负，是老生常谈的话题。之前业已出台了一系列的“规定”“意见”“办法”，但每每都是热闹一阵又故态复萌，实际效果难言理想。此番九部门联合发文，本身就说明了中小学生课业负担过重的问题依旧未获解决。基本可以预见的是，这一久治不愈的老大难问题，仍然会在相当长时间内困扰学生、家长和教育主管部门。“减负”之路从来漫漫，绝非朝夕之功。<br/><div class="contheight"></div>此次《措施》内容林林总总，其中相当一部分给人一种“似曾相识”之感。比如说，“小学一二年级不布置书面家庭作业，三至六年级家庭作业不超过60分钟，初中家庭作业不超过90分钟，高中也要合理安排作业时间。”这事实上都是早就有的老规定了！甚至某些地方版本的“学生作业限制令”，比这还要严格得多。 <br/><div class="contheight"></div>但是，从现实情况来看，相当多的学生书面作业还是很多。非但学生们苦不堪言，就连陪做作业的家长们都几近崩溃。这次就规定了“作业难度水平不得超过课标要求”，而且“不得给家长布置作业或让家长代为评改作业”，可以说，近年来频频引发吐槽的让家长改作业争议，也有了权威说法。<br/><div class="contheight"></div>好的规定当然需要不断重申，可从另一样角度来说，这种不断的重申，也难免会伴随着权威性的消退。相较于书面和口头的一再申明，更重要的显然还是落实，可最困难的也恰恰在于此。试问，如何有效监测作业量？发现作业量超标又该如何处置？这些细节性疑问，需要前置的制度安排给出回应。<br/><div class="contheight"></div>长久以来，中小学生的课后生活，很大程度游离在教育主管部门的视野之外。这种“脱管”的状态，意味着大量减负措施难以渗透并作用于那些微观场景之内。这次规定对此做了一些尝试，比如，家长要引导孩子不沉迷网络游戏，不用手机刷屏；根据孩子的兴趣爱好选择适合的培训，避免盲目攀比、跟风报班或请家教给孩子增加过重课外负担，等等。<br/><div class="contheight"></div>《措施》能否破解学生减负的根本困境？这自然有待观察。但显而易见的积极变化在于，相较于此前的减负规定，此次更具系统性以及内部的逻辑自洽。既涉及到了对学校办学的规范，也明确了“严格校外培训机构管理”的一揽子方案，而后者显然是针对前段时间培训机构清理整顿的经验提炼和制度化成果。要知道，过去很长时间内，都存在着“学校减负，校外加负”的情况，如今新规对学校和培训机构一并约束，则有望打破这一怪圈。<br/><div class="contheight"></div>最新公布的《措施》，最大的价值并非在于其想出了什么“新办法”“新创意”，而更多在于它自身的完整性和体系化。从“九部门联合发布”这一高规格也可以看出，以跨部门、跨领域的职能协作共同给学生减负的新格局正在形成——认识到问题的复杂性，是破解问题的第一步。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 学生减负</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2792162">
+<div class="nbgbox">
+<a class="zan" contid="2792162" href="javascript:;" onclick="voteCont(this)" praisetimes="85">
+                           84</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 学生减负</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2792162&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2792162&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（147）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

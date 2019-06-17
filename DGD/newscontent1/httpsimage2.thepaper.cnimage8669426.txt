@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜一年消灭1006条无名路，先别急着点赞</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-07-05 13:50<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据媒体报道，北京持续近一年的整治无名路专项工作近日结束，全市1006条道路不再“无名”。“葛宇路”事件去年7月曝光之后，北京市开始彻查无名路。从去年8月起，开展整治无名路专项工作，分三批对无名路进行命名。<br/><div class="contheight"></div>一年时间，1006条无名路有了名字，这效率值得肯定。民众因此获得了便利，叫外卖、送快递不用再为描述不清地址着急。尤其值得一提的是，在这个过程中还恢复了一批老胡同的旧名。这是一桩民生与文化兼顾的好事。<br/><div class="contheight"></div>在这一年中，有关部门的工作人员肯定付出了艰辛的努力。在无名路之外，一路多名、有名无牌等乱象也得到了举一反三式的治理。同时，规划部门负责人表示，已将无名路纳入日常管理，今后将制定新的地名管理办法，从根本上避免有路无名的现象。<br/><div class="contheight"></div>治理不可谓不彻底。但是我要克制一下点赞的冲动，因为有一个“为什么”不得不问。<br/><div class="contheight"></div>这些无名路大都是历史欠账，为什么直到“葛宇路”事件才引起重视？<br/><div class="contheight"></div>虽然迟到的解决也是解决，但在迟到的时间里，这些无名路已经给居民带来了切实的不便。他们理应得到一句诚挚的“对不起”。如果不是一个偶然事件引发的舆论风波，会不会迟到更久呢？<br/><div class="contheight"></div>我知道，这样刨根问底会使人感到不舒服，但无名路只是公共治理中众多痼疾之一种。无名路带来的启示不局限于无名路本身。<br/><div class="contheight"></div>无名路事件的圆满解决，说明只要有一个推动力，许多貌似无解的痼疾可以在短时间内得到彻底解决。关键就在这个推动力。<br/><div class="contheight"></div>研究如何让城市变更美好，就是要解答推动力从哪儿来，以及推动力如何起作用。<br/><div class="contheight"></div>每个人都可以成为推动力，只要有一双善于发现问题的眼睛。当然，不鼓励把每个发现的问题都搞成行为艺术，可以打电话、发微博。<br/><div class="contheight"></div>不过很多时候，推动力并非不存在，而是力量太小，推而不动。一千多条无名路，很难想象此前没人反映过。只是当舆论热点出现，零星的声音汇成一道洪流，才推动了全局性的改变。<br/><div class="contheight"></div>这些年来，舆论已经成为推动公共事务一支重要力量，各方对舆情也越来越重视。但是很多舆情的诱因，其实是相关部门日常工作的缺失。对于这样的舆情，亡羊补牢补得再好，都难以赢得喝彩。再多的事后重视都不如防患未然。<br/><div class="contheight"></div>比如，无名路并不是北京独有，而是各地普遍存在的现象，没必要每个地方都等着自己的“葛宇路”事件出现再行动。在实际中，无名路缺少的不仅是名字，更是管理，很多无名路沦为垃圾堆放地、停车场。群众利益无小事，不妨从无名路抓起。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2240557" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">“葛宇路”事件后，北京市1006条道路告别“无名”</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 无名路 葛宇路</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2241381">
+<div class="nbgbox">
+<a class="zan" contid="2241381" href="javascript:;" onclick="voteCont(this)" praisetimes="18">
+                           17</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 无名路</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2241381&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2241381&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

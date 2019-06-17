@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">北京市检：涉未成年人刑案暴露未成年人民事行政权益保护不力</h1>
+<div class="news_about">
+<p>澎湃新闻记者 庄岸 实习生 高瑜键</p>
+<p>
+							2018-11-15 18:49<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="399" src="http://image.thepaper.cn/www/image/12/275/424.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">11月15日,“继承与发展——北京未检三十年暨未成年人检察工作座谈会”召开。 正义网 图<br/><div class="contheight"></div></span>如何最大限度维护未成年人合法权益？应强化民事行政权益的保护力度。11月15日，“继承与发展——北京未检三十年暨未成年人检察工作座谈会”在京召开。北京市检察院未成年人案件检察部主任岳慧青表示，在办理未成年人刑事案件时，有些案件暴露了民事行政权益保护不力的问题，如抚养，义务教育等，“应加强未成年人综合司法保护”。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）注意到， 过去三十年，北京市检察机关办理了一批涉未成年人刑事案件，包括“蓝极速网吧”放火案、四少年绑架杀人案、李某某等人强奸案、大兴摔童案、红黄蓝幼儿园教师虐童案等一批社会广泛关注的案件。“教育挽救了一批失足未成年人，救助帮扶了一批未成年被害人。”岳慧青说。<br/><div class="contheight"></div>“在办理每一起刑事案件的同时，全面捕捉涉未民事行政案件线索，加强未成年人民事权益的司法保护。”岳慧青介绍，2017年3月，北京市检察院印发《关于开展涉及未成年人民事行政检察工作的通知》，要求三个分院、八个区院试点开展涉未民事行政检察工作，并明确了受理案件范围。<br/><div class="contheight"></div>数据显示，截至2018年9月，各试点院共受理涉未民事行政检察案件74件，办理未成年人民事行政诉讼监督案件36件，提出抗诉2件、办理督促行政机关履行未成年人保护职责案件35件，发出检察建议31份；办理涉及未成年人支持起诉案件3件，支持起诉意见均被法院采纳。<br/><div class="contheight"></div>“大量案件表明，未成年人走上违法犯罪道路有着深刻的家庭、学校和社会原因，未成年人的民事、行政权益亦亟需有效的司法保护。”岳慧青表示，在办理未成年人刑事案件时，有些案件暴露了民事行政权益保护不力的问题，如抚养，义务教育等，未检部门将涉未刑事检察中的社会调查、心理疏导、司法救助等机制运用于民事案件，有利于对未成年人的综合全面司法保护。 <br/><div class="contheight"></div>在她看来，未成年人检察不仅关注案件本身，更关注案件所涉的“人”，关注涉罪未成年人的回归社会与未来发展；不仅要履行批捕、起诉、法律监督等检察职能，还要履行教育帮扶、预防犯罪等具有一定社会性的职能；涉及未成年人的案件较为敏感，办理未成年人案件往往“案结事未了”，未检检察官不仅要有妥善办理案件的能力，还要有开展法治教育、协调有关部门和组织等综合业务能力。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：谭君<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 未成年 刑案 民事行政权益</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2637041">
+<div class="nbgbox">
+<a class="zan" contid="2637041" href="javascript:;" onclick="voteCont(this)" praisetimes="11">
+                           10</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 未成年罪犯</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2637041&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2637041&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评 | “问题少年”追砍同学，就真的谁都管不了吗？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 欧阳晨雨</p>
+<p>
+							2018-10-25 15:49<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="363" src="http://image.thepaper.cn/www/image/11/626/153.jpeg" width="530"/></div><span style="color: rgb(128, 128, 128);">视频截图  图片来自“南国早报”微信公众号<br/><div class="contheight"></div></span>广西南宁一名初二男生李某军，围殴、持刀追赶同学，还自称当地“老大”，多次实施盗窃被警方抓过。虽然劣迹斑驳，却因为未满16岁，学校表示不能开除，警方不能立案，而家长又称“管不了”。（《南国早报》，10月25日） <br/><div class="contheight"></div>警方和校方如此处理，确有几分无奈。未满16岁，意味着只有犯故意杀人、故意伤害致人重伤或者死亡、强奸、抢劫、贩卖毒品、放火、爆炸、投放危险物质罪等时，才承担刑事责任。而且，就算犯有上述严重的刑事犯罪，在处罚上也区别于成年人，“可以从轻或者减轻处罚”。至于追砍他人，只要鉴定为轻伤以下，警方便不能立案追究。立法之所以如此“宽宥”，是考虑到未成年人身心尚未发育成熟，还有挽救教育的可能。这也是人本精神的体现。 <br/><div class="contheight"></div>当然，不追究刑责，并不代表不承担法律责任。未成年人殴打伤害他人，根据《侵权责任法》，“由监护人承担侵权责任”，这是民事责任。《治安管理处罚法》规定，殴打他人的，或者故意伤害他人身体的，“处五日以上十日以下拘留，并处二百元以上五百元以下罚款”，“情节较轻的，处五日以下拘留或者五百元以下罚款”。尽管依据该法，“已满十四周岁不满十八周岁的人违反治安管理的，从轻或者减轻处罚”，却并没有免去这些未成年人的行政法律责任。也就是说，他们仍要为自己的违法行为受到行政处罚。<br/><div class="contheight"></div>至于治安处罚的力度，也不是轻描淡写、略施惩罚了之。具体到这起殴打、伤害他人事件中，李某军还有“结伙殴打、伤害他人”“多次殴打、伤害他人”“殴打、伤害不满十四周岁的人”等事实，根据《治安管理处罚法》，这些都属于加重处罚的情节，应“处十日以上十五日以下拘留，并处五百元以上一千元以下罚款”。即便考虑到他的未成年人身份，有关部门也不能降低罚格，仅在法定下限进行处罚。 <br/><div class="contheight"></div>或许，在学校看来，李某军无异于“烫手山芋”。他常逼着同学要钱，在校内外打架，班主任和学校的管教和心理辅导也起不到作用。而根据《义务教育法》规定，“对违反学校管理制度的学生，学校应当予以批评教育，不得开除”。“软”的不行，“硬”的也不行，难道就没有处置之道吗？<br/><div class="contheight"></div>根据《预防未成年人犯罪法》，未成年人具有“多次拦截殴打他人或者强行索要他人财物”“携带管制刀具，屡教不改”等严重危害社会，尚不够刑事处罚的违法行为，“其父母或者其他监护人和学校应当相互配合，采取措施严加管教”，“也可以送工读学校进行矫治和接受教育”。对于李某军这种屡教不改，又有严重危害社会行为的未成年人，从普通义务教育学校转至工读学校，有的放矢地约束教育，无论对学校，还是对家庭、个人，都不失为更好的挽救渠道。<br/><div class="contheight"></div>宽容未成年人，并不等于纵容未成年人危害社会。既然法律规定了惩罚和矫治措施，就应执行到位，应罚不罚、应治不治，不仅于当事人无益，更是对受害者的二次伤害。当然，从长远来说，还应参考借鉴国际经验，探讨立法降低刑事责任年龄的可能。在看守所羁押受罚，对于早熟的“小恶魔”来说，未尝不是一种关爱和保护。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 未成年人犯罪</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2564191">
+<div class="nbgbox">
+<a class="zan" contid="2564191" href="javascript:;" onclick="voteCont(this)" praisetimes="94">
+                           93</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 未成年人犯罪</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2564191&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2564191&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（100）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

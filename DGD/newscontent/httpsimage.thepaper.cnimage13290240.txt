@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">联合国欲促缅甸解决罗兴亚问题，俄称该决议草案不合时宜</h1>
+<div class="news_about">
+<p>澎湃新闻记者 朱郑勇 实习生 金皓原</p>
+<p>
+							2018-12-18 20:27<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">联合国安理会正考虑采取措施推动缅甸与联合国合作以解决罗兴亚难民问题。<br/><div class="contheight"></div>据路透社18日报道，联合国某位要求匿名的外交官称，英国起草了一份决议，旨在确定缅甸接纳逃亡到邻国孟加拉的70多万罗兴亚穆斯林难民回归缅甸的时间表，以及明确缅方的相关责任。但草案中不包括将缅甸局势提交国际刑事法院的内容。<br/><div class="contheight"></div>去年8月份，“若开罗兴亚救世军”袭击了缅甸若开邦北部30处警察哨所，政府军展开大规模反击。之后约数十万罗兴亚人逃离家园，涌入邻国孟加拉国。<br/><div class="contheight"></div>上述外交官表示，起草的决议警告称，如果缅方没有任何相关作为的话，有着15名成员的安理会可能会采取包括制裁在内的进一步行动。决议也要求联合国官员定期向安理会报告。<br/><div class="contheight"></div>目前尚不清楚是否以及何时对这份决议草案进行投票表决。一项决议只有在安理会得到9票赞成，且安理会五大常任理事国无否决票的情况下才能通过。<br/><div class="contheight"></div>然而，据路透社消息，俄罗斯驻联合国大使瓦西里·涅边贾（Vassily Nebenzia）周一表示，“我认为此项决议不合适，不合时宜且毫无用处”。<br/><div class="contheight"></div>起草的决议在上个月末传阅于联合国安理会成员之间，已经进行了好几轮讨论。<br/><div class="contheight"></div>上月12日，缅甸政府已宣布从15日起将从孟加拉国接回首批2200名“罗兴亚难民”。而此前的9月27日，联合国纽约总部举行了中国主持的有关缅甸罗兴亚难民的会议，会议达成三点重要共识，其中之一就是孟加拉国和缅甸分别表示已做好准备遣返和接收首批避乱民众。<br/><div class="contheight"></div>去年年底，中国外交部长王毅在缅甸首都内比都提出分三阶段解决若开邦问题设想，得到了孟加拉方面的赞同，也获得了缅方的积极响应。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：宁希巍<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 缅甸,若开邦,罗兴亚,联合国</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2750645">
+<div class="nbgbox">
+<a class="zan" contid="2750645" href="javascript:;" onclick="voteCont(this)" praisetimes="32">
+                           31</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 罗兴亚难民危机</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2750645&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2750645&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

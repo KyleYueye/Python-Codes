@@ -1,0 +1,76 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">警方通报“女童遭父母残忍殴打”：初步调查情况与视频相符</h1>
+<div class="news_about">
+<p>@阳光宝安</p>
+<p>
+							2018-12-23 17:45<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">深圳市宝安区委宣传部官方微博@阳光宝安 12月23日通报，22日晚，网传西乡街道一女童被殴打视频。接此情况后，宝安公安分局立即开展核查，并于23日10时30分许将视频中涉及的相关人员刘某华（男，广东人，34岁）、陈某文（女，广东人，33岁）及涉事女童（8岁）带回辖区派出所调查。<br/><div class="contheight"></div>经询问，母亲陈某文、父亲刘某华对殴打女童的事实供认不讳。初步调查情况与视频相符。经法医检查，女童体表未发现明显伤痕。<br/><div class="contheight"></div>目前警方正在依法调查处理。区妇联已向宝安区人民法院申请女童人身安全保护令。<div style="text-align:center;"><img alt="" height="731" src="http://image.thepaper.cn/www/image/13/432/602.jpg" width="600"/></div></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/wd_relation_video_blue_icon.png" style="float:left;padding:5px 0 0 0"><a href="newsDetail_forward_2766459" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">深圳女童疑遭前美团骑手家暴，警方介入</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2766187" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">前外卖骑手涉嫌虐娃，深圳妇联和警方介入、美团称将帮扶孩子</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 殴打女童</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766562">
+<div class="nbgbox">
+<a class="zan" contid="2766562" href="javascript:;" onclick="voteCont(this)" praisetimes="1154">
+                           1153</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 殴打女童</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766562&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766562&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（1.2k）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

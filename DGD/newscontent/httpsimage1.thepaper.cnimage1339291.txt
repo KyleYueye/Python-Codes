@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美媒：从叙撤军，特朗普未咨询国家安全团队和盟友</h1>
+<div class="news_about">
+<p>魏雪娇/央视新闻客户端</p>
+<p>
+							2018-12-22 06:34<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="381" src="http://image.thepaper.cn/www/image/13/392/97.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">央视新闻客户端 图</span><br/><div class="contheight"></div>央视新闻客户端12月21日消息，当地时间21日，美国媒体曝出，特朗普总统决定从叙利亚撤军的决定是在没有咨询国家安全团队和盟友的情况下做出的，而这一决定也遭到参与打击极端组织的多方反对。美联社表示，特朗普拒绝他人意见的举动震惊了内阁和议员。与此同时，国务院和五角大楼也拒绝就“美国全面撤军叙利亚”的决定发表评论。<br/><div class="contheight"></div>19日，美国白宫表示，随着在叙利亚打击极端组织的战事“取得成果”，美国已开始撤回驻叙美军。美国多家媒体表示，美国政府计划从叙利亚撤回全部约2000名军人，撤军或将在60天到100天完成。<br/><div class="contheight"></div>（原题为《美媒：从叙撤军 特朗普一意孤行》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2760348" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">特朗普为从叙利亚撤军决定辩护，称“不愿意充当中东警察”</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国,叙利亚,撤军</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2762467">
+<div class="nbgbox">
+<a class="zan" contid="2762467" href="javascript:;" onclick="voteCont(this)" praisetimes="93">
+                           92</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美军撤出叙利亚</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2762467&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2762467&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（40）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

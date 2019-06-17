@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">日本1月7日起开征“出境税”，系27年来首次新设国税</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-07 17:29<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月7日起，无论外国人或日本人从日本出境，只要年满2岁，每人需缴纳1000日元（约合人民币63元）的出境税。这笔税金将通过附加在机票或船票价格内收取。<br/><div class="contheight"></div>据日本共同社7日报道，日本7日开始向出境者每人征收1000日元的国际观光旅客税（出境税），日本人也属于征税对象，对于年满2岁者将在机票或船票中加上税金。7日当天及之后出票的出境者都是征税对象，若使用7日之前发出的票则不在征税范围内。由于旅行社的旅游产品预订日和出票日不同的情况较多，各公司正在进行说明。<br/><div class="contheight"></div>报道称，这是日本政府27年来首次新设国税，上一次新设的永久性国税是1992年的地价税。新税的用途为完善旅行环境、宣传日本的魅力、提升游客满意度这3个领域：2019年度将推进通过脸部识别缩短出入境审查时间以及海外推介等举措；提升满意度的措施主要设想对象是地方，将多用于把集中在城市的访日游客吸引到地方的政策；税收还将用于改建展示与皇室有渊源的美术品的“三之丸尚藏馆”。<br/><div class="contheight"></div>中新网去年4月报道称，日本对出境人士征收每人1000日元的新税法案2018年4月11日获得国会参议院通过。日本政府预估，到2019年3月底(日本年度结束日)，2018年度可征得60亿日元（约合人民币3.81亿元）；从2019年度开始，每年可征收约400亿日元（25.4亿元）。报道指出，日本政府此前提出2020年增加访日观光客至4000万人次的目标，但新税开征后，吸引外国观光客是否受到影响，仍有待观察。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘惠<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 日本,旅游,出境税</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2823972">
+<div class="nbgbox">
+<a class="zan" contid="2823972" href="javascript:;" onclick="voteCont(this)" praisetimes="24">
+                           23</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日本“出境税”</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2823972&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2823972&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">青海要求中小学教师签杜绝有偿补课承诺书：不漏一校不掉一人</h1>
+<div class="news_about">
+<p>邢生祥/工人日报</p>
+<p>
+							2019-01-11 09:42<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">青海省教育厅日前下发通知，决定在全省中小学开展拒绝有偿补课公开承诺活动，全省中小学教师均要签署省教育厅统一制定的《青海省中小学教师拒绝有偿补课公开承诺书》。 <br/><div class="contheight"></div>在2018年12月30日前，全省中小学包括幼儿园、特殊教育机构、普通中小学、中等职业学校、民办学校、少年宫以及地方教研室、电化教育等机构的教师(含编外聘用教师、借出教师)均签署了拒绝有偿补课公开承诺书，确保本次公开承诺活动不漏一校、不掉一人。 <br/><div class="contheight"></div>据介绍，全省教师签署承诺书后开展自查自纠，杜绝一切有偿补课活动。从2019年1月1日起，对仍然明知故犯、不收手不知止、顶风违纪违法的人员，一经发现，一律先停职，待调查处理。对经查情况属实的，鉴于其不讲师德诚信，依据有关规定从严从重处理，直至取消其教师资格甚至辞退(聘)开除。 <br/><div class="contheight"></div>青海各地各校将签署的承诺书电子数据输入省级信息监管平台。今后，教师评先评优、晋职晋级中，教师所在学校均要提供其没有从事有偿补课的证明。各地各校要畅通投诉渠道，公开举报电话、信箱，自觉接受各方面监督。对治理有偿补课不力、不上报违规处理结果的学校及其教育部门，对中小学校长、书记和教育部门主要负责人实施问责。同时，在对学校和地区各类考评中一票否决。<br/><div class="contheight"></div>（原题为：《青海中小学教师全员签承诺书》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 青海,有偿补课,承诺书,中小学教师</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2840269">
+<div class="nbgbox">
+<a class="zan" contid="2840269" href="javascript:;" onclick="voteCont(this)" praisetimes="7">
+                           6</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 有偿补课</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2840269&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2840269&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（72）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

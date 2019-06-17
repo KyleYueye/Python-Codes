@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">国家药监局：化妆品宣称“药妆”属违法，不可用EGF作原料</h1>
+<div class="news_about">
+<p>车柯蒙/人民网</p>
+<p>
+							2019-01-11 09:24<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">为进一步规范化妆品监督管理工作，引导消费者科学理性消费，1月10日，国家药品监督管理局发布了“化妆品监督管理常见问题解答(一)”，依据我国现行化妆品法规规定和有关技术规范，解答了化妆品监督管理中的常见问题。<br/><div class="contheight"></div>此次解答中，明确了国家药品监督管理局对于“药妆”“药妆品”“医学护肤品”概念的监管态度，对于寡肽-1和表皮生长因子(EGF)的区别以及其在化妆品中的运用也做出了详细解答。<br/><div class="contheight"></div><strong>化妆品宣称“药妆”属于违法行为</strong><br/><div class="contheight"></div>国家药品监督管理局在解答中明确指出，不但是我国，世界大多数的国家在法规层面均不存在“药妆品”的概念。避免化妆品和药品概念的混淆，是世界各国(地区)化妆品监管部门的普遍共识。部分国家的药品或医药部外品类别中，有些产品同时具有化妆品的使用目的，但这类产品应符合药品或医药部外品的监管法规要求，不存在单纯依照化妆品管理的“药妆品”。<br/><div class="contheight"></div>我国现行《化妆品卫生监督条例》中第十二条、第十四条规定，化妆品标签、小包装或者说明书上不得注有适应症，不得宣传疗效，不得使用医疗术语，广告宣传中不得宣传医疗作用。对于以化妆品名义注册或备案的产品，宣称“药妆”“医学护肤品”等“药妆品”概念的，属于违法行为。<br/><div class="contheight"></div><strong>EGF不可作为化妆品原料使用或宣传</strong><br/><div class="contheight"></div>针对寡肽-1和表皮生长因子(EGF)有何区别的问题，国家药品监督管理局明确指出，寡肽-1和人寡肽1(表皮生长因子，EGF)非同一种物质。寡肽-1为甘氨酸、组氨酸和赖氨酸等3种氨基酸组成的合成肽。而人寡肽-1又名表皮生长因子(Epidermal Growth Factor, EGF)，是由53个氨基酸组成的 “53肽”，分子量为6200道尔顿单位。<br/><div class="contheight"></div>寡肽-1收录于我国《已使用化妆品原料名称目录》(2015年版)，一般作为皮肤调理剂使用。而人寡肽-1未被收录于该目录，一般在医学领域使用较多，临床适应症为外用治疗烧伤、创伤及外科伤口愈合，加速移植的表皮生长。由于分子量较大，EGF在正常皮肤屏障条件下较难被吸收，一旦皮肤屏障功能不全，可能会引发其它潜在安全性问题。基于有效性及安全性方面的考虑，EGF不得作为化妆品原料使用。<br/><div class="contheight"></div>因此，不同于寡肽-1，人寡肽-1(EGF)不得作为化妆品原料使用。在配方中添加或者产品宣称含有人寡肽-1或EGF的，均属于违法产品。<br/><div class="contheight"></div>（原题为：《国家药品监督管理局：“药妆品”“EGF”等产品宣称属于违法行为》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 化妆品,国家药监局,EGF,药妆</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2840480">
+<div class="nbgbox">
+<a class="zan" contid="2840480" href="javascript:;" onclick="voteCont(this)" praisetimes="92">
+                           91</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 化妆品</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2840480&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2840480&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">日本邮局举行“配送出发仪式”，分发平成年代最后的新年贺卡</h1>
+<div class="news_about">
+<p>澎湃新闻记者 廖婧雯</p>
+<p>
+							2019-01-01 18:44<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="314" src="http://image.thepaper.cn/www/image/13/787/815.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">日本每年新年全国各地邮局都会对配送贺卡的配送队伍举行“出发仪式”。<br/><div class="contheight"></div></span>2019年1月1日，日本全国各地开始分发新年贺卡。日本人每年新年都有赠送贺卡的习惯，今年也不例外。全国各地邮局都会对配送贺卡的配送队伍举行“出发仪式”。<br/><div class="contheight"></div>据日本广播协会（NHK）1月1日报道，作为日本国内邮局事业发源地的东京中央区的日本桥邮局今天也举行了配送的“出发仪式”。<br/><div class="contheight"></div>日本邮政的长门正贡社长发言表示，“赠送新年贺卡是从平安时代就开始的日本传统文化。虽然伴随着网络的普及人们越来越少地使用纸张，但我希望能够努力守护我们日本关于“美”的文化。”日本总务大臣石田真敏表示，“今年是平成最后一年，也是新时代开始的一年。期待邮局的服务和地域的发展都越来越好。”<br/><div class="contheight"></div>随后，身着明治时代制服的配送员们陆续整齐地从邮局出发，开始向附近的商店等地分发新年贺卡。一家卖点心的老铺的91岁男性在收到贺卡时说，“新年贺卡有将人与人之间连接和拉近的感觉。发短信的话感觉很平淡没什么感情，希望新年赠送贺卡的习惯能一直传承下去。”<br/><div class="contheight"></div>近年来，伴随着电子邮件和社交网络的普及，即使是在日本新年赠送贺卡的趋势也在逐渐减小。今年1月1日全日本配送的新年贺卡达14亿张，约比去年减少7%。<br/><div class="contheight"></div>日本现任明仁天皇1989年即位，年号由“昭和”改为“平成”，所以1989年被称为“平成元年”。2019年5月，日本将迎来新天皇即位，这意味着平成年代即将结束。日本政府此前表示，2019年4月1日以后会公布取代“平成”的新元号。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：汤宇兵<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 日本，新年贺卡，传统</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2802271">
+<div class="nbgbox">
+<a class="zan" contid="2802271" href="javascript:;" onclick="voteCont(this)" praisetimes="163">
+                           162</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日本传统</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2802271&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2802271&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

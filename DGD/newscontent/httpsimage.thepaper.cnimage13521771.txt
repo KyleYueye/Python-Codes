@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25437">牛市点线面</a>
+</div>
+<h1 class="news_title">秦洪看盘｜A股市场人气散淡，呈现典型的存量资金博弈态势</h1>
+<div class="news_about">
+<p>金百临咨询 秦洪</p>
+<p>
+							2018-12-26 17:23<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/521/763.jpg" width="600"/></div>周三A股市场出现了冲高受阻的态势。其中，上证综指在早盘一度脉冲，但奈何近期火爆的5G板块出现分化中回落的态势，削弱了市场参与者的追涨意愿，指数随之受阻回落，收于2498.29点，2500点终告破。<br/><div class="contheight"></div><strong>存量资金博弈，获利盘回吐</strong><br/><div class="contheight"></div>短线A股市场成交量依然保持萎缩的格局，呈现出典型的存量资金博弈的态势。周三沪市成交量只有939.9亿元，为近年来的地量水平。这说明市场人气散淡，在此背景下，不少存量资金存在着落袋为安的操作思路。所以，近期持续活跃的5G板块成为持有如此操作心态的市场参与者的收割对象。故5G板块在周三出现了分化中回落的态势。由于5G板块是近期A股市场的主线，也是A股市场在近期抗击外围市场波动的核心品种。所以，此类个股的回落，直接使得短线A股市场丧失了主心骨，股指重心自然下移。<br/><div class="contheight"></div>更何况，近期A股市场人气股的两大旗手也出现了冲高受阻的态势。一是5G板块的龙头品种东方通信，该股在周三早盘一度强势，冲击涨停板，在一定程度上聚集了市场参与者对5G板块的认可度，可惜的是，午市后，节节走低，从而加剧了5G板块的分化。二是泰永长征，这是最为活跃的热钱的旗手。周二午市后的企稳就是得益于该股迅速冲击涨停板。所以，市场在周三尾盘的调整，与该股从涨停板附近迅速俯冲回落有着较大的关联。看来，存量热钱的获利回吐动作较为迅猛。<br/><div class="contheight"></div><strong>新亮点浮现，短线A股犹可期</strong><br/><div class="contheight"></div>不过，在疲态走势中，却有两个较为清晰的亮点，一是个股行情的活跃度仍然保持着较高的热度。这不仅体现在科创概念股异军突起，成为涨停板俱乐部的核心构成部分，并且还在于沪深两市达到10%涨幅限制的个股仍然多达38家。这说明存量资金的热钱只是获利回吐，并未完全撤出市场，这就为后续行情的活跃埋下了伏笔。<br/><div class="contheight"></div>二是成交量的变化。以往A股市场的成交量分布，往往是午市前的两个小时占了3/5，午市后的两个小时占了2/5。但周三的沪市成交量分布较有特征，在午市前的两个小时的成交量为475亿，午市后的两小时成交量为465亿，基本上相等，这为近期行情所罕见。这说明午市后的A股市场虽然有所下跌，但承接力度有所增强，意味着看好后续走势的资金仍然有节奏的积极布局，也意味着对短线A股市场仍不宜过于悲观。<br/><div class="contheight"></div>与此同时，无论是科创概念股的崛起还是特高压概念股的持续活跃，均说明市场参与者对未来确定性的预期有着较高的认可度。既如此，作为来年最为确定的5G板块，在周三的回落，主要是因为获利盘的回吐，但并不代表此类个股的确定性已经削弱。相反，随着时间的推移，5G板块的确定性、业绩兑现的时间越来越近，所以，5G板块的回落只是短暂的，或者说是上升途中的一次技术性休整。既如此，5G板块仍然有望成为A股市场的主线。因此，对短线A股市场不宜过于悲观，一方面得益于周三午市后的量能活跃，另一方面得益于后续涨升热点的储备品种仍然多多。在操作中，建议市场参与者可跟踪确定性较为清晰的5G板块、特高压概念股、轨道交通信息股、医疗信息概念股等品种。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王杰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776654">
+<div class="nbgbox">
+<a class="zan" contid="2776654" href="javascript:;" onclick="voteCont(this)" praisetimes="43">
+                           42</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 秦洪看盘</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776654&caid=25437",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776654&amp;caid=25437" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

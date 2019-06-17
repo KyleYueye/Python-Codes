@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25463">港台来信</a>
+</div>
+<h1 class="news_title">港警高层在日发生车祸，驻札幌领馆：为伤者家属赴日提供协助</h1>
+<div class="news_about">
+<p>@领事之声、海外网</p>
+<p>
+							2018-12-26 19:27<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">日前，港媒消息称，曾志伟在本遇车祸，与香港警务处官员座驾迎面相撞。@领事之声12月26日消息，获悉后，驻札幌总领馆即派员赶赴医院慰问伤者，要求院方全力救治。总领馆与香港特区政府有关部门保持密切联系，为伤者家属赴日提供积极协助。有关事故原因正在调查中。 <br/><div class="contheight"></div>此前据海外网消息，昨日（25日），在日本北海道小樽发生一宗涉及香港居民的交通意外，造成至少7人受伤，当中包括香港警务处刑事及保安处处长李志恒。香港媒体报道称，对面车内是艺人曾志伟，曾本人并无大碍。<div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/530/231.jpg" width="100%"/></div><span style="color: rgb(128, 128, 128);">微博@环球时报 图<br/><div class="contheight"></div></span>据香港橙新闻报道，李志恒昨日在日本北海道小樽旅游期间不幸遇上车祸，他与6名亲友乘坐的车辆，与另一辆车迎头相撞，李志恒颈部受伤、下半身麻痹，清醒时由救护车送往当地医院治疗，暂无生命危险。<br/><div class="contheight"></div>李志恒今早（26日）通过入境处协助，由直升机转往另一医院接受手术。警队福利部及入境处已经派员到当地，向其家人提供协助。据曾志伟友人透露，曾志伟当时在对头车内，但无任何大碍，目前人在酒店休息。据悉，曾志伟要接受酒精测试，而入境处同警方已派人到日本了解。<br/><div class="contheight"></div>曾志伟女儿曾宝仪通过经理人回复：“我爸爸（曾志伟）确实有发生小车祸，人没事，很平安，他有打电话跟我、家人报平安，细节我没多问，谢谢大家关心。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2776390" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">香港警队一高层在日本北海道车祸受伤，相撞车辆载有曾志伟</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 香港警队,曾志伟</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2777654">
+<div class="nbgbox">
+<a class="zan" contid="2777654" href="javascript:;" onclick="voteCont(this)" praisetimes="96">
+                           95</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 香港</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2777654&caid=25463",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2777654&amp;caid=25463" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

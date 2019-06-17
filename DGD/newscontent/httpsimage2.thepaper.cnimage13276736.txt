@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜隆重的表彰，沉甸甸的“一句话介绍”</h1>
+<div class="news_about">
+<p>澎湃特约评论员 王石川</p>
+<p>
+							2018-12-18 13:34<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“40年波澜壮阔的改革开放伟大进程，涌现出一大批勇立时代潮头、锐意改革创新、敢于实践探索的先锋模范。”在今天召开的庆祝改革开放40周年大会上，宣读了《中共中央 国务院关于表彰改革开放杰出贡献人员的决定》。《决定》指出，党中央、国务院决定，授予于敏等100名同志改革先锋称号，颁授改革先锋奖章。<br/><div class="contheight"></div>从国防科技事业改革发展的重要推动者于敏，到基础教育改革的优秀教师代表于漪；从农村改革的先行者小岗村“大包干”带头人，到数字经济的创新者马云……对这些改革先锋的“一句话介绍”，简短却精准，“浓缩”了他们的丰功伟绩。每个名字都意味着光彩与荣耀，都充满着张力与内涵；每个名字背后，都演绎着丰富多彩的改革故事，都传递着对改革的温情与敬意。<br/><div class="contheight"></div>被表彰的人员有个共同的名字：改革先锋。这一称谓，意涵丰富。先锋者，意味着走在前列。有个耐人寻味的细节值得放大，被表彰的改革先锋中，有不少人的业绩都被冠以“探索者”的称号，比如，基层群众自治制度的探索者韦焕能，三峡移民安置的实践探索者冉绍之，科技体制改革的实践探索者王选，社区党建和治理创新的探索者茅永红，航母战斗力建设的实践探索者戴明盟……<br/><div class="contheight"></div>有探索，就有风险，甚至可能有失败，但“探索”二字正体现了改革的精义。哪有一帆风顺的改革？正因为改革不易，就需要探索；哪有一劳永逸的改革？正因为改革不能躺在功劳簿上睡大觉，就需要继续探索、接力探索。对此，习总书记说得再明确不过，在中国这样一个有着5000多年文明史、13亿多人口的大国推进改革发展，没有可以奉为金科玉律的教科书，也没有可以对中国人民颐指气使的教师爷。<br/><div class="contheight"></div>与“探索者”相比，不少受表彰对象拥有共同前缀：实践者或践行者。比如，资本市场发展的实践者禹国刚，对外开放法制建设的积极实践者张月姣，载人深潜事业的实践者叶聪，民族团结进步的践行者库尔班·尼亚孜……无论实践还是践行，都说明改革是干出来的，不是等出来的，更不是空想出来的，正如总书记强调的，40年来取得的成就不是天上掉下来的，更不是别人恩赐施舍的，而是全党全国各族人民用勤劳、智慧、勇气干出来的！<br/><div class="contheight"></div>“行之力则知愈进，知之深则行愈达。”庆祝改革开放40周年，我们既要总结宝贵经验，传承精神财富，更需要在实践中推进改革开放。就像这些改革先锋一样，在所在领域，甘当探索者，争当先行者，勇当开拓者，更重要的是全力做践行者。<br/><div class="contheight"></div>“什么是路？就是从没路的地方践踏出来的，从只有荆棘的地方开辟出来的。”改革开放不可能没有阻力，也不可能不出现问题，正如“发展起来以后的问题不比不发展时少”，这就更需要动真碰硬的决心，与久久为功的韧劲。我们有决心推进改革开放，有能力在破除体制机制弊端、调整深层次利益格局上再啃下一些硬骨头。<br/><div class="contheight"></div>100名改革先锋是榜样，也是路标，更是激发我们向前的动力。改革开放在认识和实践上的每一次突破和深化，改革开放中每一个新生事物的产生和发展，每一个经验的取得和积累，都来自亿万人民的实践和创造。置身于新时代，我们每个人都有责任投入到改革潮流中，用双手塑造崭新自我，用实干成就出彩人生，为下一个更壮阔的40年助力。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 百名改革先锋</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2749210">
+<div class="nbgbox">
+<a class="zan" contid="2749210" href="javascript:;" onclick="voteCont(this)" praisetimes="328">
+                           327</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 庆祝改革开放40周年大会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2749210&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2749210&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

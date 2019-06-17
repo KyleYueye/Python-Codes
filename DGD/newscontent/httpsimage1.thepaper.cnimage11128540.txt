@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">山西朔州市公安局组织9支宣传小分队，进村入户宣传扫黑除恶</h1>
+<div class="news_about">
+<p>“山西省公安厅”微信公号</p>
+<p>
+							2018-10-08 19:00<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">9月26日一大早，（山西省）朔州市公安局的十几名公安民警来到滋润乡下辛庄村，进村入户向村民宣传扫黑除恶专项斗争知识。<br/><div class="contheight"></div>据介绍，今年以来，朔州市公安机关已经组织9支宣传小分队，深入街道社区和乡镇农村，面对面向群众宣传介绍扫黑除恶专项斗争相关内容，取得良好成效。截至目前，全市9支宣传小分队，已深入基层农村200多个，入户走访8000人次。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="324" src="http://image.thepaper.cn/www/image/11/128/535.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">本文图均为 山西省公安厅微信公众号 图<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="369" src="http://image.thepaper.cn/www/image/11/128/536.jpg" width="600"/></div></span>为不断推进扫黑除恶专项斗争深入进行，今年以来，朔州市公安机关各级各部门，紧紧围绕扫黑除恶斗争主题开展宣传发动，不断提升全市广大人民群众对扫黑除恶专项斗争的关注度、知晓率，为全市扫黑除恶专项斗争营造了良好舆论氛围。<br/><div class="contheight"></div>9月12日，朔城区在崇福寺广场举办广场舞大赛，一时间民众云集。由朔城区政法委牵头组织的“朔城街坊”扫黑除恶专业宣传队，利用这个群众自动聚集的机会，主动走进崇福寺广场，向广大市民发放扫黑除恶宣传资料，讲解扫黑除恶有关政策法律知识。活动中，宣传队队员耐心向市民宣讲打击黑恶势力的有关法律知识，鼓励引导群众勇于检举揭发涉黑涉恶违法犯罪行为，及时提供黑恶势力违法犯罪线索，不少市民纷纷上前咨询。在活动现场，朔州创先文化传媒公司工作人员马淑坤说：“我觉得，这种面对面介绍扫黑除恶内容的宣传活动挺好。前不久，我们家里还收到了一份介绍扫黑除恶内容的《公开信》。看完这份公开信，全家人更加拥护中央开展扫黑除恶专项斗争的决定了。”据朔城区政法委书记何志岳介绍，为了推进扫黑除恶专项斗争宣传活动的开展，该区已经组织了60多名“朔城街坊”专业宣传队员和2000多名乡村、社区干部，深入全区163786户居民家中进行宣传，同步开展扫黑除恶问卷调查，了解社情民意，面对面为群众讲解政策法律，动员广大群众积极参与扫黑除恶专项斗争收到了良好社会效果。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="359" src="http://image.thepaper.cn/www/image/11/128/537.jpg" width="600"/></div>规模空前的扫黑除恶专项斗争宣传行动，在朔州市广大干部群众中赢得了积极反响。朔州市开发区汽配城鹏东汽车修理店老板蔡鹏东说：“现在走在大街上，随处可见的扫黑除恶标语告诉我们，咱朔州的扫黑除恶是动了真格的了，是下了决心了。”九三学社朔州市委员会办公室工作人员崔培英说，今年以来，朔州市处处营造扫黑除恶舆论氛围，让他感受到“有黑必扫、有恶必除、无恶治乱”的浓浓气息。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="386" src="http://image.thepaper.cn/www/image/11/128/538.jpg" width="600"/></div>（原题为《【“扫黑除恶”斗争进行时】朔州市公安局组织9支宣传小分队进村入户宣传扫黑除恶！》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：马世鹏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 朔州 山西 扫黑除恶</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2508244">
+<div class="nbgbox">
+<a class="zan" contid="2508244" href="javascript:;" onclick="voteCont(this)" praisetimes="63">
+                           62</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 扫黑除恶</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2508244&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2508244&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

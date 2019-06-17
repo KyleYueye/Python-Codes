@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25491">长三角政商</a>
+</div>
+<h1 class="news_title">多所高校齐聚南京晓庄学院，求解应用型新传本科教育如何转型</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林山 通讯员 蒋一莉</p>
+<p>
+							2018-12-23 11:53<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="358" src="http://image.thepaper.cn/www/image/13/426/293.jpg" width="533"/></div>12月22日，首届“应用型新闻传播本科教育‘再出发’圆桌论坛暨学生实践作品研讨交流会”在南京晓庄学院举行。<br/><div class="contheight"></div>来自江苏、浙江、山东、湖南等地的十余所新闻传播本科类院校的师生、多家媒体机构的嘉宾以及相关宣传部门负责人，就如何增强新闻传播实践教学能力等问题，进行了深入交流。<br/><div class="contheight"></div>南京晓庄学院贾创雄副校长致开幕辞时说，在全国教育大会和教育部“高教四十条”精神的指引下，南京晓庄学院正在加快建设高水平应用型大学，推进应用文科的大力发展。他认为，这次会议是对应用型本科教育的有益探索，由省内外新闻院校的师生、媒体、宣传部门人士一起，分析学生实践作品、交流实践教学经验，真正做到了“以本为本、以学生为中心、以实践为中心”。<br/><div class="contheight"></div>会议分为嘉宾现场访谈、学生实践作品评议和实践教学经验交流三个部分。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="299" src="http://image.thepaper.cn/www/image/13/426/292.jpg" width="412"/></div><span style="color: rgb(128, 128, 128);">访谈现场</span><br/><div class="contheight"></div>多名高校新闻传播专业的学界人士、媒体机构的业界人士、以及地方党委宣传部人士，就新形势下新闻传播本科教育的实践和应用能力的培养，与参与该圆桌论坛及作品研讨会的师生们进行了现场访谈。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="312" src="http://image.thepaper.cn/www/image/13/426/291.jpg" width="473"/></div><span style="color: rgb(128, 128, 128);">学生实践作品研讨交流现场</span><br/><div class="contheight"></div>南京晓庄学院新闻传播学院特聘院长熊忠辉教授表示，为提升该校新传本科教育质量，该院今后将继续围绕“协同育人、平台育人”的理念，进一步加强学界与业界、地方宣传部门等社会各界的协作共建，办好应用型本科教育。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李克诚<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 应用型本科教育，新闻传播，实践教学能力，南京晓庄学院</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2765892">
+<div class="nbgbox">
+<a class="zan" contid="2765892" href="javascript:;" onclick="voteCont(this)" praisetimes="38">
+                           37</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 应用型本科教育</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2765892&caid=25491",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2765892&amp;caid=25491" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

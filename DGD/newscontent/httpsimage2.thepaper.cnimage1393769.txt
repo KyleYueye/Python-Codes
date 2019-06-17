@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">外交部回应孟晚舟被捕事件：中方未在第一时间得到加方通知</h1>
+<div class="news_about">
+<p>外交部网站</p>
+<p>
+							2018-12-11 20:03<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="408" src="http://image.thepaper.cn/www/image/13/93/767.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">外交部例行记者会 外交部 图<br/><div class="contheight"></div></span>2018年12月11日，外交部发言人陆慷主持例行记者会。以下为部分实录。<br/><div class="contheight"></div><strong>问：国务委员兼外长王毅今天发表了演讲，其中提到中方将保护海外中国公民的权益，对于侵害中国公民正当权益的霸凌行径绝不会坐视不管。根据我看到的报道，他没有专门提及华为孟晚舟案。他提及保护海外中国公民的权益，是否具体指的是孟晚舟案？<br/><div class="contheight"></div>答：</strong>你介绍的情况非常清楚。王毅国务委员兼外长在今天上午发表的演讲中，确实非常明确地表明了中国政府在维护身处海外的中国公民合法权益问题上的严正立场。这是在任何情况下中国政府的一贯立场，当然也包括我们最近一再向加拿大政府、美国政府提出交涉的孟晚舟案。你也可以看到，中方就此案向加方、美方交涉过程中，表明的立场与王毅国务委员兼外长今天上午阐明的立场是完全一致的。<br/><div class="contheight"></div><strong>问：昨天你提到中国政府对加拿大政府未第一时间向中方通报孟晚舟被捕消息感到遗憾。而加拿大外交部称，中国驻温哥华总领事12月1日当天就了解到相关情况并获准探视，中国驻加大使当天也与加方官员保持了联系。中方究竟为何感到不满？<br/><div class="contheight"></div>答：</strong>我可以非常简单地回答两点。第一，<strong>中加之间的领事协定明确规定，一旦发生这样的情况，加拿大政府应当毫不延迟地通知中国驻加拿大使领馆。</strong>第二，正如我昨天所说，<strong>中方并未在第一时间得到加方通知。</strong><br/><div class="contheight"></div><strong>问：你刚才提到加拿大政府并未第一时间通知中方孟晚舟被捕一事。中方驻加机构是在事件发生几小时后得到通知的？<br/><div class="contheight"></div>答：</strong>这两天你们一直从不同角度问这个问题。我已经说得很清楚了。第一，我可以明确告诉你，中加之间的领事协定明确规定，在这种情况下，加拿大政府有责任、有义务毫不延迟地通知中国驻加使领馆。第二，我可以重申，加方没有做到这一点。中国官方是第一时间从其他渠道了解到有关情况的。第三，我可以再次强调，中方在掌握情况后的第一时间立即向加方提出了严正交涉。<br/><div class="contheight"></div><strong>问：你能介绍一下中方是通过什么其他渠道得知此事的吗？<br/><div class="contheight"></div>答：</strong>我无法在这儿向你提供所有的细节。你首先应该去问加拿大政府，他们是不是履行了义务。<br/><div class="contheight"></div><strong>问：如果我去问加拿大政府，他们肯定会说做了正确的事情。我想中方应该详细介绍一下中方的不满究竟指什么，中方是在事发后多久得到加拿大政府通知的？<br/><div class="contheight"></div>答：</strong>你可以去问一问加拿大政府，在这个事情上究竟是中方先找的加拿大政府，还是加拿大政府先通知了中国驻加使领馆。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 孟晚舟,中国公民,王毅</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2728160">
+<div class="nbgbox">
+<a class="zan" contid="2728160" href="javascript:;" onclick="voteCont(this)" praisetimes="1467">
+                           1466</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 外交部例行记者会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2728160&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2728160&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（304）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

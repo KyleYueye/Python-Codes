@@ -1,0 +1,79 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25574">翻书党</a>
+</div>
+<h1 class="news_title">开卷有益│用歌仔调吟唱孟浩然的《春晓》是种什么感觉</h1>
+<div class="news_about">
+<p>康震 北京师范大人文学院南山诗社</p>
+<p>
+							2018-12-21 18:41<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="audio_panel">
+<audio controls="" id="topAudio" preload="auto" src="http://audio.thepaper.cn/output/e451f21ccd934a05b91ec4cb7a63be41/mp3128/27daf12f-bd15-483b-91bc-5be9bd53de36-9fcbd204-cf29-b99a-a147-702f167b2288.mp3">Your browser does not support the audio element.</audio>
+<div class="audio_name">南山诗社以歌仔调演奏并吟唱孟浩然《春晓》</div>
+</div>
+<script>$(function(){ audioInit("topAudio")});</script>
+<div class="news_txt" data-size="standard"><strong>【编者按】</strong><br/><div class="contheight"></div><u>中国古典诗词大多可以吟唱，只是时至今日，由于曲谱的遗失等诸多原因，我们已经不会吟唱那些经典诗词。近日，《中国诗词大会》嘉宾、北京师范大学人文学院教授康震，与北师大人文学院南山诗社一起，编写了《古典诗词吟唱》一书，精选了《静夜思》、《送元二使安西》、《春晓》等25首经典诗词名作，配上典雅的乐声和吟唱，通过音乐传达诗词的情景意蕴，让今天的读者更真切地感受古典诗词的魅力。我们来听听南山诗社以歌仔调演奏并吟唱的孟浩然《春晓》。</u><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="541" src="http://image.thepaper.cn/www/image/13/309/128.jpg" width="490"/></div><strong>【解读书籍】</strong><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="440" src="http://image.thepaper.cn/www/image/13/309/133.jpg" width="329"/></div><strong>《古典诗词吟唱》</strong><br/><div class="contheight"></div><span style="color: rgb(128, 128, 128);">康震/主编，北京师范大学出版社 2018年11、12月版</span><br/><div class="contheight"></div>《古典诗词吟唱》参考课程大纲编写，分为两册，每册分上下两编。25首诗词，除了附曲谱外，还会配有解读，介绍相关的历史文化知识。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="502" src="http://image.thepaper.cn/www/image/13/309/129.jpg" width="527"/></div><div style="text-align:center;"><img alt="" height="757" src="http://image.thepaper.cn/www/image/13/309/131.jpg" width="567"/></div></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：顾明<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 古典诗词吟唱,康震,孟浩然</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2753108">
+<div class="nbgbox">
+<a class="zan" contid="2753108" href="javascript:;" onclick="voteCont(this)" praisetimes="155">
+                           154</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 古诗词</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2753108&caid=25574",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2753108&amp;caid=25574" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

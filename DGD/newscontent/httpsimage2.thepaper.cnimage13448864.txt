@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">胡泽君：“三公”经费管理仍不够严格，6部门清退54辆公车</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林平</p>
+<p>
+							2018-12-24 12:23<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月24日，受国务院委托，审计署审计长胡泽君在十三届全国人大常委会第七次会议上报告有关2017年度中央预算执行和其他财政收支审计查出问题的整改情况。澎湃新闻（www.thepaper.cn）注意到，有关“三公”经费管理问题仍不够严格，有6个部门清退、处置违规配备或使用的公务用车54辆，有2个部门存在违规发放津贴补贴和兼职取酬等问题，已清退543.53万元。<br/><div class="contheight"></div>在中央部门预算执行审计查出问题的整改情况上，胡泽君指出，审计的57个中央部门本级及365家所属单位已整改47.26 亿元，完善规章制度36项。 <br/><div class="contheight"></div>首先，关于预决算编报还不够准确问题。对多申领资金问题，1个部门和4家所属单位上缴国库5504.52万元，4个部门和5家所属单位通过调整预算、加强管理等整改1.05亿元；对代编预算等问题，相关部门将严格按照规定完整编制各级次预算；对决算草案多列支出、少计收入等问题，2个部门和4家所属单位归还原资金渠道1665.74万元，20个部门和54家所属单位调账16.96亿元，6个部门和6家所属单位完善了预决算编报。 <br/><div class="contheight"></div>其次，关于资金资产管理还不够规范问题。对账外存放或套取资金等问题，4家所属单位归还原资金渠道2024.84万元，1个 部门和1家所属单位将2210.76万元纳入账内核算，2家所属单位通过追回资金等整改16 .55万元；对违规理财、出借资金等问题，1个部门归还原资金渠道920.91万元，1个部门和1家所属单位收回借款4707万元，2个部门和10家所属单位通过清退理财产品、严格制度执行等整改2.02亿元；对未严格执行“收支 两条线”问题，5个部门和26家所属单位已上缴国库2亿元，1 个部门和4家所属单位通过分年度上缴国库等整改1731.69万元；对违规处置资产或闲置浪费等问题，12个部门和30家所属 单位通过报批、收回、清理处置等整改2.53亿元。<br/><div class="contheight"></div>此外，关于 “三公”经费和会议费管理不严问题。胡泽君透露，因公出国 (境)方面，1个部门和6家所属单位归还了由其他单位承担的费用96.5万元，相关部门将加强预算管理，增强出国 (境)团组的计划性。<br/><div class="contheight"></div>公务用车方面，相关单位正在推进公车改革，6个部门和10家所属单位已清退、处置违规配备或使用的公务用车54辆，3个部门和10家所属单位完善了制度，相关部门将进一步加强公务用车购置及运行维护费预算管理。<br/><div class="contheight"></div>会议和培训方面，相关部门将进一步加强计划管理，严格执行有关规定，7个部门和4家所属单位归还了由其他单位承担的费用235.64万元。对违规发放津贴补贴和兼职取酬等问题，2个部门和10家所属单位已清退543.53万元，7个部门和19家所属单位通过约谈相关人员、停止兼职行为等加强了管理。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：段彦超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 三公,严格</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768278">
+<div class="nbgbox">
+<a class="zan" contid="2768278" href="javascript:;" onclick="voteCont(this)" praisetimes="45">
+                           44</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 三公经费</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768278&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768278&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

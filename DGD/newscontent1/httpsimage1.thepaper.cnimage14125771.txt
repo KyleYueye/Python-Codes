@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">挪威正考虑追随西方国家排除华为参与5G建设？我外交部回应</h1>
+<div class="news_about">
+<p>外交部网站</p>
+<p>
+							2019-01-10 20:03<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">2019年1月10日，外交部发言人陆慷主持例行记者会。以下为部分实录。<br/><div class="contheight"></div><strong>问：据报道，挪威政府正考虑是否追随其他西方国家排除华为公司参与5G网络建设。中方对此有何评论？是否认为这将危及中挪自贸协定的达成？<br/><div class="contheight"></div>答：</strong>我不愿也不便对这类报道发表评论。如果我们<strong>仅仅根据一些人云亦云的报道对有关国家政府的政策作出评论，这是不公平的。你可能需要请报道里提到的有关国家政府作出澄清，看看他们的正式立场到底是什么。</strong><br/><div class="contheight"></div>作为原则，中国政府<strong>一向鼓励中国企业按照所在地区和国家的法律法规和商业规则来行事。</strong>同时，我们也<strong>一向要求所有国家能给予中国企业公正、平等的待遇。</strong>其实你后半部分的提问也说明了一个道理，就是公正、平等的待遇必须建立在相互给予的基础上。如果打破这种平衡，我相信对任何经济体来说都不是好事。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 挪威,华为,5G</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837490">
+<div class="nbgbox">
+<a class="zan" contid="2837490" href="javascript:;" onclick="voteCont(this)" praisetimes="177">
+                           176</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 外交部例行记者会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837490&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837490&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">西安市秦岭办收看《一抓到底正风纪》：教育干部知错悔错改错</h1>
+<div class="news_about">
+<p>西安晚报</p>
+<p>
+							2019-01-10 09:18<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月9日晚，西安市秦岭办组织全体干部集中收看新闻专题片《一抓到底正风纪》。大家一致表示：要深刻汲取教训，深入反思反省，知耻而后勇，切实增强秦岭生态环境保护的责任感、使命感，忠诚干净担当，以实际行动践行“四个意识”和“两个维护”。<br/><div class="contheight"></div>大家一致表示，市秦岭办要全面准确地理解“绿水青山就是金山银山”等重要论述的深刻内涵，充分发挥好牵头协调作用，认真谋划2019年工作，坚持问题导向，巩固秦岭专项整治成果，理顺保护工作的机制体制，健全法规制度，严厉打击破坏秦岭的“五乱”现象，加快实施秦岭生态修复，真正还秦岭以宁静、和谐、美丽。<br/><div class="contheight"></div>市秦岭办党组将把此次收看作为“讲政治、敢担当、改作风”专题警示教育的重要内容，教育引导全办党员干部知错悔错改错，坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻落实习近平总书记系列重要批示指示精神，落实全国、全省生态环境保护大会部署要求，落实《加快创建国家生态文明建设示范区的决定》相关任务，牢固树立“四个意识”，坚决做到“两个维护”，以高度的政治敏锐性和强烈的政治责任感，自觉围绕全市追赶超越大局不懈奋斗，为建设国家中心城市提供良好的生态支撑。<br/><div class="contheight"></div>（原标题为《市秦岭办：以实际行动践行“四个意识”和“两个维护”》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：钟煜豪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 秦岭，西安</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835009">
+<div class="nbgbox">
+<a class="zan" contid="2835009" href="javascript:;" onclick="voteCont(this)" praisetimes="35">
+                           34</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 秦岭拆违</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835009&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835009&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

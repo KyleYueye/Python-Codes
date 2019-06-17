@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25436">能见度</a>
+</div>
+<h1 class="news_title">沙特称不排除进一步减产可能性，美原油价格大涨5%</h1>
+<div class="news_about">
+<p>澎湃新闻记者 海阳</p>
+<p>
+							2019-01-10 11:01<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">随着主要产油国逐步落实减产计划，原油价格持续上涨。当地时间1月9日，国际油价连续八个交易日上涨，创2017年6月以来最长连涨周期。<br/><div class="contheight"></div>截至当地时间1月9日收盘，2月交货的WTI原油期货价格上涨2.58美元，收于每桶52.36美元，涨幅为5.18%。3月交货的布伦特原油期货价格上涨2.72美元，收于每桶61.44美元，涨幅为4.63%。<br/><div class="contheight"></div>自圣诞前夕触及18个月新低以来，WTI价格已经收复23%，布伦特价格收复了22%。根据一般定义，股票、商品价格在一段时间内累计涨幅超过20%即为进入技术牛市。<br/><div class="contheight"></div>消息面上，以沙特为首的主要产油国近期积极表态落实去年12月达成的减产协议。当地时间1月9日，沙特能源部长法利赫在一场新闻发布会上表示，如果没有意外发生，他对于主要产油国将令市场重新平衡一事充满信心。法利赫还表示，他不排除呼吁石油输出国组织（OPEC）和其他产油国进行进一步减产行动的可能性。<br/><div class="contheight"></div>对于主要产油国上个月达成的减产120万桶/日的协议，法利赫表示这一计划已在执行当中。<br/><div class="contheight"></div>“情绪从几周前的完全消极到现在的高度积极，”Tortoise公司的投资经理Matt Sallee表示，“每个投资者都专注于沙特人的表态，而后者似乎很有决心。”<br/><div class="contheight"></div>乐观的情绪甚至让交易者忽视了美国汽油和柴油库存大幅增加的消息。美国石油协会（API）日前公布的报告显示，1月4日当周美国汽油库存增加807万桶，凝析油库存增加1060万桶。而据美国能源信息署（EIA）的报告，截至1月4日当周，美国原油库存减少168万桶，不及预期的降幅270万桶。<br/><div class="contheight"></div>据《华尔街日报》1月7日报道，沙特正计划在1月底将原油出口量降低至710万桶/日，这一数字较去年11月水平相比降低了80万桶/日。据报道，沙特进行这一调整的目的是希望抬高油价，以保证沙特增加的财政开支计划能够实现。<br/><div class="contheight"></div>ING集团的商品策略师Warren Patterson表示，有许多证据表明OPEC正在遵守新的减产计划，因此价格还有进一步的上行空间，“我们认为市场将在2019年上半年基本平衡。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李跃群<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835723">
+<div class="nbgbox">
+<a class="zan" contid="2835723" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国际油价</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835723&caid=25436",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835723&amp;caid=25436" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

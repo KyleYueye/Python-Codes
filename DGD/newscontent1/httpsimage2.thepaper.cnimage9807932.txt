@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜孙杨领奖服风波：不论大小，这是关于规则的正事</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-08-22 15:04<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">印尼雅加达亚运会正在进行，中国队在奖牌榜上持续领跑，其中孙杨一人就已获得三块金牌。我们理应为中国运动健儿高兴。但是前两天发生的孙杨领奖服风波一直在舆论场盘旋，成为一道有些尴尬的风景。最新消息，孙杨回应称“小事情不会影响我”。<br/><div class="contheight"></div>事情的原委是，在19日的领奖台上，同为中国选手，获得冠军的孙杨和季军选手季新杰穿着不同品牌的服装：前者身穿亮黄色的361°，后者穿了安踏。而从2009年开始，安踏便是包括奥运会和亚运会在内的中国体育代表团官方合作伙伴，为中国队提供统一服装。<br/><div class="contheight"></div>事后安踏将孙杨的举动称为“违纪违规的事件”，还在微博上发出两张配文图片，称“一件领奖服不止于成绩，更是国家荣誉，是国家形象，规则和底线不容辱没”。<br/><div class="contheight"></div>看到孙杨“辱没国家荣誉”的说法，许多人不淡定了，这怎么可能？因为孙杨刚刚用实际行动证明了，他是如何珍视国家荣誉。因为升旗时国旗意外掉落，孙杨第一时间与组委会官员交涉，要求重新举行升旗仪式。他的要求获得了成功，也赢得亿万网友的点赞。评论者也纷纷对孙杨的爱国举动给予好评。<br/><div class="contheight"></div>夺金又“护旗”的孙杨，不会是辱没国家荣誉的人。那么领奖服又是怎么一回事呢？<br/><div class="contheight"></div>其实很简单，一码归一码，两件事不能混为一谈。安踏认为孙杨违背了契约精神，导致自己的利益受到了损失，那么它可以向中国代表团提出诉求。这一诉求是完全正当的，爱护孙杨的人也应该理解。企业依据合约捍卫自己的利益，既不丢人，也不是“在后方插刀”。<br/><div class="contheight"></div>问题就在于，安踏似乎有点越俎代庖了。孙杨是否“违纪违规”，从程序上看应该由代表团进行认定，赞助商直接定性似乎不妥。“辱没国家荣誉”这个帽子扣得也有点离奇，因为与公众对孙杨的认知反差过大，其实不利于品牌的形象。<br/><div class="contheight"></div>也就是说，安踏维权完全正当，但维权的方式有待商榷。<br/><div class="contheight"></div>反观孙杨和代表团这边，回应和处置也有不妥之处。领奖服风波说大可大，说小可小，但这是一件关于规则的正事，必须正视。孙杨说“小事情不会影响我”，给人以自我为中心的观感。作为顶级运动员，他理应知道穿什么领奖服不是无关紧要的花絮。<br/><div class="contheight"></div>更重要的是，代表团和体育总局应该及时做出明确表态，不能任由这起风波持续发酵。网友分拨站队解决不了这件事，只有官方能解决。与安踏的合约到底怎么定的，孙杨的行为是否违纪违规，都应该有个权威答案。如果确属违规，便应该依规处罚，这与表彰运动员为国争光同样不冲突。<br/><div class="contheight"></div>国家荣誉与商业利益，合则两美，闹则俱伤。领奖服风波若一直拖延不休，对各方的损害才是最大的。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 领奖服风波 孙杨</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2369988">
+<div class="nbgbox">
+<a class="zan" contid="2369988" href="javascript:;" onclick="voteCont(this)" praisetimes="235">
+                           234</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 领奖服风波</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2369988&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2369988&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（100）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

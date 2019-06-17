@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">59岁中国工程院院士、解放军总医院原副院长高长青病逝</h1>
+<div class="news_about">
+<p>光明日报</p>
+<p>
+							2019-01-10 11:33<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中国共产党党员，中国工程院院士，英国爱丁堡皇家外科学院外籍院士，法国医学科学院外籍院士，法国外科学院外籍院士，中国人民解放军总医院原副院长、少将、主任医师、教授、专业技术一级、博士生导师，我国著名心血管外科专家高长青同志因病医治无效，于2019年1月8日15时59分在北京逝世，享年59岁。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="369" src="http://image.thepaper.cn/www/image/14/111/102.jpg" width="600"/></div>高长青同志1959年12月31日出生于内蒙古包头市，汉族。1984年8月毕业于包头医学院，1991年3月公派赴墨西哥留学，1996年5月归国就职于中国人民解放军总医院，历任科室主任、医务部主任、副院长。2015年当选中国工程院院士。<br/><div class="contheight"></div>高长青同志长期从事心血管外科临床及基础研究，尤其在微创机器人心脏外科的临床及相关技术领域做了大量开拓性工作，出版我国首部全英文版机器人外科专著Robotic Cardiac Surgery，开创了我国微创机器人外科手术先河，成为亚洲微创机器人心脏手术的开拓者。他还在冠心病、室壁瘤的外科诊治及临床研究方面具有深厚的造诣，取得了多项创新性成果，促进了我国冠心病外科的发展。<br/><div class="contheight"></div>高长青同志曾获国家科学技术进步奖一等奖、何梁何利基金科学与技术进步奖、军队杰出专业技术人才奖、军队科技领军人才、中央保健工作特殊贡献奖、求是杰出青年工程奖，3次荣立个人二等功。<br/><div class="contheight"></div>（原标题为《 高长青院士逝世》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：钟煜豪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 院士，高长青</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835810">
+<div class="nbgbox">
+<a class="zan" contid="2835810" href="javascript:;" onclick="voteCont(this)" praisetimes="166">
+                           165</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 逝者</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835810&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835810&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（81）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

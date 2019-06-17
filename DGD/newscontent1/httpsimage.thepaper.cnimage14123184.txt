@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25444">社论</a>
+</div>
+<h1 class="news_title">【社论】礼让行人不是“客气”，是法律底线</h1>
+<div class="news_about">
+<p></p>
+<p>
+							2019-01-10 18:34<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="250" src="http://image.thepaper.cn/www/image/14/123/188.jpg" width="600"/></div>去年11月29日，浙江江山一男子驾驶小型面包车与沿人行横道过马路的行人发生碰撞，致人死亡。近日，当地警方依法对肇事面包车驾驶员刑事拘留。警方通报称，驾驶员观察到该路口有斑马线以及行人正横穿道路，但未采取避让措施，负全责。<br/><div class="contheight"></div>这本是一起普通的机动车碰撞行人的交通事故。但监控视频公布后，却在网上引发了部分争议。一些网友认为：行人应该看清车，不能指望车让人，更有人认为存在碰瓷的嫌疑。<br/><div class="contheight"></div>“碰瓷”不能只凭借着监控画面中的一个疑似动作就搞有罪推定，既然警方已经作出责任认定，并启动刑事程序，就说明已排除了碰瓷的嫌疑。在这方面，当地警方不妨做出更多澄清，但是，围观者先得去把交通法规重温一下：机动车礼让行人不是“客气”，是法律规定。机动车在斑马线上撞人，倒过头指责被撞者，本身就属是非错位了。<br/><div class="contheight"></div>在不少公共事件中，不时涌现出一种“完美受害者”的论调。那种“行人如果更小心应该就能够避免事故”，这说的是行人该如何避免意外，而不能反向苛责受害人，甚至完全无视机动车违规在先这个大前提。<br/><div class="contheight"></div>“机动车行经人行横道时，应当减速行驶；遇行人正在通过人行横道，应当停车让行”，这是写入交通安全法中的法规。它意味着机动车礼让行人，绝不是驾驶员的“修养”“素质”问题，更不是客气，而是被法律明确的底线。它的成立和执行的刚性，不是以行人的表现为前提。<br/><div class="contheight"></div>2017年，西安一位“的姐”经过斑马线时礼让行人，却遭后车追尾。更没想到的是，后车肇事司机不顾“的姐”理论直接开车就走，并把“的姐”撞倒在地，事件曾引发关于文明驾车的讨论。遵守交通法规、开文明车，不与行人抢道，不该是异类。<br/><div class="contheight"></div>去年以来，公安部在全国部署开展了机动车不礼让斑马线违法行为集中整治行动。其对应的现实是，机动车在斑马线前礼让行人，还远未成为一种集体行动的自觉，更没有形成应有的汽车文明。<br/><div class="contheight"></div>这次江山的事件引发争议，除了表明民间社会对于“碰瓷”现象有条件反射式的警惕，也显示出社会对机动车礼让斑马线这一交通规则的认知仍存在偏差。机动车礼让斑马线，是法律确定的规则，不能怀着侥幸心理讨价还价，更不能把破坏规则的责任转嫁给行人。这一常识需要被不断重申，而类似案例的定责，本身也是最直观的普法。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 交通法规 礼让行人 江山</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837392">
+<div class="nbgbox">
+<a class="zan" contid="2837392" href="javascript:;" onclick="voteCont(this)" praisetimes="278">
+                           277</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 礼让行人</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837392&caid=25444",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837392&amp;caid=25444" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（150）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

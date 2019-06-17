@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">五问“执行不能”：案件“执行不能”，法院就不管了吗</h1>
+<div class="news_about">
+<p>人民法院报/荆龙</p>
+<p>
+							2018-10-27 09:42<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">关于强制执行，在许多社会大众心里存在这样一种观念，即只要当事人向法院提出申请，标的物一定能执行到位、钱一定能拿到手。实际上，这是一种误解和偏见，其混淆了“有财产可供执行”和“无财产可供执行”的概念。在司法实践中，“无财产可供执行”的案件属“执行不能”，非执行不力。10月24日，最高人民法院院长周强向全国人大常委会作关于人民法院解决“执行难”工作情况的报告，透露出的信息内容丰富、言简意赅，让人豁然开朗。<br/><div class="contheight"></div>什么是“执行不能”？在人民法院执行过程中，有相当一部分案件的被执行人完全丧失履行能力、经核查确无财产可供执行，已经不具备执行条件，即使法院穷尽一切措施，也无法实际执行到位，这类案件被称为“执行不能”案件。一望而知，“执行不能”案件是“执行难”中啃不动的硬骨头，执行起来难上加难。<br/><div class="contheight"></div>有多少案件“执行不能”？报告显示，近年来，我国生效裁判文书的自动履行率逐年提升，2016年、2017年分别为51%、57%，剩余40%多未自动履行的案件进入执行程序。在进入执行程序的案件中，约有5%属于申请人民法院强制执行仲裁裁决、公证债权文书，约有43%属于确无财产可供执行的“执行不能”案件。换算下来，民商事案件中，约18%的案件是“执行不能”案件。<br/><div class="contheight"></div> “执行不能”的都有哪些案件？这类案件所涉债务大致分为两类：一类是法人债务。被执行企业债台高筑、濒临破产，甚至处于无人员、无财产、无办公场所的状态，这些“僵尸企业”在执行中形成大量“僵尸案件”；另一类是自然人债务。如一些交通事故、人身损害赔偿、刑事附带民事诉讼等案件，被执行人自始就财力有限，甚至“家徒四壁”，确无清偿能力。<br/><div class="contheight"></div>国外法院怎样对待“执行不能”？从世界各国通例来看，“执行不能”案件都属于当事人应当承担的商业风险、法律风险、社会风险，并非法院执行不力所致，需要通过个人破产、社会救助等制度机制予以解决，不属于申请执行的范围，不能进入执行程序。诉讼实践中，许多当事人及社会公众认为生效法律文书是以国家信用作背书，只要有生效文书就一定要执行到位，要求法院兜底、承担化解一切风险的“无限责任”，这显然是讲不通的。<br/><div class="contheight"></div>案件“执行不能”，法院就不管了吗？当然不是。人民法院通过严格审查后，通常以终结本次执行程序的方式结案，并纳入“终本案件库”管理，公开接受社会监督，一旦发现有财产必须及时恢复执行，尽最大努力兑现胜诉当事人的合法权益。在具体操作中，为防止终本程序被滥用、将有财产可供执行的案件纳入终本案件的范围，最高人民法院以“终本案件合格率”为衡量指标，建立完善严把进口、规范管理、畅通出口、有序退出的终本案件管理机制，明确只有穷尽一切执行措施、达到规定标准，才能认定为无财产可供执行案件。<br/><div class="contheight"></div>2016年以来，全国各级法院大力推进信息化建设，建成网络查控系统，实现对被执行人主要财产形式“一网打尽”，形成联合惩戒体系，让失信被执行人“一处失信、处处受限”，这些措施有效保障了“执行不能”案件“终本”不“终了”。案件纳入单独建立的终本案件库后，每半年由网络查控系统自动查询一次，并对数据库内被执行人常态化限制高消费，一经发现可供执行财产立即恢复执行。<br/><div class="contheight"></div>（原题为《五问“执行不能”》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：邵克<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 法院,执行不能</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2570167">
+<div class="nbgbox">
+<a class="zan" contid="2570167" href="javascript:;" onclick="voteCont(this)" praisetimes="41">
+                           40</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 法院执行难</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2570167&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2570167&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

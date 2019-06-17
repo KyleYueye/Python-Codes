@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">西双版纳运行立体化边境防控体系：一分钟预警，三分钟处置</h1>
+<div class="news_about">
+<p>澎湃新闻记者 谢寅宗 通讯员 刘加勇</p>
+<p>
+							2018-10-26 19:15<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="337" src="http://image.thepaper.cn/www/image/11/657/819.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">云南西双版纳州立体化边境防控体系打洛抵边警务室进驻仪式。  本文图片均为王超前 供图<br/><div class="contheight"></div></span></div>10月26日，云南西双版纳州勐海县打洛镇，抵边警务室的进驻仪式在此举行。上午10时，指挥员一声令下，五辆全副武装的巡逻车向各自警务室开进。<br/><div class="contheight"></div>打洛抵边警务室是一个立体化边境防控体系。澎湃新闻（www.thepaper.cn）从云南公安边防总队西双版纳支队了解到，打洛抵边警务室的正式进驻，标志着西双版纳州立体化边境防控体系打洛示范点正式实体化运行。<br/><div class="contheight"></div>西双版纳州与缅甸、老挝接壤，边境线长966.3公里，州内有4个国家级口岸和9条边民通道，边境便道、渡口众多。<div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/11/657/820.jpg" width="600"/></div>西双版纳州委、州政府和公安机关按照“依法治边、民生安边、外交睦边、科技管边、富民兴边、强基固边”的思路，选取问题突出的打洛和景哈、曼栋等64公里边境沿线为试点，建设抵边警务室、抵边民居、防护栏等一批人防、物防、技防项目。<div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/11/657/821.jpg" width="600"/></div>西双版纳边防支队相关负责人告诉澎湃新闻，抵边警务室是立体化边境防控体系建设中一个重要项目，按照“一分钟预警、三分钟处置”的工作要求，连接物防、技防、人防管控效能，从而形成“连点控线、连线控面”的边境一级查缉堵截圈，将为打击边境地区贩枪、贩毒、偷渡、走私等违法犯罪活动、维护边境安全稳定、服务经济社会发展发挥重要作用。<br/><div class="contheight"></div>上述负责人还表示，立体化边境防控体系打洛示范点建设，充分利用国家帮扶政策，将项目建设与精准扶贫工作、“警、企、村”边疆党建长廊深度融合。沿陆地边境线全线硬化巡逻道、修建防护栏、安装信息化设备，建设抵边警务室，打造爱国教育广场，动员4个边境村寨21户118名护边员抵边居住，力争将其打造成为爱国主义教育阵地、展示大国形象的窗口、游客旅游观光的风景线，努力为全省乃至全国立体化边境防控体系建设提供西双版纳模式。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：朱远祥<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 边境防控 抵边警务室 西双版纳</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2567979">
+<div class="nbgbox">
+<a class="zan" contid="2567979" href="javascript:;" onclick="voteCont(this)" praisetimes="42">
+                           41</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 边境防控</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2567979&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2567979&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

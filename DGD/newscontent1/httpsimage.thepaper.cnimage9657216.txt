@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜黑中介首判为黑社会，这就对了！</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-08-16 16:04<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">黑中介是城市的毒瘤。许多年轻人离开校园之后，第一堂刻骨铭心的“社会课”就是黑中介给上的。但是虽然总是惹得民怨沸腾，在一些城市黑中介却像野草一样根深蒂固，难以拔除。<br/><div class="contheight"></div>是黑中介神通广大吗？未必，也许是打击黑中介的角度不对，力度不足。在这方面，武汉带了一个好头。<br/><div class="contheight"></div>一伙盘踞在武汉市中南、亚贸一带的一伙房屋中介，引发“纠纷”报警多达数百起，几乎天天扯皮。武昌警方调查发现，这伙黑中介以“纠纷”滋事为职业，蓄意坑害房客、欺诈房东，非法营业额高达3000余万元，“纯利润”超过1000万元。<br/><div class="contheight"></div>武昌警方以组织、领导、参加黑社会性质组织罪等罪名，将任洪卓等17人送上被告席。近日，武汉市武昌区法院一审判决该团伙为黑社会性质组织。该案是全国首例判决黑中介团伙犯黑社会性质组织罪。<br/><div class="contheight"></div>据悉，这伙黑中介在租房中介合同条款里暗设陷阱，借着合同纠纷的外衣掩盖欺诈，以大学毕业生为主体的租房族受害犹深。其实这些伎俩是全国各地的黑中介惯用的。<br/><div class="contheight"></div>你跟他们租房的时候，开始觉不出异样，但合同一签，押金、房租一交，狐狸尾巴就露出来了。房屋正常使用出现问题，他们不负责维修，反而在退房的时候让你高价赔偿，从押金里扣。除了维修费，还有清洁费等等，七七八八一加，“凑巧”把押金扣完。<br/><div class="contheight"></div>总之，进了黑中介口袋的租房押金与其说是押金，不如说是保护费。如果你想提前退房，那么连提前交的房租都别想不回来。你报警，警察说是合同纠纷，让你们自行协商。回头一拖，一闹，一吓唬，你便放弃了，权当花钱买个教训。毕竟你有正经工作，他们的职业就是坑你，没人耗得起。<br/><div class="contheight"></div>在黑中介泛滥的城市租房，简直能给人留下一辈子的心理阴影，以至于换到一个租房秩序健康的城市，会感觉到了天堂。在某个城市，我身边就有不止一位朋友上过黑中介的当。<br/><div class="contheight"></div>一件真事：某位朋友退房时黑中介找茬不退押金，他跟来收房的人僵持不下，对方建议到公司去谈，结果到了公司却遭到一帮人殴打。最后报了警，但还是不了了之。<br/><div class="contheight"></div>实际上很多人一发现黑中介的流氓嘴脸，就不太敢较真了。而黑中介看中了年轻人、外地人多一事不如少一事的心态，所以才肆无忌惮，不需要付出太多实际的“暴力成本”，就能轻松发财。<br/><div class="contheight"></div>现在很多城市为了吸引人才绞尽脑汁，更应该意识到黑中介的危害性。一个人在新的城市落脚，第一个打交道对象就是房屋中介，如果黑中介横行无忌，这个城市给人留下的第一印象就会极差。此外，各地在推进租售并举政策，如果不把黑中介打掉，就不可能建立有安全感的租房市场。<br/><div class="contheight"></div>黑中介固然有一定的隐蔽性，比如会把欺诈行径“包装”成租客违约，但这些套路要想辨别一点都不难。最重要的是，城市管理者在面对大批量非正常租房纠纷时，不要和稀泥，而要坚决保护弱势群体的利益。各地都应该好好查查，那些民怨集中、纠纷频繁的黑中介，到底是不是黑社会。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 黑中介 黑社会</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2353111">
+<div class="nbgbox">
+<a class="zan" contid="2353111" href="javascript:;" onclick="voteCont(this)" praisetimes="236">
+                           235</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 黑中介</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2353111&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2353111&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（94）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

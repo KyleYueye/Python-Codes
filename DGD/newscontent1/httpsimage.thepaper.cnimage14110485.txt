@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">为找“小姐”男子关掉整层楼电源挨户撬门，被抓才知遭恶搞</h1>
+<div class="news_about">
+<p>贵州都市报</p>
+<p>
+							2019-01-10 10:47<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="297" src="http://image.thepaper.cn/www/image/14/110/481.png" width="504"/></div><span style="color: rgb(128, 128, 128);">网格警赶到现场时物，管和业主将嫌疑男子围住。警方供图<br/><div class="contheight"></div></span>1月8日凌晨，贵阳南明公安分局南3网格值班民警接到终端指令：报称在某小区，物业和业主堵住一名“小偷”。民警及时赶到展开调查，原来这名男子“色胆包天”，深夜偷偷断掉整层居民楼电源，用技术逐一开门，就是为寻找一名微信聊到的“小姐”。<br/><div class="contheight"></div> 据民警陈益进介绍，接警后，他带领辅警立即驱车赶到该小区，在6栋2单元25楼，看到多名业主和物业管理员已将被疑为小偷的男子张某围住。男子一脸焦急，手里拿着开门的工具（一把起子）及一张卡片，该层楼的电闸房门，已被该男子因断电弄坏。<br/><div class="contheight"></div> 民警进一步了解，报警人谭某称，当天凌晨0点，他在25楼家中玩游戏，突然间断电了，随即他又听到门外有响动，疑似有窃贼在开门，他立即打电话报警，同时联系物业人员到25楼查看情况。据物业人员介绍，他们赶到25楼时，正好看见一名30多岁的男子在用一张卡片试图打开1号房门，物业人员和赶来的业主，当即将该男子围堵在25楼。<br/><div class="contheight"></div> 经查，原来该男子用微信“附近的人”聊到一名女性，其在微信上与该女子做了涉黄交易。该女子只告诉他住在25楼，并未告诉他住在几号。张某“色胆包天”，将25楼整层楼的用电断掉，心想这样寻找这名“小姐”，不会被人发现。当他正在25楼试图逐一打开房门找“小姐”时，被快速赶来的业主和物业人员当成小偷围堵。<br/><div class="contheight"></div> 经警方核实，该男子原来是被一名网友恶搞，才发生了当晚滑稽搞笑的一幕。民警将该男子和相关人员，带回派出所做进一步处理。（ 原标题：为了找“小姐”　“痴汉”够折腾）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李寿康<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 贵州 贵阳 南明</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835710">
+<div class="nbgbox">
+<a class="zan" contid="2835710" href="javascript:;" onclick="voteCont(this)" praisetimes="75">
+                           74</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 小偷</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835710&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835710&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25444">社论</a>
+</div>
+<h1 class="news_title">【社论】以史为鉴，吾辈当自强</h1>
+<div class="news_about">
+<p></p>
+<p>
+							2018-12-13 17:11<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="250" src="http://image.thepaper.cn/www/image/13/155/737.jpg" width="600"/></div>“七月初凉，八月新霜；泪洗家书，换作亢强……”今天是我国第五个南京大屠杀死难者国家公祭日。从南京大屠杀遇难同胞纪念馆，到上海四行仓库抗战纪念馆；从哈尔滨侵华日军第七三一部队罪证陈列馆，到重庆大轰炸“六·五”隧道惨案旧址，再到沈阳九一八历史博物馆……神州大地处处举行活动，纪念国家公祭日。<br/><div class="contheight"></div>回到历史现场，总有一种家仇国恨刻骨铭心。81年前，侵华日军侵入南京，对我同胞实施长达40多天灭绝人性的大屠杀，30余万生灵惨遭杀戮，留下人类文明史上最黑暗的一页。以立法形式将12月13日设立为南京大屠杀死难者国家公祭日，以国家之名向遇难者表达最沉痛的哀悼，这是一个国家最鲜明而坚定的价值坐标，也是最能彰显国家意志和激发民众向心力的情感载体。<br/><div class="contheight"></div>举行国家公祭仪式，不是在形式中凭吊历史，而是追昔抚今，以实际行动抒发缅怀之情。我们要缅怀的是南京大屠杀死难者，缅怀惨遭日本侵略者杀戮的所有死难同胞，缅怀为中国人民抗日战争胜利献出生命的革命先烈和民族英雄，缅怀同中国人民携手抗击日本侵略者献出生命的国际战士和国际友人……伤痛纵然结痂，记忆不会风化，在充满仪式感的缅怀中，每个程序都写满哀伤与肃穆，每种追思都有历史纵深感，在与历史的对望中，不只是完成一种仪式，更是表达我们的价值取向。<br/><div class="contheight"></div>举行国家公祭仪式，不是在苦难中低回不已，而是以史为鉴，更好地追逐和平。弱肉强食不是人类共存之道，穷兵黩武不是人类和平之计。和平而不是战争，合作而不是对抗，这是人类社会进步的永恒主题。近代以后的100多年时间里，中国人民无数次经历了战争磨难，更加懂得和平的珍贵。但我们深知，和平是需要争取的，和平是需要维护的。不记住战争的惨痛教训，不彻底反刍战争的诱因，就不可能迎来真正的和平。<br/><div class="contheight"></div>“照片墙上的灯，今年又暗了20盏。”据报道，每去世一位幸存者，侵华日军南京大屠杀遇难同胞纪念馆都会举行熄灯仪式：老人的照片灯光就会变暗。今年已有20位南京大屠杀幸存者相继离世，这是让人沉重却不得不接受的残忍事实。灯光终会全部变暗，提醒我们以更有力的措施留存记忆，更提醒我们善待每一位幸存者。举行国家公祭仪式，本就具有多重含义，比如慎终追远，再比如思念往者、善待健在者。<br/><div class="contheight"></div>国家公祭日每年只有一天，举行国家公祭仪式往往一年一度，但发愤图强却体现在每一天，体现在实现民族复兴的漫漫征程中。把人生理想融入国家和民族的事业中，最终成就一番事业，实现出彩人生，这是新时代带给我们的制度性“馈赠”。不容悲剧重演，不容金瓯再缺，不容国耻复现，靠什么？不是坐而论道，而是砥砺奋进。让制度更先进，越发体现出制度优势；让变革的力量全方位释放出来，推进改革开放再出发；让公民权利更饱满地呈现，激发出民众的奋斗精神，我们有动力做得更好。<br/><div class="contheight"></div>“昭昭前事，惕惕后人”。擦清历史的镜子，抹去灰尘，以史为鉴，就能走好未来的路。今天，我们比历史上任何时期都更接近、更有信心和能力实现中华民族伟大复兴的目标。和平鸽凌空飞翔，“和平大钟”声音悠扬，吾辈当自强。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 国家公祭日</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2735217">
+<div class="nbgbox">
+<a class="zan" contid="2735217" href="javascript:;" onclick="voteCont(this)" praisetimes="576">
+                           575</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国家公祭日</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2735217&caid=25444",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2735217&amp;caid=25444" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">金正恩访华恰逢中美经贸谈判，外交部：无需拐弯抹角暗示美方</h1>
+<div class="news_about">
+<p>澎湃新闻记者 于潇清</p>
+<p>
+							2019-01-08 16:02<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中国外交部发言人陆慷1月8日主持例行记者会。<br/><div class="contheight"></div>对于朝鲜最高领导人访华与中美两国经贸磋商时间重合的有关提问，陆慷回应道，中国外交丰富多彩，我们重大外交议程非常多，一些外交议程有重合不是什么特别奇怪的事情。<br/><div class="contheight"></div>陆慷表示，至于中国在金正恩委员长访华和中美经贸摩擦或者经贸磋商上的立场，我相信两方面的立场都非常清楚，我们致力于发展与朝鲜友好关系的立场是明确的，而且朝鲜也是我们外交的重点方向，这是坚定不移的。中国在解决中美经贸摩擦上的立场也是公开的、透明的，我们有我们的诚意，我们也有我们坚定的意志。在这个问题上，中国不需要通过其他的一些技巧来让美方得到我们的信息，美方对中方的立场非常清楚。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：杨一帆<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 快讯</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827579">
+<div class="nbgbox">
+<a class="zan" contid="2827579" href="javascript:;" onclick="voteCont(this)" praisetimes="123">
+                           122</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 快讯</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827579&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827579&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

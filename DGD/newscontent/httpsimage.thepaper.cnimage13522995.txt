@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">中国老年大学协会：全国现有老年学校7万多所，逾千万学员</h1>
+<div class="news_about">
+<p>王祖敏/中新网</p>
+<p>
+							2018-12-26 17:18<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网北京12月26日电 记者26日从中国老年大学协会获悉，全国共有7万多所老年大学和老年学校。2016年底的统计数据显示，在校学员逾800多万，并有数百万学员参加远程教育。<br/><div class="contheight"></div>当日，中国老年大学协会成立30周年纪念大会在北京召开。第十届全国人大常委会副委员长、原中国老年大学协会名誉会长顾秀莲在致辞中高度赞扬了30年来全国老年大学取得的成绩，希望中国老年大学协会在新时代开创中国老年教育的新局面。<br/><div class="contheight"></div>国家卫生健康委员会党组成员、全国老龄办常务副主任王建军指出，中国老年教育的发展进步是中国改革开放40年的产物和重要成果。30年来，中国老年大学协会为发展老年教育、实施终身教育、开发老年人力资源，积极应对人口老龄化，做出了重要贡献。<br/><div class="contheight"></div>截至2017年底，全国60岁及以上老年人已达2.41亿，占到总人口的17.3%，预计本世纪中叶，60岁及以上老年人口接近5亿，占到总人口35%左右，中国已成为全球老年人口数量最多、老龄化速度最快的国家。因此，开创老年教育发展的新格局，让老有所学、老有所为、老有所乐，既是老年人自身的需求，也是社会发展的需要。<br/><div class="contheight"></div>王建军强调，老年教育是一项开创性的、探索性的事业，中国老年大学协会要适应老年人提高精神文化生活要求，服务老有所学。各级老年大学协会要搭建优质服务平台，为老年人创造更多更好的学习环境，总结梳理中国老年教育30年来的成功经验，向全世界介绍、宣传中国尊老爱老故事，以及广大老年人受教育权利的中国故事、中国方案、中国智慧。<br/><div class="contheight"></div>会上，中国老年大学协会向成立30年以上的老年大学颁发了荣誉证书。大会得到中组部、国家卫健委、全国老龄办、民政部、教育部、文化和旅游部、中央军委政治工作部、中国老龄协会等单位的大力支持。<br/><div class="contheight"></div>（原题为《全国现有老年学校7万多所 逾千万学员老有所学》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：崔烜<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 老年学校</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776846">
+<div class="nbgbox">
+<a class="zan" contid="2776846" href="javascript:;" onclick="voteCont(this)" praisetimes="11">
+                           10</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 老年人</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776846&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776846&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

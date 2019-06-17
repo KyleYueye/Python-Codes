@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">联大正式通过《移民问题全球契约》，美以等五国投了反对票</h1>
+<div class="news_about">
+<p>王建刚/新华社</p>
+<p>
+							2018-12-20 13:33<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/333/852.jpg" width="600"/></div>联合国大会19日正式通过《移民问题全球契约》。联合国秘书长古特雷斯当天发表声明表示，契约的通过为移民问题国际合作提供了一个良好的平台。<br/><div class="contheight"></div>联大当天以152票赞成、12票弃权、5票反对的结果通过了该契约。美国、以色列、捷克、匈牙利和波兰投了反对票。另外24个联合国会员国没有参加投票。<br/><div class="contheight"></div>古特雷斯在声明中指出，契约“重申了我们全球的社会基本原则”，“呼吁对面临惊人的脆弱和受虐待处境的移民给予更大的声援”以及“确定更多合法移民路径的迫切性”。他还表示，希望那些“选择不加入这一进程的国家能够认识到契约的价值并最终加入这一事业当中”。<br/><div class="contheight"></div>《移民问题全球契约》是首份涵盖国际移民各方面问题的综合性政府间协议。联合国秘书长跨国移民问题特别代表路易丝·阿伯强调，契约的通过是对《联合国宪章》和国际法所体现的价值观和原则的重新肯定。<br/><div class="contheight"></div>《移民问题全球契约》全称为《安全、有序和正常移民全球契约》，其制定进程历时逾18个月。今年7月13日，联合国除美国外的192个会员国就《移民问题全球契约》最终文本达成一致。契约设定了23个目标，涵盖移民驱动因素、合法渠道、打击贩运和走私以及移民回归等多个方面，但契约不具法律约束力。<br/><div class="contheight"></div>联合国全球移民问题政府间会议10日在摩洛哥南部城市马拉喀什举行。《移民问题全球契约》在会上获得通过，并交由联大19日举行的投票最后确认通过。<br/><div class="contheight"></div>（原题为：《联大正式通过《移民问题全球契约》》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：廖婧雯<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 联合国大会，移民，古特雷斯</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2755821">
+<div class="nbgbox">
+<a class="zan" contid="2755821" href="javascript:;" onclick="voteCont(this)" praisetimes="15">
+                           14</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 联合国大会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2755821&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2755821&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

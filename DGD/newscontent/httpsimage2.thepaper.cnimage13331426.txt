@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">日媒：日本拟退出国际捕鲸委员会，重启商业捕鲸</h1>
+<div class="news_about">
+<p>澎湃新闻记者 廖婧雯</p>
+<p>
+							2018-12-20 12:12<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">日本政府最快将于下周表决通过退出国际捕鲸委员会（IWC）的方针。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="375" src="http://image.thepaper.cn/www/image/13/331/420.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">澳大利亚塔斯马尼亚州媒体《水星报》2017年11月28日披露了一段日本捕鲸船在澳大利亚南部海域疯狂虐杀鲸鱼的血腥视频，这段视频由澳大利亚海关人员拍摄于9年前。视觉中国 资料图<br/><div class="contheight"></div></span>据日本《产经新闻》12月20日报道，日本多名官员证实了政府将于下周最终决定退出国际捕鲸委员会（IWC）的方针。共同社援引日方政府人士消息称，日本已基本决定退出IWC，以重启商业捕鲸。<br/><div class="contheight"></div>今年9月，日本在巴西召开的IWC中提议重新开启一部分商业捕鲸的提案因未达四分之三赞成票而被否决后，日本政府认为此类提案今后也将难以被通过，留在IWC的意义不大，因而决定退出该组织。今年10月，日本农林水产相吉川贵盛早就曾表示，“是否退出IWC是今后需要探讨的课题”。<br/><div class="contheight"></div>《产经新闻》报道称，成立于1948年的IWC提倡“保护鲸鱼”并“可持续利用”，但是近年来的重点偏向于“保护”。日方认为，该组织89个成员国中过半以上都是反捕鲸国，其中不乏美、英、澳大利亚等具有强大发言权的大国，日方的“重启商业捕鲸”提案将难以获得重要提案通过所需的四分之三赞成票。<br/><div class="contheight"></div>国际捕鲸委员会于1986年通过《全球禁止捕鲸公约》，禁止商业捕鲸，但允许捕鲸用于科学研究。中新网称，反捕鲸人士认为，日本利用公约这一漏洞，每年在南极海域以科研名义捕杀数百头鲸鱼。<br/><div class="contheight"></div>联合国海牙国际法院2014年3月裁定日本在南极的定期捕鲸活动并非出于“科研目的”，应当停止。此后，日本暂停2014年底至2015年初的捕鲸活动，但又在2015年末重启。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王靓<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 日本，国际捕鲸委员会，捕鲸</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2755604">
+<div class="nbgbox">
+<a class="zan" contid="2755604" href="javascript:;" onclick="voteCont(this)" praisetimes="61">
+                           60</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日本捕鲸</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2755604&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2755604&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

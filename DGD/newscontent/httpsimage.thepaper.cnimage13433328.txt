@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">上海本周多雨水，中后期降温明显，周末或再飘雪</h1>
+<div class="news_about">
+<p>澎湃新闻记者 栾晓娜</p>
+<p>
+							2018-12-24 08:15<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">本周，上海依然多降水过程。受到冷空气影响，本周中后期将出现明显降温，最低气温在3℃附近，最高气温也仅为5℃-7℃。而在本周末的降水过程中，由于气温低迷，不排除再次飘雪的可能性。<br/><div class="contheight"></div>12月23日，受冷空气南下影响，本市逐渐雨止转为阴到多云的天气，但由于偏北风力较大，升温乏力，全市的最高气温普遍在12℃-13℃。其中，中心城区徐家汇站的最高气温为12.2℃，当天夜间则降至6℃-7℃。<br/><div class="contheight"></div>24日又将迎来新一周的工作日。据上海气象部门预计，24日，上海以多云天气为主，风力略有减小，转东北风3-4级；最低气温6℃，最高气温在11℃左右。<br/><div class="contheight"></div>但是，多云少雨的日子仅有这一天。自25日起，受冷暖空气共同影响，本市有一次阴雨天气过程，其中，26日的降雨较为明显，且有大风和降温。到了27日，雨水渐止，有一至两天的降雨间歇期，但到了周末，又将出现降水。由于气温较低，不排除出现雨雪天气的可能。<br/><div class="contheight"></div>气温方面，25日略有回升，在8℃-13℃；26日，受冷空气影响，气温下降至8℃-11℃。自27日开始，不断有冷空气补充南下，本市气温总体低迷，最低气温在3℃附近，最高气温也仅为5℃-7℃。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：杨洁<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 降水,降温,雨雪</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766651">
+<div class="nbgbox">
+<a class="zan" contid="2766651" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 雨雪天气</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766651&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766651&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

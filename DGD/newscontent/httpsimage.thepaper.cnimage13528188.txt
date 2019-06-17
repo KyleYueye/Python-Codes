@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">故宫开始挂宫灯，这项活动已消失在历史长河中将近200年</h1>
+<div class="news_about">
+<p>王岩/@北京青年报</p>
+<p>
+							2018-12-26 18:55<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="800" src="http://image.thepaper.cn/www/image/13/528/173.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">微博@北京青年报 图</span></div><div>据@北京青年报微博12月26日报道，26日，故宫博物院乾清宫开始试挂宫灯，为即将开幕的“贺岁迎祥——紫禁城里过大年”系列展览布展。此次展览力图将相关文物还原到历史本来的场景中去。例如，立天灯、万寿灯是清代早中期过年最盛大的活动之一。从立到撤，前前后后要使用八千多人次。自道光二十年（1840）被节俭的皇帝取消以来，它们已经消失在历史长河中将近200年。相关文物也早已分散各处，渐渐不为人所知。</div>如今通过研究人员的努力，不但在文献中查出来天灯、万寿灯的使用方式、历史沿革，乃至各部分的详细尺寸。更在各个库房中找到了灯身模型、灯联小样以及灯杆原件，并成功将它们复原出来，重新树立在乾清宫和皇极殿的台基上下，让康乾盛世的过年景象又重新出现在今天。<br/><div class="contheight"></div>（原题为《消失近200年后，故宫开始挂宫灯 》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 故宫,挂宫灯,展览布展</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2777401">
+<div class="nbgbox">
+<a class="zan" contid="2777401" href="javascript:;" onclick="voteCont(this)" praisetimes="177">
+                           176</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 故宫</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2777401&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2777401&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

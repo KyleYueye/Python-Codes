@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">37项议程！年底这次全国人大常委会会议传递出哪些信息？</h1>
+<div class="news_about">
+<p>罗沙、杨维汉/新华社</p>
+<p>
+							2018-12-23 10:59<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京12月23日消息，37项议程！会期长达一周！12月23日至29日召开的十三届全国人大常委会第七次会议，也是2018年最后一次常委会会议，议程之多、内容之重要不同寻常。<br/><div class="contheight"></div>此次会议的议程和议题传递出哪些信息？记者进行了梳理和分析。<br/><div class="contheight"></div>十三届全国人大常委会加快立法步伐，审议节奏加快、立法数量增多，常委会会议的议题紧紧围绕党中央决策部署和百姓所盼所需所想。<br/><div class="contheight"></div>这次会议的37项议程中，法律案的审议占“半壁江山”。其中，外商投资法草案提交会议审议。中国对外开放的大门只会越开越大，外商投资立法的加速推进将更好保护在华外商投资企业的合法权益，保持外资政策稳定、公平、透明、可预期，增强外国投资者的投资信心。<br/><div class="contheight"></div>民法典各分编草案提交全国人大常委会审议并公开征求意见以来，社会各界反映十分热烈。根据民法典编纂工作计划和安排，各分编草案将拆分为几个单元进行若干次审议和修改完善，本次会议将继续审议民法典合同编草案和侵权责任编草案。<br/><div class="contheight"></div>这次会议上颇受关注的法律案，还有涉及广大农民的农村土地承包法修正案草案和耕地占用税法草案、购车人十分关心的车辆购置税法草案、直接关系公共卫生安全的疫苗管理法草案，都与人民群众切身利益息息相关。<br/><div class="contheight"></div>从党中央到基层群众，建设美丽中国已经成为共识。此次会议将听取和审议全国人大常委会执法检查组关于检查海洋环境保护法实施情况的报告，审议国务院关于发展海洋经济加快建设海洋强国工作情况的报告，这是十三届全国人大常委会坚决依法推动打好污染防治攻坚战的一项重要举措，是今年全国人大常委会监督工作的重要内容。<br/><div class="contheight"></div>同时，这次会议将听取和审议国务院3个有关改革试点情况的报告，包括关于生育保险和职工基本医疗保险合并实施试点情况的总结报告，关于全国农村承包土地的经营权和农民住房财产权抵押贷款试点情况的总结报告，关于农村土地征收、集体经营性建设用地入市、宅基地制度改革试点情况的总结报告。<br/><div class="contheight"></div>改革和法治，如鸟之两翼、车之两轮。全国人大常委会听取审议改革试点工作情况报告，加强对改革试点的监督和成效评估，将使法治与改革更加相得益彰。<br/><div class="contheight"></div>值得关注的是，这次会议还将听取和审议国务院关于财政医疗卫生资金分配和使用情况的报告，并结合审议报告针对相关工作开展专题询问。届时，相关部门负责人将直面全国人大常委会委员和全国人大代表，回答提问、接受监督。<br/><div class="contheight"></div>岁末年初，新一年的全国两会也渐行渐近。今年举行的最后一次全国人大常委会会议，除了审议全国人大部分专门委员会关于十三届全国人大一次会议主席团交付审议的代表提出的议案审议结果的报告，听取全国人大常委会办公厅、国务院扶贫办关于十三届全国人大一次会议代表建议、批评和意见办理情况的报告等议程，还将确定明年全国人代会，也就是十三届全国人大二次会议的召开时间等，值得大家期待。<br/><div class="contheight"></div>（原题为《37项议程！年底这次全国人大常委会会议传递出哪些信息？》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张珺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 全国人大常委会会议</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2765947">
+<div class="nbgbox">
+<a class="zan" contid="2765947" href="javascript:;" onclick="voteCont(this)" praisetimes="21">
+                           20</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 全国人大常委会会议</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2765947&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2765947&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

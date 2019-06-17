@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">“微信支付分”在北上广深灰度测试：好友分值互相影响</h1>
+<div class="news_about">
+<p>澎湃新闻记者 杨鑫倢 实习生 柳童</p>
+<p>
+							2019-01-10 22:25<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/14/130/541.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">微信支付分首次公开亮相</span><br/><div class="contheight"></div>对标蚂蚁金服“芝麻信用”的“微信支付分”即将上线。<br/><div class="contheight"></div>1月9日，澎湃新闻记者在广州举行的微信公开课Pro版活动上发现，互联网信用服务类产品“微信支付分”首次低调公开亮相。根据展区介绍，微信支付分是基于微信支付大数据、对个人的消费、守约等行为的综合计算分值。展区工作人员告诉澎湃新闻记者，微信支付分虽然与支付宝的“芝麻信用”类似，但基于微信内的社交关系链，好友之间的微信支付分值将会互相影响。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="430" src="http://image.thepaper.cn/www/image/14/130/558.jpg" width="600"/></div>现场，某品牌共享充电宝已经支持用户通过微信支付分申请“免押金租借”的权益。据记者实测，在扫描租借二维码后，一个小程序弹出，这时用户可选择申请“免租金租借”权益，只需同意《微信支付分服务协议》，即可开通微信支付分并完成评估，当微信支付分达到550分以上时，就能免除本需要支付的99元押金，接下来授权免密支付租金即可。<br/><div class="contheight"></div>该共享充电宝运营方称，已经在北京、上海、广州、深圳等七个城市接入了微信支付分。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="431" src="http://image.thepaper.cn/www/image/14/130/559.jpg" width="600"/></div>微信支付分最早于2018年11月前率先在深圳进行灰度测试。据展区工作人员向澎湃新闻记者介绍，目前已经扩大到常登陆地在北京、上海、广州、深圳等城市的用户。<br/><div class="contheight"></div>不过，目前微信支付分还在内测中，还未正式对外推出，因此微信方面没有透露具体已开通城市名单。至于微信支付分下一步的覆盖时间表，据澎湃新闻记者了解，预计在2019年内会在全国全部覆盖。<br/><div class="contheight"></div>据开通页面显示，微信支付分由三个核心维度构成：身份特质，即个人实名信息；消费特征，即与使用微信支付相关的消费等行为；守约历史，即与使用微信支付相关的履约情况。<br/><div class="contheight"></div>至于为何现在晚于芝麻信用这么久才推出，展区工作人员表示，由于此类产品需要大量支付数据的沉淀，而微信支付2013年才上线，因此现在才被推出。<br/><div class="contheight"></div>据悉，目前阶段，针对商户，微信支付分提供了用户风险识别、催收扣款以及联合惩戒三方面的功能，以降低商户坏账率。用户方面，除了免押租借，微信支付分还提供免押速住、先享后付两方面业务。<br/><div class="contheight"></div>据澎湃新闻记者了解，目前，微信支付分还没有专门的入口可以进行开通，它和小程序一样，只有在具体场景中需要使用微信支付分，方可以开通。但在开通之后，点击微信主页面菜单中的“我”，再进入“钱包”，即可看到“支付分”入口。<br/><div class="contheight"></div>据了解，目前超过800分的用户算是高分。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙扶<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 微信支付分,芝麻信用</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2838202">
+<div class="nbgbox">
+<a class="zan" contid="2838202" href="javascript:;" onclick="voteCont(this)" praisetimes="175">
+                           174</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 微信支付</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2838202&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2838202&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">天津发布有奖举报通告，已对51家保健品经营单位立案查处 </h1>
+<div class="news_about">
+<p>宋瑞/新华社</p>
+<p>
+							2019-01-08 22:22<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社天津1月8日消息，8日，天津发布了有奖举报通告，举报保健品违法行为最高奖励人民币两万元。持续开展打击清理整顿保健品乱象专项整治行动以来，天津已对涉嫌会销及虚假宣传的51家保健品经营单位立案查处。<br/><div class="contheight"></div>为进一步规范保健品市场经营秩序，治理保健品乱象，维护消费者合法权益，天津市自今年1月2日至3月31日在全市开展打击清理整顿保健品乱象专项整治行动。<br/><div class="contheight"></div>此次发布的《集中打击清理整顿保健品乱象专项整治行动期间有奖举报通告》，明确了奖励范围、标准和奖励领取程序。同时，天津市还发布了《关于开展集中打击清理整顿保健品乱象专项整治线索大起底工作的紧急通知》，在全市全面开展保健品乱象整治大起底工作,加大保健品乱象排查力度。<br/><div class="contheight"></div>截至目前，天津市共出动执法人员8780人次，检查保健品生产经营企业（场所）6854家，开展宣传372场，张贴宣传海报10048张，发布宣传信息5275条，查办违法经营单位（场所）65家，对涉嫌会销及虚假宣传的51家保健品经营单位立案查处，移送公安1件，取缔欺诈虚假宣传保健品经营户12家，现场责令整改进一步核实调查11家，查扣违法保健品数量41636件（盒、台）。<br/><div class="contheight"></div>（原题为《天津发布有奖举报通告 已对51家保健品经营单位立案查处》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 天津,保健品</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2829035">
+<div class="nbgbox">
+<a class="zan" contid="2829035" href="javascript:;" onclick="voteCont(this)" praisetimes="152">
+                           151</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 保健品乱象</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2829035&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2829035&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（62）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜道一声老师辛苦，先从各种“群”减负开始</h1>
+<div class="news_about">
+<p>澎湃特约评论员 胡欣红</p>
+<p>
+							2018-09-10 14:54<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2424390" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜道一声老师辛苦，先从各种“群”减负开始" src="//image.thepaper.cn/image/10/306/227.jpg"/>
+</a>
+<div class="atlas_360_txt">教师抱怨“家长群”成工作隐形负担：每天都在开家长会<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">今天是第34个教师节，不少家长都在向老师们道声“辛苦”。如今，老师们的辛苦程度确实比以前增加不少。比如，本用来方便家长和学校沟通的家长微信群，已成为很多老师的隐形负担，不少老师感叹：“自从进了微信群，每天都是家长会！”（9月10日，中新网） <br/><div class="contheight"></div>微信群让家长和老师实现了前所未有的即时交流互动，老师发通知、留作业等变得方便快捷了，家长也可以第一时间得知孩子的在校情况。然而，如果使用不当，这个家校沟通的便捷“传声筒”也会变质异化，反而给家长和老师增添新的麻烦和困扰。<br/><div class="contheight"></div>以往，公众喜欢站在家长的角度，吐槽微信群变为对老师们的“拍马群”，类似案例屡屡登上热搜。 其实，站在老师的立场，抱怨同样不少：<br/><div class="contheight"></div>老师发布一则通知，家长们挨个回，加上一些家长喜欢在群里闲聊，甚至发红包、广告，拉选票，群里动不动就出现几百条未读消息，不仅让老师感到心理压迫，也很容易让未看到消息的家长看不到有消息。幼儿园老师还要掌握摄影摄像技能，随时准备在群里给家长报告孩子的日常。一些老师在群里善意提醒某位家长注意孩子成绩下滑，却可能引来家长的“怒怼”，甚至激化为线下冲突，这些都导致老师们在群里发消息时战战兢兢，唯恐说错了一句话……<br/><div class="contheight"></div>要承认，本着交流孩子教育信息初衷设立的家长群，虽然暴露了种种弊端，但已经成为必不可少的家校沟通平台。虽然有不足，但也不能矫枉过正一禁了之。<br/><div class="contheight"></div>要恢复家长群交流沟通的本来面目，当然需要从化解家校关系入手。夫子之道，忠恕而已矣。“忠恕”就是以待自己的态度对待人，表达为一份发自内心的尊重。教师和家长都应改变心态，教师固然要理解家长对孩子的关爱、对教育的关心，但家长也应多站在老师立场，多体谅、信任和尊重老师。双方都遵循“忠恕”之道，是改变家长群异化的根本，也需要付出长期的努力。<br/><div class="contheight"></div>同时，“忠恕”还需要具体可行的细则做支撑。建群之初就把“约法三章”，让大家少一些无畏的猜忌与无效表达。事实上，已经有不少学校和教师主动订立群规了。比如，大连一幼儿园发出九条家长群群规，要求切忌对老师奉承拍马；教师在上班期间专注于带孩子进行活动，无法随时与家长进行交流；家长请尽量选择中午或教师有空的时间交流，若有事请私信留言，等等。 <br/><div class="contheight"></div>一纸接地气的“公约”，明确了社群的运行规则、禁忌，阐释了学校和教师的善意，让大家都如释重负。通过种应有的规范有效确保高质量的群体沟通，也切实保障了各方利益。这种受到网友点赞的群规，完全可以为一些受家长群轰炸之苦的学校和老师借鉴。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 教师节 家长群</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2425463">
+<div class="nbgbox">
+<a class="zan" contid="2425463" href="javascript:;" onclick="voteCont(this)" praisetimes="37">
+                           36</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 家长群</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2425463&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2425463&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

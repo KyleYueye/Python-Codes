@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜迪士尼人偶演员被打，网友为何喊处罚轻了？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 默城</p>
+<p>
+							2018-07-25 08:31<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2287526" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">上海迪士尼人偶演员被打头，涉事游客被禁入园6个月</span></a></img></p></div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="226" src="http://image.thepaper.cn/www/image/9/101/944.gif" width="256"/></div>近日有网友爆料称，迪士尼的朋友“雪莉玫”被游客打头，演职人员当场捂住脑袋被扶进休息室。7月23日，记者从上海迪士尼度假区获悉，该名游客已在当天被要求立即离园，且被禁止在未来六个月内再次入园。<br/><div class="contheight"></div>人偶演员被打头事件，引起了网友的愤怒和谴责。毕竟人偶演员在高温天进行表演互动，已经很辛苦了，游客猛烈拍打其头部，无论是蓄意攻击，还是仅仅只是恶作剧，都确实不应该。尽管当事人及园方未寻求警方介入，但打头行为既是对人偶演员的“不尊重”，更难掩“不文明”的本质。<br/><div class="contheight"></div>值得注意的是，在谴责打人者的同时，网友也对园方的处理颇有疑问。“被要求立即离园，且被禁止在未来六个月内再次入园。”不少网友喊话，认为这样的惩处太轻，无实质意义。<br/><div class="contheight"></div>这种声音确有道理。对大部分游客来说，很少有人再去同一家迪士尼，至少不会在六个月内再次去。如果真是如此，这样的惩处确有“不痛不痒”之嫌。进一步说，这对当事人很难形成有效的警示，对游客行为规范恐怕也不能形成有力的倒逼。<br/><div class="contheight"></div>从现场视频看，打头事件爆发有一定突然性，更可能是临时起意的恶作剧。即便如此，这也是一种值得警惕的不文明行为“变种”，其所触碰的不仅是看得见的秩序，更是关乎人格与人心的公序良俗。<br/><div class="contheight"></div>看到调皮、可爱的人偶，有些人喜欢上去“摸摸头”“捏捏腿”，如果是善意、友好的互动，当然没问题；但如果以居高临下的心态和言行去挑衅表演者的尊严，不分轻重甚至暴力相向，结果便是丑态毕露。打头者的这种隐秘心理，亦是一种公共道德缺失，而且对公共道德本身的刺痛可能更大。<br/><div class="contheight"></div>既然如此，对这种行为的惩处力度，本质上就关乎迪士尼甚至是整个社会层面对待这种新型不文明行为的态度。如果处罚过轻，可能会产生一种较为消极的示范效应。<br/><div class="contheight"></div>拍打人偶演员，虽然并未造成严重的伤害和后果，够不上法律惩罚，但根据《游客不文明行为记录管理暂行办法》，游客具有不顾劝阻、警示从事危及自身以及他人人身财产安全的活动；违反旅游场所规定，严重扰乱旅游秩序等情形的，应被纳入“旅游不文明行为记录”，并可向公安、征信等部门通报。<br/><div class="contheight"></div>综上所述，对打人者“禁止未来六个月内再次入园”的处罚，确实偏轻。将其纳入“旅游不文明行为记录”，也即所谓的“旅游黑名单”，让其在更大范围内出游受限，更能形成有效震慑。</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张珺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 迪士尼人偶演员,被打,处罚</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2290596">
+<div class="nbgbox">
+<a class="zan" contid="2290596" href="javascript:;" onclick="voteCont(this)" praisetimes="374">
+                           373</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 迪士尼</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2290596&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2290596&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（244）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

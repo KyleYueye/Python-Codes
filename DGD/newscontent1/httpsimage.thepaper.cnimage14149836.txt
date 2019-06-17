@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">第二次“金特会”在望，半岛和平期待新进展</h1>
+<div class="news_about">
+<p>耿学鹏、田明、杜白羽/新华社</p>
+<p>
+							2019-01-10 22:46<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京1月10日电，韩国总统文在寅10日在新年记者会上表示，期待朝美领导人第二次会晤在近期举行。他还说，朝鲜最高领导人金正恩近日访华，对可能的朝美领导人第二次会晤将起到积极作用。<br/><div class="contheight"></div>分析人士认为，朝美之间的谈判如果不能取得突破，韩朝之间诸多工作也难以推进。朝美双方目前仍有保持接触和对话的动力，有关各方必须一道努力，直面下阶段更艰巨、更实质性的难题。<br/><div class="contheight"></div><strong>【新闻事实】</strong><br/><div class="contheight"></div>文在寅当天在青瓦台举行的新年记者会上说，中国在朝鲜半岛无核化进程中发挥了积极而重要的作用。<br/><div class="contheight"></div>他还说，期待朝美领导人第二次会晤在近期举行，同时期待金正恩在朝美领导人会晤后访问首尔。<br/><div class="contheight"></div>文在寅表示，缺乏互信是朝美无核化对话目前面临的关键难题。他呼吁朝美双方在无核化对话中采取相对应的措施。朝方需要进一步做出无核化实际举措，同时也必须考虑相对应的对朝措施，以推动无核化进程。<br/><div class="contheight"></div>金正恩8日在与中国领导人的会谈中表示，去年朝鲜半岛形势出现缓和，中方为此发挥的重要作用有目共睹，朝方高度赞赏并诚挚感谢。朝方将继续坚持无核化立场，通过对话协商解决半岛问题，为朝美领导人第二次会晤取得国际社会欢迎的成果而努力。希望有关方重视并积极回应朝方合理关切，共同推动半岛问题得到全面解决。<br/><div class="contheight"></div><strong>【深度分析】</strong><br/><div class="contheight"></div>复旦大学朝鲜韩国研究中心主任郑继永认为，金正恩访华重要任务之一是与身为半岛问题关键方之一的中方就半岛无核化进程协调立场。<br/><div class="contheight"></div>郑继永说，与首次会晤不同，朝美领导人第二次会晤必须切入更实质性的问题，朝方也将面对“深水区”。除了无核化进程清单内容、如何核验等技术层面难题，双方更大的难点在于构建互信的进程将如何延续、如何保持住对话势头。<br/><div class="contheight"></div>郑继永还说，朝方认为，截至目前美方的善意回应非常少，而美方在短期内解除对朝制裁也不容易，为了落实经济建设之需、解决民生发展之困，朝鲜除了提振内需，还需通过同中国、韩国发展友好关系，推动其经济发展。<br/><div class="contheight"></div><strong>【即时评论】</strong><br/><div class="contheight"></div>春去春又来。朝鲜半岛自去年春天释出暖意，又快走完一个四季轮回。在中朝及有关方共同努力下，半岛问题政治解决进程取得重大进展。<br/><div class="contheight"></div>一年之计在于春。当前，半岛和平对话的大势已经形成，谈下去并谈出成果成为国际社会普遍期待和共识。希望相关各方以诚固信，相向而行，计天下利，不要错失政治解决半岛问题的历史机遇。<br/><div class="contheight"></div><strong>【背景链接】</strong><br/><div class="contheight"></div>朝鲜半岛局势在2018年发生重要的积极变化。朝韩领导人先后三次举行会晤，半岛南北关系实现缓和；2018年6月，美国总统特朗普与金正恩在新加坡举行首次会晤并签署联合声明。<br/><div class="contheight"></div>此后，朝美无核化谈判陷入僵局。美国要求朝鲜先弃核，而朝鲜寻求美国先放松制裁、同意正式结束朝鲜战争。<br/><div class="contheight"></div>金正恩今年1月1日在新年贺词中强调实现半岛完全无核化的坚定意志，并表示随时准备和美国总统再次举行会谈。<br/><div class="contheight"></div>特朗普6日表示，美朝正在就双方领导人第二次会晤地点进行协商。<br/><div class="contheight"></div>（原题为《第二次“金特会”在望，半岛和平期待新进展》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 金特会</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2839808">
+<div class="nbgbox">
+<a class="zan" contid="2839808" href="javascript:;" onclick="voteCont(this)" praisetimes="19">
+                           18</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 金特会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2839808&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2839808&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

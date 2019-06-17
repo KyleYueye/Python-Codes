@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜教育局发文指导中小学“排座位”，真有这个必要吗？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 胡欣红</p>
+<p>
+							2018-09-03 12:27<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">时逢开学，孩子的座位怎么排？近日，江西樟树市教育局发布了一则《关于进一步规范学生座位编排工作的通知》，引发了公众的关注。 <br/><div class="contheight"></div>“要以学生身高为主要依据，结合学生性别因素、视听力状况等综合考量”“编排学生座位可采用经纬交替动态排序的办法”“每一列的学生个头基本保持一致，呈抛物线型列队”……《通知》用了相当大的篇幅“手把手”地教授怎么排座，也为各个中小学及其教师敲响了警钟：要求杜绝“关系座”、“人情座”，不准利用排座位“吃拿卡要”。并规定每所学校要成立“排座位领导小组”，领导小组里面要有家长代表，排座位要有“公示制度”，进行“动态管理”，做到“阳光排座”。 <br/><div class="contheight"></div>必须承认，《通知》有关排座的“指导”很专业很细致，也有很强的操作性。但中小学生排座位这件事，是否需要教育主管部门发文来指导，仍值得商榷。 <br/><div class="contheight"></div>只要读过书的人，谁没在学生年代遇到过几次排座呢？每逢开学，教师们大多会根据学生身高，再结合视力、听力、性别、个性等综合权衡座位编排。通常情况下，排座是教师们的活，没听说过哪个教育局会专门就此发文。因为排座毕竟是小事，主管部门没有必要“事必躬亲”，而且如果对学生情况不熟悉，即便想管也很难制定统一标准。也正因为如此，樟树市教育的举动，总给人一种保姆式的包办意味。 <br/><div class="contheight"></div>《通知》的字里行间，渗透着教育局对教育公平的极致追求和对“排座腐败”的极度防范。而且据报道，此举也有着现实层面的考虑——该市范围内的中小学，除了任命学生干部、荣誉称号评选、保送名校等事上存在利益交换，排座环节也存在利益寻租。在此背景下，教育局的发文，是其责任心的体现，值得肯定。<br/><div class="contheight"></div>但排座中的这种乱象，终究只是个别情况，成不了气候。更何况，众目睽睽之下，教师大多只能在身高原则下酌情调整，权限十分有限，并不能任意妄为。郑重其事地为排座位而出台专门的文件，极易让人误以为“排座腐败”已经到了非常严重的程度，更容易让人联想：如果连没啥“油水”的排座位都如此“腐败”，校园其它环节将会腐败到何种程度？进而难免引发家长与学生不必要的焦虑。 <br/><div class="contheight"></div>更重要的是，即便真的有必要“规范”排座问题，但一纸文件能担当起重任吗？<br/><div class="contheight"></div>其实，排座问题“宜粗不宜细”，如何权衡是千变万化的。这其中，既有教师本人风格的考量，更有学生个性等方面的顾虑，很难简化为几个机械固定的标准。《通知》再详尽，也不一定能在现实中毫无保留的贯彻落实。说到底，排座是教师和学生间的一种博弈和与合作，只要双方满意，即便是教育主管部门，也不宜干涉太多。何况，学生和家长一旦感觉“排座不公”，也能随时向教师和校方提出意见，纠正成本并不高。 <br/><div class="contheight"></div>既如此，教育局不妨改一改略显僵化的“计划思维”和包揽的行事风格，给予教师们足够的信任与放权，相信他们会秉着公平公正的态度，也拥有足够的能力为学生们编排座位。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 排座位</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2404869">
+<div class="nbgbox">
+<a class="zan" contid="2404869" href="javascript:;" onclick="voteCont(this)" praisetimes="77">
+                           76</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中小学生</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2404869&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2404869&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（75）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

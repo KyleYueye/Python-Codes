@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">“一大会址”日记｜这里有个专题展厅，今天展示邓小平生平</h1>
+<div class="news_about">
+<p>澎湃新闻驻中共一大会址报道组记者 邹娟</p>
+<p>
+							2018-12-25 14:12<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><strong>【编者按】</strong><br/><div class="contheight"></div><u>2017年10月31日，党的十九大闭幕仅一周，习近平总书记带领中共中央政治局常委，集体瞻仰上海中共一大会址和浙江嘉兴南湖红船，在广大党员干部群众中引起热烈反响。<br/><div class="contheight"></div>连日来，全国各地前往一大会址纪念馆参观的党员群众络绎不绝，在中国共产党人的精神家园，他们回顾建党历史，重温入党誓词，不忘初心，砥砺前行。<br/><div class="contheight"></div>澎湃新闻推出“一大会址”日记，派出记者常驻中共一大会址，近距离观察、感受、记录会址每天的新闻，讲述一大的红色故事，传承中国共产党人的初心。</u><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/485/884.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">展览现场。澎湃新闻记者 邹娟 摄<br/><div class="contheight"></div></span>12月25日，阴，星期二。<br/><div class="contheight"></div>在一大会址纪念馆主展厅旁，紧挨着馆内小书店的地方，有一个专题展厅，不定期策展。今天，由中共一大会址纪念馆、邓小平故居陈列馆主办的《改革开放总设计师邓小平——庆祝改革开放40周年专题展》，在专题展厅开幕。<br/><div class="contheight"></div>今年是改革开放40周年，中共一大会址纪念馆联合邓小平故居陈列馆举办此展览，回顾邓小平同志一生的光辉历程。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/485/879.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">展览现场。澎湃新闻记者 邹娟 摄</span><br/><div class="contheight"></div>当天上午，澎湃新闻记者在展厅看到，走进展厅的观众无不驻足，或小声讨论，或在某一块展板前久久凝望。甚至有年长的参观者摘下老花镜，凑近仔仔细细一字一句地小声念着图片下的图说。<br/><div class="contheight"></div>有一张图片上介绍，邓小平与周恩来陪同毛泽东会见英国前首相希思，81岁高龄的毛泽东遗憾地说：中国统一这件事，我恐怕看不到了。他又指着旁边的邓小平等人说：这是他们的事了。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/485/880.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">展览现场。澎湃新闻记者 邹娟 摄</span><br/><div class="contheight"></div>看到这里，41岁的赵四不禁微微挺了下本来就站直的腰，低声和旁边的同伴说：“都很了不起。”<br/><div class="contheight"></div>主办方介绍，本次展览分为十个部分：“拨乱反正，打开一条新路”，“发动和领导改革”，“开启对外开放大门”，“绘制现代化宏伟蓝图”，“领导新时期军队和国防建设”，“新时期爱国统一战线的奠基人”，“提出‘一国两制’伟大构想”，“为了世界的和平与发展”，“聚精会神抓党的建设”，“一个‘老共产党员’的情怀”。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/485/883.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">展览现场。澎湃新闻记者 邹娟 摄</span><br/><div class="contheight"></div>展览通过170余张珍贵的历史图片全面、系统地介绍了邓小平同志在社会主义革命和建设时期，为胜利完成社会主义革命、探索我国社会主义建设道路作出的杰出贡献，具有深刻的教育和启迪意义，是对广大群众进行党史教育和革命传统教育的生动教材。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑浩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 一大会址,改革开放,专题展览</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772437">
+<div class="nbgbox">
+<a class="zan" contid="2772437" href="javascript:;" onclick="voteCont(this)" praisetimes="25">
+                           24</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: “一大会址”日记</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772437&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772437&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

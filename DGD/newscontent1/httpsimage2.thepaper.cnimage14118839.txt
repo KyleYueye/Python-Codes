@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国国务卿蓬佩奥突访伊拉克，强调处理伊拉克“安全挑战”</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-10 16:17<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">美国媒体称，美国国务卿蓬佩奥星期三突然访问伊拉克，并与伊拉克外长哈基姆等官员举行了会晤。<br/><div class="contheight"></div>除了外长哈基姆，蓬佩奥还与伊拉克总理迈赫迪、伊拉克总统萨利赫和伊拉克议会议长哈尔布尼举行了会晤，并会见了相关美军人员。<br/><div class="contheight"></div>蓬佩奥强调说，美国致力于“处理伊拉克面对的安全挑战”，继续开展与“伊拉克安全部队的合作伙伴关系。”<br/><div class="contheight"></div>蓬佩奥此行还将寻求盟国的支持，以对伊朗施加更大的压力。本周二，蓬佩奥首先抵达了约旦，他在约旦保证要加大外交与商业努力，“向伊朗施加真正的压力”，以改变特朗普政府认为该地区存在的一些邪恶行为。<br/><div class="contheight"></div>目前，为了让盟友对美国从叙利亚撤军的计划感到放心，蓬佩奥正在对中东地区进行为期一个星期的访问。蓬佩奥还计划访问埃及、巴林、阿联酋、卡塔尔、沙特阿拉伯、阿曼和科威特多国。<br/><div class="contheight"></div>此前，特朗普表示，将尽快从叙利亚撤军，这一言论让美国的盟友大感惊讶。随后，美国国家安全顾问博尔顿表示，美国从叙利亚撤军不是无条件的，暗示美军从叙利亚撤军的速度将放缓。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 伊拉克,美国,蓬佩奥</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835722">
+<div class="nbgbox">
+<a class="zan" contid="2835722" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 蓬佩奥</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835722&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835722&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

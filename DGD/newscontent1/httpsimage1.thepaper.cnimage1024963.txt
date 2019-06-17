@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评丨数一亿粒米：不能再让这样的奇葩作业折腾家长</h1>
+<div class="news_about">
+<p>澎湃特约评论员 栗中西</p>
+<p>
+							2018-09-07 17:08<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">你动手数过亿以上量级的东西没？如果网友告诉你，一亿粒米不吃不喝要数三年，重达两吨，你认为“数一亿粒米并带到学校”这种题到底是物理题、劳动题，还是脑筋急转弯？反正已经不是数学题了。佛山一位数学老师因为布置了一道这样的数学题，上了热搜，成了网友的讥笑对象。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="359" src="http://image.thepaper.cn/www/image/10/249/307.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="660" src="http://image.thepaper.cn/www/image/10/249/309.jpg" width="600"/></div>闹出这种笑话，不是数学老师算术没学好，而是映射出现在某些老师在调动家长参与教学时的随意态度。粗线条、大喇喇，别说制定详密的教学计划，连基本的过过脑子都做不到。要认识“一亿”这个概念，就让学生去数米，被家长指出不当之后，并没有意识到不妥，还硬邦邦地答道“一粒一粒地数”“食物袋装好带回学校”。虽然，之后事件惊动了媒体，老师做出了解释：只要求“估算”1亿粒米，而不是要求一粒粒地数。但之前老师说的可是“要装好带回学校”的。到底是事后过于舆论压力改口，还是之前表述有误，这个有待教育部门去调查。<br/><div class="contheight"></div>不过，众人铺天盖地的酸话，并不完全是冲着这位佛山数学老师而去，而是现实生活中要求家长参与的课外题真的越来越多、越来越难了。除了检查作业签名、批改题目、做手工、默写单词这样的硬性任务，还常有五花八门的软性作业，比如创意PPT、社会调查、演出排练之类，家里没有几个文武双全的家长，愣是搞不定孩子的家庭作业，曾有清华毕业的家长发帖称被5岁孩子的题目逼疯。不信邪的朋友可以尝试辅导孩子解一下：根据三分损益律，推出“羽”的频率是“宫”的多少倍。<br/><div class="contheight"></div>强调家长要参与孩子的成长和学习无可厚非，称职的家长无法像上一代家长那样当甩手掌柜，这是教育观念的进步。但是矫枉过正，让家长成为学校教育的附庸，从教孩子变成考家长，不仅加重家长负担，还是一种变相“拼爹拼妈”，造成新的教育不公平。文化程度低的家长，遇到难题连上网检索求助都做不到，孩子回学校除了硬着头皮受批评还能怎么办？过分强调家长作业，实际上人为放大了家庭出身带来的教育差距。<br/><div class="contheight"></div>更值得警惕的是，在强调亲子互动的各种教学“创新”和考核指标引导下，一些老师已经形成了作业“缺家长不可”的潜在观念，家长可参与可不参与的，尽皆参与。长此以往，慢慢滋生惰性思维，“为了互动而互动”，也就不去考量家长作业的科学性、可行性和必要性。于是才会出现了像“数一亿粒米并带到学校”这般极端形式主义的作业安排。它不遗余力地向孩子们展示老师的不负责任、信口开河，制造负面的教育意义。<br/><div class="contheight"></div>虽然此前类似案例和争议已经不少了，但从结果来看，学校教育和家庭教育的边界究竟在哪里是常论常新的题目，对此我们谈论的不是太多而是还不够：让老师们有章可循、有据可依地开展教学，让“数一亿粒米并带到学校”之类奇葩作业，告别折腾家长。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2416001" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">佛山一小学布置作业数1亿粒米，老师：本意让家长带孩子实践</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 1亿粒米 奇葩作业</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2418755">
+<div class="nbgbox">
+<a class="zan" contid="2418755" href="javascript:;" onclick="voteCont(this)" praisetimes="292">
+                           291</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 一亿粒米</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2418755&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2418755&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（197）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

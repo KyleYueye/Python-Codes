@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">英议会明年1月9日重启脱欧辩论，在之后一周进行表决</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-22 10:38<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="415" src="http://image.thepaper.cn/www/image/13/401/710.jpg" width="500"/></div><span style="color: rgb(128, 128, 128);">安德烈娅·利德索姆</span><br/><div class="contheight"></div>英议会下月9日重启“脱欧”辩论 可能持续至11日。<br/><div class="contheight"></div>英国议会下院领袖安德烈娅·利德索姆20日说，就首相特雷莎·梅与欧洲联盟达成的“脱欧”协议，议会下院将在明年1月9日重新启动辩论。<br/><div class="contheight"></div>英国定于明年3月29日正式“脱欧”。欧盟上月召开特别峰会，通过与英国达成的“脱欧”协议。协议规定，英国正式“脱欧”后有21个月过渡期，其间继续留在欧洲共同市场和关税同盟，享有贸易零关税待遇；英国需向欧盟支付总额大约390亿英镑“分手费”，过渡期内需要向欧盟支付“年费”。<br/><div class="contheight"></div>英国议会下院原定本月11日表决“脱欧”协议。这以前，议会下院计划举行为期5天、每天8小时辩论。随着特雷莎·梅在投票日前一天宣布推迟表决，辩论持续3天后暂停。<br/><div class="contheight"></div>利德索姆说，辩论将在明年1月9日重新启动，预期持续至10日。如果议会同意，辩论可能持续至11日。<br/><div class="contheight"></div>利德索姆没有给出投票表决的新日期。特雷莎·梅先前说，表决将在明年1月14日开始的那一周举行。<br/><div class="contheight"></div>英国内阁本月18日举行会议，着重讨论强化“无协议脱欧”的应对准备。次日，欧盟拟定应对英国“无协议脱欧”的应急方案，涉及金融、海关等14个方面，以避免届时可能出现的严重混乱。<br/><div class="contheight"></div>(原文标题：《英议会下月重启脱欧辩论 内阁强化无协议脱欧准备》)</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 脱欧</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2763560">
+<div class="nbgbox">
+<a class="zan" contid="2763560" href="javascript:;" onclick="voteCont(this)" praisetimes="24">
+                           23</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 脱欧</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2763560&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2763560&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">长安剑：对待残害孩子的恶魔，政法机关绝不会手软</h1>
+<div class="news_about">
+<p>中央政法委长安剑微信公众号</p>
+<p>
+							2019-01-08 18:39<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中央政法委长安剑微信公众号1月8 日消息，又见残害孩子的暴行！<br/><div class="contheight"></div>8日中午，北京某小学内发生伤害孩子事件，一男子造成20名孩子受伤，其中3人伤势较重，经医院救治，均无生命危险。<br/><div class="contheight"></div>政法机关绝不会放过，也从没有放过任何伤害孩子的凶手。<br/><div class="contheight"></div>就在4天前，1月4日，广西凭祥砍伤幼儿园12名孩子的凶手覃鹏安，被执行死刑。覃鹏安故意杀人未遂，虽然行凶后自首，但也难逃极刑。最高法死刑复核裁定明确写道：<br/><div class="contheight"></div>覃鹏安出于报复动机而有预谋地选择在幼儿园持菜刀砍伤无辜幼童，犯罪动机卑劣，手段特别残忍，情节特别恶劣，后果特别严重，社会危害极大，罪行极其严重，应依法惩处。覃鹏安虽属杀人未遂，且有自首情节，仍不足以对其从轻处罚。<br/><div class="contheight"></div>有罪者逃不过法律严惩。<br/><div class="contheight"></div>在手无寸铁的无辜孩子身上发泄私愤，他们触及的是法律底线、良知底线、文明底线乃至人类的底线，这种残忍卑劣的犯罪必然会依法受到从快从严惩处，让他们为自己的兽行付出惨痛的代价。<br/><div class="contheight"></div>血案之后总有人热衷于探究凶手行凶的原因，但面对20个无辜的孩子，20个遭受永远受伤的家庭，亿万个惴惴不安的家庭和社会巨大的恐慌，任谁都不难得出一致的结论：<br/><div class="contheight"></div>无论他遭遇的事情多不顺心，一个可以残害孩子用无辜的鲜血发泄自己不满的人，根本不配得到别人的同情。只有泯灭了人性，只有对生命彻底无感的人才会做下如此恶行。<br/><div class="contheight"></div>什么是正义，面对残害孩子的恶魔，正义就是要把凶手送到他应该待着的地方，让他永远不能危害社会，永远不能危害孩子，永远不能再造成恐慌。这是一个文明社会应该做的事，也是一个法治社会必须要做的事。<br/><div class="contheight"></div>预防和管理是全社会共同的责任，但让凶手尽快尽早受到应有的惩罚，是政法机关的职责——<br/><div class="contheight"></div>依法从严惩处，对待恶魔，政法机关绝不会放过，更不会手软！<br/><div class="contheight"></div>（原标题《对待残害孩子的恶魔，政法机关绝不会手软！》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 砍杀小学生</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828254">
+<div class="nbgbox">
+<a class="zan" contid="2828254" href="javascript:;" onclick="voteCont(this)" praisetimes="173">
+                           172</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 砍杀小学生</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828254&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828254&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（43）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

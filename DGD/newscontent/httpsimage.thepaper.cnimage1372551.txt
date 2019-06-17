@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_26878">上海书评</a>
+</div>
+<h1 class="news_title">俞晓群︱五行占：恒阳之炕阳失众 </h1>
+<div class="news_about">
+<p>俞晓群</p>
+<p>
+							2018-12-14 15:42<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">班固汉志，五行对应五事，金对应言之不从。此类现象发生，世间反应为“好攻战，轻百姓，饰城郭，侵边境”。前文已有《汉书》中列举春秋大旱例目，如下接续文公十年、十三年的故事。接着还有汉代例目如汉惠帝时大旱，原因是动用民公十四万六千人修筑长城；汉武帝时连年大旱，原因是征讨匈奴，穷兵黩武。见于下：<br/><div class="contheight"></div>其一，（文公）十年，“自正月不雨。至于秋七月”。先是公子遂会四国而救郑。楚使越椒来聘。秦人归禭。有炕阳之应。<br/><div class="contheight"></div>其二，（文公）十三年，“自正月不雨，至于秋七月”。先是曹伯、杞伯、滕子来朝，郕伯来犇，秦伯使遂来聘，季孙行父城诸及郓。二年之间，五国趋之，内城二邑。炕阳失众。一曰，不雨而五谷皆孰，异也。文公时，大夫始颛盟会，公孙敖会晋侯，又会诸侯盟于垂陇。故不雨而生者，阴不出气而私自行，以象施不由上出，臣下作福而私自成。一曰，不雨近常阴之罚，君弱也。<br/><div class="contheight"></div>其三，惠帝五年夏，大旱，江河水少，溪谷绝。先是，发民男女十四万六千人城长安，是岁城乃成。<br/><div class="contheight"></div>其四，文帝三年秋，天下旱。是岁夏，匈奴右贤王寇侵上郡，诏丞相灌婴发车骑士八万五千人诣高奴，击右贤王走出塞。其秋，济北王兴居反，使大将军讨之，皆伏诛。<br/><div class="contheight"></div>其五，后六年春，天下大旱。先是发车骑材官屯广昌。是岁二月复发材官屯陇西。后匈奴大入上郡、云中，烽火通长安，三将军屯边，又三将军屯京师。<br/><div class="contheight"></div>其六，景帝中三年秋，大旱。<br/><div class="contheight"></div>其七，武帝元光六年夏，大旱。是岁，四将军征匈奴。<br/><div class="contheight"></div>其八，元朔五年春，大旱。是岁，六将军众十余万征匈奴。<br/><div class="contheight"></div>其九，元狩三年夏，大旱。是岁发天下故吏伐棘上林，穿昆明池。<br/><div class="contheight"></div>其十，天汉元年夏，大旱；其三年夏，大旱。先是贰师将军征大宛还。天汉元年，发適民。二年夏，三将军征匈奴，李陵没不还。<br/><div class="contheight"></div>其十一，征和元年夏，大旱。是岁发三辅骑士闭长安城门，大搜，始治巫蛊。明年，卫皇后、太子败。<br/><div class="contheight"></div>其十二，昭帝始元六年，大旱。先是大鸿胪田广明征益州，暴师连年。<br/><div class="contheight"></div>其十三，宣帝本始三年夏，大旱，东西数千里。先是，五将军众二十万征匈奴。<br/><div class="contheight"></div>其十四，神爵元年秋，大旱。是岁，后将军赵充国征西羌。<br/><div class="contheight"></div>其十五，成帝永始三年、四年夏，大旱。<br/><div class="contheight"></div>《后汉书》也有恒阳记载，但例目称旱。列一例如下：<br/><div class="contheight"></div>世祖建武五年夏，旱。《京房传》曰：“欲德不用，兹谓张，厥災荒，其旱阴云不雨，变而赤因四阴。众出过时，兹谓广，其旱不生。上下皆蔽，兹谓隔，其旱天赤三月，时有雹杀飞禽。上缘求妃，兹谓僭，其旱三月大温亡云。君高台府，兹谓犯，阴侵阳，其旱万物根死，有火災。庶位逾节，兹谓僭，其旱泽物枯，为火所伤。”是时天下僭逆者未尽诛，军多过时。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：彭珊珊<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 阴阳五行</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2724021">
+<div class="nbgbox">
+<a class="zan" contid="2724021" href="javascript:;" onclick="voteCont(this)" praisetimes="15">
+                           14</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 五行</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2724021&caid=26878",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2724021&amp;caid=26878" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

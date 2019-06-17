@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">15岁病童获特许参观普京专机，感叹“梦想实现”</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-26 14:55<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">来自俄罗斯巴什科尔托斯坦共和国的15岁儿童凯普库罗夫怎么也没有想到，生着病的他可以登上俄罗斯总统普京的专机参观。<br/><div class="contheight"></div>据俄罗斯塔斯社12月26日报道，凯普库罗夫一直以来的梦想就是在俄罗斯总统普京的专机上参观并拍摄电视报道。然而被称为“飞行的克里姆林宫”的伊尔-96专机一直非常神秘，甚少对外界公开，为了实现凯普库罗夫的梦想，俄罗斯总统普京亲自下令让他登上飞机参观并拍摄。<br/><div class="contheight"></div>据报道，让凯普库罗夫实现梦想是的普京亲自参与的“与我的梦想同在”项目中的一个。12月初当普京参观一处俄罗斯志愿者论坛时做出了这个决定，他要帮助一些生病的孩子实现自己看似不可能的梦想，凯普库罗夫就是其中之一，此前已经有别的孩子完成了自己对话总统、乘直升飞机游览圣彼得堡的梦想。<br/><div class="contheight"></div>凯普库罗夫此行还获得了普京亲自赠送的摄像机，他在接受采访时说自己的，“梦想实现了”，这位15岁的儿童说无论是驾驶舱还是会议室，机上的每一处都给他留下了深刻的印象。<br/><div class="contheight"></div>除了飞机本身，莫斯科国际机场的工作人员还向凯普库罗夫特别介绍了普京专机在起飞前的准备工作，包括人员体检、猎狗排爆等，并向他展示了一般乘客无法进入的专机飞行准备区。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 普京专机</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776360">
+<div class="nbgbox">
+<a class="zan" contid="2776360" href="javascript:;" onclick="voteCont(this)" praisetimes="78">
+                           77</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 普京</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776360&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776360&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

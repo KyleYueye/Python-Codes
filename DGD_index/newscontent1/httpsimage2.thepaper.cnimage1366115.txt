@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">脱团越南籍旅客欲留台打工，不排除犯罪集团操控</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2018-12-29 10:52<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网12月29日消息，据台湾“中央社”报道，近日，152名越南籍旅客在台集体脱团。台湾地区“移民署”称，截至28日，共查获17人，有131人未到案，被查获的越南籍旅客多供称要拜访在台亲戚，部分承认想留台打工，不排除有犯罪集团操控。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="336" src="http://image.thepaper.cn/www/image/13/661/13.jpg" width="550"/></div><span style="color: rgb(128, 128, 128);">资料图：台当局“移民署”查获脱团的越南人士。陈鸿伟 翻摄<br/><div class="contheight"></div></span>4个大型越南旅行团共153人分别于21日及23日抵达台湾高雄，之后，152名越南籍旅客脱团，其中1人未失联，3人自行离台，148人失联。<br/><div class="contheight"></div>台湾“移民署”28日下午统计显示，148名失联的越南籍旅客中，男性为98人，女性50人。台湾“移民署”、“警政署”联合查缉，陆续在26日、27日查获17人，仍有131人未到案。<br/><div class="contheight"></div>据统计，查获17名逃逸越南籍旅客的地点散布多处，包含新北市、桃园市、竹北市、彰化县、南投县，嘉义县、台南市、高雄市等地，17人被送至高雄地检署侦办处置。<br/><div class="contheight"></div>承办的台湾官员表示，被查获的17人还未从事任何工作，比如27日在桃园市缉获的4名女性越南籍旅客是自行投案。她们供称，该事件成为全台焦点，不敢应聘任何工作，心里也很害怕，所以自行到友人民宅附近派出所投案。<br/><div class="contheight"></div>该官员透露，过去类似越南籍旅客在台逃脱后几乎都会藏匿在台亲戚家或偏僻果菜园、采茶园等处，从事类似小吃店、打零工等工作。<br/><div class="contheight"></div>被查获的17名越南籍旅客多供称，赴台是要观光旅游，但有亲戚朋友已在台定居，才想脱团找亲友。<br/><div class="contheight"></div>台湾“移民署”分析称，因台湾北部较容易找工作，不排除越南籍旅客脱团后陆续往台湾北部移动。<br/><div class="contheight"></div>越南籍旅客供称，赴台“假观光真打工”的信息在越南网络上传播，这次每人支付团费800-1200美元，到台后就自行找工作。至于背后是否涉及犯罪集团集体操控，台湾“移民署”仍循线索调查中。<br/><div class="contheight"></div>（原标题《脱团越南籍旅客欲留台打工 不排除犯罪集团操控》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 来台越南旅行团失踪</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2790875">
+<div class="nbgbox">
+<a class="zan" contid="2790875" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 来台越南旅行团失踪</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2790875&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2790875&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

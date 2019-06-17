@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">朝核六方会谈韩美团长今将会晤，为无核化寻突破口</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2018-12-20 09:59<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="285" src="http://image.thepaper.cn/www/image/13/328/609.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">李度勋（右）与比根。资料图<br/><div class="contheight"></div></span>韩联社20日援引外交消息人士说法称，当天，韩国外交部和平交涉本部长李度勋将会晤到访的美国对朝政策特别代表比根，并与其共进晚餐。<br/><div class="contheight"></div>报道说，据预测，双方将讨论为陷入僵持状态的朝美无核化谈判寻找突破口的方案。<br/><div class="contheight"></div>比根昨天（19日）抵韩时向记者们表示，美方将重新研究有关禁止美国公民赴朝旅游的措施，以保障对朝人道主义援助不受限制。<br/><div class="contheight"></div>报道还说，预计双方将就美方这项措施对无核化谈判会产生何种影响交换意见。另外，朝鲜最高领导人金正恩即将发表的新年致辞受到关注，韩美将讨论应对措施。<br/><div class="contheight"></div>截至目前，比根当天的具体日程安排尚未对外公布。<br/><div class="contheight"></div>明天（21日）上午，比根将拜会韩国统一部长官赵明均，之后与李度勋一起主持韩美涉朝工作组第二次会议。据悉，双方将探讨给予韩朝合作项目豁免制裁待遇的问题，合作项目包括韩朝铁路和公路对接项目开工仪式、离散家属视频团聚、朝鲜苗圃升级改造和开通飞经韩朝海域的国际航线等事宜。<br/><div class="contheight"></div>韩国外交部发言人18日在例行记者会上表示，在韩美涉朝工作组第二次会议上，双方将就近期朝美接触动向、朝核外交应对战略等推动无核化进程取得实质进展的方案进行协调，此外双方还将就韩朝关系等朝核、朝鲜问题紧密协商。 <br/><div class="contheight"></div>（原题为：《朝核六方会谈韩美团长今将会晤 为无核化寻突破口》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：廖婧雯<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 朝美，无核化，谈判</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2755230">
+<div class="nbgbox">
+<a class="zan" contid="2755230" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 韩美六方会谈</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2755230&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2755230&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

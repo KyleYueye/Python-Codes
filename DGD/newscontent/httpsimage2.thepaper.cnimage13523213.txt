@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">伪报品名走私化妆品，天津海关查获案值1600余万元商品</h1>
+<div class="news_about">
+<p>顾阳/经济日报</p>
+<p>
+							2018-12-26 17:19<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/523/211.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">天津海关查获的走私代购韩国化妆品 视觉中国 图<br/><div class="contheight"></div></span>经济日报12月26日报道，日前，天津海关查获一宗利用伪报品名方式走私代购化妆品大案，涉案商品包括韩国产化妆品、日用品共31万余件，案值1600余万元。<br/><div class="contheight"></div>据介绍，天津海关隶属新港海关在对一票自韩国进口的集装箱随机查验时发现，货物申报品名为化纤布，机检扫描应呈现整齐成卷状图像，但实际却是纸箱包装、瓶瓶罐罐的阴影图像，明显与申报不符。海关关员当即实施人工查验，箱门打开，实际货物竟是韩国各种品牌的化妆品，涉嫌伪报品名走私，海关缉私部门马上介入立案侦查。<br/><div class="contheight"></div>经过海关缉私警察调查，一个专门从事走私代购韩国产化妆品的团伙浮出水面。经查，涉案国内货主从韩国代购化妆品和日用品后，以每公斤30元到50元的“包税包通关包运输”费用将货物委托给专门做物流的韩国揽货人，韩国揽货人待多个货主的货物凑够一个集装箱后，再委托给许某从天津口岸以伪报品名的方式伺机走私进口。<br/><div class="contheight"></div>据海关办案人员清查，涉案货物涉及雪花秀、后、兰芝等多个韩国化妆品品牌，涉及润肤乳液、爽肤水、面膜、精华、眼霜等化妆品品类以及各种韩国日用品。目前，涉案走私团伙8名成员已全部被海关缉私部门采取刑事强制措施，其中5名犯罪嫌疑人已被检察机关批准逮捕，案件进入审查起诉阶段。<br/><div class="contheight"></div>“涉案走私化妆品未经国家检验检疫，其来源、品质、安全均得不到保障，一旦流入市场发生产品质量问题，消费者也得不到任何来自品牌官方的售后服务。”天津海关缉私局负责人表示，走私代购日化品普遍存在伪报品名报关、盗用身份信息、冒用免税额度等以达到逃避监管的行为，直接损害国家及消费者的切身权益。<br/><div class="contheight"></div>据悉，从2019年1月1日起，跨境电子商务零售进口商品的单次交易限值将从目前的2000元调整为5000元，个人年度交易限值也将从目前的2万元调整为2.6万元，超出年度交易限值部分需按照一般贸易进口来缴税。海关建议，随着跨境电商零售新政的调整，消费者完全可通过正常的跨境电商零售方式购买所需消费品。<br/><div class="contheight"></div>（原题为《海外代购走私案高发》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 天津海关,海外代购走私,化妆品</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776854">
+<div class="nbgbox">
+<a class="zan" contid="2776854" href="javascript:;" onclick="voteCont(this)" praisetimes="41">
+                           40</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 走私</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776854&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776854&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

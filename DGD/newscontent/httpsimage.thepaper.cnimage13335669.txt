@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">巴西总检指控总统特梅尔贪污洗钱，总统办：将证明没有违规</h1>
+<div class="news_about">
+<p>左甜/环球网</p>
+<p>
+							2018-12-20 15:36<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">路透社12月20日援引巴西总检察长办公室声明称，巴西现任总统特梅尔被控在一桩与港口特许权有关的调查中存在腐败和洗钱行为。<br/><div class="contheight"></div>报道称，特梅尔利用他2017年颁布的一则海港行政令，将两份港口合同延长至70年，以回报行贿方，现正因此接受调查。<br/><div class="contheight"></div>对此，巴西总统办公室曾发布声明称，特梅尔将证明其中没有违规行为，也没有企业非法受益。<br/><div class="contheight"></div>路透社说，巴西国会众议院将投票表决是否把总统交予司法审理，但该项表决在特梅尔离任前不会发生。<br/><div class="contheight"></div>据悉，特梅尔将于明年1月1日离任，在10月总统选举中获胜的博索纳罗正式就职。<br/><div class="contheight"></div>（原题为《巴西总检指控巴西总统贪污洗钱 总统办公室：将证明没有违规》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：顾亚敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 巴西总统</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2756001">
+<div class="nbgbox">
+<a class="zan" contid="2756001" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 巴西总统</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2756001&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2756001&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25435">金改实验室</a>
+</div>
+<h1 class="news_title">金融委办公室一周三次发声，释放了什么信号？</h1>
+<div class="news_about">
+<p>澎湃新闻记者 陈月石</p>
+<p>
+							2018-12-27 07:29<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">过去一周，成立已满一年的国务院金融稳定发展委员会（金融委）频繁现身，通过座谈会、专题会议和声明的形式，向市场传达声音。<br/><div class="contheight"></div>12月20日，金融委办公室召开资本市场改革与发展座谈会，人民银行副行长、国务院金融稳定发展委员会办公室副主任刘国强主持部分商业银行、证券公司、保险机构、信托公司、基金公司负责人座谈会，听取对当前资本市场改革发展的意见建议。<br/><div class="contheight"></div>一天之后，金融委办公室在央行官网发布声明称，“我们注意到网上关于中央经济工作会议决定不减税不降费等传闻，这与事实相反”。<br/><div class="contheight"></div>金融委办公室最新一次会议聚焦到了商业银行补血问题。央行网站12月26日发布消息称，12月25日，金融委办公室召开专题会议，研究多渠道支持商业银行补充资本有关问题，推动尽快启动永续债发行。<br/><div class="contheight"></div>“此时点银行补充资本充足率需要多渠道展开，除了优先股、可转债等各类债券融资工具外，发行永续债的好处是减少对资本市场的抽血，从而达到既能够补充银行资本金，又能够稳定资本市场，为银行指出了融资方向。同时也可以解读为，金稳会一周内第三次对资本市场给予的呵护。 ”联讯证券称。<br/><div class="contheight"></div><strong>三次发声说了些什么？</strong><br/><div class="contheight"></div>这一周的三次发声，从时间上看，前两次都出现在盘中，最新一次发声要推进商业银行永续债发行则是在开盘前五分钟。<br/><div class="contheight"></div>从形式上看，一次是座谈会，一次是专题会议，另外有一则澄清声明。<br/><div class="contheight"></div>其中，12月20日资本市场改革与发展座谈会给出了一个重要判断，即“当前资本市场风险得到较为充分的释放，已经具备长期投资价值，改革面临比较好的有利时机。”<br/><div class="contheight"></div>而第二次发声则是在12月21日临近收盘时，直截了当澄清中央经济工作会议不减税不降费等传闻为假消息。<br/><div class="contheight"></div>而12月26日早间披露的专题会议，则是研究多渠道支持商业银行补充资本有关问题，推动尽快启动永续债发行。<br/><div class="contheight"></div><strong>金融委办公室作用凸显</strong><br/><div class="contheight"></div>值得一提的是，上述发声行动中，设在央行的金融委办公室作用凸显，上述三次发声均以“国务院金融稳定发展委员会办公室”的身份落款。<br/><div class="contheight"></div>国务院金融委设立于2017年11月，其主要职责中包括分析研判国际国内金融形势，做好国际金融风险应对，研究系统性金融风险防范处置和维护金融稳定重大政策。<br/><div class="contheight"></div>国务院金融委办公室设立在央行。国务院金融委副主任、人民银行行长易纲兼任金融委办公室主任，上述资本市场改革与发展座谈会则披露，央行副行长刘国强为金融委办公室副主任。<br/><div class="contheight"></div>按照规定，国务院金融委将定期召开全体会议，不定期召开有针对性的专题会议，统筹研究协调金融领域相关事项。自7月2日以国务院副总理刘鹤为主任的新一届国务院金融委成立以来，已经召开了三次常规会议和多次专题会议和座谈会。此外，针对民营企业，尤其是小微企业融资难融资贵的问题，国务院金融稳定发展委员会派出督导组，兵分七路，进行实地督导。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑景昕<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2777937">
+<div class="nbgbox">
+<a class="zan" contid="2777937" href="javascript:;" onclick="voteCont(this)" praisetimes="51">
+                           50</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 金融委</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2777937&caid=25435",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2777937&amp;caid=25435" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

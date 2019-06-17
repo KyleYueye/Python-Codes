@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜敲诈勒索年入千万，红了眼的自媒体该付出代价了</h1>
+<div class="news_about">
+<p>澎湃特约评论员 吕京笏</p>
+<p>
+							2018-10-23 18:31<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2554447" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜敲诈勒索年入千万，红了眼的自媒体该付出代价了" src="//image2.thepaper.cn/image/11/540/519.jpg"/>
+</a>
+<div class="atlas_360_txt">地产自媒体敲诈勒索触目惊心：有公众号年入千万<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">靠运营自媒体赚钱，已成为很多人的选择。不过，有些人却从中发现了另类“商机”。据“新民周刊”报道，一些自媒体人打着“曝光事实”“为粉丝维权”的旗号，干起了敲诈勒索房地产企业的勾当——他们如同网络黑社会，定期收“保护费”，还隔三差五“组团”精准打击某家企业，肆无忌惮地榨取“媒体投放费”。有说法称有自媒体用此手段年收入上千万。 <br/><div class="contheight"></div>正常的媒体报道，要呈现利益各方的声音，力求真实、客观、中立。而居心不良的自媒体，则往往选择性报道，倾向性很强，并依托互联网的快速传播，形成摧枯拉朽的破坏性力量。对房企财务报表进行危言耸听的解读，滥用“高负债”等字眼，或者把正常的人事变动说成“高层地震”等无中生有、信口开河，都是屡试不爽的套路。 <br/><div class="contheight"></div>值得警惕的是，自媒体的队伍已经不再是一些小打小闹的乌合之众，而混入了正牌记者、业内人士、公关公司和第三方评价机构。这些对企业消息深层次了解的群体一旦倒戈，与深谙传播规律的自媒体勾连，更使杀伤力剧增。即便是不差钱的房企——尤其是已上市或拟上市阶段的民营房企，也因为这种无节制的敲诈勒索，苦不堪言。 <br/><div class="contheight"></div>房企为何不依法维权？其实答案很简单。一则，自媒体敲诈手法隐蔽，很少有白纸黑字的实物证据，而电话录音、面谈录音也都很难作为呈堂证供；二则，如果房企不接受自媒体开出的条件，让“黑稿”传播出去，很容易造成轰动性的负面效应。再申诉撤销文章，哪怕能证明其失实，也需要流程，早就过了黄金传播时间。如果一篇“黑稿”被多家自媒体发布，删稿程序更复杂，需要时间更长。更棘手的，如果自媒体文章只是有一定的倾向性（如建议读者不要买这一楼盘），而不是纯粹的造谣诽谤，删稿就不可能了，但这样的文章对于涉事楼盘的杀伤力是巨大的。 <br/><div class="contheight"></div>逐利的心永远在骚动，没有约束只会更有恃无恐。违法成本过低、维权成本过高，是自媒体敲诈勒索肆无忌惮、房企有苦难言的主因。要根治顽疾，微信等自媒体服务平台要健全更畅通的申诉渠道，简化申诉程序。必要时，对传播速度与反响明显不合常规的自媒体文章，可以考虑采取限制流量等措施，斩断不实言论的传播路径。更重要的，要完善相关法律法规，加大对不实言论和敲诈勒索相关方的惩处力度。既要扎紧制度的篱笆，让不实言论无法外传，又要高悬法律之剑，让无良自媒体畏法而退。 <br/><div class="contheight"></div>房子在国人的意识和生活里都占据重要位置，房地产信息的每一点风吹草动，都很容易引爆舆论。正所谓“众口铄金，积毁销骨”，自媒体敲诈勒索房企屡屡得逞的另一原因，也正是抓住了受众的这种心理。换句话说，它绑架了公众的眼球，将其敏感的心理转变为自身变现的手段。因此，面对泥沙俱下的房产信息，每一名读者也应多一份审慎，让流言止于智者，避免沦为自媒体敛财的工具。<br/><div class="contheight"></div>整治自媒体乱象，不是一道题，而是一套综合试卷，只有多方协作、多管齐下，才能真正肃清网络环境。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 自媒体敲诈勒索</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2556445">
+<div class="nbgbox">
+<a class="zan" contid="2556445" href="javascript:;" onclick="voteCont(this)" praisetimes="87">
+                           86</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 治理自媒体乱象</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2556445&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2556445&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

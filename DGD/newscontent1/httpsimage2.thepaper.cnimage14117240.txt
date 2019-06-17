@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜打击违规保健品的“全民战争”，向所有人发出召唤</h1>
+<div class="news_about">
+<p>澎湃特约评论员 李勤余</p>
+<p>
+							2019-01-10 14:22<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2835743" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜打击违规保健品的“全民战争”，向所有人发出召唤" src="//image.thepaper.cn/image/14/110/737.jpg"/>
+</a>
+<div class="atlas_360_txt">市场监管总局：8日起开展联合整治“保健”市场乱象百日行动<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">市场监管总局等多部门决定，自1月8日起，在全国范围内集中开展为期100天的联合整治“保健”市场乱象百日行动。行动的目标很明确：宣称具有“保健”功能的器材、用品、用具，声称具有“保健”功效的服务、虚假宣传以及违规传销。<br/><div class="contheight"></div>正如长春疫苗案促进了疫苗行业的大整治，以及疫苗监管的立法，权健事件也正在促进相关部门打一场对违规保健品的“全民战争”。这几天，天津方面已累计出动执法人员万余人次，对92家保健品经营单位立案查处。此次市场监管总局“在全国范围内”开展百日行动，正当其时，值得期待。<br/><div class="contheight"></div>不过，也要清醒地认识到任务的艰巨性。原因很简单，保健产品问题早已持续多年，且该行业还在不断发展壮大。而且，保健品市场核心消费群体仍然十分庞大，那就是年轻一代的父母辈、爷奶辈。他们往往不了解正确的医疗、养生知识，也缺乏获取正确资讯的渠道，更愿意从朋友圈和非正规网站上阅读某种“健康秘笈”。何况，老年人比较抗拒生老病死，容易将保健品当作延年益寿的救命稻草。这些都是不得不面对的现实。<br/><div class="contheight"></div>正因如此，老年人时常分不清保健产品和真正的药物之间的区别，这也给了某些不法分子可趁之机。所以，此次有关部门展开的整治行动，首先应该保证保健产品的无害化，防止老年人养生不成反而健康受损。这也是严查虚假宣传、违规传销的重要原因。<br/><div class="contheight"></div>违规保健品的可怕之处，可能更在于心理层面：明知效果细微甚至全无，但谁也无法阻挡使用者的服用。有关部门的联合整治行动可以打击看得见的违法行动，但要解决看不见的心理问题，是时候开展一场“全民战争”了。<br/><div class="contheight"></div>媒体应尽可能曝光保健品市场中的违法现象。权健帝国的轰然倒塌，已经为我们提供了最鲜活的例子。曝光行动越多，监管部门也必然会更重视。<br/><div class="contheight"></div>法律行业的专家也应为保健品的受害者声张正义，扳倒那些非法行医、性质恶劣的保健品企业。医药行业的专家不妨多作科普，为公众介绍相关知识，让更多人明辨是非。<br/><div class="contheight"></div>而所有年轻人，也该积极行动起来，说服自己家中的长辈、老人，告诉他们千万不要相信所谓的灵丹妙药。就算需要的是某种心理安慰，也应该为他们购买正规的药物或营养品。或许，他们真正需要的，是来自下一代的关心。<br/><div class="contheight"></div>更重要的是，有关部门应该把这场整治行动常规化、日常化，不一定限于“百日行动”。突击式查处，只能治标而不能治本，这是人人都明白的道理。曾经被曝光、批评过的权健帝国，是怎样一步步走到今天，值得反思。如果监管的力度再严厉些，范围再广泛些，权健的受害者会不会少一些？总之，这场打击违规保健品的“全民战争”，正在向所有人发出召唤，也包括屏幕前的你和我。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 保健品乱象</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836591">
+<div class="nbgbox">
+<a class="zan" contid="2836591" href="javascript:;" onclick="voteCont(this)" praisetimes="166">
+                           165</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 保健品乱象</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836591&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836591&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

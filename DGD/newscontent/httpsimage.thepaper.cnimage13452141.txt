@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">饲养10条濒危保护动物暹罗鳄，南昌一男子获刑5年罚款2万</h1>
+<div class="news_about">
+<p>彭洪基 曾佐宸 陶望平 王步全/江西网络广播电视台</p>
+<p>
+							2018-12-24 14:11<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">家住江西省南昌市的彭某，了解到暹罗鳄具有可观的经济价值后，便铤而走险，私自购买并饲养10条濒危保护动物暹罗鳄，结果获刑5年罚款2万。<br/><div class="contheight"></div>2017年初，彭某从网上得知了购买暹罗鳄的渠道，并于同年8月4日通过网络，以每条200元的价格购买了十条暹罗鳄，随后养殖于吉安市吉安县官田乡的一处养猪场内。<br/><div class="contheight"></div>不料同年9月3日晚，一条暹罗鳄从养猪场内逃出，彭某寻找数日未果。9月5日，官田乡村民发现这条暹罗鳄并立刻报警，暹罗鳄当即被官田林管站收养。<br/><div class="contheight"></div>同日晚，又有一条暹罗鳄从养猪场内逃出，彭某见场面难以控制，便于次日主动投案自首，并向派出所上交剩余的八条暹罗鳄。直至9月8日，第二条暹罗鳄方才在猪栏旁化粪池内被发现。<br/><div class="contheight"></div>吉安县人民法院近日经审理认为，彭某非法收购的暹罗鳄系《濒危野生动植物种国际贸易公约》及《濒危野生动植物种国际贸易公约附录水生物种核准为国家重点保护野生动物名录》列入的濒危保护动物，其行为已构成非法收购珍贵、濒危野生动物罪，遂判处彭某有期徒刑五年，并处罚金人民币二万元。<br/><div class="contheight"></div>（原题为：《养猪场内养10条濒危保护动物暹罗鳄 南昌一男子获刑5年罚款2万》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 濒危保护动物,暹罗鳄,南昌,养猪场</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768616">
+<div class="nbgbox">
+<a class="zan" contid="2768616" href="javascript:;" onclick="voteCont(this)" praisetimes="15">
+                           14</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 濒危动物</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768616&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768616&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

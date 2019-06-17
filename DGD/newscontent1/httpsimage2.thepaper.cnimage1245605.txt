@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜国企与民企整合搞“拉郎配”，谁都不会是赢家 </h1>
+<div class="news_about">
+<p>澎湃特约评论员 远山</p>
+<p>
+							2018-11-07 17:31<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">琼州海峡北岸的湛江市政府，正紧锣密鼓地强行促成两家民企与一家国有航运企业的整合，搞“拉郎配”。船民们称，在整合过程中，湛江市政府将份额较少（按市场份额占34.13%）的一家国有企业强行执行51％的股权比例，而占绝对优势的两家民营企业（按市场份额占65.87%）设定仅占股权结构的49％。（中国水运报，11月7日）<br/><div class="contheight"></div>据报道，这一强硬措施的出台引起两家民企广大股民、船民强烈反响。从去年下半年整个工作一开始，两家民企就坚持维权。媒体曾多次向相关部门反映此事，引起了国家有关部委、广东省各级相关领导的高度重视。但时至今日，湛江市政府仍强行推行既定整合方案，要求两家民企领导在新组建的公司章程、合作协议及有关工商注册文件等上面签字，致使琼州海峡北岸航运资源整合工作在政府与企业、船民的纠缠与博弈中举步维艰。<br/><div class="contheight"></div>连日来，围绕民营企业的权益保护引发了各种话题，受到社会关注。习近平总书记在11月1日的民营企业座谈会上明确指出，一段时间以来，社会上有的人发表了一些否定、怀疑民营经济的言论。比如有的人提出所谓“民营经济离场论”，说民营经济已经完成使命，要退出历史舞台；这些说法是完全错误的，不符合党的大政方针。“所有民营企业和民营企业家完全可以吃下定心丸、安心谋发展！”习近平总书记的承诺掷地有声。连日来，全国民营企业干部职工都在认真学习、贯彻落实习近平总书记在民营企业座谈会上的讲话精神。<br/><div class="contheight"></div>今年1月， 最高人民法院网站发布人民法院充分发挥审判职能作用、保护产权和企业家合法权益的七个典型案例；今年两会期间，最高人民法院院长周强在关于最高人民法院工作的报告中指出，加强产权司法保护，依法保护企业家人身自由和财产权利，就要着力营造保护企业家干事创业的法治环境。<br/><div class="contheight"></div>中央关于保护民营企业合法权益的重要讲话与举措，目的只有一个，就是严格依法保护各类市场主体的平等权利，从而稳定人心，提升民营企业家的发展预期信心，进一步解放生产力和提高综合竞争力。<br/><div class="contheight"></div>可是，回顾湛江这起“拉郎配”事件，我却没有看到当地政府遵循中央精神、对民营企业在“整合”过程中的自主选择权、股权等权益予以充分尊重与保护。可以说，“国营”与“民营”只是不同的产权结构，并不代表着在企业产权保障有任何差异。而无论地方政府出于什么样的考量，要实现国企与民营企业的“整合”，也必须严格遵循对应的法律授权程序，不能任意逾越司法相关规定，将行政意志凌驾于企业、职工的权益之上。<br/><div class="contheight"></div>否则，伤害的不仅仅是当地两家民营企业，同样也会给参与“整合”的国有航运企业带来严重影响。毕竟，错误的做法是不可能持久的，目前所产生的激烈博弈情况，已经干扰到当事三方企业的正常经营。而哪怕按照当地政府的强行干预，让国有企业获得不公平的股权比例，也必然会受到两家民营企业投资者和股东的各种抵制。用一句通俗的话来说，人心散了，企业就没法干了。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 民企发展</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2611366">
+<div class="nbgbox">
+<a class="zan" contid="2611366" href="javascript:;" onclick="voteCont(this)" praisetimes="81">
+                           80</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 民企发展</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2611366&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2611366&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（40）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25433">地产界</a>
+</div>
+<h1 class="news_title">海南三亚、海口主城区新建住宅高度不得超过80米</h1>
+<div class="news_about">
+<p>王子谦、尹建军/中国新闻网</p>
+<p>
+							2019-01-08 13:32<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网海口1月8日消息，海南省自然资源和规划厅8日介绍，该省对新建居住建筑进行高度管控，其中要求海口市和三亚市主城区执行居住建筑高度不超过80米。<br/><div class="contheight"></div>根据海南省自然资源和规划厅印发实施的《关于进一步加强和规范新建居住建筑高度管控工作的指导意见》，对海南省委、省政府关于加强城镇规划建设管理和加强城市设计建筑风貌管理的文件中，确定的城镇新建居住建筑限高四类管控区域，在空间上明确高度管控的实施范围和界限。<br/><div class="contheight"></div>意见明确，海口市主城区(包括长流组团、江东组团、中心组团开发边界范围)、三亚市主城区(包括海棠湾片区、中心城区、红塘湾片区、崖州湾科技城开发边界范围)，执行居住建筑高度不超过80米的管控要求。儋州市主城区(包括那大镇区、白马井滨海新城开发边界范围)、琼海市主城区(即嘉积镇区开发边界范围)执行居住建筑高度不超过60米的管控要求。其他设市城市和县城镇开发边界范围内，执行居住建筑高度不超过45米的管控要求；陵水英州镇及新村镇、乐东九所镇、澄迈老城镇开发边界范围内参照县城镇管控。其他乡镇开发边界范围内，执行居住建筑高度不超过20米的管控要求。乡村开发边界范围内，执行居住建筑高度不超过12米的管控要求。<br/><div class="contheight"></div>此外，根据《海南省总体规划(空间类2015-2030)》，明确旅游度假区新建居住建筑限高按照24米实施管控的范围和界限；特色产业小镇和其他乡镇镇区开发边界内设置的产业园区，以及独立设置的产业园区，其配套居住建筑高度管控按照不高于20米执行。<br/><div class="contheight"></div>意见要求，积极稳妥解决历史遗留居住建筑高度管控问题。明确经市县规划主管部门论证，已批准的修建性详细规划或报建方案对城镇、旅游度假区景观风貌影响不大的，可以继续按照已批准的修建性详细规划或报建方案实施；对景观风貌影响较大的，市县规划主管部门应当积极主动地与项目开发主体协商，按照相关要求优化项目报建方案。<br/><div class="contheight"></div>海南省要求，各市县在推动各区域的总体规划和控制性详细规划编制(修编)工作中落实海南省当前的空间管控要求，严格依据新修编的控制性详细规划提供建设用地规划条件，办理行政审批和行政许可手续。对未完成控制性详细规划编制(修编)的城镇、旅游度假区和产业园区，除港口、码头、道路等重要基础设施项目和省政府批准的重大项目、重点项目外，暂停该区域供地审批。<br/><div class="contheight"></div>（原题为《海南加强新建居住建筑高度管控：最高不超过80米》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 海南,居住建筑</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827279">
+<div class="nbgbox">
+<a class="zan" contid="2827279" href="javascript:;" onclick="voteCont(this)" praisetimes="18">
+                           17</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 海南</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827279&caid=25433",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827279&amp;caid=25433" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

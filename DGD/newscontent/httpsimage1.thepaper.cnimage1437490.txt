@@ -1,0 +1,77 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">上海杨浦市监局：检查全区92家全家门店，未发现售过期食品</h1>
+<div class="news_about">
+<p>澎湃新闻记者 邹娟 陈斯斯</p>
+<p>
+							2019-01-08 16:35<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2827190" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">蓝莓评测称十城全家售过期食品：上海涉2店，市监局介入调查</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2827573" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">全家回应质疑：自查门店未见过期食品，评测人员疑似异常购买</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2827492" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">全家：疑似蓝莓评测人员异常购买，自查所涉门店均无过期食品</span></a></img></p></div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="506" src="http://image.thepaper.cn/www/image/14/37/536.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">杨浦区市场监管局工作人员正在对复旦大学全家门店内1月5-8日的进货单和报废单进行核查</span><span style="color: rgb(128, 128, 128);">。 澎湃新闻记者 陈斯斯 摄</span></div>1月8日下午，上海杨浦区市场监管局发布关于开展“全家”门店食品安全检查的情况通报。通报全文如下：<br/><div class="contheight"></div>2019年1月8日，某评测机构对全国各地“全家”门店涉嫌销售过期食品的情况进行了报道，其中包括杨浦区复旦大学店。<br/><div class="contheight"></div>接到舆情后，上海市杨浦区市场监管局立即组织执法人员对涉事的复旦大学店开展检查，重点包括是否有销售过期食品，临保食品管理和过期食品销毁等情况。同时，我局布置开展了覆盖辖区全部92家“全家”门店的食品安全检查。<br/><div class="contheight"></div>截止目前，尚未查见“全家”门店有销售过期食品的行为。<br/><div class="contheight"></div>杨浦区市监局表示对于食品安全违法行为，始终保持“零容忍”的态度。下一步，杨浦区市监局将对其他销售终端开展食品保质期专项检查，一旦发现有销售过期食品等违法行为，将依法严肃查处，确保人民群众舌尖上的安全。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="562" src="http://image.thepaper.cn/www/image/14/37/319.png" width="600"/></div><span style="color: rgb(128, 128, 128);">情况通报全文。 上海杨浦区市场监管局 供图</span></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：高文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 全家,过期食品,上海杨浦</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827867">
+<div class="nbgbox">
+<a class="zan" contid="2827867" href="javascript:;" onclick="voteCont(this)" praisetimes="21">
+                           20</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 食品安全</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827867&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827867&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

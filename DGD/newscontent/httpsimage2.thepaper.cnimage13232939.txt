@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">埃及发现距今4400年王室祭司墓葬，保存状况相当完好</h1>
+<div class="news_about">
+<p>吴丹妮/新华社</p>
+<p>
+							2018-12-16 11:07<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社开罗12月15日消息，埃及文物部长哈立德·阿纳尼15日在首都开罗以南约30公里的阶梯金字塔附近宣布，埃及考古队在此处发现一座距今4400年且保存相当完好的王室祭司墓葬。<br/><div class="contheight"></div>阿纳尼在发掘现场对新华社记者说，墓室门楣的文字显示，墓葬主人是埃及古王国第五王朝时期法老内费里尔科勒的祭司，墓室内有墓葬主人及其家人的大型彩色雕像以及描绘当时祭祀、狩猎等场景的彩色壁画，保存状况都相当完好。<br/><div class="contheight"></div>据埃及最高文物委员会秘书长穆斯塔法·瓦齐里在发掘现场介绍，在墓室墙壁偏上的部分共发现18个含有24座大型彩色雕塑的壁龛，偏下部分发现26个含有31座小型彩色雕塑的壁龛。<br/><div class="contheight"></div>瓦齐里表示，对于墓葬内发现的5条墓道，考古人员还会继续进行发掘。<br/><div class="contheight"></div>阶梯金字塔位于埃及塞加拉古墓群，距今约4650年，是埃及大型考古遗址之一。据悉，这一地区的金字塔中埋葬着已逝的法老及其家人、将领等。<br/><div class="contheight"></div>（原标题《埃及发现距今4400年王室祭司墓葬》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 埃及考古</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2743957">
+<div class="nbgbox">
+<a class="zan" contid="2743957" href="javascript:;" onclick="voteCont(this)" praisetimes="92">
+                           91</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 埃及考古</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2743957&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2743957&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

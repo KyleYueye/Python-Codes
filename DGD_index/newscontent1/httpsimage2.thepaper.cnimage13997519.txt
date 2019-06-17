@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国消费技术协会主席：贸易摩擦让美科技产业月损10亿美元</h1>
+<div class="news_about">
+<p>周舟、熊茂伶/新华社</p>
+<p>
+							2019-01-07 12:00<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="600" src="http://image.thepaper.cn/www/image/13/997/514.jpg" width="507"/></div><span style="color: rgb(128, 128, 128);">加里·夏皮罗。  新华网资料图<br/><div class="contheight"></div></span>新华社美国拉斯维加斯1月6日消息，美国拉斯维加斯消费电子展（CES）即将于8日开幕，展会主办方、美国消费技术协会主席加里·夏皮罗说，对进口中国产品增加关税每月让美科技产业额外损失10亿美元。<br/><div class="contheight"></div>夏皮罗在本次展会开幕前夕接受新华社记者采访时说，美国企业界不认为提高关税是解决问题的正确机制，期待美中双方通过谈判化解分歧。<br/><div class="contheight"></div>该协会负责国际贸易的副总裁塞奇·钱德勒说，当前的关税水平会给美国科技产业带来威胁。数据显示，相关科技产业占美国国内生产总值的10%，在美创造了1500万个就业岗位。<br/><div class="contheight"></div>在出口方面，美国商务部此前宣布拟制定针对14种关键技术和相关产品的出口管制框架，涉及人工智能、芯片、机器人等方面。<br/><div class="contheight"></div>夏皮罗认为，出口管制让人感到担忧，在一个全球性竞争市场中，这会限制美国企业的出口机会、压制信息流动并阻碍人工智能等产业的发展。<br/><div class="contheight"></div>夏皮罗呼吁美国同中国建立更加稳定的贸易关系。他说，此次拉斯维加斯消费电子展将有超过4400家公司参展，展区净面积约270万平方米，其中与中国相关的企业占展区面积的近14%。<br/><div class="contheight"></div>（原题为《美消费技术协会主席：贸易摩擦让美科技产业每月损失10亿美元》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 贸易摩擦,科技产业</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2823303">
+<div class="nbgbox">
+<a class="zan" contid="2823303" href="javascript:;" onclick="voteCont(this)" praisetimes="32">
+                           31</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中美贸易摩擦</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2823303&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2823303&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

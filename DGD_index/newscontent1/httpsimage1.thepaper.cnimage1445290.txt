@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">机构改革10个月后，电影片头龙标已改为“国家电影局”</h1>
+<div class="news_about">
+<p>澎湃新闻记者 蒋子文</p>
+<p>
+							2019-01-08 20:28<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">在原国家新闻出版广电总局的电影管理职责划入中央宣传部后，公映电影片头“电影公映许可证”中的“国家新闻出版广电总局电影局”字样目前已改为“国家电影局”。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）记者注意到，在2019年1月4日正式公映的一部由美国派拉蒙影片公司出品、中国电影股份有限公司、华夏电影发行有限责任公司发行的电影中，片头“电影公映许可证”显示为“电审特(进)字[2019]第001号”，并注有“国家电影局 CHINA FILM ADMINISTRATION”字样。<br/><div class="contheight"></div>而此前，公映电影片头“电影公映许可证”中备注字样均为“国家新闻出版广电总局电影局”。<br/><div class="contheight"></div>譬如，1月4日同一天正式公映的另一部由美国米高梅影片公司出品、中国电影股份有限公司发行的电影中，其片头“电影公映许可证”显示为“电审特(进)字[2018]第098号”，备注字样仍为“国家新闻出版广电总局电影局 FILM BUREAU, STATE ADMINISTRATION OF PRESS, PUBLICATION, RADIO, FILM AND TELEVISION”。 <br/><div class="contheight"></div>上述公映电影片头“电影公映许可证”因其带有红底黄色龙形标识而常被称为“龙标”。<br/><div class="contheight"></div>根据2017年3月1日起施行的《电影产业促进法》第二十条规定，摄制电影的法人、其他组织应当将取得的电影公映许可证标识置于电影的片头处。<br/><div class="contheight"></div>在2018年3月的党和国家机构改革中，原国家新闻出版广电总局的电影管理职责划入中央宣传部，中央宣传部对外加挂国家电影局牌子。<br/><div class="contheight"></div>调整后，中央宣传部关于电影管理方面的主要职责包括管理电影行政事务，指导监管电影制片、发行、放映工作，组织对电影内容进行审查，指导协调全国性重大电影活动，承担对外合作制片、输入输出影片的国际合作交流等。<br/><div class="contheight"></div>2018年4月16日，国家电影局正式揭牌，国家电影局局长一职由中央宣传部常务副部长王晓晖兼任。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 电影局,机构改革</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828695">
+<div class="nbgbox">
+<a class="zan" contid="2828695" href="javascript:;" onclick="voteCont(this)" praisetimes="79">
+                           78</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 机构改革</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828695&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828695&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">下厨房| 混合蔬菜、水果和海鲜的纸米卷，是闷热季节的解药</h1>
+<div class="news_about">
+<p>刘嘉郦</p>
+<p>
+							2018-06-02 13:09<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>初夏的闷热常会让人打不起精神又失了胃口，一道色彩鲜艳而口感酸甜的春卷或许是最好的开胃解药——可别以为春卷是过年时候或者春天的专利，这种用米皮混合胡萝卜、豆芽、薄荷等新鲜蔬菜，再搭配虾仁、肉糜或者颜色鲜艳的芒果包裹而成的越式春卷凭借着清爽的口感和清新的味道，成为了这个时节顶顶出色的开胃美食。<br/><div class="contheight"></div></u><strong>越式芒果春卷<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="850" src="http://image.thepaper.cn/www/image/8/29/270.jpg" width="600"/></div></strong>材料：越南米皮、新鲜芒果、胡萝卜、新鲜生菜、黄瓜、细米粉、薄荷叶<br/><div class="contheight"></div>做法：<br/><div class="contheight"></div>1、将新鲜芒果去皮切成条，胡萝卜、黄瓜及生菜切丝，薄荷叶洗净，细米粉烫熟切成段，干的越南米皮过温水变软备用；<br/><div class="contheight"></div>2、将越南米皮铺在干净的盘子上，逐层放上胡萝卜丝、黄瓜丝、生菜丝、细米粉段、新鲜芒果及少许薄荷叶，包成卷之后切开，即可食用。<br/><div class="contheight"></div><strong>越式鲜虾春卷<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="379" src="http://image.thepaper.cn/www/image/8/29/269.jpg" width="600"/></div></strong>材料：越南米皮、新鲜大虾、胡萝卜、新鲜生菜、黄瓜、豆芽、细米粉、九层塔<br/><div class="contheight"></div>做法：<br/><div class="contheight"></div>1、新鲜大虾入水煮熟之后去壳、去泥肠，备用；<br/><div class="contheight"></div>2、胡萝卜、黄瓜及生菜切丝，薄荷叶、豆芽洗净，细米粉烫熟切成段，干的越南米皮过温水变软备用；<br/><div class="contheight"></div>3、将越南米皮铺在干净的盘子上，逐层放上胡萝卜丝、黄瓜丝、生菜丝、豆芽、细米粉段、虾仁及少许薄荷叶，包成卷之后切开，即可食用。<br/><div class="contheight"></div><strong>Links：如何调制一份酸甜蘸料？<br/><div class="contheight"></div></strong>酸甜口味的蘸料是让食物变得更好吃的加分项。一份经典的越式酸甜口味酱料常常是使用白醋、糖、鱼露和水按1:1的比例共同调制而成的，当然，你也可以根据自己的口味喜好进行调整，加上一丁点儿的蒜末、一些小米椒圈等都是提升风味的方法。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张颖<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2166211">
+<div class="nbgbox">
+<a class="zan" contid="2166211" href="javascript:;" onclick="voteCont(this)" praisetimes="6">
+                           5</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 下厨房</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2166211&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2166211&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

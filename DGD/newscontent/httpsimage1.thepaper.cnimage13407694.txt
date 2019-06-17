@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25490">打虎记</a>
+</div>
+<h1 class="news_title">山东省外逃职务犯罪嫌疑人张雪珍回国投案，愿积极退赃</h1>
+<div class="news_about">
+<p>中央纪委国家监委网站</p>
+<p>
+							2018-12-22 17:44<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中央纪委国家监委网站12月22日消息，2018年12月21日，按照中央反腐败协调小组国际追逃追赃工作办公室统一部署，经山东省委统筹指挥，省纪委监委精心组织推进，外逃6年的职务犯罪嫌疑人张雪珍主动回国投案，并愿积极退赃。<br/><div class="contheight"></div>张雪珍，女，1951年12月出生，系已归案“百名红通人员”邱渤海之妻，济宁硅元件厂原副厂长。2012年2月外逃英国。<br/><div class="contheight"></div>这是今年8月国家监委等五部门联合发布《关于敦促职务犯罪案件境外在逃人员投案自首的公告》后，山东省第4名回国投案的职务犯罪嫌疑人。张雪珍归案再次彰显了以习近平同志为核心的党中央坚持“有逃必追、一追到底”的鲜明立场和坚定决心，是国家监察体制改革将制度优势转化为治理效能的生动实践。中央追逃办负责人表示，只要尚有一人在逃，追逃追赃决不停止。我们正告涉嫌职务犯罪境外在逃人员，放弃幻想，认清形势，在公告最后期限前主动投案自首，争取宽大处理。<br/><div class="contheight"></div>（原题为《山东省外逃职务犯罪嫌疑人张雪珍回国投案》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 外逃,职务犯罪嫌疑人</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2764239">
+<div class="nbgbox">
+<a class="zan" contid="2764239" href="javascript:;" onclick="voteCont(this)" praisetimes="10">
+                           9</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 官员外逃</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2764239&caid=25490",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2764239&amp;caid=25490" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

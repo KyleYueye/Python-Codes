@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25490">打虎记</a>
+</div>
+<h1 class="news_title">内蒙古赤峰市委副书记、政法委书记王东伟自首，接受审查调查</h1>
+<div class="news_about">
+<p>中央纪委国家监委网站</p>
+<p>
+							2019-01-09 09:37<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="371" src="http://image.thepaper.cn/www/image/14/64/167.jpg" width="550"/></div><span style="color: rgb(128, 128, 128);">王东伟 资料图<br/><div class="contheight"></div></span>中纪委网站1月9日援引内蒙古自治区纪委监委消息：赤峰市委副书记、政法委书记王东伟涉嫌严重违纪违法，近日已向自治区纪委监委自首，目前正在接受纪律审查和监察调查。<br/><div class="contheight"></div><strong>王东伟简历</strong><br/><div class="contheight"></div>王东伟，男，汉族，1965年7月出生，内蒙古伊金霍洛旗人，在职研究生学历，1987年1月参加工作，1990年12月加入中国共产党。<br/><div class="contheight"></div>1987年1月至1995年8月，伊化集团车间技术员、厂长、副总经理；<br/><div class="contheight"></div>1995年8月至1997年11月，内蒙古自治区鄂托克前旗副旗长；<br/><div class="contheight"></div>1997年11月至2000年2月，内蒙古自治区伊金霍洛旗副旗长；<br/><div class="contheight"></div>2000年2月至2004年9月，内蒙古自治区鄂尔多斯市外经贸局党组书记、局长；<br/><div class="contheight"></div>2004年9月至2006年11月，内蒙古自治区鄂尔多斯市经委党组书记、主任；<br/><div class="contheight"></div>2006年11月至2010年9月，内蒙古自治区鄂尔多斯市东胜区党委副书记、政府区长；<br/><div class="contheight"></div>2010年9月至2011年8月，内蒙古自治区伊金霍洛旗委书记；<br/><div class="contheight"></div>2011年8月至2014年10月，内蒙古自治区鄂尔多斯市委常委，伊金霍洛旗旗委书记；<br/><div class="contheight"></div>2014年10月至2016年7月，内蒙古自治区兴安盟委委员、副盟长；<br/><div class="contheight"></div>2016年7月至今，内蒙古自治区赤峰市委副书记、政法委书记。（内蒙古自治区纪委监委）<br/><div class="contheight"></div>（原题为《内蒙古赤峰市委副书记、政法委书记王东伟接受纪律审查和监察调查》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 内蒙古,审查调查</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2830558">
+<div class="nbgbox">
+<a class="zan" contid="2830558" href="javascript:;" onclick="voteCont(this)" praisetimes="21">
+                           20</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 内蒙古打虎</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2830558&caid=25490",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2830558&amp;caid=25490" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国政府迎来今年第三次关门，参议员被紧急召回周末加班开会</h1>
+<div class="news_about">
+<p>沙晗汀/中新社</p>
+<p>
+							2018-12-22 15:45<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新社华盛顿12月21日电  随着美国参议院和众议院21日晚均决定暂时休会，美国政府将于21日午夜关门。这将是本年度美国政府第三次关门。<br/><div class="contheight"></div>21日，参议院按计划应对20日众议院通过的包含特朗普50亿美元边境建墙费用的预算案进行表决。由于在休会前参议院未能就该议案进行表决，美国多个政府部门的预算将于21日午夜到期，从而关门。<br/><div class="contheight"></div>据悉，此次受到影响的政府部门占到美国所有政府部门的1/4，其中包括国土安全部、国务院、司法部、交通部、内政部等。这也是美国政府近40年来首次出现一年内关门三次的局面。<br/><div class="contheight"></div>尽管参议院在休会前并未就特朗普建墙费用达成一致，参议院还是一致通过一项议案，即所有受政府关门影响而“暂时失业”的工作人员之后将补发工资。<br/><div class="contheight"></div>21日下午，美国副总统彭斯、特朗普女婿贾里德·库什纳等多位白宫高官均来到国会山，争取在最后时刻就建墙费用一事与国会达成一致以避免政府关门，却最终未果。参议院计划于22日中午复会，继续就边境建墙问题展开讨论。<br/><div class="contheight"></div>特朗普21日表示，美国政府已经“完全准备好长期关门”。他同时表示，现在是争取建墙费用的最后机会。特朗普还说，为了保证边境安全，他将同意修建上面带着长钉的“钢栅栏”而不是混凝土墙。“这将跟墙一样有效，一样美观。”<br/><div class="contheight"></div>据悉，由于参议院19日已通过一项维持政府正常运转至明年2月的临时预算案，多数参议员已经离开华盛顿开始圣诞节假期。随着20日众议院突然通过包含特朗普建墙费用的议案，所有参议员20日晚被紧急召回华盛顿开会。<br/><div class="contheight"></div>来自夏威夷州的参议员布莱恩·夏兹发文称，他刚刚回到夏威夷的家中17分钟就收到了华盛顿的召回令，只得立刻坐上飞机。由于多位参议员未能按时到达，21日的会议一度推迟。<br/><div class="contheight"></div>(原文标题：《美国政府将迎来本年度第三次关门》)</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国政府关门</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2764013">
+<div class="nbgbox">
+<a class="zan" contid="2764013" href="javascript:;" onclick="voteCont(this)" praisetimes="74">
+                           73</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美国政府关门</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2764013&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2764013&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

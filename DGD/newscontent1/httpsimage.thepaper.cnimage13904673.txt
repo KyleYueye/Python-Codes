@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">安倍晋三将于本月访俄，推进两国领土纠纷谈判</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-04 21:40<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">日本首相安倍晋三将在本月访问俄罗斯，与俄罗斯总统普京就南千岛群岛（日本称“北方四岛”）领土纠纷展开谈判。<br/><div class="contheight"></div>据俄罗斯卫星通讯社报道，日本首相安倍晋三暂定于1月21日访问俄罗斯。安倍在4日出席2019年首次新闻发布会时表示，他将与俄罗斯总统普京举行会晤，讨论如何结束两国在领土问题上的争议并签署和平条约。他说：“我们都不希望将这个问题留给下一代。”<br/><div class="contheight"></div>根据1956年签署的《苏日联合宣言》，苏联同意在双方签署和平条约后考虑向日本移交南千岛群岛（日本称“北方四岛”）齿舞和色丹两岛，但宣言未提及国后岛和择捉岛的归属问题。该文件得到了双方的批准，但随后日本拒绝执行该文件，坚持归还择捉岛、国后岛、色丹岛和齿舞岛作为缔结和平条约的条件。日本的官方立场是要求归还上述四岛，而且只有在解决领土问题后才会签署和平条约。 <br/><div class="contheight"></div>安倍在新闻发布会上坦言，虽然签署条约会很困难，但他希望尽可能多地取得进展。<br/><div class="contheight"></div>安倍与俄罗斯总统普京上次会晤，于2018年11月在新加坡举行，双方商定在《苏日共同宣言》基础上加快和平条约谈判进程。<br/><div class="contheight"></div>日本外相河野太郎将于1月12日至16日对俄罗斯进行正式访问，并与俄罗斯外长谢尔盖·拉夫罗夫会晤，讨论双边关系与和平条约问题。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙语双<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 日本,俄罗斯,领土纠纷,南千岛群岛</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2814438">
+<div class="nbgbox">
+<a class="zan" contid="2814438" href="javascript:;" onclick="voteCont(this)" praisetimes="141">
+                           140</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日俄关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2814438&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2814438&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

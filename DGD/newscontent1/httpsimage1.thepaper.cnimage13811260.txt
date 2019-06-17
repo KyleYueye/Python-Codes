@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">韩国前总统李明博涉贿案今二审开庭，韩媒：他或将主张无罪</h1>
+<div class="news_about">
+<p>环球网</p>
+<p>
+							2019-01-02 18:17<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="435" src="http://image.thepaper.cn/www/image/13/811/265.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">韩国前总统李明博</span><br/><div class="contheight"></div>韩国前总统李明博涉贿案今日将进行二审开庭审理，以健康不佳为由不出席一审宣判的李明博今日将出庭。韩联社1月2日报道说，李明博在此次审理中广泛申请证人，展现出将主张无罪的姿态。<br/><div class="contheight"></div>据韩国News1通讯社报道，首尔高级法院刑事一部将于当地时间2日14时点5分(北京时间13时5分)开始，对以受贿指控等被起诉的李明博提出的上诉进行首次开庭审理。<br/><div class="contheight"></div>在今天的审理中，检方与李明博方面将就上诉理由和二审中争议的焦点进行陈述。李明博方面将由律师进行陈述。韩联社报道说，李明博在一审时仅仅递交材料为证据，二审却广泛申请证人，展现出将积极主张无罪的姿态。预计韩国检方将主张滥用职权、涉嫌受贿等一审中判断无罪的指控罪名成立。<br/><div class="contheight"></div>韩国首尔中央地方法院2018年10月5日对李明博涉嫌贪污受贿一案进行一审宣判，判处其15年有期徒刑，并处罚金130亿韩元(约合7897万元人民币)。首尔中央地方法院认定检方16项指控中7项罪名成立，包括贪污240亿韩元、收受三星贿赂59亿韩元、造成国有财产流失等。法院当天对宣判过程进行了电视直播，李明博因健康问题和不满直播而缺席庭审。当月12日，李明博不服一审判决，决定提起上诉。 <br/><div class="contheight"></div>（原题为《韩国前总统李明博涉贿案今二审开庭 韩媒：他或将主张无罪》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙语双<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 韩国,李明博,涉赌案二审</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2804716">
+<div class="nbgbox">
+<a class="zan" contid="2804716" href="javascript:;" onclick="voteCont(this)" praisetimes="26">
+                           25</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 李明博</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2804716&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2804716&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

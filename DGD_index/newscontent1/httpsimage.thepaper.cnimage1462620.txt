@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">朝鲜将于3月举行5年一次的最高人民会议代议员选举</h1>
+<div class="news_about">
+<p>刘强/海外网</p>
+<p>
+							2019-01-09 09:33<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="338" src="http://image.thepaper.cn/www/image/14/62/611.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">2014年，金正恩参加朝鲜第13届最高人民会议代议员选举投票。（KBS新闻）<br/><div class="contheight"></div></span>海外网1月9日消息，据朝中社9日报道，根据朝鲜民主主义人民共和国社会主义宪法第90条，第14届最高人民会议代议员选举将于2019年3月10日举行。<br/><div class="contheight"></div>朝中社说，最高人民会议常任委员会8日发布了相关决定。<br/><div class="contheight"></div>最高人民会议是朝鲜最高权力机关，其代议员每5年选举一次。目前在任的第13届代议员于2014年3月选出。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="378" src="http://image.thepaper.cn/www/image/14/62/613.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">2014年3月9日，朝鲜第13届最高人民会议代议员选举的现场。视觉中国 资料图</span><br/><div class="contheight"></div>在2014年举行的第13届最高人民会议代议员选举中，朝鲜全国登记在册的选民有99.97%参加了选举。包括朝鲜最高领导人金正恩在内，687人当选第13届最高人民会议代议员。这也是金正恩担任朝鲜最高领导人后，首次举行最高人民会议代议员选举。<br/><div class="contheight"></div>韩国KBS新闻说，第14届最高人民会议代议员选举结束后，朝鲜预计在4月初举行第14届最高人民会议第一次会议，进行换届工作，并讨论预算问题。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="369" src="http://image.thepaper.cn/www/image/14/62/615.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">朝鲜举行第13届最高人民会议代议员选举，民众载歌载舞庆祝。视觉中国 资料图</span><br/><div class="contheight"></div>据新华社早前报道，朝鲜最高人民会议职能包括：批准、修改及补充宪法；审议国家政策及预算；选举国防委员会委员长、副委员长及委员；选举常任委员会委员长及委员；选举立法人员；任命内阁总理及阁员；听取内阁报告、监督内阁等。<br/><div class="contheight"></div>（原题为《朝鲜将举行5年一次的最高人民会议代议员选举》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张珺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 朝鲜</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2830535">
+<div class="nbgbox">
+<a class="zan" contid="2830535" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 朝鲜</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2830535&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2830535&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

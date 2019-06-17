@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">新华时评：农民受益是农村土地改革的初心 </h1>
+<div class="news_about">
+<p>王立彬/新华社</p>
+<p>
+							2018-12-26 16:39<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京12月26日报道，2018年的最后一周，农村土地改革问题成为公众关注的一大焦点。十三届全国人大常委会第七次会议连日来审议农村土地承包法修正案草案、土地管理法、城市房地产管理法修正案草案以及国务院关于农村“三块地”改革试点、“两权”抵押贷款试点情况的总结报告。种地种粮者的权益、农村妇女的土地权益、外出打工者的土地权益等等，成为全国人大常委会组成人员关注最多的话题之一。<br/><div class="contheight"></div>让农民受益，促进农村与农业现代化，是农村土地改革的初心。农村土地改革的对象是农村土地，而农村土地的主人是亿万农民。无论是作为农用地的耕地、林地、草地，还是宅基地等农村集体建设用地，所有者都是集体经济组织成员的农村居民，维护他们的权利、保护他们的权益、实现他们的财产权，是改革的出发点和落脚点，农民的意愿、拥护与获得感是衡量制度设计、法律调整得失成败的定盘星。<br/><div class="contheight"></div>让农民受惠，要讲精准、补短板。从精准方面看，留守农民、外出打工农民、被征地的农民，情况是很不同的。如对两亿多进城农民工，中央已多次明确不得以退出土地承包经营权作为他们进城落户的条件。事实上，农民进城落户，教育、医疗、低保、住房等城镇居民权利并不都是一次性赋权，完全市民化是一个历史过程，他们以合理方式交回土地承包权，只能基于自愿。在补短板方面，妇女土地权益问题必须强化，近年来因为征地引发的出嫁女、上门女婿土地承包经营权的保护、农村集体用地的征用补偿分配纠纷，数量增长较快，这不仅是一个涉及农村社会稳定的问题，还是一个法律面前人人平等的原则问题，对此明确界定、强化保护的立法值得点赞。<br/><div class="contheight"></div>农村土地改革只有让农民受益，才谈得上农业现代化和农村宜居，也才能确保我们的米袋子、菜篮子，才能实现农村土地改革“不能把农村土地集体所有制改垮了，不能把耕地改少了，不能把粮食生产能力改弱了，不能把农民利益损害了”的改革初衷，从而确保城乡经济共赢、国家长治久安。<br/><div class="contheight"></div>（原题为《农民受益是农村土地改革的初心》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 农民,土地改革</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776580">
+<div class="nbgbox">
+<a class="zan" contid="2776580" href="javascript:;" onclick="voteCont(this)" praisetimes="13">
+                           12</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 农村土地改革</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776580&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776580&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

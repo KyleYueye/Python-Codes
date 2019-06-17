@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">土耳其用军购在美俄间“打太极”：评估S400和“爱国者”</h1>
+<div class="news_about">
+<p>澎湃新闻记者 刘惠</p>
+<p>
+							2018-12-25 13:34<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="374" src="http://image.thepaper.cn/www/image/13/485/998.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">俄罗斯S-400防空导弹系统。视觉中国 资料图<br/><div class="contheight"></div></span>在美土关系获得转圜后，土耳其近来又在美俄间打起了“太极”。<br/><div class="contheight"></div>据俄罗斯卫星通讯社12月24日报道，土耳其总统府发言人卡林在新闻发布会上表示，土耳其可以购买美国的“爱国者”防空导弹，但这并不会影响土耳其购买俄罗斯S-400防空导弹的意向。<br/><div class="contheight"></div>“我们并没有向‘爱国者’关闭大门，一切都取决于价格、转让技术的可能性、联合制造以及其它4到5个关键因素，我们将进行评估。” 卡林说，“我们从俄罗斯获得了不错的报价；如果美国也向我们开出好条件，我们也将进行评估。”<br/><div class="contheight"></div>土耳其先进防空导弹采购事件历时数年，中美俄欧等主要的先进军事装备供应方皆有装备参与竞标。土耳其在进行选择时，除考虑价格与技术转让等问题外，还屡屡利用这一问题平衡其与美俄等大国的双边关系，以及各方在叙利亚问题上的协调。<br/><div class="contheight"></div>卡林特意强调，此举不会影响2019年开始进行的俄制S-400导弹系统的供应，“这是两个平行的进程，而非替代关系。”<br/><div class="contheight"></div>在2016年土耳其发生未遂军事政变后，俄土两国一度因2015年11月俄战机被土耳其击落事件跌至冰点的关系迎来拐点，俄罗斯与作为北约成员国的土耳其签署了S-400地对空导弹系统出售合同，随即引发美国强烈不满。美国国会一度表示因安卡拉计划购买俄S-400，可能暂停向土耳其出口F-35战机。<br/><div class="contheight"></div>不过，近年来屡遭重创的美土关系因特朗普在叙利亚问题上的政策获得了转机。<br/><div class="contheight"></div>据《华盛顿邮报》24日消息，卡林24日还表示，美国总统特朗普已接受土耳其总统埃尔多安的邀请，将于2019年访问土耳其，具体日期尚未确定。卡林还透露，埃尔多安上周末在与特朗普通话时发出了邀请，两国总统当时在讨论美国从叙利亚撤军的话题。<br/><div class="contheight"></div>特朗普23日在推文中表示，他与埃尔多安进行了“漫长而富有成效”的通话，他们在会上讨论了“缓慢而高度协调”的美国军事人员撤离叙利亚的问题。稍早前，土耳其总统埃尔多安17日威胁称，随时会对叙利亚境内幼发拉底河东岸美国支持下的库尔德武装发起军事行动。<br/><div class="contheight"></div>但就在特朗普宣布美国已在叙利亚完成打击极端组织“伊斯兰国”（ISIS）的任务，并将从叙利亚撤军的同时，美国国务院18日批准了或以35亿美元（约合241.2亿人民币）的价格向土耳其出售一套“爱国者”防空导弹系统的事宜。<br/><div class="contheight"></div>美土关系走近的同时，克里姆林宫19日则表示，尽管美国国务院批准了或将进行的出售美国反导系统的合同，美、俄对土耳其的两笔交易应被视为彼此独立的。俄方仍将推进对土耳其S-400防空导弹系统的出售计划。<br/><div class="contheight"></div>半岛电视台19日分析称，若土耳其取消与俄罗斯进行的S-400购买合同，势必会破坏两国关系。另一种说法是，土耳其可能会利用引进美制“爱国者”反导系统一事促使俄罗斯作出一些让步。<br/><div class="contheight"></div>俄罗斯S-400防空导弹系统被认为是俄军迄今为止最先进的防空系统，但北约方面多次批评称，S-400防空导弹系统无法与北约防御系统兼容。除了向俄罗斯购买S-400防空导弹系统之外，土耳其方面此前还计划购买100架美国F-35战斗机——它与先进防空导弹一样，都是土耳其执行国土防空急需的装备。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：杨一帆<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 土耳其,S-400,爱国者</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772412">
+<div class="nbgbox">
+<a class="zan" contid="2772412" href="javascript:;" onclick="voteCont(this)" praisetimes="8">
+                           7</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 土耳其军购</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772412&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772412&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">官方通报：湖南常德去年共有31人因拖欠工资被刑拘</h1>
+<div class="news_about">
+<p>袁汝婷/新华社</p>
+<p>
+							2019-01-09 11:59<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社长沙1月9日消息，辛苦工作了一段时间，眼看着要过年了，工资却迟迟不能到位，这是困扰着一些人的烦心事。日前，在湖南常德，有174名员工的心头大石放下了——春节临近，他们被拖欠的工资已成功追回，欠薪公司的法人代表被刑拘。另据官方通报，2018年，该市共有31人因拖欠工资被刑拘。<br/><div class="contheight"></div>2018年8月22日，常德市劳动保障监察支队接到湖南鑫曜通讯有限公司员工彭某等124人的投诉，反映该公司拖欠174名员工2018年5月至7月期间工资共计人民币1006906元。常德市劳动保障监察部门当日正式立案，并于2018年8月30日依法向该公司下达了限期改正指令书，但该公司在规定的期限内没有改正违法行为。<br/><div class="contheight"></div>2018年9月5日，常德市劳动保障监察支队以涉嫌拒不支付劳动报酬罪依法将案件移交公安机关，公安机关立案侦查后，依法对湖南鑫曜通讯有限公司法人代表曹某刑事拘留。该公司于近日将拖欠的工资支付完毕。<br/><div class="contheight"></div>记者了解到，2018年来，常德市人社部门加大拖欠工资查处力度，着力完善行政执法与刑事司法的有效衔接，与常德市政府法制办、市公安局、市中级人民法院联合出台了《关于市人社局与市政府法制办和市区公安法院建立涉法涉诉工作会商协调机制的实施意见》，建立了与公、检、法、司等政法部门定期沟通会商和联合办案协调机制。2018年，该市劳动保障监察部门与公安机关共协调和查处欠薪案件36起，立案侦查29起，刑拘31人，依法逮捕犯罪嫌疑人16人。<br/><div class="contheight"></div>（原题为《湖南常德31人因拖欠工资被刑拘》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 拖欠工资,湖南</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831271">
+<div class="nbgbox">
+<a class="zan" contid="2831271" href="javascript:;" onclick="voteCont(this)" praisetimes="17">
+                           16</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 拖欠工资</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831271&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831271&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

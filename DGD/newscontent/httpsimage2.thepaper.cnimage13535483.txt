@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25437">牛市点线面</a>
+</div>
+<h1 class="news_title">首次证券基金行业首席经济学家例会建议：加快推进科创板落地</h1>
+<div class="news_about">
+<p>中国证券业协会</p>
+<p>
+							2018-12-26 20:37<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">2018年12月25日，中国证券业协会组织召开第一次证券基金行业首席经济学家季度例会，学习贯彻习近平总书记在纪念改革开放四十周年大会上的讲话精神和中央经济工作会议的精神，研究分析2019年宏观经济形势，展望2019年资本市场发展，提出资本市场制度建设的意见建议。来自8家证券公司、基金公司的首席经济学家和5家基金公司的投资总监参加了例会。申万宏源首席经济学家杨成长轮值主持本次例会。<br/><div class="contheight"></div>与会专家认为，当前中国经济处于新旧动能转换中，新动能主要来自于科技进步及信息技术的发展，新动力、新动能正在不断加强；长三角、京津冀一体化进程及粤港澳大湾区建设等进一步带动区域经济发展并发挥改革创新引领作用；在人口红利逐渐释放的背景下，工程师红利正在开启；宏观政策弱刺激，货币政策边际放松正在对经济起到积极作用，明年人民币汇率贬值压力有望相对缓解。面对复杂的外部环境和中国经济下行压力，专家认为应当加速经济转型，更加注重人才、信息、技术、科技等新的经济增长核心要素对经济的推动作用，采取多元的创新方式，加快发展普惠金融，并充分发挥资本市场在优化企业财务结构中的作用，促进民营企业发展。<br/><div class="contheight"></div>与会专家建议，对于资本市场的发展应当进一步加强基础制度建设，统筹考虑场内场外市场、债券市场的一体化建设，加快推进科创板和注册制试点的落地，积极引导长期资金入市，关注国际市场动荡对我国证券市场的负面影响，做好预期管理等。<br/><div class="contheight"></div>中国证监会李超副主席出席本次会议，并与首席经济学家进行了交流，回应了各位专家反映的市场关切。证监会有关部门负责人，中国证券业协会、中国证券投资基金业协会、中证金融研究院等单位负责人参加了本次例会。<br/><div class="contheight"></div>（原标题《中国证券业协会召开第一次证券基金行业首席经济学家例会 》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：葛佳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2778168">
+<div class="nbgbox">
+<a class="zan" contid="2778168" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中国证券业协会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2778168&caid=25437",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2778168&amp;caid=25437" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

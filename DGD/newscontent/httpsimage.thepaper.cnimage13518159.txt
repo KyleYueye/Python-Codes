@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">生态环境部：与去年同比，前11个月全国空气质量总体改善</h1>
+<div class="news_about">
+<p>牛秋鹏/中国环境报</p>
+<p>
+							2018-12-26 13:41<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">生态环境部有关负责人今日向媒体发布了2018年1月-11月和11月空气质量状况。<br/><div class="contheight"></div>2018年1月-11月，全国338个地级及以上城市平均优良天数比例为81.6%，同比上升1.1个百分点；PM2.5浓度为38微克/立方米，同比下降7.3%；PM10浓度为69微克/立方米，同比下降5.5%；O3浓度为154微克/立方米，同比上升2.0%；SO2浓度为14微克/立方米，同比下降22.2%；NO2浓度为28微克/立方米，同比下降6.7%；CO浓度为1.5毫克/立方米，同比下降6.2%。11月，平均优良天数比例为81.9%，同比上升1.8个百分点；PM2.5浓度为49微克/立方米，同比下降2.0%；PM10浓度为82微克/立方米，同比下降6.8%；O3浓度为98微克/立方米，同比下降1.0%；SO2浓度为16微克/立方米，同比下降20.0%；NO2浓度为38微克/立方米，同比下降2.6%；CO浓度为1.6毫克/立方米，同比上升6.7%。<br/><div class="contheight"></div>2018年1月-11月，169个重点城市中临汾、邢台、石家庄市等20个城市空气质量相对较差（从第169名到第150名）；海口、黄山、舟山市等20个城市空气质量相对较好（从第1名到第20名）。<br/><div class="contheight"></div>2018年11月，169个重点城市中邢台、石家庄、保定市等20个城市空气质量相对较差（从第169名到第150名）；黄山、海口、舟山市等20个城市空气质量相对较好（从第1名到第20名）。<br/><div class="contheight"></div>京津冀及周边地区“2+26”城市1月-11月平均优良天数比例为52.0%，同比上升0.9个百分点；PM2.5浓度为58微克/立方米，同比下降12.1%。11月，平均优良天数比例为45.2%，同比下降19.8个百分点；PM2.5浓度为88微克/立方米，同比上升33.3%。<br/><div class="contheight"></div>北京市1月-11月平均优良天数比例为60.9%，同比上升0.8个百分点；PM2.5浓度为52微克/立方米，同比下降11.9%。11月，平均优良天数比例为56.7%，同比下降23.3个百分点；PM2.5浓度为74微克/立方米，同比上升60.9%。<br/><div class="contheight"></div>长三角地区41个城市1月-11月平均优良天数比例为75.4%，同比上升1.7个百分点；PM2.5浓度为43微克/立方米，同比下降6.5%。11月，平均优良天数比例为78.7%，同比上升5.6个百分点；PM2.5浓度为54微克/立方米，同比下降5.3%。<br/><div class="contheight"></div>汾渭平原11个城市1月-11月平均优良天数比例为58.1%，同比上升2.1个百分点；PM2.5浓度为56微克/立方米，同比下降11.1%。11月，平均优良天数比例为54.8%，同比上升3.2个百分点；PM2.5浓度为75微克/立方米，同比下降5.1%。<br/><div class="contheight"></div>据国家大气污染防治攻关联合中心分析，与去年同期相比，2018年1月-11月，全国空气质量总体呈改善趋势，但11月受供暖排放增加、气象条件不利和沙尘天气等因素影响，京津冀及周边地区部分城市空气质量下降。2018年11月，京津冀及周边地区大气扩散条件总体不利，仅出现3次冷空气过程，同比减少4次，平均风速同比下降20%，小风日数同比增多30%，区域内混合层高度同比下降10%，相对湿度同比增大15%。上述气象条件，导致大气污染物的水平和垂直扩散能力下降，有利于气态污染物转化成颗粒物的二次反应和颗粒物的吸湿增长。2018年11月，区域先后出现4次大范围重污染天气过程，特别是11月23日开始，河北南部、河南北部、山东西北部等地出现长达10天左右的重污染天气过程，拉高了PM2.5月均浓度。另外，11月下旬，京津冀及周边地区受到蒙古国及内蒙古中西部沙尘天气影响，与区域内重污染天气过程叠加，形成在秋冬季较为罕见的PM2.5和PM10混合型污染，对空气质量产生较大影响。<br/><div class="contheight"></div>（原题为：《全国地级及以上城市优良天数比例逾八成》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 空气,优良天数,环境,城市</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776159">
+<div class="nbgbox">
+<a class="zan" contid="2776159" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 空气质量</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776159&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776159&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

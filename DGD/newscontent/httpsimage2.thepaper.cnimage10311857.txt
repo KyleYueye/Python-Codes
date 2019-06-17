@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">当司法乘上网络“加速器”——有感于北京互联网法院的成立</h1>
+<div class="news_about">
+<p>成梦琳/千龙网</p>
+<p>
+							2018-09-10 12:37<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="404" src="http://image.thepaper.cn/www/image/10/311/867.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">2018年9月9日，北京，互联网法院正式挂牌，网络法庭现场。 视觉中国 图</span><br/><div class="contheight"></div>通过人脸识别即可进行身份验证，提出法律问题智能机器人对答如流，输入基本案情方能评估诉讼风险，带上VR眼镜实景体验网络法庭内开庭情况……当这些高大上的科技产品一股脑儿地映入眼帘，笔者不禁要为这个集合了创新技术与理念的法院打Call，它就是北京互联网法院。<br/><div class="contheight"></div>2018年7月6日，中央全面深化改革委员会第三次会议审议通过《关于增设北京互联网法院、广州互联网法院的方案》，9月9日，北京互联网法院正式挂牌成立，这标志着又一家人民法院乘上了网络加速器来到了老百姓的身边。<br/><div class="contheight"></div>北京互联网法院的成立，用科技打通了时空的阻隔，让时间和距离不再是困扰百姓诉讼的难题。近年来，随着人民法院司法为民理念的不断深入与践行，辅助诉讼质效提升的网络信息化技术手段已不断发展成熟。如今，互联网法院则更上一个台阶，以“网上案件网上审理”为基本思路，通过从立案到执行全部或部分诉讼环节的网络化办理，让当事人可以“少跑路”甚至“不跑路”，相较于动辄花费半天甚至一天的时间专程到法院打官司，这样的方式为当事人大大节约了诉讼成本。案件网上审理，当事人即使远隔重洋也如亲临现场，让跨时空诉讼成为可能。<br/><div class="contheight"></div>北京互联网法院的成立，用科技为民众打开了了解司法的又一扇智慧之窗。走进北京互联网法院，当事人可以在现场直观感知互联网法院立审执全流程在线诉讼模式。这个酷炫又充满智慧的空间，正是人民群众走进司法、了解司法、感受司法的又一途径。结合司法与科技，北京互联网法院在以它的时代感与先进性，输送着法律知识，传递着司法正能量。当法律意识根植于每一个公民心中的时候，社会主义法治建设必将结出硕果。<br/><div class="contheight"></div>置身司改浪潮，立足科技前沿，北京互联网法院的成立是中央的一项重大决策，是司法主动适应互联网发展趋势的又一创新举措。我们也有理由相信，北京互联网法院将承载着属于它的使命与担当，乘着互联网时代飞速发展的“加速器”，让互联网+法院走进百姓身边，让法治精神不断传扬。<br/><div class="contheight"></div>（原题为《当司法乘上网络“加速器”——有感于北京互联网法院的成立》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 北京互联网法院</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2425086">
+<div class="nbgbox">
+<a class="zan" contid="2425086" href="javascript:;" onclick="voteCont(this)" praisetimes="10">
+                           9</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 互联网法院</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2425086&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2425086&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

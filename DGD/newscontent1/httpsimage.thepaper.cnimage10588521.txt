@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜金融圈“不雅饭局”，辣眼的纸醉金迷背后是什么？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 熊志</p>
+<p>
+							2018-09-19 13:34<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">券商分析师的“不雅饭局”视频近日成为金融圈的热点。方正证券研究所副所长马某，方正证券通信互联网行业分析师廖某，以及宝盈基金前投资总监刘某在视频中相继出现，这场饭局也被指是为券商界的“奥斯卡”新财富评比投票。目前视频主角马某已被取消参评新财富最佳分析师资格，而涉事证券公司也宣布对马某、廖某进行调查。<br/><div class="contheight"></div>这“辣眼睛”的饭局视频，多少会颠覆人们对金融圈的想象。那些平日里西装革履的金融业从业者，虽然顶着精英、体面的人设，但在视频中是截然不同的恶俗、油腻。换个角度，其实也可以看出资本和财富的诱惑之大——正如媒体报道，如果能在新财富评选中上榜，身价飞涨百万起步不是梦，它足以击穿君子式的行为风范。<br/><div class="contheight"></div>事后有当事人回应称，它不是拉票饭局，刘某也不掌握新财富的投票权。而在新财富发布的通知中，除了取消马某的参选资格外，还提到，“取消相关投票人参与新财富最佳分析师评选的投票资格”，这个相关人员是不是刘某目前存疑。但从网上的微信群对话截图看，刘某在业界有话语权，足以影响投票，在此背景下组油腻饭局，难逃瓜田李下的拉票嫌疑。<br/><div class="contheight"></div>为了保证评选的公平，券商行业明确禁止与证券研究工作无关的拜票、催票行为。从这个角度来看，说它是纯私人的饭局也未必恰当。如果饭局无法洗清拉票嫌疑，那么外界介入评判就不只是对私德的过度监视，至少它影响了行业公平。<br/><div class="contheight"></div>关于饭局公域还是私域的争论，让视频的流出也成为焦点话题，视频拍摄者是中国中药的女IR(投资者关系)的身份也遭到曝光。老实说，哪怕饭局可能影响了行业评选公平，但公布上网也不是什么体面举动。拍摄者完全可以以投诉、举报这种更恰当的渠道，来反馈违规。将饭局不雅视频传播开来，并指责廖某“为了拉票都睡上去了”，它呈现的还是一幅金融圈勾心斗角的画面。<br/><div class="contheight"></div>当事男女主角，饭局的看客，视频的拍摄传播者，金融圈从业人员的众生相，通过这场恶俗的饭局刻画得淋漓尽致，或是油腻猥琐，或是同行相轻而小动作不断。值得一提的是，当事女主在两年前，已经因为在打造券商网红的人设时，通过短视频向投资者推荐股票而被湖南证监局警示；而当时男主刘某，也曾卷入另一场金融圈露底网红风波。<br/><div class="contheight"></div>考虑到最近两年金融圈不断曝光的性丑闻，在财富新贵、社会精英的美好外皮下，外界终于看清了藏污纳垢以及纸醉金迷的名利场，它成为金融圈真实生态的缩影。<br/><div class="contheight"></div>作为名副其实的上游阶层，金融从业者能影响资本的配置，也能获得远超其他领域的收入水准，被寄予更高的道德期望不是过分要求，否则从业者也没必要西装革履、油头粉面，扮作精英的模样。再者，证券业协会发布的《关于加强对证券分析师参加有关评选活动管理的通知》也明确要求，强化分析师职业道德建设，共同维护职业声誉。<br/><div class="contheight"></div>当他们美好的声誉和人设垮塌，行业生态在公众心中与猥琐油腻、纸醉金迷、勾心斗角等词汇挂钩时，除了会瓦解精英阶层的道德示范作用外，更不利的后果在于，在巨大的贫富差距下，它会让中低收入人群对金融业高收入的合法性产生怀疑。靠潜规则，甚至靠性贿赂就能占领财富分配的金字塔顶端，这种不堪的生态，会进一步冲击社会阶层晋升的预期。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 不雅饭局</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2455224">
+<div class="nbgbox">
+<a class="zan" contid="2455224" href="javascript:;" onclick="voteCont(this)" praisetimes="188">
+                           187</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 不雅饭局</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2455224&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2455224&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（50）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

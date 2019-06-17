@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">特朗普：美朝正就两国领导人第二次会晤地点进行协商</h1>
+<div class="news_about">
+<p>刘品然、刘晨/新华社</p>
+<p>
+							2019-01-07 06:20<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社华盛顿1月6日消息，美国总统特朗普6日表示，美国和朝鲜正在就美朝领导人第二次会晤的地点进行协商。<br/><div class="contheight"></div>特朗普当天前往戴维营前对记者表示，美朝双方正在就他与朝鲜最高领导人金正恩第二次会晤的地点进行协商。<br/><div class="contheight"></div>特朗普说，美国和朝鲜有“非常好的对话”。他同时也表示，美国对朝鲜的制裁仍然有效。<br/><div class="contheight"></div>特朗普2日在白宫举行的内阁会议上说，他收到金正恩一封“了不起的”信，并表示可能与金正恩在“不太遥远的将来”再次会晤。上月初，特朗普对媒体表示他或将于2019年1月或2月与金正恩再次举行会晤。<br/><div class="contheight"></div>金正恩1日在新年贺词中表示，他随时准备和美国总统特朗普再次举行会谈。如果美国不遵守承诺，误判朝鲜人民的耐心，依然对朝制裁施压，那么朝鲜也将可能不得不为自身主权和最高利益、为实现朝鲜半岛和平安全而“寻求新路”。<br/><div class="contheight"></div>2018年6月，特朗普与金正恩在新加坡会晤并签署联合声明，就“建立新的朝美关系”以及“构建朝鲜半岛持久稳定和平机制”达成一致。<br/><div class="contheight"></div>（原题为《特朗普说美朝正就两国领导人第二次会晤地点进行协商》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王建亮<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美朝关系,特朗普,金正恩</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2822822">
+<div class="nbgbox">
+<a class="zan" contid="2822822" href="javascript:;" onclick="voteCont(this)" praisetimes="59">
+                           58</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美朝关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2822822&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2822822&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

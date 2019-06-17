@@ -1,0 +1,76 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">“黄马甲”示威人群冲撞法政府部门，马克龙：忘了契约精神</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2019-01-06 11:28<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/961/21.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">法国总统马克龙。视觉中国 资料</span><br/><div class="contheight"></div>新华社巴黎1月5日消息，法国总统马克龙5日在社交媒体推特上发文，谴责当天“黄马甲”示威活动针对法国政府的暴力行为。<br/><div class="contheight"></div>马克龙说，这些“极其暴力”的行为攻击了法国的“卫兵、代表和象征”，实施暴力行为的人忘记了公民契约精神的核心。<br/><div class="contheight"></div>马克龙说，正义将得到伸张。他同时呼吁，每个人都应恢复冷静，以开展讨论和对话。<br/><div class="contheight"></div>当天下午，示威人群用一辆工程作业车冲撞巴黎市内的法国政府部门大门，法国政府发言人本杰明·格里沃和一些助手被迫从办公室撤离。<br/><div class="contheight"></div>法国内政部长卡斯塔内当天披露，全国当天共有约5万人参与示威，人数比上一轮示威有所增加，但远远少于第一轮示威的28万余人。（本文原题为《法国总统谴责针对政府的暴力行为》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2766553" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">法国“黄背心”示威活动进入第六轮，人数减少但诉求不减</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2742887" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">“黄马甲”运动迎来第五周节点，巴黎8000名警察严阵以待</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 黄马甲,法国</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2820007">
+<div class="nbgbox">
+<a class="zan" contid="2820007" href="javascript:;" onclick="voteCont(this)" praisetimes="545">
+                           544</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 黄马甲运动</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2820007&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2820007&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（540）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

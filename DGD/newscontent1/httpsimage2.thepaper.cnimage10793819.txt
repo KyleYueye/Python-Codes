@@ -1,0 +1,90 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜说《江湖儿女》“充满负能量”，是没有看懂</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-09-26 12:37<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="398" src="http://image.thepaper.cn/www/image/10/793/817.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">《江湖儿女》剧照<br/><div class="contheight"></div></span>贾樟柯导演的电影《江湖儿女》上映后，《环球时报》总编辑胡锡进发表微博评论称，“充满了负能量，看得让人难受”“是个用灰暗镜头讲的好人不得好报的平庸故事，既不会让你愉悦，也不会让你掉眼泪，就是心里有点堵得慌。”<br/><div class="contheight"></div>日前，贾樟柯发表长微博回应，表示“真相是最大的正能量，见不得真相和真话的做法，是负能量。熟视无睹，充耳不闻，所获知的不是真相和真话，最终会成为最大的负能量。”贾樟柯还表示，他拍电影的兴趣是表现“复杂的人性”。<br/><div class="contheight"></div>这一来一回，在电影之外的江湖上荡起了一些涟漪。<br/><div class="contheight"></div>一部电影好不好，当然是观众说了算，见仁见智也是情理之中。一个人心目中的神作，可能是另一个人眼里的平庸之作。按说导演没必要跟一个发表负面评价的观众较劲。<br/><div class="contheight"></div>不过，把贾樟柯电影简单理解为“负能量”，大概是一种普遍的观点。而这次的发言者又是在舆论场十分活跃的公众人物。或许正因如此，贾樟柯才感到有回应与解释的必要吧。<br/><div class="contheight"></div>贾樟柯电影与大众商业电影有很大的差异，他长期关注与表达的是底层小人物的生存状态与情感世界，镜头语言也大都是写实风格。其作品中没有太多跌宕起伏的转折，也缺少激动人心的情节。<br/><div class="contheight"></div>但是镜头灰暗不等于立意灰暗、思想灰暗，我想这应该是观影的常识。把文艺作品简化为善与恶的二元对立，则是理解能力有限的小孩常犯的错误。<br/><div class="contheight"></div>说《江湖儿女》“充满了负能量”，我怀疑是没有看懂这部电影。<br/><div class="contheight"></div>表面上看，片子讲述的确实是“好人没好报”的故事。主人公巧巧是大哥斌斌的女人，为大哥顶罪进了监狱，出来后发现大哥已远走他乡，还有了新欢。巧巧于是回到家乡。多年以后，大哥中风瘫了之后回到巧巧身边，结果腿刚好就又走了。<br/><div class="contheight"></div>因此有人说这是一个“男人无情，女人有义”的故事，而仗义的女人最终一无所获。这么说确实很丧，但这是最表层的解读。其实这个故事的内核是一个人逐渐发现自己为何而活的精神之旅。<br/><div class="contheight"></div>巧巧一开始就跟着大哥混，但是她是懵懂的，她不知道什么是江湖，也不认为自己是江湖人。到最后，她成为一名自觉的江湖人，还说被她收留的斌斌已经不是江湖人。她收留斌斌不是为情，而是为义。<br/><div class="contheight"></div>在电影里，巧巧的精神发生转变的标志，就是UFO的出现。这个超现实情节的含义是，不管江湖还是道义，只要你相信，它就是存在的。生活的希望不在远方，不在他人身上，而在自己灵魂深处。<br/><div class="contheight"></div>所谓江湖人，就是一个义字。而所谓的义，可以理解为讲规则，有底线，不只为利益而活。巧巧虽然只是一个弱女子，但比斌斌这个过气大哥和他手下那些兄弟更担得起“江湖儿女”这个称号。<br/><div class="contheight"></div>巧巧失去了五年自由，也没有得到心爱的人，但她得到了一个自觉、清醒而强大的自我。与她相比，一直渴望出人头地的斌斌才是为一个妄念而误了终生。<br/><div class="contheight"></div>一个来自底层的小人物，遭遇了命运的多重打击，却并没有堕入虚无，而是像野草一样展现出勃勃生机。在我看来，这才是时代最需要的正能量。<audio controls="controls" style="display: none;"></audio></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_asktopic">
+<div class="news_askuser" onclick="window.open('asktopic_detail_10013708');"><span class="verticalAlign_topic"></span>
+<div class="news_askuser_bd">
+<div class="news_askuser_sort">明星</div>
+<div class="news_askuser_profile">我是演员廖凡,关于我的电影江湖,问我吧!</div>
+</div> <div class="news_askuser_trbs"><span class="trbs">
+<div class="userleft_hdimg">
+<img src="//image.thepaper.cn/publish/interaction/image/2/780/232.jpg"/><div class="hdimg_bg30"><img src="//file.thepaper.cn/www/v3/img/headerimg_ctbg30.png"/><span></span></div>
+</div>
+<a class="u_sname">廖凡</a>
+<span>2018-09-20</span>
+<span class="trbs_zan" id="10013708" times="2370">2.3k</span>
+<span>进行中...</span>
+</span></div>
+</div>
+</div>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 江湖儿女</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2475473">
+<div class="nbgbox">
+<a class="zan" contid="2475473" href="javascript:;" onclick="voteCont(this)" praisetimes="533">
+                           532</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 江湖儿女</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2475473&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2475473&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（84）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">在中国做科研与国外有什么区别？这位外国科学家这样说</h1>
+<div class="news_about">
+<p>光明网</p>
+<p>
+							2018-12-12 19:05<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“北京正积极推进人才引进政策。<br/><div class="contheight"></div>这是非常棒的举措，<br/><div class="contheight"></div>鼓励精英敢想、敢做、敢拼！”<br/><div class="contheight"></div>——约翰·斯彼克曼（John Speakman）如是说<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="291" src="http://image.thepaper.cn/www/image/13/122/558.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">本文图均为 光明网微信公众号 图</span><br/><div class="contheight"></div>约翰·斯彼克曼，来自英国，<br/><div class="contheight"></div>目前任职于中国科学院遗传<br/><div class="contheight"></div>与发育生物学研究所。<br/><div class="contheight"></div>谈起这些年在北京的工作经历，<br/><div class="contheight"></div>斯彼克曼非常兴奋。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="294" src="http://image.thepaper.cn/www/image/13/122/552.jpg" width="600"/></div>“北京的科研环境非常棒，<br/><div class="contheight"></div>不仅有政府相关政策的大力支持，<br/><div class="contheight"></div>而且这里聚集了很多优秀的专家学者，<br/><div class="contheight"></div>科研的成功率也比英国高很多。<br/><div class="contheight"></div>这些都是让我感到非常高兴的事情。”<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="308" src="http://image.thepaper.cn/www/image/13/122/599.gif" width="600"/></div>近年来，<br/><div class="contheight"></div>我国持续致力于创新科技、<br/><div class="contheight"></div>高新产业的研发，<br/><div class="contheight"></div>大力推进优秀人才引进战略，<br/><div class="contheight"></div>以开放、包容的姿态，<br/><div class="contheight"></div>不断吸引大批海外优秀人才前来发展。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="297" src="http://image.thepaper.cn/www/image/13/122/553.jpg" width="600"/></div>北京作为中国首都，<br/><div class="contheight"></div>更是始终走在科技发展的最前沿，<br/><div class="contheight"></div>为优秀人才提供最优质的发展空间。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="338" src="http://image.thepaper.cn/www/image/13/122/554.jpg" width="600"/></div>“中国学生与英国的学生一样聪明，<br/><div class="contheight"></div>虽语言和生活环境不同，<br/><div class="contheight"></div>但他们对待科学的热情是一样的！”<br/><div class="contheight"></div>谈起学生斯彼克曼充满自豪感。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="298" src="http://image.thepaper.cn/www/image/13/122/555.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="293" src="http://image.thepaper.cn/www/image/13/122/556.jpg" width="600"/></div>如今，<br/><div class="contheight"></div>已在北京工作了近七年的斯彼克曼，<br/><div class="contheight"></div>谈起这些年的生活，<br/><div class="contheight"></div>脸上挂满了笑容。<br/><div class="contheight"></div>“我最喜欢北京的春天和秋天，<br/><div class="contheight"></div>到处鲜花盛开，<br/><div class="contheight"></div>闲暇时喝杯咖啡，<br/><div class="contheight"></div>在古巷胡同里逛逛，<br/><div class="contheight"></div>让人感觉非常舒适。<br/><div class="contheight"></div>这一切对我来说就像是<br/><div class="contheight"></div>一场充满刺激的旅程，<br/><div class="contheight"></div>非常感谢家人对我的支持。”<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="294" src="http://image.thepaper.cn/www/image/13/122/557.jpg" width="600"/></div>（原题为《在中国做科研与国外有什么区别？这位外国科学家这样说...》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 科研,外国科学家</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2731552">
+<div class="nbgbox">
+<a class="zan" contid="2731552" href="javascript:;" onclick="voteCont(this)" praisetimes="8">
+                           7</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 外国科学家</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2731552&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2731552&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

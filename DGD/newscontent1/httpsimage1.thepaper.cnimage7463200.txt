@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">如何在天气越来越热的时候，避免成为一个“有味道”的人</h1>
+<div class="news_about">
+<p>刘嘉郦</p>
+<p>
+							2018-04-26 14:38<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>体味重这件事对于任何人来说，似乎都不是什么好消息，尤其是在密闭空间里，明显的体味不仅会给身边的人带来困扰，同时也会让自己变得尴尬，要是再加上高温这个因素，可能这种体验就更糟糕了。造成体味重的原因有很多，改善方式也不少，但要强调的是，只想着用涂抹香水这种方法来遮盖体味，而不做其他方面的改变的话，效果一定是非常惊悚的。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="436" src="http://image.thepaper.cn/www/image/7/463/204.jpg" width="600"/></div></u><strong>体味重？当生理原因遇到生活习惯<br/><div class="contheight"></div></strong>大部分情况下，我们很少会在日常生活中遇到体味特别重的人，可一旦遇上，却是叫人想要抱怨却有口难言——你能想象自己对着另一个人，严肃而认真地说道，“我觉得你的体味有点重，你是不是有腋臭？”这样的话吗？答案当然是否定的。<br/><div class="contheight"></div>体味重大部分情况下可以分为两种，一是因为生理原因导致的腋臭。通常情况下，大汗腺分泌旺盛的人有腋臭困扰的可能性会比较高，虽然其本身的分泌物并没有味道，但经过寄生在皮肤表面的葡萄球菌和类棒状杆菌的“加工”，这种让人困扰的味道便会自然产生。另一种体味重则与生理原因并没有什么关系，而是集中在你的生活习惯上。如果你喜欢吃某些带有特殊风味的食物，比如说洋葱、大蒜、大葱等食物的话，那么很容易会让自己的体味变得更重一些，除此之外，乳制品的大量摄入对于体味变重也会有影响。对于日常清洁的忽视也可能会导致这类问题的产生，比如说你是否能够保证每天洗澡，以避免因为过多出汗而导致的汗味弥漫？又或者说你是否能坚持勤快洗头，以避免因为头皮出油而导致的油气丛生？如果你的答案都不怎么肯定，那么很可能就会成为一个“有味道”的人。<br/><div class="contheight"></div><strong>爱干净才是无味生活的基础<br/><div class="contheight"></div></strong>不管你是因为生理原因，还是生活习惯问题导致的体味过重，要解决这个问题，首先就必须得做到爱干净——尤其是对于因为生活习惯而导致的体味过重人群来说，勤加洗澡、多多换衣都应该成为日常标配。除此之外，在不影响健康的前提下适当地减少一些洋葱、大蒜、大葱的摄入，也有助于减缓这个问题。如果你对于这些食材特别喜欢，那么也请尽量克制一下，避免在中午或者工作期间食用，以避免在与人沟通交流时出现尴尬场面。<br/><div class="contheight"></div>对于是因为生理因素而造成体味重的人来说，保持清洁同样重要。除此之外，如果你的问题并不怎么严重，那么可以考虑去除腋毛，通过降低腋下温度及细菌活跃程度来改善这一情况，不仅如此，你还可以随身携带湿纸巾，在可能的情况下尽快擦去腋下汗水，亦会让这一问题有所好转。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="486" src="http://image.thepaper.cn/www/image/7/463/190.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">Fresh馥蕾诗澄糖止汗香体走珠、舒耐爽身香体香氛喷雾速爽抑汗剂、妮维雅海洋酷爽爽身走珠液（男士专用）<br/><div class="contheight"></div></span>使用止汗露对于体味问题不怎么严重的人来说，也是个好办法。减少汗水分泌、迅速吸收汗水、抑菌以及借助芳香味道掩盖异味是其主要功能，如果你同时还去除了腋毛，那么就会发现自己变得清爽了很多。不过必须承认的是，对于那些有着严重腋臭的人来说，上面所说的问题其实都是无用功，并不能真正解决问题，想要让自己变得干净无味，不再面对尴尬场景的话，只能通过手术来解决这一问题了。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李淑平<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2096435">
+<div class="nbgbox">
+<a class="zan" contid="2096435" href="javascript:;" onclick="voteCont(this)" praisetimes="11">
+                           10</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 体味</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2096435&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2096435&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

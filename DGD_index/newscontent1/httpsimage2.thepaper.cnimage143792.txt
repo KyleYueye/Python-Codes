@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">游戏主播张大仙违约跳槽，二审被判赔偿企鹅电竞340余万</h1>
+<div class="news_about">
+<p>李铁柱/北青网</p>
+<p>
+							2019-01-08 16:24<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="337" src="http://image.thepaper.cn/www/image/14/37/86.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">北青网 图<br/><div class="contheight"></div></span>北青网1月8日消息，因没有经过腾讯公司同意便在其他直播平台上开展直播活动，游戏主播张大仙（原名张宏发）被腾讯公司起诉。一审法院判决张大仙停止在企鹅电竞直播平台以外平台的主播活动，并向腾讯公司支付40余万元违约金及300万元赔偿金。张大仙不服上诉。日前，深圳中院对此案作出二审判决，驳回上诉，维持原判。<br/><div class="contheight"></div>张大仙在企鹅电竞发家，在王者荣耀玩家中有着超高的人气，曾经是企鹅电竞直播平台最有名气的游戏主播之一。<br/><div class="contheight"></div>2017年8月， “张大仙”公开宣布跳槽到另一直播平台。企鹅电竞直播平台随后发布公告，称“张大仙”在企鹅电竞平台从零成长为行业知名主播，并单方面公开表示将在斗鱼主播平台进行直播，违反双方的协议。张大仙称自己违约跳槽是因为家里欠钱的经济压力。<br/><div class="contheight"></div>在“张大仙”跳槽至其他平台开始直播不久，腾讯公司一纸诉状将“张大仙”告上法庭，要求“张大仙”支付250余万元违约金和700万元赔偿金，并返还其在企鹅电竞直播平台的全部收益50余万元。<br/><div class="contheight"></div>后深圳南山法院作出一审判决，要求“张大仙”立即停止在企鹅电竞直播平台之外的其他网络直播平台开展网络主播活动，赔偿腾讯公司违约金及经济损失共计340余万元。另外，与企鹅电竞的合同有效期内，张大仙本人不得在其他网络直播平台开展网络主播活动。<br/><div class="contheight"></div>一审宣判后，“张大仙”不服上诉到深圳中院。<br/><div class="contheight"></div>深圳中院认为，张大仙违反协议约定，擅自到其他网站平台上从事网络主播活动，腾讯公司作为守约方，可以通过司法强制力禁止其继续从事违约行为。一审法院判令禁止张大仙在协议履行期内在其他网络平台从事网络主播活动是正确的。<br/><div class="contheight"></div>关于违约金和损失赔偿问题，法院认为，张大仙认为，他收到的41万余元中有15.6万元是腾讯公司向他支付的合作奖励，这部分才是计算违约金的技术。法院认为，根据双方确定的事实，除了15.6万合作奖励外，张大仙收到的26万余元是网友打赏分成，这部分在性质上也属于他获得的报酬，应当作为违约金的计算基数。结合网络直播行业的运营成本以及张大仙的影响力等等，原审法院酌定的300万损失赔偿合情合理。<br/><div class="contheight"></div>深圳中院最终驳回上诉，维持原判。<br/><div class="contheight"></div>（原题为《游戏主播张大仙违约跳槽 被判赔偿企鹅电竞340万》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 游戏主播,企鹅电竞,违约跳槽</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827840">
+<div class="nbgbox">
+<a class="zan" contid="2827840" href="javascript:;" onclick="voteCont(this)" praisetimes="67">
+                           66</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 游戏主播</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827840&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827840&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

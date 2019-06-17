@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">协助库尔德武装应对土耳其威胁，叙利亚政府军进入曼比季</h1>
+<div class="news_about">
+<p>澎湃新闻记者，南博一</p>
+<p>
+							2018-12-29 11:21<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">美国宣布从叙利亚撤军后，在土耳其强势压境前，库尔德武装控制的叙利亚北部城市曼比季成为其握在手里的“烫手山芋”。不过，库尔德武装看似已经找到了解决方案。<br/><div class="contheight"></div>据路透社12月28日报道，叙利亚军方28日表示，叙政府军已经进入曼比季，保护该市免受土耳其袭击。俄卫星通讯社援引叙利亚总参谋部的表态称，叙政府军应曼比季市民的要求于12月28日进入该城并在当地升起了叙利亚国旗。而总部位于英国的叙利亚人权观察组织表示，叙政府军驻扎在曼比季郊区，位于该市与土耳其支持的叙反政府武装控制的地区之间。<br/><div class="contheight"></div>自美国总统特朗普19日宣布从叙利亚撤军以来，土耳其不断向叙利亚边境增派部队。土耳其国家电视台23日称，部分土军部队通过位于土耳其东南部加济安泰普省边境城镇卡尔卡米斯进入亲土武装所控制的地区，并向曼比季前线进发。<br/><div class="contheight"></div>作为叙利亚战场上打击极端组织“伊斯兰国”（IS）的主力之一，库尔德武装于2016年从IS手中夺下曼比季。尽管如此，土耳其总统埃尔多安28日表示土耳其反对分裂叙利亚，其目标只是肃清叙利亚境内的恐怖分子。<br/><div class="contheight"></div>库尔德武装一直是土美之间一个“摩擦点”。土方把叙利亚库尔德主要武装“人民保护部队”（YPG）视为恐怖组织，美方则支持“人民保护部队”并为其提供武器打击IS。<br/><div class="contheight"></div>在美军撤离，叙政府军进驻曼比季后，埃尔多安28日时候表示，一旦叙利亚库尔德武装YPG离开曼比季，土耳其将不会有其他行动。但他也表示，大马士革在打心理战，目前曼比季局势仍旧不明。<br/><div class="contheight"></div>得到土耳其支持的“叙利亚自由军”发言人24日表示，其对库尔德武装的攻击计划仍在商讨中，他们正在等待华盛顿和安卡拉就美军如何撤离曼比季达成协议。此前，美军在曼比季有一个军事基地。<br/><div class="contheight"></div>北约内部今年6月曾达成协议，让库尔德武装撤出曼比季，由土美联合“管理”，直至组建地方政府。但土耳其曾多次抱怨称该计划遭到了拖延。<br/><div class="contheight"></div>特朗普最终作出从叙利亚撤军的决定后，为对抗土耳其的威胁，YPG28日表示，“在土耳其的威胁面前，我们邀请叙利亚政府派遣军队接管并保护曼比季。”<br/><div class="contheight"></div>同日，埃尔多安公开表示，由土耳其外长、防长、情报部门分负责人率领的土耳其代表团将于29日出访莫斯科，随后他还会与俄罗斯总统普京进行电话交谈，或许也会前往索契或者莫斯科。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙语双<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 土耳其,叙利亚,库尔德武装</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2790168">
+<div class="nbgbox">
+<a class="zan" contid="2790168" href="javascript:;" onclick="voteCont(this)" praisetimes="34">
+                           33</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 叙利亚形势</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2790168&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2790168&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

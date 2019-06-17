@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25430">澎湃防务</a>
+</div>
+<h1 class="news_title">中非共和国防长：俄或将在中非部署军事基地</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-10 22:10<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中非共和国（CAR）国防部长科亚拉（Marie Noelle Koyara）近日在接受俄媒采访时表示，存在俄罗斯在该国境内部署军事基地的可能性，双方签署的框架性协议内包含这一点，但尚未就该问题展开具体讨论。<br/><div class="contheight"></div>据俄罗斯卫星通讯社1月10日消息，科亚拉在接受其专访时表示，“我们还未谈及发展军事基地的具体内容，但两国已经签署的框架性协议没有排除这样的可能性。如果两国总统决定部署基地，这意味着我们的国家就此达成一致，作为部长我将执行这样的决定。"<br/><div class="contheight"></div>据悉，俄罗斯与中非2018年8月签署了政府间军事合作协议。协议规定双方在中非贝伦戈成立一个培训中心，当地士兵将在俄教官的帮助下训练使用武器，并学习作战方法。科亚拉强调，不应将贝伦戈军事训练中心视为俄军事基地，“但人们已经开始这么看待它。”<br/><div class="contheight"></div>自2013年以来，在穆斯林占多数的塞莱卡（Seleka）武装反对派夺取政权后，基督徒、泛灵信仰者为主的反巴拉卡（anti-balaka）民兵团体长期组织报复行动，中非共和国一直深陷宗教和种族冲突，政局十分不稳定。<br/><div class="contheight"></div>据路透社2018年12月报道，该国政府曾于2017年请求国际社会帮助打击叛军，但是受到2013年联合国售武禁令的限制，该国要获得武器必须得到联合国安理会“中非共和国制裁委员会”的批准。法国和俄罗斯都是该委员会的成员，而法国对俄罗斯在中非不断增强的影响力和军事存在感到担忧。<br/><div class="contheight"></div>据英国广播公司（BBC）2018年8月报道，三名俄罗斯记者在中非共和国调查有关俄雇佣兵“瓦格纳集团”（Wagner Group）在该国作战的消息时遇袭，三人均被枪杀。多家西方媒体分析认为，“瓦格纳集团”在中非共和国的运作与俄罗斯官方扮演的角色同步而行，作为其创始人之一的Yevgeny Prigozhin与普京关系密切。<br/><div class="contheight"></div>2018年年底，俄总统普京也就此事做出回应。他强调三名记者在中非的死亡是一场悲剧，但他们是在没有获批的情况下抵达非洲的。而关于海外雇佣兵，普京说一切都取决于俄罗斯的立法，“如果没有违反任何规定，那么‘瓦格纳’可以在世界任何地方运营，追求他们的商业利益。”<br/><div class="contheight"></div>“我们的民众对俄罗斯的认可度非常高。一谈到俄罗斯，人们都知道这是一个可以改变国家未来的成熟伙伴。”科亚拉在俄罗斯卫星通讯社的专访中说道。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘惠<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中非,俄罗斯,军事基地</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2838003">
+<div class="nbgbox">
+<a class="zan" contid="2838003" href="javascript:;" onclick="voteCont(this)" praisetimes="78">
+                           77</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 非洲</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2838003&caid=25430",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2838003&amp;caid=25430" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

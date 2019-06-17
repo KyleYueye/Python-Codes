@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">男子三次入校行窃盗走42名学生万余元生活费，20天后被抓</h1>
+<div class="news_about">
+<p>微信公众号“慈利公安”</p>
+<p>
+							2018-12-22 17:39<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">趁夜翻入校园，偷走42名学生万余元生活费，（湖南）慈利警方追查 20余天后，12月12日成功将嫌疑人抓获。经审查，嫌疑人吴某是专偷学校的惯犯，曾因在石门县某学校实施盗窃被警方打击处理过，没想到出来后不但不思悔改，反而将黑手再次伸向校园。<br/><div class="contheight"></div>11月20日，慈利警方接到江垭镇一学校报警称，一夜之间，该学校多个教室内的学生财物被盗。接报警后，民警立即赶到该校走访调查。经过清点，该校18个教室内28名学生的现金及物品被盗，总计价值3600余元。<div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/407/351.jpg" width="100%"/></div><span style="color: rgb(128, 128, 128);">本文图片均来自“慈利公安”微信公众号<br/><div class="contheight"></div></span>接到报警后，江垭派出所立即开展侦查工作，经调取学校内部及周边监控，民警发现，当天凌晨2点，有一男子趁黑翻墙进入学校，径直走到教学楼，从教室的窗户爬进教室实施盗窃。由于监控条件有限，民警无法获取嫌疑人清晰的面部特征，未能确认嫌疑人的真实身份，但是，经过追踪嫌疑人的行动轨迹，民警发现嫌疑人作案后一路步行至江垭镇三岔路附近消失。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/407/350.jpg" width="100%"/></div>锁定了嫌疑人消失地点后，民警便在三岔路附近开展排查工作，经进一步工作发现石门籍男子吴某有重大作案嫌疑。<br/><div class="contheight"></div>在排查过程中，一名有盗窃前科的人员引起了民警的注意，该男子姓吴，曾在石门县另一所中学以同样的手法实施盗窃曾被警方打击处理过。经过深入调查发现，吴某在案发前1小时还曾在学校附近一所网吧内出现过，并且吴某与在学校实施盗窃的男子身型极为相似，因此，更加有理由怀疑吴某就是警方要找的犯罪嫌疑人。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/407/349.jpg" width="100%"/></div>此后，民警曾前往吴某在石门租住的房子排查，但是一直没有发现吴某的踪迹，另一边，通过侦查实战中心视频追踪，发现嫌疑人吴某已乘车逃往常德澧县。11月12日，在常德澧县警方的协助下终于在澧县一旅馆内将逃窜了20 余天的犯罪嫌疑人吴某抓获归案。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/407/346.jpg" width="100%"/></div>经审查，吴某对其深夜窜至学校盗窃的犯罪事实供认不讳。此外，吴某还承认其曾在慈利另一所学校先后实施两次盗窃的犯罪事实，前后三次总共盗窃现金及物品总价值12000余元。目前，犯罪嫌疑人吴某因涉嫌盗窃罪已被依法刑事拘留，赃款全数追回并逐一发还至学生手中，案件正在进一步审理中。<br/><div class="contheight"></div>（原标题：《石门男子趁夜盗走42名学生万余元生活费 慈利公安20余天德山擒贼》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周琦<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 校园行窃 生活费</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2764215">
+<div class="nbgbox">
+<a class="zan" contid="2764215" href="javascript:;" onclick="voteCont(this)" praisetimes="29">
+                           28</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 行窃</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2764215&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2764215&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

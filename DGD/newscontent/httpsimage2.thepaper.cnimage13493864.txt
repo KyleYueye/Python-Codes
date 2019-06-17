@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25438">财经上下游</a>
+</div>
+<h1 class="news_title">个税自主申报：提供虚报信息等，将被纳入信用系统联合惩戒</h1>
+<div class="news_about">
+<p>韩洁/新华社</p>
+<p>
+							2018-12-25 18:52<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">2019年1月1日起，新的个人所得税法将正式实施，纳税人在每月5000元“起征点”基础上，还将享受到6项专项附加扣除政策带来的更大减税利好。<br/><div class="contheight"></div>今后纳税人缴纳个税将告别目前单位代扣、代缴为主的征管模式，实施一种“代扣代缴、自行申报、汇算清缴、多退少补、优化服务、事后抽查”的新税制征管模式。以6项专项附加扣除政策为例，每个纳税人、每个家庭的情况千差万别，税务部门不可能挨家上门核实申报情况，为便利纳税人办税，新征管模式以假定每个纳税人诚信申报为前提，纳税人只要填表申报就能享受到起征点之外更大减税政策，这对纳税人自身和全社会诚信制度建设都提出更高要求。<br/><div class="contheight"></div>实施好个税改革，让减税利好惠及更多百姓，纳税人如实申报是前提。新个税法的实施条例和个税专项附加扣除暂行办法都明确，纳税人和扣缴义务人都要按规定保存与专项附加扣除相关的资料，以备税务机关事后抽查。这意味着，如果出现纳税人造假，“无中生有”提供虚报信息等严重情况的，有关部门将依法处理，纳入信用信息系统并实施联合惩戒。<br/><div class="contheight"></div>实施好个税改革，更好服务纳税人，相关部门也要加大信息共享力度。有关部门和单位有责任和义务向税务机关提供或协助核实，通过数据交叉核对，大大提高征管效率，从而降低纳税人的遵从成本。<br/><div class="contheight"></div>对税务机关、扣缴义务人和纳税人来讲，此次个税改革都是一次全新挑战，尤其6项专项附加扣除是新生事物。对每个纳税人而言，需要理解新个税政策，弄清自主申报的操作模式，确保明明白白享受到减税红利；对扣缴义务人而言，也要加大对本单位纳税人的培训，尽职尽责、及时办理扣缴；对于税务机关来说，要加强业务指导和政策宣传，共同推动个税改革红利惠及每个纳税人。要把新事办好、好事办牢，则需要全社会共同努力营造诚信为本的征税环境。<br/><div class="contheight"></div>（原标题：个税自主申报　坚持诚信为本）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2773404">
+<div class="nbgbox">
+<a class="zan" contid="2773404" href="javascript:;" onclick="voteCont(this)" praisetimes="201">
+                           200</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 个税改革</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2773404&caid=25438",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2773404&amp;caid=25438" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

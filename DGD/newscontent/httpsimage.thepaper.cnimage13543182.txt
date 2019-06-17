@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">特朗普：美国不继续做世界警察了，因为我们得不到好处</h1>
+<div class="news_about">
+<p>张敏/海外网</p>
+<p>
+							2018-12-27 08:59<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="415" src="http://image.thepaper.cn/www/image/13/543/180.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">美国总统特朗普26日突访驻伊美军。视觉中国 图<br/><div class="contheight"></div></span>海外网12月27日消息，美国总统特朗普执意从叙利亚撤军引发美国内部不满声音。特朗普26日突访驻伊美军，他在讲话中表示，美国目前没有从伊拉克撤军的计划。特朗普表示，“美国不能继续做世界警察了”，他还抱怨说，因为这么做美国得不到“好处”。<br/><div class="contheight"></div>综合CNN、NBC、《国会山报》等美媒报道，当地时间26日晚，特朗普乘坐专机抵达位于伊拉克西部的阿萨德（Al-Asad）空军基地，这是特朗普就任总统两年来首次访问战区美军。<br/><div class="contheight"></div>特朗普当天透露，目前没有从伊拉克撤军的计划，他表示，如有必要，美国将把伊拉克用作对叙利亚采取行动的基地。CNN分析称，这暗示了驻伊美军基地未来可能被用于支持在叙利亚的军事任务。<br/><div class="contheight"></div>“美国不能再继续做世界警察了”，特朗普抱怨称，美国不应该为了别的国家而战斗，因为美国得不到“好处”。“如果别的国家想让我们战斗，他们得掏钱”。<br/><div class="contheight"></div>据海外网早前报道，此访系特朗普中东政策调整之际。特朗普早前宣布将从叙利亚撤军，遭到英、法等欧洲盟国的强烈不满，多名美国军政高官也反对特朗普撤军，美国国防部长马蒂斯愤而请辞，伊拉克也表示此举将会有重大威胁。<br/><div class="contheight"></div>自2003年对伊行动15年以来，美国仍然有超过5000名驻伊拉克军队赞襄伊政府，以打击极端势力。对特朗普撤军，伊拉克总理阿卜杜勒-马赫迪最近表示，伊拉克军队或部署到叙利亚，以保护伊拉克免受跨境威胁。<br/><div class="contheight"></div>（原题为《美国不当世界警察了？特朗普:因为我们得不到好处》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 特朗普,世界警察</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2779054">
+<div class="nbgbox">
+<a class="zan" contid="2779054" href="javascript:;" onclick="voteCont(this)" praisetimes="173">
+                           172</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 特朗普</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2779054&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2779054&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（122）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

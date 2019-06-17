@@ -1,0 +1,77 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">俄特工部门披露拘捕美“间谍”细节：身上搜出涉国家机密U盘</h1>
+<div class="news_about">
+<p>栾海/新华社</p>
+<p>
+							2019-01-04 11:28<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="377" src="http://image.thepaper.cn/www/image/13/882/371.jpg" width="600"/></div><span style='color: rgb(128, 128, 128); font-family: "Hiragino Sans GB", "Microsoft Yahei", sans-serif; letter-spacing: 0.5px;'>保罗·惠兰 视觉中国 图</span><br/><div class="contheight"></div>新华社莫斯科1月3日消息，俄罗斯媒体3日援引俄特工部门消息人士的话报道，美国人保罗·惠兰日前被俄方抓捕，原因是他试图从一名俄籍人士那里获取涉及俄国家机密的U盘。此外，惠兰长期通过俄社交网络拉拢经美国情报机关筛选、可能涉密的俄罗斯人。<br/><div class="contheight"></div>据俄罗斯波罗的海通讯社3日报道，2018年12月28日，惠兰在其居住的莫斯科大都会酒店房间拿到了一名俄罗斯故交带来的U盘，该设备中存储有某保密单位所有工作人员的名单。惠兰获取U盘后数分钟，俄联邦安全局办案人员闯进惠兰的房间，将其当场抓获，并从他身上搜出U盘。<br/><div class="contheight"></div>俄特工部门一名消息人士披露，惠兰10年前注册了多个俄社交网络账号，并经常在网上结识俄罗斯人。近两年来，惠兰与某些俄网友建立了稳固联系并开始到访莫斯科。惠兰线下接触的这些网友多为男性，在双方攀谈时惠兰会进一步观察该网友是否掌握美国情报机关感兴趣的情报，或者其有无亲友能接触这类情报。一旦发现“猎物”，惠兰就会尽可能与其建立信任关系，甚至参加网友的家庭庆祝活动，进一步对其进行拉拢。上月28日与惠兰在大都会酒店见面的俄罗斯人，就曾被惠兰多次拉拢以获取俄相关机关工作人员信息。<br/><div class="contheight"></div>这名消息人士还表示，惠兰早年曾在美国海军陆战队服役并在伊拉克作战，后来据称因“盗窃”被开除，并随即成为美国某汽车零部件供应知名企业的员工，但这一经历有可能是美情报机关设计的“障眼法”。在该企业工作期间，惠兰学习俄语并接受特工训练。<br/><div class="contheight"></div>另据俄新社3日报道，惠兰的律师当天表示，莫斯科列福尔托沃区法院因惠兰涉嫌从事间谍活动批准对其实施逮捕，律师方将就这一批捕裁决向莫斯科市法院提出上诉。该律师说，惠兰目前充满自信并希望对其进行客观调查。据悉，美驻俄大使洪博培本月2日在莫斯科探望了被俄方拘留的惠兰，并表示美驻俄使馆将对其提供支持。<br/><div class="contheight"></div>（原题为《俄特工部门披露拘捕美“间谍”细节》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2811639" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">俄罗斯正式指控美国前海军军官从事间谍活动</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2803385" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">在俄被捕美国公民曾是海军军官，在伊拉克服役</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2801334" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">俄罗斯称抓获1名美国籍间谍嫌疑人，美方要求允许领事探视</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：顾亚敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 俄拘捕美“间谍”</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2812152">
+<div class="nbgbox">
+<a class="zan" contid="2812152" href="javascript:;" onclick="voteCont(this)" praisetimes="45">
+                           44</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 俄拘捕美“间谍”</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2812152&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2812152&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

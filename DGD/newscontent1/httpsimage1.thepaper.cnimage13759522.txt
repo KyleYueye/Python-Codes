@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">有一说｜体坛这一年：谁的笑靥如花，谁的眼泪在飞？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 吕京笏</p>
+<p>
+							2018-12-31 18:17<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">今天是2018年的最后一天。<br/><div class="contheight"></div>回首这一年的体育界，我们见证了崭新帷幕的开启。辽宁横扫广厦，加冕CBA新王，23年六次亚军见证着时代更迭，修成正果；道阻且长，行则将至，几代上海足球人的辛勤耕耘，在上港举杯的瞬间，翻滚升腾；姆巴佩、格列兹曼、博格巴、吉鲁……年轻的名字承担起了法国足球二十年未竟的心愿，西伯利亚的大地上，高卢雄鸡的啼鸣再度响彻全球；34岁的莫德里奇，打破“梅罗”对金球奖的十年垄断，十年如一日的勤勤恳恳，克罗地亚魔笛实至名归……<br/><div class="contheight"></div>我们与一座座丰碑擦肩而过。时间总是太快，曾熟悉的一切转瞬间就化为了不能承受的生命之轻。我们感伤，曾长发飘逸的潘帕斯秃鹫栖息在了圣安东尼奥的枝桠，“妖”隐江湖，刀锋入鞘；我们祈求时间走得慢一些，让“闪电侠”韦德的最后一舞没有休止符；我们害怕那辆叫做“诺维茨基”的德国战车停下来，金鸡独立的画面永远定格。<br/><div class="contheight"></div>我们见证了太多的精彩与感动。43岁的文斯·卡特还在撕裂着每一寸天空；罗斯豪取50分，凤城玫瑰又绽放，一声嘶吼，永远热泪盈眶。世界网坛上，36岁的费德勒拿下个人第20个世界冠军，时隔五年重回世界第一的宝座，令无数球迷泪目。所以，别去感伤时间，多问问自己，新年已至，昔我是否还在？做好该做的事，也就标注好了时间的分量，你涂下的每一抹底色，都不会褪去。<br/><div class="contheight"></div>这一年的中国体坛，告别语重生同行。丁彦雨航与周琦让中国人的身影又一次在NBA闪耀，然而在这个激烈的篮球王国，巨大的挑战还横亘在面前，梦想之花的绽放，尚需不断的努力和坚持。哈尔姆斯塔德世乒赛，中国男女队大获全胜；12月，“不懂球的胖子”正式回归，出任中国乒协主席；而年终总决赛的滑铁卢和张本智和的横空出世，也让“梦之队”乃至全体国人再次认清了群狼环伺的局面，虎口拔牙绝非易事。体坛改革再出发，“四大帽”投入限制，U23政策、U21政策、外援政策，年末的总结大会为中国足球找到了症结，指明了方向，但绝非一劳永逸。<br/><div class="contheight"></div>2018，中国速度再次惊艳世界。“百米飞人”苏炳添两次追平百米亚洲纪录、三次刷新60米亚洲纪录，以9秒92的成绩打破破赛会纪录，夺得雅加达亚运会冠军；徐嘉余在亚运会上狂揽5金，又在11月打破了短池100米仰泳的世界纪录，毫无争议地当选2018年国际泳联最佳突破奖；冰场上，一项保持了6年无人能够触及的世界纪录，被武大靖三次改写。平昌冬奥会，武大靖一天内2次刷新500米世界纪录最终夺冠，11月又在世界杯盐湖城站继续展现中国速度。<br/><div class="contheight"></div>体坛是他们的，精彩与感动却是全世界的。有人读出了坚守的可贵，我们不能阻挡时间的流逝，却可以坚守初心。有人懂得了奋斗的价值，奋斗是一扇“任意门”，连接着过往和当下，让拼搏的人在生命的旅途中同频共振。有人理解了时间的力量，时间的刻度上，清晰记录着每一个人的脚步，或坚定铿锵，或浅尝辄止。时间会在某一刻回报以同等的馈赠。<br/><div class="contheight"></div>年轮又添新纹。当2018号列车完成使命顺利进站，2019号列车又载着我们出站。就带着沉甸甸的记忆踏上新征程吧。期待这一年的体坛，继续书写精彩与传奇。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 2018体坛</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2800103">
+<div class="nbgbox">
+<a class="zan" contid="2800103" href="javascript:;" onclick="voteCont(this)" praisetimes="98">
+                           97</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 2018体坛</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2800103&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2800103&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

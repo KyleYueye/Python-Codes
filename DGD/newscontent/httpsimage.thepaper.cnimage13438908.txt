@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">新时代 新作为 新篇章| 前海：打造新时代改革开放前沿</h1>
+<div class="news_about">
+<p>央视网</p>
+<p>
+							2018-12-23 22:48<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="470" src="http://image.thepaper.cn/www/image/13/438/921.jpg" width="600"/></div>央视网12月23日消息（新闻联播）：深圳前海，被称为我国特区中的特区，6年前，习近平总书记曾在这里发出“改革开放再出发”的号召。今年10月，总书记再次来到这里，指出“改革开放道路必须一以贯之、锲而不舍、再接再厉”。<br/><div class="contheight"></div>落实总书记要求，6年来，前海坚持高水平开放、高标准改革，为我国新时代改革开放探索新路径，积累新经验。<br/><div class="contheight"></div>深圳前海，高楼林立，一派勃勃生机，而6年前，这里还是一片滩涂。2012年12月，刚刚就任总书记的习近平，离京考察的第一站，就来到深圳，来到了前海。<br/><div class="contheight"></div>依托香港、服务内地、面向世界。从那时起，前海开始从一片滩涂起步，描绘新时代改革开放的新画卷。而这幅画卷让一直想进入内地证券市场的外资金融企业看到了机会。制度创新能不能在金融等领域有所突破，关系到前海是否能够胜任改革尖兵的能力。在国家相关部门的支持下，前海推出了一整套新办法、新制度，吸引了一批外资金融企业入驻。<br/><div class="contheight"></div>营商环境制度创新也紧随其后。在前海，港澳台与涉外商事纠纷当事人，可以依法自由选择适用港澳台或者外国法律作为准据法来处理纠纷。<br/><div class="contheight"></div>前海先后推出364项制度创新成果，全国首创或领先达133项，在全国复制推广28项。创新带来的是：第一家港资控股证券公司落户；第一家粤港澳合伙型律师事务所落户；第一个跨境人民币贷款启动；第一个实现跨境双向股权投资；第一家民营和互联网银行成立。<br/><div class="contheight"></div>短短几年间，曾经的一片滩涂变身为一座现代化新城，182栋建筑主体结构封顶，其中建成并交付使用99栋。17万多家企业落户前海。今年10月，这里再次迎来习近平总书记。<br/><div class="contheight"></div>在这里，总书记指出，实践证明，改革开放道路是正确的，必须一以贯之、锲而不舍、再接再厉。落实总书记要求，最近，前海一次性再次推出132项改革创新措施。<br/><div class="contheight"></div>如今在前海，“一门式”行政审批服务机制，企业注册最快1小时拿证，外资企业注册仅需2天；6年来，入驻前海的世界500强企业352家，内地上市企业623家。片区企业实现年增加值超过2000亿元，年均增速41%；实现税收超过400亿元，年均增速49%。<br/><div class="contheight"></div>（原题为《【新时代 新作为 新篇章】潮起前海：打造新时代改革开放前沿》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王建亮<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 深圳,改革开放,前海</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2767153">
+<div class="nbgbox">
+<a class="zan" contid="2767153" href="javascript:;" onclick="voteCont(this)" praisetimes="16">
+                           15</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 深圳前海</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767153&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767153&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

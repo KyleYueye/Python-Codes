@@ -1,0 +1,82 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">SIHH2018|芝柏：经典演绎新风尚</h1>
+<div class="news_about">
+<p>钟天阳</p>
+<p>
+							2018-01-27 14:09<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+<p style="line-height: 20px; margin-bottom:5px">
+<img alt="" src="//file.thepaper.cn/www/v3/img/topic.gif" style="float:left">
+<a href="newsDetail_forward_30413" target="_blank">
+<span class="news_topic">
+                              【专题】专题｜聚焦2018SIHH日内瓦高级钟表沙龙</span>
+</a>
+</img></p></div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard"><u>今年芝柏在革新上的决心昭昭，大刀阔斧地将过去经典的设计和功能推陈出新，让人看到耳目一新的年轻面貌。尤其是在Laureato桂冠系列手表中推出了多款新的配色、新的功能以及从未使用过的崭新材质，这个有着悠久历史的经典品牌也因此焕发出全新的活力。<br/><div class="contheight"></div></u><div style="text-align:center;"><img alt="" height="492" src="http://image.thepaper.cn/www/image/6/760/750.jpg" width="600"/></div><br/><div class="contheight"></div><span style="color: rgb(153, 153, 153);">经典设计以全新材质演绎，让桂冠系列焕发崭新活力。<br/><div class="contheight"></div></span>最让人惊喜的是芝柏表推出的全新陶瓷款桂冠系列腕表。Laureato桂冠系列拋光细致的八角形表圈，将表壳的所有结构融为一体，成就无表耳或表环的造型，也成为芝柏最受欢迎的经典腕表设计。如今这个系列第一次以黑白陶瓷表现，佩戴时倍感舒适，更加体现系列人体工学的技艺。<br/><div class="contheight"></div>全黑款的Laureato桂冠系列陶瓷腕表，从表壳到表链都经过不同抛光手法相互交替，颜色或深或浅，制造特别的视觉效果，并由饰有巴黎钮钉（Clou de Paris）图案的表盘继续延伸。此外，Laureato桂冠系列38毫米更以清新的白色示人，以透亮的白陶瓷表壳及表带展现与众不同的个性。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="508" src="http://image.thepaper.cn/www/image/6/760/751.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">左图是经典的三金桥陀飞轮设计，右图是革新后的镂空新三桥Neo Tourbillon陀飞轮腕表。<br/><div class="contheight"></div></span>芝柏最著名的设计就是以三座金桥构筑的陀飞轮机制，不仅极具视觉冲击力，更极具建筑美感。这个1884年获得专利注册的设计，如今几经发展，已经展现出全新的面貌。比如这款全新的镂空新三桥Neo Tourbillon陀飞轮腕表，一改金桥的传统设计，转而以打磨细致的黑色细长搭桥纵横交错而成，多道曲线和切面汇聚成极具未来感视觉效果。<br/><div class="contheight"></div>腕表搭载的钛金属制的陀飞轮由80件零件所组成，能有效确保陀飞轮运作的稳定性和减低摩擦阻力。大直径的摆轮加上飞利浦终端曲线（Phillips Terminal Curve）的摆轮游丝和瑞士杠杆式擒纵装置，驱动着陀飞轮系统以每分钟旋转一圈的速度运作。整个组装完成的陀飞轮连框架，重量只有0.25克。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="472" src="http://image.thepaper.cn/www/image/6/760/760.jpg" width="300"/></div><span style="color: rgb(153, 153, 153);">三座金桥减少到两座，而原本的陀飞轮也换成了悬挂的游丝摆轮。如此一来，既保留了经典设计的美感，又极大地降低了价格。<br/><div class="contheight"></div></span>同样是做减法，芝柏表不仅擅长以高科技材质对三金桥设计做镂空，更擅长结构游戏，让经典机芯与设计相融合展现出全新面貌。全新的非凡金桥腕表(Classic Bridges) GP芝柏表制表历史中最具代表性的三金桥设计作出了前所未有的演绎——三座金桥减少到两座，而原本的陀飞轮也换成了悬挂的游丝摆轮。如此一来，既保留了经典设计的美感，又极大地降低了价格，殿堂级的设计于是有了更具亲和力的款式。</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<!-- 审稿人字段 -->
+<!-- 空格分隔后的作者列表-->
+<div class="news_editor">责任编辑：张颖<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="1966286">
+<div class="nbgbox">
+<a class="zan" contid="1966286" href="javascript:;" onclick="voteCont(this)" praisetimes="11">
+                           10</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日内瓦表展</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=1966286&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=1966286&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

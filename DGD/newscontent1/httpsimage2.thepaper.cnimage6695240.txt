@@ -1,0 +1,76 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">并不是所有美容仪，都会和你想象的一样有效果</h1>
+<div class="news_about">
+<p>刘嘉郦</p>
+<p>
+							2018-01-15 10:24<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>单纯使用护肤品已经不能满足想要追求年轻态的消费者们的愿望了，扩大产品效果、让肌肤更年轻更娇嫩、保持紧致状态等才是他们想要不断努力的方向。于是一系列美容仪应运而生，只要你有心，甚至可以在家中配置出一套足以媲美专业美容院的产品。可问题也随之产生，那些你曾经购买的产品，是不是真的很有用？</u><br/><div class="contheight"></div><strong>让脸变得更干净？美容仪可以帮你忙<br/><div class="contheight"></div></strong>清洁类美容仪自从上市以来，就广受欢迎，它不仅仅攻占了女性消费者的心，对于很多男性消费者来说，也已经成为了家中的必备品，尤其是在夏天，这种能够彻底清洁面部的产品更是相当受欢迎。<br/><div class="contheight"></div>简单来说，利用物理方式来对面部进行清洁的美容仪可以分为声波和旋转两种方式，声波洁面仪主要依靠震动来实现清洁，如果振动频率比较低的话，那么效果就会产生影响，但另一方面来说，由于减少了水平面上的摩擦，因此其对于肌肤的损伤会比较小。使用旋转方式进行清洁的洁面仪则会是通过拉力来实现肌肤清洁，优点在于清洁力好，而缺点则在于可能对肌肤造成一定的刺激。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="347" src="http://image.thepaper.cn/www/image/6/695/186.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">（由左至右）Clarisonic科莱丽Mia 2声波便携型声波洁面仪、Foreo露娜Luna2净透舒缓洁面仪、Nuskin如新Lumispa洗脸仪<br/><div class="contheight"></div></span>相比较单纯的用手洗脸，清洁类美容仪的优势更加明显，那就是真的会比手洗更干净。不过需要提醒的是，就算如此，你也不能把护肤的全部重点全都丢给它们。该卸妆的时候不要偷懒，有了痘痘也别指望光靠清洁来解决问题，同时还要记得每次用完了清洁类美容仪，都要做好仪器本身的清洁工作，否则也可能产生细菌滋生的问题。毕竟作为一个真正想要皮肤变好的人，你真的应该保持理性的。<br/><div class="contheight"></div><strong>对抗地心引力？光靠美容仪可不行<br/><div class="contheight"></div></strong>法令纹、木偶纹、抬头纹……所有纹路的出现都会让人心惊胆颤，于是但凡出现一款号称具有能够“有效紧致肌肤”、“明显改善皱纹”的产品，就会叫人心动不已，想要买来试一试。<br/><div class="contheight"></div>可是这些产品真的有用吗？答案是不一定。<br/><div class="contheight"></div>为什么？原因十分简单，那便是研究数值与实际操作其实根本就是两回事。只要问问你自己，是否能够做到产品使用说明书上的使用建议就能知道为什么这些号称有用的产品其实并不怎么有用的原因了。一天一次、每次20分钟、全脸使用并分区块进行加强或者每周1-3次、配合凝胶使用……这些看上去十分简单的词汇，其实背后有着非常严格的使用频率要求，买回家时的雄心壮志常常会被现实磨得剩不下多少，想起来之后再用一下的效果，当然不能与进行研究时相比，要知道，实验室里的研究，那可是定时、定量、定性使用的，绝对不是三天打鱼两天晒网的样子。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="324" src="http://image.thepaper.cn/www/image/6/695/187.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">（从左至右）Refa Carat、TriPollar、24K黄金美容棒<br/><div class="contheight"></div></span>如果你坚信自己能够每天坚持使用这些美容仪的话，那么久而久之，你一定会看到效果，有时候甚至用不了一年，你就能感受到肌肤的变化，但要是你对“坚持”二字并没有什么很大的信心，却还想买产品的话，那么也没关系，毕竟心理安慰有时候也挺重要的。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<!-- 审稿人字段 -->
+<!-- 空格分隔后的作者列表-->
+<div class="news_editor">责任编辑：李淑平<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="1948130">
+<div class="nbgbox">
+<a class="zan" contid="1948130" href="javascript:;" onclick="voteCont(this)" praisetimes="4">
+                           3</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美容</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=1948130&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=1948130&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

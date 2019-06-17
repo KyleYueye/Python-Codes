@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">释新闻｜互联网法院开庭如何旁听</h1>
+<div class="news_about">
+<p>温婧/北京青年报</p>
+<p>
+							2018-09-12 07:10<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">9月9日，北京互联网法院挂牌成立，来自法院的消息称，“抖音短视频”诉“伙拍小视频”信息网络传播权纠纷成为北京互联网法院受理的第一案。<br/><div class="contheight"></div><strong>两天平台访问量超20万次</strong><br/><div class="contheight"></div>北京互联网法院公布的数据显示，截至9月10日18时，该平台总访问量达20.73万次，注册用户586人，共接到网上立案申请207件。而“抖音短视频”诉“伙拍小视频”信息网络传播权纠纷成为北京互联网法院受理的第一案。<br/><div class="contheight"></div>据了解，该案是原告在北京互联网法院电子诉讼平台以线上方式提交的诉讼材料及立案申请，经北京互联网法院立案庭法官在线审核后，案件已被正式受理。根据互联网法院的介绍，法院将按照“网上案件网上审理”的基本思路，通过全流程一体化在线服务平台，实现案件起诉、调解、立案、送达、庭审、宣判、执行、上诉等诉讼环节的在线进行，当事人可通过其注册的账号实时掌握案件进展情况。<br/><div class="contheight"></div><strong>后续会开放旁听人员申请<br/><div class="contheight"></div>网友可在线申请旁听</strong><br/><div class="contheight"></div>北京互联网法院的工作人员告诉北京青年报记者，目前，“旁听”功能正在开发中，后续会开放旁听人员的申请。届时，网友可以在线申请旁听，由法官审核后，下载客户端并注册账号，就可以观看自己申请案件的审理旁听了。“后续我们会有客户端正式公布，目前客户端还在测试中。”他同时表示，当事人也可以通过“远程开庭”客户端参与庭审，在北京互联网法院首页的电子诉讼平台上即可下载，不过目前仅支持PC端。<br/><div class="contheight"></div><strong>短视频行业法律保护处于探索期</strong><br/><div class="contheight"></div>9月10日，互联网法院公开发布其受理的第一案。据悉，原告北京微播视界科技有限公司诉称，“抖音短视频”系由原告合法拥有并运营的原创短视频分享平台。原告对于签订独家协议的创作者创作的短视频，获得了独家排他的信息网络传播权以及独家维权的权利。<br/><div class="contheight"></div>“抖音短视频”平台上发布的“5·12，我想对你说”短视频（以下简称涉案短视频），由涉案短视频创作者“黑脸V”独立创作完成，应作为作品受到我国著作权法的保护。被告一百度在线网络技术（北京）有限公司和被告二北京百度网讯科技有限公司共同向用户提供“伙拍小视频”的下载、安装、运营和相关功能的更新、维护，并对“伙拍小视频”进行宣传和推广。原告发现，涉案短视频在抖音平台发布后，二被告未经原告许可，擅自将涉案视频在其拥有并运营的“伙拍小视频”上传播并提供下载服务。原告要求二被告停止侵权，并赔偿原告经济损失100万元及诉讼合理支出5万元。<br/><div class="contheight"></div>值得一提的是，该案在侵权取证中，由第三方平台北京“中经天平”进行了区块链取证，这也是视频行业在维权中首次使用“区块链”这一前沿取证技术。法院认为，目前，国内外对短视频行业的法律保护均处于探索期。本案作为两大平台之间就短视频版权进行的首次诉讼，其中涉及的短视频是否构成作品，短视频平台之间、短视频平台与用户之间的权利边界，区块链取证存证技术在司法中的应用等问题值得关注。<br/><div class="contheight"></div>（原题为《互联网法院开庭如何旁听》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张珺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 互联网法院</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2431456">
+<div class="nbgbox">
+<a class="zan" contid="2431456" href="javascript:;" onclick="voteCont(this)" praisetimes="51">
+                           50</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 互联网法院</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2431456&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2431456&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

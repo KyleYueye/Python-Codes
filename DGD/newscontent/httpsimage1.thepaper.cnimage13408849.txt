@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25438">财经上下游</a>
+</div>
+<h1 class="news_title">国务院印发《个人所得税专项附加扣除暂行办法》</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-22 20:03<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2763948" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">一图读懂个税专项附加扣除：大病医疗扣除上限提高2万元</span></a></img></p></div>
+<div class="news_txt" data-size="standard">新华社北京12月22日消息，国务院日前印发《个人所得税专项附加扣除暂行办法》（以下简称《办法》），自2019年1月1日起施行。<br/><div class="contheight"></div>《办法》指出，个人所得税专项附加扣除，是指个人所得税法规定的子女教育、继续教育、大病医疗、住房贷款利息或者住房租金、赡养老人等6项专项附加扣除。《办法》共有9章32条，明确了专项附加扣除的原则和6项专项附加扣除的扣除范围、扣除标准、扣除方式，以及保障措施等内容。<br/><div class="contheight"></div>《办法》规定，纳税人子女在全日制学历教育阶段（包括义务教育、高中阶段教育、高等教育）的支出，以及子女年满3岁至小学入学前处于学前教育阶段的支出，纳税人可选择由夫妻一方按每孩每月1000元扣除，也可选择夫妻双方分别按每孩每月500元扣除。<br/><div class="contheight"></div>《办法》规定，纳税人在中国境内接受继续教育发生的支出，其中属于学历（学位）继续教育的支出，按每月400元扣除，扣除期限不能超过48个月（4年）；属于技能人员职业资格继续教育和专业技术人员职业资格继续教育的支出，在取得相关证书的当年扣除3600元。<br/><div class="contheight"></div>《办法》规定，一个纳税年度内，由纳税人负担的医药费用支出超过1.5万元的部分，在每年8万元的限额内据实扣除。可扣除的医药费用支出包括纳税人本人或其配偶、未成年子女发生的医药费用支出。<br/><div class="contheight"></div>《办法》规定，纳税人本人或其配偶购买中国境内住房发生的首套住房贷款利息支出，可以选择由夫妻一方按每月1000元扣除，扣除期限最长不超过240个月（20年）。<br/><div class="contheight"></div>《办法》规定，纳税人在主要工作城市没有自有住房而发生的住房租金支出，在直辖市、省会（首府）城市、计划单列市及国务院确定的其他城市的，按每月1500元扣除；除上述城市外，市辖区户籍人口超过100万的城市，按每月1100元扣除；市辖区户籍人口不超过100万的城市，按每月800元扣除。夫妻双方主要工作城市相同的，只能由一方扣除。<br/><div class="contheight"></div>《办法》规定，纳税人赡养年满60岁父母的支出，或者祖父母、外祖父母的子女已经去世，纳税人赡养年满60岁的祖父母或外祖父母的支出可以扣除。纳税人属于独生子女的，按每月2000元扣除；属于非独生子女的，与其兄弟姐妹分摊每月2000元的扣除额度，其中每人分摊的扣除额度不得超过1000元。<br/><div class="contheight"></div>《办法》要求，有关部门和单位有责任和义务向税务部门提供或协助核实与专项附加扣除有关的信息。同时明确，根据教育、医疗、住房、养老等民生支出变化情况，适时调整专项附加扣除范围和标准。<br/><div class="contheight"></div>（原题为《国务院印发＜个人所得税专项附加扣除暂行办法＞》）</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 《个人所得税专项附加扣除暂行办法》,6项</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2764397">
+<div class="nbgbox">
+<a class="zan" contid="2764397" href="javascript:;" onclick="voteCont(this)" praisetimes="1899">
+                           1898</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 个人所得税</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2764397&caid=25438",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2764397&amp;caid=25438" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（270）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

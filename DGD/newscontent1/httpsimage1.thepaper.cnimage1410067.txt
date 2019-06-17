@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25423">人事风向</a>
+</div>
+<h1 class="news_title">国务院原副秘书长江小涓的新职务</h1>
+<div class="news_about">
+<p>澎湃新闻记者 蒋子文</p>
+<p>
+							2019-01-10 09:14<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="399" src="http://image.thepaper.cn/www/image/14/100/73.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">江小涓教授于去年11月正式就任清华大学公共管理学院院长。 人民网 图<br/><div class="contheight"></div></span>被称为“学者型官员”的国务院原副秘书长江小涓在受聘出任清华大学公共管理学院院长后，近日再添新职。<br/><div class="contheight"></div>据新华社1月9日报道，2019年1月8日，中国行政管理学会第七次代表大会在北京召开，国务委员兼国务院秘书长肖捷出席会议并讲话。大会选举产生了中国行政管理学会第七届理事会，选举江小涓为中国行政管理学会会长。<br/><div class="contheight"></div>公开资料显示，江小涓是一名女性干部，出生于1957年6月，陕西西安人，经济学博士，研究员，教授，博士生导师。<br/><div class="contheight"></div>1981年，江小涓毕业于陕西财经学院（现西安交通大学经济与金融学院）工业经济系并留校任教，后于1986年起在作为官方智囊机构之一的中国社科院学习、工作，其间逐渐成长为国内知名的跨国投资、产业经济、经济发展等方面的专家，对中国体制转轨中的产业升级、外商在华并购、中国对外贸易理论等领域有大量的著述。<br/><div class="contheight"></div>2004年，江小涓出任国务院研究室副主任、党组成员，于2009年任党组副书记、副主任。2011年，时年54岁的江小涓转任国务院副秘书长。<br/><div class="contheight"></div>2018年3月，江小涓当选为十三届全国人大社会建设委员会副主任，同年6月被免去国务院副秘书长职务。<br/><div class="contheight"></div>2018年11月，江小涓获聘任为清华大学公共管理学院院长。清华大学校长邱勇称，江小涓教授学术水平高，业务能力强，是我国宏观经济和产业经济领域的著名学者，而且曾长期在公共部门担任领导职务，对公共政策的制定非常熟悉，具有理论与实践相结合的突出优势。<br/><div class="contheight"></div>值得一提的是，被外界称为“学者型官员”的江小涓长期研究宏观经济、企业改革、产业发展和对外开放问题，曾三次荣获孙冶方经济科学奖、中国经济理论创新奖等荣誉。<br/><div class="contheight"></div>江小涓此次履新的中国行政管理学会是国务院办公厅主管的研究行政管理理论与实践、为政府管理提供参谋咨询服务的全国性学术团体。<br/><div class="contheight"></div>此前担任该学会会长一职的是出生于1948年、曾任中央编办副主任等职的王澜明。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王俊<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 社团人事，江小涓，中国行政管理学会</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2834558">
+<div class="nbgbox">
+<a class="zan" contid="2834558" href="javascript:;" onclick="voteCont(this)" praisetimes="137">
+                           136</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 社团人事</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2834558&caid=25423",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2834558&amp;caid=25423" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

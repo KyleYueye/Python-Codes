@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">九旬老人时隔十年再诉七子女，要求增加每月25元的赡养费</h1>
+<div class="news_about">
+<p>@北京青年报</p>
+<p>
+							2018-12-24 12:39<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">@北京青年报 12月24日消息，年近九旬的李老汉因七个子女不尽赡养义务，相隔十年后再次走上法庭，要求七个子女在原本每月25元的基础上增加赡养费，并分担医疗支出、轮流照顾自己的一日三餐。近日，北京通州法院审结此案，最终判决支持了李老汉的诉讼请求，要求其子女将赡养费增至每人300元。<br/><div class="contheight"></div>据李老汉称，其与妻子共生有六个儿子、一个女儿，目前均已经成家立业。2008年李老汉的妻子去世后，其一直独自生活。同年，因子女不尽赡养义务，李老汉起诉至法院，后双方达成一致意见，李老汉同意每个儿子每月给付25元生活费，共同负担医疗费用，一日三餐由几个儿子轮流送到住处。但在履行过程中，有的儿子送的饭菜质量很差，有时还属剩饭剩菜，自己实在难以下咽。现在身体大不如前，需要时时挂着“尿袋”，并定期更换。即使国家每个月给付几百块钱的补贴，医疗费用支出也比较困难。考虑到长子至今未婚且无子女，身体半身不遂，生活困难，李老汉决定不再向长子主张赡养费，但要求其他孩子增长赡养费金额，并分担医疗支出。<br/><div class="contheight"></div>通州法院经审理认为，李老汉现已年近九旬，缺少劳动能力和经济来源，生活自理存在困难，加之上次赡养事宜的处理时间距今已有十年之久，物价水平和生活成本均有所提高，故判决将李老汉主张的赡养费用增加至每人300元，并由承担义务的各方分担医疗支出，轮流照顾李老汉的一日三餐。希望各方能尽心尽力承担赡养义务，照顾好老人的饮食起居和身体状况，能够使老人安度晚年，营造融洽相处、尊老爱幼的和谐家庭氛围，为晚辈树立榜样。（本文原题为《七子女不尽赡养义务 九旬老人时隔十年再上法庭》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 赡养老人</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768345">
+<div class="nbgbox">
+<a class="zan" contid="2768345" href="javascript:;" onclick="voteCont(this)" praisetimes="52">
+                           51</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 赡养老人矛盾</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768345&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768345&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（640）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

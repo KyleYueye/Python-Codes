@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美政府停摆进入第三周，特朗普为建边境墙或宣布紧急状态</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2019-01-07 08:40<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网1月7日消息，综合报道，美国联邦政府部分停摆已经进入第三周，5日和6日，国会领袖和白宫官员继续举行谈判，但目前看来并未取得重大进展。美国总统特朗普仍表示，坚持要建造边境墙，甚至可能宣布美国进入紧急状态。<br/><div class="contheight"></div><strong>特朗普：或宣布美国进入紧急状态</strong><br/><div class="contheight"></div>特朗普仍坚持要求民主党人为他提出的数十亿边境墙经费在国会“开绿灯”，尽管民主党参众两院的领袖已经多次表示不会为此放行。<br/><div class="contheight"></div>当地时间6日早上，特朗普在前往戴维营之前，于白宫对媒体表示，“我可能会宣布国家进入紧急状态”，以此避开国会的阻拦。他表示，将根据在今后几天各方的谈判情况来做决定。<br/><div class="contheight"></div>白宫发言人桑德斯也称，总统准备在必要的时候绕开国会，宣布美国进入紧急状态，并在美墨边境建造边境墙。“白宫一直寻找每一种可行的方案来得到建墙经费”，桑德斯对福克斯新闻表示，“特朗普将会为保护我们的边境做任何事情”。<br/><div class="contheight"></div>特朗普还表示，他计划召集美国钢铁公司和其他钢铁公司的负责人，为边境墙提出新设计方案。特朗普政府已经花费数百万美元在加州圣地亚哥边境口岸附近建造了数个边境墙模型。他此前还说要建造一个钢筋混凝土结构的边境墙。<br/><div class="contheight"></div>“我会要求这些公司设计出漂亮的钢铁产品”，特朗普说，“我们将把它用于边境障碍物”。<br/><div class="contheight"></div>白宫代理幕僚长马尔瓦尼称，特朗普愿意以钢栅栏取代混凝土墙，证明特朗普有诚意解决政府停摆的问题。<br/><div class="contheight"></div>马尔瓦尼指出，如果这么做能让民主党觉得特朗普已经妥协，将能让大家朝着正确的方向前进。<br/><div class="contheight"></div><strong>国会与白宫协商缺乏进展</strong><br/><div class="contheight"></div>5日，国会领袖和白宫官员在华盛顿会谈了几个小时，试图结束政府部分停摆的状态，但没有取得进展。<br/><div class="contheight"></div>白宫高级顾问、特朗普的女婿库什纳和国土安全部长尼尔森也参加了会议，尼尔森就边境安全问题做了全面汇报。民主党人则要求呈上国土安全部预算需求的书面详细说明，白宫表示会提供相关信息。<br/><div class="contheight"></div>领导白宫谈判的副总统彭斯形容这是一次“颇有成效”的会谈，但没有出席这场会谈的特朗普过后却在推特上泼冷水说，有关会谈“毫无进展”。<br/><div class="contheight"></div>根据一名与会的消息人士说，民主党人告诉白宫，正是因为政府停摆，导致谈判越来越难，因此要求先恢复政府的运作，但遭到拒绝。<br/><div class="contheight"></div>另据《纽约时报》报道，彭斯等白宫代表也再次向民主党人提出，以“追梦人”计划作为交换条件，即给童年时期非法入境美国的数百万移民合法居留身份，换取兴建围墙的资金。<br/><div class="contheight"></div>众院议长佩洛西则表示，众院民主党人打算通过个别开支法案，以让政府重新运转。<br/><div class="contheight"></div>（原题为《美政府停摆进入第三周 特朗普：或宣布紧急状态》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国政府,特朗普</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2822911">
+<div class="nbgbox">
+<a class="zan" contid="2822911" href="javascript:;" onclick="voteCont(this)" praisetimes="106">
+                           105</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 特朗普</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2822911&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2822911&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（53）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

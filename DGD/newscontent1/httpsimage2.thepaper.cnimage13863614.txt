@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">俄滨海边疆区一只老虎袭击边防军犬，目前已被逮捕</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2019-01-03 18:46<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据中新网1月3日援引俄罗斯卫星网报道，俄罗斯“豹之乡”国家公园新闻中心发布消息称，一只阿穆尔虎疑似叼走乌苏里斯克边防军人的两只军犬，目前，它已被专业人士捕获。<br/><div class="contheight"></div>上周，俄联邦安全局滨海边疆区边境管理局表示，在乌苏里斯克边境泰加林区，有两只军犬在夜里从上锁的兽笼里消失。人们在带刺的铁丝网上，找到几片老虎皮毛，所以边防人员猜测，军犬可能被老虎叼走了。据悉，这片区域属于“豹之乡”国家公园。<br/><div class="contheight"></div>据消息称：“经过现场查看，专家发现，确实有只阿穆尔虎到过这里，但行为反常。它不猎捕有蹄动物，而是闯过几个栅栏攻击军犬。专业人员在事发地段布下新的相机陷阱，两天后，即2018年12月31日，老虎再次出现在边防哨所。”<br/><div class="contheight"></div>这一次，老虎在这里长时间走来走去。哨所人员尝试用火和空包弹吓走它，但它并不理会。据报道，这只老虎后腿有点瘸。<br/><div class="contheight"></div>当地时间1月2日晚上，老虎再次来到哨所。这一次，它被抓住了，并送往位于阿列克谢耶夫卡镇的珍稀动物康复中心，不久将接受检查。<br/><div class="contheight"></div>“豹之乡”国家公园新闻中心表示：“老虎行为反常可能是伤病导致，也可能是因为它年纪比较大了。但无论什么原因，它的反常行为已对人构成威胁，因此决定将其捕捉。”<br/><div class="contheight"></div>（原标题 《俄滨海边疆区一只老虎袭击边防军犬 目前已被逮捕》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 俄罗斯</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2809897">
+<div class="nbgbox">
+<a class="zan" contid="2809897" href="javascript:;" onclick="voteCont(this)" praisetimes="160">
+                           159</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 俄罗斯老虎</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2809897&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2809897&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（50）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

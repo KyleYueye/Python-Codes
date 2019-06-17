@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">白宫发表声明：美国已开始从叙利亚撤军</h1>
+<div class="news_about">
+<p>央视新闻移动网</p>
+<p>
+							2018-12-20 08:45<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">19日，美国媒体援引美国国防部官员的话报道称，美国正在计划“全面”并且“迅速”地从叙利亚撤军。随后，白宫发言人桑德斯也发表声明称，随着在叙利亚打击极端组织的战事取得成果，美国已开始撤回驻叙利亚美军。<br/><div class="contheight"></div>当天，先是多家美国媒体援引来自美国国防部的消息源报道说，鉴于针对极端组织的军事行动大体上取得胜利，美国政府考虑从叙利亚撤回全部大约2000名军人。<br/><div class="contheight"></div>美国总统特朗普随后在社交媒体上发文说，美国“已经击败”叙利亚境内的极端组织势力，而针对极端组织的军事行动是本届政府驻军叙利亚的“唯一原因”。这番表态似乎是在印证美国媒体关于从叙利亚撤军的报道。而美国白宫也在答复央视记者的一份声明中表示，“随着对极端组织打击行动进入新阶段，美国确实已开始撤回驻叙美军”。<br/><div class="contheight"></div>不过，白宫方面并没有说明是否是从叙利亚“全部撤军”。有消息称，美国国务院在叙利亚的所有官员将在24小时内撤离；而美军将在60到100天、或比这更短的时间内全部从叙利亚撤出。<br/><div class="contheight"></div>对于撤军的决定，一些美国国会议员“不太买账”，他们认为，从叙利亚全面撤军的举动，是犯了与奥巴马政府时期“同样的错误”。<br/><div class="contheight"></div>一些美国主流媒体则认为，这一决定是美国解决叙利亚问题的“最新转折”，标志着美国在中东的军事战略突然逆转。<br/><div class="contheight"></div>（原题为《白宫称美国已开始从叙利亚撤军》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：顾亚敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国开始从叙利亚撤军</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2755067">
+<div class="nbgbox">
+<a class="zan" contid="2755067" href="javascript:;" onclick="voteCont(this)" praisetimes="525">
+                           524</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美国开始从叙利亚撤军</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2755067&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2755067&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（75）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

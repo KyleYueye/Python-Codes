@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25450">文化课</a>
+</div>
+<h1 class="news_title">女大学生单方面宣布和清华教授汪晖结婚，汪晖：别传了，假的</h1>
+<div class="news_about">
+<p>钱影</p>
+<p>
+							2018-12-18 18:01<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月16日，一位据信是中国传媒大学在读的女生在其朋友圈发布了一张结婚请帖，这张粉色的请帖宣告她将于2019年1月6日傍晚6点整和清华大学教授汪晖举行婚礼，结婚地点在清华大学，不对外开放。<br/><div class="contheight"></div>此后，这张请帖以及她的朋友圈截图在微信群和豆瓣网广泛传播，有网友称很可笑，也有网友对汪晖教授“被结婚”表示同情。<br/><div class="contheight"></div>汪晖教授在给澎湃新闻的邮件回复中表示：“这是完全虚假恶意的信息。已在公安机关备案。不希望媒体继续传播这样侵犯公民权利的假新闻。”<br/><div class="contheight"></div>澎湃新闻也致电了中国传媒大学方面，尚未得到回应。<br/><div class="contheight"></div>一位来自北京某高校的老师分析，钟情妄想是心理异常中属于思维内容障碍的一种临床症状，钟情妄想患者坚信某人对自己产生了爱情，即使遭到对方义正言辞的拒绝，仍丝毫不质疑对方对自己怀有“爱情”。<br/><div class="contheight"></div>也有人觉得是这位女生在故意嘲弄汪晖教授，是一个恶作剧。在今年3月北大文研院的一次关于韦伯的研讨会上，澎湃新闻记者目睹了这位女生在问答环节对着汪晖说：“你们的研究已经过时了，是bullshit，现在是我们年轻人的时代了！”<br/><div class="contheight"></div>中央民族大学社会学一位不愿具名的教师向澎湃新闻记者表示，想和名人发生某种联系，比如向其求婚，都缘于一种要求承认的心理，汪晖教授应该很熟悉这种“要求承认的政治”，对此事可能不会太在意。<br/><div class="contheight"></div>对于这起事件，北京市京师律师事务所律师罗龙平认为要核实两个重要的情节：第一，这个结婚请帖中所称“汪晖”是否是特指清华大学汪晖教授；第二，这些信息是否是这位女生亲自发布？<br/><div class="contheight"></div>如果上述两个事实能够确认，那么，从法律上讲，这个女生的行为已经涉嫌严重侵犯汪晖教授名誉权，是要承担法律责任的。澎湃新闻记者问道如果侵权当事人患有妄想症，是否影响侵权行为的判定？罗龙平说，该女生是否具有民事行为能力不影响侵权行为的成立，根据《侵权责任法》的 规定：无民事行为能力人、限制民事行为能力人造成他人损害的，由监护人承担侵权责任。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陈诗怀<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2749831">
+<div class="nbgbox">
+<a class="zan" contid="2749831" href="javascript:;" onclick="voteCont(this)" praisetimes="378">
+                           377</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 汪晖</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2749831&caid=25450",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2749831&amp;caid=25450" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（624）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

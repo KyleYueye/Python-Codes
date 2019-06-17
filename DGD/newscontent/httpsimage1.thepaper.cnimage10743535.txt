@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">福建各监狱五百名罪犯自制十万个月饼，四千家属获批进监探亲</h1>
+<div class="news_about">
+<p>澎湃新闻记者 王选辉 通讯员 许海峰 陈宇光</p>
+<p>
+							2018-09-24 18:32<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="401" src="http://image.thepaper.cn/www/image/10/743/532.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">中秋节前，服刑人员与亲人团聚<br/><div class="contheight"></div></span>人群中，服刑人员施某某一眼就看到了自己头发花白的老母亲，他大踏步走上去，一把搂住了母亲和同来的妻女，拥抱足足持续了3分多钟。</div><div>在中秋前夕，福建漳州监狱安排300多名服刑人员的家属进入监区，与服刑人员吃顿团圆饭、品尝自制月饼。</div><div>澎湃新闻（www.thepaper.cn）从福建省监狱管理局获悉，今年中秋，福建各监狱共有500名服刑人员成为临时“面点师”，耗费20多吨原料，自制10万个月饼，而在中秋前夕，共有4000多名家属进入各监区，与服刑人员共进团圆餐，超万通亲情电话飞越全国各地，缓解服刑人员的思亲之苦。</div><div style="text-align:center;"><img alt="" height="401" src="http://image.thepaper.cn/www/image/10/743/531.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">服刑人员自制月饼</span></div><div>9月18日一早，福清监狱的食堂里飘出阵阵香气。在厨房忙碌的清一色是穿着囚服、带着囚帽的服刑人员。</div><div>福清监狱副监狱长孔庆辉拿起一块颜色酥黄、泛着油光的月饼介绍说：“这些月饼都是服刑人员自己做的，买的都是最新鲜优质的食材，每个服刑人员都能吃到至少两个月饼。”</div><div>罪犯自制的月饼中有豆沙馅、蛋黄馅和果粒馅。一排排整齐摆放的月饼，刻着“平安”、“快乐”等祝福语。</div><div>相比中秋赏月吃月饼，服刑人员更期盼的是与亲人跨越藩篱的团聚。9月21日上午，300多名服刑人员的家属进入漳州监狱监区，与服刑人员面对面交流，吃顿团圆饭，了解自己亲人的改造和生活情况。</div><div>服刑人员施某某见到了从泉州赶来的老母亲和妻女，拥抱足足持续了3分多钟。抱过之后，施某某赶紧拉着亲人坐下，给女儿递上一颗苹果，给老婆手里塞一块自制的月饼。值得一提的是，这还是施某某入狱5年多来第一次见到女儿。</div><div>在一小时的会见时间内，施某某和家人的手始终握在一起，四个人面对面聊天，很快被泪水浸泡的纸巾堆满了桌面。</div><div>“我一定积极改造，争取减刑早日回家。”送别家人时，施某某不停地擦拭着眼泪，向母亲立下保证。</div><div>一旁的漳州监狱副监狱长卢良川说，施某某在服刑中情绪多次出现反复，民警多次沟通了解到，其反常情绪源自对家人的思念。中秋佳节前，监狱特地安排他与家属团聚，希望让他能够从亲情中汲取积极改造的力量。</div><div>福建省监狱管理局相关负责人介绍，中秋前夕，全省各监狱共举办各类亲情帮教会100余场，共有4000余名服刑人员家属走进高墙与亲人相会。</div><div>上述负责人介绍，亲情感化在促进服刑人员改造上有着特殊意义。近年来福建各监狱积极推进“阳光工程”建设，将严格执法与人性关怀相结合，对罪犯实行“有希望的改造，有温度的监管，有公信的执法”，通过组织开展家属进监亲情帮教、开通亲情电话、亲情会餐、离监探亲等活动，让亲情融化感化服刑人员，取得了良好的改造效果。</div><div>（文中服刑人员均为化名）</div></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：赵孟<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中秋 服刑人员</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2470547">
+<div class="nbgbox">
+<a class="zan" contid="2470547" href="javascript:;" onclick="voteCont(this)" praisetimes="208">
+                           207</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中秋节</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2470547&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2470547&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（50）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">深观察｜当下该从哪里恢复礼仪？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 朱曦</p>
+<p>
+							2018-12-04 12:29<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">最近因“抢方向盘”、乘客殴打司机引发了多起刑事案件甚至是悲剧，这不仅是需要通过严刑峻法、规范制度的法律议题，背后涉及的礼仪问题，同样值得关注。<br/><div class="contheight"></div>如果说干预司机驾驶是犯罪的话，那么导致犯罪行为的念头——乘客可以随意要求公交车停靠——则起于礼仪的缺失。<br/><div class="contheight"></div>提高民众素质，并没有一个简单的方法；只有形成社会共同认可的礼仪体系，才有可能填补这个缺失。编纂民法典，是法治的里程碑；建设中国的礼仪体系，同样是社会治理的重要一步。目前，这种尝试遇到了两个瓶颈：对先秦礼仪体系的过度依赖，与传统学者对西方礼仪的抵触。<br/><div class="contheight"></div>这几年，一些久已废弃的文化传统得以发扬，祭祀和礼射是相对成功的案例。这些习俗是不是会重新融入人们的生活，还不得而知。但学者们也发现，祭礼和射礼虽是传统礼制的一部分，却鲜能指导现代生活中的日常礼仪。<br/><div class="contheight"></div>那么，如何建设一个完备的礼仪体系呢？《周礼》《仪礼》和《礼记》是最常用的依据。由于“三礼”各有侧重，论者往往从三部书中自由摭取材料。然而，“三礼”并不能代表一时一地的礼仪体系。勉强拼凑，也无法直接应用。就以餐桌礼仪为例。《礼记》的论述，是以先秦的饮食文化为背景的。我们需要通过它的只言片语，为今天的各种新食物，推断出礼貌的吃法。这种推断，不仅见仁见智，且不免叠床架屋之弊。<br/><div class="contheight"></div>不少学者希望，中国能有独特的礼仪体系，其心可嘉。可他们忽略了，多数现代礼仪并没有民族特色，而是一代代人，基于社会环境和礼貌的原则，对日常行为的规范。<br/><div class="contheight"></div>再如人行道上狭路相逢，美国礼仪是各自朝右让步。那么，英国的车靠左开，是不是行人也朝左让步呢？BBC有专文讨论这个问题，最后坦言，英国社会并没能形成让步的礼仪。<br/><div class="contheight"></div>所以说，礼仪是根据社会习俗有机形成的，而不可能借助某部久远的典籍，凭空创造。欧美礼仪，往往能直接应用于现代中国社会，有其历史原因。礼仪是随着社会发展的；欧美今天的礼仪，是他们的传统礼仪，对社会现代化的变迁逐步做出调整，而最终形成的。中国近几十年的现代化，正创造了相仿的社会环境。西方礼仪适用中国之处，当然值得借鉴。<br/><div class="contheight"></div>以什么方式建立中国的礼仪体系呢？国内一位德高望重的礼学家，曾自述在一次饭局上纠正敬酒者的礼仪。尽管纠正者是专家，这恐怕不是普及礼仪的好方法。在社交场合指出别人的疏失，会让人难堪，西方也把这种行为视为失礼。<br/><div class="contheight"></div>由于礼仪并无绝对的对错，一套规范的形成，需要社会成员的参与和辩论。《华盛顿邮报》的礼仪专栏，以犀利幽默著称，几十年来回答读者的各种礼仪问题与发难，并集结成书。这是国内媒体也可以胜任的工作。<br/><div class="contheight"></div>一些中国独有的文化形式，亟待创意性地融入现代生活。尺牍就是其中之一。传统的尺牍以文言为基础，仅仅翻印旧有的教材，必然曲高和寡。即便少数人能写得好，也读者寥寥，并不实用。日本前驻华参赞千叶明的《中国传统书信鉴赏与写作》，是少有的将尺牍应用于现代通信的尝试。<br/><div class="contheight"></div>恢复一些传统仪式，固然有其文化意义和观赏性，却无法直接改善日常生活的礼仪。因此，建设中国的礼仪体系，需要兼顾外来的经验和我们的习俗。<br/><div class="contheight"></div>（作者为牛津大学硕士）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 礼仪</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2704121">
+<div class="nbgbox">
+<a class="zan" contid="2704121" href="javascript:;" onclick="voteCont(this)" praisetimes="65">
+                           64</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 礼仪</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2704121&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2704121&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

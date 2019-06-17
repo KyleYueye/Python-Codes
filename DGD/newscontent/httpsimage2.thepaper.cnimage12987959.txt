@@ -1,0 +1,79 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25574">翻书党</a>
+</div>
+<h1 class="news_title">开卷有益 │ 人像自己的父亲，更像自己的时代</h1>
+<div class="news_about">
+<p>程彤/文 薛瑶/朗读</p>
+<p>
+							2018-12-07 17:20<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="audio_panel">
+<audio controls="" id="topAudio" preload="auto" src="http://audio.thepaper.cn/output/b406b83feda24a439f0b557006d915c0/mp3128/ae22e4db-c401-45f5-9dca-85d5dd2b41af-de2c6a24-6e1c-75b6-c73b-980098677f19.mp3">Your browser does not support the audio element.</audio>
+<div class="audio_name">责编讲解《首届国会》</div>
+</div>
+<script>$(function(){ audioInit("topAudio")});</script>
+<div class="news_txt" data-size="standard"><span style="color: rgb(128, 128, 128);"><div style="text-align:center;"><img alt="" height="404" src="http://image.thepaper.cn/www/image/12/987/956.jpg" width="600"/></div>美国首届国会前期所用的会议厅</span><br/><div class="contheight"></div><strong>编者按</strong><br/><div class="contheight"></div>首届联邦国会是美国历史上最富有成效的一届议会，但同时也召开于风雨飘摇之时，奴隶制的幽灵始终盘桓在国会的上空，它将阶级矛盾、南北方、东西部、虚弱无力的联邦与各自为政的诸州，宪法与反宪法等问题纠缠在一起；国会内部也充斥着个人偏见和地区之间的不信任、内部交易，以及平庸之辈的怠惰。混乱、偏见、敌视、不睦笼罩着国会中形形色色的利益团体。最近被翻译成中文的《首届国会》一书就为读者讲述了其中的细节。<br/><div class="contheight"></div>《首届国会》的作者福格斯·M. 博德维奇（Fergus M. Bordewich ），生于美国纽约，是一位阅历丰富、著述颇丰的历史学家、作家、记者、书评人。曾任伊朗《德黑兰杂志》编辑、联合国新闻发布官、中国新华通讯社顾问。2015年，担任耶鲁大学“莱曼”奴隶制、奴隶反抗和废奴研究中心评奖委员会主席。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="500" src="http://image.thepaper.cn/www/image/12/625/468.jpg" width="328"/></div><span style="color: rgb(128, 128, 128);">弗格斯·M.博德维奇</span><br/><div class="contheight"></div>本期开卷有益，我们有请该书的责编讲解《首届国会》这本书。<br/><div class="contheight"></div><strong>解读书籍<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="856" src="http://image.thepaper.cn/www/image/12/987/952.jpg" width="600"/></div></strong><strong>《首届国会：美国政府的创造，1789—1791》</strong><br/><div class="contheight"></div><span style="color: rgb(128, 128, 128);">[美]弗格斯·M.博德维奇 著 濮阳荣 译，纸间悦动·上海社会科学院出版社，2018年9月</span><br/><div class="contheight"></div>1789—1791年，国会议员们展开了漫长的讨价还价。谦逊宽容的华盛顿，雄辩实干的麦迪逊，头脑精密、富有卓识的汉密尔顿，性情刚烈、信奉共和的格里，坚定的反联邦主义者麦克莱……这些来自不同地域，拥有不同个性，秉持不同政治立场，代表不同利益的建国者纵横于各利益团体之间，极尽游说之能，尽显政治风采，将政治智慧与政治手腕运用得炉火纯青，虽偶有私心，但仍将公众利益与宪法的崇高性置于私利之上。最终，在一片混乱与分歧中，各利益团体在重大问题上达成妥协，《权利法案》《联邦税收法案》《司法法》《国家银行法案》相继签署，宪政运作机制在无序中循序渐进。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：臧继贤<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国历史,国会,立法</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2676654">
+<div class="nbgbox">
+<a class="zan" contid="2676654" href="javascript:;" onclick="voteCont(this)" praisetimes="79">
+                           78</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 开卷有益</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2676654&caid=25574",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2676654&amp;caid=25574" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

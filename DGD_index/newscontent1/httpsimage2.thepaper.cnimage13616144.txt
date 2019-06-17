@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">德国外长：强烈反对在欧洲重新部署中程导弹</h1>
+<div class="news_about">
+<p>新华网</p>
+<p>
+							2018-12-28 09:18<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="437" src="http://image.thepaper.cn/www/image/13/616/142.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">德国外交部长海科·马斯。视觉中国 资料</span><br/><div class="contheight"></div>据新华网12月28日报道，德国外交部长海科·马斯26日说，如果《中导条约》遭废弃，德国强烈反对在欧洲部署新型中程导弹的所有举动。<br/><div class="contheight"></div>马斯接受德意志新闻社采访时说，欧洲在任何情况下都不应该成为“军备竞赛的辩论舞台”。德国将广泛抵制在欧洲部署新型中程导弹。<br/><div class="contheight"></div>在马斯看来，重整核军备“绝对是错误答案”，上世纪80年代的政策无助于化解今天的疑问。他呼吁建立“新的军备控制架构”，“不仅涉及核武器，还包含诸如杀手机器人等现代自主武器系统”。<br/><div class="contheight"></div>美国总统唐纳德·特朗普10月20日声称打算退出《中导条约》，理由是俄罗斯一种新式巡航导弹的射程违反条约限制。俄罗斯方面宣称美方空口无凭，指认美方违反条约，在罗马尼亚和波兰部署“战斧”式巡航导弹，研发新型陆基巡航导弹。<br/><div class="contheight"></div>一旦《中导条约》遭废弃，欧洲将首当其冲。美国可能在欧洲重新部署可携带核弹头的中程导弹，俄罗斯会采取反制措施，欧洲国家可能成为俄方第一轮打击对象。马斯10月24日说，《中导条约》事关欧洲核心利益，德国将尽最大努力维持这一条约。<br/><div class="contheight"></div>《中导条约》全称《苏联和美国消除两国中程和中短程导弹条约》，1987年由时任美国总统罗纳德·里根和苏联领导人米哈伊尔·戈尔巴乔夫签署，规定双方不再保留、生产或试验射程500公里至5500公里、作为核武器运载工具的陆基巡航导弹和弹道导弹。<br/><div class="contheight"></div>（原标题 《德国外长：强烈反对在欧洲重新部署中程导弹》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中导条约</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2786353">
+<div class="nbgbox">
+<a class="zan" contid="2786353" href="javascript:;" onclick="voteCont(this)" praisetimes="12">
+                           11</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中导条约</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2786353&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2786353&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

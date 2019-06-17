@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25435">金改实验室</a>
+</div>
+<h1 class="news_title">京东金融上线自营P2P平台，1年期标的年化收益6.5%</h1>
+<div class="news_about">
+<p>澎湃新闻见习记者 刘茜琳</p>
+<p>
+							2018-12-24 08:14<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日，京东金融在其手机APP的财富板块上线了名为“和丰网贷”的P2P平台。该产品可在“京东小金投”服务中找到。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="600" src="http://image.thepaper.cn/www/image/13/445/317.jpg" width="600"/></div>据澎湃新闻了解，京东金融APP端的和丰网贷已上线4种短期标的，分别为1个月、3个月、6个月和12个月，对应的年化收益率为5%、5.5%、6%和6.5%，借款额度相对较小，多数为1万元以下的小额个贷。由担保公司提供无条件担保，若出现逾期，担保公司将代偿全部款项，保障计划未能覆盖的风险，由出借人自行承担。<br/><div class="contheight"></div>目前，平台上线新标的速度较慢，但已上线标的相当抢手。澎湃新闻记者发现，12月24日7时左右上线的最新标的，在15分钟以内即被抢购一空。<br/><div class="contheight"></div>产品介绍中显示，和丰网贷平台隶属北京和丰永讯金融信息服务有限公司，是京东金融旗下专注于提供网络借贷中介信息服务的平台，2015年11月在北京市海淀区注册成立，注册资本金5000万元。根据工商资料，和丰网贷是北京京东数字科技控股有限公司（下称“京东数科”）的全资子公司。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="600" src="http://image.thepaper.cn/www/image/13/445/316.jpg" width="600"/></div>和丰网贷的法人代表和执行董事均为张雱，监事李娅云，两者同是京东集团中的核心成员。其中张雱是京东集团管培生出身，担任刘强东助理一职。企查查资料显示，张雱担任法人的公司共409家，且大多与刘强东、张奇(京东的第一个员工)、陈生强(京东数科CEO)，以及李娅云(京东副总裁，主管法务)有关。<br/><div class="contheight"></div>2018年7月16日，和丰网贷与厦门银行签署存管协议，10月30日，和丰网贷上线厦门银行全量业务存管。根据网站备案信息，和丰网贷的首页网址即为www.jdxiaojintou.com(京东小金投)，目前无法正常使用。<br/><div class="contheight"></div>此前，京东金融拟同时运作和丰网贷和旭航网贷两个平台。旭航网贷隶属京东旭航(厦门)网络借贷信息中介服务有限公司(下称“京东旭航”)。工商资料显示，京东旭航成立于2017年9月27日，法人代表张雱，实缴资本2000万元人民币，是天津大新君和网络科技有限公司的全资子公司，而天津大新君和网络科技有限公司是京东数科的全资子公司，即旭航网贷是京东数科的100%控股的公司。<br/><div class="contheight"></div>京东金融向澎湃新闻记者反馈，目前“和丰网贷”“旭航网贷”已经上线，并严格按监管要求正常开展业务，为广大出借人、借款人提供资金借贷服务。部分用户可在京东金融APP看到旭航网贷并正常使用。<br/><div class="contheight"></div>2017年11月16日，厦门市金融工作办公室（下称“厦门金融办”）发布了《关于网贷机构备案公示的通知》(下称“通知”)。通知中对5家拟备案的企业予以公示。分别是，厦门融信普惠网络借贷信息中介服务有限公司(农金宝互金)、爱日进(厦门)信息技术有限公司(日日进)、厦门乾方位网络科技有限公司(乾方位)、厦门易汇利金融信息技术服务有限公司(易利贷)、京东旭航(厦门)网络借贷信息中介服务有限公司(京东旭航)。<br/><div class="contheight"></div>京东金融表示，京东小金贷、京东小金投依托的旭航网贷&amp;和丰网贷网络借贷中介信息服务平台，以风险管控体系为基础，致力于为有资金融出入需求的个体打造一个高效、透明的网络借贷信息中介服务平台，为借款人与出借人提供信息搜集、信息公布、借贷撮合等服务。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑景昕<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2767697">
+<div class="nbgbox">
+<a class="zan" contid="2767697" href="javascript:;" onclick="voteCont(this)" praisetimes="81">
+                           80</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: P2P</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767697&caid=25435",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767697&amp;caid=25435" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

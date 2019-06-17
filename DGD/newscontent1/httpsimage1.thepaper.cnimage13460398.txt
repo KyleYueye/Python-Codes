@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜追缴社保不“一刀切”，符合减税降费大趋势</h1>
+<div class="news_about">
+<p>澎湃特约评论员 徐冰</p>
+<p>
+							2018-12-24 17:53<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2768182" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">审计署：对少缴或欠缴基本养老保险基金问题，整改不宜一刀切</span></a></img></p></div>
+<div class="news_txt" data-size="standard">12月24日上午，审计署审计长胡泽君在向十三届人大常委会报告2017年度中央预算执行和其他财政收支审计查出问题的整改情况时表示，对少缴或欠缴基本养老保险基金问题，整改不宜“一刀切”。<br/><div class="contheight"></div>这一表态被理解为向社会传达了明确信号。因由国税地税征管体制改革，自明年1月1日起，各项社保交由税务部门统一征收。今年下半年，不少地方的税务部门都在积极追缴企业以前没按规定交的社保费，有的地方追缴两年，有的地方追缴10年，甚至还有更长时间的。追缴金额少则几万十几万，多则上百万，一时议论纷纷。<br/><div class="contheight"></div>毋庸置疑，社保缴纳是法律的强制性规定。但正如胡泽君指出，少缴或欠缴问题，有的问题是长期形成的，有的问题依存的政策法规有所调整，有的对应的经济环境发生较大变化，整改时不宜“一刀切”，需要根据形势发展变化相机抉择。<br/><div class="contheight"></div>以当下环境，以强力手段追缴数额不菲的社保，无疑将使国内企业尤其是中小企业遭遇一定冲击。正是基于这样的考虑，9月6日国务院常务会议就明确，在社保征收机构改革到位前，各地要一律保持现有征收政策不变。9月18日的国务院常务会议上，李克强总理再次强调：在社保征收机构改革到位前不允许擅自调整；对历史形成的社保费征缴层次不齐问题，严禁自行集中清缴。<br/><div class="contheight"></div>有人测算，待追缴社保的总金额接近2万亿元。很显然，这是一笔巨额资金，尤其是在当前社保资金紧张、部分地方支付压力较大的情况下，这笔资金的价值自然不言而喻。<br/><div class="contheight"></div>许多地方虽不否认也有补充资金池的用意，但更大的动力或者说刺激，恐怕是对于财权的博弈。因为国税地税合并之后，原来地方管理的地税部门将划入中央，中央和地方再进行收入分成，如此一来，地方可自由支配的财力就大大减少。因此，许多地方强力追缴，可以理解为是在抢时间，在短时间内尽可能多地收到更多社保资金。<br/><div class="contheight"></div>另外，虽然目前全国养老金累计结余较多，可以确保按时足额发放，但随着老龄化到来，社保历史欠账、长期面临压力的问题却并未消失。有研究显示，社保缴费基数合规方面，中国基数合规企业比例从2015年的38.34%，大幅下降到2016年的25.11%，2017年基数合规企业仅为24.1%，2018年虽然略有回升，但仍不到三成。而之所以社保征缴从明年开始由社保部门改为税务部门，其用意更在于，利用税务部门更加详尽的数据、更加强大的征收能力，来确保缴费力度。<br/><div class="contheight"></div>当然，由上述数据也可以看出，当前中国企业面临越来越大的社保缴费压力，尤其是在经济从高速增长转向中高速增长的情况下，企业压力会更大。刚刚闭幕的中央经济工作会议提出，实施更大规模的减税降费，也正是着眼于“放水养鱼”，为企业和社会减负。<br/><div class="contheight"></div>社保追缴不“一刀切”，关键是如何根据现实情况做适当的平衡。字面理解，不“一刀切”，就是要保持政策弹性和相机而动，并不就是说一定不再追缴。其实从长远看，随着国税地税征管体制改革落地，今后社保征收势必会越来越规范，少缴或欠缴的情况也会逐渐改观。</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 社保追缴</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2769532">
+<div class="nbgbox">
+<a class="zan" contid="2769532" href="javascript:;" onclick="voteCont(this)" praisetimes="118">
+                           117</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 社保缴费</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2769532&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2769532&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

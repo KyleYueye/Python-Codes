@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国贸易代表团进入商务部，为期两天的中美经贸磋商开始</h1>
+<div class="news_about">
+<p>王荣辉/北京青年报</p>
+<p>
+							2019-01-07 11:02<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">今天（1月7日）上午9时许，美国贸易代表团驱车抵达中国商务部大楼，与中方工作组就落实两国元首阿根廷会晤重要共识进行积极和建设性讨论，为期两天的中美之间的副部级经贸磋商正式开始。<br/><div class="contheight"></div>当日上午8时50分，北京青年报记者在现场看到，一辆带有美国国旗的使馆牌照车辆打头，十几辆小轿车紧跟其后从商务部东门进入。<br/><div class="contheight"></div>据《环球时报》报道，该代表团包括了美国副贸易代表杰瑞旭（Jeffrey Gerrish）、首席农业谈判代表Gregg Doud，农业部负责贸易和外农业事务的副部长Ted McKinney，商务部负责国际贸易的副部长Gilbert Kaplan，美国能源部负责能源事务的助理部长Steven Winberg，和财政部负责国际事务的副部长David Malpass，该代表团将与中方工作组就落实两国元首阿根廷会晤重要共识进行为期两天的积极和建设性讨论。<br/><div class="contheight"></div>（原题为《美国贸易代表团进入商务部，中美经贸磋商开始！》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中国,美国,贸易磋商</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2823140">
+<div class="nbgbox">
+<a class="zan" contid="2823140" href="javascript:;" onclick="voteCont(this)" praisetimes="106">
+                           105</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中美贸易战</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2823140&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2823140&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

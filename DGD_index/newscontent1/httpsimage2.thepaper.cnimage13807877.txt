@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国退出教科文组织，美即将离任驻联合国大使向该组织开炮</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-02 17:11<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="367" src="http://image.thepaper.cn/www/image/13/807/873.jpg" width="594"/></div><span style="color: rgb(128, 128, 128);">联合国教科文组织（UNESCO） 资料图</span><br/><div class="contheight"></div>在美国和以色列正式退出联合国教科文组织（UNESCO）之际，即将离任的美国驻联合国大使尼基·海莉(Nikki Haley)向该组织开炮。<br/><div class="contheight"></div>据美联社报道，海莉1月2日在推特上写道，“联合国教科文组织是最腐败、政治偏见最严重的联合国机构之一， 美国已经正式离开了这个污水坑，”并附上的“美国坚强”的标签。<br/><div class="contheight"></div>2017年10月12日，美国国务院发表声明，称因日已累计拖欠的会费、该组织内部亟待改革的现状与对以色列的偏见，美国宣布退出教科文组织。根据相关条款，美国的退出于2018年12月31日正式生效。<br/><div class="contheight"></div>总部位于巴黎的教科文组织成立于1946年，以“通过促进各国在教育、科学、文化上的合作，为实现和平与安全做出贡献”为使命。<br/><div class="contheight"></div>成立以来该组织在促进和平与可持续发展、减贫、推动文化多样性、实现全民教育、文化与自然遗产保护等方面取得了十分突出的成绩。目前拥有195个成员国。<br/><div class="contheight"></div>虽然美国当初是该组织的37个创始国之一，然而在70余载的发展中，二者纠葛亦是不断。早在1984年，美国就以该组织过于政治化为由选择退出，后于2003年回归。<br/><div class="contheight"></div>2011年，教科文组织接受巴勒斯坦为会员国，美国和以色列停止向该组织缴纳会费，且一拖就是8年，总计超6亿美元。2013年，教科文组织暂停了美国的投票权。2017年，该组织宣布将以色列控制的希伯伦旧城区列为巴勒斯坦濒危世界文化遗产。<br/><div class="contheight"></div>在美国2017年宣布“退群”后，联合国教科文组织新总干事奥德蕾·阿祖莱（Audrey Azoulay）上任，具有犹太裔血统的阿祖莱虽一直致力于游说美国和以色列两国留在该组织，但仍无济于事。<br/><div class="contheight"></div>早些时候，美国国务院对联合国教科文组织官员说，美国打算以非成员国的“观察员国”身份继续参与教科文组织“非政治性”的工作，包括保护世界遗产、倡导新闻自由、促进科学领域合作和教育等。<br/><div class="contheight"></div>由于美国政府关门，美国国务院不予置评。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙语双<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 联合国,联合国教科文组织,以色列,美国</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2804193">
+<div class="nbgbox">
+<a class="zan" contid="2804193" href="javascript:;" onclick="voteCont(this)" praisetimes="100">
+                           99</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 联合国教科文组织</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2804193&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2804193&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（40）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜打电话、放音乐、看视频，总有办法把高铁变成菜场</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-08-02 14:49<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日，英国知名主持人在中国搭乘高铁时，遇到一名男子大声打电话，还持续好几个小时，于是他气得拍下影片，并对着镜头几近无声地喊了四遍“Shut up！”此事引发网友热议。<br/><div class="contheight"></div>看网络评论，中国网友大多支持这名歪果仁，只有极少数杠精坚持认为这是“歧视”。其实这事跟歧视没有一毛钱关系，我们的高铁车厢经常吵闹如菜场，谁也无法否认。车厢秩序维护不好，引外人吐槽也是无可避免的。<br/><div class="contheight"></div>把高铁车厢改造成菜市场的“功臣”主要有这么几类人：打电话的、放音乐的、看视频的。<br/><div class="contheight"></div>如果有重要的事要处理，在高铁上打电话也是人之常情。但有人屁股一坐下就煲电话粥，天南海北无所不聊，有业务要聊，没业务创造业务也要聊。还要特意拔高音量，生怕周围的人听不出来他是商务达人。<br/><div class="contheight"></div>还有放音乐、看视频的，他们或许不知道世界上有个叫耳机的东西，或许是具有“独乐乐不如众乐乐”的共享精神，都会把音量开得贼大。明明都2018年了，但总让人回忆起小时候一群人围在一起看电视的经历。<br/><div class="contheight"></div>儿时的经历是温馨的，高铁上的闹腾却是糟心的。因为你分明很累了，只想安安静静休息一会，丝毫不想听见隔壁座位的大生意或者宫斗剧。此外还有人喜欢大声聊天，有人放任小孩嬉闹。<br/><div class="contheight"></div>我印象中高铁刚开通时，大家好像还没这么放松，多少有些拘谨，不太肆无忌惮地干扰他人。但现在高铁车厢俨然有向绿皮车看齐的趋势，实在不妙。<br/><div class="contheight"></div>很多人把矛头指向国人素质，但我觉得是高铁车厢的管理缺失了一个维度——安静。对于过分喧哗吵闹的情况，高铁乘务员完全应该站出来提醒制止，而不是像现在这样放任不管。<br/><div class="contheight"></div>公共场合的秩序是有破窗效应的。每个上过学的人都有过这样的经历：起初教室很安静，接着有两人开始小声讲话，于是有更多人窃窃私语，然后每个人的声音都越来越大，直到班主任突然在窗边。成年人按说要比学生更有自制力，但如果“管理员”长期缺位，光靠乘客自觉与互相提醒，高铁车厢是永远安静不下来的。<br/><div class="contheight"></div>高铁的速度已经提升到350公里每小时，但高铁车厢的管理似乎还停留在绿皮车年代。乘务员吆喝着“有办理补票延长的吗”，小推车来来回回卖着矿泉水、饮料。他们从来意识不到，让车厢安静下来是自己的分内事。<br/><div class="contheight"></div>中国高铁通车里程冠绝全球，已成为中国制造的一张名片。但是我们不能只关心通车里程、运行速度，还应该关注高铁车厢内的人文风景。乘客除了感受到“高铁速度”，还能感受到“高铁文明”。<br/><div class="contheight"></div>让高铁车厢静下来，每个乘客都有责任，而铁路部门要首先意识到自身的管理责任。比如在列车广播里加一句“请避免大声喧哗，不要打扰他人休息”，在乘务员培训时增加相关内容等等。提速，降噪，一个都不能少。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 高铁 文明 噪音</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2314106">
+<div class="nbgbox">
+<a class="zan" contid="2314106" href="javascript:;" onclick="voteCont(this)" praisetimes="1253">
+                           1252</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 高铁</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2314106&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2314106&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（323）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

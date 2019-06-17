@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">中国证券博物馆落户上海，李强梁振英刘士余应勇今天来到这里</h1>
+<div class="news_about">
+<p>澎湃讯</p>
+<p>
+							2018-12-22 19:13<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="402" src="http://image.thepaper.cn/www/image/13/408/79.jpg" width="600"/></div>上海市委书记李强今天（12月22日）实地察看了落户上海的中国证券博物馆。全国政协副主席梁振英，中国证监会主席刘士余，上海市委副书记、市长应勇，国家文物局局长刘玉珠，中国证券博物馆理事长姜洋共同为中国证券博物馆揭牌，刘士余、应勇、刘玉珠分别致辞。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/408/78.jpg" width="600"/></div>中国证券博物馆设立于有着170多年历史的浦江饭店，这里见证了新中国证券市场的诞生、发育和成长，创办于1990年的上海证券交易所从这里起步。李强、刘士余等来到中国证券博物馆，察看中国资本市场改革开放历程展。一张张历史照片、一份份珍贵史料、一段段场景还原，集中展示了改革开放以来我国资本市场的发展历程。李强说，上海作为我国最大的经济中心城市，见证并参与了资本市场改革发展的不平凡历程。建设国际金融中心是中央交给上海的光荣使命，改革开放是国际金融中心建设的不竭动力。我们要深入学习贯彻习近平总书记在庆祝改革开放40周年大会上的重要讲话精神和考察上海重要讲话精神，按照党中央、国务院决策部署,进一步深化金融改革，推动科技与金融有效对接、科创中心与金融中心建设有效联动，不断把国际金融中心建设提高到新水平，更好服务国家战略、服务实体经济。<br/><div class="contheight"></div>刘士余说，中国40年改革开放，资本市场从无到有、从小到大。创办证券博物馆，就是要收藏展示、传承发展资本市场的历史文化，知往鉴今，启迪未来。我们将以更大决心、更大勇气、更大力度推进资本市场改革开放，充分释放市场活力，切实保护投资者合法权益，让资本市场更好服务供给侧结构性改革，更好促进实体经济高质量发展。<br/><div class="contheight"></div>应勇说，当前，上海正朝着2020年基本建成国际金融中心的战略目标进军。金融文化是金融中心建设的重要软实力，我们将支持中国证券博物馆等金融文化平台加快建设。希望中国证券博物馆进一步传承证券历史文化，传播金融证券知识，为上海国际金融中心和文化大都市建设添砖加瓦，努力打造上海城市历史新名片、中国金融文化新地标。<br/><div class="contheight"></div>上海市领导诸葛宇杰、吴清、金兴明，中国工商银行行长谷澍，上海证券交易所理事长黄红元等参加相关活动。<br/><div class="contheight"></div><span style="color: rgb(128, 128, 128);">（本文图片 陈正宝 张春海 摄）</span></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中国证券博物馆</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2764328">
+<div class="nbgbox">
+<a class="zan" contid="2764328" href="javascript:;" onclick="voteCont(this)" praisetimes="74">
+                           73</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中国证券博物馆</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2764328&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2764328&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

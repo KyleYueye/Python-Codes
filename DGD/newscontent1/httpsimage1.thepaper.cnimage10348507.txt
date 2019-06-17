@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜让慢性病患者少跑路，“在线开方”值得一试</h1>
+<div class="news_about">
+<p>澎湃特约评论员 郑山海</p>
+<p>
+							2018-09-11 15:02<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2427791" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜让慢性病患者少跑路，“在线开方”值得一试" src="//image2.thepaper.cn/image/10/337/990.jpg"/>
+</a>
+<div class="atlas_360_txt">国家卫生健康委：允许医师在线开常见病、慢性病处方<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">国家卫生健康委近日下发通知，要求进一步推进医疗机构信息化建设，允许医师在掌握患者病历资料后，通过网络平台在线开具部分常见病、慢性病处方，允许药师在线审核处方、配送药品。<br/><div class="contheight"></div>相关措施一旦落地，意味着一些慢性病患者不用在为了开点药，或者仅仅是为了做一些健康咨询，而耗费精力地往医院跑了。<br/><div class="contheight"></div>对于医院来讲，救治紧急患者于危难之中，是应有的人道主义精神。为慢性患者提供长期细致的关怀，也是不可推卸的责任。在现代社会中，后一种情况其实更加普遍。<br/><div class="contheight"></div>这是因为，随着人们生活方式的改变、人口老龄化程度的加快，肿瘤、心脑血管疾病、肺气肿、糖尿病等已成为我国乃至世界人民健康所面临的重大挑战。相关的统计数据显示，我国现在确诊的慢性病患者已经接近3亿，与之对应的则是慢性病导致的死亡已占我国总死亡率的 86.6%，导致的疾病负担已占总疾病负担的 70%。这也就是说，当前我国医疗面对的主要群体，其实是慢性病患者。<br/><div class="contheight"></div>慢性病人的治疗与急症患者不一样，只要早期的诊断明确了，后续的治疗相对固定，比较程序化，患者需要做的则是按时服用药品，并积极按照医生的指导，改变不良的生活习惯，是一项长期但医疗流程简单的诊疗行为。<br/><div class="contheight"></div>但在传统的医疗管理中，患者必须频繁出入医院，一为取药，二为与医生交流，这不但增加了医院的工作负担，对很多患者也很麻烦。在造成大医院人满为患的汹涌人流中，很多就是慢性病患者。<br/><div class="contheight"></div>如果能通过互联网的方式，将这些患者分流到各自的家中，医院需要承接的患者人数肯定会显著下降，而患者能足不出户完成一次治疗过程，也会是一次相对轻松的感受。<br/><div class="contheight"></div>而且，由于互联网让联系更加方便，患者可以通过APP等平台、及时通讯工具随时将个人的一些体验发送给医生，与医生形成很好地互动，对于制定更加个性化的治疗方案也很有帮助。这就如同患者把医生请进了家门，仿佛得到了医生的随时陪伴。<br/><div class="contheight"></div>不过，这个政策的具体落地，可能还需要一些管理措施的细化。<br/><div class="contheight"></div>最为重要的就是，如果医生有自己在职的医院，那么网络上发生的诊疗行为应该属于医院行为还是个人行为？如果这个问题不明确，就可能出现不少医生顶着大医院的牌子为个人谋私利。不但如此，一旦出现了医疗纠纷，相关的赔偿责任也难以落实。<br/><div class="contheight"></div>当然，慢性病的长期维护属于社区医疗机构的责任，因此，在当前情况下，这套体系可能应该首先在社区医疗机构展开，通过这个方法将更多的慢性患者吸引到社区，既让我国的慢性病管理提高到新的高度，又能起到更好调配医疗资源合理使用的作用。（<strong>作者系医生</strong>）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 慢性病,在线开方</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2428986">
+<div class="nbgbox">
+<a class="zan" contid="2428986" href="javascript:;" onclick="voteCont(this)" praisetimes="100">
+                           99</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 慢性病</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2428986&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2428986&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">马斯克确认特斯拉新跑车能飞离地面：将运用火箭推进系统技术</h1>
+<div class="news_about">
+<p>澎湃新闻记者 承天蒙 综合报道</p>
+<p>
+							2019-01-10 13:16<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">特斯拉CEO埃隆·马斯克（Elon Musk）在Twitter上再度确认，特斯拉新一代跑车Roadster能够在地面上空盘旋（hover）。<br/><div class="contheight"></div>当地时间1月9日，马斯克在推特上转发并回复了特斯拉粉丝发布的飞行汽车动图称，“新的Roadster就能做到这样。”<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="370" src="http://image.thepaper.cn/www/image/14/111/726.jpeg" width="600"/></div><div>这张动图实际上是一辆德罗宁（DeLorean）汽车，它是电影《回到未来》里被改造成时间旅行机器的汽车品牌。德罗宁汽车公司已于1982年破产。<br/><div class="contheight"></div>随后，马斯克又回复了一位科技视频博主称：“我没有在开玩笑，我将用SpaceX的冷气体推进器系统加上超高气压，做一个复合式外包裹压力舱，代替两个后排座椅。”<br/><div class="contheight"></div>冷气体推进器（cold gas thruster）是一种物理动力的火箭发动机，它使用加压惰性气体作为反应物质的推进装置。 压缩气体通过推进试喷嘴释放以产生冷喷射推力。SpaceX是马斯克创办的私营太空探索科技公司，目标是降低太空运输成本，使宇宙移民成为可能。<div style="text-align:center;"><img alt="" height="221" src="http://image.thepaper.cn/www/image/14/111/727.jpeg" width="600"/></div><div>马斯克还在后面的回复中补充称，“另外，你总是可以在人类耐力的极限上再加速。”</div><div style="text-align:center;"><img alt="" height="217" src="http://image.thepaper.cn/www/image/14/111/728.jpeg" width="600"/></div><div>马斯克致力于将特斯拉Roadster打造成市面上最快的全电动新型跑车，并称它将于2020年实现量产。2018年2月，SpaceX公司旗下的猎鹰重型火箭首飞成功，并将马斯克本人的樱桃红色Roadster跑车带上了太空。<br/><div class="contheight"></div>2017年11月，马斯克最早介绍Roadster跑车时，就提到了一系列引人注目的参数，包括速度从0达到60英里每小时仅需1.9秒，最高临界时速可达250英里/小时（402公里/小时），续航范围620英里（近1000公里）等。马斯克随后又在自己的推特上表示，百公里加速1.9秒还只是“小意思”，Roadster未来还能更快。</div><div style="text-align:center;"><img alt="" height="220" src="http://image.thepaper.cn/www/image/14/111/729.jpg" width="600"/></div><div>当时马斯克的推特中，已经提到加了升级包的Roadster能够实现“短距离飞跃（hop）”。他发推说道，“当然是可能的，只是安全问题，应用于汽车的火箭技术开启了革命性的可能性。”</div></div></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙扶<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835947">
+<div class="nbgbox">
+<a class="zan" contid="2835947" href="javascript:;" onclick="voteCont(this)" praisetimes="154">
+                           153</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 特斯拉Roadster</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835947&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835947&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（65）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

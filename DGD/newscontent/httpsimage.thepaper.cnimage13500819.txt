@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25435">金改实验室</a>
+</div>
+<h1 class="news_title">注册资金30亿！雄安新区首家融资租赁公司成立</h1>
+<div class="news_about">
+<p>雄安发布（微信公号）</p>
+<p>
+							2018-12-25 20:01<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月24日，中交雄安融资租赁有限公司落户雄安暨战略发布仪式在雄安市民服务中心举行。该公司注册资金30亿，系雄安新区设立以来第一家融资租赁公司，将深化产融结合，助力雄安发展。<br/><div class="contheight"></div>雄安新区党工委委员、管委会副主任、改革发展局局长吴海军表示，雄安新区将把融资租赁作为重要融资渠道之一，搭建融资租赁与城市建设及产业发展的合作平台，探索“公共物联网+融资租赁”管理新模式，研究制定促进融资租赁产业发展的创新政策，大力发展融资租赁产业。希望中交雄安融资租赁有限公司抓住雄安新区规划建设的重大机遇，紧紧围绕新区产业规划要求和发展方向，积极为新区建设融资提供创新解决方案，有效防范金融风险。 <br/><div class="contheight"></div>中交集团党委常委、中国交建财务总监、总法律顾问彭碧宏表示，雄安新区设立以来，中交集团倾全集团之力支持雄安新区开发建设，在人才、技术、资金、资源等方面优先投入、优先配置，已有一批基础设施、投资运营、装备制造企业率先进驻，一批生态环保、智能制造等试点示范项目稳步实施。此次出资设立中交雄安融资租赁公司是中交集团进一步深化“产融结合”战略，优化产业金融体系，推进产业与金融相互融合、良性互动的务实举措，也是发挥设计、施工、运营、投融资全产业链优势，积极服务雄安新区建设、服务京津冀协同发展的具体实践。<br/><div class="contheight"></div>中交雄安融资租赁有限公司副董事长、总经理吴军介绍，未来公司将聚焦基础设施，助力主业发展；聚焦设备租赁，实现提质增效；聚焦汽车金融，倡导绿色智慧；聚焦新兴业务，打造绿色租赁；聚焦金融创新，构建共享平台。公司将会把各类金融产品组合为一体，为雄安新区及京津冀区域的水环境综合治理、综合路网及交通廊道、中心城区开发等基础设施建设项目提供金融服务。<br/><div class="contheight"></div>当天，中交雄安融资租赁有限公司分别与中国建设银行河北雄安分行、中国银行河北雄安分行、上海海虹实业（集团）有限公司等6家公司签署战略合作协议。根据协议，中交雄安融资租赁有限公司将与建行河北雄安分行、中行河北雄安分行分别开展200亿元的业务合作。<br/><div class="contheight"></div>据了解，中交雄安融资租赁有限公司是由中交建融租赁有限公司、中交疏浚（集团）股份有限公司和香港海事建设有限公司共同发起设立的外商投资性质的融资租赁公司。公司注册资本金30亿元人民币，目前是国内第一家注册地在雄安新区、带有雄安标识的融资租赁公司，也是河北省注册资本最大的融资租赁公司之一。（原题为《注册资金30亿！雄安新区首家融资租赁公司成立》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑景昕<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2774143">
+<div class="nbgbox">
+<a class="zan" contid="2774143" href="javascript:;" onclick="voteCont(this)" praisetimes="92">
+                           91</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 雄安新区</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2774143&caid=25435",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2774143&amp;caid=25435" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

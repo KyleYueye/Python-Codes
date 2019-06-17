@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">观世界| 经历一次南极雪景的洗礼</h1>
+<div class="news_about">
+<p>刘玉侠</p>
+<p>
+							2018-02-02 10:56<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">关于南极，也许很多人终生都不能够亲自去一趟，但是近日一则新西兰航空和新西兰南极局合作推出的飞行安全视频在全球赢得了现象级的关注。<div style="text-align: center;"><img alt="" height="337" src="http://image.thepaper.cn/www/image/6/808/592.jpg" width="600"/></div>据了解，此次选择在南极拍摄，是希望发挥新西兰航空飞行安全视频的影响力，带动更多人关注目前南极正在开展的重要科研项目，从而更好地理解并且为全球气候变暖做好准备。该视频除了具有环境保护的公益宣传作用，也侧面展现了南极美景。让我们得以一窥这片人迹罕至但对地球未来影响深远的区域。一直以来，南极这个区域的自然生态、人文地貌非常特别，引发无数人喜爱，如果两分钟的影片没有让你大饱眼福，那么，不如细细品味一下以下这些南极的每一个定格瞬间。<br/><div class="contheight"></div><strong>企鹅<br/><div class="contheight"></div></strong><div style="text-align: center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/6/810/266.jpg" width="600"/></div>企鹅，有着海洋之舟的美誉，它们是地球上非常古老的一种游禽，很可能在地球穿上冰甲之前，就已经在地球上安家落户了。<br/><div class="contheight"></div><strong>冰川<br/><div class="contheight"></div></strong><div style="text-align: center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/6/810/263.jpg" width="600"/></div>南极的冰盖是由常年不化的积雪堆积而成的，属于极地大陆冰川类型，它的主要特点是温度低，雪的积累和消融都非常的缓慢。下层积雪在上层积雪的重力下，被压实以后发生重结晶作用，形成坚硬的冰，有别于淡水冰的是，它含有大量气体，因此，保存了十分完整的层状结构。在冰川运动和南极风的作用下，南极冰川呈现出形态各异的状貌，非常具有美学价值。<br/><div class="contheight"></div><strong>天堂岛<br/><div class="contheight"></div></strong><div style="text-align: center;"><img alt="" height="616" src="http://image.thepaper.cn/www/image/6/810/265.jpg" width="600"/></div>天堂岛，是南极世界的一隅天堂。和马尔代夫的天堂岛不一样的是，这里的天堂没有灿烂的阳光浴，只有全年寒冬的酷冷风，晶莹剔透的浅海湾，配合一眼望不到尽头的雪原和山峰，在这里，你能感受到的是大自然的神秘和威严。<br/><div class="contheight"></div><strong>极光<br/><div class="contheight"></div></strong><div style="text-align: center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/6/810/264.jpg" width="600"/></div>对于只存在黑白色调的南极来说，极光的存在既为南极增添了一抹亮色，也为这里带来了无穷无尽的梦幻色彩。<br/><div class="contheight"></div>南极的美景仿佛是世界尽头的另一番景致，那里纯美、宁静，是让无数人心驰神往的绝美之地。所以，每一处都值得细细品味。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李淑平<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="1979490">
+<div class="nbgbox">
+<a class="zan" contid="1979490" href="javascript:;" onclick="voteCont(this)" praisetimes="19">
+                           18</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 南极</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=1979490&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=1979490&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

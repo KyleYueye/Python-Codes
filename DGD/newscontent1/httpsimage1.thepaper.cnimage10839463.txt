@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜花上万只一句台词，“星梦”是孩子的还是家长的？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 胡欣红</p>
+<p>
+							2018-09-27 16:56<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2472333" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜花上万只一句台词，“星梦”是孩子的还是家长的？" src="//image1.thepaper.cn/image/10/764/841.jpg"/>
+</a>
+<div class="atlas_360_txt">湖南9龄童交万元参演“一号角色”，台词仅一句状告影业公司<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">湖南湘潭的一位家长，为9岁的孩子何翔报名了一部儿童网络电影的演员选拔，付了12800元，参演“一号角色”。但拍摄后，他发现孩子仅有三个镜头外加一句台词，同级别演员多达59人，“一号角色”前还有7名“主演”。家长自认遭到了欺诈，将影视公司告上法庭。（潇湘晨报，9月26日） <br/><div class="contheight"></div>1万多元的花费，对应“3个镜头加1句台词”，颇有种黑色幽默的感觉。而“一号角色”和“主演”不是一回事，也超出了很多人的认知范围。 <br/><div class="contheight"></div>这件事情的是非曲直并不难厘定。一方面，影视公司有意混淆“一号角色”与“主演”的概念，涉嫌欺诈；另一方面，原告明知担任的角色并非“主演”，仍然愿意以类似“配角”或群众演员的角色参与了拍摄，也应该承担一定的责任。所以，法院一审判决影业公司退还何翔费用6800元并承担诉讼费用，同时驳回了原告何翔的其他诉讼请求，可谓恰当。<br/><div class="contheight"></div>非常之事，必有非常之因。愿意花费上万让孩子演电影，折射了当下不少家长和孩子的“童星梦”。 <br/><div class="contheight"></div>孩子热爱表演、想成为电影明星，当然没什么不妥。家长尊重孩子的兴趣爱好，尽力培养，也是应有之义。但问题是，明星虽然光彩照人，但能成为明星的毕竟屈指可数。除了天赋，还需要机遇等诸多因素。即便在日本、韩国之类演艺产业发达的社会，演艺人口占社会总人口的比重也非常有限。如果罔顾现实，不顾一切地梦想成“星”，这样的偏执不仅害了孩子，也容易掉入不法分子的陷阱。<br/><div class="contheight"></div>哪里有需求，哪里就有市场。众多父母和孩子的“明星梦”，成了一些人借机生财的致富之道，形形色色的“童星制造”令人眼花缭乱。以“童星、培训、骗局”等关键词搜索，相关新闻也是不少。7月，中国之声的报道，某公司号称“三年内公司负责包装培训，送孩子到美国参加国际顶级大赛”，费用是三年近24万元，拿奖也要花钱买。记者调查发现，网上根本查不到该公司信息，邀请现场颁奖的人员也为冒充。 <br/><div class="contheight"></div>去年2月，澎湃新闻刊发了一篇《成人世界丛林法则下的“童星制造”：颜值、包装和金钱》文章，披露了目前童星制造链条上的众生相：拥有熟练培训、包装、上综艺、找剧组等完整“套路”的童星公司，为学龄前孩子安排艺术课、选秀、比赛、上节目的家长，以及要学习声乐、钢琴、走秀、主持、从早晨八点到晚上十点一直在练舞蹈的孩子们。 <br/><div class="contheight"></div>倾注了大量的时间精力和资金，如果最终竹篮打水一场空，“明星梦”破碎之后的孩子和家长们，又该如何面对现实呢？参演的网络电影播出后，9岁的何翔将自己关在房间里哭了一整天，这也许还算不上代价沉重。如果能从中汲取教训，摆正心态，明白“星路”坎坷，或许不失为一桩好事。 <br/><div class="contheight"></div>受骗上当也好，合力打造童星也罢，表面上是家长不遗余力地帮助孩子完成梦想，其实很多时候往往是家长的一厢情愿或急功近利。从某种意义上讲，这与为让孩子上名校而参加疯狂培训的道理是一致的。只是，明星非捷径，参与需谨慎。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 童星培训骗局</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2480186">
+<div class="nbgbox">
+<a class="zan" contid="2480186" href="javascript:;" onclick="voteCont(this)" praisetimes="90">
+                           89</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 童星制造</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2480186&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2480186&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（34）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

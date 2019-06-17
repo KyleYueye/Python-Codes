@@ -1,0 +1,76 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">金财互联：控股股东由江苏权健东润变更为江苏东润金财</h1>
+<div class="news_about">
+<p>金财互联官网</p>
+<p>
+							2019-01-08 17:24<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">证券代码：002530 公告编号：2019-003<br/><div class="contheight"></div><strong>金财互联控股股份有限公司关于控股股东名称变更的公告</strong><br/><div class="contheight"></div>本公司及董事会全体成员保证信息披露内容的真实、准确和完整，没有虚假记载、误导性陈述或重大遗漏。<br/><div class="contheight"></div>金财互联控股股份有限公司（以下简称“公司”）近日收到公司控股股东江苏权健东润投资管理有限公司通知，因避免市场误解及自身经营发展需要，经盐城市大丰区市场监督管理局核准，控股股东名称由“江苏权健东润投资管理有限公司”变更为“江苏东润金财投资管理有限公司”，上述名称的注册登记工作已办理完毕，并已领取了新的企业法人营业执照。公司控股股东除上述事项变更外，其他工商信息不变。<br/><div class="contheight"></div>上述变更名称事项不涉及公司控股股东及实际控制人的变动，公司与控股股东及实际控制人之间的控制权结构及比例均未发生变化，对公司的经营活动不构成影响。<br/><div class="contheight"></div>特此公告。<br/><div class="contheight"></div>金财互联控股股份有限公司董事会<br/><div class="contheight"></div>2019年1月8日<br/><div class="contheight"></div>（原题为《金财互联：关于控股股东名称变更的公告》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2824974" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">金财互联：子公司与权健系千万合同在履约，束昱辉持股没被冻</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2805521" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">金财互联股价跌幅异常，再次声明：束昱辉仅为公司财务投资人</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 金财互联,避免市场误解</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828047">
+<div class="nbgbox">
+<a class="zan" contid="2828047" href="javascript:;" onclick="voteCont(this)" praisetimes="18">
+                           17</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 权健</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828047&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828047&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

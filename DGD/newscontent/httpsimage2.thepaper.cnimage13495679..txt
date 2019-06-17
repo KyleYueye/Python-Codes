@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">权威人士谈湖南营商环境，人口流入数、增加数在全国排第二位</h1>
+<div class="news_about">
+<p>新湖南客户端</p>
+<p>
+							2018-12-25 19:27<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><strong>新湖南专访|权威人士谈湖南经济形势——湖南营商环境如何？</strong><br/><div class="contheight"></div>今年是贯彻党的十九大精神的开局之年，是改革开放40周年，也是推进供给侧结构性改革的攻坚之年。面对错综复杂的国内外形势，湖南在经济发展、结构优化、营商环境改善等方面发展如何?新湖南客户端记者近日采访权威人士，深入解读湖南经济发展形势。<br/><div class="contheight"></div><strong>怎样看湖南营商环境?<br/><div class="contheight"></div>权威人士：</strong><br/><div class="contheight"></div>“水深则鱼悦，城强则贾兴”。我认为，在“亲”“清”政商关系方面，湖南尤其是长沙，还是形成了自己的一些特色。在中国人民大学国家发展与战略研究院最新发布的“中国城市政商关系排行榜(2017)”中，长沙位列综合前十、亲商环境全国第五。<br/><div class="contheight"></div>打造良好的营商环境，是一项综合性、立体性的工程。近年来，湖南在这一方面做了大量工作。在全国率先推行商事制度改革，市场环境明显改善，市场主体快速增长。2013末到2017年末，市场主体、注册资本分别增长51.20%、202.80%。全省日均新增市场主体从改革前的1249户提高到目前的1934户。凭借科教、人才和营商环境的优势，伟创力、华为、中兴等一大批高科技企业纷纷前来落户，形成了“智能制造看长沙”的良好局面。<br/><div class="contheight"></div>为了改善营商环境，我们打了几次“漂亮仗”。比如长沙房价保卫战，所以目前长沙房价依然是一个“洼地”。今年我们的人口流入数、人口增加数在全国排第二位，这说明政府的工作取得了一定成效，得到了市场和企业，包括年轻创业者的认可。长沙“人才新政22条”实施百日，吸引2万余名人才落户，是此前4年的总和。不少人认为，作为“中国最具幸福感城市”，长沙在高学历、高技能的年轻人眼中，极富魅力。<br/><div class="contheight"></div>又如湖南的大型峰会、展会。第一届岳麓峰会只有300人参加，仅有6名湘籍企业家和投资专家，到今年第五届，参加人数超过2万人，网上观看直播人数超过124万，业界重点嘉宾达283位。前不久举行的中国(长沙)网络安全•智能制造大会，来了十家央企，187家省外企业，包括国外、境外企业，还有340多家省内的企业、8位院士……充分体现了湖南水平。<br/><div class="contheight"></div>不止长沙，全省很多地方在改善营商环境方面也取得了很好的成效。如江华 “母亲式政务服务”带来的巨大成效。作为一个偏远之地，能够在3年内引进10多个投资过亿元项目，打造国内条码行业的“龙头老大”，这是非常不容易的。只要思想不滑坡，办法总比困难多。这也是江华在打造软环境方面给我们的启示。<br/><div class="contheight"></div>融资难、融资贵，一直是困扰企业的一大痛点。今年以来，湖南探索解决融资难、融资贵方面做了很多尝试。一是建立“白名单”制度。发布第一批 975 户“白名单 ”企业，明年将继续发布第二批。 二是确定建设银行等 15 家首批试点主办银行，第一批 136 家供应链核心企业名单。三是与人民银行征信中心“应收账款融资服务平台”注册企业223家，在线成交应收账款融资16.3亿元。此外还做了一系列产融对接活动，比如制造强省建设产融合作银企对接会和工业新兴优势产业链股权投融资撮合对接会，服务企业4000余家，撮合达成融资200多亿。<br/><div class="contheight"></div>市场经济的竞争，本质上就是营商环境的竞争。虽然我们做了不少工作，取得了一些成绩，但依然还有很多空间。下一步，我们要按照“马上办、网上办、就近办、一次办”要求，深入推进政务服务标准化、智能化、便民化，着力解决企业和民生“痛点”“难点”“堵点”问题，共同构筑“亲”“清”新型政商关系，打造更优营商环境。<br/><div class="contheight"></div>（原标题：《新湖南专访|权威人士谈湖南营商环境》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周琦<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 营商环境 人口 排名</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2773599">
+<div class="nbgbox">
+<a class="zan" contid="2773599" href="javascript:;" onclick="voteCont(this)" praisetimes="34">
+                           33</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 营商环境</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2773599&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2773599&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

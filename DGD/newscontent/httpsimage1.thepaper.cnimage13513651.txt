@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">怀化至衡阳铁路开通运营，湖南形成高铁“金三角”</h1>
+<div class="news_about">
+<p>澎湃新闻记者 王俊</p>
+<p>
+							2018-12-26 09:20<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="384" src="http://image.thepaper.cn/www/image/13/513/660.jpg" width="600"/></div>澎湃新闻记者从中国铁路总公司获悉，12月26日，怀化至衡阳铁路（以下简称怀衡铁路）开通运营，湖南西南地区新增一条快速直达东南沿海和珠三角地区的“黄金通道”，长沙、怀化、衡阳三地间形成湖南高铁“金三角”。<br/><div class="contheight"></div>怀衡铁路位于湖南省西南部，经怀化、邵阳、衡阳三市14个县区，正线全长318公里。全线设怀化南、安江东、月溪、洞口、隆回西、隆回、邵阳西、邵阳、邵阳东、邵东、杨桥、库宗桥、西渡、松木、咸塘、颜家垄、衡阳东17座车站，运营时速200公里。<br/><div class="contheight"></div>怀衡铁路开通初期安排开行动车组列车7对；2019年1月5日运行图调整后，计划安排开行动车组列车日常线17对，普速列车1对，在日常线基础上，根据客流需求，高峰线加开动车组列车1对。日常线17对为：广州南至贵阳北1对、广州南至怀化南3对、长沙南至怀化南1对、衡阳东至怀化南8对，既有动车组列车改经由怀衡铁路4对。普速列车1对为：既有普速列车改经由怀衡铁路1对。高峰线1对为：既有动车组列车改经由怀衡铁路1对。怀衡铁路开通运营后，怀化至衡阳动车组列车运行时间由2小时35分缩短至2小时7分。<br/><div class="contheight"></div>作为重要连接线的怀衡铁路，在湘西部经怀化南站接入我国横向高铁干线沪昆高铁以及焦柳铁路、渝怀铁路，在湘中部邵阳与洛湛铁路交汇，在湘中南部衡阳东站连接我国纵向高铁干线京广高铁以及衡茶吉铁路、衡柳铁路，打通了西北、西南地区与海峡西岸经济区及珠三角地区最快捷的铁路运输通道，在长沙、怀化、衡阳三地间形成湖南高铁“金三角”，大大提高了高铁网络运营效率。<br/><div class="contheight"></div>怀衡铁路的建成通车，将完善区域铁路交通结构，方便沿线人民群众出行，进一步提升衡阳、邵阳、怀化三市的区位发展条件，对更好地发挥东南沿海和珠三角地区辐射效应，促进沿线经济社会发展，具有十分重要的意义。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 铁路,铁总</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2775519">
+<div class="nbgbox">
+<a class="zan" contid="2775519" href="javascript:;" onclick="voteCont(this)" praisetimes="29">
+                           28</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 湖南铁路</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2775519&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2775519&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

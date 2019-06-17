@@ -1,0 +1,11 @@
+<div class="newscontent">
+<div class="live_t">
+<a class="live_refresh" style="cursor:pointer"></a>
+<div class="live_tit6">
+<h2 class="" id="cur_news">直播厅</h2>
+<h2 class="cur" id="comm_span">评论</h2>
+</div>
+</div>
+<div class="template" id="aq_commt">
+</div>
+</div>

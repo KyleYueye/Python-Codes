@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">深观察｜奖励生育不应曲解为“社会花钱买孩子”</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-07-12 15:23<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">各方信息显示，奖励生育的政策就在不远的前方了。但是人们对奖励生育的理解仍然存在误区，观念误区若不消除，必定会影响将来的政策实施效果。<br/><div class="contheight"></div>日前，辽宁省印发《辽宁省人口发展规划(2016—2030年)》，提出到2030年，总和生育率提高1倍，并对生育子女家庭给予多方奖励。<br/><div class="contheight"></div>之后据媒体报道，今年以来，国家卫健委已组织专家，研究奖励生育的可能性，测算对不同孩次家庭给予奖励，所能带来对刺激生育的不同效果。这项研究预计将在年底完成，届时可能上报有关部门。<br/><div class="contheight"></div>老龄化和低生育率是横亘在中国社会面前的两大挑战。辽宁由于常住人口连年下降，率先感受到了压力，但辽宁并不是孤例。奖励生育政策从局部探索上升到全局，只是时间的问题。<br/><div class="contheight"></div>一提到奖励生育，有人就会赌气似地说“给多少钱我也不生”，可能也会有人暗自琢磨，给多少钱自己会生或者多生。一个社会要想摆脱低生育率陷阱，钱是不能不花甚至不能少花的。可是如果人们过分关心“给多少钱”，奖励生育政策就会被曲解成“社会花钱买孩子”。<br/><div class="contheight"></div>直接的“给钱”其实并不能切中人们“不敢生”的痛点。当今那些“生不起”“养不起”的抱怨，并非真的表示养不活孩子，而是指不能给孩子理想的生活、良好的教育，同时保证自己的生活质量不打太多折扣。这不是矫情，这是社会进步的体现。鼓励生育政策应该以此为前提。<br/><div class="contheight"></div>近年来，官方宣传中出现的一个新提法——家庭友好型社会，在我看来击中了要害。提出建设家庭友好型社会，相当于承认现在的社会对家庭还不够友好，有待改善。<br/><div class="contheight"></div>每一个有娃的家庭，对这个话题都有苦水要倒。举个最简单的例子，在舆论呼吁多年之后，许多公共场所依旧没有配备母婴室，换个尿布都不方便。<br/><div class="contheight"></div>托儿服务供给不足，导致老人带娃成为中国家庭的默认选择。而两代人的生活习惯与观念差异，又会滋生家庭矛盾。将来如果孩子多了，也许会出现老人不够用的窘境。构建家庭友好型社会，就是要解决这些养娃、带娃的痛点。<br/><div class="contheight"></div>奖励生育的重点不应该在“奖”，而应该在“励”。生不生孩子，生一个还是两个，这是家庭内部决策。即便将来有了奖励生育政策，也很少有人会为了津贴生孩子，而是政策托底使人们恢复了本来就有的生育意愿。生育本来就是一件美好的事情，孩子的微笑就是父母最好的激励。只不过社会上软硬件条件的不支持，导致太多人不敢拥抱这样的美好。<br/><div class="contheight"></div>无论在什么时候，抚育孩子的主体都是家庭。只不过在家庭友好型社会当中，家庭在必要的时候能请到“外援”。这是现代社会与传统社会的差异决定的。<br/><div class="contheight"></div>鼓励生育的实质应该是：消除那些不合理的，使人们不敢生孩子的，显性的和隐性的障碍。这样解释的话，坊间的误解就会少很多，更不会有人说这是对单身群体的不公。因为奖励生育其实是在补偿家庭在养育孩子过程中所牺牲的发展机会。<br/><div class="contheight"></div>生不生在自己，只要想生就不用顾虑太多，这是将来的生育政策应该追求的目标。<br/><div class="contheight"></div>我们在谈论鼓励生育政策的时候，首先应该考虑的是填补过去公共服务、社会保障的短板。比如为孕期和哺乳期女性提供便利，本来就是女性权益保障工作的一部分。再如加大公立学校教育资源投入，本就是促进社会公平的必要之举，同时也有“促生”效果。反过来说，如果公共服务、社会保障跟不上，只用钱“鼓励”出来的孩子，可能还会成为社会负担。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 奖励生育</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2258969">
+<div class="nbgbox">
+<a class="zan" contid="2258969" href="javascript:;" onclick="voteCont(this)" praisetimes="35">
+                           34</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 奖励生育</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2258969&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2258969&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国务院针对中国发旅行警告：称赴华美国游客需“提高警惕”</h1>
+<div class="news_about">
+<p>参考消息网</p>
+<p>
+							2019-01-04 10:53<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="330" src="http://image.thepaper.cn/www/image/13/882/284.jpg" width="544"/></div><span style="color: rgb(128, 128, 128);">美国国务院 资料图<br/><div class="contheight"></div></span>参考消息网1月4日报道 外媒称，美国国务院1月3日发布了针对中国的旅行警告，敦促赴华美国游客“提高警惕”。<br/><div class="contheight"></div>据《今日美国报》网站1月3日报道，最新的旅行安全建议将警告级别维持在“第二级”。美国务院的旅行警告分为四级，第四级最为严重的，它意味着“不要前往”特定的国家。<br/><div class="contheight"></div>报道称，美国国务院将这一警告归因于“中国地方法律的任意执行以及对双重国籍人士的特别限制”。<br/><div class="contheight"></div>美国务院宣称，中国对美国公民发布“出境禁令”，禁止他们出境，有时时间甚至数年。<br/><div class="contheight"></div>美方还称，如果美国公民决定前往中国，他们应该持美国护照和有效的中国签证入境。美国务院说，美国公民应该保存这些文件。<br/><div class="contheight"></div>报道称，由于恐袭风险，美国国务院对英国、法国、比利时和俄罗斯等国的旅行警告级别也维持在“第二级”。<br/><div class="contheight"></div>另据路透社1月3日报道称，美国务院发布该旅行警告之前，加拿大前外交官、智库国际危机组织东北亚高级顾问康明凯和商人迈克尔·斯帕沃尔于12月被中国政府拘留。<br/><div class="contheight"></div>报道称，美方提到的“中国地方法律的任意执行”明显是针对两名加拿大公民在华被捕事件。<br/><div class="contheight"></div>英国《卫报》1月3日报道称，针对此事件，最高人民检察院检察长张军1月3日已表示，在中国涉嫌犯罪的两个加拿大公民违反了中国法律规定，目前正处于调查阶段，中国司法机关会严格按照法律规定和相关程序，推进相关案件的进展工作。<br/><div class="contheight"></div>（原文标题：《 又搞事情 美国国务院针对中国发旅行警告》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中美关系</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2812144">
+<div class="nbgbox">
+<a class="zan" contid="2812144" href="javascript:;" onclick="voteCont(this)" praisetimes="115">
+                           114</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中美关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2812144&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2812144&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（56）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

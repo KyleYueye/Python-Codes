@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">河北唐山开展“刑责治污和环境整治”行动抓获1725人 </h1>
+<div class="news_about">
+<p>白云水/中新网</p>
+<p>
+							2018-12-25 19:40<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网唐山12月25日电 河北省唐山市政府新闻办公室25日召开新闻发布会，唐山市公安机关针对“涉危险废物”“数据造假”“车辆污染整治”“黑加油站点非法经营”等各类破坏生态资源污染环境违法犯罪作为打击重点，目前已抓获各类违法犯罪人员1725人。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/494/23.jpg" width="600"/></div> <span style="color: rgb(128, 128, 128);">唐山市公安局路南分局依法对污染违法人员张某某行政拘留五日，对违法人员王某行政拘留五日，对违法人员陈某行政拘留七日。<br/><div class="contheight"></div></span>唐山市公安局副局长毕登义介绍说，唐山以保障全市生态环境深度治理和重点项目攻坚等工作为目标，以打开路，以打促防，持续展开凌厉攻势。截至目前，该市公安机关立案查处环境污染案件1877起(其中，刑事案件165起，治安案件1712起)，同比提高67.3%，抓获各类违法犯罪人员1725人(其中刑事拘留296人，治安拘留1429人)。<br/><div class="contheight"></div>12月20日，唐山路南警方接到报案称，路南区相关职能部门对燃煤污染整治行动过程中，遇到违法燃煤的三名流动商贩阻挠，市场监督管理局工作人员王某某受伤。通过调查，民警了解到2018年12月20日11时左右，路南区市场监督管理局工作人员王某某、马某某、尹某某一行三人出示工作证件表明执法身份后，正常依法检查时，流动摊贩张某某、陈某、王某不配合工作，三人通过谩骂、挑衅、殴打等方式阻碍工作人员检查，致使执法人员无法正常执行职务、路南区市场监督管理局工作人员王某某身体受伤。<br/><div class="contheight"></div>根据相关规定，唐山市公安局路南分局依法对违法人员张某某行政拘留五日，对违法人员王某行政拘留五日，对违法人员陈某行政拘留七日。<br/><div class="contheight"></div>针对唐山市县两级环安部门警力特点，唐山市公安局探索建立了“以市级环安支队摸排线索先期调查，市县两级环安部门联合侦办，县级环安立案查处”的办案模式，极大的优化了警力资源，通过对重点线索进行攻坚，侦破了“曹妃甸黑铅厂非法冶炼危险废物污染环境案”“滦州1.16非法处置乙炔污染环境案”“丰润土法炼锌污染环境案”等一批社会影响强烈的大案要案，真正实现了环保警察“拳头硬”“行动快”“打得准”的工作目标。<br/><div class="contheight"></div>同时，当地公安机关发挥派出所的延伸优势，提升基层打击能力。积极发挥派出所熟知社情和快速反应等优势作用，最大限度收集犯罪线索，及时发现违法犯罪行为，实现环安工作在基层的无缝隙、多触角延伸。2018年以来，派出所查处“废旧塑料加工”“企业非法排污”“违法燃烧秸秆”“非法处置医疗废物”“非法销售成品油”等各类治安案件926起，占全市查处环境污染治安案件总数的71.9%。<br/><div class="contheight"></div>发挥网络优势，实现线索举报信息化。充分利用唐山市公安局微信公众平台、支队网络邮箱等信息化资源，建立举报平台，及时接受群众对环境污染违法犯罪行为的举报，大大提高了举报效率和准确率，专项行动以来，通过群众举报，侦破环境污染刑事案件14起，治安案件168起，同比2017年分别提高了41%和60%。<br/><div class="contheight"></div>（原题为《河北唐山开展“刑责治污和环境整治”行动抓获1725人》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：崔烜<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 治污 唐山 整治</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2773339">
+<div class="nbgbox">
+<a class="zan" contid="2773339" href="javascript:;" onclick="voteCont(this)" praisetimes="15">
+                           14</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 环保执法</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2773339&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2773339&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

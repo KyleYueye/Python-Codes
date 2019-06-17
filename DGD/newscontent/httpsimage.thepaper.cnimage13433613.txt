@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25450">文化课</a>
+</div>
+<h1 class="news_title">中央美院院长范迪安当选中国美协主席</h1>
+<div class="news_about">
+<p>成长/北京日报客户端</p>
+<p>
+							2018-12-23 18:43<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/433/611.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">范迪安<br/><div class="contheight"></div></span>北京日报客户端12月23日消息，今天，中国美术家协会第九次全国代表大会第九届理事会第一次会议在北京会议中心召开，大会选举产生了中国美协新一届主席团。中央美术学院院长范迪安当选新一届中国美术家协会主席。副主席共14位，分别是：王书平、许江、闫平、李翔、李劲堃、李象群、杨晓阳、吴为山、何家英、周京新、庞茂琨、徐里、鲁晓波、曾成钢。<br/><div class="contheight"></div>范迪安，男，汉族，1955年9月生于福建，1973年参加工作，1979年4月加入中国共产党，中央美术学院中国美术史专业硕士研究生毕业，文学硕士。现任中央美术学院院长，教授，博士生导师，中国美术家协会主席，全国政协委员。<br/><div class="contheight"></div>（原题为《中央美院院长范迪安当选中国美协主席》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中央美院,中国美协,范迪安</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766686">
+<div class="nbgbox">
+<a class="zan" contid="2766686" href="javascript:;" onclick="voteCont(this)" praisetimes="36">
+                           35</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中国美协</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766686&caid=25450",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766686&amp;caid=25450" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

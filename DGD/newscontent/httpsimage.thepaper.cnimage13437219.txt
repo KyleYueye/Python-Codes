@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">山东滨州疑有一女子两天前落入黄河，警方证实仍在搜救</h1>
+<div class="news_about">
+<p>澎湃新闻记者 喻琰</p>
+<p>
+							2018-12-23 21:39<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">针对网曝山东滨州惠民县一女子落入黄河的消息，12月23日，惠民县公安局清河镇派出所工作人员告诉澎湃新闻（www.thepaper.cn），警方12月21日接到家属报警展开搜救，目前仍未找到，搜救还在进行。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="300" src="http://image.thepaper.cn/www/image/13/437/201.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">滨州蓝天救援队惠民分队救援现场 本文图均为 张队长提供</span></div>微博网友@滨州的风12月23日发布消息称，据网友爆料，惠民黄河某段有救援队在打捞，疑似有一女子跳河，据说是三个孩子的妈妈，有一对双胞胎才1岁。<br/><div class="contheight"></div>12月23日，滨州市蓝天救援队张姓队长告诉澎湃新闻，12月21日晚接到警方要求参与救援的电话时，得知落水者为女性。至于网传落水者是双胞胎孩子的母亲、因家庭矛盾跳河轻生的说法，张队长表示未获最终证实。<br/><div class="contheight"></div>“家属到达现场后，发现了失踪者的车辆和衣服，便怀疑是跳河轻生。”张队长透露，最先到达现场的救援人员确实在河边发现了失踪者的车辆和衣服。<br/><div class="contheight"></div>另据滨州市蓝天救援队队员朱瑞嘉介绍，12月21日18时50分接惠民县公安局清河镇派出所通知，称有人在黄河李庄白龙湾河务段疑似落水，随后他们启动救援程序。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="300" src="http://image.thepaper.cn/www/image/13/437/202.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">滨州蓝天救援队惠民分队救援现场<br/><div class="contheight"></div></span>朱瑞嘉说，由于水域险恶，水深达10米，河段水底情况较为复杂，搜救难度较大。蓝天救援队惠民分队连续数日搜救仍未发现目标。12月23日14时许，蓝天救援队在和落水人员家属沟通后撤回休整，之后参与救援的为博兴9958救援队。<br/><div class="contheight"></div>博兴9958救援队队长贾涛12月23日15时许告诉澎湃新闻，搜救仍在进行中。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：胥辉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 坠河 失踪 搜救</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2767001">
+<div class="nbgbox">
+<a class="zan" contid="2767001" href="javascript:;" onclick="voteCont(this)" praisetimes="17">
+                           16</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 失踪</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767001&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767001&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

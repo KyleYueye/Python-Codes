@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25448">有戏</a>
+</div>
+<h1 class="news_title">网传央视春晚节目单有陈佩斯朱时茂，参与彩排艺人：假的</h1>
+<div class="news_about">
+<p>邱晨/武汉晚报</p>
+<p>
+							2019-01-09 12:56<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">武汉晚报1月9日消息，距离2019年中央电视台春节联欢晚会还有不到一个月的时间，各种关于央视春晚的消息陆续出现，真假难辨。1月7日，央视春晚语言类节目三审，冯巩、沈腾、贾玲等众多演员现身，但并未看到此前网络上节目单中提到的陈佩斯和朱时茂。对此，有参与春晚彩排的艺人透露，陈佩斯并未参加春晚彩排，而此前网络上流传的春晚节目也是假的，“真的节目单还没出来、更不可能这么早泄露出去。”<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/69/757.jpg" width="100%"/></div><span style="color: rgb(128, 128, 128);">网络上流传的春晚节目单，知情人士表示“是假的”。<br/><div class="contheight"></div></span><strong>陈佩斯朱时茂重返春晚舞台？悬</strong><br/><div class="contheight"></div>自1983年正式开办起，央视春晚已然成为中国老百姓生活中必不可少的年夜饭，而每年春晚有什么节目，也成为岁末老百姓最关心的话题。日前，一份央视2019年春晚的节目单在网络上曝光并广泛流传。在这份节目单中，不仅刘谦重回春晚舞台，姜昆、岳云鹏等新老相声演员也将同台献艺，而王菲、迪丽热巴、鹿晗、火箭少女等2018年的热门艺人也出现在名单中。<br/><div class="contheight"></div>值得一提的是，陈佩斯与朱时茂这对曾经的春晚“黄金搭档”也出现在了这份节目单中，两人被爆将合演小品《猪联璧合》，在网络上引发大量关注。毕竟，陈佩斯和朱时茂创作演出的《吃面条》《主角与配角》《羊肉串》等节目，曾经是央视春晚最经典的代表性作品。<br/><div class="contheight"></div>1月7日，央视春晚进行语言类节目三审，包括贾玲、沈腾、冯巩、佟大为、苗苗、杨义、娄乃鸣等演职人员都出现在现场，但并未见到陈佩斯、朱时茂的身影。一位参与春晚彩排的艺人透露，陈佩斯并没有参加春晚彩排，“据我所知并没有，身边也没有人见过他彩排。”<br/><div class="contheight"></div><strong>网传节目单不靠谱？假的</strong><br/><div class="contheight"></div>除了陈佩斯和朱时茂的节目，网络上提前曝光的节目单也存在不少疑问。如节目单中的开场曲《欢天喜地中国年》，集结了几对演艺圈中的“夫妻档”，包括冯绍峰和赵丽颖、唐嫣与罗晋，张杰与谢娜、霍建华与林心如。不少网友质疑，1月刚刚宣布怀孕的赵丽颖，要挺着肚子参加彩排，甚至出现春晚舞台上，显然不太合情理。<br/><div class="contheight"></div>对于这份广为流传的节目单，该知情人士也表示“是假的”：“真的节目单还没出来、更不可能这么早泄露出去。”由于演员们都签署了非常严格的保密协议，这位知情人士表示不能透露具体节目内容，但“今年的春晚会有大惊喜”。<br/><div class="contheight"></div>记者了解到，女演员董洁原本将与佟大为合作表演小品，两人已经参加了春晚语言类节目二审。不过目前的最新消息是董洁将不再参加2019春晚，因出演电影《芳华》而走红的苗苗则将顶替董洁，与佟大为搭档。<br/><div class="contheight"></div>（原题为《央视春晚节目单已曝光？假的》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 央视春晚</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831400">
+<div class="nbgbox">
+<a class="zan" contid="2831400" href="javascript:;" onclick="voteCont(this)" praisetimes="16">
+                           15</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 央视春晚</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831400&caid=25448",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831400&amp;caid=25448" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">白宫发言人澄清：特朗普尚未正式下令美军撤离阿富汗</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-29 17:48<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">美国白宫一名发言人28日澄清，总统唐纳德·特朗普尚未正式下令美军撤离阿富汗。<br/><div class="contheight"></div>此前多家媒体20日报道，美国政府正酝酿大幅削减驻阿富汗美军人数。<br/><div class="contheight"></div>美国国家安全委员会发言人加雷特·马奎斯28日在一份电子邮件声明中说，特朗普“没有决定减少美国在阿富汗的军事存在，也没有下令国防部开始人员撤离阿富汗的进程”。<br/><div class="contheight"></div>以一名要求匿名的美国国防部官员为来源，包括彭博社在内的多家媒体上周报道，五角大楼将撤出现在驻扎阿富汗的1.4万美军中的大约7000人。<br/><div class="contheight"></div>不过，驻阿美军和北大西洋公约组织部队最高指挥官斯科特·米勒23日告诉美国媒体，他没有收到要求改变军队部署的任何命令。美国国家安全委员会声明似乎确认了米勒的说法。<br/><div class="contheight"></div>彭博社报道，特朗普上周突然宣布美军将从叙利亚撤出，迫使国防部长詹姆斯·马蒂斯请辞。尽管没有公开谈论阿富汗，特朗普随后多次重申，急切希望海外美军回家，以便他能专注于防卫美国边境。<br/><div class="contheight"></div>美军在2001年“9·11”恐怖袭击后进驻阿富汗。据五角大楼监督部门今年7月一份报告，美国迄今已为援助阿富汗重建拨款1260亿美元，包括安保经费780亿美元。然而，美国的军事存在和资金投入没有阻止阿富汗局势恶化。<br/><div class="contheight"></div>美国国务卿迈克·蓬佩奥和马蒂斯等总统国家安全团队成员先前公开宣称，美国现政府应对阿富汗局势的手段有效。不过，政府官员同时承认，美方武力可能只能做到如今的地步。<br/><div class="contheight"></div>驻阿美军和北约部队最高指挥官米勒10月告诉美国全国广播公司记者，任何一方，包括获得美军支持的阿富汗政府或反政府武装塔利班，均“无法通过军事手段”在阿富汗冲突中获胜。<br/><div class="contheight"></div>因此，美国政府开始尝试斡旋和谈。美方官员上周与塔利班代表在阿拉伯联合酋长国会谈，沙特阿拉伯、巴基斯坦和阿联酋官员出席。（完）（新华社专特稿）<br/><div class="contheight"></div>（原文标题：《撤军阿富汗？特朗普没拍板》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 阿富汗,白宫,特朗普</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2792400">
+<div class="nbgbox">
+<a class="zan" contid="2792400" href="javascript:;" onclick="voteCont(this)" praisetimes="49">
+                           48</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 阿富汗</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2792400&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2792400&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

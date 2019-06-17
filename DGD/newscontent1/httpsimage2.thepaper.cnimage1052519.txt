@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜能靠抖音挣钱为什么要上学？有些道理要对孩子讲清楚</h1>
+<div class="news_about">
+<p>澎湃特约评论员 土土绒</p>
+<p>
+							2018-08-31 14:52<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2394265" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜能靠抖音挣钱为什么要上学？有些道理要对孩子讲清楚" src="//image.thepaper.cn/image/10/25/463.jpg"/>
+</a>
+<div class="atlas_360_txt">杭州初二女生沉迷抖音反问医生：能靠它挣钱为什么还要上学？<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">据媒体报道，杭州初二女生雯雯沉迷于抖音，在抖音上获得了现实中没有的成就感，再也不想上学了：“我的字体一套能卖出100元，现在我能保证自己每个月的日常开支，既然如此，为什么我还要上学？” <br/><div class="contheight"></div>这个问题似乎很有道理。一个初中生能挣点零花钱，确实挺不错。但是，在目前能“保证日常开支”和过好自己的一生之间，还有漫长的距离。8年前就成为网红的“杀鱼弟”，小小年纪就会杀鱼卖鱼，相信也能“保证自己的日常开支”，但是8年之后他再次引起媒体关注，却是喝百草枯自杀。可以想象他的人生依旧艰难，很不幸福。 <br/><div class="contheight"></div>小小年纪就能设计出一套字体，说明女孩在某些方面有一定的天赋。但是，现在能靠这一点天赋挣钱（而且挣得也不多），将来仍能保证有继续挣钱的能力吗？互联网平台的发展可以说“其兴也勃焉，其亡也忽焉”，一个平台火了两年以后忽然销声匿迹，是很常见的事。寄生于某个平台的某项技能，就算可以风靡一时，也难保一夜之间就成为明日黄花。 <br/><div class="contheight"></div>人的一生是一场长跑。在一开始就发现了一条小小的捷径，内心难免窃喜。但在这条小小的捷径之后，也许是漫长的荆棘丛生。某青年作家曾经因为辍学而自豪，凭借才华和机遇，他也确实取得了很多成就，但多年以后他终于意识到，“退学是一件很失败的事情。”安徽蒙城县考生徐孟南，在高考试卷乱写一通“努力”考了0分后，并没有实现自己的理想，只能四处打工谋生。10年之后，他再次回到了高考考场。 <br/><div class="contheight"></div>现代社会的分工异常细致，每个人都需要深深地嵌入社会，通过与他人的分工合作来发挥自己的才能，以谋求自己的发展。飞速发展的科学技术和不断更迭的信息洪流，也迫使人们必须具有自我学习的能力。正如耶鲁大学校长理查德·莱文曾说过的：“教育不教知识和技能，却能让人胜任任何学科和职业。”仅仅依靠一点小聪明谋生，而拒绝教育，只有在发展异常缓慢的前现代社会才有可能吧。 <br/><div class="contheight"></div>教育不仅仅是让人有挣钱的能力，更重要的，是要培养合格的现代公民。英国学者约翰·纽曼说过：“只有教育，才能使一个人对自己的观点和判断有清醒和自觉的认识……教育令他看世界的本来面目，切中要害，解开思绪的乱麻，识破似是而非的诡辩，撇开无关的细节。”在获得基本的谋生能力之外，一个人还需要获得应对这个纷繁复杂的世界的能力，和获得内心平静的能力。 <br/><div class="contheight"></div>现在的孩子是互联网“原住民”，能在互联网上发现自己的价值，本来是一件好事。但是，将自己的人生寄托在这一点小小的价值上，却是一场不负责任的赌博。很多人都熟悉作家龙应台的这段话：孩子，我要求你读书用功，不是因为我要你跟别人比成绩，而是因为，我希望你将来会拥有选择的权利。选择有意义、有时间的工作，而不是被迫谋生。 <br/><div class="contheight"></div>年轻人玩抖音、开直播，有的确实能获得不少打赏，收获关注度，岂知这正是网络“迷惑人”之处。相关平台更应严格把关，防止未成年人沉迷网络，耽误学习和成长。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 沉迷抖音</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2397440">
+<div class="nbgbox">
+<a class="zan" contid="2397440" href="javascript:;" onclick="voteCont(this)" praisetimes="237">
+                           236</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 抖音</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2397440&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2397440&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

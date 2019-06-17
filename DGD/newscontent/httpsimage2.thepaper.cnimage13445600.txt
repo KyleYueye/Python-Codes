@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">中青报谈河南性侵幼女案：严惩性侵未成年人犯罪彰显零容忍</h1>
+<div class="news_about">
+<p>王钟的/中国青年报</p>
+<p>
+							2018-12-24 08:55<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月20日，河南省高级人民法院依法对被告人赵志勇、李娜、刘洪羊、周合鑫强奸、组织、强迫卖淫、协助组织卖淫一案二审当庭宣判。以强奸罪判处被告人赵志勇死刑，剥夺政治权利终身，并依法报请最高人民法院核准；以强奸罪、组织、强迫卖淫罪判处被告人李娜死刑，缓期两年执行，剥夺政治权利终身，限制减刑；其他两名被告人分别被判处十八年到十二年有期徒刑。<br/><div class="contheight"></div>发生在河南省尉氏县的这起性侵幼女案，动机特别卑劣，情节极其恶劣，作案手段十分残忍，案发后受到社会各界高度关注。司法机关依法严厉惩治侵害未成年人犯罪，为被害未成年人及其家庭主持正义与公道，彰显了司法体系对侵害未成年人权益犯罪行为“零容忍”的态度。<br/><div class="contheight"></div>保护未成年人身心健康不受侵犯，是人类现代文明的底线与准则。未成年人是社会的未来，他们身心发育不成熟，抵御和防范外部侵害的能力弱。对未成年人实施特殊的保护，是维护社会正义的题中应有之义。<br/><div class="contheight"></div>尉氏性侵幼女案被曝光后，引发民众的极大愤慨。对于社会热点案件的审判执行工作，要高度关注社情民意，更要坚守法律正义和社会正义，努力实现法、理、情的有机结合。河南省高院判处此案主犯死刑，并依法报请最高人民法院核准，既坚持以法律为准绳，又充分考虑社情民意，显示了司法机关坚决维护未成年人权益的决心。<br/><div class="contheight"></div>近年来，侵害未成年人犯罪呈上升趋势，性侵害和伤害案件占据较大比例。根据最高检公开发布的信息，侵害未成年人的重大恶性案件时有发生，不少案件犯罪次数多、被害人多、时间跨度长。针对未成年人的性侵案件屡屡引发社会热议。打击性侵未成年人犯罪，需要国家、社会、学校、家庭的共同努力，开展全方位的综合治理，而司法是不容缺席的关键一环。<br/><div class="contheight"></div>我国法律对性侵未成年人犯罪早已有明确态度，构筑了不容逾越的高压线。2013年，最高人民法院、最高人民检察院、公安部、司法部出台《关于依法惩治性侵害未成年人犯罪的意见》，强调针对未成年人实施强奸、猥亵犯罪的，应当从重处罚。2015年8月，刑法修正案（九）废除了嫖宿幼女罪，有关嫖宿幼女的违法犯罪行为依据强奸罪的对应条款处理，而强奸幼女属强奸罪从重处罚情节，最高可判死刑。近日，最高人民检察院还发布指导性案例，对性侵未成年人犯罪案件证据审查判断标准提出明确指导意见。<br/><div class="contheight"></div>对于未成年人性侵案件，不仅要从重处罚犯罪分子，还要特别注意保护受害者隐私信息，避免造成二次伤害。法院依法不公开开庭审理尉氏性侵幼女案，体现了对受害者特殊的保护。社会舆论在关注性侵未成年人案件时，也要避免公开有可能暴露当事人身份的信息，在正常舆论监督和保护未成年人权益之间严守合理的尺度。<br/><div class="contheight"></div>司法机关依法顶格论处此案，判处主犯极刑，将给侵害未成年人犯罪极大的震慑，释放法律绝不姑息纵容此类案件的信号。未成年人是含苞待放的花朵，不让这些美丽的花朵受到玷污，是国家的责任，也是全社会任何有良知者义不容辞的责任。<br/><div class="contheight"></div>（原题为：《严惩性侵未成年人犯罪 彰显“零容忍”》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 性侵,尉氏,未成年人,零容忍</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2767733">
+<div class="nbgbox">
+<a class="zan" contid="2767733" href="javascript:;" onclick="voteCont(this)" praisetimes="33">
+                           32</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 性侵幼女</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767733&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767733&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">习近平接受七国新任驻华大使递交国书</h1>
+<div class="news_about">
+<p>央视新闻移动网</p>
+<p>
+							2018-12-18 21:12<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">央视新闻移动网12月18日消息，国家主席习近平18日下午在人民大会堂接受七国新任驻华大使递交国书。<br/><div class="contheight"></div>冬日的北京，阳光和煦。人民大会堂北门外台阶上，礼兵分列红地毯两侧。号手吹响迎宾号角，使节们先后抵达，拾级而上，进入北京厅。在“北京鸟瞰”图前，使节们依次向习近平呈递国书，习近平同他们亲切握手并合影留念。这7位新任驻华大使是：<strong>西班牙驻华大使德斯卡亚、索马里驻华大使阿瓦莱、苏里南驻华大使陈家慧、格鲁吉亚驻华大使卡岚第亚、巴西驻华大使瓦莱、马达加斯加驻华大使拉扎菲曼丁比、伊朗驻华大使克沙瓦尔兹扎德。</strong><br/><div class="contheight"></div>习近平欢迎各国使节来华履新，请他们转达对各自国家领导人和人民的诚挚问候和良好祝愿。习近平强调，今年是中国改革开放40周年，我们将把改革开放进行到底。中国愿同各国加强友好合作，共建“一带一路”，推动双边关系不断迈上新台阶，携手为世界和平和人类共同发展作出更大贡献。中国政府将为使节们履职提供便利和支持，希望你们为增进中国同有关国家双边关系和人民友谊作出积极贡献。<br/><div class="contheight"></div>使节们转达了各自国家领导人对习近平主席的亲切问候，祝贺中国庆祝改革开放40周年大会今天上午成功召开，高度评价习近平主席在大会上发表的重要讲话。他们表示，中国坚持改革开放给世界带来巨大机遇，各国将继续支持并积极参与中国改革开放进程，共同推进“一带一路”国际合作。他们在任内将积极致力于增进各自国家同中国的友好交往与合作。<br/><div class="contheight"></div>王毅参加上述活动。<br/><div class="contheight"></div>（原题为《习近平接受七国新任驻华大使递交国书》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 习近平,驻华大使,国书</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2750890">
+<div class="nbgbox">
+<a class="zan" contid="2750890" href="javascript:;" onclick="voteCont(this)" praisetimes="120">
+                           119</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 驻华大使</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2750890&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2750890&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

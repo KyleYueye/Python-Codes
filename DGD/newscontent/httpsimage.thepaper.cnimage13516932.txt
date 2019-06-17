@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25435">金改实验室</a>
+</div>
+<h1 class="news_title">分析｜金融委为何要力推永续债为商业银行“补血”？</h1>
+<div class="news_about">
+<p>澎湃新闻记者 陈月石</p>
+<p>
+							2018-12-26 14:01<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">能够帮助银行补充其他一级资本的永续债，获得了国务院金融稳定发展委员会的力挺。<br/><div class="contheight"></div>央行网站12月26日发布消息，国务院金融稳定发展委员会办公室于12月25日召开专题会议，研究多渠道支持商业银行补充资本有关问题，推动尽快启动永续债发行。<br/><div class="contheight"></div>所谓永续债，是没有明确的到期日，或者说期限非常长的债券，投资者不能在一个确定的时间点得到本金，但是可以定期获取利息。2013年永续债登陆中国债券市场，但国内银行并未涉足，对银行来说，永续债属于混合资本工具，巴塞尔协议III推出之后，海外银行已有尝鲜。<br/><div class="contheight"></div>与优先股、可转债、二级资本债等相比，都是资本补充工具，永续债有何不同，需要金稳委办公室开专题会议推进？<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/516/913.jpg" width="100%"/></div><span style="color: rgb(128, 128, 128);">各类银行补充资本工具对比。来源：兴业研究<br/><div class="contheight"></div></span>从补充对象上看，二级资本债补充的是二级资本，属于银行资本层级中最低的一层，优先股和可转债则分别用来补充其他一级资本和核心一级资本。<br/><div class="contheight"></div>从发行量来看，门槛较低的二级资本债发行量最大，而优先股和可转债只有上市银行才可以发行，而且监管审批的时间较长，因此门槛较高。<br/><div class="contheight"></div>“从监管要求看，上市银行的各个资本要求都合规，但相对于二级资本的厚度，一级资本相比较弱，这也与各个资本补充工具的发行难度不同有关，优先股虽然也是补充其他一级资本，但只有上市银行可用，因此永续债进入了监管的视野，毕竟控杠杆的背景下，资产回表需要占用资本，再加上需要落实资管新规度过过渡期。”一位股份制银行战略规划部人士称。<br/><div class="contheight"></div>今年以来，金融监管部门已经对这一新型资本工具进行了暗示。<br/><div class="contheight"></div>其中，在今年2月27日发布的《中国人民银行公告(2018)第3号》中，央行创造性地提出了无固定期限的资本债券， 央行称资本补充债券是指银行业金融机构为满足资本监管要求而发行的、对特定触发事件下债券偿付事宜作出约定的金融债券，包括但不限于无固定期限资本债券和二级资本债券。当触发事件发生时，资本补充债券可以实施减记，也可以实施转股。<br/><div class="contheight"></div>3月12日，银保监会发布《关于进一步支持商业银行资本工具创新的意见》，提出要增加资本工具种类，包括无固定期限资本债券、转股型二级资本债券、含定期转股条款资本债券和总损失吸收能力债务工具等。<br/><div class="contheight"></div>按照监管要求，系统重要性银行于2018年底核心一级资本充足率不得低于8.50%，一级资本充足率不得低于9.50%，资本充足率不得低于11.50%。非系统重要性银行，2018年底的核心一级资本充足率、一级资本充足率和资本充足率最低要求分别为7.5%、8.5%和10.5%。<br/><div class="contheight"></div>虽然国务院金融稳定发展委员会表态要推动尽快启动永续债发行，但具体规则仍待明晰。<br/><div class="contheight"></div>兴业研究认为，对于一个新生事物，接受起来需要时间，所以发出的第一单永续债，要承受一定的估值超调压力。在没有多少其他经验可供参考的前提下，其实主要看投资人的心理价位，考虑到潜在投资者来自于信托、高净值客户等，对回报要求不会低，在二级资本债的中枢上加点100-150BP可能是一个大致合理(保守的)的估计。<br/><div class="contheight"></div>该机构认为，国有银行和股份行的发行价格在6%-6.5%，城农商发行价格在7%-7.5%，但从调研问卷看，银行的心理价位要低得多， 83%以上的受访者最多只能接受6%的发行价格。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑景昕<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2775782">
+<div class="nbgbox">
+<a class="zan" contid="2775782" href="javascript:;" onclick="voteCont(this)" praisetimes="15">
+                           14</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 商业银行永续债</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2775782&caid=25435",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2775782&amp;caid=25435" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

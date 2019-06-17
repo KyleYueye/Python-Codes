@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">韩媒：民调称文在寅支持率再创新低，已下滑至47.1%</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-24 09:57<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">随着金正恩年底前访问韩国计划的可能性落空以及韩国经济问题的抬头，韩国总统文在寅面临的压力越发巨大。<br/><div class="contheight"></div>据韩联社12月24日援引韩国民调机构Realmeter于24日发布的数据显示，总统文在寅施政支持率下滑至47.1%，时隔3周再创新低。<br/><div class="contheight"></div>据悉，Realmeter本月17日至21日针对全国2513名成年人进行问卷调查。结果显示，47.1%的受访者对文在寅施政给予积极评价，较上周下滑1.4个百分点。相反，作出消极评价的受访者下滑0.7个百分点，为46.1%。从地区来看，大邱、庆尚北道地区的支持率降幅最大，为6.8个百分点。从年龄层来看，20-29岁年龄层的支持率降幅最大，为4.9个百分点。<br/><div class="contheight"></div>从各政党支持率来看，执政党共同民主党以38%的支持率领跑，较上周上升1个百分点；最大在野党自由韩国党为25.4%，较上周上升1.3个百分点，时隔2周再次恢复到25%以上水平。正义党为8.1%；正未来党和民主和平党分别为5.6%和2.4%。<br/><div class="contheight"></div>值得注意的是，文在寅2017年上任时民众支持率一度超过85%，而在这之后他的支持率一直没有超过这个数值，现在更是降到了半数以下。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 韩国总统</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2767969">
+<div class="nbgbox">
+<a class="zan" contid="2767969" href="javascript:;" onclick="voteCont(this)" praisetimes="28">
+                           27</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 韩国总统</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767969&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767969&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

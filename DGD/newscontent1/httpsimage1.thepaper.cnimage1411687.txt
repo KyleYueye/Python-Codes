@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">内蒙古一75岁村霸获刑一年零十个月，曾殴打村民横行乡里</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2019-01-10 14:06<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="359" src="http://image.thepaper.cn/www/image/14/116/81.jpg" width="540"/></div><span style="color: rgb(128, 128, 128);">图为庭审现场。法院供图　<br/><div class="contheight"></div></span>年过七旬的老人本应颐养天年，享受儿孙绕膝的天伦之乐，可在内蒙古自治区五原县，一名75岁的老人竟在村里随意殴打他人，毁坏财物，横行乡里。9日，记者从五原县法院获悉，这名村霸因犯寻衅滋事罪，被法院判处有期徒刑一年零十个月。<br/><div class="contheight"></div>经五原县人民法院审理查明，2017年10月份，祁某某在五原县隆兴昌镇筛选葵花籽，被告人吕某某因嫌粉尘飞到其家中、噪音大等原因，以辱骂、拉电闸、用铁棍毁坏筛选机等方法多次进行阻挠，双方发生冲突，后经派出所民警调解处理。<br/><div class="contheight"></div>2017年11月18日，因邻里矛盾等原因，被告人吕某某用木头椽子、网片等将浩丰三组其家门前的路堵上，致使邻居张某某、赵某某两家人无法出入，双方发生冲突。后经村社干部和派出所民警调解未果，张赵两家人只能从自家北墙重新开通出入院子的大门。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="359" src="http://image.thepaper.cn/www/image/14/116/82.jpg" width="540"/></div><span style="color: rgb(128, 128, 128);">图为庭审现场。法院供图<br/><div class="contheight"></div></span>2018年6月2日20时许，因赵某某将被告人吕某某放到门前路上的鸡笼、网片等推开，被告人吕某某看到后辱骂赵某某，用锤子将赵某某的四轮车大灯打烂，用木棍将赵某某头部打伤，经派出所民警调解未果。吕某某在辱骂过程中，又从地上捡起石头将赵某某家窗户玻璃打碎。<br/><div class="contheight"></div>五原县人民法院以被告人吕某某因邻里、占路等纠纷，多次阻拦、辱骂他人，持木棍随意殴打他人，并且经公安机关及所在乡镇干部多次调解协商、批评制止后，继续实施破坏社会秩序的行为，情节恶劣，其行为构成寻衅滋事罪，应依法追究被告人的刑事责任。<br/><div class="contheight"></div>五原县人民法院根据被告人吕某某的犯罪性质、犯罪事实、犯罪情节及对社会的危害程度等因素，依法作出有罪判决。判决被告人吕某某犯寻衅滋事罪，判处有期徒刑一年零十个月。<br/><div class="contheight"></div>(原标题： 内蒙古一75岁村霸获刑一年零十个月 曾多次殴打村民)</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李寿康<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 内蒙古 村霸 老人</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836479">
+<div class="nbgbox">
+<a class="zan" contid="2836479" href="javascript:;" onclick="voteCont(this)" praisetimes="47">
+                           46</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 打人</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836479&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836479&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

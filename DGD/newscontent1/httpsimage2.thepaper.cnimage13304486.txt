@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜20年后拦路“反削”老师，点赞者别再助长暴力了</h1>
+<div class="news_about">
+<p>澎湃特约评论员 胡欣红</p>
+<p>
+							2018-12-19 14:33<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2751977" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜20年后拦路“反削”老师，点赞者别再助长暴力了" src="//image.thepaper.cn/image/13/300/155.jpg"/>
+</a>
+<div class="atlas_360_txt">网曝河南栾川男子20年后拦路扇老师耳光，官方：警方已立案<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">“你还记不记得我？以前咋削我你还记得不记得？”一段“毕业后，他用耳光报答当年的老师”的视频在网上热传。昨天，栾川县官方证实了此事，目前警方已立案。<br/><div class="contheight"></div>33岁的常某称打老师时没喝酒，也没失去理智，只因20年前，13岁的自己在栾川县实验中学读书时，因家里没钱没权，被该老师任意欺负践踏尊严，多次把他踩在脚底下连踹十几脚并踹头，对他的心灵造成了一辈子的伤害。<br/><div class="contheight"></div>这样“解释”，一部分网友表示不能接受，认为必须严肃依法惩处，但也有很多网友觉得，如果事实属实，虽然打人在理性上有欠考虑，但从情感上可以理解，甚至有人表示支持，“君子报仇，十年不晚”“打得好”。 <br/><div class="contheight"></div>老师打学生、践踏学生尊严，当然有错。但在20年前的师生关系中，体罚还是一种相对“常见”的教育手段，相信很多过来人都有体会。这么说不是为老师辩驳，而是说即便当时感到受伤，但随着时间的流逝，人会逐渐心智成熟，多数人选择遗忘，或在心里与老师达成和解。人们愿意善意地将体罚行为解释为“对自己好”——这或许也是多数老师的初衷。也有人坚信，现在的成功，离不开当年老师的严格管教。很少有人会如常某这般“20年前被欺负，20年后再打回去”。 <br/><div class="contheight"></div>这固然说明了老师体罚对学生造成的伤害之深、之久，但另一方面也说明，更大的问题还在常某自己。<br/><div class="contheight"></div>一个心智成熟的成年人，不应出现这种行为。暴打老师，只能算是低劣的泄愤。正确的“君子报仇”应该是，通过自身奋斗，成为更好的自己。真要维权，也应该是通过教育主管部门、校方，或者大方地去找老师，让老师明白当年行为对自己造成的伤害，要求赔礼道歉。再不济，还有网络曝光，只要事实属实，自会赢得热心网友支持，以舆论倒逼老师表态。不是说这些办法一定有效，而是说对于成年人来说，总会找到一个比拳脚相加更值得尝试的办法。<br/><div class="contheight"></div>一个法治社会，也不允许这样的暴力行为。常某固然要为自身的极端行为承担责任，那些在网上动辄高调点赞呐喊的人，也应该反思自己的言语。其实，在生活中，这些人很少会效仿常某，因为他们清楚做了出格的事要承担什么后果。但他们在网上无节制地挑拨、鼓动，不利于社会公共话题的理性探讨，也加剧了崇尚暴力的氛围，不能不察。<br/><div class="contheight"></div>在师生关系、教师惩戒权成为社会热门话题的当下，对于常某这样疑似曾经的“体罚受害者”，也应当引起关注。值得学校与社会尝试的是，建立一个合法合规又易操作的维权路径，让他们能合理维权，这不仅是为了保护教师，也是为了保护这些当事人，预防恶性事件发生。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 20年后拦路扇老师耳光</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2752473">
+<div class="nbgbox">
+<a class="zan" contid="2752473" href="javascript:;" onclick="voteCont(this)" praisetimes="497">
+                           496</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 学生打老师</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2752473&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2752473&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（257）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

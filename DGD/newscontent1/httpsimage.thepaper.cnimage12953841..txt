@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">广东一人大代表建议落实非法证据排除制度，获最高检答复</h1>
+<div class="news_about">
+<p>广东检察微信公号</p>
+<p>
+							2018-12-06 13:34<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">在今年全国人代会上，全国人大代表朱列玉提出《关于将非法证据排除作为人民监督员监督范围的建议》。朱列玉代表在建议中提到，呼格吉勒图等多起冤错案件，都与刑讯逼供、未对证据进行严格把关有关。建议落实非法证据排除制度、促使办案人员恪守法律界限调查取证、维护犯罪嫌疑人权利。<br/><div class="contheight"></div>记者了解到，最高人民检察院会同中央政法委、最高人民法院、公安部、司法部联合办理该建议。<br/><div class="contheight"></div>最高检答复称，2017年4月，中央深改组第34次会议审议通过《关于办理刑事案件严格排除非法证据若干问题的规定》（下称《非法证据排除规定》），由最高人民法院、最高人民检察院、公安部、国家安全部、司法部会签下发，从启动程序、申请时限、法庭对证据收集合法性的处理和二审程序中控辩双方对证据收集合法性裁判的救济程序等四个方面完善了非法证据排除制度。<br/><div class="contheight"></div>➤ 一是关于非法证据排除的申请时间。针对朱列玉代表在建议中提出，应当赋予被告人或者辩护人在审判环节各阶段提出非法证据排除申请的权利。最高检答复称，我们研究认为，因为非法证据排除规则涉及诉讼程序，为避免被告人及其辩护人在庭审过程中突然提出排除非法证据申请而导致庭审中断，有必要督促其在开庭前尽早提出申请，此为一般原则。因此，《非法证据排除规定》对此作了原则性规定。但是，《非法证据排除规定》还明确被告人及其辩护人如果能够说明理由，在一审开庭审理前未提出申请的，也可以在一审开庭审理过程中提出，在一审程序中未提出的，也可以在二审程序中提出。对于该类申请，法庭经审查，对证据收集合法性有疑问的，应当进行调查。<br/><div class="contheight"></div>➤ 二是关于非法证据排除的启动程序。朱列玉代表在建议中提出，应当明确被告人或者辩护人提出非法证据排除申请的，必然进入审查程序。对此，《非法证据排除规定》有相关规定。只要被告人及其辩护人在开庭审理前申请排除非法证据，按照法律规定提供相关线索或者材料的，人民法院就应当召开庭前会议。也就是说，只要被告人及其辩护人能够按照法律规定提供相关线索或者材料的，召开庭前会议就是一个必经程序。<br/><div class="contheight"></div>➤ 三是关于将非法证据排除纳入人民监督员监督范围。最高检认为，朱列玉代表关于将非法证据排除和人民监督员监督结合起来的建议很有价值，可以有效发挥人民监督员这一体制外监督力量，扩大群众司法参与，促进司法民主，对于进一步深化人民监督员制度改革也具有积极意义。但根据《关于人民监督员监督工作的规定》，人民监督员是对检察环节权力运行的监督，不包括对审判环节的监督。<br/><div class="contheight"></div>据悉，审判环节的非法证据排除活动，《非法证据排除规定》已有相关规定，同时还有人民陪审员作为合议庭成员参与法庭审理，代表人民群众对审判权进行监督。最高检答复称，关于在审判环节提请人民监督员按照少数服从多数的原则对非法证据进行判定的建议，涉及人民监督员制度乃至现行诉讼制度的重大调整，目前尚缺乏法律依据，需要在以后的工作中结合司法实践认真研究。<br/><div class="contheight"></div>最高检表示，工作中，检察机关认真贯彻落实非法证据排除的各项规定，坚持对办案中发现的通过刑讯逼供取得的证据依法予以排除，切实防止“起点错、跟着错、错到底”。<br/><div class="contheight"></div>（原标题：广东这位人大代表建议落实非法证据排除制度，获得最高检答复！）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李寿康<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 广东 人大代表</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2712293">
+<div class="nbgbox">
+<a class="zan" contid="2712293" href="javascript:;" onclick="voteCont(this)" praisetimes="66">
+                           65</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 最高检</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2712293&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2712293&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

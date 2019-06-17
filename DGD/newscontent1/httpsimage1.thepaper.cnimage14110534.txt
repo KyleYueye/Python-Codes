@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25464">澎湃质量报告</a>
+</div>
+<h1 class="news_title">我国将集中专项治理电商平台：强化对虚假宣传等的监测和治理</h1>
+<div class="news_about">
+<p>杨召奎/工人日报</p>
+<p>
+							2019-01-10 10:47<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">记者1月9日从市场监管总局获悉，该局于近日印发《假冒伪劣重点领域治理工作方案（2019-2021）》的通知，要求集中开展电商平台专项治理，净化网络市场交易环境。<br/><div class="contheight"></div>通知指出，要严厉查处网络违法经营行为。以关系网络市场秩序和消费者切身利益的突出问题为重点，强化对虚假宣传、虚假促销、刷单炒信、侵权假冒等违法行为的监测和治理。以网络销售的食品、药品、电子产品、半导体、汽车配件、儿童用品、老年用品等社会反映集中、关系生命健康、影响公共安全的消费品为重点，组织开展集中整治，严厉打击电商领域侵犯知识产权和销售假冒伪劣商品违法行为。<br/><div class="contheight"></div>通知要求强化对网络交易平台的监管。综合运用行政约谈、行政指导、行政处罚、宣传引导等手段，强化网络交易平台的市场秩序责任人意识，督促电子商务经营者、特别是平台经营者履行法定责任和义务，自觉规范经营行为，促进公平竞争。督促电子商务经营者完善首问制度，按照“谁销售商品谁负责，谁提供服务谁负责”原则，及时处理消费者投诉。鼓励和引导网络交易平台等经营者建立和完善赔偿先付制度，提高纠纷处理效率。<br/><div class="contheight"></div>（原题为：《我国将集中专项治理电商平台》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 电商平台,整治,虚假宣传,刷单</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835715">
+<div class="nbgbox">
+<a class="zan" contid="2835715" href="javascript:;" onclick="voteCont(this)" praisetimes="34">
+                           33</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 电商</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835715&caid=25464",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835715&amp;caid=25464" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

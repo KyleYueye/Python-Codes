@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25436">能见度</a>
+</div>
+<h1 class="news_title">纽约股市大涨带动国际油价暴涨8%</h1>
+<div class="news_about">
+<p>澎湃新闻记者 杨漾</p>
+<p>
+							2018-12-27 08:50<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">美东时间12月26日，纽约股市大涨带动国际油价大幅上涨，油价迎来两年多以来的最大单日涨幅。<br/><div class="contheight"></div>当天，美国股市迎来近10年最大涨幅，道指单日涨幅首次突破千点，油价反弹并推动能源板块上涨。截至当天收盘，纽约商品交易所2019年2月交货的轻质原油（WTI）期货价格上涨3.69美元，收于每桶46.22美元，涨幅为8.68%。2019年2月交货的伦敦布伦特原油期货价格上涨4.00美元，收于每桶54.47美元，涨幅为7.93%。<br/><div class="contheight"></div>能源对冲基金会Again Capital创始合伙人John Kilduff表示，周三的油价反弹是周一暴跌后的一计宽慰性反弹，能源企业也受到了股市飙升的提振。12月24日，美国股市三大股指齐齐下跌，油价暴跌6%。“整个市场都处于动荡之中，仿佛世界末日。”John Kilduff称，“今天太阳出来了。”<br/><div class="contheight"></div>2018年原油价格出现了超过30%的涨幅，从10月起市场供需再次发生扭转，油价转而下跌。尽管迎来强劲反弹，但当前美油和布油较10月高点已跌去40%左右。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李跃群<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2779053">
+<div class="nbgbox">
+<a class="zan" contid="2779053" href="javascript:;" onclick="voteCont(this)" praisetimes="15">
+                           14</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国际油价</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2779053&caid=25436",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2779053&amp;caid=25436" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

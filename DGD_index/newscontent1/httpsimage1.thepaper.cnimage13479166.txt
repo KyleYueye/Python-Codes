@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">人大法工委呼吁废除收容教育制度：建议有关部门适时提出议案</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林平</p>
+<p>
+							2018-12-25 10:12<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">收容教育制度被建议废除。12月24日，十三届全国人大常委会第七次会议在京召开第三次全体会议。全国人大常委会法工委主任沈春耀在作关于2018年备案审查工作情况的报告时指出，目前启动废止收容教育制度工作时机已成熟，建议有关方面适时提出相关议案。 <br/><div class="contheight"></div>“备案审查制度”是保障宪法法律实施、维护国家法制统一的宪法性制度。根据宪法和立法法、监督法的规定，国务院制定的行政法规，地方人大及其常委会制定的地方性法规，以及最高人民法院、最高人民检察院制定的司法解释，应当报送全国人大常委会备案。<br/><div class="contheight"></div>这也意味着，全国人大常委会对报送备案的法规、司法解释进行审查，对与宪法法律相抵触的法规、司法解释有权予以撤销、纠正。<br/><div class="contheight"></div>谈及 “有备必审”落实情况时，沈春耀提到，全国政协十三届一次会议期间，有全国政协委员提出提案，建议对收容教育制度进行合宪性审査。<br/><div class="contheight"></div>澎湃新闻注意到，收容教育制度的主要法律依据是1991年七届全国人大常委会第二十一次会议通过的《关于严禁卖淫嫖娼的决定》。该《决定》第四条第二款规定：“对卖淫、嫖娼的，可以由公安机关会同有关部门强制集中进行法律、道德教育和生产劳动，使之改掉恶习。期限为六个月至二年。具体办法由国务院规定。”<br/><div class="contheight"></div>据此，国务院制定了《卖淫嫖娼人员收容教育办法》。“制定该《决定》主要是为了补充修改当时的刑法和治安管理处罚条例的有关规定，制定程序和内容均符合宪法规定。”沈春耀说。<br/><div class="contheight"></div>值得一提的是，上述《决定》所规定的刑事方面内容，在1997年修改刑法时已经被吸收到刑法之中；但《决定》规定的收容教育制度作为行政措施继续有效，并一直延续至今。<br/><div class="contheight"></div>沈春耀说，总的看，收容教育制度实施多年来，在维护社会治安秩序、教育挽救卖淫嫖娼人员、制不良社会风气蔓延等方面发挥了积极作用。但是，随着我国经济社会的快速发展和民主法治建设的深入推进，特别是2013年废止劳动教养制度后，情况发生了很大变化。<br/><div class="contheight"></div>“近年来，收容教育措施的运用逐年减少，收容教育人数明显下降，有些地方已经停止执行。”沈春耀表示，通过调研论证，各有关方面对废止收容教育制度已经形成共识，启动废止工作的时机已经成熟，“我们建议有关方面适时提出相关议案，废止收容教育制度”。<br/><div class="contheight"></div>沈春耀还透露，拟从明年开始，逐步推动将地方政府规章和其他规范性文件以及地方“两院”制定的有关规范性文件全部纳入人大备案审查范围，以备案全覆盖带动审查全覆盖，以审查全覆盖实现监督全覆盖，“重点是将影响老百姓切身利益、直接涉及公民权利义务的各类规范性文件依法纳入人大备案审查范围”。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王选辉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 人大，立法，收容教育</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2771311">
+<div class="nbgbox">
+<a class="zan" contid="2771311" href="javascript:;" onclick="voteCont(this)" praisetimes="212">
+                           211</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 废止收容教育</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2771311&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2771311&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（94）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

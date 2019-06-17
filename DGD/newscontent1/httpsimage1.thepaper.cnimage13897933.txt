@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">德国数百名政客个人信息遭黑客泄露，总理默克尔系受害者之一</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-04 20:07<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">数百名德国政客的个人数据和文件被泄露至互联网，其中包括德国总理默克尔和总统施泰因迈尔。<br/><div class="contheight"></div>据路透社4日报道，这些数据被黑客发布在一个拥有1.7万名关注者的推特账户上，其中包括个人地址、信用卡信息、手机号码、私人聊天记录等。<br/><div class="contheight"></div>德国莱茵士基邮报称，德国总理默克尔(Angela Merkel)和德国总统施泰因迈尔(Frank-Walter Steinmeier)也是泄密事件的受害者。<br/><div class="contheight"></div>路透社称，除极右翼德国选择党（AfD）外，德国所有主要政党均受到影响。德国左翼党 (Linke party)发言人4日表示，该党政客的信息也遭到了泄露，其中包括左翼党下议院领袖巴特奇(Dietmar Bartsch)。<br/><div class="contheight"></div>尽管自上个月起该账户就陆续发布了一些数据，但直到3日晚间，德国当局才意识到此起黑客行为。<br/><div class="contheight"></div>德国联邦信息安全办公室(BSI)表示，正在调查此次黑客攻击，并表示政府网络没有受到影响。德国国家网络防御机构在当地时间4日早间收到黑客攻击消息后立即召开会议，并将非常严重对待这起违例事件。<br/><div class="contheight"></div>德国司法部长卡塔琳娜·巴利称这是一次“严重的袭击”，但未透露因泄露造成的损害程度。巴利表示：“背后的人想要破坏民众对我们民主制度的信心。”<br/><div class="contheight"></div>据英国广播公司报道（BBC）报道，尽管目前没有发现任何政治敏感信息被泄漏，但该黑客事件涉及的个人数据量之大表明，其后果可能相当严重。<br/><div class="contheight"></div>黑客的身份和动机目前尚不清楚。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙语双<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 黑客,德国,政客资料</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2813914">
+<div class="nbgbox">
+<a class="zan" contid="2813914" href="javascript:;" onclick="voteCont(this)" praisetimes="110">
+                           109</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 黑客</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2813914&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2813914&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

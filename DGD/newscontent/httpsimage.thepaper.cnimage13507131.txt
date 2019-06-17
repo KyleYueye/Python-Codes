@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">上海地铁3、4号线晚高峰运行延误，系因人员进入线路</h1>
+<div class="news_about">
+<p>王佳妮/东方网</p>
+<p>
+							2018-12-25 22:21<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="600" src="http://image.thepaper.cn/www/image/13/507/137.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">事发现场。微博网友图<br/><div class="contheight"></div></span>今天晚高峰19时许，市民董先生致电东方网新闻热线，称上海地铁4号线突发运行故障，列车迟迟不动，“我在微博上看到，据说有人进入列车轨道了。”<br/><div class="contheight"></div>据董先生介绍，自己19时许乘上四号线上海体育场站。“开出2站到宜山路后，广播说‘列车在本站稍作停留，请乘客们耐心等待’。等了将近10分钟后，广播改为‘因为列车运行计划调整，本次列车终点站宜山路，请乘客们下车。”<br/><div class="contheight"></div>19时08分，上海地铁在官方微博发布称：“3/4号线因人员进入线路，中山公园站至上海火车站区段列车限速运行，发车班次间隔延长，造成列车延误，预计晚点时间15分钟以上，请乘客们及时调整出行路径，以免耽误行程。”<br/><div class="contheight"></div>在站台等待半个多小时后，董先生于19时35分许再次乘上4号线。不过，他表示，列车每站停留时间似乎有延长。无独有偶，东方网记者在上海地铁官方微博号评论起看到，不少网友都纷纷表示“回家路被耽搁了”。网友“街道shu记”说：“镇坪路已经等半个小时了。”网友“Xjh呀_”说：“在大木桥路滞留20分钟了。”更有网友称，看到3号线曹杨路站似乎有人员受伤。<br/><div class="contheight"></div>19时18分，上海地铁再次更新运行信息：“目前，3/4号线人员进入线路已处理完毕，预计全线恢复正常运营仍需20分钟，部分车站客流较大，请乘客们听从工作人员引导，耐心等候。给您的出行带来不便，敬请谅解！”<br/><div class="contheight"></div>（原题为《突发！上海地铁3、4号线晚高峰运行延误 系人员进入线路》，有删减）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：管卓<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 地铁 人员 进入</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2774780">
+<div class="nbgbox">
+<a class="zan" contid="2774780" href="javascript:;" onclick="voteCont(this)" praisetimes="23">
+                           22</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 地铁安全</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2774780&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2774780&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

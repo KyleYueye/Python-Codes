@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">韩出租车司机将在首尔举行十万人集会，反对发展“拼车”业务</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2018-12-12 10:51<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="320" src="http://image.thepaper.cn/www/image/13/105/733.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">当地时间2018年11月22日，韩国首尔，出租车司机聚集在国会大厦外，参加第2次“出租车生存权”决议大会，抵制打车软件拼车服务。 东方IC 资料</span><br/><div class="contheight"></div>中新网12月12日消息，据韩国《亚洲日报》报道，韩国出租车业界表示，将于20日在首尔汝矣岛国会前举行十万人大规模集会，反对KAKAO公司发展“拼车”业务。<br/><div class="contheight"></div>据报道，11日，韩国全国出租车工会召开紧急对策委员会会议，工会委员长姜信杓在会上表示，将于20日在首尔汝矣岛国会前举行十万人集会，向民众表达出租车司机的诉求。<br/><div class="contheight"></div>当天，韩国全国出租车工会、全国出租车民主工会、全国个人出租车司机运输业务联合会、全国出租车运输业务联合会等4大组织代表和有关人士出席了紧急对策会议。<br/><div class="contheight"></div>为了反对KAKAO“拼车”业务，会上还讨论了拒绝使用KAKAO TAIX叫车服务等方案，工会计划向下属司机转达消息，要求司机删除KAKAO T软件、拒绝接受KAKAO TAIX的叫车服务。<br/><div class="contheight"></div>韩国KAKAO公司此前表示计划推出“拼车”服务软件，适用于早晚交通高峰时段。普通车主可搭载目的地或出行方向相同的乘客，收取比普通出租车低廉的费用，以解决市民高峰时段打不到车的难题。<br/><div class="contheight"></div>KAKAO的“拼车”服务从本月7日开始进行测试，正式服务预计将在17日上线。据悉，使用KAKAO“拼车”软件打车的价钱是传统出租车的70%至80%，驾驶员每天通过该软件招揽客人的次数被限制在2次以下，乘车人的使用次数则没有上限。<br/><div class="contheight"></div>此前在10月、11月韩国出租车司机已经举行过两次集会，反对开展“拼车”业务。<br/><div class="contheight"></div>（原题为《韩出租车司机将于20日举行集会，反对发展“拼车”业务》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 拼车</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2729483">
+<div class="nbgbox">
+<a class="zan" contid="2729483" href="javascript:;" onclick="voteCont(this)" praisetimes="56">
+                           55</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 拼车</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2729483&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2729483&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（47）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

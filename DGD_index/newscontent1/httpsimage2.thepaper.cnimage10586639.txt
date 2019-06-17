@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">检察日报：整治新闻敲诈，也查查被敲诈者</h1>
+<div class="news_about">
+<p>李曙明/检察日报</p>
+<p>
+							2018-09-19 10:09<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">从今年8月开始，陕西省在全省范围内展开一场针对新闻敲诈的整治行动。截至目前，榆林市有46人被刑事拘留，西安市18人，渭南市10人。<br/><div class="contheight"></div>多年前，山西省一度是新闻敲诈的“重灾区”，当地一份报告曾这样描述假记者横行现象：“一些非法报刊社的假记者，一些尝到利用记者身份诈骗甜头的无业游民，甚至一些街头打烧饼、修鞋的小商小贩，都拿着假记者证，或穿梭于机关、企业，尤其是煤矿、交通治超点敲诈钱财，或骗免交过路费、旅游景点参观费，甚至混进了一些重要会议现场。”<br/><div class="contheight"></div>山西之后是陕西，尤其是陕北。根据媒体梳理，从2003年开始，假记者开始在陕北地区活跃。至今，15年过去，政府也曾多次整治，却一直久治未绝。今年7月，上级督查组对陕西省作风建设情况开展专项督查后，在反馈意见中指出，“一些真假难辨的记者，反向利用舆论监督机制，借口‘媒体、网络爆料’敲诈勒索地方干部和企业主，有的甚至雇佣一批‘马仔’，已成为当地一大公害”。<br/><div class="contheight"></div>假记者选择到哪里敲诈，是有讲究的，其中“有钱”很重要。和山西一样，陕北也是矿产资源丰富的地区，企业多，财大气粗，在这样的地方敲诈，“油水”才大。但光“有钱”还不行，全国比陕北富的地方多了，假记者对这里“情有独钟”，是因为这一套在那里行得通。<br/><div class="contheight"></div>上级督查组在反馈意见中，用了“真假难辨的记者”的表述。事实上，来人是真记者还是假记者，拿他证件上网一查真伪立现，想要辨别很容易。对被敲诈者来说，一些时候，与其说是“不能辨别”，不如说是“不想辨别”。<br/><div class="contheight"></div>一个人，只要他实施了新闻敲诈，就必须付出法律代价，无论他是真记者还是假记者。有人敲诈，甭管他是谁，第一时间报案，在外人看来，这该是被敲诈者最明智的选择。如果被敲诈者能做到这点，敲诈等于自投罗网，敲诈者也就不会有这十几年在陕西的“好日子”。但现实却是，一些敲诈成功了。这坚定了一些人“将敲诈进行到底”的决心，也吸引更多人来此“淘金”。<br/><div class="contheight"></div>面对敲诈，一些被敲诈者没有说“不”的勇气，“花钱消灾”是一种普遍心态。被假记者敲诈的某单位领导道出了自己的想法：“我们工作不是十全十美的，我想，如果把这些人得罪了，他们一而再，再而三的老这么来，总不是办法，正常的工作也无法开展了，所以便花钱买平安。”如果说上述心态有些无奈成分，那另一种“花钱消灾”则更为可怕。一些人干了不可告人的事儿，他们明白，一旦报案，“不可告人”的事情为人所知，将付出更大代价。与之相比，给敲诈者几个钱，用最小的代价保全最大利益，是最经济的选择。而就保守“秘密”言，敲诈者是真记者还是假记者并无区别，他们自然也就无暇顾及、辨别其身份了。<br/><div class="contheight"></div>敲诈要成功，必须握有对方的把柄。这种把柄必须是真实存在的，惟此才能对被敲诈者有威慑力。一般来说，新闻敲诈“生意红火”的地方，“烂事”也比较多；每一起成功敲诈背后，也都有一些需要隐瞒的事实。在媒体报道中，多名陕西媒体人建议有关部门，在整治新闻敲诈活动中实行“双查”，即除了查处敲诈者，也要查被敲诈者。他们为何被敲诈，为何要“花钱消灾”？顺着这些查下去，或有大的收获。<br/><div class="contheight"></div>敲诈者将付出应有代价，这一点毋庸置疑。但“烂事”丛生是敲诈得以生存的土壤，只有彻底铲除了它们，我们才不用担心新闻敲诈会在某一天卷土重来。<br/><div class="contheight"></div>（<strong>原标题：</strong>整治新闻敲诈，也查查被敲诈者）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陈雷柱<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 新闻敲诈,假记者,受贿</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2454949">
+<div class="nbgbox">
+<a class="zan" contid="2454949" href="javascript:;" onclick="voteCont(this)" praisetimes="124">
+                           123</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 敲诈勒索</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2454949&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2454949&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">上海市政府常务会研究明年实事项目，部署推进金山二工区转型</h1>
+<div class="news_about">
+<p>澎湃讯</p>
+<p>
+							2018-12-25 17:27<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">上海市委副书记、市长应勇今天（25日）主持召开市政府常务会议，研究2019年市政府实事立项工作，要求切实提升市民群众的获得感和满意度；贯彻落实国务院有关要求，制订本市各类交易场所规范发展的管理办法；部署推进金山第二工业区深度调整、整体转型。<br/><div class="contheight"></div>每年完成一批与人民生活密切相关的市政府实事项目，是上海坚持多年的实事工程、民心工程，也是“补短板、惠民生、促转型”的重要抓手。经过市民网上投票等多种形式测评，2018年市政府实事项目的市民总体满意度为91.02分，创近年来新高。<strong>2019年市政府实事项目，将继续坚持以人民为中心，积极回应民生关切，解决群众急难愁问题；着力完善公共服务，提高市民生活品质；提升安全保障能力，维护城市运行秩序；注重向郊区农村倾斜，促进城乡一体化发展。</strong><br/><div class="contheight"></div>会议原则同意2019年市政府实事立项安排并指出，每年坚持不懈抓一批与人民生活密切相关的实事项目，工作行之有效，深受市民群众欢迎。<strong>要紧紧围绕“看得见、摸得着、能感受、更实在”的要求，做好实事立项工作。指向要更加精准，集中力量解决市民群众高度关注、反映突出的堵点和痛点，让市民群众感受到上海的城市温度；要突出群策群力，尤其注重发挥工青妇等群团组织的优势，广泛调动社会资源，扩大实事项目的影响力和受益面。</strong>要抓好实事项目的落实落地，切实提升市民群众的获得感和满意度。<br/><div class="contheight"></div>为规范各类交易场所行为，根据国务院相关文件要求，本市结合实际，制订了交易场所规范发展的相关管理办法。<br/><div class="contheight"></div>会议指出，要按照国家统一部署，落实好清理整顿交易场所的工作，切实规范各类交易场所行为，防范和化解金融风险。同时，<strong>要引导交易场所回归服务实体经济本源，建立长效管理机制，促进其合规、健康发展。</strong><br/><div class="contheight"></div>金山第二工业区成立于2002年，经过10多年发展，形成了四大主导产业及相关研发孵化配套功能，但也面临着产业发展不平衡、部分企业能级较低等问题。<strong>园区将以安全和环保为前提，以产业高端、高新和高效发展为导向，</strong>突出节能环保产业的引领和带动作用，<strong>聚焦传统产业转型升级，</strong>借力临港集团园区开发运营的优势与资源，<strong>加快深度调整、整体转型，构建现代产业体系，重点打造节能环保、绿色材料和生物医药三大产业及相关的生产性服务业，努力成为全市工业园区整体转型发展的示范区。</strong><br/><div class="contheight"></div>会议原则同意《金山第二工业区深度调整转型发展行动方案》并指出，<strong>要深入贯彻落实新发展理念，严格落实“以环境论英雄、以能耗论英雄、以亩产论英雄、以效益论英雄”的要求，按照最高标准、最严要求、最好水平，加快金山二工区深度调整，整体转型。</strong>市级部门要加强对金山二工区转型发展的指导，建立完善工作推进机制，加快推进实施。<br/><div class="contheight"></div>会议还研究了其他事项。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 市政府常务会议,应勇</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2773052">
+<div class="nbgbox">
+<a class="zan" contid="2773052" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 应勇</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2773052&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2773052&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

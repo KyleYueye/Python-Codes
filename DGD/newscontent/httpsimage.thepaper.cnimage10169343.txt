@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">最高法：近三年校园暴力呈下降趋势，“宿舍”成案件高发地</h1>
+<div class="news_about">
+<p>澎湃新闻记者 庄岸 实习生 刘岩</p>
+<p>
+							2018-09-05 10:44<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“‘宿舍’已成为校园暴力案件中高频词语。”9月5日，最高人民法院发布的有关校园暴力司法大数据专题的报告显示，近三年校园暴力案件呈逐年下降趋势，其中近七成涉故意杀人罪案件为预谋犯罪，超六成牵扯到“宿舍”。<br/><div class="contheight"></div> 报告显示，近三年校园暴力案件呈逐年下降趋势。其中，2015年，全国各级人民法院一审审结校园暴力案件共计1000余件。2016年案件量同比下降16.51%。2017年案件量同比下降13.37%<br/><div class="contheight"></div> 在案件分布上，一审审结的校园暴力案件审理法院主要集中在河南、贵州、山东等地。与之相对的是，北京、上海等人口密集地区校园暴力案件量占比不高，案件量占比分别为2.35%和0.48%。<br/><div class="contheight"></div> 同时，2015年至2017年，57.5%的校园暴力案件为故事伤害案件。校园暴力案件中，故意伤害罪和抢劫罪近三年呈下降趋势，年平均降幅分别为24.62%和18.51%。此外，聚众斗殴罪和寻衅滋事罪在2017年有小幅增长，同比上升10.58%和14.08%。<br/><div class="contheight"></div> 值得注意的是，近七成涉故意杀人罪案件为预谋犯罪。具体来说，2015年至2017年，13.46%的校园暴力案件中有事先谋划情形，并且近三年案件量基本持平。在这些案件中，被告人实施犯罪目标明确、并进行了事前准备工作，其大部分原因为心怀怨恨或不满进行打击报复。在校园暴力案件中，69.76%的故意杀人罪案件是有预谋的犯罪。<br/><div class="contheight"></div> 报告还指出，“宿舍”已成为校园暴力案件中高频案发地。有35.31%的校园暴力案件中出现了宿舍一词，而在这些案件中绝大部分案件的案发地就是在宿舍。在涉及故意杀人罪的校园暴力案件中，65.12%的案件出现了“宿舍”一词。<br/><div class="contheight"></div> 在被告人年龄分布方面，被告人年龄为14岁至16岁的校园暴力案件涉及罪名较少，包括故意伤害罪、抢劫罪、故意杀人罪和强奸罪。在校园暴力案件中，81.02%抢劫罪的被告人为未成年人，其中以16至18周岁为主。非法拘禁罪案件中未成年人占比最少。在校园暴力案件中，16至18周岁未成年人在强奸罪和强迫卖淫罪案件中占比最大，呈作案年轻化趋势。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2409069" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">4初中生宿舍围殴1同学，教体局：5人又与他人约架均被劝退</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：胥辉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 校园暴力 司法大数据</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2410266">
+<div class="nbgbox">
+<a class="zan" contid="2410266" href="javascript:;" onclick="voteCont(this)" praisetimes="65">
+                           64</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 校园暴力</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2410266&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2410266&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

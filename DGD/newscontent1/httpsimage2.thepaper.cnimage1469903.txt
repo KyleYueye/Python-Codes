@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25448">有戏</a>
+</div>
+<h1 class="news_title">媒体：央视2019年春晚歌舞类节目有望恢复现场真唱</h1>
+<div class="news_about">
+<p>杜恩湖/封面新闻</p>
+<p>
+							2019-01-09 13:12<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">封面新闻1月8日消息，备受亿万人民关注的2019年央视猪年春晚，正在十分保密的情况下紧锣密鼓地筹备。8日下午，封面新闻记者从多位歌星、歌唱家处打探到：2019年央视猪年春晚，有望恢复春晚歌星真唱。<br/><div class="contheight"></div>尽管春晚导演组目前还没有针对今年春晚是否真唱对外发布消息，但一位歌星向封面新闻记者透露，有多位电视专家建议今年春晚导演组恢复真唱，希望应邀参加央视春晚的歌星、歌唱家都能在2019年春晚现场真唱。<br/><div class="contheight"></div>封面新闻记者已追踪报道央视春晚24年，央视春晚曾有几届成功要求歌手现场真唱。虽然有的歌手小跑调，但却广受观众好评。许多观众网友其实一直希望央视春晚能请保持真唱。<br/><div class="contheight"></div>1994年，著名导演郎昆率先提出了春晚“真唱”的理念，他在当年表示，“必须用真唱取代假唱，让艺术还原到原汁原味的境界。”<br/><div class="contheight"></div>封面新闻记者从当时的录像可以看出来，1994年的春晚不仅是真唱，甚至连伴奏带都舍弃了，用的是现场乐队伴奏。不得不说，郎昆作为多次执导春晚的优秀导演，的确是很有艺术追求。<br/><div class="contheight"></div>针对央视2019年春晚有望恢复歌星真唱的消息，封面新闻记者于1月8日晚分别采访了几位北京歌星和网友、观众。多数人对央视春晚恢复歌手真唱这个举动，表示支持！“我们完全支持总导演刘真，恢复真唱。因为真唱感人啊！这比起假唱，至少很尊重观众。”“虽然真唱可能会带来一些状况，比如有的歌星会紧张忘词或跑调，但起码情是真的，唱是真的。比起花枝招展的那些假唱，让观众看真唱更开心高兴。”<br/><div class="contheight"></div>一位曾在春晚上表演过的实力派歌唱家，在谈及央视2019年春晚有望恢复歌星真唱一事时说：“这是大好事，我内心希望央视今年春晚一定恢复真唱。这是对观众的尊重。我们早就盼望支持央视春晚恢复真唱了。唱歌是我们的工作，是我们的事业。一个真正会唱歌的人，还怕在春晚舞台上真唱吗？我不怕真唱。如果央视2019年春晚邀请我去参加，我可以保证连续真唱五首都不会跑调。”<br/><div class="contheight"></div>（原题为《央视2019年春晚歌舞类节目有望恢复现场真唱》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 央视春晚</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831413">
+<div class="nbgbox">
+<a class="zan" contid="2831413" href="javascript:;" onclick="voteCont(this)" praisetimes="64">
+                           63</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 央视春晚</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831413&caid=25448",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831413&amp;caid=25448" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（87）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

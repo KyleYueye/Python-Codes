@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25490">打虎记</a>
+</div>
+<h1 class="news_title">唐山市公安局原副局长收受160万路虎揽胜，为一女老板所赠</h1>
+<div class="news_about">
+<p>澎湃新闻记者 钟煜豪</p>
+<p>
+							2019-01-10 20:19<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">河北唐山市公安局原副局长徐忠岭的一名行贿者被曝光。<br/><div class="contheight"></div>最近，中国裁判文书网公布了《黄文红行贿罪二审刑事判决书》，判决书显示，唐山大德珠宝有限公司总经理黄文红，女，因涉嫌犯行贿罪于2014年4月10日被河北省唐山市路北区人民检察院决定刑事拘留，同年4月23日经河北省唐山市人民检察院决定，次日由河北省唐山市公安局路北区分局执行逮捕。<br/><div class="contheight"></div>法院认定，被告人黄文红在办理河北省玉田县车辆检测线与驾驶人考试场过程中，为谋取不正当利益，于2011年4月送给时任唐山市公安局副局长兼交警支队支队长徐某(已判刑)路虎揽胜3628CC越野汽车一辆(含车辆配件)。该车价值人民币158.9万元。2011年3月，被告人黄文红为了取得交通银行股份有限公司唐山分行曹妃甸支行的贷款，为时任交通银行股份有限公司唐山分行曹妃甸支行行长王翠丽(已判刑)个人购买的别克君威轿车支付购车款人民币22.19万元。后王翠丽帮助被告人黄文红顺利办理了银行贷款。<br/><div class="contheight"></div>判决书显示，黄文红因犯行贿罪判处有期徒刑三年（刑期已服满），并处罚金人民币五十五万元。<br/><div class="contheight"></div>澎湃新闻梳理发现，收受路虎揽胜越野汽车的即唐山市公安局副局长兼交警支队支队长徐忠岭，他于2014年7月被双开，通报指其利用职务便利，为他人谋取利益，索取、收受巨额贿赂，其行为已构成严重违纪。此前，已将涉嫌犯罪的受贿等问题移送司法机关依法处理。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王俊<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 唐山市公安局，唐山，路虎</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837687">
+<div class="nbgbox">
+<a class="zan" contid="2837687" href="javascript:;" onclick="voteCont(this)" praisetimes="57">
+                           56</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 河北反腐</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837687&caid=25490",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837687&amp;caid=25490" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

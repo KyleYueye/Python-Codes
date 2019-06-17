@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_26937">古代艺术</a>
+</div>
+<h1 class="news_title">故宫养心殿发现清宫曲目戏折，为乾隆二十四年“春晚”节目单</h1>
+<div class="news_about">
+<p>丁飞/@中国之声</p>
+<p>
+							2019-01-10 15:42<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">央广新闻频率微博@中国之声 1月10日报道，2019年1月9日下午1点30分，故宫博物院工程管理处和养心殿修缮施工单位北京国文琰园林古建有限公司工作人员在养心殿西配殿南山墙前檐金柱砖雕透风内发现两份清宫春节曲目戏折。<br/><div class="contheight"></div>养心殿研究性保护项目自2018年9月正式进入修缮实施阶段后，工程管理处即刻启动了养心殿区现状文物保护、现场深度勘察及修复用脚手架搭设工作。1月9日下午，修复工匠在清理砖雕透风，探查柱根糟朽情况时，在透风与柱根空隙间发现有细卷状纸张堆砌。<br/><div class="contheight"></div>工作人员取出纸张后，发现其质地绵软，颜色泛黄，字迹基本清晰。其联首处书：“乾隆二十四年十一月十九日造办处呈”、“重华宫承应”字样，券内首行注明：“十二月三十日”及“升平除岁、福寿迎年、看状、下海……”等19出曲目名单及演职人员名单。经查，两份戏折所题曲目相同，演职人员备注栏详略不一。研究人员查看后，确认该物品应为清乾隆二十四年造办处呈大年三十戏曲节目单。<br/><div class="contheight"></div>该戏折发现后，工程管理处迅速上报院领导，并通知了相关部门前往记录、辨识。据宫廷部戏曲研究人员称，故宫博物院现存文物中尚无此类形式的曲目单。该发现将有助于宫廷戏曲及清宫节庆文化的深入研究。现文物已移交故宫博物院宫廷部典章组保管，待修复研究完成后适当时机向公众展出。（原题《故宫养心殿发现清宫春节曲目戏折》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 故宫,清宫,春节曲目戏折,乾隆</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836658">
+<div class="nbgbox">
+<a class="zan" contid="2836658" href="javascript:;" onclick="voteCont(this)" praisetimes="87">
+                           86</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 清朝</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836658&caid=26937",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836658&amp;caid=26937" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（144）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

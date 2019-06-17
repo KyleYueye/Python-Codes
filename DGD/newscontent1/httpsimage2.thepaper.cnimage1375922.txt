@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">韩媒：金正恩向特朗普发送“和解信息”</h1>
+<div class="news_about">
+<p>澎湃新闻记者 廖婧雯</p>
+<p>
+							2018-12-31 18:44<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">朝鲜最高领导人金正恩12月28日向美国总统特朗普发送了“和解的信息”。韩国《朝鲜日报》12月31日从外交消息人士处得到此消息。<br/><div class="contheight"></div>据路透社12月31日报道，虽然《朝鲜日报》并未报道“信息”的详细内容，但是围绕朝核问题，金正恩发给特朗普的“信息”所用的语气是“和解的”。报道称，“信息”是通过什么方式传送出去的目前还不清楚。韩国总统府报道官表示，虽然美朝之间拥有一些对话的渠道，但是目前该“信息”是通过书面的方式还是其他方式发出的并未知晓。<br/><div class="contheight"></div>金正恩12月30日也向韩国总统文在寅发出亲笔信，表示有意在新的一年同文在寅举行更多首脑峰会，以实现朝鲜半岛无核化的目标。据文在寅报道官称，金正恩就未能实现访韩一事表示遗憾，表达了未来根据情况来实现访韩的强烈意愿。<br/><div class="contheight"></div>路透社报道指出，关于金正恩向特朗普所传送的“消息”，美国国务院和韩国驻美大使馆尚未做出回应。<br/><div class="contheight"></div>此外据韩联社12月30日报道，朝鲜最高领导人金正恩很可能会在新年讲话中缓和言论，以避免激怒美国，并试图恢复双方长期僵持的无核化谈判的希望。<br/><div class="contheight"></div>据《参考消息》31日报道，日本等多家媒体分析金正恩新年贺词将引各方关注，或将释放打破美朝僵局信号。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：汤宇兵<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 金正恩，特朗普，朝核问题</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2799907">
+<div class="nbgbox">
+<a class="zan" contid="2799907" href="javascript:;" onclick="voteCont(this)" praisetimes="42">
+                           41</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 朝核问题</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2799907&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2799907&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

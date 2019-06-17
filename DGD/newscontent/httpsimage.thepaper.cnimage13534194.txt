@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25435">金改实验室</a>
+</div>
+<h1 class="news_title">所有地方债评级都是AAA怎么办？将出台地方债评级自律规范</h1>
+<div class="news_about">
+<p>金嘉捷/中国证券网</p>
+<p>
+							2018-12-26 20:27<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“目前为止，所有地方政府债券的最终评级都是AAA，地区之间没有信用差别。比如上海和黑龙江，浙江和贵州，信用评级级别都是一样的。”在12月26日举行的政府债研讨会上，中国国债协会会长孙晓霞指出，目前评级结果不能真实反映地方政府之间的信用级别差，地方债信用评级要进一步规范化，信息披露要更透明化。<br/><div class="contheight"></div>从市场看，投资者对地方政府债券信用评级结果认可度低。从2017年各地公开发行的地方债发行利差均值来看，范围在5.9到42.7个BP之间，可以看出价格差异与同质化的评级结果明显背离。<br/><div class="contheight"></div>评级体系还有待进一步规范。“评级机构对地方债的评级思路是，基础信用评级加上外部支持评级。”她进一步解释道，目前基础信用评级能拉出各地区大致的差距，但是外部支持评级，填平补齐了最终评级。此外，虽然各家机构的评级关键指标具有相似性，但关键指标中运用的具体量化指标和计算方法仍有较大差异，对其加以明确和统一，可以提高评级结果的质量和可比性。<br/><div class="contheight"></div>从市场信息透明度来看，她指出，一方面，地方政府仅公布基本财政数据，信息披露不完整，且不同区域的地方政府预算公开进度不一致，财政体制与管理、财政预算与执行、债务口径与统计等各方面透明度都不够。<br/><div class="contheight"></div>另一方面，评级机构的评级方法、过程和结果披露也不透明。在关键量化指标有差异的情况下，投资者很难根据评级报告披露信息进行横向比较。评级机构仅仅简单披露评级结果，削弱了其揭示风险的作用。<br/><div class="contheight"></div>孙晓霞表示，目前协会已着手制定了地方政府债券信用评级业务自律规范指引。同时，研究统一关键量化指标及其权重，提高评级结果的可比度。此外，研究制定最低信息披露要求，提升市场透明度。<br/><div class="contheight"></div>同时，她还建议加强地方债预算绩效管理。首先，对地方债绩效管理要有目标。要研究建立地方债绩效目标和管理机制，加强对绩效目标进行事前评估，包括地方举债方式、限额控制、举债程序、偿还方式、资金用途、融资利率等方面。<br/><div class="contheight"></div>其次，对地方债绩效运行要有监控。要对绩效目标实现程度和预算管理实行“双监控”，形成债务风险预警、绩效纠偏等跟踪机制，保证绩效目标实现。<br/><div class="contheight"></div>再次，对地方债绩效要有评价。要研究建立能综合反映地方债资金使用效率和效果的绩效评价体系。<br/><div class="contheight"></div>第四，对地方债绩效评价结果要有应用。要从挂钩机制、奖惩机制等方面，加大绩效评价结果应用力度，促进地方政府树立“举债必问效、无效必问责”的意识。协会也拟开展相关课题研究，通过研究构建地方债预算绩效管理的机制体系，为地方债预算绩效管理的推进提供实施办法及路径参考。（原题为《国债协会孙晓霞：将出台地方债信用评级业务自律规范指引》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑景昕<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2777919">
+<div class="nbgbox">
+<a class="zan" contid="2777919" href="javascript:;" onclick="voteCont(this)" praisetimes="18">
+                           17</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 政府债券</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2777919&caid=25435",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2777919&amp;caid=25435" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

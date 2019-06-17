@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25432">自贸区连线</a>
+</div>
+<h1 class="news_title">海关总署发布进口食品化妆品安全风险预警，涉数百境外出口商</h1>
+<div class="news_about">
+<p>孙树文、赵学锋/央视新闻客户端</p>
+<p>
+							2018-12-27 08:23<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据央视新闻客户端12月27日消息，12月26日，海关总署发布进口食品化妆品安全风险预警通告（境外出口商），涉及美国、日本、俄罗斯、加拿大、法国、意大利和中国台湾、中国香港等48个国家和地区的数百个境外出口商。主要问题包括：美国再次对华出口冻猪肉时需附感官品质项目合格保证书，韩国再次出口养殖制作及保藏藻类制品时需随附菌落总数项目的检测报告，印度尼西亚再次出口食用棕榈油时需随附砷项目的检测报告，挪威再次出口养殖冷冻鲑鱼时需随附传染性鲑鱼贫血病项目的检测报告等。<br/><div class="contheight"></div>据悉，列入风险预警的企业所生产经营的某种（些、类）食品化妆品曾发生过不符合我国法律法规而被拒绝入境的情况，达到《进口食品不良记录管理实施细则》（原质检总局公告2014年第43号）所规定批次。相关产品再次申报进口时，应按照本表所列控制措施的要求，向海关提交相应检测报告或合格证明材料。这些企业在符合《进口食品不良记录管理实施细则》规定的“解除风险预警条件”后，可向其所在国家（地区）主管部门申请解除风险预警，该国家（地区）主管部门经调查核实，可向海关总署申请解除风险预警和控制措施。<br/><div class="contheight"></div>2018年12月26日，海关总署解除了对株式会社爱茉莉太平洋风险预警。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="1504" src="http://image.thepaper.cn/www/image/13/542/720.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="1818" src="http://image.thepaper.cn/www/image/13/542/721.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="1816" src="http://image.thepaper.cn/www/image/13/542/722.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="1816" src="http://image.thepaper.cn/www/image/13/542/723.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="1816" src="http://image.thepaper.cn/www/image/13/542/724.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="1816" src="http://image.thepaper.cn/www/image/13/542/725.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="1816" src="http://image.thepaper.cn/www/image/13/542/727.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="1816" src="http://image.thepaper.cn/www/image/13/542/728.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="1818" src="http://image.thepaper.cn/www/image/13/542/729.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="1669" src="http://image.thepaper.cn/www/image/13/542/730.jpg" width="600"/></div>（原题为《海关总署发布进口食品化妆品安全风险预警通告》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 海关,外贸,进口</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2778960">
+<div class="nbgbox">
+<a class="zan" contid="2778960" href="javascript:;" onclick="voteCont(this)" praisetimes="20">
+                           19</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 海关总署</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2778960&caid=25432",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2778960&amp;caid=25432" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

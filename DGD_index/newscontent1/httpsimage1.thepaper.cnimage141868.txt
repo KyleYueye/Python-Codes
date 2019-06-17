@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美宣称其军舰今驶入南海西沙海域，进入我岛礁12海里</h1>
+<div class="news_about">
+<p>环球网</p>
+<p>
+							2019-01-07 14:35<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/1/859.jpg" width="100%"/></div><div><br/><div class="contheight"></div>路透社7日消息，美国方面宣称，其海军军舰周一驶入南海，以挑战中国“过度的海洋主张”。</div><div>此前，美国军舰已多次在南海搞所谓“航行自由”行动。对此，中国外交部、国防部多次声明表示强烈反对。</div><div style="text-align:center;"><img alt="" height="199" src="http://image.thepaper.cn/www/image/14/1/858.jpg" width="423"/></div><strong>此前消息<br/><div class="contheight"></div></strong>美国《华盛顿邮报》消息称，美国海军7日的行动同样是“航行自由行动”，执行的舰艇为“阿利伯克”级驱逐舰“麦坎贝尔”号。该报道称，该军舰今天进入西沙海域，并进入赵述岛、东岛、永兴岛3个中国岛礁12海里巡航。<br/><div class="contheight"></div>报道称，美国太平洋舰队对外发布了上述消息。<br/><div class="contheight"></div>对于美军一而再再而三的挑衅行为，中国国防部和外交部曾多次表示强烈反对。中国国防部吴谦曾表示，中国对南海诸岛及其附近海域拥有无可争辩的主权。美国军舰到南海来意欲何为，早已是“司马昭之心，路人皆知”。对于美方这种炫耀武力，推动地区军事化，且极易引发海空意外事件的行径，中国军队表示坚决反对。<br/><div class="contheight"></div>中国外交部也表示，坚决反对有关国家打着航行飞越自由的旗号，威胁和损害包括中国在内的沿海国的主权和安全利益。<br/><div class="contheight"></div>（原标题：《详讯！美军舰今天闯西沙挑衅，进入我岛礁12海里》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李怡清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国军舰,南海,海洋主张</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2823781">
+<div class="nbgbox">
+<a class="zan" contid="2823781" href="javascript:;" onclick="voteCont(this)" praisetimes="38">
+                           37</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美军舰擅闯南海</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2823781&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2823781&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

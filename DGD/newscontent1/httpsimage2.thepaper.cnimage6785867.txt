@@ -1,0 +1,76 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">顺丰完成国内首次无人机后勤物资运输飞行</h1>
+<div class="news_about">
+<p>汪华</p>
+<p>
+							2018-01-29 11:40<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/6/785/859.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">顺丰垂直起降固定翼无人机V330 </span><br/><div class="contheight"></div>在2017年年底成功完成国内首次无人机应急物资快速投递的演示验证飞行之后，今年顺丰继续在无人机的应用上进行探索。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/6/785/860.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">顺丰技术人员调试V330无人机。</span><br/><div class="contheight"></div>2018年1月24日，顺丰分别在陕西、云南通过无人机对后勤物资进行运输。当日12点16分，陕西某地，顺丰自有的垂直起降固定翼无人机V330在小雪天气中起飞，飞行约23分钟到达目的地，飞行距离24公里，爬升1100米，装载1公斤急救药品。无人机降落后，取出药品顺利完成试验。据悉，V330采用锂电池供能，最大起飞重量19公斤，载荷重量3公斤，巡航速度25米/秒，飞行高度120米，最大航程60公里，全自动航线飞行，可紧急返航、盘旋或降落。<br/><div class="contheight"></div>当日早晨9点15分，在云南某机场，顺丰另一架无人机顺利起飞。飞行约1小时后，抵达150公里外的投放区域，本次目的地海拔高度约2000米，飞机降至地面相对高度约350米，在风速17米/秒的情况下，吊舱从空中自动投放，约15秒后吊舱缓缓降落在空地上，后由地面工作人员从吊舱中取出物资，并对吊舱进行回收。<br/><div class="contheight"></div>此次演示除了展现无人机的速度优势外，还将运输场景的多样性以及适应性展现无遗。在军民融合的政策环境下，传统物流企业在无人机领域的探索同样适用。比如无人机可以实现海岛、偏远地区等远距离供给，在发生重大自然灾害时，运送药品和急救用品至关重要，无人机可以发挥无人员伤亡风险；生存能力强，机动性能好，使用方便等优势，在短时间内抢救生命线，挽救灾情。<br/><div class="contheight"></div>除此之外，无人机还可以运用于机场到机场之间的运输，适用多种物流运输场景。顺丰计划通过无人机实现航空物流网络干支对接，完成对三线及以下城市的空网覆盖，大幅度提升物流效率。未来，顺丰将形成由货机、大型无人机与小型无人机共同构建的顺丰“三段式空运网”，机动匹配并覆盖国家干线、城市干线及偏远地区最后一公里的运输需求，实现36小时快件通达全国，即便是地形复杂或偏远地区也不例外。<br/><div class="contheight"></div>算上此次场景试飞的无人机，2017年顺丰已经先后实现了水陆两栖无人机、大吨位无人机的试飞工作。再加上此前对外披露过的各种中小型无人机，顺丰的无人机机队已初见规模。<br/><div class="contheight"></div>而在有人机方面，顺丰也并未放松。1月22日，顺丰刚刚开通“成都-拉萨”航线，助力军民融合、精准扶贫。<br/><div class="contheight"></div>截止2017年12月31日，顺丰航空全货机机队规模已达41架，通航国内外近50个城市和地区，实现安全飞行逾20万小时，平稳运输货物超160万吨。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<!-- 审稿人字段 -->
+<!-- 空格分隔后的作者列表-->
+<div class="news_editor">责任编辑：李淑平<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="1973334">
+<div class="nbgbox">
+<a class="zan" contid="1973334" href="javascript:;" onclick="voteCont(this)" praisetimes="44">
+                           43</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 顺丰无人机</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=1973334&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=1973334&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

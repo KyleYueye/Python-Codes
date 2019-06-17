@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">上海本月第二场雪要来了，今起一周“低温+阴雨”成常态</h1>
+<div class="news_about">
+<p>戚颖璞/上观新闻</p>
+<p>
+							2018-12-26 07:51<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align: center;"><img alt="" src="http://image.thepaper.cn/www/image/13/512/74.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">本周末，申城郊区气温跌至“冰点”。</span><br/><div class="contheight"></div>据上观新闻12月26日消息，还记得本月初的上海那一场初雪吗？时隔仅20多天，雪又要来了！<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" src="http://image.thepaper.cn/www/image/13/512/75.gif" width="270"/></div>12月7日，上海今冬第一场雪不期而至，不少地方银装素裹。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" src="http://image.thepaper.cn/www/image/13/512/76.png" width="504"/></div><div style="text-align: center;"> <img alt="" src="http://image.thepaper.cn/www/image/13/512/77.png" style="text-align: center;" width="600"/></div><div style="text-align: center;"><img alt="" src="http://image.thepaper.cn/www/image/13/512/78.jpg" width="600"/></div><div style="text-align: center;"> <img alt="" src="http://image.thepaper.cn/www/image/13/512/79.jpg" style="text-align: center;" width="600"/></div><span style="color: rgb(128, 128, 128);">12月7日至9日，申城今冬初雪到来</span><br/><div class="contheight"></div>本周日，也就是元旦假期的第一天，上海将再迎一波雨雪天气。<br/><div class="contheight"></div>在此之前，还有连续多日的湿冷做铺垫……上海中心气象台预报，受北方不断扩散南下的冷空气影响，从今天起5天至7天内，上海气温持续偏低。<br/><div class="contheight"></div>今天下午至傍晚，冷空气将“霸屏”申城。整个影响过程将持续多日，总体降温幅度6℃至7℃。本周末，市中心最低气温1℃，郊区跌至“冰点”，局部地区有薄冰。<br/><div class="contheight"></div>低温来袭，雨水助攻。受西南暖湿气流和冷空气共同影响，上海从今起5天至6天内，多阴雨天气。迎接湿冷攻击，你准备好了吗？<br/><div class="contheight"></div>（原题为《上海本月第二场雪要来了！今起5天至6天内，“低温+阴雨”成常态》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 上海天气,下雪,降温,冷空气</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2775323">
+<div class="nbgbox">
+<a class="zan" contid="2775323" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 上海天气</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2775323&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2775323&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

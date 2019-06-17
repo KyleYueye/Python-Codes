@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜土地权证说发错就发错，谁来担责？</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-10-16 15:35<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据中国之声报道，近日多位河南商丘市夏邑县的村民反映称，在相当一部分村民不同意不知情的情况下，当地政府正在以棚户区改造的名义，强行征收曹集乡王楼村的近千亩耕地。<br/><div class="contheight"></div>耕地竟成了棚户区，已然滑天下之大稽。更“雷人”的是，村民们去年底才领到的土地权证上显示，即将被征收的耕地为基本农田。根据我国相关法律，征用基本农田，由国务院批准。面对这个“纰漏”，夏邑县农业局相关负责人公然宣称，由于他们的工作失误，这批土地权证全部发错了。<br/><div class="contheight"></div>盖有县政府公章的土地权证竟然能说发错就发错，说作废就作废，如此施政简直儿戏。<br/><div class="contheight"></div>十九大报告提出，农业农村农民问题是关系国计民生的根本性问题。而土地确权颁证是保障农民财产权益、维护农村长治久安的重要政策，也是乡村振兴战略的基础性工作。如果真出现问题，也不是一句“工作失误”能遮掩的。<br/><div class="contheight"></div>这个“失误”的诡异之处还在于，记者从夏邑县国土局找到的规划图显示，这块耕地就是一般农田，而不是建设用地。夏邑县国土局一名副局长称，目前这块地的用地审批手续确实还没有，但县国土局正在组卷报批。<br/><div class="contheight"></div>审批手续还没有，就先宣布农民手里的土地权证“发错了”。这岂不是意味着，只要县政府看上了哪块地，就可以随便宣布这块地的土地权证“发错了”？那么这种随时会作废的土地权证又有什么存在的意义呢？<br/><div class="contheight"></div>如果当地政府坚持认为土地权证发错了，那么不仅要解释上述不合常理之处，而且必须有人为这种严重失信于民的行为承担责任。施政不是过家家，不能朝令夕改。<br/><div class="contheight"></div>这起征地事件的问题，土地权证只是一个方面。村民表示，曹集乡党委书记在铲车上亲自坐镇，推掉蔬菜果实还没来得及采摘的土地。征地公告和补偿方案都没有在村里公示过。乡党委书记甚至坦言，棚户区改造是县里打擦边球。<br/><div class="contheight"></div>可知这是一起从合法性到实施过程都有很大疑问的征地。希望有关部门早日展开调查，还原真相，保障当地民众的合法权益。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 非法征地 土地确权</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2533844">
+<div class="nbgbox">
+<a class="zan" contid="2533844" href="javascript:;" onclick="voteCont(this)" praisetimes="230">
+                           229</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 非法征地</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2533844&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2533844&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（56）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

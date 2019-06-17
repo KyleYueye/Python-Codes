@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">全国总工会：工会职工福利支出可根据物价上涨适度调整</h1>
+<div class="news_about">
+<p>李昌禹/人民日报客户端</p>
+<p>
+							2018-12-27 16:57<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">人民日报客户端12月27日消息，又双叒叕快要过节了，你们单位给职工发福利了吗？如果还没有，赶紧转发这篇文章并@你单位的工会主席吧！或许有惊喜哟！<br/><div class="contheight"></div>今天上午，全国总工会召开2019年工会两节送温暖新闻发布会，发布会上指出，各企事业单位工会应落实《基层工会经费收支管理办法》中工会经费可以用于职工集体福利支出的规定，让广大职工在节假日更有获得感。<strong>全国总工会还建议各地工会，随着物价上涨，工会经费用于职工福利支出的标准也应当有所调整。</strong><br/><div class="contheight"></div>发布会上，全国总工会权益保障部巡视员栾樾介绍，2014年出台的《基层工会经费收支管理办法》已明确规定了哪些福利可以发放，去年全国总工会又重新修订了办法，规定了支出范围和标准。从现在基层单位执行情况看，大部分的基层单位都能够按照规定给职工发适当的福利，也赢得了广大职工的欢迎，深受广大职工的好评。但还有一小部分企事业单位，在政策上把握不准，有的还在观望。<br/><div class="contheight"></div>全国总工会在今年下发的送温暖通知中，明确各地各单位工会要推动企业保障职工福利，中办、国办前不久也发了在两节做好有关工作的通知，其中专门要求保障干部职工的正常福利，这项工作在大部分单位得到了落实。<br/><div class="contheight"></div>“同时，我们希望地方根据物价上涨的情况，对福利的标准适度增加。”栾樾说，在这项工作中有些地方做的还不错，比如福建，福建省工会今年根据物价的上涨情况作了调整。去年规定了每个职工的年度福利不超过1300元，今年提出可以上浮到1800元，这就是根据实时的情况作出的调整，值得提倡。<br/><div class="contheight"></div>栾樾也强调，在职工福利发放上，机关、事业单位、国企这三个发放主体要注意两点：<br/><div class="contheight"></div>第一，资源来源要正当。要用单位的福利费或工会经费开支，绝不能挪用公款，或者挪用工作经费，设立账外账、小金库。<br/><div class="contheight"></div>第二，要把握发放的形式。不能发放高档的奢侈商品，包括购物卡、代金券都不允许，须严格注意。<br/><div class="contheight"></div>发布会上还指出，2019年工会两节送温暖活动的对象将有所拓展，从目前的困难职工、困难农民工、困难劳模和一线职工等4类人群，拓展到建档困难职工，本人或家庭成员因患大病、遭受各类灾害或突发意外等情况造成生活困难的职工，工伤和职业病致残职工，因公牺牲职工的家属，派驻挂职干部职工和坚守一线服务岗位职工等7类人群，进一步提升工会送温暖活动的普惠性，增强广大职工群众的幸福感和获得感。<br/><div class="contheight"></div>（原题为《全国总工会：工会职工福利支出可根据物价上涨适度调整》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 总工会,职工福利,物价上涨,调整</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780705">
+<div class="nbgbox">
+<a class="zan" contid="2780705" href="javascript:;" onclick="voteCont(this)" praisetimes="472">
+                           471</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 职工福利</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780705&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780705&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

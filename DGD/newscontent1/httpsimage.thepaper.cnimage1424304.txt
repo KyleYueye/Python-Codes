@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">上市公司高管图鉴：平均薪酬45万，离职率创近十年新高</h1>
+<div class="news_about">
+<p>证券时报</p>
+<p>
+							2019-01-08 13:17<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">实体经济愈发艰难、股市跌跌不休的态势下，上市公司高管的压力比普通公司显然要大得多。上市公司高管薪资水平近年来虽呈现连续上升态势，加班情况却远超职场同仁，每周加班时间超过12个小时，高居首位。高薪高压背景下，高管离职率大幅攀升，创出近十年的新高。<br/><div class="contheight"></div><strong>高管男性为主 平均近50岁</strong><br/><div class="contheight"></div>证券时报·数据宝统计显示，A股上市公司中男性高管占比达到79.34%，这意味着5个高管中就有4个男性高管。女性高管比例则呈逐年增长的态势，2009年年报显示女性高管占比仅为14.75%，最新占比达到20.66%。<br/><div class="contheight"></div>上市公司高管平均年龄达到48.59岁。男性高管年龄相对较大，平均年龄近50岁。女性平均年龄为45岁。从年龄构成来看，30岁至39岁高管占比15.18%，40至49岁占比36.98%，50岁至59岁占比36.65%，三者合计占比达89%。从趋势来看，高管平均年龄有变大迹象，较2009年增长超过两岁。<br/><div class="contheight"></div><strong>本科硕士最多 平均薪酬45万</strong><br/><div class="contheight"></div>高管中大专以上学历占比高达97.72%。以高管平均年龄来看，大专以上的学历放在那个年代，已经算是较高的学历。本科、硕士占例较高，分别达到41.56%和32.96%。近十年来，高管的学历水平几乎在一条水平线上，平均学历在本科、硕士之间，中值稍偏向本科。<br/><div class="contheight"></div>高薪是上市公司高管另一大标签。2017年年报数据显示，高管平均薪酬达到44.72万元，20万至50万的占比接近31%。高管薪酬已经连续八年增长，2017年平均薪酬较2009年的23.95万元增长近87%，年均增幅超过8%。<br/><div class="contheight"></div>学历与薪酬并非完全正相关，博士后平均薪酬不足21万元，在各学历中平均薪酬最低。博士的薪酬也相对较低，不到31万元，在各学历中位居倒数第二。硕士平均薪酬最高，达到55万元，其次是本科，平均薪酬44万元。<br/><div class="contheight"></div>性别差距在职场上较为明显，2017年男性高管的薪酬水平高出女性高管30%以上。不仅如此，男性高管薪酬溢价30%左右的这一情况已经持续很多年。薪酬结构也能说明这一点。有近半女性高管薪酬不足20万元。除了薪资水平较低外，女性高管的职位也多非决定性岗位。其中，女性高管最多的是作为独立董事，占整个女性高管数量比例达到18%。此外，监事、董事、副总经理均占比超过10%，财务总监、董事会秘书、职工监事等占比均超过5%。<br/><div class="contheight"></div><strong>频频加班 离职率创近十年新高</strong><br/><div class="contheight"></div>高薪背后往往付出的是常人数倍努力。数据显示，高层管理者平均每天参加会议的时间是4.05小时，为每天正常8小时工作时间的一半。在加班方面，高层管理者每周加班时间要比普通员工多出一倍多，平均每周加班时间为12.3小时，普通员工为5.5小时每周。<br/><div class="contheight"></div>高管离职的情况也愈演愈烈。数据宝统计显示，不考虑任期到期的情况下，2018年高管离职率达12.77%，创出近十年来新高。女性高管离职比例从2009年的不到4%，攀升至最新的12.35%。<br/><div class="contheight"></div>（原文标题为《A股高管图鉴：平均薪酬45万，离职率创近十年新高》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：姚晓岚<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 快讯</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2826517">
+<div class="nbgbox">
+<a class="zan" contid="2826517" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 上市公司</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2826517&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2826517&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

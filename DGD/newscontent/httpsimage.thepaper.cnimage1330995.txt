@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">外交部：某些国家打压华为是赤裸裸的科技霸权主义</h1>
+<div class="news_about">
+<p>张卉/环球网</p>
+<p>
+							2018-12-19 18:03<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">环球网12月19日消息，近期，孟晚舟事件持续引发外界关注。在19日举行的外交部例行发布会上，有媒体问昨天华为邀请国际记者沟通是否对孟晚舟事件有帮助。<br/><div class="contheight"></div>对此，外交部发言人华春莹称，华为邀请记者或者向外界更好地介绍自己，帮助外界更好地认识他们公司的运行情况。关于其作用意义和影响，应该去向华为公司了解。<br/><div class="contheight"></div>关于近期外界对华为的密集关注，华春莹说华为作为全球第一大通讯设备的供应商和许多国家都开展了很好的合作，它产品的质量信誉包括安全性方面都是受到了合作伙伴的广泛的充分的肯定，<strong>也没有任何一家有什么证据来说明华为真像某些势力或者某些国家指责的那样在安全方面存在威胁。</strong><br/><div class="contheight"></div>现在有些国家在没有任何事实根据和确凿证据的情况下，<strong>将正常的科技发展合作政治化，以可能存在安全威胁的莫须有罪名，抹黑打压华为等中国高科技企业，</strong>华春莹说。<br/><div class="contheight"></div>“这是<strong>非常狭隘的，有罪推定的思维。本质上是赤裸裸的科技霸权主义和贸易投资保护主义，也违反了WTO非歧视的原则。</strong>”华春莹说。<br/><div class="contheight"></div>华春莹强调中国的发展权利，包括中国高科技企业的发展权利，应该得到各方充分的尊重。任何的抹黑和攻击都没有办法阻挡中国企业成长发展走向世界的步伐。<br/><div class="contheight"></div>（原题为《外交部：打压华为是赤裸裸的科技霸权主义》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 华为,孟晚舟被捕,霸权主义,贸易保护</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2753076">
+<div class="nbgbox">
+<a class="zan" contid="2753076" href="javascript:;" onclick="voteCont(this)" praisetimes="271">
+                           270</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 外交部例行记者会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2753076&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2753076&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

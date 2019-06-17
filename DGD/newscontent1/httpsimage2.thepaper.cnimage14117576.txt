@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25438">财经上下游</a>
+</div>
+<h1 class="news_title">工信部：销售无线电发射设备需在全国统一平台备案</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2019-01-10 15:31<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="373" src="http://image.thepaper.cn/www/image/14/117/580.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">无线电监测无人机。<br/><div class="contheight"></div></span>中新网1月10日电，据工信部网站消息，工信部近日印发《无线电发射设备销售备案实施办法(暂行)》。《办法》明确，建立全国统一的无线电发射设备销售备案信息平台，销售无线电发射设备的，应当在开始销售之日起10个工作日内通过信息平台向其注册地的省级无线电管理机构办理销售备案手续。<br/><div class="contheight"></div>《办法》明确，国家无线电管理机构对全国无线电发射设备销售备案工作进行监督指导，建立全国统一的无线电发射设备销售备案信息平台(以下简称信息平台)，推进销售备案的网上办理及备案信息的管理、公示、查询等工作。<br/><div class="contheight"></div>《办法》规定，销售无线电发射设备的，应当在开始销售之日起10个工作日内通过信息平台向其注册地的省级无线电管理机构办理销售备案手续，并对备案信息的真实性负责，接受有关部门依法实施的监督管理。备案信息应当包括经营主体信息和销售设备信息。<br/><div class="contheight"></div>《办法》明确，经营主体首次申请备案，省级无线电管理机构在收到备案材料后，对材料齐全、符合法定形式的，应当在5个工作日内通过信息平台向其发放备案主体编号和所对应的二维码。销售无线电发射设备应当在实体经营场所或网络销售平台标明备案主体编号或所对应的二维码。<br/><div class="contheight"></div>《办法》明确，有下列情形之一的，经营主体应当及时通过信息平台办理备案注销：终止无线电发射设备销售业务的；营业有效期届满的；营业执照被依法吊销或企业法人已办理注销登记的；法律、法规、规章规定的其他情形。<br/><div class="contheight"></div>《办法》明确，无线电发射设备销售备案经营主体名称、统一社会信用代码、设备信息等有关情况应当通过信息平台向社会公众公开。<br/><div class="contheight"></div>《办法》规定，销售应当取得型号核准的无线电发射设备未办理销售备案的，省级无线电管理机构应当依据《中华人民共和国无线电管理条例》第七十七条规定责令改正，拒不改正的，处1万元以上3万元以下的罚款。<br/><div class="contheight"></div>《办法》还规定，省级无线电管理机构应当加强对无线电发射设备销售备案情况的监督检查，建立和完善以随机抽查为重点的日常监督检查制度，随机抽取被检查对象，随机选派检查人员，及时向社会公布抽查情况和检查结果。在监督检查中发现有提供虚假备案材料行为的，省级无线电管理机构应当责令限期改正；拒不改正或逾期未改正的，由省级无线电管理机构通过信息平台向社会公布有关情况。<br/><div class="contheight"></div>此外，无线电管理机构及其工作人员对涉及商业秘密和公民个人隐私的信息有保密的义务。办法自2019年3月1日起施行。<br/><div class="contheight"></div>（原题为《工信部：销售无线电发射设备需在全国统一平台备案》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 工信部,无线电发射设备</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836664">
+<div class="nbgbox">
+<a class="zan" contid="2836664" href="javascript:;" onclick="voteCont(this)" praisetimes="36">
+                           35</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 工信部</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836664&caid=25438",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836664&amp;caid=25438" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

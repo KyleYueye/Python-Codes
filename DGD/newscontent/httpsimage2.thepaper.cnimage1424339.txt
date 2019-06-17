@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">联想中国区宣布架构调整：新设三大业务群，转型以客户为中心</h1>
+<div class="news_about">
+<p>澎湃新闻记者 周玲</p>
+<p>
+							2019-01-08 13:34<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="370" src="http://image.thepaper.cn/www/image/14/24/346.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">联想中国区组织架构将调整。  视觉中国 图<br/><div class="contheight"></div></span>1月7日晚，联想集团执行副总裁兼中国区总裁刘军发表内部邮件，宣布联想中国区进行组织架构调整。联想中国区将聚焦大客户、中小企业客户和消费客户三大客户群，新设立三大事业部：大客户事业部、中小企业事业部和消费事业部，再加上服务事业部，联想中国正式建立起四大业务群。<br/><div class="contheight"></div>联想称，这次调整，聚焦三大客户群——大客户、中小企业客户及消费客户，旨在建立起更加以客户为中心的组织及运作模式。这也意味着，联想从过去以产品为中心彻底向以客户为中心转型。<br/><div class="contheight"></div>其中，大客户事业部由联想副总裁刘征领导；中小企业事业部合并原Think业务、扬天业务和惠商业务，成立SMB事业部，由副总裁赵泓领导；消费事业部将整合中国手机产品营销、销售及推广，由副总裁张华负责。服务事业部将继续由戴炜带领。<br/><div class="contheight"></div>刘军在内部信中称：联想中国区自从2017年8月推出“日出东方”启动战略转型，一年多来中国区已经重回增长。2019年，随着市场经济环境变化，谁更贴近客户、更快洞察需求用户、快速顺应客户旅程变迁，将成为制胜的关键，公司必须加大客户为中心转型的力度，建立更加以客户为中心的组织和运作模式。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙扶<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 联想</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2826519">
+<div class="nbgbox">
+<a class="zan" contid="2826519" href="javascript:;" onclick="voteCont(this)" praisetimes="18">
+                           17</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 联想</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2826519&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2826519&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（125）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

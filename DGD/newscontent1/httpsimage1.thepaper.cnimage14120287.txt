@@ -1,0 +1,76 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25432">自贸区连线</a>
+</div>
+<h1 class="news_title">商务部：中美经贸磋商时间长，说明双方态度严肃、认真和坦诚</h1>
+<div class="news_about">
+<p>张道峰、戈晓威/央视新闻移动网</p>
+<p>
+							2019-01-10 16:59<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">央视新闻移动网1月10日消息，商务部今天（1月10日）举行例行新闻发布会，新闻发言人高峰就中美经贸磋商回答了现场记者的提问。<br/><div class="contheight"></div>高峰介绍，贸易问题和结构性问题是此次中美经贸磋商的重要内容，双方在这些领域的磋商是有进展的，增加了相互理解，也为解决相互关切奠定了基础。对于磋商时间延长的问题，高峰表示：<br/><div class="contheight"></div><strong>商务部新闻发言人高峰：</strong>时间长说明双方对于磋商的态度都是严肃、认真和坦诚的，都在朝着落实两国元首重要共识的方向而努力。<br/><div class="contheight"></div>对于下一步的磋商安排，高峰表示，中美双方正在保持密切联系。<br/><div class="contheight"></div><strong>商务部新闻发言人高峰：</strong>此次中美经贸磋商，双方工作团队按照两国元首达成的共识，广泛、深入、细致的交换了意见，下一步双方团队将继续共同努力，按原定计划推进磋商工作。<br/><div class="contheight"></div>（原题为《商务部召开1月份第一次例行新闻发布会》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2834712" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">中美在京举行经贸问题副部级磋商</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2834567" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">这次非同寻常的中美谈判，这三个细节很耐人寻味！</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中美经贸,商务部</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837050">
+<div class="nbgbox">
+<a class="zan" contid="2837050" href="javascript:;" onclick="voteCont(this)" praisetimes="134">
+                           133</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中美经贸</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837050&caid=25432",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837050&amp;caid=25432" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（62）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

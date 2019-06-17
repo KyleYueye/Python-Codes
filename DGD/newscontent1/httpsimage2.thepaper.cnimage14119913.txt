@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">降低未成年人刑事责任年龄？专家：关键要建立分级干预机制</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林平 实习生 高瑜键</p>
+<p>
+							2019-01-10 16:46<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">连日来，两起低龄少年弑亲案，令舆论吁求降低未成年人刑事责任年龄。有专家指出，只谈降龄回避了未成年人恶性行为的处理问题，关键是要建立分级干预机制。<br/><div class="contheight"></div>1月9日，中央广播电视总台和最高人民检察院联合推出《法治中国说》——大检察官说，多位学者参与讨论未成年司法保护议题，并回应了舆论主张降低未成年人刑事责任年龄的争议。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）注意到，近年间，暴力侵害、校园欺凌等事件常有发生，低龄未成年人违法犯罪问题日益成为社会焦点。<br/><div class="contheight"></div>据最高检统计，未成年人犯罪比五年前降低了30%，但仍存有相当的数量。此外，未成年人犯罪表现出低龄化趋势，还呈现出组织化、成人化和暴力化倾向。<br/><div class="contheight"></div>根据刑法规定，未满14周岁的未成年人，对所有的犯罪均不负刑事责任；已满14周岁，不满16周岁的未成年人对故意杀人、故意伤害致人重伤死亡等8类严重刑事犯罪承担刑事责任；已满16周岁的未成年人，对所有的犯罪承担刑事责任，但如未满18周岁，应当从轻处罚。<br/><div class="contheight"></div>在司法实践中，针对是否应当降低未成年人刑事责任年龄，一直存在较大争议，不少观点主张降低刑事责任年龄，借此应对低龄未成年人恶性犯罪现象。<br/><div class="contheight"></div>“刑法对未成年人刑事责任年龄作出如此规定是有理由的。”上海政法学院副校长姚建龙指出，未成年人的身心发育、辨认和控制能力都与成人不同，未成年人的权利与责任也需要与此保持一致，“你没办法要求未成年人跟成年人一样，对同样的行为承担同样的责任”。<br/><div class="contheight"></div>姚建龙认为，无论刑事责任年龄怎么降，它始终都会存在一个未达到刑事责任年龄的未成年人恶性行为应该如何处理的问题。<br/><div class="contheight"></div>“假设你降到12周岁，肯定还会出现未达到12周岁的未成年人恶性犯罪，那怎么办？降到10周岁还会存在7岁的未成年人恶性犯罪，又怎么办？”姚建龙表示，不应当只是讨论是不是应该降低刑事责任年龄，要把重心放在如何去完善未达到刑事责任年龄的未成年人恶性犯罪的干预机制，或者说是教育校正机制。<br/><div class="contheight"></div>为此，北京师范大学法学院教授宋英辉也提议，可以把未成年人的犯罪行为分为不良行为、治安违法行为和触犯刑法行为，进而建立分级干预体系。<br/><div class="contheight"></div>宋英辉建议，对于一般不良行为，如逃学旷课、夜不归宿等，在学校建立告诫制度，由校方告诫，根据情况也可以由专业的社工去跟进、帮教，提升其监护人的监护能力。对于治安违法行为，则由警方来训诫，根据具体情况也可以成立帮教小组，由专业社工跟进、帮教。如果没有达到责任年龄就实施了严重危害社会的行为，可以适用收容教养，但是收容教养制度应该进一步完善。<br/><div class="contheight"></div>“分级干预体系能够和现行的刑法和刑诉法形成衔接。”宋英辉认为，即使未达责任年龄，但只要有违法犯罪行为，都可以通过这个体系进行具体的、专业化的、早期的干预，“使违法犯罪的未成年人回归社会才是最有效的保护”。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：宋蒋萱<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 未成年人 刑事责任 分级干预</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836883">
+<div class="nbgbox">
+<a class="zan" contid="2836883" href="javascript:;" onclick="voteCont(this)" praisetimes="54">
+                           53</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 未成年人犯罪率</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836883&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836883&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（405）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

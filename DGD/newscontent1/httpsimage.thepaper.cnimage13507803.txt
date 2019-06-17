@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">岐阜再现猪瘟疫情，日本出动1600名自卫队员协助扑杀填埋</h1>
+<div class="news_about">
+<p>新华网</p>
+<p>
+							2018-12-25 22:46<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华网东京12月25日消息，日本岐阜县政府25日确认，该县再次出现猪瘟疫情。为此，日本中央政府决定出动陆上自卫队协助扑杀猪及填埋等工作，以防疫情扩散。<br/><div class="contheight"></div>岐阜县一处养殖场的两头猪当天被确诊感染猪瘟，当地政府决定扑杀超过7500头猪。据日本媒体报道，这是今年9月以来，岐阜县报告的猪瘟疫情中扑杀猪数量最多的一次。<br/><div class="contheight"></div>日本中央政府为此专门成立了一个危机控制小组，并出动1600名陆上自卫队队员协助扑杀猪及填埋等工作。事发地周围10公里范围内的3家养殖场也被要求禁止转运其饲养的1800头猪。<br/><div class="contheight"></div>岐阜县今年9月首次报告养殖场猪瘟疫情，这是日本时隔26年再度出现猪瘟疫情。此后，岐阜县又多次报告有家猪出现疫情。另外，岐阜县和相邻的爱知县还有数十头野猪被确诊感染猪瘟。<br/><div class="contheight"></div>猪瘟是一种急性、接触性猪传染病，以高热、内脏器官严重出血和高死亡率为特征，但对人类没有直接危害。<br/><div class="contheight"></div>（原题为《日本岐阜县再现猪瘟疫情 自卫队出动防范扩散》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王建亮<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 猪瘟,日本,岐阜,疫情</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2774890">
+<div class="nbgbox">
+<a class="zan" contid="2774890" href="javascript:;" onclick="voteCont(this)" praisetimes="80">
+                           79</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日本猪瘟病毒</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2774890&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2774890&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（43）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

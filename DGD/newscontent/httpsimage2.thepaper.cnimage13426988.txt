@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">广铁：春运期间将在湘粤琼设立代售窗口2871个</h1>
+<div class="news_about">
+<p>史卫燕/新华社</p>
+<p>
+							2018-12-23 12:18<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社长沙12月23日消息，中国铁路广州局集团有限公司近日公布2019年春运售票方案，在互联网和电话订票之外，2019年春运期间，广铁将在湘、粤、琼三省设立代售窗口2871个，基本覆盖主要乡镇，旅客可就近选择代售点购取车票。<br/><div class="contheight"></div>据广州局集团公司客运处相关负责人介绍，2019年春运互联网订票预售期为30天，电话订票预订期为4-30天，代售点、自动售票机预售期为28天。<br/><div class="contheight"></div>广铁管内所有旅客列车（广九直通车除外）均可通过中国铁路客户服务中心网站和铁路12306手机客户端发售春运火车票。<br/><div class="contheight"></div>广铁管内所有办理客运业务的计算机联网售票车站（贵州省的铜仁、松桃站除外）均开办电话订票业务，实行全国范围通取和错峰预订，其中湖南、广东省内车站的电话订票号码统一为铁通95105105，联通96020088，海南省内车站的电话订票号码统一为铁通95105105。<br/><div class="contheight"></div>据介绍，在节假日客流高峰期间，互联网和电话订票目前在广铁总体售票所占的比例已超过8成。同时代售点覆盖范围逐年拓宽，春运期间铁路部门将继续在售票量较大的既有代售点增加临时窗口，分窗办理售取票业务。<br/><div class="contheight"></div>（原题为《广铁：春运期间将在湘粤琼设立代售窗口2871个　覆盖主要乡镇 》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张珺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 广铁</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766004">
+<div class="nbgbox">
+<a class="zan" contid="2766004" href="javascript:;" onclick="voteCont(this)" praisetimes="14">
+                           13</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 广铁</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766004&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766004&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

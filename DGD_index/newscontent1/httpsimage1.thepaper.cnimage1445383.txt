@@ -1,0 +1,76 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">北京宣师一附小受伤学生均无生命危险，区长王少峰鞠躬致歉</h1>
+<div class="news_about">
+<p>管昕、李行健/@中国之声</p>
+<p>
+							2019-01-08 20:20<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/14/45/381.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">新闻发布会现场 本文图均为 微博@中国之声 图</span></div><div>@中国之声1月8日消息，原定于今晚7点半开始的新闻发布会，推迟到8点才开始。北京西城区政府党组书记、区长王少峰出席发布会，北京市教委、北京儿童医院、宣师一附小、宣武医院、西城公安分局的相关负责人也都有到会参加。区长王少峰在现场鞠躬致歉。王少峰介绍，目前，两家医院正在全力救治，家长已参与陪护，受伤学生都没有生命危险，已有7名学生被安排手术，手术效果比较成功，还有一名孩子正在手术，其他受伤学生都在观察中。相关部门已请专家进行心理安抚。他还表示，公安已加强全区校园安全保卫工作。王少峰还表示，事件发生后，北京市委市政府主要领导来到病房看望了受伤的孩子，对后续工作进行了部署，提出了明确要求。多家国内外媒体参加了这场发布会。</div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/14/45/380.jpg" width="600"/></div>（原题为《北京召开新闻发布会通报西城小学生被伤害事件 区长鞠躬致歉》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2828124" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">北京宣师一附小案嫌疑人系学校维修人员，因未被续签合同泄愤</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2827533" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">北京一小学发生男子伤害孩子事件，20名伤者中3人伤势较重</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 北京,西城,小学生</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828837">
+<div class="nbgbox">
+<a class="zan" contid="2828837" href="javascript:;" onclick="voteCont(this)" praisetimes="234">
+                           233</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 砍杀小学生</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828837&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828837&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（47）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

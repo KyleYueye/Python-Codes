@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">“对监狱、看守所进行巡回检察”拟写入“两院”组织法</h1>
+<div class="news_about">
+<p>张素 梁晓辉 马海燕/@中国新闻网</p>
+<p>
+							2018-10-22 16:53<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">​​中新网北京10月22日消息，人民法院组织法(修订草案)、人民检察院组织法(修订草案)22日提请十三届全国人大常委会三次审议。两个修订草案三次审议稿拟增加人民法院、人民检察院接受人民群众监督的内容。<br/><div class="contheight"></div>两个修订草案二次审议稿第九条分别规定：公民对人民法院、人民检察院工作依法享有知情权、参与权和监督权。有的常委会组成人员建议，增加人民法院、人民检察院接受人民群众监督的内容。宪法和法律委员会经研究，建议将上述规定分别修改为：<strong>人民法院、人民检察院应当接受人民群众监督，保障人民群众对人民法院、人民检察院工作依法享有知情权、参与权和监督权。</strong><br/><div class="contheight"></div>在规定人民法院审理案件范围方面，鉴于最高人民法院正在推动完善知识产权案件上诉审理机制，为做好衔接，宪法和法律委员会经研究，建议人民法院组织法修订草案三次审议稿在最高人民法院审理案件的范围中增加一项：按照全国人民代表大会常务委员会的规定提起的上诉、抗诉案件。<br/><div class="contheight"></div>宪法和法律委员会经研究，还建议根据实践和需要，<strong>将最高人民巡回法庭审理“跨行政区划重大行政、民商事等案件”修改为审理“最高人民法院依法确定的案件”。</strong><br/><div class="contheight"></div>对于人民检察院组织法修订草案二次审议稿第十六条第二款规定的“人民检察院行使上述职权时，发现行政机关有违法行使职权或者不行使职权的行为，应当督促其纠正”，宪法和法律委员会经研究，建议采纳国家监察委员会提出的意见，即：按照监察体制改革的精神，删去这一规定。<br/><div class="contheight"></div>鉴于最高人民检察院正在试点开展巡回检察，宪法和法律委员会经研究，将人民检察院组织法修订草案二次审议稿第二十五条第一款规定修改为：<strong>“人民检察院根据检察工作需要，可以在监狱、看守所等场所设立检察室，行使派出它的人民检察院的部分职权，也可以对上述场所进行巡回检察。”</strong><br/><div class="contheight"></div>两个修订草案三次审议稿还分别对副院长、审判委员会委员、副检察长、检察委员会委员的产生范围进行适当放宽，并作出其他修改。<br/><div class="contheight"></div>全国人大宪法和法律委员会副主任委员沈春耀在作审议结果报告时表示，人民法院组织法、人民检察院组织法均是1979年由五届全国人大二次会议通过。宪法和法律委员会研究认为，这次对人民法院组织法、人民检察院组织法的修改主要是适应司法体制改革的要求和司法实践发展的需要，没有改变“两院”的性质、地位、职权、基本组织体系、基本活动准则等，因此由全国人大常委会审议通过是可以的，符合宪法的有关规定。<br/><div class="contheight"></div>​​（原标题为《“两院”组织法修订草案三审 拟增加接受人民群众监督内容》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 组织法,群众监督</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2552299">
+<div class="nbgbox">
+<a class="zan" contid="2552299" href="javascript:;" onclick="voteCont(this)" praisetimes="64">
+                           63</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 人民法院组织法</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2552299&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2552299&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

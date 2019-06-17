@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">国办印发意见：全面推行重大执法决定法制审核制等三项制度</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2019-01-04 10:32<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京1月3日消息，近日，国务院办公厅印发了《关于全面推行行政执法公示制度执法全过程记录制度重大执法决定法制审核制度的指导意见》（以下简称《意见》），就全面推行行政执法公示制度、执法全过程记录制度、重大执法决定法制审核制度（以下统称“三项制度”）工作有关事项提出明确要求。<br/><div class="contheight"></div>《意见》指出，聚焦行政执法的源头、过程、结果等关键环节，全面推行“三项制度”，对促进严格规范公正文明执法具有基础性、整体性、突破性作用，对切实保障人民群众合法权益，维护政府公信力具有重要意义。要以习近平新时代中国特色社会主义思想为指导，全面贯彻党的十九大和十九届二中、三中全会精神，着力推进行政执法透明、规范、合法、公正，不断健全执法制度、完善执法程序、创新执法方式、加强执法监督，全面提高执法效能，推动形成权责统一、权威高效的行政执法体系和职责明确、依法行政的政府治理体系。<br/><div class="contheight"></div>《意见》强调，要全面推行行政执法公示制度，按照“谁执法谁公示”的原则，明确公示内容的采集、传递、审核、发布职责，规范信息公示内容的标准、格式，及时通过政府网站及政务新媒体、办事大厅公示栏、服务窗口等平台向社会公开行政执法基本信息、结果信息。要全面推行执法全过程记录制度，通过文字、音像等记录形式，对行政执法的启动、调查取证、审核决定、送达执行等全部过程进行记录，并全面系统归档保存，做到执法全过程留痕和可回溯管理。对查封扣押财产、强制拆除等直接涉及人身自由、生命健康、重大财产权益的现场执法活动和执法办案场所，要推行全程音像记录。要全面推行重大执法决定法制审核制度，行政执法机关作出重大执法决定前，要严格进行法制审核，未经法制审核或者审核未通过的，不得作出决定。<br/><div class="contheight"></div>《意见》明确，要全面推进行政执法信息化建设，加快推进执法信息互联互通共享，有效整合执法数据资源，为行政执法更规范、群众办事更便捷、政府治理更高效、营商环境更优化奠定基础。<br/><div class="contheight"></div>《意见》提出，地方各级人民政府及其部门的主要负责同志要切实加强对本地区、本部门行政执法工作的领导，做好“三项制度”组织实施工作。要把“三项制度”推进情况纳入法治政府建设考评指标体系，纳入年底效能目标考核体系。对工作不力的要及时督促整改，对工作中出现问题造成不良后果的单位及人员要通报批评，依纪依法问责。<br/><div class="contheight"></div>（原标题《国办印发意见 全面推行行政执法公示制度、执法全过程记录制度、重大执法决定法制审核制度》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 行政执法公示</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2812057">
+<div class="nbgbox">
+<a class="zan" contid="2812057" href="javascript:;" onclick="voteCont(this)" praisetimes="18">
+                           17</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 行政执法公示</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2812057&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2812057&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">公安部：暴力方式影响公交车安全驾驶，一律依法立案侦查</h1>
+<div class="news_about">
+<p>澎湃新闻记者 邵克</p>
+<p>
+							2019-01-10 22:19<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2838045" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">两高一部：公共交通工具上抢夺方向盘等行为一般不得适用缓刑</span></a></img></p></div>
+<div class="news_txt" data-size="standard">1月9日至10日，公安部在京召开全国公安机关公交车安全防范工作现场经验交流会，部署各地公安机关切实加强公交车安全防范工作。会议要求，要严厉打击危害驾乘安全的违法犯罪活动，狠抓执法打击，切实教育警示公众、震慑遏制犯罪。<br/><div class="contheight"></div>会议指出，各级公安机关要充分认识加强公交车安全防范工作的重要意义，切实增强工作责任感、使命感和紧迫感，牢固树立人命关天、安全第一理念，坚持属地管理、综合治理，坚持科技应用、群防群治，坚持预防为先、防处并举，全面提升公交车安全防范整体水平，全力确保群众安全出行，营造良好的公共安全环境。<br/><div class="contheight"></div>会议要求，深刻反思重庆万州“10·28”公交车坠江事件等一系列典型案件，必须坚持源头入手、问题导向，找准突出矛盾和深层次问题，着力抓重点、抓关键、抓薄弱环节，全面构建立体化智能化公交车安全防范体系。要全面推进公交车安装驾驶区隔离设施，推动有关部门结合本地实际通过出台企业标准、行业标准、地方标准等多种形式，统一安装标准，明确技术要求，抓紧组织实施。要严格落实公交车乘务管理人员配备要求，规范配备标准和组织实施，加强培训管理。要大力加强公交车安全防范新技术建设应用，牢牢把握科技创新潮流和公交车安全防范规律特点，切实提升防范打击能力，提高应急处突效率。要严厉打击危害驾乘安全的违法犯罪活动，按照最高法、最高检和公安部联合出台的有关指导意见，狠抓执法打击，切实教育警示公众、震慑遏制犯罪。对以暴力方式影响正在行驶的公交车安全驾驶的，一律依法立案侦查，对情节严重构成犯罪的，依法追究刑事责任；对尚不构成犯罪的，依法给予行政拘留等治安管理处罚。要切实提升公交车司乘人员防范处置能力水平，规范应急处置操作规程，加强安全职业技能培训，强化内部规范管理。要加强防范教育、群防群治、警示宣传，努力引导公众树立“平安公交人人有责”的理念，营造风险共担、安全共治、平安共创的浓厚氛围。<br/><div class="contheight"></div>会议强调，要切实加强组织实施，坚持高标准、严要求，全力抓好各项措施落地落实。要加强整体设计，坚持系统思维，综合考虑各类风险，统筹谋划、整体推进安全防范工作。要把公交车应急处突纳入政府应急管理体系，加强统筹协调，开展联合演练。要推动落实市县党委政府领导责任、行业部门主管责任和运营企业主体责任，确保各项措施按要求、时限落实到位。要狠抓督导检查，加强公安机关日常监督检查，推动各部门定期开展联合检查，指导运营企业加强自查自改，对问题突出、管理混乱的地区，要挂牌督办。要推动将公交车安全防范纳入综治考评，对因防范措施不落实，导致发生重特大案事件的地区，提请实行一票否决。要加快部署推进，制定具体实施方案，紧盯重点措施落实，对制定警情处置规范、张贴宣传警示标语等措施，要迅速抓好落实，做到“立竿见影”。</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：卫佳铭<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 公交车安全驾驶 公安部</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2838195">
+<div class="nbgbox">
+<a class="zan" contid="2838195" href="javascript:;" onclick="voteCont(this)" praisetimes="191">
+                           190</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 安全驾驶</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2838195&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2838195&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

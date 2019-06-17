@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">暴雪压境，安徽合肥拉响应急警报</h1>
+<div class="news_about">
+<p>澎湃新闻记者 岳怀让 实习生 周普</p>
+<p>
+							2019-01-08 20:42<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">暴雪压境！安徽合肥再度面临考验。<br/><div class="contheight"></div>据中安在线消息，安徽省气象部门发布消息，一次猛烈的雨雪过程正在向安徽省扑来，1月8—9日江淮之间部分地区将有暴雪。通过气象部门发布的预报图可以看到，本次降雪最强烈的地区位于安徽省江淮之间地区，合肥、六安一带。<br/><div class="contheight"></div>作为应对，合肥拉响铲冰除雪应急警报。<br/><div class="contheight"></div>《合肥日报》1月8日发布报道：近日，合肥或将再次迎来雨雪天气。1月7日下午，合肥城管系统拉响铲冰除雪应急警报。<br/><div class="contheight"></div>报道提到，合肥全市所有一线城管执法队员、环卫工人严阵以待，按照“网格+巡查”管理模式细化分工，“定点值守+机动巡查”，时刻关注雪势，以第一片雪花为令，全力做好极端天气应对工作。<br/><div class="contheight"></div>合肥数字城管指挥中心“天网”紧盯路面，将在下雪后全程关注降雪情况，在线巡查、在线调度，确保道路、天桥被雪覆盖之前，调度人员及时清理、清除。实施全天24小时应急值守制度，实时、动态关注雪情。<br/><div class="contheight"></div>报道还提到，铲雪车、融雪车、背负式吹风机等装备时刻待命，所有应急物资均已准备就绪。为确保地下通道电源、线路，户外广告牌安全稳定，城管部门在落实日常监管的基础上，强化雨雪天气来临前的安全作业。此外，城管部门还将在地下通道、天桥、公厕门前，铺上防滑垫，保障行人安全。<br/><div class="contheight"></div>澎湃新闻记者注意到，在此次合肥的应急警报中专门提到，“户外广告牌安全稳定……城管部门还将在地下通道、天桥、公厕门前，铺上防滑垫，保障行人安全。”<br/><div class="contheight"></div>就在一年前，安徽合肥还曾经因大雪，造成一起重大安全事故。<br/><div class="contheight"></div>根据“央视新闻”微信公众号去年2月报道，2018年1月4日上午，安徽合肥市望江路上16处公交车BRT站牌7：30至9时许接连发生倒塌。由于时值上班高峰期，且遭遇大雪天气，多名候车乘客被砸伤，其中一名女士医治无效去世。<br/><div class="contheight"></div>此后，合肥市政府发布的调查结果确认，此次事故认定为工程重大安全事故。直接原因为连接公交站亭顶板与立柱的承托弓铸铝件强度不足，发生断裂，造成顶板倒塌。主要原因是安徽省建筑科学研究院设计深度未达国家标准，图纸修改后未经审查，安徽省创誉建设工程有限公司盲目施工，浙江信安工程咨询有限公司未认真履行监理职责，合肥市重点局、合肥公交集团在设计、招标、建设、监管等环节存在失职行为。<br/><div class="contheight"></div>事后，公安机关对安徽创誉公司法定代表人熊圣建、项目实际承包人孙彬彬、浙江信安公司现场监理工程师程哲、安徽省建科院项目设计负责人蒋建华4人刑事拘留。给予合肥市重点局、公交集团相关10名责任人行政记过、降级或免职处理，并对相关单位和个人予以罚款。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 暴雪,安全事故</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828834">
+<div class="nbgbox">
+<a class="zan" contid="2828834" href="javascript:;" onclick="voteCont(this)" praisetimes="91">
+                           90</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 安徽暴雪</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828834&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828834&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

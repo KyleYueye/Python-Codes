@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜高考英语“倒加分”：不能以公平之名制造新的不公</h1>
+<div class="news_about">
+<p>澎湃特约评论员 李一陵</p>
+<p>
+							2018-11-27 17:04<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2674856" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜高考英语“倒加分”：不能以公平之名制造新的不公" src="//image1.thepaper.cn/image/12/611/689.jpg"/>
+</a>
+<div class="atlas_360_txt">浙江教育考试院回应高考英语成绩质疑：部分试题实施加权赋分<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard"> “浙江高考英语倒加分”话题刷爆网络。多名考生和家长反映称，浙江省下半年学考选考中英语成绩出现异常，满分150分的试卷，有人被扣30分后仍得130分，有人客观题就被扣十几至二十几分，最后也有130分甚至140分。<br/><div class="contheight"></div>今天上午，浙江省考试院通报称，此次考试部分试题与去年同期相比难度较大。为保证不同次考试难度大体相当，浙江省招委组织专家研究论证，在制订评分细则时，决定面向所有考生，对难度较大的第二部分（阅读理解）、第三部分（语言运用）的部分试题进行难度系数调整，实施加权赋分。其他试题未作调整。 <br/><div class="contheight"></div>浙江是新高考改革第一轮试点省份。根据安排，高考英语科目一年安排两次考试，6月一次，11月一次，普通学生两次都可以报考，最后取较高分作为最终成绩。所以，如果此次考试难度明显大于6月那次，对只参加了本场考试的学生来说（虽然人数可能不多），显然有失公平。所以浙江才决定实施加权赋分。 <br/><div class="contheight"></div>表面上看，这种做法可以提高此次考试成绩、缩小两次考试的分数差距，但新的问题又来了：如果加权分值和算法不合理，且只对部分试题加权赋分，那么，对于在这部分试题中本就正确率较高的学生来说，是否同样意味着不公平？有家长反映平时成绩优秀的孩子作文被扣16分，成绩没那么好的同学却只扣了一两分。这种操作，是不是为了部分“填平”加权赋分造成的差距？答案尚不清楚，但对一些学生而言，却是实实在在的伤害。<br/><div class="contheight"></div>要问一句，加权赋分对考生成绩分布将产生的影响，专家在论证、制订评分细则时，是否做过充分的评估和论证？更进一步追问，在试题命制之初，为何没有平衡好两次英语考试的难度系数，而是等到答卷试评之后才发现问题？命题的科学性、严肃性何在？对于考生和家长的公平诉求，浙江省考试院言简意赅的回应还远远不够。 <br/><div class="contheight"></div>2014年《国务院关于深化考试招生制度改革的实施意见》发布，新高考改革首先在浙江和上海启动试点。改革的方向是改变唯分数论，推进多元评价、综合录取，并赋予学生更大选择权。浙江、上海试点工作的平稳落地，为新高考改革做出了积极的探索。<br/><div class="contheight"></div>诚然，改革试点是一个不断试错、不断完善的过程，但问题频发也引发了社会对新高考改革方向的关切和质疑，使新高考改革面临不小的阻力。媒体分析发现，目前，18个新高考改革第三批试点省市中，仍有超过一半至今未宣布相关方案，河南、四川、山西、黑龙江、吉林、内蒙古、江西、贵州、西藏等9个省份，既未明确“官宣”暂缓改革，也迟迟不见“改革动作”，被外界解读为推迟改革试点。 <br/><div class="contheight"></div>新高考改革的目标之一是通过等级赋分等方式破除分分必争的弊病，但这不意味着分数就不再重要。在目前录取方式下，分数仍然是考量考生的重要尺度。对于考生、家长以及社会来说，高考制度任何方向上的改革，都必须回应好公平这一底线要求。否则，再好的改革初衷也可能被扭曲。 <br/><div class="contheight"></div>此次浙江英语考试争议，也再一次提醒相关部门，每一个决策背后，都牵连着数以万计考生以及背后家庭的切身利益，容不得半点疏忽大意，必须慎之又慎。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 浙江高考英语成绩被指“倒加分”</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2675885">
+<div class="nbgbox">
+<a class="zan" contid="2675885" href="javascript:;" onclick="voteCont(this)" praisetimes="420">
+                           419</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 浙江高考英语成绩被指“倒加分”</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2675885&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2675885&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（185）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

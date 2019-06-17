@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">7岁移民女童入境美国后惨死，特朗普：奥巴马时期的政策更糟</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-17 14:03<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">危地马拉7岁移民女孩哈克林在美国死亡事件引起轩然大波后，美国总统特朗普仍不为所动，为自己的移民政策辩护。<br/><div class="contheight"></div>当地时间12月16日，在哈克林死亡事件发酵后不久，特朗普在“推特”上写道：“奥巴马时期民主党人在边境分离儿童（与成人）的政策比我们现在糟糕得多。还记得2014年的那张非洲儿童照片吗？那就是奥巴马时期。但是，如果不把他们分开，将来会有更多人来，走私者利用孩子们！”<br/><div class="contheight"></div>特朗普的回应，距离哈克林死亡已过去了一周多。<br/><div class="contheight"></div>这起引起全美轰动的事件发生在12月6日晚美国新墨西哥州洛兹堡附近。当晚，哈克林随父亲库斯和中美洲移民大部队到达新墨西哥州后，被美国边境人员转送至附近的非法移民扣留中心。在途中，哈克林发病呕吐，随后被直升机送至医院救治，但在8日凌晨抢救无效身亡。此时，距离哈克林踏入美国过境，仅过去了27个小时。<br/><div class="contheight"></div>今年4月，美国政府曾实施“零容忍”的“骨肉分离”政策，此后特朗普迫于公众的不满，于6月底停止执行这一“骨肉分离”政策，允许未成年儿童与父母关押在一起。然而，此次哈克林死亡事件发酵后，特朗普政府再次被指责虐待移民。<br/><div class="contheight"></div>关于哈克林的死亡，美国当局最初表示，哈克林随库斯偷渡途中，已经多日不吃不喝，强调她的死亡与边境执法行动无关。美边境巡逻队在声明中提到，边防人员曾检查哈克林的身体，她一切正常，库斯也签署文件证实。<br/><div class="contheight"></div>不过哈克林家属前日透过律师发表声明，反驳当局说法，并指库斯在不懂英语的情况下，被边境巡逻队要求签署一份英文文件，证明哈克林身体健康，哈克林家属称该做法不可接受。另据据美国有线电视新闻网（CNN）报道，哈克林方面的律师指出，哈克林在赴美途中有足够的水和食物，“她的父亲照顾了她”。<br/><div class="contheight"></div>目前，美国国土安全部正调查是否有人员在逮捕哈克林后违反守则。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：廖婧雯<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 危地马拉，美国，移民</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2746298">
+<div class="nbgbox">
+<a class="zan" contid="2746298" href="javascript:;" onclick="voteCont(this)" praisetimes="36">
+                           35</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美国移民政策</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2746298&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2746298&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（345）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

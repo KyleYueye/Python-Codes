@@ -1,0 +1,86 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">中央经济工作会议引发热烈反响</h1>
+<div class="news_about">
+<p>央视网</p>
+<p>
+							2018-12-23 23:16<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<script src="//file.thepaper.cn/www/v3/js/jwplayer7.1.4.js" type="text/javascript"></script>
+<script type="text/javascript">jwplayer.key="JYFbHxc36sStM1VSc1vvyI42CCrHFlTZcWEYUA==";</script>
+<div class="news_video_name">
+<style type="text/css">
+							#player_wrapper{width:669px;height:377px;}
+							#player_wrapper .player_err_tip{width:669px;height:377px;display: none;vertical-align: middle;background-color: black;color: white; text-align: center;}
+							.jw-tab-focus:focus{outline:none;}
+						</style>
+<div id="player_wrapper">
+<div class="player_err_tip" id="Text">抱歉!<br/>您的浏览器可能不支持此视频播放器，请用更高版本的浏览器试试！</div>
+</div>中央经济工作会议引发热烈反响(04:02)
+					</div>
+<div class="news_txt" data-size="standard">央视网12月23日消息（新闻联播）：2019年是新中国成立70周年，也是全面建成小康社会关键之年，21日闭幕的中央经济工作会议，向我们描绘了2019年经济发展的新图景。各地干部群众表示，要真抓实干，为全面建成小康社会收官打下决定性基础，以优异成绩庆祝中华人民共和国成立70周年。<br/><div class="contheight"></div>即将过去的2018年，我们经历了诸多挑战，但回头看，我国经济依然保持了总体平稳、稳中有进的良好态势，人民群众感受到的是获得感、幸福感不断增强。<br/><div class="contheight"></div>2019年，经济升级、创新提升、改革开放、绿色发展、全球变革，这些都是我们需要抓住的新机遇。大家表示，新机遇不容错过，2019年，我们要有大作为。<br/><div class="contheight"></div>2019年，我们还有七项重要任务要推动，这些任务有助于提高我们经济发展的质量，有助于补齐我们发展的短板。<br/><div class="contheight"></div>经济发展惠及百姓，透过中央经济工作会议的谋划安排，大家看到了中国经济的发展方向，也读懂了老百姓所能获得的民生实惠，2019年也是个民生年。<br/><div class="contheight"></div>蓝图已绘就，关键要实干。广大干部群众表示，2019年，我们要紧密团结在以习近平同志为核心的党中央周围，上下同心，迎难而上，为全面建成小康社会打下坚实基础。<br/><div class="contheight"></div>（原题为《谱写发展新篇章——中央经济工作会议引发热烈反响》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = 'http://cloudvideo.thepaper.cn/video/f571ec93410b4619b4e4493f8ee505cc/hd/783aff00-3c01-4f3d-9db6-20eecdde965a-917fbcac-5174-9b65-a244-1ff2aeab71d4.mp4',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'//image1.thepaper.cn/image/cover/20181223/c143ff0128ff448da063b949280eea7c-20181223231622800-4152212792121602532-051edfc0-3c7c-4022-a06b-6d671a62b40e.jpg',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王建亮<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 经济工作,中国经济,民生</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2767172">
+<div class="nbgbox">
+<a class="zan" contid="2767172" href="javascript:;" onclick="voteCont(this)" praisetimes="45">
+                           44</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中央经济工作会议</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767172&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767172&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

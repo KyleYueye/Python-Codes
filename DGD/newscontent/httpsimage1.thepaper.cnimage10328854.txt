@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">河南三级检察院同步成立涉黑犯罪检察组，专业化办理涉黑案</h1>
+<div class="news_about">
+<p>“最高人民检察院”微信公号</p>
+<p>
+							2018-09-10 21:07<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="491" src="http://image.thepaper.cn/www/image/10/328/821.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">最高人民检察院微信公众号 图<br/><div class="contheight"></div></span>近日，河南省洛阳市中级法院对狄治民等19人涉黑案件进行一审公开宣判，19名被告人分别被判处有期徒刑二十二年至六个月不等的刑罚。“案件办理期间，省院检察长顾雪飞多次听取汇报，副检察长胡保钢5次深入一线靠前指挥，全程跟庭指导。”河南省检察院公诉三处处长刘英旭告诉记者。<br/><div class="contheight"></div>在河南省检察院，胡保钢的身份除了院党组成员、副检察长外，还是该院涉黑犯罪检察组组长。这个检察组是从河南省检察院公诉、侦监等部门抽调业务骨干11名，共同组成的指导和办理涉黑犯罪专业团队。如今，该省三级检察院都同步成立了涉黑犯罪检察组，共有1118名检察干警投身扫黑除恶专项斗争一线。<br/><div class="contheight"></div>今年4月，经河南省检察院党组研究，决定在省市县三级检察院同步成立涉黑犯罪检察组，集中行使提前介入侦查、审查逮捕、审查起诉、出庭公诉、信访办理等刑事检察职能，专业化、一体化办理涉黑犯罪案件。8月中旬，河南省检察院制定《河南省检察院涉黑犯罪检察组工作制度》，从工作职责、案件办理和指导、办案纪律以及党建工作等多方面予以规范。<br/><div class="contheight"></div>河南检察机关在对涉黑涉恶案件做好批准逮捕、审查起诉等工作的同时，先后对涉黑恶罪犯提出不予减刑、从严减刑意见并被法院采纳79人，开展羁押必要性审查15人次。 <br/><div class="contheight"></div>（原题为《【扫黑除恶】河南三级检察院同步成立涉黑犯罪检察组》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：马世鹏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 河南 检察院 扫黑除恶</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2426815">
+<div class="nbgbox">
+<a class="zan" contid="2426815" href="javascript:;" onclick="voteCont(this)" praisetimes="34">
+                           33</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 扫黑除恶</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2426815&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2426815&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

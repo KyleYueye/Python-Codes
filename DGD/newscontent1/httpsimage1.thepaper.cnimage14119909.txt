@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25430">澎湃防务</a>
+</div>
+<h1 class="news_title">嫦娥四号国际合作载荷开机测试，中国与多国携手探索太空奥秘</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-10 16:06<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">记者1月10日从国家航天局获悉，嫦娥四号软着陆月球背面以来，由多个国家和组织参与的科学探测任务陆续展开。着陆器上由德国研制的月表中子及辐射剂量探测仪和巡视器上由瑞典研制的中性原子探测仪开机测试，获取的探测数据将通过“鹊桥”中继星陆续传回地面，中外科学家计划共同开展相关研究工作。<br/><div class="contheight"></div>嫦娥四号任务的顺利实施凝聚着诸多参与国的贡献。除探测器上的德国和瑞典载荷外，中继星上配置了荷兰低频射电探测仪；俄罗斯合作的同位素热源将保障嫦娥四号安全度过月夜；我国在南美建设的阿根廷深空站参加测控任务，也发挥了重要作用；欧洲空间局测控站也将发挥支持保障作用；此外，哈工大环月微卫星“龙江二号”上的沙特微型成像相机已于2018年6月成功传回了地月合影。<br/><div class="contheight"></div>自2018年下半年以来，美国国家航空航天局与中国国家航天局就月球与深空探测合作进行了讨论。嫦娥四号任务发射前，美国国家航空航天局月球勘探轨道器-LRO团队与嫦娥四号工程团队科学家进行了密切沟通，商讨利用美方在月球轨道运行的LRO卫星观测嫦娥四号着陆，开展科学研究。为此，美方向中方提供了LRO卫星的轨道数据，中方团队向LRO团队提供了着陆时间和落点位置，期待将有更多科学发现和成果。<br/><div class="contheight"></div>中国国家航天局愿与各国航天机构、空间科学研究机构和空间探索爱好者携手合作，共同探索太空奥秘。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：谢瑞强<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 嫦娥四号,国际合作,中国航天局</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836868">
+<div class="nbgbox">
+<a class="zan" contid="2836868" href="javascript:;" onclick="voteCont(this)" praisetimes="51">
+                           50</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 嫦娥四号探月</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836868&caid=25430",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836868&amp;caid=25430" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

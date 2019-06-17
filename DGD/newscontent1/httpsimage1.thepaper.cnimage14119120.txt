@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25491">长三角政商</a>
+</div>
+<h1 class="news_title">连续冷空气导致海上气候异常，浙江开展渔业生产安全检查</h1>
+<div class="news_about">
+<p>澎湃新闻记者 杨亚东 通讯员 杨旭斌</p>
+<p>
+							2019-01-10 16:19<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">浙江省农业农村厅1月10日召开全省渔业安全生产管理工作紧急视频会议，开展渔业船舶安全隐患排查和渔业生产安全检查，省海洋与渔业执法总队已派出4支队伍前往沿海。<br/><div class="contheight"></div> 去年11月以来，浙江省渔船发生多起安全事故和险情。去年11月19日，“浙象渔40018号”船在东海海域沉没，船上3人被附近渔船救起，其余5人失踪。今年1月2日晚，宁波欧亚远洋渔业有限公司的一艘远洋运输船在马绍尔群岛海域触礁搁浅，船上共24人，经过约60小时的救援，所有船员全部安全转移。<br/><div class="contheight"></div> “近期海上事故多发，原因主要是连续冷空气影响，导致海上气候异常，影响安全航行；此外，时值年终捕捞旺季，渔获物价高，渔民长时间捕捞过于疲惫，险情发生时难以及时应对。”浙江省海洋与渔业执法总队常务副总队长张友松告诉澎湃新闻（www.thepaper.cn）。<br/><div class="contheight"></div> 浙江是渔业大省，有渔业从业人员28万多人，渔船2.5万多艘，远洋捕捞船670多条。此次检查重点针对“两类渔船”（涉氨制冷船和帆张网、蟹笼等高危渔船）、“三类设备”（救生设备、消防设备、通讯导航设备），“四种机器”（主机、辅机、舵机、锚机），防范渔船“带病”出海。同时，对港口及海上渔船安全生产进行执法大检查，重点检查帆张网船、蟹笼渔船、捕捞辅助船和远洋渔船等，加大对超员、超载、超高、超航区、超抗风力航行生产的处罚力度。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张军<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 浙江,渔业,安全</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836856">
+<div class="nbgbox">
+<a class="zan" contid="2836856" href="javascript:;" onclick="voteCont(this)" praisetimes="9">
+                           8</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 渔业</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836856&caid=25491",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836856&amp;caid=25491" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

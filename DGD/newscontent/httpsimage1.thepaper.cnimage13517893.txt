@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">生态环境部：前11个月全国环境行政处罚金额135.97亿</h1>
+<div class="news_about">
+<p>牛秋鹏/中国环境报</p>
+<p>
+							2018-12-26 13:26<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">生态环境部12月25日向媒体通报各地2018年1月-11月环境行政处罚案件与《环境保护法》配套办法的执行情况。<br/><div class="contheight"></div>2018年1月-11月，全国环境行政处罚案件共下达处罚决定书166210份，罚没款金额为135.97亿元。行政处罚力度较大的省份为：江苏、广东、河北、山东、浙江。其中，江苏（19.73亿元）、广东（15.37亿元）、河北（12.53亿元）、山东（10.25亿元）罚没款金额超10亿元。<br/><div class="contheight"></div>1月-11月，全国行政处罚案件数量排名前十的地市为：广州市、石家庄市、东莞市、苏州市、深圳市、邯郸市、潍坊市、成都市、佛山市、无锡市；行政处罚金额排名前十的地市为：唐山市、苏州市、深圳市、无锡市、广州市、南通市、徐州市、东莞市、石家庄市、佛山市。<br/><div class="contheight"></div>1月-11月，行政处罚案件数量排名前十的县（市、区）为：广州白云区、佛山顺德区、潍坊寿光市、天津武清区、广州增城区、无锡江阴市、北京大兴区、苏州吴江区、深圳宝安区、北京房山区；行政处罚金额排名前十的县（市、区）为：唐山迁安市、深圳宝安区、佛山顺德区、无锡江阴市、上海崇明区、淄博临淄区、常州武进区、泰州泰兴市、苏州昆山市、广州增城区。<br/><div class="contheight"></div>1月-11月，全国实施五类案件总数为36302件，比去年同期（35667件）增长1.78%。其中，按日连续处罚案件691件，比去年同期（1046件）减少33.94%，罚款金额9.85亿元，比去年同期（10.75亿元）减少8.41%；查封、扣押案件19903件，比去年同期（16429件）增长21.15%；限产、停产案件6196件，比去年同期（7842件）减少20.99%；移送行政拘留7145起，比去年同期（7827件）减少8.71%；移送涉嫌环境污染犯罪案件2367件，与去年同期（2523件）减少6.18%。<br/><div class="contheight"></div>《环境保护法》配套办法案件数量较多的为江苏、广东、安徽、浙江、福建、陕西六省。案件数量与去年同期相比上升明显的为重庆（109.15%）、广西（95.24%）、天津（66.80%）、海南（42.17%）、陕西（35.45%）、内蒙古（35.40%）六省（区、市）。<br/><div class="contheight"></div>1月-11月，配套办法案件数量排名前十的地市为：台州市、广州市、吕梁市、西安市、徐州市、无锡市、泉州市、宁波市、合肥市、苏州市。<br/><div class="contheight"></div>截至11月底，全国所有地市均有适用《环境保护法》配套办法的案件。<br/><div class="contheight"></div>1月-11月，配套办法案件数量排名前十的县（市、区）为：广州白云区、阜阳临泉县、合肥长丰县、泉州晋江市、深圳龙华新区、西安鄠邑区、吕梁交城县、常州武进区、徐州丰县、连云港赣榆区。<br/><div class="contheight"></div>截至11月底，有118个县（市、区）没有适用配套办法案件。零案件县（市、区）较多的省份为山东、湖北、湖南三省。<br/><div class="contheight"></div>（原题为：《前11个月全国环境行政处罚金额135.97亿》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 生态环境部,处罚,案件</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776150">
+<div class="nbgbox">
+<a class="zan" contid="2776150" href="javascript:;" onclick="voteCont(this)" praisetimes="31">
+                           30</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 环境行政处罚</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776150&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776150&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

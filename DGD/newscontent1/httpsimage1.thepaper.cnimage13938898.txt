@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">又一国要脱欧？德国第三大党称欧盟不改革就走人</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2019-01-05 18:42<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网1月5日消息，德国第三大党德国选择党表示，除非欧盟能够在2019-2024年间采取“根本性的改革”，否则就要开始着手推动“德国脱欧”。其中一项改革是，解散现有的欧洲议会和751名欧洲议会议员，用一个只有100名代表的新“欧洲议会”取而代之。<br/><div class="contheight"></div>据英国《每日快报》报道，德国选择党称，保障欧盟目前的4万4千名官员和1万1千名员工的日常工作，每年需花费超过80亿欧元（约626亿人民币）。其中有4000名官员每年收入超过29万欧元（约227万人民币），比德国总理默克尔的工资还高。<br/><div class="contheight"></div>该政党表示，希望欧盟能够进行改革，如果这些改革没有得到实施，“我们认为有必要考虑退出，或欧盟的有序解散，以及建立一个新的欧洲经济和利益共同体”。<br/><div class="contheight"></div>除此之外，德国选择党还在考虑取消欧元作为欧盟单一货币，并计划在全面改革中放弃欧盟的气候变化目标。<br/><div class="contheight"></div>有分析人士称，德国选择党通过吸纳欧洲保守与改革党（ECR）和民族和自由欧洲党（ENF）这两个右翼政党，很可能会成为德国第二大党派。<br/><div class="contheight"></div>根据民意调查机构的预测，德国选择党将在欧盟议会赢得161个席位，仅差17个席位就能成为欧洲议会规模最大、权力最大的议员团队。<br/><div class="contheight"></div>此前在去年，德国总理默克尔领导的联合政府在巴伐利亚和黑森州的地方选举中遭遇了一系列灾难性的结果，选民纷纷涌向德国选择党和绿党。短短两周内，默克尔所在的基民盟在黑森州的支持率下跌了11个百分点至27%，这是自1966年以来基民盟在黑森州取得的最差成绩。<br/><div class="contheight"></div>之后，默克尔宣布她将在2021年任期结束时辞去总理一职，并在柏林的新闻发布会上说，德国政治“该翻开新的一页了”。但她也表示，在位期间，英国退欧和美俄关系这两个问题仍将是她的主要关注点。<br/><div class="contheight"></div>（原题为《又一国要脱欧？德国第三大党称欧盟不改革就走人》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 德国,脱欧</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2817956">
+<div class="nbgbox">
+<a class="zan" contid="2817956" href="javascript:;" onclick="voteCont(this)" praisetimes="184">
+                           183</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 脱欧</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2817956&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2817956&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（75）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

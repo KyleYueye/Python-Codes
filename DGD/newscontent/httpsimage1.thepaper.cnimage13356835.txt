@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">全国人大外事委员会就美国“对等进入西藏法案”发表声明</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-21 06:29<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京12月20日电，美东时间12月19日，美国国会“2018年对等进入西藏法案”经美国总统签署成法。该法案诋毁中国西藏对外开放政策，以所谓“对等原则”鼓噪对有关中方官员采取歧视性签证政策，违背国际关系基本准则，粗暴干涉中国内政，伤害中国人民的感情，并向“藏独”势力发出严重错误信号。中国全国人大对此表示强烈愤慨和坚决反对。<br/><div class="contheight"></div>西藏事务纯属中国内政，不容任何外国势力干涉。中国西藏和其他四省藏区对各国人士是开放的。2015年以来仅美国访藏人员就将近4万人次，其中包括中国全国人大接待的多批美国国会议员代表团。同时，由于当地特殊的地理和气候条件等因素，中国政府依法依规对外国人入藏采取一定管理措施，这是完全必要、无可厚非的。美方有关法案对中方的指责罔顾事实、充满偏见，我们对此绝不接受。如果美方将该法付诸实施，必将给两国各领域交流合作包括双方立法机关交往带来严重损害，中方也必将采取有力措施坚决维护自身利益。<br/><div class="contheight"></div>中国对外开放的大门只会越开越大，西藏也会越来越开放。中方欢迎更多外国人士到中国西藏地区访问、旅游、经商，这一政策不会改变，但前提是必须严格遵守中国法律和相关规定、履行必要手续。<br/><div class="contheight"></div>我们敦促美方充分认清涉藏问题的高度敏感性，切实恪守在涉藏问题上作出的承诺，停止利用涉藏问题干涉中国内政，同时采取有效措施消除上述法案带来的不利影响，更不得实施该法，以避免严重损害中美关系和两国在重要领域的合作。<br/><div class="contheight"></div>（原题为《全国人大外事委员会就美国“2018年对等进入西藏法案”发表声明》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中美关系</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2758416">
+<div class="nbgbox">
+<a class="zan" contid="2758416" href="javascript:;" onclick="voteCont(this)" praisetimes="175">
+                           174</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中美关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2758416&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2758416&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（43）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

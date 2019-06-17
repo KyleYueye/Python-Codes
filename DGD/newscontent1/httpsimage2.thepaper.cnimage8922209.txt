@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜离婚冷静期干涉婚姻自由了吗？</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-07-17 15:41<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">广东省高级人民法院16日发布《广东法院审理离婚案件程序指引》。其中关于离婚冷静期的规定在网上引起不小的争议，有人称其干涉婚姻自由。<br/><div class="contheight"></div>先来看规定原文：<br/><div class="contheight"></div>“人民法院在审理离婚案件中，为促使当事人约束情绪、理性诉讼，或者帮助当事人修复情感、维护婚姻，可以设置一定期限的冷静期。当事人在冷静期内达成和解协议的，可以申请撤诉或者申请人民法院确认。当事人在冷静期内有家庭暴力、吸毒、转移财产、藏匿未成年子女、故意拖延诉讼等情况的，人民法院应当及时终止冷静期。”<br/><div class="contheight"></div>其实检索新闻便知，离婚冷静期在各地出现已经有一段时间了。<br/><div class="contheight"></div>2017年3月8日，安岳县法院发出四川省首份离婚冷静期通知书，限定一对夫妻冷静三个月。三个月冷静期满，经过法院多次调解，提起诉讼的女方向法院提出了撤诉申请。<br/><div class="contheight"></div>2017年7月4日，丹凤县法院庾岭法庭发出陕西首份离婚冷静期通知书。2017年10月，济南市市中区法院在全市首推离婚冷静期制度。<br/><div class="contheight"></div>地方上的这些尝试都源自2016年最高人民法院在全国推行的家事审判方式和工作机制的改革试点，这项改革的目标包括“维护婚姻家庭关系稳定，依法保护未成年人、妇女和老年人合法权益”。据报道，广东省的突破在于，“首次提出了离婚冷静期的完整规定……创造性地提出将离婚冷静期区分为情绪约束冷静期和情感修复冷静期，并规定了不同的启动条件、设置期限和运用规则。”<br/><div class="contheight"></div>离婚冷静期自问世起便争议不断，最常见的反对声音就是：婚姻自主，法院不应随意干涉。但实际上经过这两年的试点，婚姻冷静期并不像有人批评的那样一无是处。当然，也暴露出了一些问题，值得重视。<br/><div class="contheight"></div>离婚冷静期的制度设计本意无可厚非。根据法律规定，法院在审理离婚案件时，本就有进行调解的义务。离婚冷静期也是一种调解的手段。<br/><div class="contheight"></div>冲动型离婚被冷静期劝阻之后，撤诉也是当事人的自主决策，不能说是干涉婚姻自由。很多其他国家也有类似的冷静期制度，目的是给夫妻双方一个情感缓冲期，引导双方珍惜婚姻与家庭。<br/><div class="contheight"></div>但是舆论对离婚冷静期的关切也应予重视。人们担心，假如出现了家暴这样的事，离婚冷静期反而可能导致女性、儿童遭遇更大的伤害。<br/><div class="contheight"></div>离婚冷静期由于是一个新生事物，各地法院在执行的过程中，缺少明确的执行规范，这是导致不信任的主要原因。离婚冷静期若想要发挥好的作用，必须有严格的适用范围。比如若有家暴、虐待、吸毒、赌博等恶习，绝对不应该给予冷静期。法院不能一味地“劝和不劝离”，应该把对弱势群体的保护放在维护婚姻稳定之上。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 离婚冷静期 婚姻自由</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2270145">
+<div class="nbgbox">
+<a class="zan" contid="2270145" href="javascript:;" onclick="voteCont(this)" praisetimes="16">
+                           15</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 离婚冷静期</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2270145&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2270145&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（47）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

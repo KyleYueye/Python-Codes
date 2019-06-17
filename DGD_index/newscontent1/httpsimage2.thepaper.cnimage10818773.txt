@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">重新犯罪问题调查领导小组成立：两高两部参加，傅政华任组长</h1>
+<div class="news_about">
+<p>澎湃新闻记者 邵克</p>
+<p>
+							2018-09-26 22:40<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="399" src="http://image.thepaper.cn/www/image/10/818/744.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">司法部微信公众号 图<br/><div class="contheight"></div></span>据司法部微信公众号消息，9月26日，司法部召开了重新犯罪问题调查领导小组第一次会议。上述消息透露，根据中央政法委有关要求，成立了由最高人民法院、最高人民检察院、公安部和司法部参加的、跨部门的重新犯罪问题调查领导小组，司法部部长傅政华已任小组组长。<br/><div class="contheight"></div>消息显示，重新犯罪问题调查领导小组成员包括司法部副部长刘志强、司法部党组成员甘藏春、最高人民法院副院长杨万明、最高人民检察院副检察长童建明、公安部副部长孟庆丰。<br/><div class="contheight"></div>消息介绍，组织开展重新犯罪问题调查是经中央政法委批准同意开展的一项重要工作，重新犯罪问题调查领导小组将为组织开展全国性的重新犯罪问题调查提供坚强有力的组织保障。<br/><div class="contheight"></div>傅政华出席会议强调，组织开展重新犯罪问题调查有助于推进全面依法治国、维护国家安全和社会稳定、提升罪犯改造效果、推进打击犯罪国际交流合作，对于增强防控重新犯罪、维护社会稳定的主动性、预见性、精准性，落实总体国家安全观，促进国家治理体系和治理能力现代化，推进全面依法治国，具有基础性作用和深远意义。重新犯罪问题调查是一项综合性、系统性工程，小组各成员单位要进一步提高思想认识，加强合作配合，充分运用大数据智能化信息化手段，认真做好信息资料采集和数据共享交换，力争在今年年底前形成重新犯罪率基本数据指标体系，努力获得全面准确的重新犯罪率数据，为制定完善国家刑事政策和社会政策、谋划完善全面依法治国顶层设计提供建设性意见和决策参考。<br/><div class="contheight"></div>消息还透露，会议审议通过了《重新犯罪问题调查实施方案》和《重新犯罪问题调查领导小组和工作机构工作规则》。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：马世鹏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 重新犯罪 傅政华 最高法 最高检 司法部 公安部</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2478135">
+<div class="nbgbox">
+<a class="zan" contid="2478135" href="javascript:;" onclick="voteCont(this)" praisetimes="186">
+                           185</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 重新犯罪</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2478135&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2478135&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

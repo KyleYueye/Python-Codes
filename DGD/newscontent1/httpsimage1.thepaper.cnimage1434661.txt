@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">外媒：第二次“金特会”或选址东南亚，越南可能性最大</h1>
+<div class="news_about">
+<p>澎湃新闻记者 李佩</p>
+<p>
+							2019-01-08 15:42<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">一度停滞不前的美朝谈判在近日开始有了新的进展，美国总统特朗普当地时间6日表示：“关于举行第二次美朝首脑会谈的场所，美朝正在进行协商。”随着特朗普的表态，关于第二次金特会的选址，也成为了媒体关注的焦点。<br/><div class="contheight"></div>韩国《东亚日报》1月8日报道，越南和马来西亚等东南亚国家正在成为第二次会谈的热门地点。报道称，不少专家分析，在举行会谈时美国会考虑到朝鲜飞机可以移动的距离，因此，将把会谈定在东南亚国家之一。从目前来看，与朝鲜保持友好关系的越南、印度尼西亚等国的可能性很大。特别是越南，虽然过去与美国进行过战争，但是目前保持着合作关系，同时作为朝鲜经济的榜样也具有象征性。此外，朝鲜和韩国之间的非军事区和美国夏威夷等也被提名为候选地。<br/><div class="contheight"></div>韩国《文化日报》周一则援引不具名的外交消息人士的话说，美国国务院官员最近多次在越南首都河内与朝鲜官员会面，讨论美国总统特朗普和朝鲜领导人金正恩第二次峰会的相关安排，这引发外界猜测河内或将成为此次峰会的举办地。该报也称，越南与美国和朝鲜都有外交关系，美、朝在越南均设有大使馆。此外，越南还具备社会主义国家进行经济改革的象征意义。<br/><div class="contheight"></div>韩国峨山政策研究院安保统一中心负责人申范哲对《东亚日报》指出，印度尼西亚比新加坡更远，马来西亚因朝鲜男子在马身亡案而评价不好，“与美国的关系也有所改善、同朝鲜关系也更接近的越南的可能性很高。”<br/><div class="contheight"></div>去年12月1日，特朗普在出席二十国集团（G20）峰会后回国时就曾表示，“（第二次美朝首脑会谈）将在明年1月或2月举行，”“正在考虑三个地点。”这表明，美国当时就正在与朝鲜就会谈场所进行讨论了。此前的1月3日，CNN曾报道称，特朗普政府为了寻找第二次美朝首脑会谈的举办地，从去年年底开始向亚洲等多个场所派遣了事前考察组。据CNN报道，白宫当初考虑过瑞士，并与朝鲜进行了接触，但由于朝鲜人员的移动和物品运输问题，瑞士未能进入候选地名单。<br/><div class="contheight"></div>上周日，特朗普在白宫南草坪对记者表示，美朝双方正在就第二次“特金会”选址进行商议，并表示“可能不久之后就会公布”。他还表示，他收到了一封来自金正恩的“很棒的信件”，并很可能在不久的将来与这位朝鲜领导人会面。特朗普还称：“他们真的想见面，我们也想见面。让我们拭目以待，看看马上就会发生什么事情。”<br/><div class="contheight"></div>与特朗普一边说举行第二次金特会，一边说朝鲜弃核之前会维持对朝鲜的制裁相似，金正恩同样也在今年的新年致辞中，就美朝谈判的前景释放了双重信号。他在新年致辞中表示，朝鲜将不再制造、试验或扩散核武器；但与此同时，他要求美国解除经济制裁，呼吁更多的外国投资和贸易，并警告称如果华盛顿持续施加制裁来强制朝鲜政府去核，那么与美国曾经建立的善意可能会付之东流。<br/><div class="contheight"></div>《东亚日报》因此指出，要想举行第二次会谈，场所固然重要，但更重要的是如何确定会谈的议题并进行磋商。有专家指出，在推进无核化谈判的方式上，一直要求在首脑会谈前先举行实务会谈和高级别会谈的美国，和更倾向于用自上而下的方式进行谈判的朝鲜之间存在着差异。如果在实务会谈不顺利的情况下就举行首脑会谈，或很难在“完全无核化”上取得大的进展。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：吴挺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 朝鲜,美国,美朝关系</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827398">
+<div class="nbgbox">
+<a class="zan" contid="2827398" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 金特会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827398&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827398&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

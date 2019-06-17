@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">越南网络安全新法生效，责令互联网公司删除“有毒”内容</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-02 13:02<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">越南网络安全新法于1月1日正式生效。<br/><div class="contheight"></div>据法新社1月1日报道，该法规定，互联网公司必须删除被政府认定为“有毒”的网上内容，越南互联网用户也不得在互联网上散布反政府信息或歪曲历史。此外，脸书、谷歌等国际科技巨头要在越南开展业务必须在越南国内设立代表处，而且在越南政府要求下必须将用户数据提交给政府。<br/><div class="contheight"></div>越南公安部两个月前发布法令草案，说明如何实施这项法律，且给予在越南提供网络服务的公司12个月的宽限期。<br/><div class="contheight"></div>据新华社此前报道，越南在去年6月在十四届国会第五次会议以86%的高票通过网络安全法。该法设7章43条，对在网络空间内，就维护国家安全和社会秩序，以及各有关机构、组织和个人的行为责任做出规定。<br/><div class="contheight"></div>根据规定，在越南境内提供互联网相关服务的国内外企业，需将用户信息数据存储库设在越南境内，相关外国企业需在越南设立办事处。在越南境内提供互联网相关服务的国内外企业需验证用户注册信息，并应公安部门调查要求提供相关信息。该法对禁止利用网络空间煽动反对国家、歪曲历史、破坏民族团结、诽谤宗教、散布虚假和有伤风化的信息等行为做出具体规定。<br/><div class="contheight"></div>而美国和加拿大以及一些境外势力此前曾向越南施压，要求越南推迟对该草案的投票。<br/><div class="contheight"></div>与西方政府和社会活动人士高调批评不同的是，脸书以电子邮件的形式向法新社明确表示“将删除我们了解到的不符合(脸书)标准的内容”。越南政府方面表示，谷歌已采取行动，准备在越南设立办公室，不过谷歌方面表示在现阶段尚不能对此置评。<br/><div class="contheight"></div>越南信息传媒部统计显示，越南互联网用户约占全国总人口的70%，社交媒体用户约为5300万。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 越南</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2803645">
+<div class="nbgbox">
+<a class="zan" contid="2803645" href="javascript:;" onclick="voteCont(this)" praisetimes="37">
+                           36</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 越南</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2803645&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2803645&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

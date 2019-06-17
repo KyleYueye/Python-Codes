@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">外商投资法草案一审：不得利用行政手段强制转让技术</h1>
+<div class="news_about">
+<p>杨丽娟、雷崔捷/人民日报客户端</p>
+<p>
+							2018-12-23 16:39<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">人民日报客户端12月23日消息，2018年12月23日下午，十三届全国人大常委会第七次会议在京举行，外商投资法（草案）第一次提请审议。<br/><div class="contheight"></div>司法部部长傅政华在做草案说明时指出，为加强对外商投资合法权益的保护，草案从四个方面作了规定：<br/><div class="contheight"></div><strong>一是加强对外商投资企业的产权保护。</strong>规定国家对外商投资不实行征收，根据社会公共利益需要实行征收的，应当依照法定程序进行，并给予公平、合理的补偿；外国投资者在中国境内的出资、利润、资本收益等可以依法以人民币或者外汇自由转出；国家依法保护外国投资者和外商投资企业的知识产权，鼓励基于自愿原则和商业规则开展技术合作，技术合作条件由投资各方协商确定，不得利用行政手段强制转让技术。<br/><div class="contheight"></div><strong>二是强化对涉及外商投资规范性文件制定的约束。</strong>规定政府及其有关部门制定涉及外商投资的规范性文件应当符合法律法规，不得违法减损外商投资企业合法权益或者增加其义务，不得违法设置市场准入和退出条件、违法干预或者影响外商投资企业的正常生产经营活动。<br/><div class="contheight"></div><strong>三是促使地方政府守约践诺。</strong>规定地方各级人民政府及其有关部门应当严格履行依法作出的政策承诺和依法订立的各类合同；因国家利益、公共利益需要改变政府承诺和合同约定的，应当严格依照法定权限和程序进行，并对外国投资者、外商投资企业因此受到的损失予以补偿。<br/><div class="contheight"></div><strong>四是完善外商投资企业投诉维权机制。</strong>规定国家建立外商投资企业投诉工作机制，协调完善外商投资企业投诉工作中的重大政策措施，及时解决外商投资企业反映的问题；外国投资者、外商投资企业可以依法成立和自愿参加商会、协会，维护自身合法权益。<br/><div class="contheight"></div>对外商投资如何管理？草案也做了明确规定。<br/><div class="contheight"></div>一是为落实准入前国民待遇加负面清单管理制度，规定负面清单规定禁止投资的领域，外国投资者不得投资；限制投资的领域，外国投资者进行投资应当符合规定的条件；负面清单以外的领域按照内外资一致的原则实施管理。二是与有关法律法规相衔接,规定外商投资项目的核准、备案按照国家有关规定执行；外国投资者投资依法需要取得许可的行业、领域应当办理相关许可手续；外商投资企业的登记以及税收、会计、外汇等事宜依照有关法律、行政法规和国家有关规定办理。三是规定国家建立外商投资信息报告制度，信息报告的内容和范围按照确有必要、严格控制的原则确定，外国投资者或者外商投资企业通过企业登记系统和企业信用信息公示系统向商务主管部门报送投资信息，通过部门信息共享能够获得的投资信息不得再行要求报送。四是为维护国家安全，对外商投资安全审查制度作了原则规定，并明确安全审查决定为最终决定。<br/><div class="contheight"></div>（原题为《外商投资法草案一审：不得利用行政手段强制转让技术》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 外商投资法</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766493">
+<div class="nbgbox">
+<a class="zan" contid="2766493" href="javascript:;" onclick="voteCont(this)" praisetimes="511">
+                           510</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 外商投资法</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766493&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766493&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（91）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

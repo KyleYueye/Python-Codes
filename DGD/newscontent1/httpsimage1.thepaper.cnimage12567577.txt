@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜“落叶雕塑”不仅冒犯了自然，也冒犯了审美</h1>
+<div class="news_about">
+<p>澎湃特约评论员 与归</p>
+<p>
+							2018-11-25 20:19<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2669304" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜“落叶雕塑”不仅冒犯了自然，也冒犯了审美" src="//image.thepaper.cn/image/12/561/324.jpg"/>
+</a>
+<div class="atlas_360_txt">惊喜or惊吓？复兴西路落叶艺术作品受争议，部分已调整拆除<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">“眼见它起雕塑，眼见它撤走了”。这两天，上海复兴西路刷了不少人的朋友圈。<br/><div class="contheight"></div>刚开始，大家以为是“惊喜”，可很快，不少网友纷纷表示受到了惊吓，甚至有人吐槽“辣眼睛”。比如，表现敦煌名片的两位“飞天女神”，看身材是女士，看脸却分明是汉子；泛黄的梧桐叶里，被人为装饰了又大又红的“枫叶”；树干上，则莫名其妙地被挂上了硕大的“紫色牡丹”……<br/><div class="contheight"></div>这组雕塑之所以引发大量网友的反感，不仅仅是因为雕塑本身给人的“感官丑”，还有和静谧秋色对比出的突兀感；更重要的是，这种以“环保”和“美”之名的强势插入，不仅冒犯了自然，也冒犯了市民的审美。<br/><div class="contheight"></div>比如，我本来想拍一张“暮秋落叶纷纷下”，镜头往那一杵，却见“姹紫嫣红疑似春”。这种“乱入”，首先是在视觉上引起观者的“不适”，进而引发心理排斥，最终上升到言语批判。<br/><div class="contheight"></div>任何一种美的呈现都要有一股协调的精神气儿。复兴西路东起淮海中路西至华山路，沿路多植法桐，建筑多为西式，格调深幽静雅。这种精神气儿，并不是堆砌一些主题元素就锦上添花了，还有可能是破坏。有网友就指出，“不如只有自然落叶美”。因为落叶和残梧，正合深幽静雅的街道气质，突然而来的这些“姹紫嫣红”，就显得不伦不类，破坏了这份清幽和宁静。<br/><div class="contheight"></div>一座城市最骄傲的地方就是，你拍一张很小的、不起眼角落的照片，别人就能够一眼认出，而不需要亮出东方明珠、陆家嘴、外滩这些地标。复兴西路的梧桐和落叶，配上一个街角，或许就有朋友认出这是上海，但是“乱入”了这些雕塑，估计熟识的人也会有些发懵。<br/><div class="contheight"></div>当然，对于美的理解和欣赏，一千个人眼中有一千个哈姆雷特，在网友的吐槽下，也有人表示喜欢，而制作这些雕塑以及策划这项活动的人，可能也有“己见”。但是，既然是公共艺术，就必然要考虑最广大公众的感受，不能由着自己的意志或者意图来。对每一处公共空间，公众都有参议权。<br/><div class="contheight"></div>好在，徐汇区方面已做出了方案调整，“飞天女神”等也被就地拆除，这种从善如流的态度还是要点赞。只是更希望，类似的想当然、自以为是的创意决策，以后不妨少一些。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：黎凡<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 澎湃评论</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2669880">
+<div class="nbgbox">
+<a class="zan" contid="2669880" href="javascript:;" onclick="voteCont(this)" praisetimes="179">
+                           178</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 澎湃评论</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2669880&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2669880&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（816）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

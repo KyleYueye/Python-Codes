@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">不可思议！疯狂违章310分竟然在一个小时内被清零</h1>
+<div class="news_about">
+<p>张林、李坚、李嘉玲/中国纪检监察报</p>
+<p>
+							2018-12-08 14:15<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中国纪检监察报12月8日消息，日前，广东省中山市公安局收到一份市监委发出的《监察建议书》，要求针对交警部门执法管理不严、队伍监督不到位等问题迅速进行整改，并开展警示教育，举一反三及时清除害群之马，堵塞执法管理漏洞。<br/><div class="contheight"></div>这份监察建议，源于中山市纪委监委驻市公安局纪检监察组发现的一条异常的执法数据。<br/><div class="contheight"></div>今年4月初，驻市公安局纪检监察组在开展日常监督中发现，一辆轿车在市公安局三角分局交警大队使用34个驾驶证处理该车共90宗违法记录，310分违章扣分竟然在一个小时内被全部销除。<br/><div class="contheight"></div>“按照交警部门‘一辆机动车一般可以使用3个驾驶证处理交通违法业务及扣分’规定，这起交通违章处理存在明显问题。疯狂违章的310分扣分竟然就这样被神秘地销除了，不可思议！”驻市公安局纪检监察组负责人随即将这一情况上报市纪委监委。<br/><div class="contheight"></div>因涉嫌公职人员职务违法问题，中山市纪委监委及时授权驻公安局纪检监察组成立专案组展开监察调查。<br/><div class="contheight"></div>专案组首先从车主胡某入手，了解到其是委托一名外号“燕子”的中介帮忙处理轿车的全部交通违法记录，并支付约10万元中介费，但“燕子”的真实身份及住所等详细信息一时无法核实。<br/><div class="contheight"></div>根据违章车辆扣分销分特点，专案组马上作出判断，“没有内鬼就引不来外贼！”调查人员迅速调整调查策略，将三角分局交警大队当日值班辅警杨嘉贤列为重点调查对象。杨嘉贤一开始只承认窃用民警数字证书违规销除该轿车扣分记录并收受好处费一事，但辩称是“初犯”，请求从轻从宽处理。<br/><div class="contheight"></div>专案组并没有就此打住，而是继续以杨嘉贤银行卡资金流向、近期个人收入和消费情况为突破口开展深入调查。杨嘉贤在确凿的证据面前知道再无法隐瞒，只能将其近年来勾结中介陈树斌违规销分并受贿30多万元的犯罪事实和盘托出。<br/><div class="contheight"></div>拔出萝卜带出泥。随着中介陈树斌落网，专案组“顺藤摸瓜”，深挖细查违规销分问题线索，一个“买分卖分”利益链滋生的腐败共同体及一群辅警涉嫌受贿的事实逐渐浮出水面。<br/><div class="contheight"></div>原来，从2017年5月开始，陈树斌通过微信从多家车务公司购买大量外省籍人员的驾驶证资料和扣分委托书，从各地销分中介处批量接单后再以宴请、给予好处费等方式收买辅警违规销除机动车扣分，其本人获利35万多元。<br/><div class="contheight"></div>而违规销分的始作俑者则是市交警支队城区大队辅警程泳航。他在工作过程中结识中介陈树斌后，大量承接陈树斌介绍的销分业务，短短两个月时间就利用职务之便牟利10多万元。赚到钱后的程泳航摇身一变成了交警内部的“黄牛”，他采取利益均沾的方式拉拢辅警何敏宁、郑子俊等人一起作案，自己则从中抽取介绍费。在贪欲面前，交警部门数名年轻辅警纷纷“落水”，他们窃用民警公安数字证书大肆进行违规销分，2017年5月至2018年7月期间，辅警杨嘉贤、程泳航、何敏宁、郑子俊、谭宝林、吴嘉健等人通过微信、银行转账等方式收取好处费共计217万余元。<br/><div class="contheight"></div>目前，6名涉案辅警均以涉嫌受贿罪被移送检察机关，相关中介也因涉嫌行贿罪被依法追究法律责任。<br/><div class="contheight"></div>（原标题《疯狂违章310分咋就能清零》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 违章清零</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2719496">
+<div class="nbgbox">
+<a class="zan" contid="2719496" href="javascript:;" onclick="voteCont(this)" praisetimes="318">
+                           317</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 违章清零</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2719496&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2719496&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（1.3k）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

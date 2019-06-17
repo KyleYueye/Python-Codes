@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">多名委员呼吁适时出台强制执行法，让妨碍执行入刑</h1>
+<div class="news_about">
+<p>澎拜新闻记者 庄岸</p>
+<p>
+							2018-10-25 16:59<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“只有让被执行人付出更大的代价，才能真正地解决执行难。”10月24日下午，第十三届全国人大常委会第六次会议对最高人民法院所做的解决执行难工作情况报告进行了分组审议。多位代表委员呼吁，应当借助刑事制裁来解决执行难，还应将妨碍执行纳入刑事范畴，适时颁布民事强制执行法。<br/><div class="contheight"></div>当前，解决执行难问题仍面临诸多阻力。最高法院院长周强在报告有关执行难情况中表示，法院执行难主要表现在：查人找物难、财产变现难、排除非法干预难、清理历史欠账难等。<br/><div class="contheight"></div>基于此，多位代表委员提出，应当借助刑事制裁来解决执行难。在郑功成委员看来，只有让犯罪者受到刑事制裁，解决执行难才有最后的制裁手段，司法公正才有真正的威慑力。<br/><div class="contheight"></div>“实践中对拒执罪适用较少，刑法里既然有这个罪名，而现实为什么适用少？这表明法院和有关方面形成的合力不够。”郑功成说。<br/><div class="contheight"></div>针对上述建议，肖胜方代表提议从顶层设计出发，对症下药。“按照现在的民诉法，生效判决以后要你申请执行，申请之后法院还要通知被执行人，不履行才强制执行，相当于通知人家去转移财产，就算不执行也只有双倍的利息，成本不大。”肖胜方认为，只有让生效判决的义务人付出更大的代价，才能真正地解决执行难。<br/><div class="contheight"></div>韩晓武委员认为，强制执行并不仅仅是对法院民事判决的执行和保障，而是对所有法定的执行根据的执行和保障，它涵盖了民事、刑事、仲裁、公正等领域，“如此广泛而复杂的强制执行法律关系，仅仅靠民事诉讼法的有关规定和司法解释是不够的，建议适时制定颁布民事强制执行法”。<br/><div class="contheight"></div>除了惩治拒不执行判决裁定的行为，现实中还存在妨害执行的现象。据彭勃委员观察，当前的司法实践中，妨害执行已成为执行难的一个重要原因，损害着国家权力的公信力和债权人的合法权益，同时也严重破坏着社会风气。<br/><div class="contheight"></div>彭勃建议，要将妨碍执行纳入刑事范畴，通过强力的刑罚惩处，实现有效威慑，制止妨害执行现象的发生。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李寿康<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 全国人大常委</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2564153">
+<div class="nbgbox">
+<a class="zan" contid="2564153" href="javascript:;" onclick="voteCont(this)" praisetimes="78">
+                           77</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 法院执行难</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2564153&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2564153&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

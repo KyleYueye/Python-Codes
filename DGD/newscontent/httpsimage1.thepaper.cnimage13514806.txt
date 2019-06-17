@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25463">港台来信</a>
+</div>
+<h1 class="news_title">国台办介绍李明哲服刑情况：各项权益均得到保障</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2018-12-26 10:49<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网12月26日电，国台办发言人马晓光26日对“李明哲服刑情况”作出回应，他表示，自李明哲在湖南赤山监狱服刑以来，各项权益均依法得到保障，不存在所谓食品过期和超时劳动的问题。<br/><div class="contheight"></div>在当日的例行发布会上，有记者提问，李明哲妻子李净瑜日前在探监之后公开表示，李明哲在狱中遭到了所谓“非人道”的对待，发言人能否说明一下有关的情况？<br/><div class="contheight"></div>马晓光称，据了解，自李明哲在湖南赤山监狱服刑以来，各项权益均依法得到保障，不存在所谓食品过期和超时劳动的问题。<br/><div class="contheight"></div>李明哲入狱前患有高血压、糖尿病，现在血压、血糖均在正常范围。狱方按规定为其全额配备全新的御寒衣服等，都有李明哲本人签字确认。<br/><div class="contheight"></div>李净瑜带来的54本书籍，其中24本交给了李明哲本人，30本返还给了李净瑜，两个人均有签字。家属信件均已转交李明哲本人，其他渠道带来的涉及违法内容的信件，狱方依规进行处理。<br/><div class="contheight"></div>马晓光强调，李明哲作为服刑人员，理应接受狱方监狱制度的管理，而李净瑜不断罔顾事实，蓄意散布不实之词，背后有其不可告人的政治目的，她的恶劣言行，已经对监狱正常执法工作造成了干扰。<br/><div class="contheight"></div>（原题为《国台办介绍李明哲服刑情况：各项权益均得到保障》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 国台办</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2775744">
+<div class="nbgbox">
+<a class="zan" contid="2775744" href="javascript:;" onclick="voteCont(this)" praisetimes="40">
+                           39</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国台办</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2775744&caid=25463",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2775744&amp;caid=25463" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

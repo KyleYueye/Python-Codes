@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25463">港台来信</a>
+</div>
+<h1 class="news_title">台当局以“越界”为由扣押一大陆渔船，系近三周第二次扣押</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2019-01-10 17:14<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><span style="color: rgb(128, 128, 128);"><div style="text-align:center;"><img alt="" height="323" src="http://image.thepaper.cn/www/image/14/120/448.jpg" width="600"/></div>台当局“海巡队”登上大陆渔船 海外网 图</span><br/><div class="contheight"></div>海外网1月10日消息，10日，台媒报道称，台当局“海巡队”又以“越界”为由扣押了一艘大陆渔船。这是近三周内，台当局第二次对大陆渔船进行扣押。<br/><div class="contheight"></div>据台湾“联合新闻网”报道，台当局“澎湖海巡队”称，今日（10日）上午10时，其所属巡防艇在海上执行“扫荡”时，发现大陆渔船“湘汉寿辅0510”出现在澎湖猫屿西南5里处海域。台当局“海巡队”以“越界”为由，扣押了渔船和船上6名渔工。他们还声称，这艘渔船并非一般越界作业的渔船，船上没有渔获等，初步研判是在海上进行补给的补给船。随后，该大陆渔船由台“海巡队”扣押返途，期间大陆渔船主机还出现故障。经审查后，台当局称大陆渔船“越界”“证据确凿”，将予以重罚。据了解，这艘渔船为澎湖第二次查获的大陆湖南籍渔船。<br/><div class="contheight"></div>上个月，澎湖海域天气恶劣，阵风高达11级，有20多艘大陆渔船因需要避风，驶入所谓的“台湾管辖海域”内。但不少台媒在报道时再次炒作称大陆渔船“越界”捕鱼。而台“海巡署”获消息后威胁称“将派大型舰艇强势驱离”。<br/><div class="contheight"></div>3日起，台“海巡署”舰队分署调派2000吨级的“台南舰”进驻澎湖海域，就近配合澎湖“海巡队”执行“越界”大陆渔船的“扫荡”任务。<br/><div class="contheight"></div>最近两年，台当局多次以“越界”为由“不友好”对待大陆渔船，而大陆船只、船员被台海巡部门扣押的事件也屡有发生，今年8月最为密集。8月19日，台当局“澎湖海巡队”以“越界”为由，两天内连扣两艘大陆渔船，船员被带走盘问。同月23日，另一艘大陆渔船被扣押，18名船员被带走盘问。<br/><div class="contheight"></div><span style="color: rgb(128, 128, 128);"><div style="text-align:center;"><img alt="" height="311" src="http://image.thepaper.cn/www/image/14/120/452.jpg" width="600"/></div>“台南舰”</span><br/><div class="contheight"></div>最严重的一次发生在2017年5月6日，台“海巡队”朝广东省南澳31049号大陆渔船连发5枪橡胶子弹和破门弹，造成两名大陆渔民受伤。<br/><div class="contheight"></div>“将心比心”，国台办曾这样呼吁台当局，多年以来，大陆方面为两岸渔民正常作业提供保障，维护良好的作业秩序，保障两岸渔民的生命财产安全，做了大量的工作。大陆方面对台湾的渔民一向以同胞情谊相待，我们在沿海多个地方设立了台湾渔民接待设施，为台湾渔船和渔民提供避风、补给、抢险、救助等相关的帮助。两岸同胞是骨肉兄弟，将心比心，台湾方面应当停止以粗暴和危险的方式来对待大陆渔民，保证相关渔民的生命财产安全。<br/><div class="contheight"></div>（本文原题为《又一大陆渔船遭台当局扣押!这次的借口还是“越界”》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 渔船,台湾</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837085">
+<div class="nbgbox">
+<a class="zan" contid="2837085" href="javascript:;" onclick="voteCont(this)" praisetimes="39">
+                           38</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 台湾查扣大陆母子型渔船</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837085&caid=25463",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837085&amp;caid=25463" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（56）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

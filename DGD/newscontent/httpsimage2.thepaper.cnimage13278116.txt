@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25482">逝者</a>
+</div>
+<h1 class="news_title">50年前发明复制粘贴功能，93岁计算机先驱贝雷辛去世</h1>
+<div class="news_about">
+<p>中国新闻网</p>
+<p>
+							2018-12-18 14:31<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网12月18日消息，据外媒报道，计算机先驱贝雷辛(Evelyn Berezin)8日辞世，享年93岁。她最为人知的成就，是发明第一台计算机化的文字处理器，首次完成编辑、删除、复制及粘贴功能。<br/><div class="contheight"></div>据报道，贝雷辛早期的成就之一，是为联合航空设计机票订票系统，“服务全美60座城市，只需一秒钟的反应时间，该系统11年运作无失误”。<br/><div class="contheight"></div>1968年，贝雷辛发明第一台计算机化的文字处理器，当时IBM已生产了几年较落后的文字处理器，她首次使用半导体芯片让文字处理真正计算机化，效率非IBM所能企及。<br/><div class="contheight"></div>贝雷辛的文字处理器最初版本没有屏幕，外观如洗衣机一般大小，经过反复改良后才有显示屏幕和其他设计上的改善。<br/><div class="contheight"></div>贝雷辛的计算机化文字处理器问世后，帮助了当时从事秘书工作的女性，此前秘书制作多份文件副本，经常要将同一文件重复打字数十次。但报道称，文字处理器最终却意外削弱了秘书的工作价值。<br/><div class="contheight"></div>贝雷辛后来创办Redactron Corporation公司，生产和销售自己发明的计算机化文字处理器。当英特尔无法提供合适的硅芯片，Redactron决定自行设计和生产。Redactron在7年之间卖了大约1万台计算机化文字处理器。Redactron直接和IBM竞争，最终被Burroughs Corporation收购。<br/><div class="contheight"></div>职业生涯后期，贝雷辛成为创业投资者。2006年，她入选长岛科技名人堂。2011年，她入选洛杉矶科技女性名人堂。<br/><div class="contheight"></div>（原题为《计算机先驱贝雷辛逝世：50年前发明复制粘贴功能》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 逝世,复制粘贴</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2749304">
+<div class="nbgbox">
+<a class="zan" contid="2749304" href="javascript:;" onclick="voteCont(this)" praisetimes="263">
+                           262</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 逝世</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2749304&caid=25482",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2749304&amp;caid=25482" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

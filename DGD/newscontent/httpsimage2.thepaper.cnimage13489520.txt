@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">公安部B级通缉犯王军良被河南警方抓获，曾悬赏10万缉拿</h1>
+<div class="news_about">
+<p>李涛、张夕/北京青年报</p>
+<p>
+							2018-12-25 16:46<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="414" src="http://image.thepaper.cn/www/image/13/489/542.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">命案逃犯王军良<br/><div class="contheight"></div></span>北京青年报微博12月25日消息，河南平顶山市“2018.12.1”命案逃犯王军良12月25日，被平顶山舞钢警方抓获。<br/><div class="contheight"></div>12月21日，河南平顶山市公安局官微发布悬赏通报称，12月1日，平顶山市湛河区惠泽园小区发生一起重大刑事案件，经查王军良有重大作案嫌疑，现在逃，警方悬赏10万缉拿。通报中，警方还提供了王军良的身份信息及外貌特征。<br/><div class="contheight"></div>12月25日，北青报记者从平顶山市公安局姚孟分局获悉，经群众举报，王军良已于25日中午被舞钢警方抓获。另据平顶山市舞钢公安局通报，“天网恢恢疏而不漏，平顶山命案逃犯王军良被我舞钢市公安局枣林派出所抓获。”<br/><div class="contheight"></div>（原标题《大快人心！公安部B级通缉犯王军良被平顶山舞钢警方抓获》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; B级通缉犯落网</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772913">
+<div class="nbgbox">
+<a class="zan" contid="2772913" href="javascript:;" onclick="voteCont(this)" praisetimes="45">
+                           44</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: B级通缉犯落网</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772913&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772913&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

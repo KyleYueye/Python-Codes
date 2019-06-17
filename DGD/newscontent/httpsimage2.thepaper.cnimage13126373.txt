@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">特朗普政府将公布非洲战略，新战略重点将从反恐转为区域竞争</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-12 22:14<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">本周四，美国总统国家安全事务助理博尔顿将在传统基金会发表讲话，届时，他将公布特朗普政府的非洲战略。美媒透露称，特朗普的非洲战略将由强调反恐，转变为强调在该地区与他国展开竞争。<br/><div class="contheight"></div>美国全国广播公司(NBC)10日援引两名匿名美国高官的话说，特朗普的非洲战略的重点是制衡包括中国和俄罗斯等国家在非洲日益增加的影响力。报道称，该战略主张美国与那些被认为容易受到中俄影响的非洲国家加强关系，并试图阻挡朝鲜和伊朗通过经济投资或军售来在该地区施加影响等努力。在美国国务院负责非洲事务的助理国务卿蒂伯·纳吉此前透露，特朗普政府的新非洲战略将侧重在非洲创造一个良好的投资环境，吸引外资进入非洲。另一美媒则称，与此同时，在反恐方面，美国还将继续与索马里、利比亚和马里合作。<br/><div class="contheight"></div>早些时候， 美国总统特朗普签署了《国际发展投资法案》，组建新的海外投资机构，初期拨款600亿美元， 帮助非洲和全球其他贫困地区兴建基础设施和发展经济 。在这之前，与美国前两任总统不同，特朗普政府此前几乎没有就非洲发表公开声明，也未宣布任何针对非洲的标志性措施。相反，特朗普对非洲的失礼举动、旅行禁令以及贬损言论，反而使得美国与非洲国家产生了不少摩擦。NBC也称，新战略没有要求美国投入更多资金，而是主张有效利用现有资源，因而美政府计划如何在该地区与他国展开竞争尚不清晰。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国非洲非洲战略</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2731992">
+<div class="nbgbox">
+<a class="zan" contid="2731992" href="javascript:;" onclick="voteCont(this)" praisetimes="130">
+                           129</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美非关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2731992&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2731992&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

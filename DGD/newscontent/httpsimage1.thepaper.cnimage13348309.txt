@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">普京年度记者会丨暂未看到美国撤军征兆，但不排除这一可能性</h1>
+<div class="news_about">
+<p>澎湃新闻记者 刘惠 朱郑勇</p>
+<p>
+							2018-12-20 19:48<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">莫斯科当地时间12月20日12时，俄总统普京举行年度记者会。<br/><div class="contheight"></div>来自美国《芝加哥论坛报》的记者向普京提问称，昨天（12月19日）美国总统特朗普宣布从叙利亚撤军，并表示已战胜了极端组织“伊斯兰国”（IS），“您如何看待这一表态？是否会担心美国以某种形式继续在叙利亚存在？”<br/><div class="contheight"></div>对此，普京表示，总体上同意特朗普有关已在叙利亚战胜IS的说法，但恐怖分子还有流向邻近地区的风险。至于美国撤军，普京指出，美国在阿富汗已经存在17年了，也周期性地表示美国要从那里撤军。“我们目前暂时看不到美国从叙利亚撤军的任何征兆，但并不排除这样的可能性。”<br/><div class="contheight"></div>普京称，叙利亚问题需要政治解决，目前正在讨论围绕叙利亚成立宪法委员会的问题。俄罗斯和土耳其、法国、德国等国已达成共识，四国形成了一个50人名单，和叙利亚总统巴沙尔·阿萨德提出的50人名单进行了对比，并将四国名单提交了联合国。据普京透露，昨天的联合国会议后，美国、法国、德国的立场有所改变，但尚不清楚改变背后的原因。普京表示，愿意相信叙利亚问题的解决已经进入尾声，即将进入下一个政治协商的阶段。<br/><div class="contheight"></div>当记者问及美国在叙利亚的驻军是否有必要时，普京坚定回答称“不，没有必要，美军在那不合法”。普京称，叙利亚不需要美国军队，美国的军事行动并不合法，没有取得联合国授权。俄罗斯方面则是受叙利亚政府的邀请才派军的。当然，俄罗斯方面的专家、国防部官员之间也有不同意见，但双方在积极进行对话，大家对打击叙利亚的恐怖分子是有共识的。<br/><div class="contheight"></div>12月19日，美国媒体援引美国国防部官员的话报道称，美国正在计划“全面”并且“迅速”地从叙利亚撤军。随后，白宫发言人桑德斯发表声明称，随着在叙利亚打击极端组织的战事取得成果，美国已开始撤回驻叙利亚美军。当天，美国总统特朗普在推特上发文称，“我们战胜了IS。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李怡清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 普京年度记者会,叙利亚,美国</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2757180">
+<div class="nbgbox">
+<a class="zan" contid="2757180" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 普京年度记者会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2757180&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2757180&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

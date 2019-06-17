@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评丨毛俊杰“维权”失灵：网络舆论也是讲道理的</h1>
+<div class="news_about">
+<p>栗仲溪</p>
+<p>
+							2018-12-01 17:17<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="381" src="http://image.thepaper.cn/www/image/12/792/867.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">演员毛俊杰  视觉中国 资料图</span><br/><div class="contheight"></div>11月30日，演员毛俊杰在微博上控诉在深圳口岸过关时，遭遇了海关工作人员的蛮横态度。她自诉，作为一个宝妈，不忍孩子和老人在广场上被晒着，自己只是想“请快点检查“，海关工作人员反而“故意“拖延时间，连用过的”旧包包和鞋子“都要仔细检查。并且在文末配上两张工作人员手指镜头和横眉怒目的照片。<br/><div class="contheight"></div>不曾想，这种曝光不仅没有引来声援和同情，反而招致网友大面积的指责。<br/><div class="contheight"></div>乍看毛俊杰单方面的控诉，的确令人对人民公仆的“服务态度“心生不满，配图更是具有穿透画面的视觉冲击力，仿佛穿制服的工作人员指着的，正是屏幕前你我的鼻子，一下能激起普通人在公权力面前感受到弱势和不被尊重的某些回忆。加上她100多万微博粉丝的明星身份，以及她自述的“宝妈”“老人”“大太阳”“故意拖延”等关键词，一个极具燃点、符合微博传播环境的曝光帖本来就这样诞生了。<br/><div class="contheight"></div>奇怪的是，这种明星亲自下场“撕”的曝光帖，引来的是几乎一边倒的反批评：“口岸不是专为你家开的，海关检查要排队”“该范围应该严禁拍照，你居然拍了放出来”“一丝不苟地检查恰恰反映出海关恪尽职守”“走私物品很多都是藏在这种旧物里的”……<br/><div class="contheight"></div>海关检查是一项国家行政管理活动, 是为了维护国家主权和利益，保护本国经济发展查禁走私、违规入禁案件。公民有配合海关工作人员进行检查的义务，小孩、老人等待都不是抗拒的理由，还是应该将心比心，换位思考。且在禁止拍照的区域就是不能拍照，公开海关工作人员照片的行径是否合理合法？<br/><div class="contheight"></div>并且，公民的配合程度确实是影响检查速度的一大要素。公开报道的案例中，有不少走私人员故意大闹，不配合检查，最后被搜检出违禁物品。所以，很难从“故意拖延”检查时间认定工作人员行为属于挟私报复。<br/><div class="contheight"></div>事发之后，微博上有疑似海关人士的网友表示：调取监控后发现，对毛俊杰的实际检查时间只有9分钟，包括排队全部时间不超过40分钟，期间海关人员没有与她发生争执。这样的说法无疑为海关方面站了阵脚，但是还是希望深圳海关能够作出正式的回应，堂堂正正的执法，也需要堂堂正正的澄清，不必怕有道理在网上讲不清楚。<br/><div class="contheight"></div>明星手中握有粉丝的喜爱和远远大于常人的影响力。他们有时会仅凭单方面义愤就诉诸网络，公众却不能随风起舞，无原则、无立场、无分辨力，为明星达成不义诉求所利用、所驱使。这样的事情并不少见，比如暴力殴打女友的蒋劲夫，至今享受着一些粉丝的袒护和开脱。有足够的智识和胆识，指出明星的失当之处，使其能接收到正确的价值反馈，从而调整自身行为，才是真正的“养成式”追星。<br/><div class="contheight"></div>毛俊杰作为一个妈妈，带着孩子、带着老人过海关，有可能有自己的难处，9分钟的检查时间，说长不长，说短也不短。还是说明，各方需要换位思考，不要动辄在网上上纲上线，企图挑动舆论审判。<br/><div class="contheight"></div>毛俊杰不合理的网络“维权”失灵，其实是件好事，说明网上也是可以说理的地方。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 网络舆论</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2695216">
+<div class="nbgbox">
+<a class="zan" contid="2695216" href="javascript:;" onclick="voteCont(this)" praisetimes="463">
+                           462</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 网络舆论</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2695216&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2695216&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（191）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

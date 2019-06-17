@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜如何面对监督：既然能移出群，也就能重新请进群</h1>
+<div class="news_about">
+<p>澎湃特约评论员 李勤余</p>
+<p>
+							2018-08-24 16:48<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">8月12日，浙江日报《一线调查》栏目对杭州西湖九溪景区旅游厕所存在“脏乱差”现象做了报道，景区随即开展厕所专项整治。次日浙江日报对整改内容做了跟进报道。<br/><div class="contheight"></div>新闻媒体起到了舆论监督的作用，西湖景区尽到了整改责任。此事自此结束，可谓皆大欢喜。<br/><div class="contheight"></div>但没想到的是，事情有了反转。采写报道的记者近日发现，自己被西湖风景名胜区管委会记者群的管理员移出了微信群，原来的媒体联系人也不再回复记者任何微信。<br/><div class="contheight"></div>西湖对于杭州的意义，实在无需多言。当地媒体敢于对家门口的第一块门面“动刀”，勇气可嘉，更体现了媒体的责任感。拥有如此敢言敢为的媒体，实为杭州及杭州市民之福。另一面，西湖九溪景区在厕所脏乱差被媒体报道后，立即整改，也让人欣慰。<br/><div class="contheight"></div>也正因此，景区管委会事后将记者移出群的行为，就变得格外匪夷所思。若是不接受记者的舆论监督，或者认为记者的报道有失实和错误之处，何不光明正大地指出批评，或向媒体上级主管部门反映？<br/><div class="contheight"></div>默默将记者踢出群，暴露了景区管理方复杂的心态。明知躲不过舆论监督，却又在内心里无比纠结，在不情不愿、半推半就之间，一记昏招就此诞生。<br/><div class="contheight"></div>抱有如此心态的，恐怕不止西湖景区管委会一家。平心而论，面对舆论监督，一些部门有些“不自在”“不愉快”的心理是完全可以理解的。比起批评，甜言蜜语的夸赞自然更受欢迎，这是人之常情。但身为管理部门，就要有足够的勇气和度量，坦荡地应对来自各方的批评和监督。<br/><div class="contheight"></div>这里头也有两种情况。一类是被监督部门对舆论监督持抗拒态度，我行我素。如此一来，两者间的矛盾往往会激化，引发不必要的后果。一类则是不知该如何处理与舆论监督的关系，缺乏危机公关的能力，以致进退失据。显然，西湖景区管委会的情况就属于后者。它本已“有则改之无则加勉”，将整改工作落实到位，临了却又节外生枝。只能证明，在应对舆论监督这件事上，景区管委会缺乏正确的认识，更没有形成共识。<br/><div class="contheight"></div>当下，山东、海南等不少地区都明确要求加强舆论监督。要求虽有不同，但共通点是：只要是建设性的批评意见，政府有关部门就无需畏惧和抗拒，而应将其当作不断进行的动力。其实，从政府部门到各行各业，这一论断都行得通。可说易行难，西湖管委会充满自我矛盾的表现，就是例证。<br/><div class="contheight"></div>舆论空间是开放的，“移出群”的对策，只能是掩耳盗铃。不过，舆论空间也是宽容的，既然能“移出群”，也就能重新“请进群”。据最新消息，管委会方面已于今天前往浙江日报社，“向《浙江日报》道歉了”，并称将虚心接受批评，针对问题做好积极整改。<br/><div class="contheight"></div>这才是接受舆论监督的正确姿势。多年前，西湖景区推倒围墙免费开放，引来国人的无数点赞。如今，面对舆论监督，相关部门也应该尽快推倒心中的那面墙。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 监督报道</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2377260">
+<div class="nbgbox">
+<a class="zan" contid="2377260" href="javascript:;" onclick="voteCont(this)" praisetimes="99">
+                           98</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 监督报道</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2377260&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2377260&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（34）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

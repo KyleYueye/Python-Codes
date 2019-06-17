@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">国庆7天全加班涉违反劳动法：延时工作每月不得超过36小时</h1>
+<div class="news_about">
+<p>解丽/北京青年报</p>
+<p>
+							2018-10-08 09:55<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">今天是节后的第一个工作日，有关加班费依然是热门话题，其中最火的是一项调查是“如果国庆节加班，一天2000元，7天都要加班，你会干吗？”那么，国庆节加班真能有这么多加班费吗？北京青年报记者从北京市人力社保局了解到，国庆节加班不是同一标准给付加班费，加班费能得多少跟工资水平有关。但是如果7天全部加班，则涉嫌违反劳动法。<br/><div class="contheight"></div>今年国庆的放假安排是9月29日至30日上两天班，10月1日至7日连休7天。其中10月1日、10月2日、10月3日为法定节假日。市人力社保局相关负责人指出，按照《北京市工资支付规定》（2003年北京市政府142令）第14条和第44条的有关规定，本市用人单位在10月1日、2日、3日期间安排劳动者加班，就应当按照不低于日或者小时工资基数的300%支付加班工资；10月4日、5日、6日、7日期间安排劳动者加班，应当安排其同等时间的补休，不能安排补休的，按照不低于日或者小时工资基数的200%支付加班工资。<br/><div class="contheight"></div>而对于“日或者小时工资基数”如何确定，市人力社保局强调有三个原则：首先应按照劳动合同约定的劳动者本人工资标准确定；其次是劳动合同没有约定的，按照集体合同约定的加班工资基数以及休假期间工资标准确定；最后是劳动合同、集体合同均未约定的，按照劳动者本人正常劳动应得的工资确定。依照上述原则确定的加班工资基数不得低于本市规定的最低工资标准。<br/><div class="contheight"></div>此外，企业在对劳动者月工资折算为日工资时，应当按照我国《关于职工全年月平均工作时间和工资折算问题的通知》中规定的月计薪天数21.75天进行折算。<br/><div class="contheight"></div>举例来说，职工张某的月工资标准为5000元，如果单位安排该他在10月1日至3日期间加班1天，那他的加班工资就应该为：5000（元）÷21.75（天）×300%×1（天）=690（元），3天如全部加班，加班工资将达到2070元。<br/><div class="contheight"></div>如果单位安排他在10月4日至7日加班1天且不能补休，他的加班工资应为：5000（元）÷21.75（天）×200%×1（天）=460（元），如果这4天全部加班，加班工资将达到1840元。<br/><div class="contheight"></div>这样算来，如果一个职工在国庆这7天一直加班，一天不休的话，可以拿到的加班费相当于17天的工资。<br/><div class="contheight"></div>而如果想达到日2000元的加班工资，如果是在前3天，那员工的月工资标准要达到1.45万元以上；如果是后4天，月工资标准要达到21750元以上才行。<br/><div class="contheight"></div>但是，对于7天全部加班的做法，市人力社保局相关负责人表示，<strong>按照现行劳动法规定，用人单位由于生产经营需要，经与工会和劳动者协商后可以延长工作时间，一般每日不得超过一小时；因特殊原因需要延长工作时间的，在保障劳动者身体健康的条件下延长工作时间每日不得超过三小时，但是每月不得超过三十六小时。7天全部加班，涉嫌违反劳动法。</strong><br/><div class="contheight"></div>（原题为《国庆7天全加班涉嫌违反劳动法 因特殊原因需要延长工作时间的每月不得超过三十六小时》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：顾亚敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 国庆加班</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2506500">
+<div class="nbgbox">
+<a class="zan" contid="2506500" href="javascript:;" onclick="voteCont(this)" praisetimes="71">
+                           70</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国庆加班</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2506500&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2506500&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（87）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

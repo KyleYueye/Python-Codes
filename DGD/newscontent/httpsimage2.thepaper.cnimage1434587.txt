@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">济南章丘警方：罔顾民族感情穿日本军服招摇过市，6人被拘留</h1>
+<div class="news_about">
+<p>@济南章丘分局</p>
+<p>
+							2019-01-08 14:57<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/14/34/591.jpg" width="600"/></div>1月6日上午，城关派出所接辖区群众报警，在绣惠大集上有五六个年轻人穿日本军服招摇过市态度嚣张，引发群众强烈不满！<br/><div class="contheight"></div> 接警后，民警迅速抵达现场，为避免造成群众大量聚集，出警民警将五名着日军军服人员以及其现场指挥带到派出所接受调查。<br/><div class="contheight"></div>经查，毕某辉（20岁，历城孙村人）等六人皆为快手主播，为提升人气，增加点击率，毕某辉网购日军军服，策划由张某（17岁，泰安人）、陶某（18岁，章丘人）、贺某（19岁，贵州人）、刘某（19岁，甘肃人）、潘某（15岁，烟台人）五人穿日军服逛大集，待群众聚集增多后直播跳摇摆舞。<br/><div class="contheight"></div> 毕某辉等人为博人眼球，增加人气，罔顾民族感情，无视公序良俗，在公共场合引发群众强烈不满，极大地伤害了广大人民群众的爱国情怀，违背了中国特色社会主义核心价值观，造成了恶劣的社会影响，其行为已经触犯《中华人民共和国治安管理处罚法》的有关规定，目前，毕某辉等六人涉嫌扰乱社会公共秩序已被治安拘留。<br/><div class="contheight"></div>在此，警方提醒：个人爱好和言行不能法外任性，恣意妄为，网上网下都不是法外之地，公然挑战社会底线，造成严重的社会负面影响，就要接受法律的严惩。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李寿康<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 快讯</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827529">
+<div class="nbgbox">
+<a class="zan" contid="2827529" href="javascript:;" onclick="voteCont(this)" praisetimes="64">
+                           63</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 快讯</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827529&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827529&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（116）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">人民日报刊文：堵住互联网红利的“失信漏勺”，关键在治</h1>
+<div class="news_about">
+<p>王洲/人民日报</p>
+<p>
+							2018-12-27 08:23<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近年来，我国互联网领域发展数据快速刷新：网民规模超8亿，互联网普及率逼近六成……发展速度背后，质量同样令人骄傲：<br/><div class="contheight"></div>日常生活更为便捷，通信交流更畅通，信息获取更方便，在家里指尖轻点，就可远程购物、远程学习、远程就医；社会治理更为高效，“互联网+政务服务”让“网上政府”逐步走向智能化、精准化和科学化；市场创新更为活跃，从迭出爆款的新媒体到热点不断的网络综艺，从如火如荼的电子商务到改变生活的共享经济，互联网土壤正孕育更多的奇思妙想……<br/><div class="contheight"></div>人类发展技术的初衷之一，就是为了让生活更幸福；但中立性从来就是技术的基因，利弊转换之间，关键在人。即便是为社会带来汩汩正能量的互联网技术也面临着缺诚之弊、失信之忧。<br/><div class="contheight"></div>应当看到，在互联网环境中，空间被弱化，虚拟性增强，熟人社会被陌生人社会取代。没有了“望闻问切”，甚至没有了“见字如面”，缺诚失信的问题，成了互联网发展红利的“漏勺”。于是，有的不法分子盗用他人社交账号，利用信任诈骗钱财；有的商家不在商品质量上下功夫，而是通过虚假广告疯狂刷单来伪造好评；有的媒体利字当头，一味求快，未经调查核实发布不实信息，导致新闻时有“反转”等等。<br/><div class="contheight"></div>如何堵住互联网红利的“失信漏勺”？关键在治。<br/><div class="contheight"></div>法者，治之端也。近年来，国家加大立法力度规范网络诚信。《中华人民共和国网络安全法》要求用户在法定情形下提供真实身份信息，让造谣等乱象有迹可查，宣示互联网不是法外之地，不当言行必须承担法律责任。即将施行的电子商务法，也将对不实评价、恶意炒信等行为加强治理，助力建设诚实信用、公平公正的电商市场生态环境。<br/><div class="contheight"></div>今年10月，国家网信办会同有关部门，针对自媒体账号存在的谣言、标题党等乱象，开展集中清理整治，依法依规全网处置自媒体账号近万个。由此，不少互联网平台加强内部管控，更加主动、更加严格查处平台内的不诚信问题。<br/><div class="contheight"></div>多措并举之下，违法成本提高，违法行为锐减，网络环境持续净化，互联网发展红利的有效释放进一步得到保障。<br/><div class="contheight"></div>除了在立法、执法、管理等层面加大力度、补上漏洞，还应当重视网络风气的“德治”。诚信，不但是社会的共同准则，也应当是个人的价值选择。在网络这个虚拟空间中，诚信同样犹如阳光空气般不可或缺，“人无信不立”应当是全体网民的基本共识。而互联网的“德治”，最终将会映射到现实生活中，形成良性循环。<br/><div class="contheight"></div>日前，以“网络诚信 美好生活”为主题的2018中国网络诚信大会在人民日报社举行，旨在加强互联网行业自律，推进网络诚信建设，营造诚实守信的良好氛围。紧紧抓住“网络诚信建设”这一“牛鼻子”，法治与德治并举、线上与线下联动，才能筑牢风清气朗的网络世界，才能让互联网发展拥有更加美好的明天。<br/><div class="contheight"></div>（原题为《堵住互联网红利的“失信漏勺”》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 互联网红利,失信</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2778923">
+<div class="nbgbox">
+<a class="zan" contid="2778923" href="javascript:;" onclick="voteCont(this)" praisetimes="30">
+                           29</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 管理互联网</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2778923&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2778923&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

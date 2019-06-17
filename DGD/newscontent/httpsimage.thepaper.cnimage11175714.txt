@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">云南5年司法网拍成交近77亿元，为当事人节省佣金逾两亿元</h1>
+<div class="news_about">
+<p>法制日报</p>
+<p>
+							2018-10-10 09:27<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">记者今天从云南省高级人民法院网络司法拍卖新闻发布会上获悉，云南法院从2013年启动网络司法拍卖至今，已网拍19037次，其中完成拍、变卖全流程的6255件，全国各地共有36959人次交纳保证金参与云南网络司法拍卖，累计成交金额76.9456亿元，为当事人节省佣金2.72亿元。<br/><div class="contheight"></div>据云南高院执行局局长刘宗根介绍，被执行人难找、财产难查、财产难变现等问题长期困扰法院。法院千方百计地找到被执行人和其财产后，执行工作仍然面临着涉案财产处置难、财产变现率低、变现周期长、变现费用高等一系列问题，这些问题使得即使有财产可供执行的案件，依然要面临财产处置瓶颈，申请执行人的权益无法及时兑现。为了探寻有效的解决方案，法院多年来致力于依托信息技术手段，加大对被执行财产处置力度，推动形成公开、公正、透明、高效的财产变现新模式。<br/><div class="contheight"></div>云南最早进行网络司法拍卖试点工作的是玉溪市中级人民法院。2013年7月31日，玉溪中院正式入驻淘宝网阿里拍卖平台，成为除浙江法院之外，首家入驻阿里拍卖的法院。随后，云南高院、昆明两级法院、昆明铁路中院、临沧两级法院、普洱两级法院、曲靖两级法院纷纷上线网络司法拍卖，2016年全省各级法院全面上线网络司法拍卖。<br/><div class="contheight"></div>刘宗根介绍说，各地试点过程中，网络司法拍卖优势凸显，不仅有效杜绝了暗箱操作和权力寻租，更具有高度公开、透明，不受地域限制，变现率高、溢价率高等独特优势。<br/><div class="contheight"></div>2017年，全省网络司法拍卖4097次，拍卖标的数2824件，成交1386件，成交额17.61亿元，溢价率31.31%，参拍6257人次。2018年1月至9月，全省网络司法拍卖6334次，拍卖标的数4538件，成交1724件，成交额45.98亿元，溢价率30.68%，参拍7578人次，网络拍卖数量、成交量、成交额远超去年全年总量。<br/><div class="contheight"></div>全省法院网络司法拍卖凭借公开透明、便捷高效、成本低廉、广泛参与等优势，解决了传统拍卖模式中存在的不少问题。拍品种类已从试点期间的车辆和商业用房，拓展到住宅、工业用房、国有土地使用权、机器设备、成品零件及原材料等领域。网络拍卖平台具有的公开、透明、开放等特性，堪称天然防腐剂，有效防止了暗箱操作，确保司法廉洁，实现违法违纪零投诉。<br/><div class="contheight"></div>记者注意到，全省网络司法拍卖的几个“最”被不断刷新：<br/><div class="contheight"></div>成交金额最高——昆明铁路中院处置的昆明市五华区红云街道办事处岗头村片区土地使用权，以5.4亿元成交；<br/><div class="contheight"></div>溢价率最高——安宁法院处置的诺基亚130(RM-1122)手机一部，溢价率4900%；<br/><div class="contheight"></div>出价次数最多——昆明中院处置的昆明某水力发电有限公司39%股权，出价次数730次；<br/><div class="contheight"></div>报名人数最多、参拍人数最多——安宁法院处置的Iphone5s手机一部，共有1194人报名交保证金，其中122人出价参拍；<br/><div class="contheight"></div>最贵商铺——昆明中院处置的昆明市呈贡区某商铺，以1442.51万元成交；<br/><div class="contheight"></div>最贵别墅——西山区法院处置的滇池路彩云水榭二期一幢别墅，以1260万元成交。<br/><div class="contheight"></div>“推进网络司法拍卖既是解决执行难的有效手段,也是促进司法民主的重要途径。”刘宗根说，今后，云南法院将进一步把握好司法公开与现代信息技术的关系，顺应互联网技术变革的大趋势，在利用最新科技和信息平台上动脑筋、下功夫，让网络司法拍卖在云岭大地全面落地生根。（原标题为《云南5年司法网拍1.9万次成交近77亿元》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陈雷柱<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 司法拍卖,云南</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2513605">
+<div class="nbgbox">
+<a class="zan" contid="2513605" href="javascript:;" onclick="voteCont(this)" praisetimes="9">
+                           8</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 司法拍卖</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2513605&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2513605&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

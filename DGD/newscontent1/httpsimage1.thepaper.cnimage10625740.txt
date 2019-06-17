@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">最高法等四部门联合发布工作规范，推进道交纠纷在线快速处理</h1>
+<div class="news_about">
+<p>乔文心/中国法院网</p>
+<p>
+							2018-09-20 12:10<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">为进一步规范道路交通事故损害赔偿纠纷“网上数据一体化处理”工作，近日，最高人民法院、公安部、司法部、中国银行保险监督管理委员会联合以四部门办公厅名义下发《道路交通事故损害赔偿纠纷“网上数据一体化处理”工作规范（试行）》（以下简称《规范》）。《规范》共45条，内容主要包括道路交通纠纷网上一体化处理的总体指导原则、工作机制、职责分工、信息共享、业务流程、组织保障等，自2018年10月1日起施行。<br/><div class="contheight"></div><strong>高效便民，道交纠纷在线快速处理</strong><br/><div class="contheight"></div>《规范》要求，开展道交纠纷网上一体化处理工作应当坚持正确政治方向，坚持以人民为中心，坚持共建共治共享，创新多元化纠纷解决机制，运用大数据构建人民法院与公安机关、调解组织、保险机构、鉴定机构相互衔接、协调联动工作格局，实现理赔计算、调解、鉴定、诉讼、理赔等业务的信息共享和在线处理，实现道路交通事故损害赔偿纠纷的全程信息化快速处理与化解。<br/><div class="contheight"></div>根据《规范》，发生纠纷后，当事人可以直接进入道交纠纷网上一体化处理平台使用理赔计算器等，也可以在线直接提起调解申请或者诉讼；调解组织在接到当事人调解申请以及公安机关交通管理部门、人民法院引导当事人发起的调解申请时，进入平台在线调解，以实现平台资源最大化利用，有效化解纠纷。<br/><div class="contheight"></div>《规范》要求，道交纠纷网上一体化处理工作建立鉴定前置机制，实现调解组织在调解阶段依法组织当事人申请在线鉴定。鼓励探索将道交纠纷网上一体化处理平台与移动客户端连接，实现道路交通事故损害赔偿纠纷便捷化处理。<br/><div class="contheight"></div><strong>共享数据，多部门形成联动机制</strong><br/><div class="contheight"></div>《规范》要求，人民法院、公安机关交通管理部门、司法行政机关、保险监管机构、保险行业协会应当根据实际情况，建立道交纠纷网上一体化处理工作沟通协调机制，建立联席会议制度。应当建立信息共享机制，推动信息系统间对接互通，实现多部门多环节信息共享，确保道交纠纷网上一体化处理平台有序运行。<br/><div class="contheight"></div>据了解，人民法院负责道交纠纷网上一体化处理平台的建设维护，公安机关交通管理部门、司法行政机关、保险监管机构、保险行业等协助完成系统对接，共同保障平台良好运行，实现信息共享与处理。<br/><div class="contheight"></div>《规范》详细规定了当事人身份信息、交通事故信息等七类需要人民法院、公安机关交通管理部门、司法行政机关、保险监管机构、调解组织以及保险公司等上传至道交纠纷网上一体化处理平台的信息，实现信息共享。<br/><div class="contheight"></div><strong>调解先行，保险公司“一键理赔”</strong><br/><div class="contheight"></div>《规范》要求，道交纠纷网上一体化处理工作应建立先行调解机制。公安机关交通管理部门处理道路交通事故时，根据事故当事人一致申请，依法对事故损害赔偿纠纷进行调解；当事人未按规定一致申请调解或者调解未达成协议的，可以引导当事人使用道交纠纷网上一体化处理平台发起调解。人民法院受理道路交通事故损害赔偿纠纷，除不适宜调解的外，引导当事人在登记立案前先行调解，将纠纷化解在诉前，降低当事人解决纠纷成本。<br/><div class="contheight"></div>根据《规范》，达成调解协议、司法确认或者在线诉讼完成后，可由当事人或者调解员帮助当事人通过道交纠纷网上一体化处理平台在线申请保险公司一键理赔，保险公司未能在合理期限内及时理赔的，人民法院可以通过道交纠纷网上一体化处理平台向保险监管机构提出司法建议，由保险监管机构依法采取相应的监管措施。<br/><div class="contheight"></div>（<strong>原标题：</strong>共同推进道交事故损害赔偿纠纷网上一体化处理）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：卫佳铭<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 规范,交通事故,处理</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2459150">
+<div class="nbgbox">
+<a class="zan" contid="2459150" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 交通事故理赔</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2459150&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2459150&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

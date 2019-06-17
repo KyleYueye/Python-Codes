@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">江苏设立首个“维权资金”专项账户：化解公益诉讼“鉴定难”</h1>
+<div class="news_about">
+<p>检察日报</p>
+<p>
+							2018-12-02 13:18<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">鉴定费用难以保障，公益诉讼案件遭遇维权难如何破解？近日，随着9.8万元环境损害评估费作为“公益诉讼维权专项资金”（下称“维权资金”）完成审批并投入使用，设立在江苏省昆山市检察院的江苏省首个“维权资金”专项账户正式启动运行。<br/><div class="contheight"></div>据了解，2017年，于某、罗某、江某在没有取得环保资质和营业执照的情况下非法电镀，将未经任何处置的废水通过地面水槽排放到作坊周边的土壤里，造成环境严重污染，被环保部门查获。之后，昆山市检察院依法以涉嫌污染环境罪对于某提起公诉，并针对其污染环境的侵权行为提起刑事附带民事公益诉讼，同时追加罗某、江某为民事公益诉讼共同被告。<br/><div class="contheight"></div>“以往像这类案件产生的前置调查费用，缺乏专项资金保障，常常采取延期支付、第三方或政府先期垫付，一案一协调、一案一申请的传统做法，导致前置调查的资金保障十分不稳定。”昆山市检察院副检察长陈珺介绍。<br/><div class="contheight"></div>据了解，在苏州地区，一起普通的环境污染案件调查、鉴定等费用在10万元左右，大案甚至高达上百万元，非一般办案资金可以保障。实践中，资金缺乏常常导致线索和证据灭失，无法全面反映公共利益受损情况，因而成为开展公益诉讼的一大难题。这不仅影响司法效果，公益维权滞后，最重要的还是损害群众利益。<br/><div class="contheight"></div>为了解决上述问题，在昆山市政府的大力支持下，昆山市检察院日前牵头推动设立了“昆山市公益诉讼维权专项资金”，与此同时，该院与昆山市财政局还联合制定了《公益诉讼专项资金管理办法》，将维权资金单列，专门用于保障公益诉讼案件的及时办理，以及场地调查、检测鉴定、案件受理、公告、诉讼保全、聘请专家或第三方专业机构等前置程序，助推公益诉讼提高维权效益。专门设立公益诉讼维权专项资金，这在江苏省尚属首例。<br/><div class="contheight"></div>目前，维权资金的独立账户设在昆山市检察院，开户500万元。当账户余额少于100万元时，该市财政部门将根据申请补足资金缺口，保障诉讼中实地勘察、鉴定评估等费用支出，满足公益诉讼资金的保障需求。维权资金涵盖生态环境、食药安全、国有土地和资产等领域，申请方对应环保、国土、公安等六部门。<br/><div class="contheight"></div>“维权资金申报采取了‘谁负责谁申请’的原则，比如于某、罗某、江某环境污染案，涉及生态环境领域，所以资金由环保局提出申请。我们检察机关负责对9.8万元环境损害评估费的适用范围进行审核，并跟进款项落实和案件办理。”昆山市检察院公益行政检察部副主任赵庆介绍道。<br/><div class="contheight"></div>据了解，根据申请资金具体用途，申请单位需提供项目报告、合同、发票、招投标文件、缴款通知书、劳务费证明等原始单据。如果涉及第三方专业机构，还需要提供由江苏省高级法院认定的相关机构资质。检察、财政、审计、监察部门对维权资金适用情况进行督查。通过内外双向监管，确保维权资金使用规范、合理、透明。 <br/><div class="contheight"></div>（原标题《不让鉴定费成公益诉讼“拦路虎”！江苏设立首个“维权资金”专项账户》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：谭君<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 公益诉讼 江苏检方 鉴定 维权资金</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2697062">
+<div class="nbgbox">
+<a class="zan" contid="2697062" href="javascript:;" onclick="voteCont(this)" praisetimes="34">
+                           33</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 公益诉讼</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2697062&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2697062&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

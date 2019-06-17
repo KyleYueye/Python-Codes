@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">韩国火车时隔10年后再次抵达板门站，朝鲜火车现场迎接</h1>
+<div class="news_about">
+<p>刘强/海外网</p>
+<p>
+							2018-12-26 12:55<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align: center;"><img alt="" src="http://image.thepaper.cn/www/image/13/516/979.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">韩国火车抵达板门站，朝鲜火车现场迎接。（韩联社）</span><br/><div class="contheight"></div>海外网12月26日消息，今天（26日）上午，朝韩铁路、公路对接及现代化工程开工仪式在朝鲜开城板门站举行。一大早，载有100余名韩方代表的新村号火车从首尔出发，前往板门店。韩联社最新公布的一组照片显示，韩方火车抵达板门站时，朝方火车在现场迎候。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" src="http://image.thepaper.cn/www/image/13/516/980.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">驶向朝鲜板门站的韩方列车（韩联社）</span><br/><div class="contheight"></div>韩联社说，这是朝韩“血脉再次相连”的项目，意义重大。事实上，从2008年11月最后一班韩方货物列车抵达板门店之后，双方铁路中断已有10年之久。<br/><div class="contheight"></div>韩朝推进铁路和公路合作，旨在落实《9月平壤共同宣言》。9月19日，朝鲜最高领导人金正恩与韩国总统文在寅在平壤会晤并签署这一宣言，就推动半岛无核化进程、加强北南交流和合作、把半岛建成永久和平地带等议题达成一致。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" src="http://image.thepaper.cn/www/image/13/516/981.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">驶向朝鲜板门站的韩方列车（韩联社）</span><br/><div class="contheight"></div>韩媒早前称，受涉朝制裁等因素影响，预计这次开工仪式后不会立即动工，将作额外考察或确定项目计划。不过，作为朝韩经济合作项目的第一步，也具有重大意义。<br/><div class="contheight"></div>据悉，开工仪式将按朝韩代表开工致辞、联谊签名、轨道对接、公路揭牌、合影等顺序进行1个小时。<br/><div class="contheight"></div>韩国统一部长赵明均、国土交通部长金贤美和朝鲜祖国和平统一委员长李善权各率100余人出席活动。此外，韩方还邀请了来自中国、俄罗斯、蒙古和联合国的8名官员出席仪式。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" src="http://image.thepaper.cn/www/image/13/516/982.jpg" width="480"/></div><span style="color: rgb(128, 128, 128);">火车票（韩联社）</span><br/><div class="contheight"></div>据报道，这趟特别列车共有9节，上面贴有“共同开启和平繁荣”的标语。其票价为1.4万韩元（约合人民币86元）。车票后附有卡片，上面写着“感谢见证韩朝铁路、公路对接和升级改造项目的历史性瞬间”字样，并贴有朝韩首脑牵手过头顶等多张照片。<br/><div class="contheight"></div>（原题为《时隔10年！韩国火车抵达板门站 朝鲜火车现场迎接》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 韩朝关系,朝鲜,韩国</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776047">
+<div class="nbgbox">
+<a class="zan" contid="2776047" href="javascript:;" onclick="voteCont(this)" praisetimes="329">
+                           328</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 韩朝关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776047&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776047&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（50）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

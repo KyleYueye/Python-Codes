@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">最高检要求加大“终结本次执行”案件监督力度，防止久拖不决</h1>
+<div class="news_about">
+<p>澎湃新闻记者 庄岸</p>
+<p>
+							2018-10-24 22:26<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="422" src="http://image.thepaper.cn/www/image/11/613/230.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">最高人民检察院检察长张军 程丁 摄</span><br/><div class="contheight"></div>10月24日，在十三届全国人大常委会第六次会议上，最高人民检察院检察长张军作了关于检察机关加强民事诉讼和执行活动法律监督工作情况的报告。澎湃新闻（www.thepaper.cn）注意到，针对法院解决执行难问题，张军表示，要坚持不懈强化民事执行监督，推动从根本上解决执行难。<br/><div class="contheight"></div>执行难是我国现阶段带有综合性的司法与社会治理问题。张军认为，检察机关履行监督职责促进解决执行难，不能仅将注意力放在单纯执行阶段的方法和力度上，必须把民事审判和执行作为一个系统工程，支持、促进法院从执行活动违法情形反向审视审判活动中的源头问题，使法官裁判的时候就要适当考虑促进执行、执行的效果等因素，这样才能取得综合的、更好的司法效果。<br/><div class="contheight"></div>报告显示，近年来，检察机关对明显超标的执行、消极执行、选择性执行、违法处置被执行财产等违法情形提出检察建议135145件，法院采纳123914件，采纳率为91.7%。<br/><div class="contheight"></div>2016年4月起，针对一些地方执行案款滞留、执行款物管理混乱等问题，“两高”联合部署集中清理，促进一大批滞留在法院账户上的执行案款发放给申请执行人。2018年3月，最高检又部署开展民事非诉执行监督专项活动，重点监督民事⾮诉法律文书执行中的违法情形，并以此为切入点，从源头上促进仲裁和公证严格依法规范进行。<br/><div class="contheight"></div>张军同时认为，解决执行难也不单纯是法院的责任。各级法院为解决执行难问题做了大量工作，但要从根本上解决这个问题，需要在党中央和地方各级党委统一领导下，相关职能部门共同发力、形成合力。<br/><div class="contheight"></div>张军要求，检察机关要立足职能、积极参与，进一步加大监督、支持法院依法执行的力度。推动建立全国执行与监督信息法检共享平台，加强动态支持与监督。重点监督纠正违法拍卖、超标的查封、错误分配财产、变相变更裁判结果等突出问题，推动执行规范化。加大对“终结本次执行”案件的监督力度，促进依法穷尽执行手段，防止滥用“程序结案”、实体久拖不决。深入推进民事非诉执行监督专项活动。加大对执行工作的支持力度，依法强化办理拒不执行法院判决、裁定犯罪案件，并注意工作方法，促进有效执行。<br/><div class="contheight"></div>报告还指出，对被执行人确无财产可供执行、法院穷尽执行措施仍不能执行到位的，检察机关配合法院做好释法说理工作，并对生活陷入困境、符合救助条件的申请执行人开展司法救助。五年来，对拒不执行判决、裁定构成犯罪的，批准逮捕 6594人，呈逐年上升趋势。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：朱远祥<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 检察监督 最高检 张军 法院执行</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2562249">
+<div class="nbgbox">
+<a class="zan" contid="2562249" href="javascript:;" onclick="voteCont(this)" praisetimes="53">
+                           52</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 终结本次执行</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2562249&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2562249&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

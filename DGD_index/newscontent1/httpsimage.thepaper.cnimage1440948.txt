@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">“酒店卫生门”上海7家涉事酒店被处警告，各被罚款两千元</h1>
+<div class="news_about">
+<p>澎湃新闻记者 陈斯斯</p>
+<p>
+							2019-01-08 18:58<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div>2018年11月14日，微博网友“花总丢了金箍棒”发布视频《杯子的秘密》，聚焦酒店业存在的卫生问题。<br/><div class="contheight"></div>《杯子的秘密》曝光的酒店包括北京康莱德酒店、北京柏悦酒店、福州香格里拉酒店、贵阳贵航喜来登酒店、南昌喜来登酒店、上海宝格丽酒店、上海四季酒店、上海浦东文华东方酒店、上海世茂皇家艾美酒店、上海璞丽酒店、上海浦东丽思卡尔顿酒店、上海外滩华尔道夫酒店、北京颐和安缦酒店、北京王府半岛酒店，涉及上海的共有7家。</div><div>截至目前，上海7家涉事酒店的处罚结果均已出炉，每家酒店均被处以警告，并被罚款2000元。<br/><div class="contheight"></div>黄浦区卫计委监督所方面表示，已分别组织2场针对区域内星级酒店和320家非星级住宿场所的集中培训，主要围绕客房清洁、公共用品（布草、杯具）收发流转、清洗消毒等重点流程环节开展针对性培训，同时下发《住宿场所卫生管理自查表》，内容涉及酒店规模、客房服务外包情况、卫生管理、功能区卫生、公共用品卫生和客房清洁等6大类24项自查项目，明确要求各住宿场所必须严格落实自查，希望能推动住宿业打造过硬的产品质量和服务水准。<br/><div class="contheight"></div>黄浦区卫计委监督所负责人告诉澎湃新闻（www.thepaper.cn）记者，处罚并非最终目的，我们是希望通过这次事件给整个住宿行业一个警示。住宿的品质是根本，为消费者提供干净卫生、整洁舒适的住宿环境是酒店服务的基础工作，消费者网评口碑的好与差也直接决定了酒店持续的经济效益。如果酒店一味将精力投入到营销概念、参加论坛和发展门店数量上，无暇静下心来关心个体酒店的产品质量，减弱了行业的工匠精神，必然导致卫生事件频出。</div><div style="text-align: center;"><img alt="" height="260" src="http://image.thepaper.cn/www/image/14/40/660.png" width="600"/></div><div><span style="color: rgb(128, 128, 128);">上海浦东新区卫计委对上海浦东丽思卡尔顿酒店作出行政处罚。图片来源：信用中国（上海.浦东）官网</span></div><div style="text-align:center;"><img alt="" height="258" src="http://image.thepaper.cn/www/image/14/40/661.png" width="600"/></div><div><span style="color: rgb(128, 128, 128);"><span style="text-align: start;">上海浦东新区卫计委对上海浦东文华东方酒店作出行政处罚。图片来源：</span><span style="text-align: start;">信用中国（上海.浦东）官网<br/><div class="contheight"></div></span><img alt="" src="http://image.thepaper.cn/www/image/14/40/821.jpg" width="100%"><div><span style="color: rgb(128, 128, 128);">静安区卫生计生委行政处罚信息公示（2018年11月30日）。上海静安区官网 截图 （点击可查看大图）</span></div></img></span></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/40/897.png" width="100%"/></div><div><span style="color: rgb(128, 128, 128);">黄浦区</span><span style="color: rgb(128, 128, 128);">区卫生计生委行政处罚信息公示</span><span style="color: rgb(128, 128, 128);">。上海黄浦区官网截图（点击可查看大图）</span></div></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2637802" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">五星酒店“卫生门”24小时：10家道歉，最贵4家仍未回应</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王维佳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 五星级酒店,卫生乱象,处罚结果</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828116">
+<div class="nbgbox">
+<a class="zan" contid="2828116" href="javascript:;" onclick="voteCont(this)" praisetimes="108">
+                           107</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 五星酒店卫生乱象</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828116&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828116&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（963）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

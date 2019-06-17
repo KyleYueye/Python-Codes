@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25437">牛市点线面</a>
+</div>
+<h1 class="news_title">上交所：力争在科创板实现投融资平衡，引境内外长线资金入市</h1>
+<div class="news_about">
+<p>孙翔峰/中国证券报·中证网</p>
+<p>
+							2018-12-26 20:02<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">上交所12月26日表示，在下一步设立科创板并试点注册制的重大改革中，必须深入思考如何破解共性难题，坚持问题意识和问题导向。希望通过科创板及注册制试点，能够提高资本市场对科创企业的包容度和服务水平；令投融资双方形成比较明确的上市标准和时间预期；强化市场机制从发行到退市环节的约束力，落实中介机构责任；加大基于信息披露的执法和监管力度，显著提高违法成本，健全投资者保护救济机制；引导境内外长线资金入市，使资本市场真实反映国民经济的正向发展；为全面推进注册制改革积累经验、创造条件。<br/><div class="contheight"></div>上交所表示，为保障改革稳妥落实，上交所考虑在制度设计过程中，通过发行、交易、退市、投资者适当性、证券公司资本约束及引入中长期资金等配套措施，增量试点、循序渐进，新增资金与试点进展同步匹配，力争在科创板实现投融资平衡、一二级市场平衡、公司的新老股东利益平衡，并促进现有市场形成良好预期。<br/><div class="contheight"></div>上交所表示，下一步将紧密围绕中央关于资本市场改革发展的要求，在确保市场安全运行，进一步加强监管的基础上，稳步推进衍生品市场创新发展。积极推动新增沪深300和中证500等宽基指数ETF期权，继续推动新增行业ETF、跨境ETF期权合约标的；进一步加强期权投资者教育工作，推动期权学院2.0版正式上线。<br/><div class="contheight"></div>（原标题《上交所：力争在科创板实现投融资平衡 引导境内外长线资金入市》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：葛佳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 快讯</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2778028">
+<div class="nbgbox">
+<a class="zan" contid="2778028" href="javascript:;" onclick="voteCont(this)" praisetimes="32">
+                           31</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 科创板</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2778028&caid=25437",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2778028&amp;caid=25437" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

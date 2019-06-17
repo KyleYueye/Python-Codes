@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">西藏将缩短境外游客进藏函审批时间促旅游发展</h1>
+<div class="news_about">
+<p>赵朗/中新社</p>
+<p>
+							2019-01-10 16:59<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新社拉萨1月10日电 西藏官方10日披露，2019年西藏将完善境外游客进藏旅游服务管理办法，力争进藏函审批时间缩短50%，境外香客人数增长50%。<br/><div class="contheight"></div>当日，西藏自治区第十一届人民代表大会第二次会议在拉萨召开，西藏自治区主席齐扎拉作政府工作报告。<br/><div class="contheight"></div>据悉，2018年，西藏有序推进“请进来、走出去”的对外交流活动，相继举办了首届环喜马拉雅“一带一路”合作论坛和南亚标准化论坛、第十六届中尼经贸洽谈会等对外交流性的活动。2019年西藏将继续提升境外游客进藏旅游服务质量，继续加强对外开放力度。<br/><div class="contheight"></div>齐扎拉指出，2018年“冬游西藏”成效显著，全年接待游客3300余万人次，增长31.5%；实现旅游收入490亿元(人民币，下同)，增长29.2%。全年进出口贸易额实现48亿元，边民互市贸易额增长1.8倍。<br/><div class="contheight"></div>齐扎拉表示，2019年，西藏将启动青藏铁路格拉段电气化改造，开工建设阿里和藏中电网联网工程，全面实施深度贫困地区农网改造升级；确保15万贫困人口全部脱贫、19个脱贫县全部摘帽，全区基本消除绝对贫困；提高对外开放水平，科学恢复樟木口岸货物通道，推动日屋、里孜口岸对外开放，提升普兰口岸开放水平。<br/><div class="contheight"></div>（原题为《西藏将缩短境外游客进藏函审批时间促旅游发展》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：崔烜<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 西藏旅游 进藏函</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837068">
+<div class="nbgbox">
+<a class="zan" contid="2837068" href="javascript:;" onclick="voteCont(this)" praisetimes="11">
+                           10</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 西藏旅游</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837068&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837068&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

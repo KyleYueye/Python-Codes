@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">寒潮来袭桂北多路段结冰禁止通行，柳州交警破冰为学生开路</h1>
+<div class="news_about">
+<p>中国新闻网</p>
+<p>
+							2018-12-31 15:28<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="360" src="http://image.thepaper.cn/www/image/13/755/814.jpg" width="540"/></div><span style="color: rgb(128, 128, 128);">交警保障交通安全。  本文图片均来自中新网<br/><div class="contheight"></div></span>受持续低温天气影响，广西柳州市北部高寒地区出现道路结冰现象，禁止车辆通行。因道路结冰一辆载26名学生大巴被困三江，交警破冰开路。<br/><div class="contheight"></div>31日，柳州市公安局交警支队透露，受冰雪天气影响，柳州市部分路段道路能见度低，北部三县等高寒地区出现结冰现象，民众出行受到影响。该市融安县国道357(原省道306线)浮石镇往桂林方向在马田村路段结冰，公路部门已进行处理，车辆可以缓慢通行。三柳高速融安往三江方向受结冰影响道路实行临时交通管制。<div style="text-align:center;"><img alt="" height="303" src="http://image.thepaper.cn/www/image/13/755/813.jpg" width="540"/></div><span style="color: rgb(128, 128, 128);">交警保障交通安全。<br/><div class="contheight"></div></span>此外，受持续低温冰雪恶劣天气影响，桂三高速、三柳高速三江段积雪已达5厘米。目前已全部实行临时交通管制，禁止车辆由三江北往贵州方向及三江南往桂林方向行驶。209国道青龙界路段往湖南受路面结冰影响禁止车辆通行。融水苗族自治县县道640线34km－49km+200、县道产英县13km－15km、县道田洞线32km－35km、省道303线杨梅坳路段因路面结冰，车辆无法通行。<br/><div class="contheight"></div>柳州交警驾驶警车穿行在易结冰的路段，逐一排查隐患路段，确保通行安全。巡查发现部分路段出现道路结冰的情况，当即设立警示标识，提醒民众行车上路注意安全。对结冰严重的路段，交警部门采取临时交通管制，禁止车辆通行结冰路段。<br/><div class="contheight"></div>因高速结冰，一辆载着26名学生的旅游大巴从30日凌晨时分，滞留桂三高速独峒收费站6个小时。收费站远离城区，26名学生及司机、导游的基本生活无法保障。三江交管大队接到警情后，立即启动应急预案，利用指挥车压道破冰，为大巴车开辟安全路线，护送学生安全抵达三江县城。<br/><div class="contheight"></div>灾情发生后，柳州交警立即启动恶劣天气道路交通管理应急预案，全员上路加强路面管控、隐患排查工作、指挥疏导交通，做好灾情防治以及抢险救援工作。同时主动与媒体联系，发布最新路况信息，引导驾驶人出行时绕开结冰路段，谨慎行车。<br/><div class="contheight"></div>（原题为《寒潮来袭桂北多路段结冰禁止通行 交警破冰为学生开路》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：卫佳铭<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 广西 交警为学生破冰开路</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2799788">
+<div class="nbgbox">
+<a class="zan" contid="2799788" href="javascript:;" onclick="voteCont(this)" praisetimes="21">
+                           20</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 交警为学生破冰开路</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2799788&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2799788&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

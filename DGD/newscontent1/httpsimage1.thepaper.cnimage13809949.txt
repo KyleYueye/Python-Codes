@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜立案侦查权健，就是不能“高举轻放”</h1>
+<div class="news_about">
+<p>澎湃特约评论员 杨晨</p>
+<p>
+							2019-01-02 17:35<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2804062" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜立案侦查权健，就是不能“高举轻放”" src="//image1.thepaper.cn/image/13/806/223.jpg"/>
+</a>
+<div class="atlas_360_txt">公安机关对权健涉嫌传销犯罪和涉嫌虚假广告犯罪立案侦查<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">2019年第一个上班日，公众瞩目的“权健事件”有了新突破。公安机关对权健公司涉嫌传销犯罪和涉嫌虚假广告犯罪立案侦查。<br/><div class="contheight"></div>这个消息的传出，的确打消了很多人对于处理“高举轻放”的疑虑。之前，调查组仅谈权健部分产品有虚假宣传行为，并留出了“整改”的口子。随着调查的深入，更多事实证据的浮现，处理措施作出相应的调整，也是应有之义。<br/><div class="contheight"></div>从联合调查组的结论看，部分产品虚假宣传和涉嫌虚假广告犯罪，是两个截然不同概念。前者，主要违反的是《反不正当竞争法》，即"经营者不得利用广告或其他方法，对商品的质量、制作成分、性能、用途、生产者、有效期限、产地等作引人误解的虚假宣传"，这是一种应受行政处罚的违法行为。涉嫌虚假广告罪，则是“广告主、广告经营者、广告发布者违反国家规定，利用广告对商品或服务作虚假宣传，情节严重的行为”，这是一种应受刑罚制裁的犯罪行为。<br/><div class="contheight"></div>从性质的严重性、社会的危害性、惩罚的严厉性看，涉嫌虚假广告罪所产生的不利后果，都要远超一般的虚假宣传，追究法律责任由“行”入“刑”，更显现国家层面对权健行为的否定态度“升级”。 <br/><div class="contheight"></div>另一个值得关注的迹象，就是权健公司被定性涉嫌传销犯罪，而这也是公众质疑的焦点所在。到底是直销还是传销，关系到合法与非法的界定。<br/><div class="contheight"></div>审视权健发展成员、缴纳会费等经销模式，与《禁止传销条例》对“传销”的官方定义，并没有什么不同。<br/><div class="contheight"></div>在具体运营中，权健公司遭到众多投诉，原因主要就是非法传销。吉林省蛟河市人民法院2012年的一份刑事判决书显示，该公司销售团队“人人系统”，就有四人参与传销活动，犯组织、领导传销活动罪。<br/><div class="contheight"></div>权健公司曾在声明中明确表示，他们是“国家政府机构颁发直销牌照的合法企业”。如果是依法直销，固然没有必要担心违法追究，问题是，权健获准销售的3类40种直销产品中，保健用品只占到了极少数，且不包括保健鞋垫、负离子卫生巾、本草清液等产品。对这些不在直销范围的产品，如果采用与直销同样的手段，难免会有违法之嫌。相关部门的立案侦查，虽然目前还不是一槌定音，却也证实了公众对权健传销的质疑，绝非毫无依据。 <br/><div class="contheight"></div>当然，权健公司涉嫌犯罪，回应了公众质疑，仅是事件处理的重要一步。人民生命重于天，对于后续处理，乃至整个保健品行业乱象的治理，还应马不停蹄地展开。相关部门依法查处取缔不符合消防安全规定的火疗养生场所、开展集中打击专项行动等，与依法追究权健刑事责任一样，都是对人民的健康高度负责。<br/><div class="contheight"></div>相反，对违法者姑息迁就，就是对受害者的再次伤害，更是对公众安危的不负责任。“权健事件”仍在依法处理，“严厉打击、严厉查处、绝不手软”，调查回应掷地有声，我们有理由期待公正的结果。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 权健集团</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2804572">
+<div class="nbgbox">
+<a class="zan" contid="2804572" href="javascript:;" onclick="voteCont(this)" praisetimes="507">
+                           506</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 权健集团</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2804572&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2804572&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（116）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

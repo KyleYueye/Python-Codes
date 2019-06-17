@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">湖南高院：企业家创新行为只要不违反刑事法律，不以犯罪论处</h1>
+<div class="news_about">
+<p>澎湃新闻记者 谭君</p>
+<p>
+							2018-12-12 19:32<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">对企业家在生产、经营、融资活动中的创新创业行为，只要不违反刑事法律的规定，不得以犯罪论处；善于运用非羁押措施，尽量减少对企业正常生产经营活动的影响……12月12日，湖南高院举行新闻发布会，该院研究室主任陈坚介绍，为让民营企业家专心创业、放心投资、安心经营，湖南高院近日出台为民营经济发展提供有力司法服务和保障的意见。<br/><div class="contheight"></div>11月1日，习近平总书记主持召开民营企业座谈会，强调毫不动摇鼓励支持引导非公有制经济发展，支持民营企业发展，引起强烈反响。全国各地司法机关陆续发声，表示为民营企业和企业家提供司法保障。<br/><div class="contheight"></div>湖南高院近日制定出台的《关于为民营经济发展提供有力司法服务和保障的意见》要求，全省法院落实平等保护、罪刑法定、诚实守信等原则，依法平等全面保护民营企业合法权益。严格执行刑事法律和司法解释，准确把握罪与非罪的法律界限，对企业家在生产、经营、融资活动中的创新创业行为，只要不违反刑事法律的规定，不得以犯罪论处。坚决防止将经济纠纷当作犯罪处理，坚决防止将民事责任变为刑事责任。坚持宽严相济的刑事政策，审慎使用刑事强制措施，善于运用非羁押措施，尽量减少对企业正常生产经营活动的影响。<br/><div class="contheight"></div>该意见强调，依法开展涉产权错案冤案甄别、纠正活动，对确属事实不清、证据不足、适用法律错误等问题的案件，坚决依法纠正。同时，大力推进“切实解决执行难”工作，依法保障民营企业债权及时实现。依法规范涉民营企业案件执行，依法审慎适用强制措施，禁止超标的、超范围查封、扣押、冻结涉案财物，最大限度减少司法活动对涉案民营企业正常生产经营活动的不利影响。对资金暂时周转困难、尚有经营发展前景的负债企业，慎用冻结、划拨流动资金等手段。对已经履行生效裁判文书义务等依法应从失信被执行人名单中删除的，及时恢复企业家信用。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：宋蒋萱<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 湖南 企业家 刑法</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2731459">
+<div class="nbgbox">
+<a class="zan" contid="2731459" href="javascript:;" onclick="voteCont(this)" praisetimes="60">
+                           59</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 企业家</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2731459&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2731459&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（47）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

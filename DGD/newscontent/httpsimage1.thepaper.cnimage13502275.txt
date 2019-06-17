@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">挪用公款80余万元潜逃7年，长沙一名职务犯罪嫌疑人被抓获</h1>
+<div class="news_about">
+<p>长沙市纪委市监委官微“廉洁长沙”</p>
+<p>
+							2018-12-25 21:06<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">日前，在长沙市反腐败协调小组国际追逃追赃和防逃工作办公室的统一指挥协调下，芙蓉区将潜逃7年之久的职务犯罪嫌疑人陈霖追捕归案。<br/><div class="contheight"></div>陈霖，男，案发前系长沙市交通行政执法监督局办公室安全专干。2011年，陈霖涉嫌挪用公款80余万元后不知所踪，芙蓉区检察院对其以涉嫌挪用公款罪立案，芙蓉区公安局将其列入网上追逃。<br/><div class="contheight"></div>陈霖出逃后，原立案单位一直没有放松追逃工作。2018年1月，芙蓉区监察委员会成立，同步成立追逃办，负责追逃追赃工作。9月，湖南省开展外逃人员大起底工作，芙蓉区追逃办将陈霖列入追逃追赃在办案件外逃人员名单并上报。在全市统一部署下，充分发挥区反腐败协调小组职能作用，与区检察院、区公安局对接，运用多种手段开展全方位调查。12月，最终通过数据技术锁定陈霖藏匿地点，在深圳警方配合下，成功将陈霖追捕归案。<br/><div class="contheight"></div>“法网恢恢，疏而不漏。”芙蓉区纪委书记、监委副主任(代理主任)王长陵表示：“陈霖被追捕归案，彰显了我们有逃必追、一追到底的反腐决心，也再次证明了世上没有‘避罪天堂’。我们正告那些正在逃亡路上和准备潜逃的人打消幻想，及早投案自首，才是唯一出路。”<br/><div class="contheight"></div>（原标题：《潜逃7年难逃法网！芙蓉区成功追捕1名外逃职务犯罪嫌疑人》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周琦<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 挪用公款 潜逃 职务犯罪</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2774276">
+<div class="nbgbox">
+<a class="zan" contid="2774276" href="javascript:;" onclick="voteCont(this)" praisetimes="26">
+                           25</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 挪用公款</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2774276&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2774276&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

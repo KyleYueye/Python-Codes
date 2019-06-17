@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">“维基解密”曝美使馆曾购间谍设备，外交部：美方应有个交代</h1>
+<div class="news_about">
+<p>“外交部发言人办公室”公众号</p>
+<p>
+							2018-12-24 18:41<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“外交部发言人办公室”公众号消息，在12月24日外交部例行记者会上，有记者问：“维基解密”网站21号公布的一批文件显示，美国驻多国大使馆都曾购买间谍设备。今年8月，美国驻萨尔瓦多使馆发布一份采购需求，其中包含94件间谍设备，包括能安装在汽车里的夜视摄像头，伪装在钢笔、打火机、衬衫纽扣、眼镜等日常用品中的摄像头。美国驻乌克兰使馆则采购了录音机和隐蔽无线电设备等。美国驻法兰克福总领馆可能是美国在欧洲进行黑客行动的秘密中心。你对此有何评论？<br/><div class="contheight"></div>华春莹：相信许多看到这条消息的人都和我有着同样的疑问：<strong>美国驻外使馆为什么要购买这么多间谍设备？准备拿它们来做什么？针对的都是些什么人？用于什么目的？</strong><br/><div class="contheight"></div>就在几天前，美国还纠集了几个盟友指责中国长期破坏美国网络安全。你刚刚提到的“<strong>维基解密”公布的这批文件恰恰证明，美方可能又自编自导自演了一出贼喊捉贼的好戏。</strong><br/><div class="contheight"></div><strong>相信大家对五年前的“棱镜门”事件还记忆犹新。</strong>根据披露的消息，美方在全球范围内进行大范围监听监控活动，包括美国的盟友。<strong>五年过去了，美方还欠世界人民一个交代。这次“维基解密”又曝出新情况，美方也应向国际社会作出清楚的解释。</strong>我也想提醒一下美国的那几个盟友，在网络安全问题上，不要好了伤疤忘了疼。<br/><div class="contheight"></div>（原题为《“维基解密”曝美国驻多国使馆购买间谍设备　华春莹：美方应向国际社会交待清楚》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 维基解密,美国,大使馆,间谍设备</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2769690">
+<div class="nbgbox">
+<a class="zan" contid="2769690" href="javascript:;" onclick="voteCont(this)" praisetimes="308">
+                           307</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 外交部例行记者会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2769690&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2769690&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（47）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

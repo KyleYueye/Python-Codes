@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">德国右翼政党屡遭攻击：民粹主义选项党议员当街被打成脑震荡</h1>
+<div class="news_about">
+<p>刁世峰/海外网</p>
+<p>
+							2019-01-09 13:40<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网1月9日报道，德国联邦议员、德国选项党(AfD)不来梅地方党部主席弗兰克马格尼茨(Frank Magnitz)本周一(1月7日)傍晚遭到多人暴力攻击。警方认为，袭击者的行为带有政治目的，不来梅执法部门正在就事件进行调查。德国政界和民众对事件反应强烈，包括德国联邦总统施泰因迈尔在内的多名政界人士对该暴力事件及施暴者表示强烈谴责。<br/><div class="contheight"></div>据德国《南德意志报》等多家媒体报道，1月7日晚些时候，德国不来梅歌德广场剧院附近发生一起暴力袭击事件，三名蒙面施暴者使用长棍殴打一名66岁的男子。该男子被证实系德国右翼民粹主义政党选项党(AfD)不来梅党部主席马格尼茨。8日，选项党不来梅地方党部发布声明称，袭击者用木棍狠击马格尼茨，直至其失去知觉，并继续对已经倒地的马格尼茨进行踩踏踢打。附近一名建筑工人发现后上前制止，伤势严重的马格尼茨随后被送往医院救治。选项党在社交平台公布的照片显示，马格尼茨头部伤情严重，医生称暴行造成马格尼茨严重脑震荡和多处组织受损。<br/><div class="contheight"></div>事件发生后，当地警方迅速展开调查。《世界周刊》援引当地警方表态称，袭击者的行为带有政治目的。8日，德国政界人士纷纷谴责暴力行为。德国联邦总统施泰因迈尔要求尽快查明案件并追究责任，同时盼望马格尼茨尽快康复。德国各主要政党人士纷纷发声，选项党在社交平台直言，“这对德国民主而言是黑暗的一天”;绿党领袖认为“暴力永远是反民主的错误工具”，而与选择党政见相左的社会民主党(SPD)党魁安德里亚纳勒斯也认为，针对政党和政治家的暴力行为实质上也是针对整个社会的。德国外交部长海科马斯等多名政要也表达了谴责。<br/><div class="contheight"></div>但也有声音认为，针对右翼政治家的暴力行为，或许与选项党自身民粹主义立场有关。德国选项党(Alternative fr Deutschland，又称“另类选择党”、“选择党”)成立于2013年，是德国政坛近年来非常抢眼的新秀政党。其反移民立场在2015年德国难民危机后获得不少民众支持。在2017年的联邦选举中，该党赢得了12.6%的选票，首次进入联邦议会，获得94个席位。但该党在性少数平权、民族主义和环境保护等诸多问题上的立场相对偏激，也遭到不少批评与敌视。据德国《明镜周刊》早前报道，去年12月以来，德国已经发生12起针对选项党的袭击行为。最近一起发生于1月3日，该党位于博尔恩市的一处办公地点附近发生爆炸，目前事件仍在调查中。<br/><div class="contheight"></div>（原题为《德国右翼政党屡遭攻击 一议员被当街殴打至脑震荡》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 德国,右翼,左翼</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831506">
+<div class="nbgbox">
+<a class="zan" contid="2831506" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 德国政治</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831506&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831506&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

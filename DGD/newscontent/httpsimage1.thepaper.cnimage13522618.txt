@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">济青高铁、青盐铁路、怀衡铁路三条新线同一天开通运营</h1>
+<div class="news_about">
+<p>澎湃新闻记者 王俊</p>
+<p>
+							2018-12-26 17:31<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">随着2018年渐进尾声，中国铁路总公司不久前“剧透”的10条新线密集开通运营。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="337" src="http://image.thepaper.cn/www/image/13/522/629.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">12月26日，济青首趟高铁列车快速驶过中铁十四局承建的跨胶州湾特大桥。 视觉中国 图</span><br/><div class="contheight"></div>其中，12月26日一天内，就有济南至青岛高速铁路（以下简称“济青高铁”）、青岛至盐城铁路（以下简称“青盐铁路”）、怀化至衡阳铁路（以下简称“怀衡铁路”）开通运营。<br/><div class="contheight"></div>济青高铁西起济南东站，东至青岛市红岛站，线路全长307.9公里，设济南东、章丘北、邹平、淄博北、临淄北、青州市北、潍坊北、高密北、胶州北、青岛机场、红岛11座车站。其中济南东至胶州北段初期运营时速300公里，胶州北至红岛段运营时速250公里。<br/><div class="contheight"></div>随着济青高铁12月26日开通运营，济南至青岛最快列车运行时间压缩至1小时40分。<br/><div class="contheight"></div>青盐铁路自青岛北站引出，经日照、 连云港至盐城北站，线路全长428公里，全线设青岛北、红岛、洋河口、青岛西、董家口、两城、日照西、岚山西、赣榆北、赣榆、连云港、响水县、滨海港、阜宁东、射阳、盐城北16座办理客运业务的车站，运营时速200公里。<br/><div class="contheight"></div>随着青盐铁路12月26日开通运营，从山东青岛可直达江苏盐城，结束沿线日照、连云港、盐城三地不通动车的历史。<br/><div class="contheight"></div>怀衡铁路位于湖南省西南部，经怀化、邵阳、衡阳三市14个县区，正线全长318公里。全线设怀化南、安江东、月溪、洞口、隆回西、隆回、邵阳西、邵阳、邵阳东、邵东、杨桥、库宗桥、西渡、松木、咸塘、颜家垄、衡阳东17座车站，运营时速200公里。<br/><div class="contheight"></div>随着怀衡铁路12月26日开通运营，湖南西南地区新增一条快速直达东南沿海和珠三角地区的“黄金通道”，长沙、怀化、衡阳三地间形成湖南铁路“金三角”。<br/><div class="contheight"></div>此前，铁总12月6日公布2019年1月5日调图信息时曾“预告”称，2018年底，京哈高铁承德至沈阳段、新民至通辽高铁、哈尔滨至牡丹江高铁、济南至青岛高铁、青岛至盐城铁路、杭昌高铁杭州至黄山段、南平至龙岩铁路、怀化至衡阳铁路、铜仁至玉屏铁路、成都至雅安铁路等10条新线即将开通运营。<br/><div class="contheight"></div>12月25日一天内，哈尔滨至牡丹江高速铁路、杭昌高铁杭州至黄山段两条新线已开通运营。<br/><div class="contheight"></div>值得一提的是，随着哈牡、杭黄、济青、青盐、怀衡等10条新线今年年底全部开通运营，中国将新增高铁营业里程约2500公里，高铁运能也将大大提升。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 高铁,铁路</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776781">
+<div class="nbgbox">
+<a class="zan" contid="2776781" href="javascript:;" onclick="voteCont(this)" praisetimes="48">
+                           47</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 高铁管理</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776781&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776781&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

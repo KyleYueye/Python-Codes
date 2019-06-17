@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">甘肃省政协原副主席俞正逝世，享年82岁</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-27 13:23<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">第十届全国政协常委，甘肃省政协原副主席，中国国民党革命委员会甘肃省委会原主委，中国共产党的优秀党员俞正同志，因病于2018年12月21日在兰州逝世，享年82岁。<br/><div class="contheight"></div>俞正同志病重期间和逝世后，中央有关领导同志以不同方式表示慰问和哀悼。<br/><div class="contheight"></div>俞正，甘肃兰州人，1936年7月出生。1954年至1957年在山西师范学院政教系中国革命史专业学习。1957年至1964年任山西省太原市第三中学教师。1964年至1970年任甘肃省兰州市女子中学教师。1970年至1992年，历任甘肃省兰州市二十七中学教师、校办工厂厂长、副校长。1992年至2000年，历任民革甘肃省委会专职副主委兼秘书长，甘肃省政协副秘书长。2000年后，历任民革甘肃省委会主委，甘肃省政协副主席，甘肃省社会主义学院院长。<br/><div class="contheight"></div>俞正同志是民革第八届、九届中央委员，第十届中央常委。是第九届全国政协委员，第十届全国政协常委。<br/><div class="contheight"></div>（原题为《俞正同志逝世》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋子文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 干部逝世，甘肃，俞正</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2779993">
+<div class="nbgbox">
+<a class="zan" contid="2779993" href="javascript:;" onclick="voteCont(this)" praisetimes="11">
+                           10</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 干部逝世</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2779993&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2779993&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

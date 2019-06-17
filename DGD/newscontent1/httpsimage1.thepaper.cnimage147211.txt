@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">晚期结肠癌患者基因检测率仅二成，盲吃靶向药贻误治疗且浪费</h1>
+<div class="news_about">
+<p>澎湃新闻记者 胡丹萍</p>
+<p>
+							2019-01-09 14:58<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近年来，多个抗肿瘤靶向新药获批，让癌症患者看到了治愈希望。在许多癌症患者的靶向治疗前，必经的一个步骤就是基因检测。<br/><div class="contheight"></div>1月8日，国内首个结直肠癌患者指南发布，参与指南撰写的中山大学附属肿瘤医院结直肠科副主任陈功针对患者疑虑的靶向治疗基因检测等问题进行了详细的解答。<br/><div class="contheight"></div>“以前RAS基因检测率在晚期结直肠癌患者中仅为20%左右。” 陈功在回答澎湃新闻（www.thepaper.cn）提问时表示，检测率低是因为以前患者认为基因检测能不能改变他的治疗，患者做一个检测希望能带来好处，如果这种检测最终只能提供给医生更多的信息，对患者治疗不能改变的话没有用。<br/><div class="contheight"></div>陈功解释，研究发现约有50%的结肠癌有RAS基因的突变，进行RAS基因检测可以筛查出无法从分子靶向药物中获益的患者，避免盲目用药。<br/><div class="contheight"></div>2018年底，各地落实惠民新政，国家谈判的17种抗癌药品纳入医保报销范围，其中用于结直肠癌的一线靶向治疗药物西妥昔单抗（爱必妥）自付直降90%，成为肠癌患者的福音。<br/><div class="contheight"></div>使用爱必妥之前，需要进行RAS基因的检测，RAS基因野生型的结直肠癌患者才可以使用爱必妥并可以报销。<br/><div class="contheight"></div>未进行基因检测有相当部分患者选择“盲吃”，不仅贻误治疗，还影响治疗效果。“这实际上造成了巨大的浪费，爱必妥虽然现在进了国家医保，一个月要两万多块钱，如果没有基因检测，吃了药有一半的人甚至60%的人都没有效，钱也浪费，治疗也没有效。”陈功说。<br/><div class="contheight"></div>“如果只测一个RAS基因，也就一千多块钱。”陈功在发布指南时表示，从2019年开始中国RAS基因检测的比例将会大幅度攀升，而且大型的三甲医院都可以检测，还有多个商业公司都可以检测。<br/><div class="contheight"></div>在此次发布会上，健康时报、阿里健康•医知鹿联合发布结直肠癌患者指南。这是国内首个面向患者的结直肠癌防治全流程指南，由22位肿瘤领域权威专家撰写审核，为大众和患者提供一份结直肠癌预防、早筛、确诊、治疗、康复全流程疾病科普百科。<br/><div class="contheight"></div>阿里健康副总裁张亮介绍，目前，“结直肠癌患者指南”已在阿里健康APP首页上线。除此之外，在UC浏览器手机版、支付宝、手机淘宝等渠道均可查看该指南，获得关于结直肠癌从预防、治疗至康复的全流程指导。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 结肠癌,晚期,靶向药,基因检测</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831677">
+<div class="nbgbox">
+<a class="zan" contid="2831677" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 结肠癌防治</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831677&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831677&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

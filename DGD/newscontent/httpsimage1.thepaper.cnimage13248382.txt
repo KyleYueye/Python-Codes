@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">韩国要沿三八线打造456公里徒步路线，计划每年揽客百万</h1>
+<div class="news_about">
+<p>刘强/海外网</p>
+<p>
+							2018-12-17 10:08<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="342" src="http://image.thepaper.cn/www/image/13/248/277.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">徒步路线的规划图</span></div><div>据海外网12月17日消息，朝鲜半岛三八线的南北两侧，是宽约4公里的非军事区（DMZ）。近来随着朝韩关系的缓和，这处曾经有重兵把守、堪称“世界最危险之地”的缓冲区，陆续撤出武器和兵力，化身为“和平之地”。如今，这里还被韩国政府盯上，意欲将其打造成热门景区。</div><div style="text-align:center;"><img alt="" height="452" src="http://image.thepaper.cn/www/image/13/248/356.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">非军事区曾是“最危险之地”（电影《共同警备区》）<br/><div class="contheight"></div></span><div style="text-align:center;"><img alt="" height="808" src="http://image.thepaper.cn/www/image/13/248/279.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">朝韩领导人手拉手跨过板门店水泥军事分界线。</span></div><div>据韩联社16日报道，韩国行政安全部当天表示，计划在非军事区附近，打造一条长约456公里、可以横贯朝鲜半岛的徒步路线，名为“DMZ，开启统一之路”。</div><div style="text-align:center;"><img alt="" height="254" src="http://image.thepaper.cn/www/image/13/248/280.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">徒步路线将利用很多原有的道路</span></div><div>报道说，<strong>这条路西起仁川市江华郡，东至江原道固城郡。很多路段65年期间罕有人迹，生态环境和历史资源保存完好，具有很高的旅游价值。</strong></div><strong>韩方计划从明年开始，到2022年为止，投入286亿韩元（约合1.7亿元人民币）建设，包括200亿韩元的国家开支和86亿韩元的地方开支。</strong><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="387" src="http://image.thepaper.cn/www/image/13/248/282.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">与朝韩首脑合影的两个小孩，就来自三八线附近的村子</span></div><div>据了解，徒步路线并非完全新起炉灶，而是利用原有的农村道路，将过去隔绝开来的地区连接起来，让游客在感受朝韩分裂现场的同时，可以体验各地代表性的生态、文化和历史景点。该路线还计划利用废弃的学校或居民会馆，改造10处据点。</div><div style="text-align:center;"><img alt="" height="431" src="http://image.thepaper.cn/www/image/13/248/283.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">从韩国通往朝鲜金刚山的道路</span></div><div>韩国行政安全部表示，路线完全建成后，每年预计可以揽客100万人次，可创造超过2500亿韩元（约合15亿人民币）的经济收益。青旅、餐饮、咖啡店、土特产品商店等，都将成为当地居民的营收来源。</div>韩国行政安全部强调，这条徒步路线不仅能创造收益，也会成为朝鲜半岛和平与繁荣的象征。<br/><div class="contheight"></div>（原题为《大动作！韩国要沿三八线打造456公里徒步路线》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 韩朝关系</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2745637">
+<div class="nbgbox">
+<a class="zan" contid="2745637" href="javascript:;" onclick="voteCont(this)" praisetimes="120">
+                           119</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 韩朝关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2745637&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2745637&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

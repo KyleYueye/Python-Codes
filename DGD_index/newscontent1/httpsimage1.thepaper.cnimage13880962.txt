@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">英外交大臣：“裸脱欧”将带来混乱，二次公投有摧毁性影响</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-04 10:10<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="378" src="http://image.thepaper.cn/www/image/13/880/969.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">1月2日，英国外交大臣亨特在新加坡国际战略研究所发表演讲。  视觉中国 图<br/><div class="contheight"></div></span>随着英国脱欧进入最后三个月倒计时，英国国内对脱欧协议仍旧未能达成共识，各方不同意见正在使得局势变得越来越混乱不清。<br/><div class="contheight"></div>据《金融时报》4日报道，正在新加坡访问的英国外交大臣亨特2日在新加坡国际战略研究所发表演讲。亨特在谈到英国“脱欧”时表示，“无协议脱欧”将会给英国带来混乱，而如果为了避免“无协议脱欧”进行二次公投对英国的影响则是“摧毁性”的。<br/><div class="contheight"></div>亨特表示，他相信特雷莎⋅梅首相能够从欧盟那里得到英国议会想要的保证，使得协议草案在议会获得通过，从而避免出现“无协议脱欧”或者二次公投的局面。<br/><div class="contheight"></div>然而从英国国内传出的声音，却没有那么乐观。<br/><div class="contheight"></div>路透社4日报道称，据当天公布的一项调查显示，目前大多数特雷莎·梅首相所在的保守党的成员仍反对她与欧盟的脱欧协议。对1215名保守党成员的调查显示，59％的人反对目前的协议，仅有38％的人赞成。超过一半的受访成员表示他们不认为这份协议尊重了2016年英国脱欧公投的结果。<br/><div class="contheight"></div>当被问及如果情况发展到将要举行另一次全民公投时，他们会如何投票，只有29％的人表示他们会选择目前的协议，而64％的人会选择无协议“裸退”。<br/><div class="contheight"></div>在此前一天，英国现任脱欧事务大臣巴克利表示，如果议会否决首相特雷莎·梅与欧盟谈好的协议，英国最终更有可能无协议脱欧。报道称，巴克利在3日召开部长级会议，讨论无协议脱欧的准备工作。 <br/><div class="contheight"></div>据英国媒体报道，英国首相特雷莎⋅梅近期一直在同欧盟领导人进行磋商。英国前脱欧大臣戴维斯（David Davis）日前撰文表示，如果特雷莎·梅没有十成胜算的话，她就会再次推迟议会投票。此前，在2018年12月10日，特雷莎·梅已经推迟了议会针对其脱欧协议的投票，目前投票定在2019年1月14日举行。<br/><div class="contheight"></div>而由于脱欧协议的不确定性和脱欧日期的日益迫近，英国商界和经济学家担忧英国经济可能进一步受到负面影响。 <br/><div class="contheight"></div>此前，去年12月10日特雷莎·梅宣布推迟议会投票的时候，英镑跌幅迅速扩大，日内跌幅一度超过1.6%，创下去年4月上旬以来的新低。如果梅首相再次推迟议会投票，外界普遍预期市场会有进一步的反应。 <br/><div class="contheight"></div>知名市场调查公司益普索-莫里2日发布的报告显示，随着“脱欧”日期日益临近，英国大企业高管对经济前景愈加悲观，74%的受访者预计2019年英国经济状况会恶化。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 英国脱欧</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2811774">
+<div class="nbgbox">
+<a class="zan" contid="2811774" href="javascript:;" onclick="voteCont(this)" praisetimes="24">
+                           23</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 英国脱欧</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2811774&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2811774&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

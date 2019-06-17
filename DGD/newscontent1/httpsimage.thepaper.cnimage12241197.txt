@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜于欢父母获刑，不减惩罚分明的法治底色</h1>
+<div class="news_about">
+<p>澎湃特约评论员 杨晨</p>
+<p>
+							2018-11-14 14:16<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2632417" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜于欢父母获刑，不减惩罚分明的法治底色" src="//image.thepaper.cn/image/12/237/651.jpg"/>
+</a>
+<div class="atlas_360_txt">于欢家人非法吸储案今日宣判：其父获刑4年，其母获刑3年<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">山东省高唐县人民法院消息，该院l14日公开宣判被告单位山东源大工贸有限公司、山东赛雅服饰有限公司，被告人于西明等6名被告人非法吸收公众存款案，于欢父亲获刑4年、母亲获刑3年，并处不等罚金。<br/><div class="contheight"></div>这起案件之所以如此令人关注，与那起激起公众同情和愤慨的“于欢刺死辱母者”案不无关系。之前，于欢一审被判无期徒刑，在舆论的强烈反弹下，山东省高级人民法院认定于欢属防卫过当，构成故意伤害罪，判处其有期徒刑5年。虽然该案已经尘埃落定，但与之关联的案件并未终了。<br/><div class="contheight"></div>于欢愤而刺死讨债的杜志浩，并刺伤多人，最初缘起家人牵涉经济纠纷。据法庭查明，源大公司、于西明、于家乐、苏银霞涉及非法吸收公众存款达2508.85万元。根据我国刑法，构成非法吸收公众存款罪，“处三年以下有期徒刑或者拘役，并处或者单处二万元以上二十万元以下罚金”，如有严重情节，“处三年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金”。<br/><div class="contheight"></div>诚然，在不法讨债团伙的暴力威逼之下，于欢还有他的家人都属于受害者，他们不幸的遭遇值得同情。但是，这并不意味着，对于他们的违法犯罪行为，可以视而不见，或者是“两相抵消”。如果“网开一面”，既是对法治的破坏，也是一种司法上的不公。<br/><div class="contheight"></div>其实，就于欢家人非法吸储的数额看，情节不可不谓严重，而且于欢父母均被法庭认定为主犯，但具体到此案中，法庭综合考量的还有其他犯罪事实，以及社会危害程度。三年左右的量刑，并不出人意料，其他被告人的自首情节等也得到认定，与之前于欢刺死辱母者案一样，司法判决体现了天理、国法和人情。<br/><div class="contheight"></div>法网柔情固然是法治文明，惩罚分明同样是法治精神。回看于欢案，在公众舆论的高度关切下，从一审无期到二审轻判，从扫黑除恶、追责“保护伞”到审判非法吸储案，给受害者以关护，对违法者以惩罚，于无形中彰显了司法正义，也给公众上了一堂生动的法治课。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 于欢案</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2632886">
+<div class="nbgbox">
+<a class="zan" contid="2632886" href="javascript:;" onclick="voteCont(this)" praisetimes="138">
+                           137</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 山东于欢案</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2632886&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2632886&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">DG称大秀“因故改期”，代言人迪丽热巴声明终止合作</h1>
+<div class="news_about">
+<p>汪华</p>
+<p>
+							2018-11-21 18:24<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>随着Dolce&amp;Gabbana（以下简称DG）辱华事件在各家社交平台上爆发式的发酵，今天下午已有不少媒体收到今晚活动取消的消息。澎湃新闻从此次活动相关合作公司了解到，原本计划今晚在上海世博中心的DG时尚大秀已经确认，正式取消。但是DG官方微博在下午发表微博，坚称活动是“因故改期”。品牌代言人迪丽热巴、王俊凯先后删除与DG相关的微博内容。随后，迪丽热巴工作室微博发声明表示与该品牌终止合作。</u><br/><div class="contheight"></div> <div style="text-align:center;"><img alt="" height="1067" src="http://image.thepaper.cn/www/image/12/456/901.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">新浪时尚等多家媒体在社交平台上宣布时尚秀取消。</span><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="390" src="http://image.thepaper.cn/www/image/12/456/936.jpg" width="600"/></div><br/><div class="contheight"></div><span style="color: rgb(153, 153, 153);">DG官方发布微博宣布改期</span><br/><div class="contheight"></div>随着DG联合创始人、设计师Stefano Gabbana在INS的辱华言论的广泛传播，各方受邀的明星艺人集体抵制今晚的活动。包括陈坤、黄晓明、陈学冬、海清等在内的数十位演艺界明星已经通过社交媒体平台确认，拒绝参与此次活动。包括DG中国区代言人王俊凯、迪丽热巴也通过工作室微博发声表示不参加大秀活动。章子怡更是直接在微博上发图怒怼DG。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="1481" src="http://image.thepaper.cn/www/image/12/456/948.jpg" width="600"/></div>早在今天早些时候，DG的官方微博已经关闭了评论功能。<div style="text-align:center;"><img alt="" height="777" src="http://image.thepaper.cn/www/image/12/456/632.jpeg" width="600"/></div><span style="color: rgb(153, 153, 153);">原本准备参加今晚活动的陈坤，中午从北京飞抵上海了解到事情起因后，在机场选择直接飞回北京。</span><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="566" src="http://image.thepaper.cn/www/image/12/457/572.jpg" width="600"/></div>最新消息称，同时作为DG品牌代言人的迪丽热巴和王俊凯已经将自己微博中所有和DG相关的微博内容删除。随后，迪丽热巴工作室微博发声明表示与该品牌终止合作。<br/><div class="contheight"></div>据了解，下午上海世博中心现场秀场外部灯光虽然亮着，但是不少本应参加今晚走秀的国内模特已经接到主办方通知，可以自行离开。另外据了解，早在确认时尚秀取消前，已经有不少其他合作方的工作人员和化妆师早早收拾完了工具，先行离开。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/12/454/904.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="417" src="http://image.thepaper.cn/www/image/12/454/906.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="565" src="http://image.thepaper.cn/www/image/12/454/907.jpg" width="600"/></div>在秀场现场，仅剩下部分外籍模特留在舞台现场，后台已经空空荡荡，只剩下挂着原本计划在走秀时展示的时装。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李淑平<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2657094">
+<div class="nbgbox">
+<a class="zan" contid="2657094" href="javascript:;" onclick="voteCont(this)" praisetimes="405">
+                           404</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 辱华</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2657094&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2657094&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（825）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

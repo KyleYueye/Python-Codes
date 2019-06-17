@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜百人考试80人代考，这试还有必要考吗？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 默城</p>
+<p>
+							2018-09-20 17:51<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">电影《天才枪手》看得不少人热血沸腾，但现实里出现“枪手”代考，就不那么燃了。9月15日，宁波甬江财经学校举行了一场考试。记者调查发现，考试全程未核实考生的身份，现场直接发“资料”供考生答题。参加考试的百来人里，“枪手”多达80人。（宁波晚报，9月20日） <div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/10/641/623.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">讲台上的监考和巡考人员正在准备给大家发“资料”。  宁波晚报 图<br/><div class="contheight"></div></span>考试不能作弊，是小学生都懂的道理。在高考、研究生招生等国家级考试中，不管是个人作弊还是组织作弊，构成犯罪的，都将被追究刑事责任，组织作弊最高可处七年有期徒刑。<br/><div class="contheight"></div>此次被曝的考试，是陕师大2018年秋季网络教育课程考试，负责的机构为陕师大远程教育余姚市函大教育培训学习中心。在部分人看来，此类考试不如一些“重量级大考”正规严格，出现代考等作弊现象是正常的，甚至是可以接受的。<br/><div class="contheight"></div>但实际上，远程教育是我国成人教育重要的组成部分。根据教育部相关规定，网络教育学员参加所学课程的考试，必须凭身份证、学生证和考试通知单参加考试，禁止代考与舞弊等行为。陕师大远程教育学院官网发布的“巡考工作通知”中，也明确要求“加强考试管理，严肃考风、考纪”“学生携带有效证件参考”。<br/><div class="contheight"></div>可宁波的这场考试，却视规定制度如空气，将作弊玩得花样百出。先是通过网络大量招聘“枪手”；在整个考试中，监考者不仅没有尽到监考责任，反而通过不核实证件等手段协助“枪手”作弊；最后发“资料”给考生的行径，更是将本应严肃的考场，彻底变成作弊者的狂欢之所。 <br/><div class="contheight"></div>梳理整个环节，可以说，这不是个别人的作弊，而是一场有组织、有规模、各个环节都配合得严丝合缝的、明目张胆的集体作弊。集体作弊就当集体追责。<br/><div class="contheight"></div>作弊当然是有缘由的。按照以往经验几乎可以断定，替考乱象背后，是盘根错节的各方利益纠葛。“枪手”45元一科的“劳务费”只是微不足道的交易，拿“大头”的还另有其人。 <br/><div class="contheight"></div>将各方在作弊中扮演的角色、获得的利益一一查明，是“因罪量刑”的需要，也是查出考试漏洞以求弥补，斩断考试作弊利益链条的根本办法。唯有如此，才能还这类考试以公平本色，给未作弊考生一个公道。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2458920" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">记者卧底陕西师大网络教育考试：百来人参加，竟有80人代考</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 考试作弊</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2460846">
+<div class="nbgbox">
+<a class="zan" contid="2460846" href="javascript:;" onclick="voteCont(this)" praisetimes="66">
+                           65</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 考试作弊</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2460846&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2460846&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（47）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

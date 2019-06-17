@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">通过高速公路运送近70公斤冰毒被查获，一审判决两主犯死刑</h1>
+<div class="news_about">
+<p>微信公众号“岳阳市中级人民法院”</p>
+<p>
+							2018-12-25 19:40<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">毒贩妄想经过高速公路用车将毒品运回当地贩卖，不料途中便被公安人员“人赃并获”，当场查获毒品近70公斤。<br/><div class="contheight"></div>12月25日，岳阳市中级人民法院公开宣判一起贩卖、运输毒品案。被告人黄加辉犯贩卖毒品罪，判处死刑，剥夺政治权利终身，并处没收个人全部财产；被告人袁先松犯贩卖、运输毒品罪，判处死刑，剥夺政治权利终身，并处没收个人全部财产；被告人熊凯犯运输毒品罪，判处无期徒刑，剥夺政治权利终身，并处没收个人全部财产。<br/><div class="contheight"></div>法院经审理查明，2017年9月底，被告人袁先松接到关某章（另案处理）求购毒品的电话，遂联系被告人黄加辉，欲从黄加辉处购买毒品。袁先松分别与关、黄二人谈妥了毒品价格与数量后，同年10月1日，袁先松与被告人熊凯一同驾车从湖北省潜江市前往广东省。通过黄加辉的牵线联系，10月8日，袁先松携带毒资352万元，在广东省惠来县隆江镇某村，购买了70千克甲基苯丙胺（冰毒），袁先松与黄加辉从中赚取差价30万元。当天，袁先松与前来接应的关某章等人会合，驾车携带毒品返回潜江途中被公安民警抓获，当场在熊凯驾驶的车辆上查获70包毒品，净重69827.4克。<br/><div class="contheight"></div>法院认为，被告人黄加辉、袁先松、熊凯违反国家毒品管理法规，分别构成贩卖毒品罪，贩卖、运输毒品罪及运输毒品罪。三被告人涉案毒品数量特别巨大，社会危害性极大，综合案情，遂依法作出以上判决。<br/><div class="contheight"></div>（原标题：《现场查获近70公斤冰毒 一审判决两主犯死刑》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周琦<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 高速公路 冰毒 死刑</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772949">
+<div class="nbgbox">
+<a class="zan" contid="2772949" href="javascript:;" onclick="voteCont(this)" praisetimes="26">
+                           25</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 贩毒</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772949&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772949&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

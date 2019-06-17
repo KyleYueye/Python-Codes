@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜警惕越来越多的微信群影响了工作本身</h1>
+<div class="news_about">
+<p>澎湃特约评论员 王钟的</p>
+<p>
+							2018-07-16 19:25<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2266163" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜警惕越来越多的微信群影响了工作本身" src="//image.thepaper.cn/image/8/888/694.jpg"/>
+</a>
+<div class="atlas_360_txt">人民日报刊文：工作别被微信群“绑架”<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">《人民日报》近日刊文直指基层工作被微信群“绑架”的问题。记者下乡调研时，听到一些镇村干部抱怨各个条线、每项工作都会建群，工作无论大小，悉数在群里传达布置，每天光是在林林总总的群里刷信息，就要浪费不少时间。 <br/><div class="contheight"></div>微信群从一种便利的即时通讯工具，演变成工作中不可承受之重，确实违背了“指尖上的办公”的美好初衷。人们最初将微信这一社交工具引入日常工作时，可能并没有想过还有这样的“副作用”。现在的结果，显然与刚开始的“拍手叫好”大不相同。<br/><div class="contheight"></div>评价一种新的工作方式是否合理，不能只看它是否为某个方面、某个人带来便利，而要看它是否在整体上促进工作效率的提升。简而言之，要增量而不要零和，要系统中各个“齿轮”的协同并进，而不是某个元件运转得过快过热。 <br/><div class="contheight"></div>建群的人确实利用微信减少了繁琐的通知事务，给自己省了不少事。但是，鉴于微信群的信息流属性，与通知相关的人不得不随时关注群消息，才能防止信息被遗漏。通知者群发一条消息，就算完成了任务，尽到了责任，但对于收通知的人而言，不管当时是什么工作状态，都要为没有及时阅读通知负责。这样的通知机制，只方便通知的人，却加重了接通知者的负担，让更多人为信息所困。 <br/><div class="contheight"></div>我们常说基层工作要有服务意识，这不光体现在对人民群众的服务，也要体现在对基层工作人员的关怀与服务。基层工作人员直接与群众打交道，承担着繁琐、细碎的具体任务。减少他们的行政性负担，让他们从事务性工作中解放出来，有利于他们把有限的精力集中在群众工作中，从而间接提高基层工作的服务水平。 <br/><div class="contheight"></div>每项工作都建一个群，对于主事者来说，可能心里觉得自己通知传达的信息很重要，值得单独建一个群。这样的想法，实际上是缺乏大局意识的。基层工作事无巨细，很多问题没有主次之分，小矛盾可能转化为大矛盾，小问题会积累成大问题。人人都觉得自己负责的工作很重要，最后不仅加剧执行者的负担，还会适得其反，混淆了问题的主次。 <br/><div class="contheight"></div>为一些临时性的工作建群，群里没说几句话，随后这个群就荒废了，也显示了一种形式主义、官僚主义作风。煞有介事地建一个微信群，拉相关工作人员入群，只为了让人回一句“收到”，从工作方式上看是生硬的，从工作态度上看是居高临下的。很多简单的通知，点对点、人对人地打一个电话、发一条短信，岂不是更能体现对人的尊重，对工作的负责？ <br/><div class="contheight"></div>更要看到的是，现代通信工具能够帮助人观望得更高，但不能替代到基层走一走、看一看的脚步，脚踏实地才能把工作做好。某些建群者尝到微信工作的甜头以后，就放松了对实地考察、了解民情民意的要求，动起了“遥控办公”的念头。在群里上传几幅图、几张表，借以“互评互鉴”，表面上显得工作很有效率，实际上则是糊弄了事。 <br/><div class="contheight"></div>建微信群的目的是促进沟通与交流，过多过滥的微信工作群，却阻碍了真诚的沟通和交流。本来为了优化沟通效率的工具，如果在工作中占据过多时间，反而降低了工作效率，也打扰了基层工作人员休息和生活。最值得担忧的是，基层干部被微信群“绑架”，工作的激情可能被压抑，奋斗的心气儿也在无形间被损耗。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 微信群 基层干部</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2268224">
+<div class="nbgbox">
+<a class="zan" contid="2268224" href="javascript:;" onclick="voteCont(this)" praisetimes="84">
+                           83</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 微信群</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2268224&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2268224&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（113）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

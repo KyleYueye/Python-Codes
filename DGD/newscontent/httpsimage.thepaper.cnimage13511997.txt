@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25433">地产界</a>
+</div>
+<h1 class="news_title">楼市将进入长效机制构建轨道，房住不炒是根本定位</h1>
+<div class="news_about">
+<p>陈涛/经济参考报</p>
+<p>
+							2018-12-26 06:54<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中央经济工作会议指出，“要构建房地产市场健康发展长效机制，坚持房子是用来住的、不是用来炒的定位，因城施策、分类指导，夯实城市政府主体责任，完善住房市场体系和住房保障体系。”这标志着我国房地产市场将从短期差别化调控进入构建楼市健康发展长效机制的轨道。<br/><div class="contheight"></div>过去近两年的房地产市场分类调控，坚持“房子是用来住的、不是用来炒的”定位，热点城市投机炒作动能基本消退，楼市迈出回归居住属性的坚实一步，坚挺的房价出现了松动，市场非理性成交回落。据国家统计局数据，2018年11月，我国一线城市二手住宅销售价格持续下降，15个热点城市新建商品住宅销售价格环比下降的城市有3个，较上月增加1个。受到资金面压力趋紧的影响，房地产开发企业以价换量的动力明显增强；同时二手房市场漫天要价情况也显著减少，市场成交渐趋理性。这些，都为下一步构建房地产市场健康发展长效机制奠定了坚实的基础。<br/><div class="contheight"></div>构建房地产市场健康发展长效机制，房住不炒是根本定位。过去两年我国房地产调控取得预期成效的基本经验，就是深入落实房住不炒，即在保障合理住房需求同时，有效抑制住房投资需求，严厉打击投机炒作行为，保持房地产市场的平稳运行。当前我国经济运行稳中有变，变中有忧，外部环境复杂严峻，经济面临下行压力，客观上需要房地产市场能够理性应对，因城施策，分类指导。<br/><div class="contheight"></div>构建房地产市场健康发展长效机制，关键是要夯实城市政府主体责任。在因城施策、分类指导的政策框架内，城市政府居于构建房地产市场健康发展长效机制的中心地位,既是政策实施的主体，也要切实承担落实房住不炒的责任。地方经济的稳定增长和财政健康的可持续，都离不开健康发展的房地产市场。值得注意的是，当前我国楼市稳增长的边际作用已经受到了终端需求刚性约束。若是过于看重政策措施的短期效果，而不顾中长期效应，不仅没有可能形成长效机制，而且反过来还会阻碍长效机制的建设，损害到中期经济增长，并引发市场风险过度积聚。因此，夯实城市政府主体责任，既要鼓励城市政府因城施策，也要加强对城市政府的分类指导，更要强化对房地产政策措施效应的监测与督导，确保政策实施后房住不炒的底线不被突破。<br/><div class="contheight"></div>构建房地产市场健康发展长效机制，基础是完善住房市场体系和住房保障体系。应该看到，住房市场既包括商品房市场，也包括住房租赁市场。完善住房市场体系，就是要充分发展住房市场的各个子市场供应，利用市场机制和法律制度，来调节和保障不同种类的住房需求，实现绝大多数人各得其所。同时也要尽快完善城市住房保障体系，增加包括限价房、廉租房、公租房在内的保障房供应，积极满足城市中低收入人群基本居住需求，特别是热点城市新就业大学生、外来务工人员的刚性居住需求，这不仅关系到城市社会就业的稳定，也关系到经济增长基础的稳固。<br/><div class="contheight"></div>综合看，坚持“房子是用来住的、不是用来炒的”定位，既是构建我国房地产市场健康发展长效机制的逻辑起点，也是最终归宿。关键就是要发挥城市政府的主观能动作用，既要鼓励城市政府因城施策，也要进行分类指导，强化督导问责。而基础则是不断完善的住房市场体系和住房保障体系，既发挥市场机制的调节作用，又有公共职能供应，确保满足所有人的居住需求。<br/><div class="contheight"></div>（原题为《楼市将进入长效机制构建轨道》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张珺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 楼市</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2775300">
+<div class="nbgbox">
+<a class="zan" contid="2775300" href="javascript:;" onclick="voteCont(this)" praisetimes="41">
+                           40</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 楼市</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2775300&caid=25433",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2775300&amp;caid=25433" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

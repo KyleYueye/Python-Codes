@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">人民日报评论员：我们为创造奇迹的中国人民感到无比自豪</h1>
+<div class="news_about">
+<p>本报评论员/人民日报</p>
+<p>
+							2018-12-23 07:10<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">人民是改革开放伟大奇迹的创造者，是推动改革开放的力量源泉。改革开放40年，最具活力的是人，最该致敬的也是人。<br/><div class="contheight"></div>“在中国人民手中，不可能成为了可能。我们为创造了人间奇迹的中国人民感到无比自豪、无比骄傲！”在庆祝改革开放40周年大会上，习近平总书记用“十个始终坚持”，深情回顾40年改革开放的伟大进程，热情讴歌人民群众艰苦奋斗、顽强拼搏的创造伟力，将伟大成就归功于中国人民。真挚的话语，深刻体现了历史唯物主义的立场观点，充分彰显了以人民为中心的发展理念。<br/><div class="contheight"></div>改革开放是亿万人民自己的事业。改革开放40年来，从开启新时期到跨入新世纪，从站上新起点到进入新时代，我们党引领人民绘就了一幅波澜壮阔、气势恢宏的历史画卷，谱写了一曲感天动地、气壮山河的奋斗赞歌。40年风雨同舟，40年披荆斩棘，40年砥砺奋进，改革开放在认识和实践上的每一次突破和深化、改革开放中每一个新生事物的产生和发展、每一个经验的取得和积累，都来自亿万人民的实践和创造。40年春风化雨、春华秋实，改革开放极大改变了中国的面貌、中华民族的面貌、中国人民的面貌、中国共产党的面貌。中华民族迎来了从站起来、富起来到强起来的伟大飞跃！中国特色社会主义迎来了从创立、发展到完善的伟大飞跃！中国人民迎来了从温饱不足到小康富裕的伟大飞跃！中华民族正以崭新姿态屹立于世界的东方！<br/><div class="contheight"></div>回顾改革开放40年的光辉历程，我们始终坚持解放思想、实事求是、与时俱进、求真务实，坚持马克思主义指导地位不动摇，坚持科学社会主义基本原则不动摇；始终坚持以经济建设为中心，不断解放和发展社会生产力；始终坚持中国特色社会主义政治发展道路，不断深化政治体制改革；始终坚持发展社会主义先进文化，加强社会主义精神文明建设；始终坚持在发展中保障和改善民生；始终坚持保护环境和节约资源，坚持推进生态文明建设；始终坚持党对军队的绝对领导，不断推进国防和军队现代化；始终坚持推进祖国和平统一大业，实施“一国两制”基本方针；始终坚持独立自主的和平外交政策；始终坚持加强和改善党的领导。这“十个始终坚持”，既是对奋斗历程的深刻总结，也是对发展奇迹的深刻揭示。<br/><div class="contheight"></div>从某种意义上说，一个时代的气质与风貌，是由实干定义的。40年来，我们之所以能摆脱“被开除球籍的危险”、跻身世界第二大经济体，我们之所以能创造农村贫困人口减少7.4亿、农村贫困发生率下降94.4个百分点的减贫奇迹，我们之所以能用几十年时间走完发达国家几百年走过的工业化历程，靠的正是逢山开路、遇水架桥的闯劲儿，靠的正是滚石上山、爬坡过坎的拼劲儿。正如习近平总书记深刻指出的：“40年来取得的成就不是天上掉下来的，更不是别人恩赐施舍的，而是全党全国各族人民用勤劳、智慧、勇气干出来的！”正因如此，40年来我们党始终顺应民心、尊重民意、关注民情、致力民生，既通过提出并贯彻正确的理论和路线方针政策带领人民前进，又从人民实践创造和发展要求中获得前进动力。<br/><div class="contheight"></div>每一次成功，都意味着新的出发。书写了伟大历史的改革开放，必将在新征程上书写新的辉煌历史；创造了人间奇迹的中国人民，必将在新时代创造新的更大奇迹。<br/><div class="contheight"></div>（原题为《我们为创造奇迹的中国人民感到无比自豪——论学习贯彻习近平总书记在庆祝改革开放四十周年大会重要讲话》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张珺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 改革开放</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2765666">
+<div class="nbgbox">
+<a class="zan" contid="2765666" href="javascript:;" onclick="voteCont(this)" praisetimes="340">
+                           339</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 改革开放40年</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2765666&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2765666&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（47）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

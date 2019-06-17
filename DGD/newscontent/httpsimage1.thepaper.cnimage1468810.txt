@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">哈尔滨市人大常委会主任：民营、县域经济已成该市突出短板</h1>
+<div class="news_about">
+<p>澎湃新闻记者 汤琪</p>
+<p>
+							2019-01-09 12:00<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/68/803.jpg" width="100%"/></div>1月8日上午，黑龙江省哈尔滨市第十五届人民代表大会第四次会议开幕，营商环境、民营经济的发展成为今年哈尔滨两会关注的焦点。<br/><div class="contheight"></div>澎湃新闻从哈尔滨市人大常委会官网了解到，1月8日，哈尔滨市人大常委会主任赵铭参加了市十五届人大四次会议道外代表团分组审议。他指出，民营经济、县域经济在全市经济社会发展中占有重要地位，但该市民营经济存在发展缓慢、体量小的问题，解放思想、改革创新的任务非常繁重。县域经济因城镇化工业化不协调、产业结构调整缓慢、创新力度不够等因素，其发展也受到制约。<br/><div class="contheight"></div>赵铭认为，目前，民营经济、县域经济已成为该市突出短板，一定程度上影响了城市的发展。<br/><div class="contheight"></div>为此，他强调，政府部门要进一步加大民营经济发展力度。坚定不移优化营商环境，突出解决民营企业问题，把降低企业成本作为优化营商环境的重点。要把尊重民营企业放在重要位置，增强企业信心，提升企业的参与度和认同感。企业家要提高自身素质，不断提升经营理念、专业化程度和自律意识。要进一步加大县域经济发展力度。县域要有强烈的危机意识。<br/><div class="contheight"></div>此外，赵铭还表示，借助实施乡村振兴战略的契机，按照主体功能定位，谋划县域产业发展和布局，实现以工促农、以城带乡，提升乡村自我“造血”功能和县域经济实力。同时，要把政府自身建设放在突出位置，增强政府公职人员践行“四个意识”“两个维护”的自觉性，着力锻造忠诚干净担当的政府公职人员队伍。<br/><div class="contheight"></div>澎湃新闻注意到，当天，哈尔滨市十五届人大四次会议还举行了优化营商环境促进民营经济发展专题审议会，听取人大代表对优化营商环境促进民营经济发展的意见建议。有代表提出大力推行“不见面审批”改革、分级设立市新型企业服务中心、统一制定“哈尔滨城市门店牌匾设置管理规范”等建议，表达了他们对哈尔滨进一步改善营商环境的希望。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋子文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 地方两会，哈尔滨</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831270">
+<div class="nbgbox">
+<a class="zan" contid="2831270" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 地方两会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831270&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831270&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

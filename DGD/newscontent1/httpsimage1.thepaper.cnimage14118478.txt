@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">海口一女子因车费问题掌掴公交司机，涉危害公共安全罪被逮捕</h1>
+<div class="news_about">
+<p>中国新闻网</p>
+<p>
+							2019-01-10 16:21<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">记者10日从海口市公安局获悉，1月9日海口市美兰区人民检察院以涉嫌危害公共安全罪，批准对2018年12月27日涉嫌殴打30路公交车司机的犯罪嫌疑人陈某某(女，1989年生，海南屯昌人)逮捕。公安机关已依法对犯罪嫌疑人陈某某执行逮捕。案件在进一步侦办中。<br/><div class="contheight"></div>据介绍，2018年12月27日14时许，海口市公安局美兰分局红岛边防派出所执行“路长制”巡逻任务的警力在海甸岛五西路例行巡逻时接到指令：30路公交车上有一名乘客在行驶过程中殴打驾驶员。接警后民警迅速赶到现场将涉嫌危害公共安全的犯罪嫌疑人陈某某抓获。所幸，公交车司机符某某处置得当将车辆停稳，未造成交通事故和人员伤亡。<br/><div class="contheight"></div>经查，当日13时许，犯罪嫌疑人陈某某从海口市港澳开发区公交车站乘坐30路公交车，期间因为咨询车费问题与司机符某某发生口角，陈某某在公交车驾驶座旁与司机多次争吵，并拿出手机对驾驶员进行拍摄质问，严重分散了驾驶员的注意力，后经驾驶员警告劝导终止了自己的行为。14时许，当公交车行驶到海口市海甸岛五西路万福新村至世纪大桥间的主路段时，陈某某再次走到公交车驾驶位旁边与司机符某某争吵。随后陈某某扯掉了挂在公交车挡风玻璃处的国旗扔在地上，司机符某某出言制止，陈某某听后情绪更加激动，挥手打了司机符某某一巴掌。当时车辆正在城市主干道行驶，车辆人流较多，车内还有其他乘客，为了防止出现大的交通事故和确保乘客安全，符某某立即刹车，将车辆靠边停稳并报警处置。民警到场后将犯罪嫌疑人陈某某抓获并带回公安机关接受调查。<br/><div class="contheight"></div>被打的海口市公共交通总公司司机符先生2018年12月28日接受采访时说，当时车辆时速大约20多公里，车辆正在加速过程，车上有包括3名目测七八十岁的老人在内共6人，涉事女子的行为危及到大家的安全。<br/><div class="contheight"></div>在派出所提供的一段视频中，陈某某事后称，已认识到自己当时的行为是一个错误。她说，自己当时不应该太过于冲动去打司机，不应该在车辆行驶过程当中去打司机，这关系到车上所有人生命安全，“这一点是我错了”，以后绝对不会再犯同样的错误。<br/><div class="contheight"></div>（原标题为：《年轻女子掌掴公交车司机涉嫌危害公共安全被逮捕》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：宋蒋萱<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 危害公共安全 打司机 海口</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836789">
+<div class="nbgbox">
+<a class="zan" contid="2836789" href="javascript:;" onclick="voteCont(this)" praisetimes="62">
+                           61</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 乘客殴打公交司机</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836789&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836789&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（62）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

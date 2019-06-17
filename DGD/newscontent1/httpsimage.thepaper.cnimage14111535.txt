@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">贵州青年付鹏飞拒服兵役处理：户籍注“拒服兵役”永久字样</h1>
+<div class="news_about">
+<p>“南部战区”微信公号</p>
+<p>
+							2019-01-10 11:18<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="320" src="http://image.thepaper.cn/www/image/14/111/560.jpg" width="568"/></div><strong>关于对应征青年付鹏飞拒服兵役处理的决定</strong><br/><div class="contheight"></div>付鹏飞，男，1999年11月21日出生，身份证号：52263019991121XXXX，台江县南宫镇拥党村人，中职学历。2018年8月自愿报名参军，通过体检、政审、役前训练等征兵程序后到四川广元武警中队服役，役前训练期间，本人已签订《依法服兵役承诺书》。入伍后，付鹏飞怕苦怕累，不愿受部队纪律约束，以种种理由拒服兵役。县征兵办、南宫镇领导及其家属先后4次前往付鹏飞所在部队，与本人进行耐心谈话，做教育引导工作，并积极和所在部队大队长、指导员、排长、班长等共同做其思想工作，但付鹏飞思想始终未得到转化，仍然拒绝服兵役，2018年11月30日，依据《中国人民解放军纪律条令》（试行），经武警四川省总队党委研究，决定对付鹏飞作除名处理，并于2018年12月6日送回我县。<br/><div class="contheight"></div>付鹏飞的行为严重影响了我县征兵工作正常秩序，为切实维护兵役制度的严肃性，巩固国防事业发展，警示教育全社会适龄应征青年，根据《中华人民共和国兵役法》、《征兵工作条例》、军动〔2018〕238号《解决入伍新兵拒服兵役问题暂行办法》和黔党发〔2012〕34号中共贵州省委、贵州省人民政府、贵州省军区《关于进一步加强新形势下征兵工作的意见》等文件精神，经县征兵工作领导小组研究，决定对付鹏飞作出如下处理：<br/><div class="contheight"></div>（一）责令由南宫镇人民政府对付鹏飞进行10天的《国防法》《兵役法》等相关法律法规教育。<br/><div class="contheight"></div>（二）将付鹏飞纳入履行国防义务失信名单，由县人武部协调中国人民银行台江县支行指导台江县各家银行，三年内不得给予付鹏飞信贷优惠政策支持和利率优惠支持。<br/><div class="contheight"></div>（三）县委组织部、县人社局和相关单位，不得录用付鹏飞为国家公务员或参照公务员法管理的工作人员和事业单位工作人员及国有企业工作人员。<br/><div class="contheight"></div>（四）县公安局在付鹏飞个人户籍“服役栏”备注“拒服兵役”永久字样，两年内不得为其办理出国（境）相关手续。<br/><div class="contheight"></div>（五）县教育局在两年内不得为付鹏飞办理升学手续。<br/><div class="contheight"></div>（六）县市场监督局三年内不得为付鹏飞办理经商手续。<br/><div class="contheight"></div>（七）县民政局、县住建局不得将付鹏飞纳入困难补助及保障性安居工程保障范围。<br/><div class="contheight"></div>（八）取消付鹏飞义务兵优待，按照台江县2018年义务兵优待金的3倍予以罚款，共计13500元；责成其本人及家庭承担征兵体格检查、政治考核和退兵过程中所产生的全部费用，共计24500元，以上两项合计38000元，由县民政局实施，收缴经费纳入新兵征集优待费和大学生入伍奖励经费。<br/><div class="contheight"></div>（九）由南宫镇人民政府组织拥党村召开村民大会，将付鹏飞拒服兵役被部队除名问题作为反面典型进行警示教育。<br/><div class="contheight"></div>（原题为《关于对应征青年付鹏飞拒服兵役处理的决定》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 付鹏飞,贵州</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835896">
+<div class="nbgbox">
+<a class="zan" contid="2835896" href="javascript:;" onclick="voteCont(this)" praisetimes="3736">
+                           3735</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 拒服兵役</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835896&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835896&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（2.1k）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">山东省2019年“两会”调整到2月中旬举行</h1>
+<div class="news_about">
+<p>微信公号“大众日报”</p>
+<p>
+							2019-01-10 11:32<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/110/833.jpg" width="100%"/></div>1月9日，山东省十三届人大常委会第八次会议举行。在通过本次会议议程后，会议听取了省政府关于济南市莱芜市行政区划调整有关情况的报告，关于《山东省人民代表大会常务委员会关于济南市莱芜市行政区划调整若干问题的决定（草案）》的说明，审议了《山东省人民代表大会常务委员会关于调整山东省第十三届人民代表大会第二次会议时间的决定（草案）》。<br/><div class="contheight"></div>会议表决通过了《山东省人民代表大会常务委员会关于济南市莱芜市行政区划调整若干问题的决定》；通过了《山东省人民代表大会常务委员会关于调整山东省第十三届人民代表大会第二次会议时间的决定》，决定山东省第十三届人民代表大会第二次会议于2019年2月中旬召开。<br/><div class="contheight"></div>1月9日，山东省政协党组召开会议，深入学习习近平总书记在中央政治局民主生活会上的重要讲话精神，交流学习体会。会议指出，中央政治局召开民主生活会，为全党树立了标杆、作出了表率。习近平总书记发表的重要讲话，立意高远、把握大势，思想深刻、触及灵魂，充分体现了党要管党从严治党的坚强决心，体现了以身作则率先垂范的政治品格，体现了狠抓落实倡导实干的政治担当，具有强大的思想感召力，为我们上了一堂深刻的党性教育课。<br/><div class="contheight"></div>会议强调，思想是行动的先导。我们要按照中央部署和省委要求，深入学习、坚决贯彻习近平总书记重要讲话精神，始终坚持强化理论武装，用习近平新时代中国特色社会主义思想武装头脑、指导实践、推动工作；始终做到“两个维护”，旗帜鲜明讲政治；始终贯彻落实习近平总书记对山东工作的要求，从实际出发创造性开展工作；始终严守党的政治纪律、政治规矩，坚决防止“七个有之”；始终保持斗争精神，增强斗争本领，勇于担当作为，进一步形成思想共识，做到步调一致、立场坚定。经省委研究决定，省政协十二届二次会议调整到2月中旬举行。<br/><div class="contheight"></div>（原标题为《山东省2019年“两会”调整到2月中旬举行》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：钟煜豪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 山东，两会</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835787">
+<div class="nbgbox">
+<a class="zan" contid="2835787" href="javascript:;" onclick="voteCont(this)" praisetimes="4">
+                           3</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 会议日期</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835787&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835787&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

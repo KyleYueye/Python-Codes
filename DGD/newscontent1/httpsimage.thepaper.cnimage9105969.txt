@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜亿元大桥通车四个月就翻修，现在甩锅来不及了</h1>
+<div class="news_about">
+<p>舒圣祥/澎湃特约评论员</p>
+<p>
+							2018-07-25 12:24<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2290594" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">郑州亿元大桥未验收就通车：超限车辆随便开，已大面积破损</span></a></img></p></div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="383" src="http://image.thepaper.cn/www/image/9/105/965.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">贾鲁河大桥。东方IC 资料图</span><br/><div class="contheight"></div>作为目前亚洲最宽的无背索斜塔斜拉结构桥，位于河南郑州中牟县的贾鲁河大桥，一度被称为郑州新地标。耗时近三年，耗资上亿元，今年三月下旬才通车的“明星桥”，刚使用四个月，桥面就出现了大量破损和裂缝，甚至能清晰看到石子下面的钢板，不得不进行翻修作业。<br/><div class="contheight"></div>上世纪90年代以来，我国每年开工建设的桥梁达一万多座，建设速度和规模世所罕见。其中不乏竣工后便不断修修补补的隐患大桥，很多还陷入了“屡坏屡修、屡修屡坏”的怪圈，大桥桥墩用垃圾填充、裂缝用胶水修补之类奇闻，也时常被曝光。<br/><div class="contheight"></div>贾鲁河大桥刚投入使用四个月，就出现破损和裂缝，是否存在工程质量问题？桥梁承建方的回应是：问题出在管理上，有关部门在大桥尚未完成验收时就提前通车，贾鲁河大桥设计限重55吨，超限车辆的频繁驶入导致桥面破损。<br/><div class="contheight"></div>按照一般经验，一座桥梁建成后，确实不大可能几个月就出现质量问题。需要翻修，原因只能有二：一是建设质量本身就不过关、有问题，二是管理、维护不力，比如超限车辆频繁驶入，让大桥不堪重负。<br/><div class="contheight"></div>现在建设单位把问题归咎于超限车辆，姑且算是一种解释，但是否属实，尚需要独立第三方机构给出权威调查。不能由哪一方自说自话，更要警惕建设方和维护方互相“甩锅”。<br/><div class="contheight"></div>不管大桥是否存在质量问题，有关部门没验收便通车的做法，肯定违法。建设工程竣工，经验收合格后方可交付使用，未经验收或者验收不合格的，不得交付使用——这不仅是法律的明确规定，也是基本常识。以“方便居民出行、缓解通行压力”为由，没验收先通车，好像还挺人性，可有没有想过，这会将过桥民众置于怎样的风险隐患之下？<br/><div class="contheight"></div>根据《城市道路管理条例》，擅自使用未经验收或者验收不合格的城市道路的，由市政工程行政主管部门责令限期改正，给予警告，可以并处工程造价百分之二以下的罚款。违反条例，构成犯罪的，由司法机关依法追究刑事责任。<br/><div class="contheight"></div>贾鲁河大桥作为当地“明星桥”，没验收先通车，为何迟迟没有相关部门介入处理？哪怕现在桥梁出了问题在翻修，依旧无人介入？<br/><div class="contheight"></div>别说这样做没风险，最近十来年发生的塌桥事故还少吗？那么多的塌桥事故，为何就不能警醒相关部门，时刻绷紧人命关天的安全之弦？还没有通过验收的桥梁，哪怕是新建的，也理应视作“危桥”禁止通行，因为桥梁安全不能拿人命去做试验。未验收先通车的做法，既没把法律规定放在眼里，也很难说就一定把公共安全放在眼里。<br/><div class="contheight"></div>值得一提的是，新建大桥没验收便通车的做法，并非个案。之前媒体还报道过，江西的鹰潭大桥，通车20年却未验收的奇葩案例。如果说，有质量问题的桥梁是“豆腐渣工程”，没验收便通车的管理，无疑是“豆腐渣管理”。“豆腐渣工程”需要严惩，“豆腐渣管理”更要严查。<audio controls="controls" style="display: none;"></audio></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 贾鲁河大桥,翻修</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2291130">
+<div class="nbgbox">
+<a class="zan" contid="2291130" href="javascript:;" onclick="voteCont(this)" praisetimes="152">
+                           151</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 贾鲁河大桥</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2291130&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2291130&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（131）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

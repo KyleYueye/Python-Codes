@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">日本欲通过改善环境实现2020年4000万访日游客目标</h1>
+<div class="news_about">
+<p>澎湃新闻记者 廖婧雯</p>
+<p>
+							2018-12-31 18:03<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">日本今年迎来访日观光客史上首次突破3000万的纪录。日本政府将2020年的目标定为将访日观光客增加到4000万。为此，日本政府将从下个月开始灵活开展与导入新的“国际观光客税法”（“游客税”）的相关事宜，准备为外国观光客提供一个更加便于旅游的环境。<br/><div class="contheight"></div>据日本广播协会（NHK）12月31日报道，2018日本受到台风和北海道地震等影响，外国观光客曾一度减少，但是随后观光客人数回升，本月首次突破3000万，达到史上最高值。<br/><div class="contheight"></div>NHK报道称，虽然日本政府2020年计划实现访日游客突破4000万人，但是要达成这个目标仍然存在很多课题。<br/><div class="contheight"></div>报道指出，目前到日本旅游的外国观光客中，中国、韩国等亚洲四个国家和地区的人数占了70%，增加其他国家和地区游客的比例也成为重要课题。另外，观光客大量集中在东京、大阪和京都等地，加大对其他地区的宣传也必不可少。<br/><div class="contheight"></div>据新华社此前报道，日本国会参议院全体会议4月11日表决通过《国际观光旅客税法》。该法案将从2019年1月7日起正式实施，规定将向符合条件的出境者征收1000日元（约合59元人民币）的“旅客税”。<br/><div class="contheight"></div>据此前共同社报道，明年法案正式实施后，“旅客税”将以增加到出境机票、船票等费用中的形式实现征收。这一新税在征收时不限出境者国籍（征税对象涵盖日本人及外国旅客），但征收对象不包括２岁以下的儿童、目的地为他国的过境旅客及乘务人员。<br/><div class="contheight"></div>预计“旅客税”实施后将从2019年财年起每年为日本政府增加约430亿日元（约合25.3亿元人民币）税收。新增税收将主要用于日本旅游业“改善环境舒适度”、“提升体验型项目的满意度”及“强化对外宣传”等方面。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：汤宇兵<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 日本，观光客，税收</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2800013">
+<div class="nbgbox">
+<a class="zan" contid="2800013" href="javascript:;" onclick="voteCont(this)" praisetimes="330">
+                           329</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 游客税</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2800013&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2800013&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

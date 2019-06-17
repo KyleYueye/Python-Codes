@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">央视2018年度法治人物揭晓：昆山反杀案检察官王勇当选</h1>
+<div class="news_about">
+<p>检察日报</p>
+<p>
+							2018-12-05 13:29<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="810" src="http://image.thepaper.cn/www/image/12/919/995.jpg" width="550"/></div><span style="color: rgb(128, 128, 128);">检察官王勇入选2018年法治人物<br/><div class="contheight"></div></span>12月4日，CCTV2018年度法治人物揭晓，江苏省苏州市检察院公诉二处处长王勇获得CCTV2018年度法治人物荣誉称号。<br/><div class="contheight"></div>逞凶者步步紧逼，<br/><div class="contheight"></div>无辜者退无可退，<br/><div class="contheight"></div>生死一线间，法律是武器，不是羁绊！<br/><div class="contheight"></div>正当防卫，是你给出的铿锵答案。<br/><div class="contheight"></div>善良，不再是善良者的墓志铭，<br/><div class="contheight"></div>邪恶，更不是邪恶者的通行证。<br/><div class="contheight"></div>你让正义不只书写在条文里面，<br/><div class="contheight"></div>而是鲜活在了巷陌之间！<br/><div class="contheight"></div>12月4日，CCTV2018年度法治人物揭晓，江苏省苏州市检察院公诉二处处长王勇获得CCTV2018年度法治人物荣誉称号。<br/><div class="contheight"></div>CCTV2018年度法治人物评选及颁奖礼由司法部、全国普法办和中央广播电视总台共同主办。长期以来，在中央政法委、全国人大常委会办公厅、最高人民法院、最高人民检察院、公安部、中国法学会等单位的大力支持下，该活动已成为国家宪法日法治宣传的重要平台、全民普法的重要窗口。<br/><div class="contheight"></div>2018年是全面深入贯彻党的十九大精神的开局之年，同时也是改革开放40周年，意义重大。本届颁奖礼以习近平新时代中国特色社会主义思想为指导，紧紧围绕“弘扬宪法精神、传递法治力量”这一主题，回顾40年间法治中国建设取得的成就，重点梳理过去一年在立法、执法、司法、普法等各个领域的重大成果，对优秀法治人物进行表彰。<br/><div class="contheight"></div><strong>获得CCTV2018年度法治人物的有：<br/><div class="contheight"></div>为全国法治公安建设提供了生动实践样本的华列兵；<br/><div class="contheight"></div>精通手语，为聋人办案的“手语律师”第一人唐帅；<br/><div class="contheight"></div>“让纸判决变成铁判决的铁面法官”陈少华；<br/><div class="contheight"></div>“8·27昆山反杀案”突发后作为检察机关代表提前介入，配合公安机关成功处置的检察官王勇；<br/><div class="contheight"></div>用实际行动在藏区草原上扛起法律与正义旗帜的政法委副书记陈德明；<br/><div class="contheight"></div>带领人大常委会法工委制定多部地方性法规，有力推动了乌鲁木齐市立法工作发展的高璇；<br/><div class="contheight"></div>“搭建群众网上问法舒心桥”的石一鸣；<br/><div class="contheight"></div>以为民服务为宗旨，全面牵头做好“最多跑一次”改革工作的俞韵；<br/><div class="contheight"></div>积极推进国际司法交流合作，向世界传递中国法治声音的刘晓红；<br/><div class="contheight"></div>调解协议履行率高达100%，让新时代“枫桥经验”焕发新活力的杨光照。</strong><br/><div class="contheight"></div>同时，湖北省浠水县农业行政执法大队大队长高立和“马背上的派出所”——云南省迪庆藏族自治州德钦县公安局羊拉派出所还共同获评“CCTV2018年度最具网络影响力人物”称号。 （原标题《喜报！检察官王勇获评CCTV2018年度法治人物！》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周喜丰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 昆山反杀案 年度法治人物 检察官</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2708426">
+<div class="nbgbox">
+<a class="zan" contid="2708426" href="javascript:;" onclick="voteCont(this)" praisetimes="284">
+                           283</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 昆山“反杀案”</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2708426&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2708426&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

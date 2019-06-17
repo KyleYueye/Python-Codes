@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">重罚4281万元！山西省肿瘤医院等16家医院违规收费被查</h1>
+<div class="news_about">
+<p>“山西晚报”微信公众号</p>
+<p>
+							2018-12-23 21:15<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月20日，山西省太原市人力资源和社会保障局发布消息，在2016年度医保定点机构考核中，16家医疗机构存在违规收费情况，被处罚金额达4281万元。<br/><div class="contheight"></div>上述16家医院包括山西大医院、山西医科大学第一附属医院、山西省心血管病医院、山西省第二人民医院、山西中医学院附属医院、山西省人民医院、山西省妇幼保健院、山西省肛肠医院、山西省肿瘤医院、山西省中医院、山西省眼科医院、山西医科大学第三医院、山西省中西医结合医院、山西医科大学第二附属医院、山西博爱医院、山西中医学院第三中医院。<br/><div class="contheight"></div>其中，山西省肿瘤医院涉及的违规与处罚金额最多，其违规金额达380余万，罚款金额1900余万。<br/><div class="contheight"></div>16家医院主要违反医疗保险收费项目中重复收费、分解项目收费、超标准收费、套用项目收费等情形，涉及城镇基本医疗保险基金违规金额为856.2万元；原新农合基金违规金额为222.7万元。<br/><div class="contheight"></div>依据基本医疗保险经办机构与定点医疗机构签订《城镇基本医疗保险定点医疗机构服务协议》等规定，扣回不应由基本医疗保险基金支付的违规费用，违规金额共计856.2万元；视情节轻重，依据医保相关规定对医保服务医生违规行为扣减积分，扣减积分满12分的，解除其医疗保险处方权。此外，太原市还将对相关定点医疗机构处以基本医疗保险违规金额5倍的罚款，罚款金额共计4281万元，违规及罚款金额总计为5137.2万元。<br/><div class="contheight"></div>太原市人社局公开的处理意见显示，考虑到原新农合与城镇居民医保整合起始于2016年底，对原新农合2016年定点医疗机构考核是按照原新农合相关规定实施，本次考核相关原新农合定点医疗机构违规免于处罚，相关定点医疗机构应引以为戒，立即整改，避免类似违规情形发生。 <br/><div class="contheight"></div>（原题为《重罚4281万元！山西省肿瘤医院等16家医院违规收费被查！》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 罚款,违规收费</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766990">
+<div class="nbgbox">
+<a class="zan" contid="2766990" href="javascript:;" onclick="voteCont(this)" praisetimes="176">
+                           175</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 违规收费</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766990&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766990&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（97）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

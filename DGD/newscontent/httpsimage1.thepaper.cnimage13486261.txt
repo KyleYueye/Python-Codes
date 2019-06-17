@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">青岛至盐城铁路明日开通运营，日照、连云港、盐城首开动车</h1>
+<div class="news_about">
+<p>澎湃新闻记者 张家然</p>
+<p>
+							2018-12-25 13:46<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="365" src="http://image.thepaper.cn/www/image/13/486/255.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">2018年10月24日，CRH2A动车组在青盐铁路连云港至盐城段进行试运行。视觉中国 资料</span><br/><div class="contheight"></div>12月25日，澎湃新闻（www.thepaper.cn）记者从中国铁路济南局集团有限公司获悉，12月26日，青岛至盐城铁路（以下简称青盐铁路）开通运营，从山东青岛可乘高铁直达江苏盐城，结束沿线日照、连云港、盐城三地不通动车的历史。<br/><div class="contheight"></div>青盐铁路自青岛北站引出，经日照、连云港至盐城北站，线路全长428公里，全线设青岛北、红岛、洋河口、青岛西、董家口、两城、日照西、岚山西、赣榆北、赣榆、连云港、响水县、滨海港、阜宁东、射阳、盐城北16座办理客运业务的车站，运营时速200公里。<br/><div class="contheight"></div>青盐铁路开通初期安排开行动车组列车5对；2019年1月5日运行图调整后，将安排开行动车组列车日常线12对，在日常线基础上，根据客流需求，高峰线加开1对。北京、济南、青岛至盐城间时空距离大大压缩，最短只需6小时47分、3小时53分、3小时05分可达。<br/><div class="contheight"></div>青盐铁路是“八纵八横”高铁网中“八纵”之一沿海通道的重要组成部分，向北与济南至青岛高铁、青荣烟威城际铁路连接，向南将与在建的盐城至南通铁路、上海至南通铁路相通，对构建南北铁路运输通道、密切沿海城市间联系，具有重要作用。<br/><div class="contheight"></div>同时，这一铁路的建成通车，将沿线胶州湾、海龙湾、海洲湾和青岛港、黄岛港、董家口港、岚山港、日照港、连云港“三湾六港”连接成群，并与瓦塘至日照铁路、兖州至日照铁路、陇海铁路联通，为沿海港口疏港货物运输提供了有力运输保障。<br/><div class="contheight"></div>据悉，青岛董家口港区疏港铁路、山东济铁董家口物流园同步建成。青盐铁路运营初期，将安排开行董家口南至晏城、茌平、东风、聊城北、济西、莱钢（颜庄）、兖州北、菏泽南等方向货物列车30对。<br/><div class="contheight"></div>铁路部门提示，具体车次、时刻、售票等资讯信息可查询“中国铁路”微信和铁路12306网站、微信、客户端。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：钟煜豪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 青岛至盐城铁路，盐城首开动车</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772511">
+<div class="nbgbox">
+<a class="zan" contid="2772511" href="javascript:;" onclick="voteCont(this)" praisetimes="114">
+                           113</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 铁路建设</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772511&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772511&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

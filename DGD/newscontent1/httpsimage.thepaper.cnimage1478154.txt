@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">中国连续六年成为美国房产最大海外买家，中低价房产成新目标</h1>
+<div class="news_about">
+<p>澎湃新闻记者 刘栋</p>
+<p>
+							2019-01-09 19:16<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">美国房地产经纪人协会（National Association Of Realtor，NAR）的最新数据显示，在美国的海外购房者中，中国买家无论是在购买数量还是交易金额上，都已经连续六年独占鳌头。而现在，中国买家正在向一个新的领域拓展：中低价格的房产。<br/><div class="contheight"></div>据美国消费者新闻与商业频道（CNBC）1月9日报道，数据显示，越来越多的中国中产阶层买家正在寻找价格较低的房产，并更多地使用贷款购房。同时，购买的区域也从往常热门的加州和纽约等地逐步扩展到得克萨斯州、佐治亚州和佛罗里达州。<br/><div class="contheight"></div>“就今年而言，最大的不同点在于价格区间。往常，来美国买房的大多是中国富人，他们更倾向于用现金购买价值数百万的房产。而现在，更多的中国中产阶级开始在美国寻找中低端的房产，而且他们也更多地使用房屋贷款。”总部位于旧金山的房地产公司Alain Pinel的国际业务部负责人米奇·奥尔森（Michi Olson）说。<br/><div class="contheight"></div>刚刚在上海参加了一个国际房地产展的奥尔森表示，“中国民众把两国政治方面的波动和对房地产的投资分得很清楚。”<br/><div class="contheight"></div>NAR的统计数据显示，2018年，中国人在美买房的中间价从前一年的53万美元下降到43.9万美元。上述报道称，在以往并非购房热点地区，如得州、佛州等地也正迎来更多的中国买家。<br/><div class="contheight"></div>这一变化趋势也得到了中文海外房产平台居外网最新数据的印证。据其提供的数据，2018年，美国是中国买家对全球主要购房目的地中询盘数最多的国家，尤其在2018年第4季度，中国买家对美国询盘比去年同期增长8.2%。其中，亚特兰大的询盘量增长700%，首都华盛顿增长425%。平均询盘房价为30万美元。<br/><div class="contheight"></div>在居外网发布的2018年中国买家美国购房报告中，中国买家访问最多的一套房源是位于佛罗里达州奥兰多报价为21.4万美元、面积167平方米的房龄一年的独立屋。<br/><div class="contheight"></div>据CNBC报道，德州达拉斯-沃斯堡地区的房产经纪巴奈特表示，当地来自中国的需求正在稳步上升。她说，尽管在得州的绝大部分外国购房者仍然使用现金，但已经开始有人使用贷款。“通常来说，除非付50%以上的首付，否则外国人很难拿到贷款。不过现在，随着更多贷款方进入市场，贷款正在变得容易。”她说道。<br/><div class="contheight"></div>CNBC指出，这一新趋势背后的一个原因是，随着受雇于美国各地科技行业的中国籍雇员不断增多，他们在安顿下来后更偏好买房，而在国内的家人也会为买房支付首付。<br/><div class="contheight"></div>美国房地产经纪人协会的数据显示，中国买家（包括中国大陆、中国香港和中国台湾）在过去十年中在美购房的金额从2009年的41亿美元已上升到2018年的304亿美元，其中最近六年持续占据第一的位置。目前，中国的个人投资者已经超过加拿大，成为购买美国房产最多的外国买家，占外国人在美购房总额的15%。不过居外网预测，2019年中国买家在美国购房量将比去年有所降低。<br/><div class="contheight"></div>数据显示，52%的外国买家在美购房目的为自住。但对中国买家来说，最普遍的购房目的是为了子女的教育。69%的中国买家在美国买了独栋的房子，17%买了公寓，10%的人则买了联排别墅，另有1%的人买了土地自己造房。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：杨一帆<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中国买家,房地产,美国</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2832506">
+<div class="nbgbox">
+<a class="zan" contid="2832506" href="javascript:;" onclick="voteCont(this)" praisetimes="44">
+                           43</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中国海外投资</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2832506&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2832506&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

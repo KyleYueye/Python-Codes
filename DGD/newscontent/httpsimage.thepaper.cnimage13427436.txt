@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">国科大市校合作再落子：官方披露兰州学院筹建消息</h1>
+<div class="news_about">
+<p>澎湃新闻记者 岳怀让</p>
+<p>
+							2018-12-23 12:11<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="319" src="http://image.thepaper.cn/www/image/13/427/432.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">中国科学院大学</span><br/><div class="contheight"></div>继武汉、成都、福州、广州、宁波、南京、重庆、杭州、西安之后，官方媒体消息近日披露了中国科学院大学（以下简称“国科大”）市校合作的又一成果。<br/><div class="contheight"></div>据“兰州晨报”官方微信公众号消息，中国科学院兰州分院在兰院属各单位12月20日就筹建中国科学院大学兰州学院到榆中实地考察，并就选址、办学等相关事宜同兰州市、榆中县领导进行了座谈交流。<br/><div class="contheight"></div>榆中县委宣传部旗下微信公众号“榆中发布”21日也发布消息：兰州市委副书记赵爱、榆中县委书记王晓宁对中国科学院兰州分院在兰院属各单位筹建中国科学院大学兰州学院来榆中实地考察表示欢迎。<br/><div class="contheight"></div>兰州市、榆中县方面领导还通过现场查看和座谈交流介绍了榆中深厚的文化底蕴、优越的交通区位、宜居的生态环境和超前的规划发展，详细介绍了省、市着力在榆中打造兰州城市副中心、生态创新城和甘肃新的增长极的规划建设情况，诠释说明榆中后发优势越来越凸显，未来发展潜力巨大。<br/><div class="contheight"></div>上述官方消息透露了国科大兰州学院建设的最新消息。<br/><div class="contheight"></div>另外，“兰州晨报”官方微信公众号还披露，中科院兰州分院方面知情人士向兰州晨报记者透露，“这个项目能否最终落地实施，必须等中国科学院大学、兰州市政府、中科院兰州分院等有关方面正式签订协议后才能最终确定，目前所做的考察、选址等都是前期的一些基础性工作。”<br/><div class="contheight"></div>据澎湃新闻此前报道，近半年来国科大的市校合作战略已落子国内多个重要城市，有的甚至已公布计划招生时间。其中，国科大武汉学院、国科大成都学院、国科大福建学院、国科大广州学院、国科大宁波材料工程学院、国科大南京学院、国科大重庆学院、国科大西安学院的建设信息都已经官方媒体披露证实，国科大还将支持杭州市建设杭州高等研究院。<br/><div class="contheight"></div>中国科学院大学简称“国科大”，是教育部批准成立的一所以研究生教育为主的科教融合、独具特色的高等学校，前身是中国科学院研究生院，成立于1978年，是经党中央国务院批准创办的新中国第一所研究生院，培养了新中国第一个理学博士、第一个工学博士、第一个女博士、第一个双学位博士。经教育部批准，国科大从2014年起招收本科生，形成了覆盖本科、硕士、博士三个阶段的完整高等教育体系。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 国科大,兰州</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766060">
+<div class="nbgbox">
+<a class="zan" contid="2766060" href="javascript:;" onclick="voteCont(this)" praisetimes="30">
+                           29</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国科大</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766060&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766060&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">地方回复“十堰舰”“武当山舰”命名情况：已积极安排推动</h1>
+<div class="news_about">
+<p>澎湃新闻记者 岳怀让</p>
+<p>
+							2018-12-27 14:39<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">随着中国海军发展壮大，不少地方的民众都希望有一艘以家乡命名的军舰，有网民就通过网上问政的形式询问相关工作进展。<br/><div class="contheight"></div>澎湃新闻记者查询发现，在湖北十堰市政府网站“网上问政”栏目中，有网友12月9日晚间发文《建议民政部门迅速推进“十堰舰”命名工作》，截至26日晚间10点已收获2093次浏览。<br/><div class="contheight"></div>网友在文章中写道：“目前（湖北）全省城市中，武汉、宜昌、襄阳、黄冈、黄石、荆州、荆门、鄂州、咸宁、孝感等十座城市均已被命名为相关海军驱护舰艇，而十堰仍未获命名，这与十堰在全省的地位严重不符！”<br/><div class="contheight"></div>网友表示，“另一方面，海军近十几年来大发展大跨越，进步明显，军舰数量、质量均获得了长足的进步。郧阳地区历史悠久、底蕴深厚，十堰虽然年轻，但工业较发达、实力不俗。在这样的大背景下，理应积极积极响应国家号召，扎实推进双拥工作，积极推进‘十堰舰’命名工作。若能获命名，既是十堰三百五十万人民的莫大荣誉，也有利于十堰进一步提升知名度，推进旅游业等相关产业的发展进步。”<br/><div class="contheight"></div>这名提问的网友认为，“基于此，请各级领导务必引起足够重视，尽快向海军提交命名申请，切不可再行怠慢，十堰人民等不起。”<br/><div class="contheight"></div>12月13日，该网友的提问已经获得了十堰市民政局的回复。<br/><div class="contheight"></div>十堰市民政局方面在回复中介绍：2016年8月市旅游局为了推进十堰旅游发展知名度，向市委、市政府进行专题报告，市委、市政府于2016年9月向海军参谋部就命名“武当山舰”进行了专报申请。<br/><div class="contheight"></div>2017年1月4日政协十堰市第五届委员会第一次会议召开，政协委员张超同志提出了《关于争取命名十堰舰》的提案。十堰市民政局为落实张超委员的提案，又向中共十堰市委、市人民政府专题报告，市委、市政府、十堰军分区领导就此专门亲赴北京与中国人民解放军海军司令部相关领导会面，就申请“十堰舰”命名事宜进行了沟通协调。<br/><div class="contheight"></div>最后，十堰市民政局方面解释：“全国已有300多个地区申请军舰命名，根据各地申请的先后顺序和军舰命名的规则，最终决定权在海军司令部。我们将积极安排推动此事，但很难一蹴而就，还望您耐心等待。”<br/><div class="contheight"></div>澎湃新闻记者发现，在湖北当地网络论坛上早在2015年就有关于能否获得“十堰舰”命名的讨论。<br/><div class="contheight"></div>同为湖北省内地级市的咸宁市，今年早些时候已有一艘军舰被命名为“咸宁舰”。咸宁日报微信公众号此前透露，今年8月28日上午9时，海军某军港，中国海军一艘新型导弹护卫舰正式加入战斗序列。海军授予该舰舷号500，命名为“咸宁舰”，并举行授旗仪式。<br/><div class="contheight"></div>咸宁舰是我国海军最新型054A护型卫舰，配备各种先进武器装备，具有较强防空、反舰、反潜作战能力。该舰入列后，将成为展示我国海军良好形象的重要平台，成为捍卫国家主权和领土完整、维护国家海洋权益的重要力量。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 海军,舰艇</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2778711">
+<div class="nbgbox">
+<a class="zan" contid="2778711" href="javascript:;" onclick="voteCont(this)" praisetimes="15">
+                           14</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中国海军</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2778711&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2778711&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

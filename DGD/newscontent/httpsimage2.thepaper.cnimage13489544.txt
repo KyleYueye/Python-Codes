@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">上海元旦春节帮困送温暖预计覆盖90万人，计划支出逾6亿元</h1>
+<div class="news_about">
+<p>澎湃新闻记者 栾晓娜</p>
+<p>
+							2018-12-25 17:27<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月25日下午，上海市政府召开会议，对2019年元旦春节帮困送温暖活动进行部署。<br/><div class="contheight"></div>根据方案，2019年上海全市元旦春节帮困送温暖活动预计覆盖对象约90.62万人，计划支出资金逾6.23亿元。<br/><div class="contheight"></div>根据上海市委、市政府要求，2019年元旦春节期间帮困送温暖活动方案，由市民政局、市财政局会同市人社局、市教委、市总工会、团市委、市妇联、市残联、市红十字会、市慈善基金会、市老年基金会、市帮困互助基金会和市青少年发展基金会等多个部门和单位共同制定，帮扶对象包括：享受国家抚恤补助的重点优抚对象、城乡低保家庭、因病支出型贫困家庭、重残无业人员、特困供养人员、困难职工、困难学生、困难妇女、困难老年人、困难失业人员、困难残疾人、流浪乞讨人员以及御寒困难的对象等。<br/><div class="contheight"></div>2019年元旦春节帮困送温暖活动将依托“民政牵头，部门尽职、社会参与、街镇实施”的工作机制，坚持条块结合、以块为主的原则，市级各部门、各区、街镇统一部署，分级安排，上下衔接，明确对象范围、补助标准、资金来源和职责分工；坚持一口上下、街镇实施的原则，重点依托街镇社会救助机构，整合各类救助帮困的资源、信息，使帮困对象覆盖完整，帮困措施相互衔接，确保救助对象广覆盖、不遗漏、少重复；坚持政府救助和鼓励社会力量参与相结合的原则，通过各级政府的救助政策和社会各界的帮困措施，安排好节日期间困难群众和重点人群的基本生活。帮困资金将于2月上旬发放到位。<br/><div class="contheight"></div>当天的会议还强调，要深化落实“以人民为中心”的发展思想，坚持在发展中保障和改善民生，以满足困难群众对美好生活的向往为目标，以“听民意、惠民生、暖民心”为主题，走进基层社区、走到群众身边，倾听民意、了解需求、宣传政策、传递温暖，让困难群众度过一个欢乐、祥和的节日。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：高文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 帮困送温暖活动,2019年元旦春节</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772899">
+<div class="nbgbox">
+<a class="zan" contid="2772899" href="javascript:;" onclick="voteCont(this)" praisetimes="7">
+                           6</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 慈善事业</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772899&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772899&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

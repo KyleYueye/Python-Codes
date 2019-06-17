@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">普京给安倍的新年礼物？俄被曝计划在与日争端岛屿建防线</h1>
+<div class="news_about">
+<p>环球网</p>
+<p>
+							2018-12-31 12:06<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">日本共同社30日披露的一则消息，可能会让安倍在新年末尾惴惴不安。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="463" src="http://image.thepaper.cn/www/image/13/751/301.jpg" width="600"/></div>共同社报道称，其于30日获悉，俄罗斯军方有构想到2020年前在“千岛列岛和北方四岛”(俄称千岛群岛)加强反舰导弹，建设覆盖全域的防线。<br/><div class="contheight"></div>共同社称其获得了俄罗斯有关部门的内部文件。其内容证实了在守卫“成为对抗美国的核战力基地的”鄂霍次克海方面，战略上重视“北方四岛”。共同社称，如果该构想付诸实行，必将影响与日本的和平条约谈判。<br/><div class="contheight"></div>报道还称，俄罗斯有关部门消息人士说明称，该文件是今年夏天以来制定。虽然不清楚所记载的军备计划是否得到了总统普京的认可，但在“千岛列岛”增强军备等符合近期的俄媒报道。<br/><div class="contheight"></div>共同社还称，俄军警惕“以朝鲜威胁为由在周边提高存在感的美军”。其构筑防线旨在防范他国舰船接近潜有搭载核导弹的核潜艇的鄂霍次克海，保障包括俄罗斯司令部设在附近的太平洋舰队在内的自由航行。<br/><div class="contheight"></div>文件显示，俄罗斯将在6个岛屿和半岛部署新型岸基反舰导弹“Bastion”(译为梭堡或堡垒，射程300公里以上)和“Bal”(译为巴尔或舞会，射程130公里)。其中，择捉岛和国后岛2016年已引进导弹，开始了运用。<br/><div class="contheight"></div>具体来说部署对象分别是，勘察加为“Bal”和“Bastion”，萨哈林、幌筵岛、松轮岛和择捉岛为“Bastion”，国后岛为“Bal”。<br/><div class="contheight"></div>该内部文件这样说到，“(通过相关行动)将使(他国)船只不能横跨海峡、敌方部队不能登陆岛屿。通过2020年在千岛列岛的部署，沿着岛链的统一防卫系统将完成。”<br/><div class="contheight"></div>(原题为：《普京给安倍的新年礼物？俄被曝计划在与日争端岛屿建防线》)</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：廖婧雯<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 普京，安倍，北方四岛</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2799350">
+<div class="nbgbox">
+<a class="zan" contid="2799350" href="javascript:;" onclick="voteCont(this)" praisetimes="34">
+                           33</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日俄领土问题</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2799350&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2799350&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

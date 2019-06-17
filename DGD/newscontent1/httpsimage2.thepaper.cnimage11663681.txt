@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜拒执行判决当“老赖”，再光鲜的人设也会瞬间崩塌</h1>
+<div class="news_about">
+<p>澎湃特约评论员 李勤余</p>
+<p>
+							2018-10-26 18:45<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2562490" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">演员叶璇被发限制消费令，至今仍未履行义务</span></a></img></p></div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="555" src="http://image.thepaper.cn/www/image/11/663/715.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">叶璇  东方IC 资料图</span><br/><div class="contheight"></div>最近，演员叶璇成了关注焦点。只不过，不是因为作品，而是一桩不光彩的案件。 <br/><div class="contheight"></div>18日晚，有新浪微博用户称，叶璇在三年前对自己进行人身攻击，在法院判决叶璇侵权并删微博道歉后，叶璇不执行判决。法院于9月19日对其发出了限制消费令，并在微博上晒出了限制消费令。<br/><div class="contheight"></div>这一消息经媒体确认属实。法院方面表示，如叶璇依旧坚持逃避执行，将采取进一步的执行措施。 <br/><div class="contheight"></div>曾经，叶璇也算演过一些不错的影视作品，积攒了一定的观众缘。但这两年她在网上的一些言论，确实多有怪异之处，甚至展现出十足的攻击性。此番惹上官司，也源于口无遮拦的不当行为。 <br/><div class="contheight"></div>其实，外人无权干涉叶璇的感情与私人生活。她如何展现，都属个人自由，无可厚非。但是，叶璇对他人人身攻击事实清楚、证据确凿，已得到了法院方面的确认。至今拒绝执行判决，显然是一个错误的决定。 <br/><div class="contheight"></div>或许，叶璇并不认为自己做错了什么，更不愿向对方低头。或许，她指望以不闻不问蒙混过关。何况，人脉广泛、家财万贯的她，一时也不会被限制消费令难倒。但无论如何，将个人情绪凌驾在法律之上，不仅大错特错，也必将付出代价。 <br/><div class="contheight"></div>微博等社交媒体为娱乐明星与粉丝、网友互动提供了平台，但社交媒体毕竟不是纯粹的私人空间，网络也不是法外之地。什么该说，什么不该说，如何避免攻击他人，如何传递正确的三观，不仅是娱乐明星，也是所有网友都应该补上的一课。否则，叶璇的闹剧，只怕还会重演。 <br/><div class="contheight"></div>接下来，叶璇将作出怎样的回应，事关案件的最终走向，也关乎法律的尊严。法律面前人人平等，没有人能挑战法律的权威，明星也不例外；一个人必须为自己做过的事情负责，这是再简单不过的道理。希望叶璇也能早点明白。积极执行法院判决，深刻吸取教训，把精力放在影视作品的打磨中。也提醒某些粉丝，在法律与“爱豆”面前分清大是大非，知道自己该拥护什么、反对什么。 <br/><div class="contheight"></div>“每一个公民都有权利维护自己的合法权益，造谣诽谤者是诚信社会的公敌。”这是叶璇曾在微博上说过的话。如今，到了亲自兑现的时候了，不要让它变成一种讽刺。</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 叶璇</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2568528">
+<div class="nbgbox">
+<a class="zan" contid="2568528" href="javascript:;" onclick="voteCont(this)" praisetimes="174">
+                           173</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 叶璇</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2568528&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2568528&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

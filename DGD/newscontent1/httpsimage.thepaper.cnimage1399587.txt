@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">塞内加尔总统萨勒会见王毅：塞中关系充满活力，堪称典范</h1>
+<div class="news_about">
+<p>外交部网站</p>
+<p>
+							2019-01-07 09:41<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">当地时间2019年1月6日，塞内加尔总统萨勒在达喀尔总统府会见国务委员兼外交部长王毅。<br/><div class="contheight"></div>萨勒请王毅转达对习近平主席的诚挚问候和祝愿，对日前中国月球探测器成功着陆月球背面表示热烈祝贺，表示这一重大科技突破有力证明，中国在科技创新领域已经居于世界领先地位，非洲朋友对此感到由衷自豪和高兴，希望加强同中国在科技创新领域的合作。王毅表示，中国的成就也是发展中国家的成就。发展中国家有权利也有能力在科技创新领域实现快速发展。中国愿意在这方面与非洲朋友开展合作。<br/><div class="contheight"></div>萨勒表示，塞内加尔人民对习近平主席去年的访问记忆犹新。在习近平主席支持和引领下，塞中关系充满活力，务实有效，堪称典范。中国援建的高速公路和摔跤场已经成为塞中友谊的象征。塞方感谢中国对塞经济社会发展给予的支持和帮助，希望进一步深化塞中各领域合作。<br/><div class="contheight"></div>塞勒表示，中方成功主办中非合作论坛北京峰会，体现了发展非中关系的战略眼光。对于有人抹黑非中合作，非洲朋友心里清楚谁才是真正的朋友。长期以来，中方尊重非洲独立、主权和文化，真心支持非洲发展，在国际舞台坚持多边主义，维护发展中国家利益。中非双方是相互尊重、互利共赢、并肩前行的关系。塞方致力于深化与中国的全面战略伙伴关系，将在国际场合支持中国的正当立场。塞方愿与中方共同努力，推进落实中非合作论坛北京峰会成果。<br/><div class="contheight"></div>王毅向萨勒转达习近平主席的亲切问候。王毅表示，去年习近平主席对塞进行成功历史性访问，给中塞关系发展注入强劲动力。我新年伊始到访，愿同塞方认真落实习近平主席同你达成的重要共识，推进落实中非合作论坛北京峰会成果。中方赞赏塞方坚持一个中国原则。中塞两国政治互信牢固，为双方在各领域开展高质量合作夯实了坚实基础。塞方正在实施第二个“五年计划”，大力推进工业化，中方愿意在此进程中做塞持久可靠的合作伙伴。<br/><div class="contheight"></div>王毅表示，中非合作是南南合作，是发展中国家的互帮互助。中方将继续根据非方意愿和需要，在力所能及范围内支持非洲国家发展。作为中非合作论坛共同主席国，中塞双方要密切配合，积极对表，共同推进北京峰会成果落地，加快“一带一路”倡议和“八大行动”与非盟2063年议程和非洲各国发展规划对接，构建更加紧密的中非命运共同体。 <br/><div class="contheight"></div>（原题为《塞内加尔总统萨勒会见王毅》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 塞内加尔,中国,王毅,非洲</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2822990">
+<div class="nbgbox">
+<a class="zan" contid="2822990" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中非关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2822990&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2822990&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

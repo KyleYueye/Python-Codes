@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜“虎鎣”回家，文物追索只有进行时没有完成时</h1>
+<div class="news_about">
+<p>澎湃特约评论员 张丰</p>
+<p>
+							2018-12-11 19:08<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2727047" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">曾在英被拍卖的圆明园文物青铜“虎鎣”入藏中国国家博物馆</span></a></img></p></div>
+<div class="news_txt" data-size="standard">据报道，曾在英国被拍卖的圆明园文物青铜“虎鎣”近日重回祖国怀抱，于今日正式入藏中国国家博物馆。“虎鎣”为西周晚期文物，因其精美独特的造型、罕见的虎形装饰而具有重要的历史、艺术和文化价值。 <br/><div class="contheight"></div>在清代，“虎鎣”就是国宝级文物，是清宫皇室的收藏，1860年被英国军官哈利·埃文斯掠走，此后一直是这位军官家族的收藏。今年3月，国家文物局得知“虎鎣”将要被拍卖，动用多种手段，做了大量工作，境外“买家”最终把这件国宝级文物捐献给了中国。<br/><div class="contheight"></div>文物追索，只有进行时没有完成时，近年已有不少国宝级文物回归。据国家文物局的通报，目前已成功促成了30余批次近4000件套流失文物回归祖国，其中包括圆明园鼠首兔首、秦公晋侯青铜器、大堡子山金饰片等引起媒体广泛关注的重量级文物。<br/><div class="contheight"></div>对整个中国文化界来说，这都是值得欣慰的事情。如果说当初每一件文物的“流失”，都有一段屈辱历史的话，如今每一件文物回归的背后，也都有让人感动的故事。“文物回归潮”，标志着中国国力的逐渐强大和整个社会对文化的重视。这些文物的展出，在传递文化价值的同时，也会向观众讲述一段中国近现代史。<br/><div class="contheight"></div>眼下，各地正在兴起传统文化和博物馆热，故宫成为网红，央视的文物节目、纪录片，也很受欢迎。每逢节假日或重要展览，博物馆外都会排起长队。这是中国文化与文物的新时代，它不但关乎我们应该怎样看待自己过去的历史和文化，也关乎到我们怎样看待和理解当今的世界。<br/><div class="contheight"></div>“虎鎣”回家，提醒我们更加珍惜身边的文物。在中国历史上，被“外国列强”抢走的文物有很多，在继续加大追索力度的同时，也要更加注重保护好国内的存量文物，不能让老祖宗遗留下来的珍宝被破坏、流失。<br/><div class="contheight"></div>就在2015年，公安部指挥破获系列盗掘古文化遗址古墓葬案，抓获犯罪嫌疑人175名，追回涉案文物1168件。其中一级文物125件，二级文物86件，三级文物200件，一般文物757件，价值逾5亿元。此案是建国以来单案抓获犯罪嫌疑人数和追缴被盗文物数量最多的案件。令人震惊的案情背后，说明破坏、贩卖文物的现象依然猖獗。<br/><div class="contheight"></div>中国人开始珍惜自己的文物，这是巨大的进步。但在许多地方，对文物、古籍和历史建筑的保护还有待提升，甚至有的地方还在进行无知的破坏。趁着迎回“虎鎣”这一节点，我们也必须把既有的文物保护好、利用好，不要让文物流失的遗憾再发生。</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 虎鎣</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2728069">
+<div class="nbgbox">
+<a class="zan" contid="2728069" href="javascript:;" onclick="voteCont(this)" praisetimes="58">
+                           57</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 虎鎣</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2728069&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2728069&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

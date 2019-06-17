@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">人社部：推进技工院校学生创业创新工作，促进更高质量就业</h1>
+<div class="news_about">
+<p>人社部网站</p>
+<p>
+							2018-12-27 11:07<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="378" src="http://image.thepaper.cn/www/image/13/546/633.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">到2025年，要实现技工院校创业师资轮训一遍，在校学生接受创业教育或创业培训基本做到全覆盖。<br/><div class="contheight"></div></span>近日，人力资源社会保障部办公厅印发《关于推进技工院校学生创业创新工作的通知》(以下简称《通知》)，在全国技工院校大力推进学生创业创新工作，促进实现更高质量就业。<br/><div class="contheight"></div>《通知》指出，推进技工院校学生创业创新工作，一方面要充分发挥政府部门、行业企业和职业培训机构的职能作用，进一步改善技工院校的创业环境。另一方面要充分发挥技工院校的重要作用，着力提高技工院校学生的职业技能水平，促进学生运用所学的职业技能实现创业创新。《通知》明确，到2025年，要实现技工院校创业师资轮训一遍，在校学生接受创业教育或创业培训基本做到全覆盖，投身创业创新的学生有明显增加，技工院校毕业生创业成功率有明显提升。<br/><div class="contheight"></div>《通知》明确技工院校创业创新教育工作主要任务：普及创业创新教育，加强技工教育创业创新课程体系建设，将创业创新课程融入现行课程体系，开发技工院校创业创新课程教材，组织开展多种形式的创业创新主题活动，在校园营造创业创新良好氛围。加强创业培训，建立健全技工院校创业培训体系，依托技工院校等实体开展各类创业培训，鼓励技工院校引进或开发创业培训课程，加强创业培训师资配备，鼓励有条件的技工院校开设毕业学期创业培训实验班。优化创业服务，指导技工院校对接政府部门和相关社会服务机构，引导和鼓励成功创业者等担任兼职创业导师，支持技工院校建立创业项目库，支持发展一批众创空间等新型平台，支持在技工院校建设创业孵化基地，鼓励符合条件的技工院校创业孵化基地申报省级和全国创业孵化示范基地。加大政策扶持，积极拓展创业扶持政策的适用范围，指导推动技工院校帮助符合条件的自主创业毕业生申请享受各项创业扶持政策，支持技工院校引入风险投资等社会资本，为毕业生创业拓展融资渠道，技工院校高级工班及以上的创业学生，可参照享受高校毕业生就业创业政策，支持技工院校学生在校期间开展“试创业”实践活动。开展创业创新竞赛，广泛开展各类创业创新相关竞赛，规划开展不同层级的技工院校学生创业创新大赛，鼓励技工院校积极参与“中国创翼”创业创新大赛等各类创业创新比赛，鼓励有条件的技工院校开设创业训练营，各类创业大赛的获奖项目团队可优先得到创业政策扶持。<br/><div class="contheight"></div>《通知》强调，各级人力资源社会保障部门要切实加强组织领导，制定具体措施，明确责任分工，切实加大宣传工作力度，营造鼓励创新、崇尚创业、褒奖成功、宽容失败的良好社会氛围。各技工院校要落实推动学生创业创新工作的主体责任，确定分管校领导负责学生创业创新工作，制定本校学生创业创新工作方案，明确目标任务、工作分工和具体要求，切实抓好贯彻落实。<br/><div class="contheight"></div>（原题为：《人社部办公厅印发推进技工院校学生创业创新工作文件》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 人社部,创业创新,就业,技工院校</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2779454">
+<div class="nbgbox">
+<a class="zan" contid="2779454" href="javascript:;" onclick="voteCont(this)" praisetimes="5">
+                           4</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 创业创新</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2779454&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2779454&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜“靓号”不能成为侵害消费者权益的遮羞布</h1>
+<div class="news_about">
+<p>澎湃特约评论员 远山</p>
+<p>
+							2018-10-10 18:44<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2511156" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜“靓号”不能成为侵害消费者权益的遮羞布" src="//image2.thepaper.cn/image/11/155/463.jpg"/>
+</a>
+<div class="atlas_360_txt">用户使用多年的普通手机号突然成靓号，还被收“最低消费”<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">广东电信用户兰晓月数年前和家人一起办理了电话加宽带的家庭套餐，她使用套餐中的副卡。几个月前，家人想把主副卡都转到另一位家庭成员名下。没想到这次简单的过户，却让兰晓月的号码突然“靓号加身”，还有了最低消费限制。服务商给出的理由是其号码以8结尾，属于“靓号”。而有类似遭遇的消费者不在少数。（新华视点微信公众号，10月9日）<br/><div class="contheight"></div>部分用户对所谓“靓号”的追捧，原因有二：一是“8”之类号码在某些方言中，与“发（财）”谐音。用户为了图吉利而选择；二是此类号码相对好记，其功能性也就被人看重。用户为此多付出一些费用，其实也是在与其他用户的“竞争”中，为独占对应号码资源而买单。<br/><div class="contheight"></div>但兰晓月等人遇到的问题，是自己已经使用多年的普通号码，仅仅因为带了一个“8”或者其他被运营商界定为“靓号”的数字，就要面临所谓的最低消费。以往的报道中，当事人多是花钱购买“靓号”，他们则要承受最低消费限制无限期延长的后果。而这些代价，运营商当初并未明确告知。<br/><div class="contheight"></div>“靓号”似乎正成为侵犯消费者权益的“凶号”，这背后是运营商通过各种方式榨取“靓号”的市场价值，甚至利用信息不对称、以及对用户心理的诱导，让“靓号”异化为侵害消费者权益的遮羞布。<br/><div class="contheight"></div>2003年公布的《电信网码号资源管理办法》明确指出，电信业务经营者取得码号使用权后，未经电信主管部门批准，不得擅自拍卖用户号码资源，不得向用户收取选号费或占用费。 这就说明，运营商对“靓号”收费，其实并不符合法律正当性，是潜规则。而目前最大的问题是，运营商不仅对“靓号”收费，而且捆绑各种明里暗里的收费项目，这自然令消费者无法容忍。 <br/><div class="contheight"></div>更要警惕的是，运营商有“靓号”扩大化趋势，比如报道中某用户号码中带“55”也被归为“靓号”。在国家再三要求各大运营商降费提速的大背景下，此举形成了强烈的反差，不能不让人怀疑，运营商正在想方设法弥补自己的损失，通过强行划定“靓号”及最低消费，对国家相关改革精神进行“软抵制”。<br/><div class="contheight"></div>同时，这也是对作为市场基础的契约精神的破坏。运营商与消费者签订的任何契约，都应确保公开、透明，尤其是事关消费者切身权益的重要条款，更应显著标明并详加解释，而不是构建信息壁垒、玩文字游戏。如果要新增条款，也应事先征得消费者同意，绝不能单方面制定并推行。 <br/><div class="contheight"></div>各大运营商几乎每年都要推出客户满意度的问卷调查，但如果运营商总是在“靓号”之类的服务上，让客户感觉自己知情权和选择权无从得以保证，那么如何能让大家在答卷上填写好评？而几大运营商并不像那些竞争更为充分领域的服务提供者，一旦遇到客户差评就可能会面临用户大量流失、产品下架乃至被淘汰出市场的风险，面对用户投诉总是相当淡定，迟迟不自我整改，这恰恰是最令人忧心之处。 <br/><div class="contheight"></div>也因此，对于运营商的“靓号”最低消费怪状，消费者缺乏对应的博弈能力，更需要有关部门加强监管，对于运营商涉及侵犯消费者利益的条款内容加以审查，确有违法的地方要尽快叫停，如此才能确保“靓号”真正靓起来。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 靓号</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2515882">
+<div class="nbgbox">
+<a class="zan" contid="2515882" href="javascript:;" onclick="voteCont(this)" praisetimes="69">
+                           68</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 手机靓号</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2515882&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2515882&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">贵州理工“抢人”放大招：引进百名博士，每人最少获50万元</h1>
+<div class="news_about">
+<p>裴江文/中国青年报　</p>
+<p>
+							2019-01-09 10:00<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/14/67/324.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">贵州理工学院 资料图<br/><div class="contheight"></div></span>2019年，贵州理工学院将引进100名博士研究生，每名博士最少可以获得50万元安家费。此次主要引进大数据科学与技术、计算机应用技术、交通运输规划与管理、建筑学、机械电子工程、电力系统及其自动化化工过程机械、水利水电工程等学科的高层次人才。其中，计算机软件与理论、航空宇航制造工程、交通信息及控制等专业的应届博士选择到贵州理工学院就业，可获得70万元安家费。<br/><div class="contheight"></div>为了解决引进人才的后顾之忧，贵州理工学院还出台了相关办法为博士配偶解决工作。博士配偶为双证硕士，学校给予安排编制内工作。不满足安置条件的，需要临时周转的，可根据学校实际需要，对高层次人才配偶给予2年的过渡期，以劳务派遣或临聘形式安置在学校相应岗位上工作。<br/><div class="contheight"></div>除此之外，为进一步激励引进人才积极参与科技工作，学校设立了科研启动费基金池。引进的高层次人才除可以得到基本科研启动费外，还可以通过项目获得基金池中的资金资助。<br/><div class="contheight"></div>与此同时，贵州理工学院十分注重团队负责人的引进。团队负责人除享受安家费和科研启动经费外，还可根据工作需要和经费情况，自行聘用学术秘书和科研助手，学校另给予人才引进指标，3年内可自行引进相关学科的博士并组建科研团队。<br/><div class="contheight"></div>（原题为：《贵州理工“抢人”放大招 每名博士最少可获50万元安家费》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 博士,贵州理工,安家费,“抢人”</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831004">
+<div class="nbgbox">
+<a class="zan" contid="2831004" href="javascript:;" onclick="voteCont(this)" praisetimes="78">
+                           77</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 抢人才</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831004&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831004&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

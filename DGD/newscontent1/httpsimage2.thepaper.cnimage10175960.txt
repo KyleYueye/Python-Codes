@@ -1,0 +1,86 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜又现“机舱赤脚抖脚男”，不能老是拿奇葩没办法 </h1>
+<div class="news_about">
+<p>澎湃特约评论员 李勤余</p>
+<p>
+							2018-09-05 17:20<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<script src="//file.thepaper.cn/www/v3/js/jwplayer7.1.4.js" type="text/javascript"></script>
+<script type="text/javascript">jwplayer.key="JYFbHxc36sStM1VSc1vvyI42CCrHFlTZcWEYUA==";</script>
+<div class="news_video_name">
+<style type="text/css">
+							#player_wrapper{width:669px;height:377px;}
+							#player_wrapper .player_err_tip{width:669px;height:377px;display: none;vertical-align: middle;background-color: black;color: white; text-align: center;}
+							.jw-tab-focus:focus{outline:none;}
+						</style>
+<div id="player_wrapper">
+<div class="player_err_tip" id="Text">抱歉!<br/>您的浏览器可能不支持此视频播放器，请用更高版本的浏览器试试！</div>
+</div>乘客“机舱抖脚气味扑鼻”，空少劝说未果。 视频来源：相关人士提供(01:32)
+					</div>
+<div class="news_txt" data-size="standard">高铁霸座男刚走，机舱抖脚男又来了。还是原来的配方，还是熟悉的味道。 <br/><div class="contheight"></div>视频显示，9月1日，昆明一飞往北京的航班舱内，一名乘客脱掉鞋子，悠然抖脚。有消息称，空少曾对男子反复劝说，但后者每次都当面答应，转背继续，让同机乘客深受困扰。 <br/><div class="contheight"></div>最热的一条网友评论是：太没有素质了。这大概是所有人的心声。不过，对于抖脚男，也许和霸座男一样，对于汹涌的评论不以为意，甚至洋洋自得呢。 <br/><div class="contheight"></div>在一个多元化社会里，指望个体素质整齐划一，确是不切合实际的幻想。问题不在于碰上了奇葩，而在于拿奇葩毫无办法；不在于奇葩占了便宜，而在于奇葩总能占到便宜。<br/><div class="contheight"></div>飞机机舱和高铁车厢，都是公共空间。其秩序，需要所有乘客共同维护。人们制定各项规则，就是为了让秩序得到遵守，让公共利益最大化。这个道理谁都懂。但是，如果践踏规则也没事呢？霸座男、抖脚男的相继登场，让无辜丢了座位、闻了臭味的人们，乃至多数遵守规则的人情何以堪？ <br/><div class="contheight"></div>公共秩序遭到破坏，总得有人来主持公道。机舱内空少的礼貌劝说，也只能让人联想起黄飞鸿电影中的“以德服人”。和抖脚男们谈素质、谈道德，多少有点黑色幽默的味道。文明社会的建设，离不开公众整体素质的提升，但谁该为沦为摆设的规则负责？ <br/><div class="contheight"></div>对于抖脚男，东航方面称不予置评。听闻此消息，抖脚男会不会在心中窃喜？践踏规则，无人阻拦，事后要是还无需被追责，这可实在是一桩稳赢不赔的买卖。<br/><div class="contheight"></div>该拿他怎么办？有网友评论：“暴光正面照，航班信息，座位号。”另一位网友立马规劝：“他无德不违法，你人肉，泄露信息可是百分百违法。”此话百分百在理，无论如何，我们都不应该提倡以恶制恶的人肉搜索和网络暴力。可普通人心里的不平又该如何消解？这种人就只能听之任之吗？</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = 'http://cloudvideo.thepaper.cn/video/73601704aaac4f9fa32a3fa62bcd400f/hd/645f0400-8231-40bb-afbb-b006668a9136-b6cfb563-34df-673b-1918-d67e1032cf9b.mp4',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'//image1.thepaper.cn/image/10/175/59.jpg',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 机舱抖脚男</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2410969">
+<div class="nbgbox">
+<a class="zan" contid="2410969" href="javascript:;" onclick="voteCont(this)" praisetimes="257">
+                           256</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 机舱内抖臭脚</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2410969&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2410969&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（147）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

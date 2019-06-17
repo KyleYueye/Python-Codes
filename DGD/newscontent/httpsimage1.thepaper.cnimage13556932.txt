@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">截至今年11月底上海地方国资资产总额达到19.08万亿元</h1>
+<div class="news_about">
+<p>澎湃新闻记者 戴高城</p>
+<p>
+							2018-12-27 17:12<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">上海市国资委党委副书记肖文高12月27日在上海举行的第九届上海国资高峰论坛上介绍了上海国资系统在2018年取得的成绩。<br/><div class="contheight"></div>肖文高表示，党的十八大开启了新一轮的上海国资国企改革，上海率先出台了上海国资国企二十条，取得了一系列新的成效。<br/><div class="contheight"></div>2018年，上海国有经济发展质量、效益有效提升，充分地体现了稳中求进总基调的要求。1到11月份，本市地方国有企业实现营业收入3.05万亿元，利润总额2956亿元。到2018年11月底，上海的地方国资的资产总额达到了19.08万亿元。<br/><div class="contheight"></div>肖文高称，2018年上海国企改革的系统性和协同性更加突出，在国务院国企改革办的细心指导下研究制定了区域性国资国企改革综合实验的方案，发挥综合改革继承、联动、辐射效应，电气环保等七家企业开展双百企业的综合改革，打造一批治理结构完善、经营机制灵活的改革尖兵。以公众公司为导向的混合所有制改革有序推进，上海电气实现了整体上市。<br/><div class="contheight"></div>肖文高还称，2018年上海国企创新的内在动力活力有效激发，我们出台了本市国有企业全力打响上海“四大品牌”的实施方案，一批企业开展市管企业职业经理人的薪酬制度改革，混合所有制企业员工持股，国有创投企业市场化运作等试点。我们推进实施张江国家自主创新示范区企业股权和分红权的激励办法，加大了二三级股权激励的力度，45家企业探索长效的激励机制。<br/><div class="contheight"></div>肖文高还表示，2018年上海国资监管的效能和水平不断提升，我们制发了监管企业投资监督的管理办法，私募基金的监管意见，加强国资监管，守护不发生系统性和区域性风险的底线。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王杰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780270">
+<div class="nbgbox">
+<a class="zan" contid="2780270" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 上海国资</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780270&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780270&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">湖南新规：禁止利用领导干部职权上的影响“提篮子”谋取私利</h1>
+<div class="news_about">
+<p>“湘伴”微信公号</p>
+<p>
+							2018-09-10 21:55<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">打着领导的牌子，抱上权力的“大腿”，利用权力为自己和他人站台，从中谋取私利，湖南坊间称之为“提篮子”。近日，（湖南）省委、省政府出台禁令，剑指利用领导干部职权或者职务上的影响“提篮子”谋取私利的行为，这是坚决落实中央巡视整改要求，推进全面从严治党，进一步规范权力运行、构建亲清新型政商关系、净化政治生态的重要举措。<br/><div class="contheight"></div>湘伴君注意到，禁令从行为主体、主要领域、主要方式、行为特征等方面，对“提篮子”进行了明确界定，从公共资源交易、国有资产经营管理等六个方面开列禁止“提篮子”的负面清单；同时，明确禁止任何人以任何形式利用领导干部职权或者职务上的影响实施“提篮子”行为，明确了责任追究等措施，强调各级党组织要履行主体责任，加强对领导干部的教育、管理和监督。<br/><div class="contheight"></div>近日，省委办公厅、省政府办公厅印发《关于禁止利用领导干部职权或者职务上的影响“提篮子”谋取私利的规定》（以下简称《规定》），这是推进全面从严治党的重要措施，是落实巡视整改要求的具体行动。<br/><div class="contheight"></div>今年7月，中央第八巡视组在向我省反馈巡视意见时指出，一些地方利用领导干部职权或职务上的影响插手工程项目，“提篮子”谋取私利问题突出。省委、省政府对此高度重视，将整治“提篮子”现象列为巡视整改的重要内容，制定出台专门针对“提篮子”的禁止性规定。<br/><div class="contheight"></div>《规定》所称“提篮子”，是指利用领导干部的职权或者职务上的影响，在公共资源交易、房地产开发、行政审批(许可)、国有资产经营管理、金融、财政项目资金分配等领域，充当中介，以居中斡旋、提供帮助、与他人(个人或者单位)合作等方式，为他人获取利益、谋求私利的行为。<br/><div class="contheight"></div>《规定》从行为主体、主要领域、主要方式、行为特征等方面，对“提篮子”进行了明确界定，从公共资源交易、国有资产经营管理等六个方面开列禁止“提篮子”的负面清单。<br/><div class="contheight"></div>《规定》明确禁止任何人以任何形式利用领导干部职权或者职务上的影响实施“提篮子”行为。相关单位或者人员发现以领导干部名义“提篮子”的，按照“不信、不见、不理、不办”原则处理并报告。纪检监察机关、组织部门、司法机关及其他相关职能部门发现或者接到检举、控告“提篮子”的，要按照职责和权限及时调查处理，涉嫌违法犯罪的，移送有关机关处理。<br/><div class="contheight"></div>《规定》严格要求领导干部不得以指定、授意、暗示、批条子、打招呼、请托说情、提出倾向性处理意见等方式，为他人“提篮子”提供便利、帮助，也不得纵容或者默许他人“提篮子”；领导干部之间不得为“提篮子”提供便利、帮助。发现亲属、身边工作人员和其他特定关系人“提篮子”，或者他人以本人名义“提篮子”，应当立即制止并报告，未制止、未报告的，从严处理。<br/><div class="contheight"></div>《规定》明确了责任追究等措施，强调各级党组织要履行主体责任，加强对领导干部的教育、管理和监督。对执行不力，导致“提篮子”现象在本地区、本单位频发多发，群众反映强烈的，追究有关组织和领导干部的责任。相关单位或者人员主动给领导干部亲属、身边工作人员和其他特定关系人“提篮子”创造条件、提供机会的，从严处理。 <br/><div class="contheight"></div>（原题为《湖南发布禁令|斩断“提篮子”的“黑手”》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：马世鹏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 湖南 禁令 提篮子 领导干部</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2427259">
+<div class="nbgbox">
+<a class="zan" contid="2427259" href="javascript:;" onclick="voteCont(this)" praisetimes="26">
+                           25</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 湖南反腐</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2427259&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2427259&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

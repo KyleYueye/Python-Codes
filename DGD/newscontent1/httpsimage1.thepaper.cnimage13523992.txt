@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">叙利亚：以色列22枚导弹空袭叙军火库等目标，大部分被击落</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-26 17:24<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">叙利亚国家电视台25日报道说，以色列当晚对叙利亚发动导弹袭击，造成一处弹药库受损，3名士兵受伤。<br/><div class="contheight"></div>报道援引叙军方消息人士的话说，以色列战机25日晚从黎巴嫩领空向叙利亚持续发动导弹袭击，叙防空系统在首都大马士革以西地区上空拦截并击落了其中大部分导弹。袭击中，叙境内一处弹药库受损，3名士兵受伤。<br/><div class="contheight"></div>卡塔尔半岛电视台26日援引黎巴嫩国家通讯社报道称，当天早些时候以色列战机在黎巴嫩南部低空飞行。在空袭开始后约一小时，叙利亚首都大马士革居民仍然能够听到防空部队向空中开火的声音。<br/><div class="contheight"></div>叙利亚国家媒体报道，这次空袭以军发射了22枚导弹。以色列军方推特称：“为应对从叙利亚发射的对空导弹，以色列启动防空系统。”<br/><div class="contheight"></div>以色列《耶路撒冷邮报》26日援引叙利亚媒体报道称，遭到以色列空袭的叙利亚目标包括：大马士革郊区亲伊朗的军事组织基地、叙利亚防空设施以及叙军第68旅和137旅位于大马士革的总部、叙军第4师以及叙军第10军在大马士革的总部。<br/><div class="contheight"></div>以色列Nziv新闻社报道，以色列国防军还摧毁了大马士革一个存放伊朗Fajr-5导弹的军火库，以色列认为这一军火库威胁加利利地区的安全。<br/><div class="contheight"></div>Nziv另一则报道称，黎巴嫩真主党的一个高级成员代表团也在以色列的这次行动中遭到袭击，真主党的一些高级官员在空袭中受伤。<br/><div class="contheight"></div>美国国防部一名与以色列军方高层有接触并了解局势的官员说，这些真主党官员是刺杀对象。据这名官员称，以色列的空袭是在这些真主党成员登上前往伊朗的飞机后几分钟进行的。<br/><div class="contheight"></div>以色列视黎巴嫩真主党为重大安全威胁，并指责伊朗通过叙利亚陆地走廊向黎巴嫩真主党输送武器。以色列曾多次以打击该组织为由，对叙境内目标实施空袭。<br/><div class="contheight"></div>美国《华盛顿邮报》25日报道指出，这是美国总统特朗普上周宣布从叙利亚撤军以来，以色列首次发动对叙利亚的军事打击。在特朗普宣布撤军后，以色列总理内塔尼亚胡曾表示，以色列将继续采取行动对抗伊朗扩大在叙利亚军事存在的努力，必要时将扩大在叙利亚的行动。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：辛恩波<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 以色列,叙利亚,空袭</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776882">
+<div class="nbgbox">
+<a class="zan" contid="2776882" href="javascript:;" onclick="voteCont(this)" praisetimes="21">
+                           20</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 叙利亚</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776882&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776882&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

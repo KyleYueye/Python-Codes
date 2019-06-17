@@ -1,0 +1,92 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25427">澎湃人物</a>
+</div>
+<h1 class="news_title">uber上海总经理做客问吧，聊聊uber上海的成长烦恼</h1>
+<div class="news_about">
+<p>澎湃新闻讯</p>
+<p>
+							2015-07-05 16:04<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align: center;"><img alt="" height="899" src="http://image.thepaper.cn/www/image/4/443/676.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">Uber上海公司总经理王晓峰。 高征 澎湃资料</span><br/><div class="contheight"></div>Uber是一家总部位于美国的风险投资的创业公司和交通网络公司，以移动应用程序链接乘客和司机，提供租车及实时共乘的服务。从2009年诞生至今，该公司已经在全球200多个城市遍地开花，其估值更是在最近的半年间从170亿美元飙升到了400亿美元。并在中国已经进入北京、上海、广州，深圳等九个城市。<br/><div class="contheight"></div>然而，从Uber风潮流行开始起，这一手机应用和它所属的公司就一直受到法规争议的困扰。它一边受到了越来越多的大众欢迎，另一边却因非法运营遭到多个国家和城市的禁止，其中包括美国的拉斯维加斯、波特兰、荷兰，法国和泰国等。中国部分城市也在近期加大了打击“非法”出租车的举动，将矛头指向了滴滴打车、Uber等应用软件。而最新消息，据路透社报道，Uber法国CEO希博德·辛法尔(Thibaud Simphal)7月3日在接受法国《世界报》采访时宣布，Uber将于法国当地时间周五晚上8点暂停低价打车服务UberPop。Uber宣布这一决定正值该公司刚刚经历了艰难的一周。<br/><div class="contheight"></div>众所周知，Uber自成立以来在世界各地都扮演着“坏孩子”的角色，遭遇各地出租车司机游行示威不说，不断涌现的政府禁令也令其尝尽了“成长的烦恼”。今天（7月5日)Uber上海公司总经理做客澎湃问吧,和澎友聊一聊Uber在上海的“成长烦恼”。点击新闻下链接：“[话题]我是Uber上海总经理王晓峰,关于Uber和共享经济的话题,问我吧!”， 进入问吧提问吧。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_asktopic">
+<div class="news_askuser" onclick="window.open('asktopic_detail_10000448');"><span class="verticalAlign_topic"></span>
+<div class="news_askuser_bd">
+<div class="news_askuser_sort">商界</div>
+<div class="news_askuser_profile">我曾担任Uber上海总经理,关于Uber和共享经济的话题,问我吧!</div>
+</div> <div class="news_askuser_trbs"><span class="trbs">
+<div class="userleft_hdimg">
+<img src="//image.thepaper.cn/publish/interaction/image/0/351/950.jpg"/><div class="hdimg_bg30"><img src="//file.thepaper.cn/www/v3/img/headerimg_ctbg30.png"/><span></span></div>
+</div>
+<a class="u_sname">王晓峰</a>
+<span>2015-07-05</span>
+<span class="trbs_zan" id="10000448" times="89">89</span>
+<span>已关闭提问</span>
+</span></div>
+</div>
+</div>
+<!-- 审稿人字段 -->
+<!-- 空格分隔后的作者列表-->
+<div class="news_editor">责任编辑：邢潭<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; uber,澎湃问吧</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="1348643">
+<div class="nbgbox">
+<a class="zan" contid="1348643" href="javascript:;" onclick="voteCont(this)" praisetimes="19">
+                           18</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 问吧</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=1348643&caid=25427",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=1348643&amp;caid=25427" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

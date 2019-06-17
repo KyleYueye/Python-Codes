@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">马克龙承诺将提高最低工资对“黄背心”让步，但坚持继续改革</h1>
+<div class="news_about">
+<p>澎湃新闻记者 汪伦宇</p>
+<p>
+							2018-12-11 08:02<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="346" src="http://image.thepaper.cn/www/image/13/76/596.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">当地时间2018年12月10日，巴黎爱丽舍宫，法国TFI电视频道播放了法国总统马克龙向全国发表的电视讲话。视觉中国 图<br/><div class="contheight"></div></span>法国总统马克龙于当地时间12月10日晚8点发表电视讲话，对“黄背心”运动作出了一些让步，其中包括提高最低工资、减少退休者税负等措施。<br/><div class="contheight"></div>据路透社11日报道，马克龙在两周的街头运动后终于决定对全体法国公民发表电视讲话。电视直播显示，他在首先谴责了“黄背心”运动中夹杂的暴力行为后，承认运动源起于民众对现状的愤怒，而且认为这种愤怒是“正当的”。<br/><div class="contheight"></div>马克龙随后提出了几项让步措施，希望能以此来给局势降温。<br/><div class="contheight"></div>第一项让步关于法国最低工资标准（SMIC）。马克龙宣布，自2019年起，将把每月最低工资标准上调100欧元，且政府将确保这100欧元的增加将不会给企业主带来额外负担。目前的税前每月最低工资为1498.47欧元，<br/><div class="contheight"></div>第二项措施则是免除对加班所获收入的一切税收。<br/><div class="contheight"></div>第三项让步措施为不再对月收入低于2000欧元的退休人员提升社会普摊税（contribution sociale généralisée）的税率。在马克龙此前的养老金制度改革中，他曾计划提高该税种的税率。<br/><div class="contheight"></div>除了上述几项主要让步措施，马克龙还呼吁企业主向员工发放年终奖金。这些措施旨在平息“黄背心”示威者关于生活水平和购买力下降的不满。<br/><div class="contheight"></div>不过，马克龙同时也强调，他将会继续推进他的改革，并且不会重新设立“巨富税”（ISF，Impôt de solidarité sur la fortune）。不少“黄背心”运动的参加者则把恢复“巨富税”作为主要诉求之一。<br/><div class="contheight"></div>“我们将运用强有力的手段来应对经济和社会方面的紧急情势，比如更迅速地减轻税负，控制公共开支。但是（政策）不会有180度转弯。”马克龙在讲话中表示。<br/><div class="contheight"></div>不过，一些法国媒体也分析称，这些措施的实际效用有限。《费加罗报》称，马克龙承诺的100欧元增长，实际上拿到手的只有80欧元，剩下20欧元将被存入社保金中。这项措施也并无新意，据爱丽舍宫此前透露，马克龙原本就计划在他的五年任期末尾提升最低工资标准。<br/><div class="contheight"></div>极左反对党“不屈的法国”（La France Insoumise）领袖梅朗雄在马克龙发言后立即作出了评论，称他的让步完全没有达到民众的预期，且他本人支持这周六“黄背心”运动进一步的示威活动。<br/><div class="contheight"></div>“马克龙就算现在辞职了也解决不了问题。他要是下台，我们面临的替代选择不是极左就是极右。”来自法国南特的一名年轻的小型企业业主对澎湃新闻（www.thepaper.cn）表示，“对他来说，同时满足‘黄背心’和自己的选民基本盘的诉求是一件‘不可能完成的任务’。”<br/><div class="contheight"></div>法国计划从2019年1月1日起提升燃油税，汽油价格将上涨，这使得被激怒的法国民众自11月17日起开始在全国各地举行被称为“黄背心”的抗议活动。降低汽油价格是“黄背心”的主要诉求。抗议活动同时伴随着示威者与警察的冲突、店家遭到洗劫和破坏、汽车被纵火等等。抗议期间已有4人死亡，数百人受伤，上千人被捕。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王靓<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; “黄背心” 法国内政</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2725990">
+<div class="nbgbox">
+<a class="zan" contid="2725990" href="javascript:;" onclick="voteCont(this)" praisetimes="154">
+                           153</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 黄背心</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2725990&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2725990&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

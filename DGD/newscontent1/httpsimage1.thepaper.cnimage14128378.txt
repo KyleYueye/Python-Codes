@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25438">财经上下游</a>
+</div>
+<h1 class="news_title">天津滨海：GDP增速未达预期，要切实打开脑袋上的“津门”</h1>
+<div class="news_about">
+<p>澎湃新闻记者 韩声江</p>
+<p>
+							2019-01-10 20:34<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月7日，在天津市滨海新区第三届人民代表大会第五次会议上，滨海新区区长杨茂荣作《政府工作报告》称，滨海新区2018年地区生产总值、固定资产投资、一般公共预算收入等部分指标增速没有达到预期。<br/><div class="contheight"></div>据当地《滨海时报》1月8日所刊登的杨茂荣所作《政府工作报告》摘要，并未披露滨海新区2018年GDP的详细数据。<br/><div class="contheight"></div>杨茂荣表示，滨海新区清醒地认识到，政府工作还有差距：思想解放程度不够，敢破敢立、先行先试的魄力不足，破解制约高质量发展瓶颈问题招法不多；对经济转型阵痛期的困难分析研究不透，新动能尚未形成有力支撑；行政管理体制和运行机制不够顺畅，少数干部担当作为意识不强，营商环境需要进一步改善。<br/><div class="contheight"></div>杨茂荣还表示，2019年，滨海新区肩负率先实现动能转换、引领高质量发展的重大使命，面临一系列新问题新挑战。必须正确看待外部条件变化，增强忧患意识，保持战略定力。要切实打开脑袋上的“津门”，以刀刃向内、刮骨疗毒的勇气深化改革，以爬坡过坎、滚石上山的韧劲全力攻坚，争当高质量发展排头兵。<br/><div class="contheight"></div>2017年5月，天津市委书记李鸿忠在中国共产党天津市第十一次代表大会上作报告指出，天津必须以解放思想为先导，打开脑袋上的“津门”，让改革新风吹进来，敢于站队首、立潮头，勇当改革开放创新的先锋。<br/><div class="contheight"></div>2018年，滨海新区着力推动产业优化升级，新动能加快集聚，新产业加快集聚。一汽大众华北生产基地、丰田新一线、杰士电池等200个重点项目竣工投产，预计新增产值超过1000亿元。空客累计交付A320飞机404架、A330飞机14架，彩虹无人机实现量产，银河麒麟操作系统助力北斗导航卫星发射升空，航空航天装备产业链日趋完整。<br/><div class="contheight"></div>杨茂荣表示，2019年滨海新区要高效承接非首都功能疏解。深入落实京津两市合作协议，加快滨海-中关村科技园创新创业生态系统建设。加强津冀港口群合作，支持天津港设立服务雄安专用窗口，开辟雄安至天津港的专用货运通道。<br/><div class="contheight"></div>天津市市委常委、滨海新区区委书记张玉卓在参加分团审议时指出，滨海新区发展不平衡的问题依然客观存在，要正视矛盾问题，抓好区域统筹发展，用好用足新区北部区域的条件优势，突出与中新天津生态城的联动发展，坚持绿色发展理念，积极导入无污染的产业项目，大力发展特色农业、现代农业、品牌农业，不断完善区域基础设施，加强生态环境建设，推动公共服务均等化，持续增加群众收入，让群众生活一年比一年好，不断提升人民群众的获得感和幸福感。<br/><div class="contheight"></div>2018年，滨海新区曾经历GDP挤水分，将2016年的地区生产总值由10002.31亿调整为6654亿。《滨海时报》曾刊发评论员文章称，滨海新区要彻底甩掉单纯追求GDP规模和增速的包袱，从“速度情结”“换挡焦虑”中摆脱出来，从落后的发展理念中摆脱出来，从粗放的发展方式中摆脱出来，下决心推动高质量发展。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李跃群<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837707">
+<div class="nbgbox">
+<a class="zan" contid="2837707" href="javascript:;" onclick="voteCont(this)" praisetimes="125">
+                           124</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 滨海新区</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837707&caid=25438",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837707&amp;caid=25438" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

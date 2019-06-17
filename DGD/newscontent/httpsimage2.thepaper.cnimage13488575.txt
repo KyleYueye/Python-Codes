@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25435">金改实验室</a>
+</div>
+<h1 class="news_title">国开行：继续加大对集成电路产业和5G商用的支持</h1>
+<div class="news_about">
+<p>国家开发银行网站</p>
+<p>
+							2018-12-25 15:21<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月24日，国家开发银行党委召开会议，传达学习中央经济工作会议精神。国开行党委书记、董事长赵欢主持会议并传达了习近平总书记重要讲话精神，党委副书记、行长郑之杰传达了李克强总理重要讲话精神。党委委员、副行长周清玉、张旭光、蔡东，党委委员、纪委书记王云桂，党委委员、副行长马欣、刘金出席会议。<br/><div class="contheight"></div>赵欢表示，习近平总书记的重要讲话，全面总结了一年来的经济成就和做好新形势下经济工作的规律性认识，科学阐明了如何正确认识我国发展的重要战略机遇期，明确提出明年经济工作的总体要求、预期目标、政策取向、工作方针和重点任务，讲话高屋建瓴、总揽全局，思想深邃、视野开阔，通篇贯穿辩证唯物主义和历史唯物主义观点、方法。李克强总理在讲话中深入分析了我国经济发展面临的问题和困难，对贯彻党中央重大决策、做好明年经济工作作出具体部署，指导性、针对性、操作性都很强。国开行要进一步提高政治站位，把思想和行动统一到习近平总书记重要讲话精神上来，统一到党中央对当前形势的分析判断和明年经济工作的决策部署上来，深化对做好经济工作的规律性认识，以高度的政治责任感、奋发有为的精神状态继续服务实体经济、打好三大攻坚战，扎实做好各项工作，确保党中央关于经济工作的各项重大决策部署落地见效，为全面建成小康社会收官打下决定性基础作出积极贡献。<br/><div class="contheight"></div>赵欢强调，明年是新中国成立70周年，是全面建成小康社会关键之年。国开行要认真学习领会中央经济工作会议精神，准确把握中央对国内外形势的科学研判和重要战略机遇期的新内涵，准确把握明年经济工作的总体要求，准确把握明年经济工作的政策取向，准确把握明年经济工作的重点任务，严格对标对表，创造性地做好贯彻落实。<br/><div class="contheight"></div>赵欢对国开行贯彻落实会议精神作出八方面具体部署。一是助力制造业高质量发展。大力支持科技创新领域发展，继续加大对集成电路产业和5G商用的支持。二是加大力度支持基础设施补短板。聚焦交通、物流、水利等领域，加快投融资模式创新和市场化现金流建设，切实发挥有效投资的关键作用。三是促进形成强大国内市场。推动教育、育幼、养老、医疗、文化、旅游等产业发展，更好激发我国市场活力、内需潜力。四是促进区域协调和城乡一体化。围绕京津冀协同、长江经济带、粤港澳大湾区、长三角一体化、海南自贸区等重点战略精准发力，通过支持一批重大项目，打造国开行亮点和特色。五是保障和改善民生。调整优化扶贫重点，促进产业扶贫和区域协调相结合，加大“三区三州”等深度贫困地区脱贫攻坚力度，确保精准扶贫贷款发放力度不减、质量提升。做好棚改续建项目的市场化融资支持。着力缓解融资难、融资贵，联合中小金融机构加大对小微企业的支持力度。六是服务共建“一带一路”。保质保量落实好“一带一路”2500亿元等值人民币专项贷款，积极支持基础设施等重大项目建设和产能合作，配合办好第二届“一带一路”国际合作高峰论坛。七是坚决打好防范化解金融风险攻坚战。帮助地方政府稳妥处理债务风险。通过完善公司治理、业务治理和优化风险管理体系，加大不良资产处置，有效防控风险。八是不断加强和改进党的领导。以全面从严治党带动全面从严治行，持续加强作风建设，建设忠诚、干净、担当的高素质干部队伍，激发干事创业的积极性、主动性和创造性。全行干部员工要振奋精神、埋头苦干，全力做好各项工作，以优异成绩迎接中华人民共和国成立70周年。（原题为《开行党委传达学习中央经济工作会议精神》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑景昕<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772800">
+<div class="nbgbox">
+<a class="zan" contid="2772800" href="javascript:;" onclick="voteCont(this)" praisetimes="63">
+                           62</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国开行</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772800&caid=25435",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772800&amp;caid=25435" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">日本1月7日起征收离境税，不限国籍每人每次1000日元</h1>
+<div class="news_about">
+<p>中新经纬客户端</p>
+<p>
+							2019-01-03 15:33<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新经纬客户端1月3日消息，据日媒报道，自2019年1月7日起离开日本的个人将被征收国际观光旅客税(离境税)，每人每次为1000日元(约合人民币64元)。<br/><div class="contheight"></div>据日经中文网报道，近年来，访日外国人激增，2018年预计达到3000万人。日本政府提出到2030年使访日游客增加至6000万人的目标，将通过新税加快完善方便访日游客旅行的环境。<br/><div class="contheight"></div>报道指出，征税对象者不分国籍，为2岁以上的出国者。乘私人飞机等自己拥有的飞机或船舶离开日本时，需要自行办理纳税手续。<br/><div class="contheight"></div>据报道，离境税原则上由离开日本时乘坐的飞机或船舶的运营公司代收。航空公司和船舶公司将在票价上增加国际观光旅客税，代替出国者缴纳。<br/><div class="contheight"></div>哪些情况可免税？报道列举称，被派遣到日本的外交官和利用政府专机的出国者等不会被征税；在日本逗留时间不满24小时的情况不会征税，因此飞机转机的乘客原则上不在征税范围之内；此外，出国后因天气异常等原因返回的人再次出国之际不会成为征税的对象。<br/><div class="contheight"></div>报道称，征税仅限于以1月7日以后购买客票离开日本的情况。日本国税厅表示，1月7日以前购买的票原则上不会征税。日本航空和全日空根据这一方针，对于乘客在1月7日以前购买机票不征收出国税。<br/><div class="contheight"></div>此外，对于购票时不确定出国日期的“不定期客票”，在1月7日以后确定日程或把机票的出发日改为1月7日以后时将被征税。<br/><div class="contheight"></div>日经中文网早前报道指出，预计2019年1月至3月日本将因征收离境税增加50亿至100亿日元的税收。<br/><div class="contheight"></div>另据媒体早前报道，在其他国家中，澳大利亚已经引进类似的离境税，韩国则向出境游客征收1万韩元(约合61元人民币)的出国缴纳金。<br/><div class="contheight"></div>（原题为《日本1月7日起征收离境税 不限国籍每人1000日元》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 离境税,日本</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2808245">
+<div class="nbgbox">
+<a class="zan" contid="2808245" href="javascript:;" onclick="voteCont(this)" praisetimes="34">
+                           33</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 离境退税</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2808245&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2808245&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（580）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

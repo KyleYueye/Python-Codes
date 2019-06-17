@@ -1,0 +1,86 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">四川乐山发生一起离奇车祸，男子疑在倒车时碾死自己</h1>
+<div class="news_about">
+<p>李昕锋、丁伟/封面新闻</p>
+<p>
+							2019-01-08 14:49<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<script src="//file.thepaper.cn/www/v3/js/jwplayer7.1.4.js" type="text/javascript"></script>
+<script type="text/javascript">jwplayer.key="JYFbHxc36sStM1VSc1vvyI42CCrHFlTZcWEYUA==";</script>
+<div class="news_video_name">
+<style type="text/css">
+							#player_wrapper{width:669px;height:377px;}
+							#player_wrapper .player_err_tip{width:669px;height:377px;display: none;vertical-align: middle;background-color: black;color: white; text-align: center;}
+							.jw-tab-focus:focus{outline:none;}
+						</style>
+<div id="player_wrapper">
+<div class="player_err_tip" id="Text">抱歉!<br/>您的浏览器可能不支持此视频播放器，请用更高版本的浏览器试试！</div>
+</div>四川乐山一男子疑在倒车时被碾死 来源：封面新闻(00:40)
+					</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="411" src="http://image.thepaper.cn/www/image/14/34/346.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">事发现场监控<br/><div class="contheight"></div></span>封面新闻1月8日消息，一男子驾驶小车缓缓上路，几秒钟后突然高速倒回，男子本人被甩出驾驶室，惨遭车轮碾压身亡……1月7日晚，乐山城区一美食街上发生了一起离奇的车祸。<br/><div class="contheight"></div>现场目击者周先生介绍，事发地点位于乐山城区嘉兴路美食街，时间为当晚9时40分许。据周先生提供的视频显示，一辆白色小轿车从人行道上缓缓驶出，当车辆驶入机动车道后，不知因何停车，而后突然高速倒车，一男子从驾驶室内甩了出来，两个前车轮辗先后压到了其身体，造成男子大量出血。<br/><div class="contheight"></div>周先生介绍，事发时，还有一名女子试图拦停轿车，但被高速倒退的车辆挂到在地，所幸并无大碍，女子很快起身，向被碾轧的男子走去。<br/><div class="contheight"></div>事发后，引起了大量市民围观。在附近做生意的市民王强（化名）与多人一起，将小轿车从男子身上抬开。王强表示，该男子大量失血，当时已经没有了意识。<br/><div class="contheight"></div>随后，乐山市中医医院急救人员与交警迅速赶到了现场。封面新闻记者从医院处得到消息，该男子姓吕，市中区安谷镇人，由于伤势过重，经抢救无效，已宣告死亡。<br/><div class="contheight"></div>交警表示，目前这起事故正在进一步调查之中。<br/><div class="contheight"></div>（原标题《离奇车祸！乐山男子倒车被自己碾死》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = 'http://cloudvideo.thepaper.cn/video/cdf5e1570c1d46beb64bff2d8d30b532/hd/1546d426-2ca7-4da7-b8ea-c863b8b0e089-7e4c57a0-d368-f72b-f5e4-106e61dba03f.mp4',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'//image1.thepaper.cn/image/14/34/502.jpg',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 倒车碾压</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827499">
+<div class="nbgbox">
+<a class="zan" contid="2827499" href="javascript:;" onclick="voteCont(this)" praisetimes="18">
+                           17</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 倒车碾压</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827499&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827499&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（69）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

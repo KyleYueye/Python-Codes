@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">法国对中方拘留加拿大公民表示关切，外交部：坚决拒绝和反对</h1>
+<div class="news_about">
+<p>外交部网站</p>
+<p>
+							2018-12-25 19:38<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="448" src="http://image.thepaper.cn/www/image/13/496/990.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">外交部例行记者会 外交部 图<br/><div class="contheight"></div></span>2018年12月25日，外交部发言人华春莹主持例行记者会。以下为部分实录。<br/><div class="contheight"></div><strong>问：法国外交部本周一发表声明，对中方拘押加拿大籍公民表示关切，敦促中方予以其公正待遇。请问中方对此有何回应？目前，中方是否有关于加拿大籍公民被拘押案的最新进展？<br/><div class="contheight"></div>答：</strong>关于中方有关部门依法对两名加拿大人采取强制措施和行政处罚的情况，我们已经介绍了情况。<br/><div class="contheight"></div>至于你提到的法方有关声明，<strong>我们坚决拒绝和反对。</strong>昨天，我在回答类似问题时，已经非常清楚明晰地阐明了中方立场。<strong>中方有关部门依法拘押涉嫌危害中国国家安全的加拿大籍公民，而加方是应美方要求非法拘押了中国企业高管，两者性质是不一样的。</strong>我们希望<strong>无论是加方，还是你刚才提到的法方或其他加方的所谓盟友，都能够尊重中国司法机关独立办案的权力，尊重中国的司法主权。</strong><br/><div class="contheight"></div>我觉得法方发这个声明很奇怪：法方为何要为加拿大籍公民出面发声？这在中国人心目中留下了非常不好的印象：那就是法国只关心加拿大人，不关心中国人。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 加拿大公民,拘押,法国</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2773817">
+<div class="nbgbox">
+<a class="zan" contid="2773817" href="javascript:;" onclick="voteCont(this)" praisetimes="533">
+                           532</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 外交部例行记者会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2773817&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2773817&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（175）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

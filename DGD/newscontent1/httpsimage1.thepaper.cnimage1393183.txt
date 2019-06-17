@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美联储主席：特朗普要求我辞职我也不会辞</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-05 13:31<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="418" src="http://image.thepaper.cn/www/image/13/931/91.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">杰罗姆·鲍威尔<br/><div class="contheight"></div></span>美联储主席杰罗姆·鲍威尔（Jerome Powell）在4日举行的一个经济会议上被问及，如果特朗普要求他辞职他是否会听从，鲍威尔回应称：“不会。”<br/><div class="contheight"></div>北京时间1月4日晚间，美联储主席鲍威尔及前主席本·伯南克（Ben Bernanke）、前主席耶伦珍妮特·耶伦（Janet Yellen）共赴美国经济学会（AEA）年会，参与“美联储主席：共同采访”环节。<br/><div class="contheight"></div>据法新社报道，在被问及“如果总统要求你辞职，你会这样做吗？”时，鲍威尔首次做出公开回应称，“不会”。<br/><div class="contheight"></div>此前，特朗普曾多次批评美联储和鲍威尔，指责他们加息，对自己的经济策略造成威胁。鲍威尔则表示，虽然特朗普多次在推特上公开指责，但没有直接跟自己讲过。鲍威尔重申，美联储不会受到政治考量的影响。<br/><div class="contheight"></div>此外，对于上周美媒报道的白宫正在以假日聚会邀请的名义安排特朗普与鲍威尔见面的消息，鲍威尔表示，他没有收到任何白宫关于对央行利率政策不满的直接沟通，总统和他之间也尚未安排任何会晤。“总统和美联储主席之间的确有会面的情况。”他补充说道。<br/><div class="contheight"></div>去年年末，多家美媒爆料称美联储一年内4次加息让特朗普非常不满，甚至多次讨论过解雇鲍威尔的事情。此后，美国财长姆努钦否认称，特朗普从没建议过解雇鲍威尔。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘惠<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美联储,特朗普,美国经济</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2816883">
+<div class="nbgbox">
+<a class="zan" contid="2816883" href="javascript:;" onclick="voteCont(this)" praisetimes="103">
+                           102</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 特朗普批美联储</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2816883&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2816883&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（34）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

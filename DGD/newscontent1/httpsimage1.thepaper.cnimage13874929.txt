@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜举报过期食品被奖2毛，鼓励打假就不能闹如此笑话</h1>
+<div class="news_about">
+<p>澎湃特约评论员 刘昌松</p>
+<p>
+							2019-01-04 06:38<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">贾某某买到2.02元过期食品后，向山东济南某区食药监局举报，后者对销售食品的超市没收违法所得2.02元并罚款5万元，向贾某某支付了0.2元作为奖励。贾某某认为奖励款少了，将该区食药监局告上法院，一审判处贾某某败诉。贾某某上诉。2019年1月2日，济南中院官方公布二审判决结果。济南中院认为，至少应奖励2000元，责令某食药监局对贾某某重新奖励。（澎湃新闻，1月2日）<br/><div class="contheight"></div>该案一审判处贾某某败诉，适用的是济南市食药监局和市财政局发布的《济南市食品药品违法行为举报奖励办法》（以下简称《济南奖励办法》）。该办法规定，“属于一级奖励的，按案件货值金额的10%给予奖励”，贾某某买的食品金额2.02元，一审判决据此认为，奖励贾某某0.2元并无不当。<br/><div class="contheight"></div>但国家食品药品监管总局和财政部发布的《食品药品违法行为举报奖励办法》（以下简称《国家奖励办法》），其标准为，一级奖励按涉案货值金额或罚没款金额4-6%给予，不足2000元的，奖励2000元；二级奖励比例为2-4%，最低奖励1000元；三级奖励比例为1-2%，最低奖励200元，并规定每起案件的奖励金额最高不超过50万元。<br/><div class="contheight"></div>也就是说，“一级奖励”是最高规格的奖励。根据《国家奖励办法》，三个奖励级别的划分，是以举报者提供证据的程度划分，一级奖励为提供了详细违法事实、线索或直接证据的。本案中贾某某的奖励等级为一级，根据《国家奖励办法》，若按货值金额比例计算，应奖励2000元；若按罚没款金额5万元计算，在4-6%之间取中间数5%，应奖励2500元。可见，二审判决结果并未出格。<br/><div class="contheight"></div>也就是说，两次判决结果给出的奖励金额相差1万倍，原因在于依据的规定不一样。<br/><div class="contheight"></div>同《国家奖励办法》相比，《济南奖励办法》的奖励标准有两个瑕疵，一是未规定最低奖励金额，因而闹出奖励0.2元的笑话；二是未规定按罚没款数额作为奖励基数，否则本案或可奖励5000元。<br/><div class="contheight"></div>严格说来，《国家奖励办法》属于立法意义上的部门规章，而《济南奖励办法》只属于一般规范性文件，因为济南市食药监局和市财政局没有地方规章制定权。在地方一般规范性文件若同上位立法不矛盾，适用起来有利而非有害于行政相对人时，还是可以承认其效力的。济南中院的终审判决难能可贵之处正在于，它承认两者都有效力，并遵循“有利于行政相对人” 的原则下判，责令重新奖励。<br/><div class="contheight"></div>不仅如此，济南中院还指出，修订后的《国家奖励办法》将原来的最高奖励30万元提高到50万元，体现了鼓励社会公众参与举报食品药品违法行为的积极性，对贾某给予奖励，符合立法目的。<br/><div class="contheight"></div>在当前食品药品违法行为还相当普遍的形势下，司法机关旗帜鲜明地支持公民的“打假”行为，终审判决以“有利于行政相对人”的原则适用法律，严格保护食品药品违法行为之举报人的利益，体现了司法公正，具有较好的示范意义，值得充分肯定。（作者系律师）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2804946" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">消费者举报超市过期食品被奖2毛钱，法院：少了，至少奖两千</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 过期食品,奖励举报</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2811157">
+<div class="nbgbox">
+<a class="zan" contid="2811157" href="javascript:;" onclick="voteCont(this)" praisetimes="271">
+                           270</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 奖励举报</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2811157&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2811157&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（116）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

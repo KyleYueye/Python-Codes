@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">青海省县级茫崖市正式挂牌，茫崖、冷湖行政委员会撤销</h1>
+<div class="news_about">
+<p>张雷 许若杨 马占元 苏明亮/央广网</p>
+<p>
+							2018-12-27 17:20<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="270" src="http://image.thepaper.cn/www/image/13/556/129.jpg" width="540"/></div><span style="color: rgb(128, 128, 128);">12月27日，青海省海西蒙古族藏族自治州茫崖市正式成立。 中新网 图</span><br/><div class="contheight"></div>今天（12月27日）上午，在庄严的国歌声中，青海省海西蒙古族藏族自治州茫崖市正式挂牌。<br/><div class="contheight"></div>今天当地气温接近零下20度，一大早，来自青海省、海西蒙古族藏族自治州、青海油田公司的领导，以及茫崖市干部职工、各族群众代表500余人，齐聚茫崖市政府大楼前，共同见证茫崖市诞生这一庄严而神圣的时刻。<br/><div class="contheight"></div><strong>茫崖市是由茫崖行政委员会和冷湖行政委员会合并设立的县级市，隶属海西蒙古族藏族自治州管辖，市政府所在地为花土沟镇。</strong><br/><div class="contheight"></div>“茫崖”系蒙古语“额头”的意思，位于柴达木盆地的西北部，是古丝绸之路的必经之地，是通甘进藏入疆的咽喉要道，承担着守卫青海“西大门”的重要职责。古代境内为游牧民族活动范围，石油、石棉、天青石、钾盐、芒硝等矿产资源富集，新中国成立后对茫崖进行了资源开发，1956年设立县级茫崖临时工作委员会；1962年撤销，成立茫崖镇；1984年成立县级茫崖行政委员会。经过几十年的开发建设，茫崖现已成为以石油、石棉工业为龙头，以盐湖化工为支柱，以有色金属工业和新能源开发为后备的新兴工业区。<br/><div class="contheight"></div>冷湖位于柴达木盆地西北边缘、海西州西部。1954年因发现石油开始建设，1959年青海石油管理局迁至冷湖，1959年设立冷湖市，1964年改为冷湖镇，1992年升级为行政委员会。户籍人口最多时达2.4万余人，其中石油系统人口2.1万人，地方系统人口5000余人。上个世纪50年代，冷湖油田曾是青藏高原重要的产油、供油基地，在当时我国石油产量极端低下、国民经济处于暂时困难的情况下，为国家发展做出了重要贡献，被誉为中国第四大油田。<br/><div class="contheight"></div>由于长期的经济社会发展积累，海西州委州政府提出了茫崖、冷湖联合建市构想。<strong>2018年2月22日，经国务院批准，民政部批复，同意撤销茫崖行政委员会和冷湖行政委员会，设立县级茫崖市。</strong><br/><div class="contheight"></div>（原题为《青海省茫崖市今天正式挂牌 茫崖、冷湖行政委员会撤销》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋子文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 区划调整，青海茫崖</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780644">
+<div class="nbgbox">
+<a class="zan" contid="2780644" href="javascript:;" onclick="voteCont(this)" praisetimes="4">
+                           3</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 区划调整</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780644&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780644&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27234">科技湃</a>
+</div>
+<h1 class="news_title">印尼应警惕“火山海啸”，1883年该火山曾导致3万人死亡</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-25 14:43<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="399" src="http://image.thepaper.cn/www/image/13/487/134.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">当地时间2018年12月23日，印度尼西亚巽他海峡火山爆发，图为喀拉喀托火山鸟瞰图。 视觉中国 图</span><br/><div class="contheight"></div>新华社洛杉矶12月24日电 一些美国专家日前接受媒体采访时称，22日晚印度尼西亚发生的海啸并非常见的由地震诱发的海啸，而是一次罕见的由火山喷发带来的海啸，印尼应提高警惕，这一火山未来可能仍会诱发类似海啸。<br/><div class="contheight"></div>据印尼抗灾署的最新消息，印尼西部巽他海峡22日晚海啸造成的遇难者人数已升至373人，另有5000多人撤离。印尼气象、气候和地球物理局局长德维科丽塔·卡尔纳瓦蒂对媒体说，海啸通常由地震引发，但印尼这次海啸却是由位于爪哇岛和苏门答腊岛之间海域的活火山——喀拉喀托火山喷发引起的。据报道，这座火山剧烈喷发导致部分火山岩垮塌，引发了海底滑坡，继而诱发海啸。但由于未能及时发布预警，海啸突袭后，人员伤亡惨重。<br/><div class="contheight"></div>美国南加州大学海啸研究中心主任科斯塔斯·西诺拉吉斯接受美国媒体采访时说：“这次监测系统没有提升至触发海啸预警的程度，从这一点来看，（在这类海啸发生时）海啸预警中心实际上失灵了。”<br/><div class="contheight"></div>印尼国家抗灾署发言人努格罗霍也承认，印尼没有监测火山喷发引发海底滑坡的警报系统。<br/><div class="contheight"></div>美国西北大学地球科学教授埃米尔·奥卡尔介绍说，活火山一直处于运动中，所以火山岩滑坡不可避免，如果发生在水下，就会导致水体位移，引发巨浪。<br/><div class="contheight"></div>专家警告说，这次的火山海啸应引起当地足够重视和警惕，由于喀拉喀托火山仍在喷发中，未来可能还会发生类似的火山海啸。<br/><div class="contheight"></div>喀拉喀托火山是世界上最著名的火山之一，该火山1883年曾剧烈喷发并引发海啸，导致3万多人遇难。<br/><div class="contheight"></div>（原标题：美专家称印尼应警惕“火山海啸”）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772590">
+<div class="nbgbox">
+<a class="zan" contid="2772590" href="javascript:;" onclick="voteCont(this)" praisetimes="48">
+                           47</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 印尼海啸</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772590&caid=27234",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772590&amp;caid=27234" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

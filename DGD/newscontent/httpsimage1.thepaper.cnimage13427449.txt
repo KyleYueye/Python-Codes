@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25438">财经上下游</a>
+</div>
+<h1 class="news_title">今年我国日均新设企业1.84万户</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-23 12:18<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京12月23日消息，今年是商事制度改革全面实施的第五年，全国实有市场主体已达1.06亿户，其中新设立市场主体占比达到73%。日均新设企业由改革前每天0.69万户提高到今年的1.84万户。每千人企业数从改革前2013年的11.4户提高到现在的23.9户，增加了1倍多。<br/><div class="contheight"></div>改革促进了个体私营经济的发展，成为吸纳就业的重要渠道。国家市场监管总局统计，个体私营主体占全国市场主体总数超过95%，从业人员达到了3.6亿人，提供了我国80%以上的城镇就业岗位和90%以上的新增就业岗位。<br/><div class="contheight"></div>今年以来，市场监管部门在聚焦民生关切、回应企业诉求、优化营商环境方面推出一系列举措，大大降低了新企业、新产品进入市场的制度性交易成本，激发了市场活力，推动我国市场准入制度发生根本性变革。<br/><div class="contheight"></div>围绕百姓经商创业的痛点和堵点，先后实施了注册资本登记制度改革、“多证合一”“证照分离”等多项主体准入改革。在产品准入方面，全面推行工业产品生产许可“一企一证”改革，加快食品、药品、医疗器械注册登记制度改革。同时，深化知识产权注册便利化改革。<br/><div class="contheight"></div>在放宽市场准入的同时，注重创新监管理念和方式，积极发挥竞争政策的基础性作用。实行年检改年报制度，推进“双随机、一公开”监管，全面开展公平竞争审查，积极查办行政垄断案件和排除、限制竞争行为等。<br/><div class="contheight"></div>根据世行营商环境评估报告，我国营商环境总体评价在全球190个经济体中已经跃居第46位，比2013年累计上升50位。其中开办企业便利度大幅度跃升至第28位，五年累计上升130位。（本文原题为《今年我国日均新设企业1.84万户》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 新设企业</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766067">
+<div class="nbgbox">
+<a class="zan" contid="2766067" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 自贸区新设企业</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766067&caid=25438",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766067&amp;caid=25438" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

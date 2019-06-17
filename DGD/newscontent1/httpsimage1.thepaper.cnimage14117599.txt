@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">河南鹿邑一女子及2名子女被孩子姑父杀害，警方悬赏5万抓人</h1>
+<div class="news_about">
+<p>李涛、戴幼卿/@北京青年报</p>
+<p>
+							2019-01-10 15:29<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">北京青年报微博1月10日消息，1月9日傍晚，河南鹿邑县公安局发布一则悬赏通告称，1月8日21时许，在河南省鹿邑县县城内发生一起重大刑事案件。经侦查，张国锋（男，汉族，1979年4月9日生，身份证号：412725197904098617，户籍地：河南省鹿邑县贾滩乡柿园行政村小李庄0号）有重大作案嫌疑。张国锋身高1.65 米左右，体态中等， 短发，面部有青春痘，逃跑时上穿深色长袄，内穿深色毛衣，下穿浅色棉裤，脚穿深色鞋子。<br/><div class="contheight"></div>为迅速侦破该案，消除社会治安隐患，请广大人民群众积极行动，向公安机关提供重要线索抓获犯罪嫌疑人的，奖励人民币贰万元（20000元）；直接抓获犯罪嫌疑人的奖励人民币伍万元（50000元）；对隐瞒不报，窝藏包庇犯罪嫌疑人的，公安机关将依法追究法律责任。悬赏通告中同时附有嫌疑人户籍照片及生活照片。据媒体报道，在该案中，一名女子及其年幼的子女共3人被杀害，嫌疑人是系遇害孩子的姑父。1月10日下午，鹿邑县公安局付警官告诉北京青年报记者，嫌疑人目前仍未被抓获，悬赏通告仍有效，案件细节不便透露。<br/><div class="contheight"></div>（本文原题为《河南一家3口遇害嫌疑人在逃 警方悬赏5万抓人》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 河南,刑事案件</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836671">
+<div class="nbgbox">
+<a class="zan" contid="2836671" href="javascript:;" onclick="voteCont(this)" praisetimes="27">
+                           26</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 刑事案件</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836671&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836671&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

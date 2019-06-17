@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">最后一搏！英议会投票前，特雷莎将再访欧洲为脱欧协议求背书</h1>
+<div class="news_about">
+<p>澎湃新闻记者 于潇清</p>
+<p>
+							2019-01-04 20:59<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">目前，距离英国正式脱欧的时间还有不到三个月，英国议会也将于1月14日开始对脱欧协议进行表决，英国首相特雷莎·梅正在做最后的努力，争取最广泛的支持。<br/><div class="contheight"></div>据英国《金融时报》1月3日报道披露，特雷莎预计将前往欧盟总部布鲁塞尔发起最后一轮“外交游说”，以求争取更多的欧盟成员国和欧盟机构支持她的脱欧协议，进而在即将到来的英国议会表决中占据更为主动的态势。<br/><div class="contheight"></div>预计，特雷莎将与包括德国总理默克尔、荷兰首相吕特以及欧洲理事会主席图斯克在内的多名政要会面，试图打破当前僵局。但截至目前，欧洲方面并没有确认任何消息。<br/><div class="contheight"></div>据《金融时报》披露，北爱尔兰边界问题仍将是特雷莎·梅此番“最后努力”的核心内容，以期通过在一定期限内设立暂时性关税同盟的方式，避免出现“硬边界”的情况。<br/><div class="contheight"></div>特雷莎·梅将于1月7日返回英国参加会议，而在此期间英国负责脱欧事务的官员也将同欧盟方面保持邮件与电话的密切沟通。<br/><div class="contheight"></div>值得注意的是，据英国《镜报》3日报道，欧盟方面并没有任何意向与计划同特雷莎就脱欧的具体问题做进一步沟通，在3日早上的发布会上，欧盟委员会发言人米娜就曾表示，现有的所有脱欧协议内容都已经摆在台面上，在英国政府1月14日把现有协议提交议会表决之前，欧盟方面不会再同英国进行任何谈判。<br/><div class="contheight"></div>特雷莎现在正面临着前所未有的压力，几乎所有民调和预测都不看好现有版本的脱欧协议能在14日的议会表决中顺利通过。如果该协议被英国议会否决，则英国很可能将面临“无协议脱欧”，当前，英国警方和业界也正在为可能到来的“无协议脱欧”做相应准备。<br/><div class="contheight"></div>据路透社4日公布的一项最新调查显示，即便是在特雷莎所领导的保守党成员之中，仍有超过半数的人不支持现有的脱欧协议。据民调机构YouGov于12月22日左右进行的这项调查显示，在1215名受访的保守党成员中，有59%的人反对现有脱欧协议，支持的人仅占38%，而不支持的人最普遍的意见都认为这份协议“没有尊重2016年英国脱欧公投的结果”。<br/><div class="contheight"></div>当被问及若进行二次脱欧公投以求在“无协议脱欧”和“支持现有脱欧协议”中二选一的问题时，1215名保守党党员中则只有29%的人选择支持现有协议。英国玛丽女王大学政治学教授蒂姆·贝尔对此分析认为，“此次调查反映了保守党基层党员相比于议会议员对现有脱欧协议的印象更差，未来议会表决中反对脱欧协议的人将不会受到来自基层的压力，这对特雷莎·梅更是难题。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李怡清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 脱欧,特雷莎,英国</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2814456">
+<div class="nbgbox">
+<a class="zan" contid="2814456" href="javascript:;" onclick="voteCont(this)" praisetimes="87">
+                           86</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 英国脱欧</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2814456&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2814456&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

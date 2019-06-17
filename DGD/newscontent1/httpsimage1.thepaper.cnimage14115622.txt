@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">兰新高铁张家庄隧道发生地质灾害封闭，青海三个高铁站停运</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2019-01-10 13:31<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="315" src="http://image.thepaper.cn/www/image/14/115/618.jpg" width="540"/></div><span style="color: rgb(128, 128, 128);">截至记者发稿时，中国铁路12306官网显示，目前由西宁至兰州西D2744、D2760、D2758、D2692次等列车仍处于停运状态。微博截图<br/><div class="contheight"></div></span>中新网西宁1月10日消息，2014年12月26日兰新高铁开通后，位于青海省民和南至乐都南区间的张家庄隧道多次发生地质灾害，4年来高铁列车停运、晚点消息频出。近日，该条隧道再次封闭，致使多趟列车停开，青海境内海东西、乐都南、民和南三个高铁站停运。<br/><div class="contheight"></div>兰新高铁（或称兰新客专、兰新铁路第二双线）是中国实施西部大开发战略的重点工程，线路全长1776公里，总投资1435亿元人民币，跨越甘肃、青海、新疆，其中青海境内线路里程为267公里。<br/><div class="contheight"></div>2018年12月24日，中国铁路青藏集团有限公司官方微博消息显示，当日10时44分，铁路部门监测到兰新客专兰州至西宁段的张家庄隧道所在山体发生变形，为确保安全，铁路部门立即启动应急预案，封锁线路，组织全面排查，受此影响，导致部分旅客列车晚点。<br/><div class="contheight"></div>2018年12月25日13时12分，中国铁路青藏集团有限公司官方微博发布消息称，经有关专家全面排查研判，兰新客专张家庄隧道具备开通条件，于12月25日8时10分开通运行。相关晚点、停运客车运输秩序正在逐步恢复中。<br/><div class="contheight"></div>而在当日该条微博发出5小时之后，中国铁路青藏集团有限公司官方微博发布消息称，12月25日16时44分，铁路部门监测到兰新客专张家庄隧道所在山体发生变形，为确保安全，铁路部门立即启动应急预案，封锁线路，组织全面排查，受此影响，导致部分旅客列车晚点，铁路部门已采取迂回运输措施。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="269" src="http://image.thepaper.cn/www/image/14/115/619.jpg" width="540"/></div><span style="color: rgb(128, 128, 128);">微博截图</span><br/><div class="contheight"></div>记者9日联系中国铁路青藏集团有限公司，该公司党群工作部宣传科科长王韬说，目前张家庄隧道由于所在山体发生变形而不具备开通条件，至于具体原因及开行时间尚不得知。<br/><div class="contheight"></div>而当记者问及，是否与外界猜测“设计、质量有问题”和“2016年青海门源6.4级地震”有关时，王韬表示具体原因不详，需由专家回答，愿在第二天上班后向上级领导汇报。<br/><div class="contheight"></div>记者梳理发现，2016年1月18日，兰新高铁青海段民和南至乐都南区间张家庄隧道发生地质灾害，造成该条线路动车首次停运；当年经过3个多月的施工，隧道地质灾害已经消除，受影响的列车从2016年5月1日起恢复运行。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="303" src="http://image.thepaper.cn/www/image/14/115/620.jpg" width="540"/></div><span style="color: rgb(128, 128, 128);">微博截图</span><br/><div class="contheight"></div>记者10日早间联系中国铁路青藏集团有限公司，王韬表示已向该公司领导汇报，且前期专家组已进行评估，而针对记者提出的问题目前该公司无专家可做出回答。<br/><div class="contheight"></div>截至记者发稿时，中国铁路12306官网显示，目前由西宁至兰州西D2744、D2760、D2758、D2692次等列车仍处于停运状态，民和南、乐都南、海东西三个车站发往兰州西的多趟列车显示运行图调整，暂停发售车票。<br/><div class="contheight"></div>（原题为《兰新高铁张家庄隧道发生地质灾害 青海境内三个高铁站停运》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 兰新高铁</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836392">
+<div class="nbgbox">
+<a class="zan" contid="2836392" href="javascript:;" onclick="voteCont(this)" praisetimes="65">
+                           64</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 高铁安全</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836392&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836392&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

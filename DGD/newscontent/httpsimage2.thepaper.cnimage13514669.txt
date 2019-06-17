@@ -1,0 +1,90 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">外媒：日本正式宣布退出国际捕鲸委员会，将恢复商业捕鲸</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-26 10:33<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据中新网12月26日援引法新社报道，日本宣布退出国际捕鲸委员会(IWC)，将恢复商业捕鲸。<br/><div class="contheight"></div>另据日本共同社25日报道，由于在捕鲸问题上与反捕鲸国的矛盾加剧，日本政府将于26日宣布退出国际捕鲸委员会(IWC)，以重启商业捕鲸。日媒称，日本自二战以来，几乎没有退出国际组织的先例，此次罕见“退群”或招致批评。<br/><div class="contheight"></div>共同社称，按照成员国公约，宣布从明年开始退出IWC的最后期限为下月1日，日本政府将于26日正式宣布退出决定。在今年9月的IWC大会上，日本就曾提出解除部分鲸种商业捕捞禁令的提案，但遭否决。因日本对捕鲸的诉求与反捕鲸国之间形成矛盾，日本官员当时就暗示要退出IWC。退出IWC后，日本将在不受约束的情况下开展商业捕鲸，但无法在南极海域进行 “科研捕鲸”，原因是南极的“科研捕鲸”必须以加入IWC为前提。<br/><div class="contheight"></div>据《环球时报》26日援引日媒报道称，日本的捕鲸活动“具有文化传统”，在日本国内仍有不少抵制捕鲸禁令的人。日本政府官员表示，将坚持捕鲸并“寻求国际社会的理解”。不过日本国内有观点认为，一些从事捕鲸的组织和公司因捕鲸禁令而陷入困境，所以用保护饮食文化作为借口继续捕鲸。但事实上，如今捕鲸产业几乎已不存在，继续捕捞只是为了满足部分人的怀旧心理。在鲸肉消费量大大减少的情况下，不惜从国际捕鲸委员会退出并继续进行商业捕鲸在商业上无利可图。日本政府的决定必将遭到国际社会的批判。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_asktopic">
+<div class="news_askuser" onclick="window.open('asktopic_detail_10014676');"><span class="verticalAlign_topic"></span>
+<div class="news_askuser_bd">
+<div class="news_askuser_sort">焦点</div>
+<div class="news_askuser_profile">我是山大海洋学院教授王亚民,日本退出国际捕鲸管制机构意味着什么,问吧!</div>
+</div> <div class="news_askuser_trbs"><span class="trbs">
+<div class="userleft_hdimg">
+<img src="//image.thepaper.cn/publish/interaction/image/1/198/342.jpg"/><div class="hdimg_bg30"><img src="//file.thepaper.cn/www/v3/img/headerimg_ctbg30.png"/><span></span></div>
+</div>
+<a class="u_sname">王亚民</a>
+<span>7小时前</span>
+<span class="trbs_zan" id="10014676" times="41">41</span>
+<span>进行中...</span>
+</span></div>
+</div>
+</div>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 快讯</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2775704">
+<div class="nbgbox">
+<a class="zan" contid="2775704" href="javascript:;" onclick="voteCont(this)" praisetimes="99">
+                           98</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 快讯</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2775704&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2775704&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（747）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">中国科考船在冲之鸟礁附近航行，遭日本无理警告</h1>
+<div class="news_about">
+<p>王珊宁/海外网</p>
+<p>
+							2019-01-02 16:32<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="274" src="http://image.thepaper.cn/www/image/13/808/67.jpg" width="496"/></div><span style="color: rgb(128, 128, 128);">冲之鸟礁<br/><div class="contheight"></div></span>海外网1月2日消息，据富士电视台报道，近日，中国的海洋科考船在冲之鸟礁（日称“冲之鸟岛”）附近海域进行海洋科考活动，却遭到了日本海上保安厅的无理警告。日本方面称中国“擅自”在日本海上专属经济区进行科考。然而，冲之鸟礁只是一组珊瑚环礁，无法称之为“岛”，更不存在所谓的“专属经济区”。<br/><div class="contheight"></div>根据日本政府相关人士消息，2018年12月18日，中国海洋科考船“向阳红”在冲之鸟礁附近海域，向海中垂下金属线一类的物体。面对日本方面的无理警告。中国船只明确回应称：“请不要管本船。本船正在公海上进行海洋科考活动。”<br/><div class="contheight"></div>日本一直认为冲之鸟礁附近海域是日本的海上专属经济区（EEZ），并叫嚣称：“中方没有征得日本的允许，就擅自对海底资源进行调查科考。”<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="350" src="http://image.thepaper.cn/www/image/13/808/66.jpg" width="498"/></div><span style="color: rgb(128, 128, 128);">中国海洋科考船“向阳红”。视觉中国 图<br/><div class="contheight"></div></span>这是继2016年以来，中国第二次在这片海域进行研究。据此前日媒报道，2016年3月，一艘中国海洋科考船在冲之鸟礁附近海域航行，进行科考活动，也遭到日本方面的无理警告。<br/><div class="contheight"></div>实际上，冲之鸟礁仅仅是位于西太平洋、日本南部的一组珊瑚环礁，根本不能够称之为“岛”。日本方面却一直将其视为一个“领海基点”，甚至自1987年开始围礁造岛，筑起混凝土墙等。然而，按照《联合国海洋法公约》规定，要设定专属经济区，必须要以自然形成的陆地为根据，而不是人工筑成的“岛” 。<br/><div class="contheight"></div>针对日本的主张，中国、韩国以及中国台湾地区等一直认为冲之鸟是岩礁而不是岛屿，冲之鸟礁不能供人类居住，也无法维持经济生活，设定大陆架没有任何根据。<br/><div class="contheight"></div>（原题为《中国科考船在冲之鸟礁附近航行 遭日本无理警告》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中国,科考船,日本,警告</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2804296">
+<div class="nbgbox">
+<a class="zan" contid="2804296" href="javascript:;" onclick="voteCont(this)" praisetimes="91">
+                           90</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 冲之鸟争议</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2804296&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2804296&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

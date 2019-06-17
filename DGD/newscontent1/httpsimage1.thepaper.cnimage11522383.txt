@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">“两院”组织法三审：法检副手任职条件或放宽，强调群众监督</h1>
+<div class="news_about">
+<p>澎湃新闻记者 庄岸</p>
+<p>
+							2018-10-22 18:16<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">10月22日，人民法院组织法修订草案和人民检察院组织法修订草案提交十三届全国人大常委会六次会议三审。澎湃新闻（www.thepaper.cn）注意到，“两院”组织法拟在机构设置、人员组成和职责职权等方面再次作出调整，“两院”副手任职条件或将放宽。<br/><div class="contheight"></div>上述两则组织法修订草案二审稿对法院院长、副院长（检察长、副检察长）任职条件规定为：院长（检察长）应当具有法学专业知识和法律职业经历。副院长（副检察长）、审判委员会委员（检察委员会委员）应当从法官或者检察官中产生。<br/><div class="contheight"></div>有的常委会组成人员、社会公众提出，副院长、副检察长只能从法官或者检察官中产生，限制了干部的交流，均应适当放宽。<br/><div class="contheight"></div>宪法和法律委员会经研究，建议将上述规定修改为，院长（检察长）应当具有法学专业知识和法律职业经历。副院长（副检察长）、审判委员会委员（检察委员会委员）应当从法官、检察官或者其他具备法官、检察官条件的人员中产生。”<br/><div class="contheight"></div>值得一提的是，上述修订草案二次审议稿第九条均规定：“公民对人民法院（人民检察院）工作依法享有知情权、参与权和监督权。”有的常委会组成人员建议，增加人民法院（人民检察院）接受人民群众监督的内容。<br/><div class="contheight"></div>宪法和法律委员会经研究，建议将上述规定修改为：“人民法院（人民检察院）应当接受人民群众监督，保障人民群众对人民法院（人民检察院）工作依法享有知情权、参与权和监督权”。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：朱远祥<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; “两院”组织法 修改 审议</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2552547">
+<div class="nbgbox">
+<a class="zan" contid="2552547" href="javascript:;" onclick="voteCont(this)" praisetimes="15">
+                           14</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 两院</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2552547&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2552547&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

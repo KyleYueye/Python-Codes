@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">日本人口总量持续“缩水”，官方统计显示今年少了近45万人</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-28 10:57<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/620/227.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">日本去年人口自然下降人数达到近45万人，创历史新高。视觉中国 资料</span><br/><div class="contheight"></div>对于日本政府来说，现在最头疼的问题之一就是这个国家的人民越来越不愿意生孩子，这使得日本的人口总量正在持续缩水。<br/><div class="contheight"></div>据美国有线电视新闻网（CNN）12月28日报道，日本现在正在经历人口迅速“缩水”，据政府公布的统计数据显示，2018年日本人口的自然下降幅度达到历史新高。<br/><div class="contheight"></div>此前，据日本厚生劳动省上周公布的最新报告数据显示，日本2018年的新生儿为92.1万，较去年减少两万五千人，日本已经连续三年新生儿数量不过百万，而92.1万的数字更是自1899年开始有人口统计以来的新低。<br/><div class="contheight"></div>而另一方面，日本2018年的死亡人数却创下了二战后新高的136.9万人，这也就意味着日本去年人口自然下降人数达到近45万人，创历史新高。<br/><div class="contheight"></div>人口下降一直是令日本政府头疼的问题之一，日本首相安倍晋三曾表示希望将日本人口在2060年之时维持在1亿人之上。2017年，日本政府宣布了一项两万亿日元的支持项目，用于支持3-5岁的学龄前儿童进行免费学前教育，但这一措施并没有逆转人口不断下降、出生率低迷的现状。<br/><div class="contheight"></div>自20世纪70年代以来，日本一直处于稳定的人口下降状态。据美国有线电视新闻网（CNN）28日报道，根据日本政府最新数据显示，该国总人口目前为1.27亿，其中儿童占总数的12.3％，而在美国这一比率为18.9％，印度则高达30.8％。按照现有情况，到2065年，日本人口预计将降至约8800万。<br/><div class="contheight"></div>人口下降的问题和出生率以及年轻人压力过大关联明显。据悉，作为日本最大的城市东京，现在反而有着全日本最低的1.17的出生率。由于年轻人生活和工作压力大，据日本国家人口与社会保障研究所此前发布的一份报告显示，日本现在50岁时还未婚的人数在2015年达到创纪录的23.37％。<br/><div class="contheight"></div>对此，东京明治大学经济学的加藤教授（Hirokazu Kato）分析表示，造成这一情况与政府的政策有关，日本年轻一代一进入工作就很难在他们的职业生涯与家庭生活中寻找平衡。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 日本人口</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2786781">
+<div class="nbgbox">
+<a class="zan" contid="2786781" href="javascript:;" onclick="voteCont(this)" praisetimes="79">
+                           78</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日本人口</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2786781&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2786781&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（59）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

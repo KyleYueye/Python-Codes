@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">特朗普圣诞后突访驻伊美军，系其就任以来首访作战区域</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2018-12-27 06:32<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><span style="color: rgb(128, 128, 128);"><div style="text-align:center;"><img alt="" height="337" src="http://image.thepaper.cn/www/image/13/540/880.jpg" width="600"/></div>特朗普夫妇同驻伊美军合影。 路透 图</span><br/><div class="contheight"></div>海外网12月27日消息，美国总统特朗普携第一夫人梅拉尼娅，于周三（26日）对伊拉克进行了突访，并与美国在当地的政治和军事人员会面。<br/><div class="contheight"></div>据美国财经媒体CNBC消息，白宫新闻秘书桑德斯在一份声明中说：“特朗普总统和第一夫人在圣诞节晚上前往伊拉克，与驻美军和高级将领一起联欢，并感谢他们的付出、成功和牺牲，祝他们圣诞快乐。”据悉，这是特朗普自成为总统以来第一次在作战区域视察美国军队。<br/><div class="contheight"></div>据报道，空军一号从华盛顿特区一夜之间离开美国，并于周三晚上降落在巴格达以西的一个空军基地。这次旅行的照片于周三在路透社亮相。据路透社报道，美国国家安全顾问博尔顿也在场。<br/><div class="contheight"></div>此外，特朗普还将在返回华盛顿的途中访问德国拉姆施泰因空军基地的美军。<br/><div class="contheight"></div>据悉，此访系特朗普中东政策调整之际。早前他宣布将从叙利亚撤军，而伊拉克表示此举将会有重大威胁。自2003年对伊行动15年以来，美国仍然有超过5000名驻伊拉克军队赞襄伊政府，以打击极端势力。对特朗普撤军，伊拉克总理阿卜杜勒-马赫迪最近表示，伊拉克军队或部署到叙利亚，以保护伊拉克免受跨境威胁。<br/><div class="contheight"></div>早前，特朗普计划在佛罗里达州的私人俱乐部度过圣诞节，但由于联邦政府部分机构关门而留在华盛顿。由于特朗普与国会民主党之间因边境墙而陷入僵局，显然政府部分机构将无限期地关闭，目前尚不清楚他的伊拉克之行是否会被纳入其考量。<br/><div class="contheight"></div>（原题为《特朗普圣诞后突访驻伊美军 系其任上首访作战区域》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王建亮<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美军,特朗普,中东,伊拉克,反恐</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2778795">
+<div class="nbgbox">
+<a class="zan" contid="2778795" href="javascript:;" onclick="voteCont(this)" praisetimes="60">
+                           59</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 驻伊美军</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2778795&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2778795&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

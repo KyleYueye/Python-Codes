@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">最高法巡回法庭设立四年实现改革初衷，年均结案率超90%</h1>
+<div class="news_about">
+<p>微信公众号“最高人民法院”</p>
+<p>
+							2018-11-24 12:25<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">11月23日，记者从最高人民法院巡回法庭表彰暨选派工作动员大会上获悉，四年来，最高人民法院巡回法庭紧紧围绕推动审判工作重心下移、就地解决纠纷、方便当事人诉讼等改革初衷，扎实推进司法改革各项措施，切实发挥司法改革的“试验田”“排头兵”作用。截至目前，巡回法庭共审结案件28494件，年均结案率超过90%，人均结案数位居全院前列。<br/><div class="contheight"></div>经党中央批准，最高人民法院于2015年1月设立第一、第二巡回法庭，并于2016年底增设第三、第四、第五、第六巡回法庭。<br/><div class="contheight"></div>四年来，各巡回法庭坚持重心下移，狠抓审判执行工作，就地解决矛盾纠纷，切实方便群众诉讼，积极服务法治建设，被人民群众亲切称为“家门口的最高人民法院”。各巡回法庭积极发挥改革“试验田”“排头兵”作用，先于本部推进司法责任制改革，实现“让审理者裁判，由裁判者负责”的改革要求。建立庭领导带头办案制度，庭长、副庭长带头办案。加强审判团队建设，厘清不同人员的职责范围，办案效率明显提高。加强审判监督管理，坚持放权与监督相结合，建立类案强制检索、主审法官会议、裁判文书交叉检验、案件质量第三方评查等制度机制，规范法官自由裁量权，推进法律适用统一。优化内设机构设置，实行扁平化管理，提高运行效率。<br/><div class="contheight"></div>最高人民法院巡回法庭带动人民法院相关配套改革，促进了人民法院组织体系建设，较好实现了改革初衷，为完善中国特色社会主义司法制度、推进全面依法治国发挥了重要作用。<br/><div class="contheight"></div>（原题为《最高法巡回法庭设立四年较好实现改革初衷》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陈绪厚<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 最高法 巡回法庭 司法改革</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2666838">
+<div class="nbgbox">
+<a class="zan" contid="2666838" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 司法改革</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2666838&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2666838&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

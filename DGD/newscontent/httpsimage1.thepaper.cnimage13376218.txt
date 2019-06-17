@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">王毅：推动中印人文交流在新的历史条件下实现新跨越</h1>
+<div class="news_about">
+<p>外交部网站</p>
+<p>
+							2018-12-21 19:03<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">外交部网站12月21日消息，当地时间2018年12月21日，中国-印度高级别人文交流机制首次会议在新德里举行，国务委员兼外长王毅与印度外长斯瓦拉吉共同主持。<br/><div class="contheight"></div>王毅和斯瓦拉吉首先分别宣读了习近平主席、莫迪总理向会议发来的贺信。<br/><div class="contheight"></div>王毅表示，建立中印高级别人文交流机制，是习近平主席和莫迪总理达成的重要共识。今天我们正式启动这一机制，具有非同寻常的意义，这是落实两国领导人共识的重要步骤，是推动中印关系全面发展的重要举措，也是构建东方文明复兴的重要平台，将有助于巩固双边关系民意基础、促进两国关系健康发展、推动不同文明和谐共处、共同维护世界的和平稳定。我们要按照两国领导人在贺信中提出的方向，发展好、利用好这一机制，促进民心相通，助力构建更加紧密的发展伙伴关系。<br/><div class="contheight"></div>王毅指出，今年是中印关系发展史上不平凡的一年，习近平主席同莫迪总理在武汉举行具有里程碑意义的会晤，并在多边场合三次见面，明确了中印关系未来的大方向，引领两国合作进入新的发展阶段。当前，中国正在朝着实现“两个一百年”奋斗目标迈进，印度正在致力于建设“新印度”而努力奋斗。中印两大文明古国携手走上民族复兴之路，为加强中印人文交流提供了广阔舞台。我们愿同印方一道，按照两国领导人共识，充分发挥人文交流机制的统筹作用，调动各种资源，发挥各自优势，推动中印人文交流在新的历史条件下实现新跨越，取得新发展。<br/><div class="contheight"></div>斯瓦拉吉表示，两国领导人在武汉会晤时一致同意建立两国高级别人文文流机制，展现了远见桌识。印中两大文明古国有着深厚的文化纽带，启动印中高级别人文交流机制，必将为两国人文交往提供新平台，为两国关系与合作提供新动力。首次会议的圆满成功，也将把两国人文交流合作提升到新高度，使人文交流纽带成为双边关系的稳定器。<br/><div class="contheight"></div>会上，中印双方有关部门负责人围绕文化、媒体、影视、博物馆、体育、青年、旅游、地方、传统医药与瑜伽、教育与智库等领域的交流合作进行了深入讨论，达成广泛共识。<br/><div class="contheight"></div>访问期间，王毅将出席第三届中印媒体高峰论坛开幕式、中印青年主题摄影展、高级别人文交流机制开幕式暨文化之夜、中印文明对话闭幕式等一系列人文交流活动。<br/><div class="contheight"></div>（原题为《中印举行高级别人文交流机制首次会议 王毅同印度外长斯瓦拉吉共同主持》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中印关系</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2760768">
+<div class="nbgbox">
+<a class="zan" contid="2760768" href="javascript:;" onclick="voteCont(this)" praisetimes="36">
+                           35</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中印关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2760768&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2760768&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25436">能见度</a>
+</div>
+<h1 class="news_title">鞍钢集团2017年负责人税前年薪提高，当年结束五年亏损</h1>
+<div class="news_about">
+<p>澎湃新闻记者 贺梨萍</p>
+<p>
+							2018-12-27 16:25<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月25日，钢铁央企之一鞍钢集团在官网公布了企业负责人2017年度薪酬情况，其中包括集团时任党委书记、董事长唐复平和时任董事、总经理、党委副书记姚林等15位高管。<br/><div class="contheight"></div>公布的薪酬信息包括“2017年度从本公司获得的税前报酬情况”、“社会保险、企业年金、补充医疗保险及住房公积金单位缴存部分”、“2015年度任期激励收入”、“是否在股东单位或其他关联方领取薪酬”、“在关联方领取的税前薪酬总额”五项。“2017年度从本公司获得的税前报酬情况”又分为两大项，分别为应付薪酬，及其他货币性收入。<br/><div class="contheight"></div>其中，应付薪酬和2015年度任期激励收入由国务院国资委核定。2015年度为中央企业负责人第四任期（2013年-2015年）经营业绩考核最后一年，根据国家有关规定，开始实施任期激励收入。<br/><div class="contheight"></div>从公布的薪酬情况来看，唐复平最高为62.53万元。其次为姚林，57.83万元。此外，应付薪酬超过50万元的有董事、党委副书记、工会主席尹利，党委常委、副总经理、总会计师于万源，副总经理白静瀑，党委常委、纪委书记许质武，分别为56.28万元、55.97万元、54.95万元、56.05万元。<br/><div class="contheight"></div>对比过去两年公布的薪酬，鞍钢集团负责人2017年度应付薪酬有一定的提升。前两年，鞍钢集团一把手年薪均为40余万元。而过去的2015年、2016年，也是鞍钢集团这家“钢铁共和国长子”经营举步维艰的时期，分别巨亏76.97亿元、93.75亿元。<br/><div class="contheight"></div>2017年，鞍钢集团终于结束长达五年的连续亏损，实现盈利15亿元。<br/><div class="contheight"></div>值得一提的是，另一家钢铁央企中国宝武同日也公布了企业负责人2017年度薪酬情况。时任董事长、党委书记马国强和现任董事长、党委书记陈德荣在2017年度的应付年薪相同，均为69.88万元，较两年前高出近20万元。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/554/846.jpg" width="100%"/></div></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李跃群<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 鞍钢集团,年薪,钢铁央企,澎湃</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780484">
+<div class="nbgbox">
+<a class="zan" contid="2780484" href="javascript:;" onclick="voteCont(this)" praisetimes="16">
+                           15</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 鞍钢集团</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780484&caid=25436",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780484&amp;caid=25436" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

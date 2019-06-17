@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">半月谈微评：对无辜孩子下手，必须严惩</h1>
+<div class="news_about">
+<p>@半月谈杂志</p>
+<p>
+							2019-01-08 16:53<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">半月谈杂志官方微博1月8日消息，今天，北京宣师一附小校内发生的一男子伤害孩子事件震惊全北京城。其伤害儿童的残忍暴行可谓“丧尽天良”。对这类丧失人性、禽兽不如的暴徒，我们绝不能原谅，必须严惩！<br/><div class="contheight"></div>我们在为受伤儿童担忧同时，也在反思当下的校园安全建设。当前，各个学校普遍重视校园安全，针对校门口、学校周边的警卫保安措施都抓得很紧。 但是，当袭击发生在校内而不是校外，怎么办？当袭击者来自学校而不是社会，怎么办？显然，这一事件暴露出制度建设的漏洞，为校园安全敲响了警钟。人性之恶无法消除，防范建设却不能因此而消极以待，必须补上校内存在的各种漏洞，让校园安全之网严密再严密！否则，一个小小的漏洞某一天 就会成为生命的黑洞，那将是家庭和社会无法承受之重。<br/><div class="contheight"></div>让孩子们的眼睛看到的是美好，而不是充满恐惧，我们的学校、政府部门必须肩负起应付的责任。<br/><div class="contheight"></div>（原题为《半月谈微评 对无辜孩子下手，必须严惩！》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2827533" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">北京一小学发生男子伤害孩子事件，20名伤者中3人伤势较重</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 北京,西城,小学</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827872">
+<div class="nbgbox">
+<a class="zan" contid="2827872" href="javascript:;" onclick="voteCont(this)" praisetimes="108">
+                           107</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 砍杀小学生</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827872&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827872&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（50）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

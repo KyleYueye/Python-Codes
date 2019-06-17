@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25450">文化课</a>
+</div>
+<h1 class="news_title">全国博物馆总数已达5136家，去年近十亿人次走进博物馆</h1>
+<div class="news_about">
+<p>王珏/人民日报</p>
+<p>
+							2019-01-09 07:50<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="714" src="http://image.thepaper.cn/www/image/14/60/403.jpg" width="400"/></div><span style="color: rgb(128, 128, 128);">人民日报 图<br/><div class="contheight"></div></span>人民日报北京1月8日消息，记者从8日召开的全国文物局长会议上获悉：截至目前，全国博物馆总数已达5136家，去年全国博物馆举办各类展览超过2万个，近10亿人次走进博物馆，参观博物馆日渐成为一种生活方式。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="378" src="http://image.thepaper.cn/www/image/14/60/411.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">2018年12月7日早晨，上海博物馆进口前已排起长队，尽管阴冷天气也难挡观众观展热情。 视觉中国 图<br/><div class="contheight"></div></span>2018年，文物保护利用改革力度明显加大，《关于加强文物保护利用改革的若干意见》《关于实施革命文物保护利用工程（2018—2022年）的意见》相继出台，成为文物领域里程碑式的政策性文件。<br/><div class="contheight"></div>据介绍，在文物安全方面，2018年，国家文物局会同公安部开展全国打击文物犯罪专项行动，侦破案件851起，打掉犯罪团伙173个，抓获犯罪嫌疑人1476名，追缴文物6877件（套）。公安部第三批A级通缉令10名重大文物犯罪案件在逃人员全部到案。<br/><div class="contheight"></div>国家文物局局长刘玉珠说，近年来国家文物局和各地直接督办的文物违法案件中，法人违法案件占比近80%，违法不究或处罚过轻问题突出，一些重大法人违法案件得不到应有的查处。<br/><div class="contheight"></div>在对外合作方面，对外文物交流合作日趋丰富。我国与法国、英国、新加坡、坦桑尼亚、意大利、阿根廷签署文化遗产领域双边协议，向濒危文化遗产保护国际基金捐款并参与基金管理。中外合作考古渐成规模，40项中外合作考古项目涉及亚洲、非洲、欧洲、南美洲的24个国家和地区。<br/><div class="contheight"></div>文化和旅游部部长雒树刚说，社会各界对文物工作给予广泛关注支持，也对进一步发挥文物作用提出了更高期待。这就要求我们坚持以人民为中心的工作导向，积极拓展文物资源盘活路径，让文物在新时代焕发新风采。<br/><div class="contheight"></div>（原题为《近十亿人次走进博物馆》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张珺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 博物馆</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2830230">
+<div class="nbgbox">
+<a class="zan" contid="2830230" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 博物馆</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2830230&caid=25450",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2830230&amp;caid=25450" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

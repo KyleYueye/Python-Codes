@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">广东三级检察长带头办理涉黑恶案件，担当专项行动直接责任人</h1>
+<div class="news_about">
+<p>检察日报</p>
+<p>
+							2018-10-09 12:21<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div>近日，广东省广州市南沙区检察院依法对彭某等人以涉嫌组织、领导、参加黑社会性质组织罪等罪名作出批捕决定。这是南沙区今年以来打掉涉黑犯罪嫌疑人最多、冻结资金数额最大的一起涉黑案件。得知案件破获，当地群众奔走相告，燃放鞭炮以示庆祝。</div><div>自今年初扫黑除恶专项斗争开展以来，广东检察机关全面履行审查批捕、起诉等职能，依法严厉打击涉黑涉恶犯罪，办理了一大批案件。尤其是，广东三级检察长带头办理涉黑涉恶案件，成效比较明显。</div><div>记者了解到，扫黑除恶专项斗争部署后，广东省检察院很快成立了由检察长林贻影任组长、8名院领导和3名专委为成员的领导小组，组建了广东省检察院扫黑除恶工作专班。各级检察院也都成立了扫黑除恶专项斗争领导小组及办公室，明确检察长是专项斗争的直接责任人，实现了“人员全部到位、机制全面运转”的目标。</div><div>为全面压实责任，广东省检察院先后对各地开展专项斗争情况进行了两轮督导。林贻影带队到广州、深圳开展督导工作，其他各组也深入基层，实地核查，实现了督导工作全覆盖。</div><div>在开展专项斗争过程中，广东检察机关积极创新机制，强化协调联动，省检察院与省公安厅、省高级法院、省司法厅等部门加强工作协调，完善分工负责、互相配合、互相制约机制，省检察院与省公安厅共同把14起重大复杂涉黑涉恶案件作为挂牌督办案件，目前已有7起案件依法提起公诉。各地检察机关还设立案件绿色通道，启用黑恶势力案件专用标识，有效提高案件在检察环节的流转效率。</div><div>“扫黑除恶专项斗争成效如何，关键还在案件办理。”广东省检察院有关负责人介绍，为精准高效打击黑恶犯罪，广东检察机关优化办案组织，在全省建立了300多个专业化办案组，集中优势兵力开展工作。各级检察长发挥“头雁效应”，带头办案，起到了重要引领作用。目前，广州等地检察机关对重大疑难涉黑涉恶案件提前介入率已达到100%。</div><div>据了解，广东各级检察机关比较注意拓展线索来源，他们向社会公布了检察机关扫黑除恶举报电话和网络举报平台，指派专人处理，确保线索不遗漏。广东省检察院扫黑除恶办专门下发通知，要求全省检察机关梳理排查5年来受理的相关案件及举报，努力从检察环节发掘涉黑涉恶案件线索。佛山市禅城区检察院在办理刘某等组织卖淫案中，发现该犯罪团伙背后存在黑恶势力及“保护伞”，经过半年多引导侦查，最终改变原罪名，以组织、领导、参加黑社会性质组织罪等罪名起诉。</div><div>在半年多扫黑除恶专项斗争中，广东各级检察机关一直注重强化法律监督，深耕主责主业。各级检察机关加强对立案、变更强制措施、在逃人员追捕追诉、违法财产追缴等监督工作；加大对涉黑涉恶服刑人员减刑、假释、暂予监外执行监督力度等，促进了严格执法、公正司法，确保了案件质量。（原标题为《广东：三级检察长带头办案惩黑恶》）</div></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陈雷柱<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 扫黑除恶,广东</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2510226">
+<div class="nbgbox">
+<a class="zan" contid="2510226" href="javascript:;" onclick="voteCont(this)" praisetimes="14">
+                           13</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 扫黑除恶</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2510226&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2510226&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

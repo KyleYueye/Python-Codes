@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">孟加拉国大选结果出炉，谢赫・哈西娜再次当选总理</h1>
+<div class="news_about">
+<p>澎湃新闻记者 廖婧雯</p>
+<p>
+							2018-12-31 12:39<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="714" src="http://image.thepaper.cn/www/image/13/751/56.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">现任总理谢赫・哈西娜（Sheikh Hasina）在总理大选上连续第三次获得压倒性胜利。东方IC 图</span></div><div>孟加拉国选举委员会12月31日表示，现任总理谢赫・哈西娜（Sheikh Hasina）在总理大选上连续第三次获得压倒性胜利。</div>哈西娜是孟加拉国国父穆吉布·拉赫曼之女。新华社报道称，她30日在达卡投票后说：“选民将给我们再次为他们服务的机会，我们可以保持国家的发展势头、带领孟加拉国向前发展。”<br/><div class="contheight"></div>孟加拉国实行一院议会制，共有350个议席，其中300个以直接选举形式从所属选区选出，每个选区一个席位，其余50个是为妇女保留的席位，由议会选举产生。所有议员任期5年。如果某个党派或执政联盟在国民议会选举中获得超过150个议席，就可以组建政府、任命总理。<br/><div class="contheight"></div>据英国广播公司（BBC）12月31日报道，目前为止，哈西娜的执政党赢得了350个议会席位中的281票，超过了以往赢得胜利的选举所获得的选票。<br/><div class="contheight"></div>反对派谴责该次选举为一场“滑稽”的选举，指控执政党使用暴力、恐吓以及对投票进行操控。反对党只获得了7个席位，他们要求重新进行投票。孟加拉国选举委员会表示，他们听取了“全国各地”关于投票操控的指控，并将进行调查。目前为止至少有17人在执政党支持者和反对派之间的冲突中丧生。<br/><div class="contheight"></div>哈西娜的人民联盟从2009年起就开始领导孟加拉国，然而有反对党指控他们在选举中使用填充的投票箱。孟加拉国民族党的一名发言人称，300个席位中有221个席位存在“违规行为”。<br/><div class="contheight"></div>但新华社报道称，路透社记者30日走访达卡9个投票点，发现带有执政党孟加拉人民联盟“船”型标志的海报远远多于反对党。多家国际媒体报道，孟加拉人民联盟主席哈西娜对选举结果有信心。她邀请外国媒体记者和选举观察员31日到总理府做客，预期孟加拉人民联盟赢得选举。<br/><div class="contheight"></div>哈西娜对媒体表示：“一方面，他们（反对党）在提出指控。另一方面，他们在攻击我们的党员和领导人。这是国家的悲剧。” <br/><div class="contheight"></div>据新华社12月31日报道，孟加拉人民联盟成员、哈西娜的儿子经由社交媒体“推特”驳斥反对派的说法。他写道：孟加拉国电视台报道，选举“和平”，只有“少数孤立事件”；民意调查显示执政党将大获全胜，而反对派多次错误指认执政党违规、企图制造争议。<br/><div class="contheight"></div>据中新社12月27日报道，联合国秘书长古特雷斯27日通过发言人发表声明，呼吁孟加拉国第11届国民议会选举利益攸关方确保在选举前、选举中和选举后营造一个没有暴力、恐吓和强迫的环境，以使投票以和平、可信和包容的方式举行。孟加拉国第11届国民议会选举原定于12月23日举行，由于反对党联盟的要求，大选日期被推迟到12月30日。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：汤宇兵<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 孟加拉国，选举，哈西娜</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2799320">
+<div class="nbgbox">
+<a class="zan" contid="2799320" href="javascript:;" onclick="voteCont(this)" praisetimes="99">
+                           98</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 孟加拉国</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2799320&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2799320&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

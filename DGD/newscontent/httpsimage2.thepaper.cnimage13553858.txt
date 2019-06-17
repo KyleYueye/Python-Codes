@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25430">澎湃防务</a>
+</div>
+<h1 class="news_title">中国北斗系统今天开始提供全球服务</h1>
+<div class="news_about">
+<p>余建斌/人民日报客户端</p>
+<p>
+							2018-12-27 15:06<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="234" src="http://image.thepaper.cn/www/image/13/553/878.jpg" width="600"/></div>人民日报客户端12月27日消息，在当日下午举行的国务院新闻办公室新闻发布会上，中国卫星导航系统管理办公室主任、北斗卫星导航系统新闻发言人冉承其宣布：北斗三号基本系统完成建设，于今日（12月26日）开始提供全球服务。这标志着北斗系统服务范围由区域扩展为全球，北斗系统正式迈入全球时代。<br/><div class="contheight"></div>据介绍，北斗系统是中国自主建设、独立运行，与世界其他卫星导航系统兼容共用的全球卫星导航系统，可在全球范围，全天候、全天时，为各类用户提供高精度、高可靠的定位、导航、授时服务。<br/><div class="contheight"></div>自上世纪九十年代开始，北斗系统启动研制，按“三步走”发展战略，先有源后无源，先区域后全球，先后建成北斗一号、北斗二号、北斗三号系统，走出了一条中国特色的卫星导航系统建设道路。<br/><div class="contheight"></div>（原题为《中国北斗系统今天开始提供全球服务！》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 北斗系统,全球服务</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780340">
+<div class="nbgbox">
+<a class="zan" contid="2780340" href="javascript:;" onclick="voteCont(this)" praisetimes="4069">
+                           4068</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 北斗导航系统</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780340&caid=25430",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780340&amp;caid=25430" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（533）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

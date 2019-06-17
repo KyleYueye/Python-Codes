@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评丨能否上车应该是票说了算而不是人说了算</h1>
+<div class="news_about">
+<p>澎湃特约评论员 陈曦</p>
+<p>
+							2018-10-10 22:05<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2515222" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">黄金周多趟列车不让有票乘客上车，专家：铁路部门违约应赔偿</span></a></img></p></div>
+<div class="news_txt" data-size="standard">国庆黄金周时期，翟先生成功购到从山东菏泽开往北京的Z72次列车车票，却被列车员拒于列车之外。铁路部门给出的说法是车厢里全是人，赶谁下车都不合适。考虑到列车运营安全，只能安排部分乘客乘坐下趟列车。翟先生则指出硬座车厢并非人满，而是几位带行李的乘客堵住入口，导致其余人无法上车。<br/><div class="contheight"></div>国庆黄金周是出行的高峰期，相较于昂贵的航空和高铁而言，较为廉价的普通火车依然是长途出行的人们青睐的交通工具，在这期间，火车站也便成为了人潮涌动的乘客集散地。<br/><div class="contheight"></div>越是人群聚集之场所，越需要兼顾效率和公平的刚性规则，使混乱变得井然有序。既然买票乘车是一种既定规则，乘车对于持票乘客而言亦是其权利。而就规则本身而言，规则只有先于事物而存在才有合理性，当事情发生时，为了满足已上车的乘客的利益而根据现状去重新制定规则，并且这种规则又是以牺牲另一部分乘客的合理权益为代价的，试问规则的合理性和正义性又何在。乘客能否上车，应该由其手里的车票说了算，而不是列车员说了算。<br/><div class="contheight"></div>规则要兼顾效率和公平，无论是已经上车的乘客还是未上车的乘客，其能否上车的依据只能是手里的票，列车员应对持票乘客一视同仁。如果安排一部分乘客乘坐下趟列车，按此逻辑，划分能否乘坐本次列车的标准则变为了乘车时间先后，而不是具有法律效力的车票本身。因此，无论是安排哪部分持票乘客坐下趟列车，皆破坏了规则，且有违公平的准则。为追求效率，铁道部门对已经上车的乘客的权利予以保护，而对未上车乘客的合法权益选择性失明的做法并不可取。<br/><div class="contheight"></div>此外，列车运行规则需刚性和透明，只有这样才能减少人的主观随意性，从而兼顾效率与公平。在航空和高铁尚不发达的年代，铁路客运承担着比目前更为艰巨的长途运客量。买不到票的情况更为普遍。有时没有票的乘客只需和安检人员口头承诺到车上再补票，安检人员即会放行，但有时候安检人员也会将没有票的乘客阻拦在外，因此能否乘车对于没有票的乘客而言有着投机性，而对于安检人员则有着随意性。而随着交通运输基础设施的不断完善，买不到票的情况有所缓解，却又出现了即便买到票也不让上车的问题。然而，这一问题并非新问题，其根源与“无票亦可乘车”的问题具有一致性，即铁路规则运行边界的模糊，潜规则代替明规则发挥着作用，这表现为铁路工作人员的特权的任性。<br/><div class="contheight"></div>铁路规则应尽可能明细，将权责统一的规范具体落实到铁路工作人员和乘客上，并保证其共同遵守。实际上，原子化的、分散的乘客相较于体系化运作铁路部门而言处于弱势地位，如何更好地保障乘客的权益则是铁路部门应有的责任和担当。对铁路工作人员行为的边界做出明确的界定，不仅有利于填补“车满票余”的规则漏洞，还有利于部分铁路工作人员从特权的垄断者向乘客的服务者转变，从而在整体上提升铁路部门的形象。<br/><div class="contheight"></div>但从根本上来说，解决黄金周票难买、车难坐，抢票难，有票无座的状况不仅需要规则的良好运行和航空、高铁的发展，亦需要兼顾普通列车轨道运输，不断完善其基础设施，从而更好地满足乘客长途出行的需求。</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 有票不能上车，规则，权利</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2516850">
+<div class="nbgbox">
+<a class="zan" contid="2516850" href="javascript:;" onclick="voteCont(this)" praisetimes="225">
+                           224</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 铁路</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2516850&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2516850&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（78）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

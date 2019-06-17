@@ -1,0 +1,91 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25464">澎湃质量报告</a>
+</div>
+<h1 class="news_title">权健子公司高管发展下线5000余人曾被控传销，被判处缓刑</h1>
+<div class="news_about">
+<p>澎湃新闻记者 赵孟 实习生 桑蕴涵</p>
+<p>
+							2018-12-25 19:59<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2772941" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">权健称“百亿保健帝国阴影”文涉诽谤，作者：所写均有证据</span></a></img></p></div>
+<div class="news_txt" data-size="standard">12月25日，在朋友圈刷屏的自媒体文章《百亿保健帝国权健，和它阴影下的中国家庭》将权健集团有限公司（以下简称“权健集团”）带入了舆论漩涡。<br/><div class="contheight"></div>与此同时，有不少网友称，权健集团推广产品的模式涉嫌传销。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）注意到，吉林省蛟河市人民法院一份刑事判决书[（2012）蛟刑初字第121号]显示，有四人曾因参与权健自然医学科技发展有限公司（以下简称“权健自然医学”）传销活动，犯组织、领导传销活动罪，分别被判决刑期两年到三年，均获缓刑。<br/><div class="contheight"></div>其中被告人孟某某为权健销售团队“人人系统”的最高领导者，而“权健自然医学”的最大股东就是权健集团。<br/><div class="contheight"></div>判决书显示，该传销组织规定：每个被发展进来的人都必须交纳960元购买“骨正基磁疗鞋垫”或“益钙素”“益菌素”等产品，获得资格后可以发展其下线人员，成为会员后如再购买产品可享受半价优惠，个人累计或一次性消费6720元权健公司产品，由中心店以七单上报公司成为经销商，以此形成严密的人员销售网络，从中获取提成。<br/><div class="contheight"></div>法院查明，2009年初，权健公司成立销售团队之一“人人系统”，是权健公司三个系统之一，孟某某是人人系统最高领导人，孟某某对上的领导就是权健集团法人束昱辉。<br/><div class="contheight"></div>判决书显示，孟某某于2008年在天津市加入“权健自然医学”，以销售“权健牌”保健品为名，要求参加者以960元购买“骨正基磁疗鞋垫”等产品的方式获得加入资格，按照七个层级进行传销活动，直接或间接以发展人员数量或者销售业绩获利。<br/><div class="contheight"></div>2009年初，孟某某成为“人人系统”最高领导者后，在此系统内共直接或间接发展被告人战某某、徐某甲、戴某某等下线会员5000余人，个人非法所得230余万元。徐某甲直接或间接发展会员1500余人，个人非法所得97万元。<br/><div class="contheight"></div>徐某甲的下线戴某某于2009年2月加入“系统”，成为蛟河市权健自然医学中心店店长。戴某某直接或间接发展下线会员300余人以上，个人非法所得约13万元。<br/><div class="contheight"></div>戴某某交待，权健公司的产品分三大块，分未病工程的预防、调理用的饮品和食品，未病工程的治疗疾病的药品，化妆品，共计有200多种。<br/><div class="contheight"></div>蛟河市人民法院2012年判决上述四人犯组织、领导传销活动罪，分别被判决刑期两年到三年，均获得缓刑。<br/><div class="contheight"></div>其中，被告人孟某某被判处有期徒刑三年，缓刑五年，并处罚金人民币463.8万元。<br/><div class="contheight"></div>工商信息显示，权健集团法定代表人为束昱辉，注册资本40080万元，经营范围覆盖保健食品业、化妆品业、保健用品业、食品饮料业、卫生用品业、医疗服务业等。<br/><div class="contheight"></div>权健自然医学科技发展有限公司于2004年成立，法定代表人为陈亦隆，但他并不持有股份。该公司注册资本35977万，其中权健集团持股75.36%，另外两名股东是束昱辉和束长京，经营范围包括自然医学、机电一体化、计算机及网络的技术开发、转让、咨询等。</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_asktopic">
+<div class="news_askuser" onclick="window.open('asktopic_detail_10014679');"><span class="verticalAlign_topic"></span>
+<div class="news_askuser_bd">
+<div class="news_askuser_sort">圆桌</div>
+<div class="news_askuser_profile">你买过哪些保健品？入过何种“坑”？</div>
+</div> <div class="news_askuser_trbs"><span class="trbs">
+<div class="userleft_hdimg">
+<img src="http://image.thepaper.cn/html/image/def_head.jpg"/><div class="hdimg_bg30"><img src="//file.thepaper.cn/www/v3/img/headerimg_ctbg30.png"/></div>
+</div>
+<a class="u_sname"></a>
+<span>19小时前</span>
+<span class="trbs_zan" id="10014679" times="100">100</span>
+<span>提问征集中</span>
+</span></div>
+</div>
+</div>
+<div class="news_editor">责任编辑：崔烜<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 权健 权健自然医学 传销 判决</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2773159">
+<div class="nbgbox">
+<a class="zan" contid="2773159" href="javascript:;" onclick="voteCont(this)" praisetimes="230">
+                           229</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 天津权健</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2773159&caid=25464",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2773159&amp;caid=25464" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（1.1k）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

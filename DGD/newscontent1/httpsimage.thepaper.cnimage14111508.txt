@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=32607">网信河北</a>
+</div>
+<h1 class="news_title">网传“驾驶电动自行车也要考驾照”？石家庄交管部门：假的！</h1>
+<div class="news_about">
+<p>网信河北</p>
+<p>
+                            2019-01-10 11:18<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard">这几日，网上流传一篇网帖，文中提到：<br/><div class="contheight"></div>交通越来越堵，电动车也来添堵了，因为有一些电动车主太过肆意妄行了，无视交通规则任意穿梭，还引发交通事故，所以管理部门就出台了“最严禁行”，这个改变包括电动车必须考驾照这一项目。<br/><div class="contheight"></div> <div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/110/864.jpg" style="width:600px;"/></div><br/><div class="contheight"></div>文中还写道↓↓↓<br/><div class="contheight"></div>电动车驾考费用总共是335元，其中包括100元培训费和225元的考试费，剩下的就是工本费了；<br/><div class="contheight"></div>科目一的考试和机动车一样，都是理论知识，简单的道路行车规则，90分及格；科目二就是基本的行驶测试，80分及格，科目三就是上路模拟行驶，其实和机动车的考试是一样的，90分及格，只不过没有科目四的考试。<br/><div class="contheight"></div>而驾驶员拿到的证是F类的，因此，以后电动车上路就需要持有F证了。<br/><div class="contheight"></div><strong>石家庄市交管部门：这是对政策的错误解读</strong><br/><div class="contheight"></div>对此，石家庄市交管局工作人员告诉记者，网络上的消息并不属实，市民不要轻信。该工作人员称，《电动自行车通用技术规范》将于2019年4月15日实施，届时上路行驶的电动自行车必须符合新国标，即必须满足电动车最高时速不能超过每小时25公里，整车重量不大于55公斤，必须安装有脚踏装置，也就是说符合这个标准的电动自行车才算是达标的。<br/><div class="contheight"></div><strong>“新规中并没有对考驾照的事情进行约定。至于该政策的落实，市民要以交管部门的官方发布为准，不要轻信传言，引起不必要的恐慌。”</strong>该工作人员称。<br/><div class="contheight"></div>（来源：河北青年报）</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2835808">
+<div class="nbgbox ">
+<a class="zan" contid="2835808" href="javascript:;" onclick="voteCont(this)" praisetimes="35">
+                                    34</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

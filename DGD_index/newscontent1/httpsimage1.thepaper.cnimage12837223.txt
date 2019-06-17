@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">人民法院报刊文：严打器官买卖中“罪恶的手术刀”</h1>
+<div class="news_about">
+<p>郝雪梅/人民法院报</p>
+<p>
+							2018-12-03 16:26<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">每一起“卖肾案件”里，都有一把罪恶的手术刀，严打器官买卖，利剑要刺向“罪恶的手术刀”。<br/><div class="contheight"></div>11月28日，湖南省湘潭市岳塘区人民法院对备受关注的“卖肾案”进行一审公开宣判。薛庆东等8名被告人犯组织出卖人体器官罪，被判处二年至四年不等有期徒刑，并处罚金。<br/><div class="contheight"></div>湖南的这起器官买卖案件的判决，最大的亮点在于，不仅“组织贩卖”的人被法办了，而且所有参与的医生都被法办了。成功实施器官移植的过程，是一个完全非法的过程，有人负责联系肾源，有人负责联系体检，有人负责联系手术场所、购置手术医疗用品及相关器械，有人负责组织手术医生、安排护士、照顾术后供体。而这些环节都是非法的，所有这些非法的环节，助长了器官买卖的嚣张。<br/><div class="contheight"></div>然而，在以往，这类案件进入司法环节之后，只是严厉打击“组织买卖”者，却很少有无缝隙的全链条打击，即便一些医生护士被打击了，也多是徒具象征意义。这样的查处不仅是不到位的，而且留下了更大隐患。<br/><div class="contheight"></div>某种程度上说，本案中“自愿买卖”的情况还算是好的，更为严重的则是那种“强迫”、“倒逼”式样的器官买卖。但是，不管器官买卖是自愿的还是被胁迫的，都属于不折不扣的违法行为，扰乱了正常的医疗秩序。<br/><div class="contheight"></div>这其中尤须关注的是“罪恶的手术刀”。每一起器官买卖案件，其实组织者也是“门外汉”，他们能够做的就是组织交易。但是，交易只是其中的一个环节，最为重要的环节，真正促成器官买卖的环节，其实就是手术环节了。而器官摘除、器官移植，是相当高的医疗技术。这必然涉及专业人士的参与。<br/><div class="contheight"></div>那么，将医疗场地租赁给违法人员该当何罪？这些提供医疗场地的医疗机构是不是也该被追究责任？而那些“罪恶的手术刀”是不是也该罚当其罪？每一起“卖肾案件”里，都有一把罪恶的手术刀，严打器官买卖，利剑要刺向“罪恶的手术刀”。<br/><div class="contheight"></div>（原题为《严打器官买卖中“罪恶的手术刀”》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：朱远祥<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 卖肾 医生 判决</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2699634">
+<div class="nbgbox">
+<a class="zan" contid="2699634" href="javascript:;" onclick="voteCont(this)" praisetimes="20">
+                           19</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 卖肾</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2699634&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2699634&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25491">长三角政商</a>
+</div>
+<h1 class="news_title">男子高速路停车躺快车道后报假案称受重伤，想让女友回心转意</h1>
+<div class="news_about">
+<p>澎湃新闻记者 葛熔金 通讯员 李方平 王侃</p>
+<p>
+							2018-12-25 16:33<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">在繁忙的沪杭高速公路上，一辆路虎揽胜车突然在高速公路超车道上停了下来。这还不算完！驾车的小伙子从车上下来后，竟然直接躺在高速公路快车道上。高速交警到达现场后，该男子还跟对交警说：“我死了不要紧，只要她肯回心转意，警察同志麻烦你给我拍一张照片发给她……” <br/><div class="contheight"></div> 12月25日，澎湃新闻（www.thepaper.cn）从浙江嘉兴高速交警支队获悉，警员到达现场后就将该男子和车辆强制带离，目前对此事还在进一步处理中。 <br/><div class="contheight"></div> 12月19日下午，嘉兴高速交警支队指挥中心接到一名男子的报警电话，对方称其驾驶的路虎揽胜车在G60沪杭高速嘉兴段发生事故，男子反复说，他的车停在第一车道动不了，人也受了重伤。<div style="text-align:center;"><img alt="" height="250" src="http://image.thepaper.cn/www/image/13/489/343.gif" width="450"/></div><span style="color: rgb(128, 128, 128);">本文图片均来自“钱江晚报”微信公众号<br/><div class="contheight"></div></span> 嘉兴高速交警支队一大队的邵警官带领一名协警火速赶往事发现场。一到现场，邵警官却发现，有个年轻小伙整个人躺在快车道上，身体在不停地抽搐，奇怪的是，他驾驶的路虎揽胜车并无任何碰撞痕迹。进一步询问后，才得知该男子并未发生事故，而是报了假案。<br/><div class="contheight"></div> <div style="text-align:center;"><img alt="" height="384" src="http://image.thepaper.cn/www/image/13/489/344.jpg" width="600"/></div>经了解，这名男子是嘉兴平湖市人，不久前女友和他闹翻，一直不肯回到他身边。为了重新赢得女友的心，小伙不惜以生命为代价，人为制造了一起高速公路车祸受伤的“闹剧”，以此来“宣示爱情”。<br/><div class="contheight"></div> 在和高速交警的对话中，男子反复强调“警察同志，我全身都动不了了，你给我女朋友打个电话，我不知道自己还能坚持多久！”“把我送到嘉兴桐乡医院，让她赶紧来这里找我”等，很明显是为情所困，这才做出了极端行为。而交警看到他浑身抽搐是因为天气太冷所致，并非受伤。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：谢春雷<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 男子，高速停车，躺倒快车道，报假案</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772886">
+<div class="nbgbox">
+<a class="zan" contid="2772886" href="javascript:;" onclick="voteCont(this)" praisetimes="14">
+                           13</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 报假案</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772886&caid=25491",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772886&amp;caid=25491" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（386）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

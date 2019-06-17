@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=27911">健康中国</a>
+</div>
+<h1 class="news_title">国家卫健委：抗癌药降价保供进医院</h1>
+<div class="news_about">
+<p>健康中国</p>
+<p>
+                            2019-01-11 09:43<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard">国家卫生健康委员会1月10日在国家卫生健康委新闻发布厅召开2019年首场例行新闻发布会，介绍2018年度卫生健康工作进展成效及2019年度卫生健康工作重点任务。<br/><div class="contheight"></div>主持人<br/><div class="contheight"></div>国家卫生健康委新闻发言人、宣传司副司长<br/><div class="contheight"></div>宋树立<div style="text-align:center;"><img alt="" height="600" src="http://image.thepaper.cn/www/image/14/156/884.jpg" width="800"/></div>一是把临床急需的癌症防治用药纳入国家基本用药目录，以优先配备使用癌症防治药品需求为导向，2018版国家基本药物目录增加了12种抗肿瘤新药和丙肝的治疗药物。<br/><div class="contheight"></div>二是研究制定一系列癌症治疗的临床路径和用药指南，明确了对新型抗肿瘤药物在病理、特护用药等方面的指导要求。<br/><div class="contheight"></div> 三是研究完善抗癌药物配备使用的管理政策。这个工作和国家相关业务主管部门一起做的，一个是在医保费用方面，17种国家谈判的抗癌药物费用不纳入总额控制范围，对合理使用的费用按规定单独核算保障。二是在医疗机构使用方面，对供应保障和合理使用药物提出了要求。在10月份下旬，国家卫生健康委员会下发了通知，要求有登记肿瘤科的三级综合医院和各级肿瘤专科医院，根据临床需求及时配备谈判药品，而且要求每周要报送采购和使用进展。这个文件已经从10月下旬，到现在不到三个月的时间，我这里有一个截至1月3日的统计数据，全国31个省份和新疆生产建设兵团一共1386家医院上报了相关数据，绝大部分都根据需要采购了刚才所说的谈判的抗癌药，已经使用了60多万盒，减轻了癌症患者的用药负担。从10月份到现在不到三个月的时间，进展还是很快的。<br/><div class="contheight"></div>下一步我们将坚持以人民健康为中心，继续指导医疗机构加强谈判药物配备，并且通过落实各类肿瘤诊疗指南和临床应用指导原则，以及医嘱审核和综合点评等要求，来提高合理用药和肿瘤诊疗质量。<br/><div class="contheight"></div>来源：国家卫生健康委员会官方网站、中国网<br/><div class="contheight"></div>（原标题《宋树立：抗癌药降价保供进医院》）<br/><div class="contheight"></div><br type="_moz"/></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2840496">
+<div class="nbgbox ">
+<a class="zan" contid="2840496" href="javascript:;" onclick="voteCont(this)" praisetimes="45">
+                                    44</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

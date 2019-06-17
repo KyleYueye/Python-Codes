@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">土耳其拟将卡舒吉案提上联合国议程，敦促沙特分享调查结果</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-24 21:02<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">土耳其外交部长恰武什奥卢12月24日表示，土耳其拟争取将沙特记者卡舒吉被害案提上联合国议程。<br/><div class="contheight"></div>恰武什奥卢24日在土耳其最大的电视台NTV节目中说：“土耳其还在继续对这起谋杀案开展全方位调查。我方在与其他一些国家继续努力，以求将这个问题提上联合国议程。”<br/><div class="contheight"></div>恰武士奥卢补充说，安卡拉等待沙特与土耳其和国际社会分享本案的调查结果。<br/><div class="contheight"></div>恰武什奥卢称：“至今没有人告诉我们遇害记者遗体在哪里。那些杀害并肢解了卡舒吉的人在沙特，下命令的人也在沙特。能够回答侦查人员问题的人目前都在沙特。”<br/><div class="contheight"></div>卡舒吉遇害前为《华盛顿邮报》等多家媒体供稿，他于今年10月2日进入沙特驻土耳其伊斯坦布尔领事馆办理结婚相关手续时神秘失踪，其后证实被杀。沙特已承认卡舒吉死于“谋杀”。<br/><div class="contheight"></div>沙特总检察长谢赫·沙特·穆吉卜上月表示，卡舒吉被害是有预谋的：他被注射药物致死，尸体被分解并运出领事馆。21人因此案被捕。检方要求对5名谋杀参与者判处死刑，其他人则依据伊斯兰教法典予以惩处。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：辛恩波<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 沙特,卡舒吉,土耳其</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2770375">
+<div class="nbgbox">
+<a class="zan" contid="2770375" href="javascript:;" onclick="voteCont(this)" praisetimes="47">
+                           46</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 卡舒吉</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2770375&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2770375&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

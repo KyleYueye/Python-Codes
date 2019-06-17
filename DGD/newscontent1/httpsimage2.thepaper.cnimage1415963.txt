@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">王府井豪华吸烟区已拆除，曾称“从精神文明建设角度立项”</h1>
+<div class="news_about">
+<p>北京青年报</p>
+<p>
+							2019-01-11 11:01<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="342" src="http://image.thepaper.cn/www/image/14/159/68.png" width="600"/></div><span style="color: rgb(128, 128, 128);">王府井百货大楼东门广场，<span style='font-family: FZLanTingHei_BJQN-EL-GBK, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", "Helvetica Neue", Arial, sans-serif; text-align: justify;'>占地70多平米的固定高台式"烟客"吸烟区</span>已经被拆除。 北青报 图<br/><div class="contheight"></div></span>王府井百货大楼东门广场处，一个占地70多平米的固定高台式"烟客"吸烟区近日引发了广泛关注。北京市控烟协会表示，这一行为有鼓励和引导吸烟、促进烟草销售的意图，与国家控烟规划以及北京控烟条例规定不符，因此坚决反对。1月11日上午，北京青年报记者从北京市控烟协会获悉，目前该"豪华"吸烟区已经被拆除。<br/><div class="contheight"></div>1月7日，北京青年报记者来到王府井百货大楼前看到，这个被网友称作"最豪华"的吸烟区里，建有13根不锈钢柱式烟灰缸，18把不锈钢座凳，六块固定金属围挡。其中还包括两个"烟客"广告牌和一个巨大的由许多烟圈组成的造型。该吸烟区坐落在王府井步行街紧急疏散广场和百货大楼紧急疏散通道上，一下聚集了这么多"烟灰缸"，引来了不少人的注意，成为王府井大街一个明显的"景观"。<br/><div class="contheight"></div>由于是冬天，户外停留的人并不多，但不时也有从百货大楼里走出来的"烟民"坐在这里吸根烟。有两名在此吸烟的男士表示，有这样一个吸烟区对他们来说是好事，"不然让烟民怎么办？"而同时，连排的座椅也吸引了年幼的儿童在这里玩耍，有带孩子的家长告诉记者，很反对二手烟，对于户外设置这样的大规模的吸烟区，有点疑惑："这不成鼓励吸烟了？"<br/><div class="contheight"></div>北青报记者从北京市控制吸烟协会了解到，协会已对该吸烟区进行了实地调查，并召开了专家研讨会。专家们一致认为，"烟客"吸烟区的设置明显违反《北京市控制吸烟条例》，立法的目的是为了减少吸烟造成的危害，维护公众健康权益，创造良好公共环境，提高城市文明水平。北京王府井百货的"巨无霸"吸烟点，不仅违法了条例中相关的细则，更是与立法精神背道而驰。此外，该吸烟区可能是目前全市规模最大、最豪华的并设立在王府井百货大楼门口，用固定围挡方式矗立在人口密集区和行人必经的主要通道处，给消防工作会带来安全隐患。<br/><div class="contheight"></div>据王府井党办相关负责人介绍，近日刚落成的"烟客吸烟区"是由湖南烟草出资，北京市烟草公司和百货大楼共同推动的精神文明项目，且经过北京市文明委和东城区政府批准后，落户百货大楼门前广场。据悉，在"烟客"吸烟区落成后，北京市烟草局刘永波副局长曾到此详细询问了烟客区的筹备搭建、投入使用等相关情况，并要求百货大楼在后期维护上要继续跟进，为金街上的烟民提供舒适的吸烟共享环境。<br/><div class="contheight"></div>针对北京市控烟协会坚决反对的质疑声音，百货大楼相关人士表示已经与区政府、市烟草局等部门进行多方沟通和协商，"这个项目涉及多个部门，立项时也是从精神文明建设角度设立，现在还在逐级汇报中。"北京控烟协会相关负责人在接受北青报记者采访时表示，接下来，控烟协会将会持续关注此事进展。<br/><div class="contheight"></div>1月11日上午，北京市控烟协会发来现场视频显示，吸烟区的柱式吸烟缸已经被拆除。（原标题：王府井百货豪华"烟客"吸烟区已拆除）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李寿康<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 北京 王府井</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2840787">
+<div class="nbgbox">
+<a class="zan" contid="2840787" href="javascript:;" onclick="voteCont(this)" praisetimes="31">
+                           30</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 吸烟区</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2840787&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2840787&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（53）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

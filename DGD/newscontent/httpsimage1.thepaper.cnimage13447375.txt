@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">媒体探访印尼海啸灾区现场：海啸把这里的繁华热闹一扫而光</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-24 10:32<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="385" src="http://image.thepaper.cn/www/image/13/447/387.jpg" width="600"/></div> <span style="color: rgb(128, 128, 128);">12月23日，在印度尼西亚万丹省板底兰，海啸过后一片狼藉。印度尼西亚抗灾署23日晚说，该国西部巽他海峡22日晚发生的海啸造成的遇难者人数已升至222人。 新华社 图<br/><div class="contheight"></div></span>据新华社12月24日报道，被海啸冲垮的房屋化作一堆破砖碎瓦；汽车被倒塌的大树压到变形，趴在废墟上；被卷上岸的渔网胡乱缠绕在大树上；农用拖拉机浸泡在淹没的农田里……<br/><div class="contheight"></div>23日下午，记者驱车从北向南沿着印度尼西亚万丹省的西部海岸前往万丹省板底兰县和西冷县灾区，一路见到的是遍地狼藉。<br/><div class="contheight"></div>印尼抗灾署当天发布消息说，印尼西部巽他海峡22日晚发生的海啸已造成222人死亡，此外还有843人受伤，数百座建筑物损毁。随着搜救工作继续进行，人员伤亡和财产损失情况的统计数字预计还会进一步增加。<br/><div class="contheight"></div>板底兰县和西冷县西部海岸是印尼传统度假区，细白的沙滩、碧蓝的海水使这里成为知名的冲浪和潜水目的地。海岸周边酒店、度假村、餐馆、商店遍布,商业繁荣。<br/><div class="contheight"></div>在受灾严重的西冷县芝朗加村，海啸已经把这里的繁华热闹一扫而光，只留下随处可见的泥沙、残枝、废弃物，以及废墟上的一片寂静。<br/><div class="contheight"></div>军警和搜救人员正在同时间赛跑，日夜挖掘房屋废墟，争取发现更多幸存者。救灾人员在村子的空地上搭起帐篷分发救灾物资，当地居民们也在帮忙搬运物资和清理废墟。<br/><div class="contheight"></div>回忆起海啸发生时的情景，“心有余悸”是幸存居民的普遍感受。24岁的艾吉是土生土长的当地人，他的家正对着巽他海峡中的喀拉喀托火山，艾吉说他就是听着火山喷发和震动的声音长大的。不过，海啸发生当晚，他却听到异常的声音，“感觉是从海底传出来的”。<br/><div class="contheight"></div>“当晚我正在休息，突然发现海水已经漫过地板，我意识到这是上涨的潮水，我抱起孩子叫上妻子就拼命往外跑，”艾吉说，“逃出家门后，我眼睁睁看着房子被一浪接着一浪卷过来的海水淹没并随后解体。这真是我从未见过也毕生难忘的恐怖场景。”<br/><div class="contheight"></div>位于芝朗加村负责搜救的官员约翰·埃芬迪对新华社记者说，芝朗加村受灾严重，目前已有12人死亡，数十人受伤，另有31人失踪。印尼国家搜救局已经出动约700名搜救人员展开紧急救援。<br/><div class="contheight"></div>虽然海啸重创了家园，但是艾吉并不悲观。他说，相信海啸过后这里的海水将会依旧湛蓝，椰影依然婆娑，沙滩也将重返洁白。“经历这次海啸之后，我们也会更加爱护环境，更加合理地进行村庄规划建设。不久的将来，这里将会出现一个更加繁华与热闹的度假村。”<br/><div class="contheight"></div>（原标题 海啸把这里的繁华热闹一扫而光——印尼海啸灾区现场见闻）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 印尼海啸</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768051">
+<div class="nbgbox">
+<a class="zan" contid="2768051" href="javascript:;" onclick="voteCont(this)" praisetimes="11">
+                           10</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 印尼海啸</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768051&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768051&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">外媒：前加拿大外交官康明凯在中国被拘</h1>
+<div class="news_about">
+<p>环球时报</p>
+<p>
+							2018-12-12 07:57<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="313" src="http://image.thepaper.cn/www/image/13/99/982.jpg" width="280"/></div>据路透社报道，国际危机组织（International Crisis Group）周二（11日）表示，其东北亚高级顾问、加拿大前外交官康明凯（Michael Kovrig），近日被中国政府拘留。<br/><div class="contheight"></div>总部位于比利时的国际危机组织声明称，正寻求获得更多有关康明凯的信息，并希望他能尽快并安全获释。<br/><div class="contheight"></div>据路透社报道，中国外交部和公安部尚未对事件作出回应，康明凯被拘留的原因也尚不得知，加拿大驻华大使馆拒绝评论事件。<br/><div class="contheight"></div>资料显示，康明凯曾任加拿大驻北京和驻香港的外交官，曾在纽约联合国总部担任联合国开发计划署的战略通讯专家，能说普通话。他于去年加入国际危机组织，担任东北亚高级顾问，研究分析中国、日本和朝鲜半岛的外交事务和全球安全问题等。多次批评中国，并主张对华采取强硬态度。<br/><div class="contheight"></div>国际危机组织是一个非政府组织，成立于1995年，末代港督彭定康曾是该组织的联合主席之一，澳大利亚前外长加雷思·埃文斯曾担任该组织的总裁兼首席执行官。<br/><div class="contheight"></div>（原题为《外媒：前加拿大外交官康明凯在中国被拘》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：杨一帆<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 加拿大,康明凯</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2728756">
+<div class="nbgbox">
+<a class="zan" contid="2728756" href="javascript:;" onclick="voteCont(this)" praisetimes="2832">
+                           2831</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中加关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2728756&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2728756&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（430）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

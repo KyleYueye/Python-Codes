@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜培训机构大面积“押中”试题，你又说是巧合？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 胡欣红</p>
+<p>
+							2018-11-14 13:34<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据部分参加了云南省昭通市教师补员考试的考生反映，他们在11月10日参加的补员考试笔试中，教育学和教育心理学（合卷）试卷里约有70%的考题是来自于某培训机构的模拟卷，在考前更是被当地的某培训机构“押中”。11月13日，昭通市教育局则回应称，目前，当地对此情况高度重视，已成立调查组介入调查。<br/><div class="contheight"></div>但凡有过考试经历的过来人都知道，只要是正儿八经的考试，要想在考前“押中”题目，简直比登天还难。即便偶尔“巧合”，大多也是方向性一致，基本不可能是一模一样的题目。<br/><div class="contheight"></div>然而，在微博、当地论坛上，有大量的昭通考生反映，“二十个选择题有十几个原题，题号都不变，简答题一模一样，后面的大题也差不多”。考生小雨说，如果说选择题这样的客观题型存在70%的雷同是“巧合”，那主观题型出现大面积的重复“简直就是不可思议”。还有网友指出，今年昭通市教师补员考试的题目是曲靖市某次考试大纲中的样题。<br/><div class="contheight"></div>究竟是“神押题”还是借用别人家的样题，有待相关部门的深入调查。如果说是“天下试卷一大抄”，如此敷衍了事就是对考生的不负责任。倘若是前者，那便令人怀疑背后是否存在黑色利益链。<br/><div class="contheight"></div>考试因其淘汰功能，自然会与利益挂钩，有人想方设法“上下其手”在所难免。尤其是相关培训机构介入之后，因其“神通广大”，在利益的刺激下不惜铤而走险，考试舞弊更容易形成完整的产业链。屡屡发生的泄题案中，似乎都少不了培训机构与“内鬼外援”里应外合的“精诚合作”。<br/><div class="contheight"></div>对于外界的“泄题”质疑，涉事教育培训机构则坚决否认，“由于教师补员考试的中小学教育理论属于死记硬背的科目，出现知识点类似和相同也纯属正常”。出现雷同恰好证明了考试没有偏离招聘公告所说明的考试大纲范围。“知识点类似和相同”当然属于正常，可问题是对同一个知识点的考查，题目完全可以千变万化，又怎能做到大面积一模一样呢？<br/><div class="contheight"></div>更何况，在考前的11月5日，这家培训机构曾经发布通知，称花费重金整理了部分超纲内容，“也是成败的秘密杀手锏”，要求参加了培训的考生不许外传。如此慎重其事，颇有种“此地无银三百两”的感觉。<br/><div class="contheight"></div>考试舞弊一贯为公众所深恶痛绝，为了严厉打击考试舞弊，2015年《刑法修正案》（九）将国家级考试作弊入刑，两高的司法解释对于组织考试作弊罪、非法出售、提供试题答案罪、代替考试罪，分别作出规范。《刑法》第284条新增规定：“在法律规定的国家考试中，组织作弊的，处3年以下有期徒刑或者拘役，并处或者单处罚金；情节严重的，处3年以上7年以下有期徒刑，并处罚金。”<br/><div class="contheight"></div>考试是社会公平的底线，不管什么样的考试，都必须严肃对待。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 考试作弊</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2632776">
+<div class="nbgbox">
+<a class="zan" contid="2632776" href="javascript:;" onclick="voteCont(this)" praisetimes="74">
+                           73</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 考试作弊</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2632776&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2632776&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">西安13家商户卖打火机被判侵权需赔过万，部分被告准备上诉</h1>
+<div class="news_about">
+<p>田睿/华商报</p>
+<p>
+							2018-12-23 10:59<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">11月初，在西安经营水果超市的郭先生，因卖出去数十个打火机收到了法院的传票。事由为侵犯专利权，同样收到传票的还有十多家商店。<br/><div class="contheight"></div><strong>十多家商店收到同一公司起诉书</strong><br/><div class="contheight"></div>郭先生在高新四路经营一家水果超市，11月5日，他突然收到西安中院发来的传票，案由为侵害实用型专利权纠纷、侵害外观设计专利权纠纷。“我拿到传票都不知道自己侵害了谁的专利，看了起诉书后才知道是因为一款打火机，而且还分成了4份起诉书。”<br/><div class="contheight"></div>郭先生说，平时有骑电动车的人来推销打火机，他就直接从推销员那里买了一些进行销售，被起诉侵权的打火机也是这样买来的。“7月底有一个四五十岁的男子骑着电动车来推销打火机，说这个新款砂轮打火机很好卖，我就先买了一大盒，一共有50只。”<br/><div class="contheight"></div>12月21日上午，华商报记者来到郭先生经营的超市，看到这款砂轮打火机，颜色以黑、白色为主，包装样式都是不同造型的女士漫画形象。“收到传票后就没再卖这款打火机了，现在还剩十多个。”郭先生说。<br/><div class="contheight"></div>“我们有一个商品厂家业务员建立的商家要货微信群，里面有60多家商店老板，我在群里问了后才知道，还有十几家商店也收到了传票。”郭先生说。<br/><div class="contheight"></div>雷先生和陈先生分别在红庙坡和凤城五路经营便利店，11月初也收到了法院的传票，被起诉侵权的打火机也同样是7月底从一个推销员手里购入的。<br/><div class="contheight"></div><strong>中院判决一商户停售侵权产品赔付1.25万</strong><br/><div class="contheight"></div>12月13日，西安中院对郭先生所涉案件做出了判决，第一份判决书显示，原告宁波某电子科技有限公司起诉郭先生经营的水果超市，侵犯实用新型专利“一种快装式砂轮打火机”，申请赔偿3万元。中院审理查明后认为，郭先生经营的超市销售的砂轮打火机侵犯了原告的专利权，判决被告停止销售侵权产品，并赔偿原告经济损失3500元。<br/><div class="contheight"></div>第二份判决书显示，原告起诉超市销售的打火机侵害了外观设计专利“打火机砂轮架（X2）”。经法院查明，被控侵权产品为一种砂轮打火机，与涉案外观设计专利属于同一类别，经对比，被控侵权产品侵犯了涉案外观设计专利权，判决被告停止销售侵权产品，并赔偿3000元。<br/><div class="contheight"></div>第三份判决书显示，原告起诉被告侵害外观设计专利“打火机风罩（X2）”。法院判决，被告停止销售侵权产品，并赔偿3000元。<br/><div class="contheight"></div>第四份判决书显示，原告起诉被告侵害外观设计专利“打火机（X2）”。法院判决被告停止销售侵权产品，并赔偿3000元。<br/><div class="contheight"></div>21日下午，郭先生等人的代理律师华律师说，他一共代理了13个被告商店，每户都有4个案件，最终判决结果也都类似，都需赔偿1.2万多元。“这些案子都是相同的案由，据我了解，法院一共收到了160多个案子，原告是同一家公司，涉及40多家商户。”<br/><div class="contheight"></div>华律师认为，如果是为了正当维护自己的知识产权，可以通过提醒警告，让商铺停止销售。但这个案子没有任何通知，而是直接起诉，可能是恶意诉讼。“部分委托人已经准备上诉，现在正在准备上诉资料。”<br/><div class="contheight"></div>（<strong>原标题</strong>：13家商店卖打火机被判侵权）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：胥辉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 商户 侵权 恶意诉讼</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2765957">
+<div class="nbgbox">
+<a class="zan" contid="2765957" href="javascript:;" onclick="voteCont(this)" praisetimes="45">
+                           44</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 侵权</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2765957&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2765957&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（78）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

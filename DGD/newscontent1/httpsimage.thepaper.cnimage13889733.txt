@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">外交部回应“美国国务院针对中国发旅行警告”：经不起推敲</h1>
+<div class="news_about">
+<p>央视新闻客户端</p>
+<p>
+							2019-01-04 16:47<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">央视新闻客户端1月4日消息，当地时间3日，美国国务院发布一份关于中国的旅行警告，督促美国人加强警惕，理由是中国可通过“出境禁令”禁止美国公民离境。在今天（4日）的中国外交部例行记者会上，发言人陆慷表示，中方始终依法保障外国公民在华的合法权益，美方发布的旅行提示经不起推敲，希望美方能多做一些有利于促进两国人民交往和互信的事。<br/><div class="contheight"></div>陆慷表示，中方始终欢迎包括美国公民在内的外国公民来华，并且依法保障他们在华的安全和合法权益，包括出入境自由。当然，我们也希望，在华的外国公民要尊重、遵守中国的法律。<br/><div class="contheight"></div><strong>外交部发言人陆慷：</strong>在这儿我想指出，对极少数涉嫌在华违法犯罪的外国公民，中国办案机关始终坚持依法公正处理，并依法保障他们的各项合法权益。美方发布的旅行提示，坦率地讲是经不起推敲的。2018年1月至11月，美国来华人员达到了230万人次，每1万人中就有70人来华，这远高于中方前往美国的人员比例。中国安全不安全，这个数字还是有一定的说服力的。<br/><div class="contheight"></div>陆慷表示，近年来，美方以各种理由、借口，对中国公民入境美国设置障碍，无端进行检查，这是美方应该重视和纠正的问题，我们还是希望美方能够多做一些有利于促进两国人民交往和互信的事情，而不是相反。<br/><div class="contheight"></div>（原标题《外交部：美发布的中国旅行警告经不起推敲》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中国旅行警告</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2813104">
+<div class="nbgbox">
+<a class="zan" contid="2813104" href="javascript:;" onclick="voteCont(this)" praisetimes="75">
+                           74</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中国旅行警告</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2813104&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2813104&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

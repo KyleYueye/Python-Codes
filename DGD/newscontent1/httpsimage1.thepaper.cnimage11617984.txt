@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">深观察｜机构改革：“大数据发展管理局”如何惠民？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 李晓鹏</p>
+<p>
+							2018-10-25 08:57<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日，各地的机构改革方案纷纷出台，地方机构改革的蓝图已绘就，即将全面铺开。<br/><div class="contheight"></div>以浙江省来说，《浙江省机构改革方案》已获中央批准，也召开了全省机构改革动员大会，将改革方案和盘托出。根据方案，全省共设置省级党政机构60个，其中省委机构18个，省政府机构42个。省委职能部门和省政府组成部门在机构设置和职能配置上，与中央和国家机关基本对应。同时，也有一些“特色机构”，比如，浙江省“最多跑一次改革办公室”和浙江省“大数据发展管理局”。<br/><div class="contheight"></div>“大数据发展管理局”的设立，因应了时代发展对公共服务提出的挑战。如果说石油是工业革命的驱动力，那么数据则是我们今天信息革命的新动力。每天，无数人产生的社会活动，都会成为海量的数据沉淀下来，应该如何保存、开发、利用、管理这些数据？一方面要切实保护个人隐私，另一方面也要更好为老百姓提高生活品质而服务，更好为经济发展服务，所以在公共管理层面，有必要设立大数据管理的相关部门，来应对时代发展的需要。<br/><div class="contheight"></div>需要指出的是，在信息革命时代，平台的作用日渐重要。一个互联互通的平台，能够最大限度发挥信息和数据的作用，以至于几乎所有的互联网产品都声称自己要做平台。虽然现实之中存在各种各样的平台，但政府始终是最大的公共平台。随着“大数据发展管理局”的成立，在实现信息惠民、政务信息整合、为执法提供有的放矢的精准线索方面，政府将能够更好发挥平台作用。<br/><div class="contheight"></div>举例来说，最近笔者参加了一次电视问政节目，内容是关于网络订餐平台的食品安全问题。电视台到几家网络订餐服务提供商的厨房进行暗访，发现环境脏乱差，蚊虫滋生，操作过程极不卫生，甚至连手指头都浸到汤里去了，令人恶心。《健康许可证》的办理也十分随意，现场状况与该店在网络订餐平台上的描述完全不符。电视台特别提到，该店在网络平台上已经有80多起投诉。<br/><div class="contheight"></div>对于这样的状况，如果线上网络平台的数据，能够与线下政府部门的监管数据对接，应该很容易就能实现实时监管。政府部门向网络平台开放线下登记信息，没有合法的许可证和健康证，网络平台就不应予以注册。而网络平台上的投诉信息，也可以作为政府部门检查执法的信息渠道。一旦查实并吊销执照，网络平台也就随即注销网店，并采取封禁措施。然而，当我问当地的市场监管部门领导，数据有没有对接的时候，他却很遗憾的表示没有。<br/><div class="contheight"></div>这个例子足以说明线上线下监管的脱节，应当成为政府提升公共服务的突破口。“最多跑一次”改革和“大数据发展管理局”的设立，是“一为二，二为一”的关系。通过“最多跑一次”，倒逼的是政府公共服务职能效率和公务人员服务意识的提升。而“大数据管理局”的设立，则是为了通过大数据的管理和应用，更好提供公共服务。<br/><div class="contheight"></div>技术的进步介入公共事务，让更多的公众的受理，是需要有吃螃蟹精神的。十年前，上海电力率先启动支付宝交电费，从过去排队2小时到手机上一分钟搞定，公共服务也借此进入互联网时代。如今看来再正常不过的事情，当年迈出的第一步却不轻松。<br/><div class="contheight"></div>当下，公共服务的信息化和移动化已经达到了一个相当高的水准。但是，在政府数据和商用数据的互联互通上，在打破政府内部不能职能部门之间的“信息孤岛”上，在实现线上审核、线下执法的“次元壁”突破上，在提升政府对于大数据的管理能力上，在实现政府服务、政府监管时时“在线”方面……还有很多路要走。从公众的感受来说，距离“最多跑一次”的愿景还有一些远。所以，不能因为已经取得的成绩而沾沾自喜，必须意识到，改革永远在路上。技术进步的浪潮，将推动公共服务不断往前提升，政府应该用好技术、做好最大的服务平台。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 机构改革 大数据发展管理局</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2563194">
+<div class="nbgbox">
+<a class="zan" contid="2563194" href="javascript:;" onclick="voteCont(this)" praisetimes="74">
+                           73</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 大数据发展管理局</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2563194&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2563194&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

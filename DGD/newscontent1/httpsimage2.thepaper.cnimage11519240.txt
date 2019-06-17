@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜兜售奇葩婚育观的“情感博主”为何一直有市场？</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-10-22 15:42<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">在最近网络上兴起的“炫富挑战”中，有一位“情感博主”凭借一张12个孩子的照片，成功吸引了大家的注意力。该博主称12个孩子都是自己的。<br/><div class="contheight"></div>这位博主原来叫“煮老师”，现在更名为“宝宝老师”，拥有37万粉丝，认证为“知名情感博主”。曾有许多人认为这个账号的真实所有人叫徐波，曾加盟网易从事游戏策划，后自立门户成立多益网络，是一位多金的IT大佬。不过10月20日晚，多益网络发表声明，称“宝宝老师”微博账号非本人注册所有。<br/><div class="contheight"></div>不管“宝宝老师”的真实身份是什么，他发表过的奇葩言论都不容抵赖。他微博简介长期写着“我要找乖美女终生相伴生宝宝”，还设计了一套女性打分系统，主要以外貌来评判。<br/><div class="contheight"></div>“宝宝老师”的许多言论引发围观者不适，比如这条：“女人最重要的职责是生育养育后代，这是女人最大的价值。一个孩子价值百万，10个价值千万。随便一个女人都本可以创造千万价值，现在大部分却愚昧地追求低价值的金钱，平均一人一生不足4万*40年=160万，极大地导致了贬值。”<br/><div class="contheight"></div>他还鼓吹“女子无才便是德”，将因为工作缘故将孩子交给老人带的女性称为“蠢货女白领”。在奇葩言论引发舆论哗然之后，他又把自己的行为言论包装成“爱国”“为国家做贡献”，给反对自己的人扣“祸害中华民族”的大帽子。<br/><div class="contheight"></div>“宝宝老师”使人联想起曾被人民日报评为“谬种流传”的另一位“情感博主”Ayawawa。这两位的路数确实有不少相似之处，他们都否定女性本身的价值，认为女性只有与男性或孩子绑定才有价值。这些观念经过一些语言上的包装，以其“大胆”、“真性情”、“言常人所不敢言”的表象赢得一批粉丝的拥戴，实质仍是三从四德那套老把戏。<br/><div class="contheight"></div>最值得警惕的是，当这些小圈子传播的奇葩价值观进入大众视野，引起围观和批评之后，这些“情感博主”的粉丝都表现出很强的忠诚度与战斗力。他们不以为耻，反以为荣，捍卫“教主”之余还到处输出他们所被灌输的价值观。<br/><div class="contheight"></div>扫把不到，灰尘不会自己走掉。因此对于这些兜售奇葩价值观的“情感博主”，主流社会必须明确表态，坚决回击。<br/><div class="contheight"></div>其实这两年此类邪门歪道之所以层出不穷，也是钻了空子。生育政策的调整，导致社会上的生育文化、两性观念出现了一些摇摆和误解。有些人误以为，为了鼓励生育就应该贬低女性地位，使女性回到依附性地位上去。其实这是极大的认知误区。<br/><div class="contheight"></div>此外，网络上确实也有一些盲目反婚反育的极端声音，在这些声音反衬下，“不择手段多生娃”被一些人赋予了某种矫枉过正的正当性。但是这两种极端声音站成一团，不会形成任何有益的讨论。<br/><div class="contheight"></div>只有下气力培育健康的婚育观念，才能驱散这些“妖魔鬼怪”。健康婚育观的含义是，结婚、生育都是人生中非常美好的事情，但前提必须是平等、自愿与负责。少数人终生选择不婚不育，这也是他们的自由，只是不必脑补已婚已育者的悲惨。社会要鼓励生育，只能从保障女性权益的方向去操作，而不是反过来。如果人们对社会主流价值观有信心，看到个别极端言论就不会感到恐慌。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 情感博主 奇葩价值观</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2552150">
+<div class="nbgbox">
+<a class="zan" contid="2552150" href="javascript:;" onclick="voteCont(this)" praisetimes="172">
+                           171</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 情感教主</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2552150&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2552150&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

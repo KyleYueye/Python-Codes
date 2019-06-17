@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">英国2岁男孩接受“最小风险”手术，医生误切去其一健康睾丸</h1>
+<div class="news_about">
+<p>封面新闻</p>
+<p>
+							2018-12-22 17:41<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="337" src="http://image.thepaper.cn/www/image/13/407/380.jpg" width="600"/></div>英国一名两岁的男孩在接受了睾丸手术时发生医疗事故，失去了生育能力。<br/><div class="contheight"></div>据英国《太阳报》报道，本周早些时候，这名幼童被布里斯托尔皇家儿童医院(Bristol Royal Hospital for Children)收治。<br/><div class="contheight"></div>他的父亲称，外科医生做手术时出了错，“阉割了他”。医院也对此表示道歉，并已展开调查，启动赔偿程序。<br/><div class="contheight"></div>为了保护孩子的隐私，男孩的父亲没有透露自己的姓名。他说，他儿子在一次例行检查中被发现其中一颗睾丸患有“隐睾症”。本周一，他们的孩子被转介给一位专家，打算在布里斯托尔皇家儿童医院接受约30分钟的小手术。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/407/381.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">布里斯托尔皇家儿童医院(Bristol Royal Hospital for Children)</span><br/><div class="contheight"></div>男孩的父亲告诉BBC，他们被告知这是一个“最小风险”的“小小手术”，整个手术将在30分钟左右结束。可是当手术已经延时到两个半小时后，医院的经理、外科医生和顾问都来了，“我知道有些不对劲。”他和妻子开始惊慌失措，他们被叫到办公室，院方告诉他们，“事情不太顺利，手术也不成功。”<br/><div class="contheight"></div>这对夫妇说，院方告之，由于一名外科医生错误地将医疗摄像机植入了“健康的睾丸一侧”，结果医生们对健康的睾丸做了手术，进而导致健康的睾丸“失去了生育功能”。<br/><div class="contheight"></div>“我很苦恼，这对一个简单的手术来说是一场可怕的灾难。他们毁了一切，毁了我的儿子。他们阉割了他，现在我儿子的未来生活发生了巨大的变化。”男孩的母亲说。<br/><div class="contheight"></div>“他们伤透了我的心，基本上毁了孩子的未来，我找不到语言来表达我的感受——很无语。”<br/><div class="contheight"></div>“我已经欲哭无泪。我们只希望出现奇迹，这就是我们所希望的。”<br/><div class="contheight"></div>医院发现错误后也立即与患者家人见面，向他们道歉，并解释发生了什么事。<br/><div class="contheight"></div>院方在一份声明中称，“对治疗过程中发生的严重事故深表歉意。”并表示，“非常重视患者的安全和临床护理标准，已开始对此事进行彻底调查，并将在整个过程中与患者家属合作。”<br/><div class="contheight"></div>（原标题《2岁男孩做睾丸手术 医生却误将健康的一侧睾丸“阉割”了》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：吴跃伟<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 英国 睾丸手术 2岁男孩 医疗事故</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2764214">
+<div class="nbgbox">
+<a class="zan" contid="2764214" href="javascript:;" onclick="voteCont(this)" praisetimes="62">
+                           61</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 严重医疗事故</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2764214&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2764214&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（91）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

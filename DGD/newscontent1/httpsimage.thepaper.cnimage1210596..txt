@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜强制改微博名、退学生会写检讨，奇葩校规不嫌多？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 默城</p>
+<p>
+							2018-11-09 16:49<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日有网友爆料称，平顶山某高校强制让学生改微博昵称，统一为“年级+专业+班级+姓名”格式，再关注学校团委的官方微博，并“转、评、赞”。学生如改不了昵称，还需换手机号重新注册。不按要求操作的学生，将会影响院系考核评分。该校回应表示正在调查处理。<br/><div class="contheight"></div>微博都出现多少年了，居然还搞“强行圈粉”这一套，且不说让学生转发、点赞的微博中不乏无意义的内容，就算有意义，就可以自恃学校的身份，以评优考核相威胁，逼迫学生就范？<br/><div class="contheight"></div>学校想发展新媒体、提高关注率，心情可以理解。但做大做强平台，提升影响力和传播力只能靠优质的内容“吸粉”，而不是任意挥动行政的大棒。<br/><div class="contheight"></div>更何况，此举很有可能暴露学生个人隐私。微博是公共社交平台，网友作为独立个体，自行设置微博昵称是基本权利。即便现在推行网络实名制，也仅限于后台注册时，而非前端显示真名。如此情形下，尚不乏个人信息泄漏的案例，现在让学生将诸多个人信息置于网络“裸奔”，一旦被不法分子盯上，责任由谁来负？<br/><div class="contheight"></div>讽刺的是，这类奇葩事件并非孤例。11月7日，广东某大学的一名学生在微博曝光，某学院学生会要求退会的学生写5000字检讨，并且退后影响评优。随后不少同学纷纷留言，说检讨从几千到几万字都有。该校学生处回应称，不排除是个别部门的自行要求。<br/><div class="contheight"></div>大学学生会作为学生社团，本来就是入、退自愿的组织，退与不退都应是学生自主决定，不受任何外力强制和胁迫。可上述学生会却特立独行，以检讨来惩戒退会学生，还以取消评奖评优来威胁。这种“惩戒”，到底目的何在？<br/><div class="contheight"></div>这两个大学的“管理奇闻”，都透着浓浓的越界意味。学校只看到了自身作为管理者的权力，对不听话者动辄祭出“影响成绩、评优”等大旗，这种习惯性傲慢，让被管理者不适，让旁观者不适。<br/><div class="contheight"></div>这些越界举动的频发，首先源于学校的利益诉求。让学生修改昵称、转评赞微博，迎合的是学校自我宣传的诉求；罚退学生会的学生写检讨，是为了震慑学生，让更多学生一直留在学生会，不浪费前期的所谓“培养”，后期还可以继续干活。这些利益诉求，可谓精打细算、环环相扣，唯独可能没多想想学生的基本权利与感受。<br/><div class="contheight"></div>一所大学，要想赢得学生的尊重，自己首先要尊重学生。要想培养出优秀的学生，自己首先要做优秀的大学。而要做到优秀和被尊重，首先要做到“合格”，这既包括遵守国家法律法规，也包括身体力行地传递平等、理性、宽容的人文情怀。<br/><div class="contheight"></div>大学生都是成年人了，而且正处于世界观、价值观的成熟期，高校管理的一举一动，都对他们有潜移默化的影响。管理者更应该谨慎用权，做到平等尊重，让大学生都感受到被“温柔以待”。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 大学奇葩规定</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2618294">
+<div class="nbgbox">
+<a class="zan" contid="2618294" href="javascript:;" onclick="voteCont(this)" praisetimes="326">
+                           325</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 奇葩规定</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2618294&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2618294&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（62）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

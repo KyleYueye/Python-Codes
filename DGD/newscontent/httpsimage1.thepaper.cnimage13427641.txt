@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">西安一热力公司要求业主供暖季不开窗，有居民认为不合适</h1>
+<div class="news_about">
+<p>牛冬冬/陕西广播电视台</p>
+<p>
+							2018-12-23 12:21<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">最近，西安长安区的一些小区居民反映说，这两天他们收到了西安长安区新区热力公司的一张“致各用热户的函”，这张函里面竟然要求业主们在供暖季都不能开窗户，否则会给他们采取热量限流的措施。这让很多居民表示不理解。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="336" src="http://image.thepaper.cn/www/image/13/427/638.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="336" src="http://image.thepaper.cn/www/image/13/427/639.jpg" width="600"/></div>12月22日，记者随机来到西安长安区的京科花园小区，小区的一些居民告诉记者，这两天小区的很多住户家都不敢开窗户，因为在12月20日，西安长安区新区热力公司给他们发了一张函说，如果，居民在供暖季开窗户，热力公司将会给他们进行热量限制。<br/><div class="contheight"></div>小区居民：“我感觉不合适，都是新房就是感觉对人身体不好，整个供暖不开窗户太夸张了，我感觉不合适的。”<br/><div class="contheight"></div>小区居民：“我觉得不合适，不开窗户的话可能会导致屋里的空气没法流通，像冬天病毒比较多，不开窗户不流通的话，我觉得不太合适。”<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="336" src="http://image.thepaper.cn/www/image/13/427/637.jpg" width="600"/></div>记者在长安区京科花园小区看到，很多单元门上都贴有居民所说的这张函。函上写到：“在取暖过程中打开窗户会造成室内温度降低，影响整体供暖效果，并且会对资源造成一定浪费。在此后公司将不定期进行检查，发现开窗取暖现象即视为过度用热，将采取限流的措施”，落款为西安市长安区新区热力有限公司用户服务部。对此，记者来到了西安长安区新区热力有限公司了解情况，工作人员表示，他们写这个函的主要目的是想让居民能够节约热能，不要造成不必要的浪费。<br/><div class="contheight"></div>西安长安区新区热力公司工作人员：“我们这个函上的措辞引起了大家的误解，其实也就是想呼吁广大的用热户能够从自我做起，尽可能减短开窗通风的时间，有的百姓的生活习惯，每天都要开窗通风，但是我们要尽可能的减短开窗通风的时间，节约热能，让更多的人能共享冬季的温暖。”<br/><div class="contheight"></div>工作人员表示，如果他们确实发现小区有大量居民在供暖季长时间开窗户造成浪费的话，将会对小区热量进行一定的限制。<br/><div class="contheight"></div>西安长安区新区热力公司工作人员：“我们给到小区是一个整体的按面积核算的热量，但是小区开窗户的情况特别多的话，我们要根据他实际的用热面积去核算热量的话，肯定就会有一些限制，但是不会针对每一户去限制。”<br/><div class="contheight"></div>（原题为<b>《</b>热力公司致函要求业主供暖季禁止开窗，小区居民认为不合适》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：胥辉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 供暖 开窗 争议</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766078">
+<div class="nbgbox">
+<a class="zan" contid="2766078" href="javascript:;" onclick="voteCont(this)" praisetimes="114">
+                           113</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 冬季供暖</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766078&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766078&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（1k）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

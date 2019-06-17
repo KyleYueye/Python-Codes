@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">普京年度记者会丨愿改善俄日关系，但对美国在日反导系统不安</h1>
+<div class="news_about">
+<p>澎湃新闻记者 刘惠 朱郑勇</p>
+<p>
+							2018-12-20 18:53<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/347/242.jpg" width="100%"/></div><span style="color: rgb(128, 128, 128);">12月20日，在俄罗斯首都莫斯科，俄罗斯总统普京举行年度记者会。  新华社 图<br/><div class="contheight"></div></span>莫斯科当地时间12月20日中午，俄总统普京举行年度记者会。第二位提问的外国记者来自日本，其提问与两国签署《俄日和平条约》的前景和南千岛群岛（日方称“北方四岛”）问题有关。<br/><div class="contheight"></div>对于两国缔结和平条约的事宜，普京表示东京和莫斯科都认为，不正式缔结和平条约是不自然的，俄罗斯和日本都愿改善两国关系。但两国的双边关系虽取得了进展，也存在问题。<br/><div class="contheight"></div>普京强调，俄罗斯想知道日本在涉及美国军事基础设施建设的决策方面拥有多大的主权。他表示，冲绳人民抗议美国驻军多年，但美军基地仍在那里。在对这个问题不确定的情况下，俄罗斯无法就南千岛群岛（日方称“北方四岛”）作出任何明确的决定。<br/><div class="contheight"></div>普京还强调，日本也是美国反导设施的主要组成部分，俄罗斯认为这是对国家安全的威胁。俄罗斯不对美国在日部署反导系统的"防御性"抱有幻想，因为它同时还可用作进攻性武器。因此，即便俄日签署和平条约，两国关系的新走向也很难预测。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：杨一帆<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 普京,记者会,日俄关系</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2757130">
+<div class="nbgbox">
+<a class="zan" contid="2757130" href="javascript:;" onclick="voteCont(this)" praisetimes="28">
+                           27</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 普京年度记者会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2757130&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2757130&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

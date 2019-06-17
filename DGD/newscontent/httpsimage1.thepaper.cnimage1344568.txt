@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">杭昌高铁杭州-黄山段25日开通运营，初期时速250公里</h1>
+<div class="news_about">
+<p>央视新闻客户端</p>
+<p>
+							2018-12-24 07:53<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">央视新闻客户端12月24日消息，记者从中国铁路总公司获悉，浙江杭州至江西南昌高速铁路的组成部分，杭州-黄山段将于25日，也就是明天正式开通运营。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/445/65.png" width="100%"/></div>杭昌高铁杭黄段全长265公里，共设杭州东、杭州南、富阳、桐庐、建德、千岛湖、三阳、绩溪北、歙县北、黄山北等10座车站，初期运营时速250公里。沿线经过西湖、西溪湿地、千岛湖、黄山、西递宏村等7个国家5A级旅游景区和50多个4A级景区。为最大限度减少铁路对沿线景区的破坏，保护生态环境，线路采用了大之字形折线设计。<br/><div class="contheight"></div><strong>中国铁建铁四院杭黄铁路总体设计负责人 张必武</strong>：这个之字形设计对沿线旅游景点拉动是最为明显的，我们尽量靠近景点，但是不碰到核心景区，环境影响又是最小的，方便乘客上下车。<br/><div class="contheight"></div>杭昌高铁杭黄段开通，将进一步完善浙皖两省和我国东部地区高铁路网结构，促进沿线旅游资源开发。<br/><div class="contheight"></div>（原题为《浙江杭州至江西南昌高速铁路杭州-黄山段25日开通运营》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 杭昌高铁,黄山</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2767671">
+<div class="nbgbox">
+<a class="zan" contid="2767671" href="javascript:;" onclick="voteCont(this)" praisetimes="41">
+                           40</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 高铁</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767671&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767671&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

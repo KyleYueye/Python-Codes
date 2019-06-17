@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">用挖掘机盗掘金末元初古墓，3名嫌疑人被山西警方刑拘</h1>
+<div class="news_about">
+<p>新华网</p>
+<p>
+							2018-12-23 16:23<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社太原12月23日消息，23日记者从山西省汾阳市公安局获悉，当地警方抓获3名用挖掘机盗掘金末元初古墓的盗墓嫌疑人。<br/><div class="contheight"></div>今年11月底，汾阳市公安局文物案件侦查中队民警摸排到某建筑工地有盗掘古墓痕迹的线索，并展开案件侦查工作，案件很快水落石出。<br/><div class="contheight"></div>11月15日，该建筑工地挖掘机工人李某勇在施工时发现一座古墓葬，将情况告知了雇主郝某飞。郝某飞纠集田某生、田某、李某勇等5人，采用挖掘机和人工挖掘方式对墓葬进行盗掘，致使古墓受到严重损毁。后经文物部门初步认定，这座墓葬为金代末期元代早期的砖室古墓葬。<br/><div class="contheight"></div>目前，犯罪嫌疑人郝某飞、田某、李某勇已被依法刑事拘留，其余涉案犯罪嫌疑人被网上追逃。经审讯，3人对犯罪事实供认不讳。（本文原题为《山西：用挖掘机盗墓 3名嫌疑人被刑拘》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 盗墓</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766431">
+<div class="nbgbox">
+<a class="zan" contid="2766431" href="javascript:;" onclick="voteCont(this)" praisetimes="50">
+                           49</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 盗墓</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766431&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766431&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

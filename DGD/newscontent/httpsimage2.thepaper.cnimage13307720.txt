@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">新西兰恶母强迫15岁女儿卖淫，一审判六年引不满改判十年</h1>
+<div class="news_about">
+<p>高琳琳/中国日报网</p>
+<p>
+							2018-12-19 16:45<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="370" src="http://image.thepaper.cn/www/image/13/307/772.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">强迫亲生女儿与陌生男子发生1000多次性关系的新西兰女子拉塔。<br/><div class="contheight"></div></span>中国日报网12月19日消息，36岁的克斯米尔·拉塔来自新西兰奥克兰，身为母亲的她并没有将亲生女儿当做掌上明珠一样疼爱，反而将其推向火坑。拉塔不让女儿上学，这样女儿就能靠跟陌生男人发生性关系来给她赚钱。<br/><div class="contheight"></div>据英国《每日邮报》网站12月19日援引新西兰媒体报道，拉塔的女儿从15岁生日那天就开始在她的指导下从事卖淫活动。这个未成年少女曾经在短短18个月的时间里，为母亲赚了10万新西兰元（约合46.9万元人民币），一天大概接5次客，前前后后发生了1000多次性关系。然而，拉塔却没有将这些钱用在女儿身上，而是用来付房租、维持自己的生活。<br/><div class="contheight"></div>今年4月，拉塔被判处6年零11个月的监禁。不过，副总检察长对这一判决提出上诉并成功。12月19日，拉塔的刑期被延长至10年零3个月。在听证会上，上诉法院发现法官对拉塔罪行的严重程度的判定有误，于是将最低刑期从3年改成了5年。<br/><div class="contheight"></div>上诉法院认为，拉塔对未成年女儿实施密集且长期的性剥削具有很高的连续性和计划性。法院还指出，不能因为只有她女儿一名受害者就低估了她所犯罪行的严重程度，并且不能只看受害者身体上所承受的暴力和威胁，因为这些远不及她在精神上所遭受的不幸。<br/><div class="contheight"></div>布伦丹·布朗、帕特里夏·考特尼和萨拉·卡茨3位法官做出裁决，认定拉塔强迫女儿出卖身体的行为属于“最严重”的性剥削。<br/><div class="contheight"></div>据悉，拉塔因奴隶交易（slave dealing）并从未成年人性交易中非法获利而被人们称为“新西兰最让人看不起的女人”。她也是新西兰历史上第3个被判犯有奴隶交易罪的人。根据新西兰法律，该罪名最高可判处14年监禁。<br/><div class="contheight"></div>（原题为《新西兰恶母强迫15岁女儿卖淫千次 一审被判6年引不满改判10年》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 新西兰,强迫女儿卖淫</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2752898">
+<div class="nbgbox">
+<a class="zan" contid="2752898" href="javascript:;" onclick="voteCont(this)" praisetimes="60">
+                           59</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 强迫卖淫</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2752898&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2752898&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

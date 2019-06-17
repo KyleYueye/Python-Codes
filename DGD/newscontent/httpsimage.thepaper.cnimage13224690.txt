@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">外媒：强生公司数十年前就知道爽身粉中有“致癌物”</h1>
+<div class="news_about">
+<p>环球网</p>
+<p>
+							2018-12-15 18:45<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据环球网12月15日报道，】俄罗斯RT电视台14日援引路透社的一项调查称，强生公司数十年前就知道其婴儿爽身粉产品中含有石棉，并努力向监管机构和公众隐瞒。<br/><div class="contheight"></div>报道称，自从路透社公布强生公司从20世纪70年代起就知道其产品中含有石棉后，强生的股价暴跌8%，跌至136.1美元，成为该公司16年来的最大损失。<br/><div class="contheight"></div>路透社的报告显示，1972年至1975年间，强生公司的三家不同的实验室至少进行了三次测试，在该品牌的婴儿爽身粉产品中发现了石棉成分，其中一次测试的报告中显示石棉含量“非常高”。然而强生公司并没有将其告知食品和药物管理局(FDA)，甚至在该管理局1976年检测化妆品滑石产品中的石棉含量时，称其在1972年12月至1973年10月期间的“任何样品”中都没有检测到石棉成分。<br/><div class="contheight"></div>据报道，强生公司正面临数千起产品致癌指控，但该公司始终否认这些指控，并坚称其产品是安全的。强生公司副总裁告诉路透社，原告的律师是“为了个人经济利益”，而且“歪曲历史文件，故意在法庭和媒体上制造混乱”。但原告聘请专家进行实验室测试结果显示，产品中的确含有石棉。<br/><div class="contheight"></div>报道还提到，2013年，该公司在其官网上发布了一份声明，承认“如果说产品‘一直’不含石棉是一种误导”。<br/><div class="contheight"></div>目前，在诸多对强生公司提起的诉讼中，结果不尽相同。有些案件陪审团支持了原告，而有些则支持了被告，还有一些并未被宣判。<br/><div class="contheight"></div>（原标题 《外媒：强生公司数十年前就知道爽身粉中有“致癌物”》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 强生公司</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2743048">
+<div class="nbgbox">
+<a class="zan" contid="2743048" href="javascript:;" onclick="voteCont(this)" praisetimes="19">
+                           18</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 强生爽身粉致癌</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2743048&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2743048&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

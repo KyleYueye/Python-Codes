@@ -1,0 +1,76 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">“网民侮辱牺牲消防战士”案写入最高检案例：英烈名誉不可侵</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林平 实习生 高瑜健</p>
+<p>
+							2018-12-25 13:22<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">首例英烈保护民事公益诉讼入选最高检指导性案例。12月25日，最高人民检察院围绕公益诉讼主题发布第十三批指导性案例，“曾云侵害英烈名誉案”位列其中，案例明确宣示英烈名誉不容侵犯。<br/><div class="contheight"></div>最高检法律政策研究室主任万春表示，对侵害英雄烈士的行为，如果英雄烈士近亲属不提起民事诉讼的，检察机关可以依法提起公益诉讼，要求侵权人担责。<br/><div class="contheight"></div>案情显示：曾云在微信群公开发表言论，侮辱谢勇烈士名誉，造成了较为恶劣的社会影响。江苏省淮安市检察院经诉前程序征求谢勇烈士近亲属意见后，对曾云行为提起民事公益诉讼，依法追究了曾云侵权责任。<br/><div class="contheight"></div>该案例是首例检察机关英烈保护民事公益诉讼案例，为检察机关开展类似工作提供了实践依据。万春指出，该案例主要阐明：对侵害英雄烈士的姓名、肖像、名誉、荣誉，损害社会公共利益的行为人，英雄烈士近亲属不提起民事诉讼的，检察机关可以依法向人民法院提起公益诉讼，要求侵权人承担侵权责任。<br/><div class="contheight"></div>万春表示，曾云侵权案，明确宣示了英雄烈士名誉不容侵犯，有力彰显了检察机关维护社会主义核心价值观的特殊使命。曾云侵权案，说明了在维护英雄烈士名誉等权利中检察机关的法律地位。<br/><div class="contheight"></div>“当前，公益诉讼检察工作快速发展，成为检察机关履行法律监督职责新领域。”万春表示，最高检发布公益诉讼指导性案例，旨在呼吁社会各界进一步重视支持检察机关公益诉讼工作，推进公益诉讼检察工作更好服务经济社会发展和社会治理需要。<br/><div class="contheight"></div>与此同时，当前各级检察机关开展公益诉讼工作也面临一些亟待解决的法律疑难问题。万春坦言，第十三批指导性案例回应了实践中如何判断行政机关依法全面履职、如何根据行政成本较小社会效益较大原则提出检察建议、英烈保护民事公益诉讼如何履行诉前程序等疑难问题，对检察机关开展公益诉讼业务工作提供了重要参照。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2771990" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">最高检发布第十三批指导性案例，全国首例侵犯烈士名誉案入选</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2189589" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">全国首例侵犯烈士名誉案淮安宣判：一网民被判在媒体公开道歉</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王选辉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 英烈保护,案例,最高检</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772343">
+<div class="nbgbox">
+<a class="zan" contid="2772343" href="javascript:;" onclick="voteCont(this)" praisetimes="52">
+                           51</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 公益诉讼</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772343&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772343&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">上海明天最低5℃为何有雨夹雪？空气中层较冷，或跌破冰点</h1>
+<div class="news_about">
+<p>澎湃新闻记者 栾晓娜</p>
+<p>
+							2019-01-08 21:30<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">雪花又将飘落上海。<br/><div class="contheight"></div>上海气象部门预计，1月8日下半夜到9日，上海将转阴有小雨，而9日早晨前后，上海西部、北部地区阴有短时小雨夹雪。气温方面，9日的最低气温为5℃，最高气温为7℃。此外，8日半夜以前有轻度霾。<br/><div class="contheight"></div>气温在5℃-7℃并未达到冰点，为何还会出现雪？气象专家对此表示，虽然根据气象预报，上海9日的最低气温为5℃，但这是指低层气温，而受到冷空气影响，9日早晨前后，空气中层的气温较低，可能低于0℃，因此会出现雨夹雪。<br/><div class="contheight"></div>据上海气象部门预计，在较活跃的暖湿气流和扩散南下冷空气的共同影响下，上海短期内还是维持阴雨天气格局。其中，本周五的降水将明显一些。不过气温变化不大，本周中后期最低气温5℃-7℃，最高气温在7℃-11℃，体感较为阴冷，大家还是要注意保暖。<br/><div class="contheight"></div>此外，1月8日18时，中央气象台继续发布暴雪蓝色预警：预计1月8日20时至9日20时，湖北北部、河南西部和南部、安徽中部、江苏西南部等地的部分地区有大雪，其中，安徽中部偏西地区局地有暴雪（10-16毫米），上述地区积雪深度3-5厘米，局地可达8厘米以上。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王维佳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 上海下雪,雨夹雪</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828908">
+<div class="nbgbox">
+<a class="zan" contid="2828908" href="javascript:;" onclick="voteCont(this)" praisetimes="61">
+                           60</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 上海下雪</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828908&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828908&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

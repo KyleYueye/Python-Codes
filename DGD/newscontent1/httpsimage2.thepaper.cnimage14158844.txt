@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">中国教育报：提高家庭教育有效性，要遏制争做虎妈狼爸的冲动</h1>
+<div class="news_about">
+<p>钟焦平/中国教育报</p>
+<p>
+							2019-01-11 10:58<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近年来，有多个省份颁布了家庭教育促进条例。日前正式实施的《江西省家庭教育促进条例》，还针对中小学生学习压力过大等情况，规定父母或者其他监护人应当保障未成年人的睡眠、娱乐和体育锻炼时间，不得加重未成年人学习负担。在为中小学生减负的背景下，这让我们思考家庭教育的不当，对中小学生学业负担过重应该承担多大责任。<br/><div class="contheight"></div>学业负担重等青少年成长中的难题，和不当的家庭教育方式有直接关系，这是显而易见的事实。教育部2015年出台的《关于加强家庭教育工作的指导意见》，把这方面的问题概括为家长重智轻德、重知轻能、过分宠爱、过高要求等。而现阶段表现更为突出的，是一些家长过度追求分数和升学。对中小学生来说，更为重要的体育锻炼、良好生活自理习惯、感恩父母、诚实为人、诚实做事、创新思维和实践能力等得不到充分发展。由此导致青少年终身发展的多种可能被削弱，最终走向家庭教育良好愿望的反面。<br/><div class="contheight"></div>家长对孩子的期望值过高，对孩子的学业施加过多压力，这是个老问题。随着社会的快速发展，社会竞争意识和竞争压力，正越来越多地通过教育向中小学生传导。因此，为中小学生减负，只从学校一方面努力还远远不够，还需要家庭教育的密切配合。虽然大多数家庭都希望孩子的教育环境宽松一点，减少孩子学业压力带来的焦虑，但家长们可能没有意识到自己也是教育的参与者。只有转变家庭教育观念，严格遵循孩子成长规律，尊重孩子的合理需要和个性，自觉遏制学校减负、家长增负，不问兴趣、盲目报班，争做“虎妈”“狼爸”的冲动，才能不断提高家庭教育的有效性，为孩子的终身发展奠定良好根基。作为担负家庭教育主体责任的家长，必须主动改良家庭教育观念，而不是总希望别人先改变，甚至盼望有朝一日所有的教育难题都得到“根本解决”。<br/><div class="contheight"></div>全国诸多省份颁布家庭教育促进条例，既说明家庭教育承担着提高育人水平的责任和使命，也说明我国目前的家庭教育水平，还远远不能适应和满足青少年健康成长的需求。令人欣慰的是，从教育部颁布的家庭教育指导意见，到部分省份的家庭教育促进条例，对于政府推动家庭教育的发展，充分发挥学校在家庭教育中的作用，加快形成家庭教育社会支持网络，以及完善家庭教育工作保障措施等，都有精心筹划，关键就看能否落实落细。应该看到，相对于家庭教育发展的现状，相对于4亿多家庭的巨大需求，这都仅仅是开始。目前，无论是家庭教育专业水平的提高，还是管理服务体系的建设，都还有很多工作要做。<br/><div class="contheight"></div>家庭教育的改良，可以为减负甚至为整个教育的改革发展创造更好的社会环境。教育部等部门2018年底联合发布的《中小学生减负措施》，也提醒家长要切实履行家庭教育职责，理性设置对孩子的期望值，避免盲目攀比、跟风报班或请家教给孩子增加过重课外负担。实践证明，如果没有家庭教育的配合，中小学生的负担要减下来，难度是非常大的。为中小学生减负，是事关全面贯彻党的教育方针，落实立德树人根本任务的大事，是非常严肃的工作，家长同样需要以严肃的态度来审视家庭教育的责任。<br/><div class="contheight"></div>（原题为：《给中小学生减负期待家庭教育助力》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中小学生,减负,家庭教育,虎妈,狼爸</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2840657">
+<div class="nbgbox">
+<a class="zan" contid="2840657" href="javascript:;" onclick="voteCont(this)" praisetimes="46">
+                           45</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 减负</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2840657&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2840657&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

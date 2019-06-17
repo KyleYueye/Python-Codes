@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">法国将推动向谷歌、苹果、脸书等美国互联网巨头征收新税</h1>
+<div class="news_about">
+<p>陈晨/新华社</p>
+<p>
+							2018-12-18 18:47<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"> 法国经济和财政部长布鲁诺·勒梅尔17日表示，法国将推动新举措，从2019年1月1日起向谷歌、苹果、脸书和亚马逊等互联网巨头征收新税，以确保大型跨国企业和本地企业一样公平纳税。<br/><div class="contheight"></div>勒梅尔当天在巴黎的一场记者招待会上说，除销售税外，这些互联网巨头还将为其广告收入、在线交易以及用户信息数据相关销售业务交税。他预计，新税收总额2019年全年可达5亿欧元。<br/><div class="contheight"></div>欧盟委员会今年3月公布立法提案，拟调整对大型互联网公司的征税规则。根据立法提案，任何一个欧盟成员国均可对发生在其境内的互联网业务所产生的利润征税。而在现行规定下，互联网公司只需在其总部所在地一次性交税。<br/><div class="contheight"></div>不过，据法国媒体报道，目前欧盟尚未在对大型跨国互联网企业征税问题上达成一致。<br/><div class="contheight"></div>（原标题为《法国将推动向互联网巨头征税》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：汪伦宇<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 法国 互联网监管 “黄背心”</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2750034">
+<div class="nbgbox">
+<a class="zan" contid="2750034" href="javascript:;" onclick="voteCont(this)" praisetimes="24">
+                           23</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 黄背心</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2750034&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2750034&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

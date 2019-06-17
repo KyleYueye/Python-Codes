@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜比公交站无指示牌更可怕的是“无人管”</h1>
+<div class="news_about">
+<p>澎湃特约评论员 敬一山</p>
+<p>
+							2018-08-02 13:08<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2311929" target="_blank">
+<span class="p_time">06:55</span>
+<img alt="马上评｜比公交站无指示牌更可怕的是“无人管”" src="//image2.thepaper.cn/image/9/294/887.jpg"/>
+</a>
+<div class="atlas_360_txt">湖北潜江18个公交站亭建成近1年无指示牌，多单位推卸责任<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">11条公交经过的18个公交站亭，建成近一年无指示牌，乘客要坐对车、下对站，只能靠“猜”靠“碰”，涉及此事的多家单位都说自己没责任。8月1日晚，湖北电视问政节目“党风政风前哨”曝光了潜江市的这一问题。<br/><div class="contheight"></div>公交站台建的挺堂皇大气，可是长达一年的时间却没有指示牌，这看起来是个小事，生活在附近的市民，可能没指示牌也能将就，可终究还是会造成很多不便，尤其是对那一带不熟悉的市民去乘车，就很容易抓瞎。民生无小事，曝光当然是必要的，而且这背后也不乏很值得反思的“大事”。<br/><div class="contheight"></div>前不久，合肥瑶海区45座公交候车亭被曝出都是没有办理审批手续的违建，而合肥公交集团与城管、市政等多部门一度表示，他们也不知道候车亭究竟是谁建的。两则新闻背后，有没有共性的问题？<br/><div class="contheight"></div>首先不得不让人感到决策与民意的割裂。如果这些部门的官员经常坐公交，经常体验到不便利，还会这样无动于衷吗？不重视民生小事的一个很现实原因，就是一些决策者缺乏同理心、缺乏共情，体会不了民生疾苦。<br/><div class="contheight"></div>当然，更值得反思的还是机制问题。小小的一个公交指示牌，牵涉到多少部门呢？记者去找过的，就有城市客运交通管理办公室、潜阳路改造指挥部、市交通运输局、市城管局，周旋一圈之后，也没个能管事的部门拿出快速的解决方案。涉及民生，拖延日久，可媒体去找，还是不能“理顺”到底谁来负责，可见公共事务管理机制的混乱。<br/><div class="contheight"></div>这种混乱，既体现在部门之间的职责不清，也体现在没有一个畅通的渠道，可以反映民众的意见，可以产生有效的互动。这些公交站亭已经运行一年，没有指示牌的现象，吐槽过的市民肯定不在少数。可是这些民意，为什么丝毫没有影响到相关部门？省级媒体的曝光，也许会“逼”当地做出整改，可是如果没有这个外在的，某种程度说是“上级”的压力，市民的意见如何得到政府部门的尊重，这才是值得思考的普遍问题。<br/><div class="contheight"></div>公交站运营一年迟迟没有指示牌，某种程度上，属于民生“事故”。在这样的“事故”之后，如果没有部门担责，没有官员因此被问责，那无异于说政府部门干不干事、干得好不好都是一个样。当然，相关部门现在是相互推诿，可即便是机制出现漏洞，那这个导致无人负责的机制又是谁确定的？没事的时候看起来各部门分工明确、各司其职，出点事就个个推脱的干净，这样的状况不改，公交站无指示牌的错误就难以根绝。<br/><div class="contheight"></div>说白了，一件民生小事之所以拖延一年不解决，之所以民众吐槽无效，就在于基层政府的问责制度无力。地方政府部门或者官员做的好不好，民众满意不满意，通常不太会影响到他们的政绩考核。他们在乎的是上级在乎的，所以像公交指示牌这样的小事，当然在日程表上可以无限后延。<br/><div class="contheight"></div>舆论监督是否管用，也取决于舆论有没有可能被上级官员看见，会不会影响自己在上级心目中的形象。所以即便这次问政节目能推动解决指示牌的事，依然不值得太高兴。现实中有多少有公交站无指示牌这样的“小事”，不可能都靠曝光来解决。改变问责机制，让民众拥有决策、问责的话语权，才是根治类似问题的出路。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 公交站牌</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2313781">
+<div class="nbgbox">
+<a class="zan" contid="2313781" href="javascript:;" onclick="voteCont(this)" praisetimes="117">
+                           116</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 公交站牌</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2313781&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2313781&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（72）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

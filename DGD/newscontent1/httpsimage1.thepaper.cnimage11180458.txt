@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜公布未剪辑视频，执法争议自然消解</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-10-10 12:51<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">10月9日，沧州交警一次治理违法停车行动过后，网上出现“交警贴条引发与女司机冲突”内容。沧州市交警第一大队发布情况通报进行回应。<br/><div class="contheight"></div>值得注意的是，这份通报中公布了冲突前后的未删减视频，发布者“没有对视频进行任何剪辑”。这份视频清楚地显示出，违停司机无理拒绝将车驶离，其母在没有外力作用的情况下“自行晕倒”，后来该司机上前辱骂并殴打交警，其母又“苏醒”如常。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="184" src="http://image.thepaper.cn/www/image/11/180/557.gif" width="320"/></div><span style="color: rgb(128, 128, 128);">其母在争辩过程中，自行晕倒。</span><br/><div class="contheight"></div>这份未剪辑视频一公布，孰是孰非已一目了然，所谓争议顿时烟消云散。这提供了一个启示：化解执法争议引发的舆情，没什么比一刀不剪的视频更有效力的了。<br/><div class="contheight"></div>在所有舆情事件中，由执法争议引发的舆情占有相当的比例。在争议与回应的循环博弈中，经常出现罗生门，双方各执一词，吃瓜群众选边站队。由于缺乏一锤定音的“实锤”，一些简单的事情复杂化、长期化，白白浪费公共资源，还会伤及相关部门的公信力。<br/><div class="contheight"></div>每到这种时候，人们心中就会浮现一个疑问：既然理直气壮，为什么不把原始视频公布一下？<br/><div class="contheight"></div>“霸座”等事件中的舆论倾向显示，公众对维护原则与秩序的执法是支持的，对个别人无理取闹的行为是厌恶的。真相大白之际，就是无理取闹者自取其辱之时。今年前些时日，上海某地民警的一则“教科书式执法”视频广受好评，也是例证。<br/><div class="contheight"></div>这说明，规范执法、在镜头上执法，既能保证被执法者的权益，也是对执法者的最好保护。有视频，有真相，执法者、被执法者和围观者的利益是一致的。<br/><div class="contheight"></div>要从心底相信“群众的眼睛是雪亮的”。现实中引发争议的执法，大多不涉及高深的法理辨析，仅凭常识就很容易做出是非判断。只要公布未剪辑的完整视频，再别有用心的人也带不动节奏。<br/><div class="contheight"></div>反过来，如果“辟谣”者信誓旦旦就是打死不公布视频，也别怕公众怀疑有鬼。<br/><div class="contheight"></div>其实一旦以视频平息争议的做法成为惯例，那些违法在先却撒泼打滚抗拒执法的“演技派”就会三思而后行了，否则不仅要付出法律上的代价还会沦为名誉扫地的小丑。“教科书式执法”视频本就不该是特例，而应是常态，教科书本来就该人手一本的嘛。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 规范执法</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2514183">
+<div class="nbgbox">
+<a class="zan" contid="2514183" href="javascript:;" onclick="voteCont(this)" praisetimes="176">
+                           175</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 规范执法</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2514183&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2514183&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（50）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">泰国解除政治活动禁令，明年2月24日举行大选</h1>
+<div class="news_about">
+<p>中国新闻网</p>
+<p>
+							2018-12-11 16:09<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align: center;"><img alt="" height="338" src="http://image.thepaper.cn/www/image/13/85/678.jpg" width="600"/></div>中新网12月11日消息，据外媒报道，泰国当局公布消息称，政府解除政治活动禁令，所有政党可进行竞选活动宣传政纲，新一届大选将于2019年2月24日举行。<br/><div class="contheight"></div>泰国皇家公报11日宣布，政府解除政治活动禁令。泰国选举委员会方面则表示，泰国自2011年起的首次大选将于2019年2月24日举行。<br/><div class="contheight"></div>泰国政府此前已宣布计划于明年2月举行大选。泰国总理巴育称，预计大选将于2019年2月24日举行。<br/><div class="contheight"></div>2014年，泰国军方发动政变推翻以英拉为总理的为泰党政府后，成立全国维持和平秩序委员会并禁止政党活动。原陆军司令巴育担任这一委员会主席和泰国总理至今。巴育此前一直承诺将举行大选，并推出重归民选的路线图。<br/><div class="contheight"></div>（原题为《泰国解除政治活动禁令，2019年2月24日举行大选》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 泰国大选</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2727203">
+<div class="nbgbox">
+<a class="zan" contid="2727203" href="javascript:;" onclick="voteCont(this)" praisetimes="48">
+                           47</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 泰国</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2727203&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2727203&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

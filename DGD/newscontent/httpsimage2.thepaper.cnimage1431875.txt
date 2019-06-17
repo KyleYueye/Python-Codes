@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">湖南一司法所干部跳进冰水勇救两人：救完才发现流血了</h1>
+<div class="news_about">
+<p>屈畅/@北京青年报</p>
+<p>
+							2019-01-08 12:56<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="390" src="http://image.thepaper.cn/www/image/14/31/872.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">事发现场。视频截图<br/><div class="contheight"></div></span>北京青年报官方微博1月8日消息，7日下午，湖南常德澧县司法局盐井司法所干部肖俊在向上级单位送年终总结的路上，发现一辆轿车“四脚朝天”地躺在一个鱼塘里。肖俊8日告诉北青报记者，他看到这个情况后，首先向围观的人询问车内是否有人，“当时有老百姓说，车里有人，还在喊救命，我听到这情况，就想着赶紧救人，把外衣脱了，只穿着秋衣秋裤，鞋子一扔，就下水去救人了。”<br/><div class="contheight"></div>肖俊说，他赶到落水车子旁边的时候，车头已经几乎全部被水淹没了，且车辆还在下沉。“我先试了试拉开车门，又跟周围的乡亲说，帮我找个东西，把窗户砸开，很快就有老乡给了我一把锄头，我用这个锄头砸开了车窗，这才拉开了车门。”<br/><div class="contheight"></div>肖俊回忆，他从车内救出了一个大约2岁多的小女孩，以及小女孩的父亲。将两人安置到附近村民的家里取暖后，肖俊就离开了。“我在救出人后，捡衣服的时候才注意到，自己手上全是血，然后发现是手上有一个口子，我现在也不清楚，是砸破玻璃的时候被划伤的，还是拉门的时候被车门给挤着的。当时很着急，就想着救人，包括人救出来之后，我才感觉到特别冷，身子直发抖，后来有人告诉我，昨天的气温只有4度，水是很冷的。”<br/><div class="contheight"></div>肖俊说，事发后，他给上级单位的领导打了电话，说年终总结可能得第二天才能送过去了，“当时我没说迟到的具体原因，但后来单位有同事看到了我救人的视频，都很支持我的行为。”<br/><div class="contheight"></div>8日上午，获救女孩的父亲和亲戚找到肖俊，向他当面致谢。“听女孩家里说，当时车子是为了躲避一辆摩托车，加上操作有些失误，这才翻进鱼塘的，好在人都没有大碍。”肖俊说。<br/><div class="contheight"></div>（原题为《湖南一司法所干部冰水中救人 称救出人才知流血了》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 救人</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827206">
+<div class="nbgbox">
+<a class="zan" contid="2827206" href="javascript:;" onclick="voteCont(this)" praisetimes="133">
+                           132</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 救人</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827206&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827206&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

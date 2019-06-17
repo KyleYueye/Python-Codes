@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">捷克政府发表声明：纠正针对华为手机的错误做法</h1>
+<div class="news_about">
+<p>王义/新华社</p>
+<p>
+							2018-12-23 11:28<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">捷克国家安全委员会21日发表声明，纠正政府日前要求机关工作人员停止使用华为手机的错误做法。<br/><div class="contheight"></div>声明说，之前捷克国家网络与信息安全办公室发布的“安全警示”不涉及普通用户和终端设备，该办公室也无权评估其他国家的国际政治局势或法律和政治环境。声明说，捷克对所有合法外国投资持开放态度，并将继续为其提供有利环境。<br/><div class="contheight"></div>据报道，捷克总理巴比什21日接受采访时说，国家安全委员会召开会议，对上述“安全警示”进行了充分讨论，认识到日前要求政府工作人员停止使用华为手机的决定是草率的，普通用户使用华为手机没有任何安全方面的担忧。<br/><div class="contheight"></div>对于捷克政府的声明，华为欧洲总裁李健表示赞赏。“我们相信在捷克当前和未来的业务不会受到影响，也不希望这样无端的指责再伤害华为。”<br/><div class="contheight"></div>捷克国家网络与信息安全办公室17日针对中国民营企业产品发布“安全警示”，其中明确提到华为与中兴两家公司。捷克总理巴比什随后以安全为由要求政府工作人员弃用华为手机，引起争议。 <br/><div class="contheight"></div>（原题为《捷克政府发表声明：纠正针对华为手机的错误做法》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 华为手机,捷克,中国</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2765995">
+<div class="nbgbox">
+<a class="zan" contid="2765995" href="javascript:;" onclick="voteCont(this)" praisetimes="272">
+                           271</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 捷克</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2765995&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2765995&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（226）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

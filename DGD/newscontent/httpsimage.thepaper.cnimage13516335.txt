@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">抖音诉百度侵权索赔百万被驳回，但短视频确认受著作权法保护</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林平 通讯员 鲁宁</p>
+<p>
+							2018-12-26 12:55<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">抖音诉百度短视频侵权一案被驳回。12月26日，北京互联网法院对抖音短视频与伙拍短视频的著作权纠纷案一审宣判。法院首次认定涉案短视频是我国《著作权法》保护的作品，同时认定百度不构成侵权，并驳回抖音方面的诉求。<br/><div class="contheight"></div>今年10月底，抖音视频以侵权为由起诉伙拍短视频索赔100万元。<br/><div class="contheight"></div>原告北京微播视界科技有限公司诉称，“抖音短视频”是由原告合法拥有并运营的原创短视频分享平台。原告对于签订独家协议的创作者创作的短视频，获有独家排他的信息网络传播权以及独家维权的权利。“抖音短视频”平台上此前发布的“5·12，我想对你说”短视频（以下简称涉案短视频），由涉案短视频创作者独立创作完成，应作为作品受到我国著作权法的保护。<br/><div class="contheight"></div>原告诉称，被告一百度在线网络技术(北京)有限公司和被告二北京百度网讯科技有限公司共同向用户提供“伙拍小视频”的下载、安装、运营和相关功能的更新、维护，并对“伙拍小视频”进行宣传和推广。原告发现，涉案短视频在抖音平台发布后，二被告未经原告许可，擅自将涉案短视频在其拥有并运营的“伙拍小视频”上传播并提供下载服务。<br/><div class="contheight"></div>为此，原告方面主张，百度旗下的该小视频产品未经许可擅自传播的行为给其造成了极大的经济损失，要求对方停止侵权，并赔偿原告经济损失100万元，及诉讼合理支出5万元。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/516/333.jpg" width="600"/></div>被告方面答辩认为，抖音用户创作的涉案视频，没有自己独立的思想表达，不具有独创性，不构成作品，不应当得到著作权法的保护。原告无法证明其为涉案短视频的作者或权利人，无权就涉案短视频提起诉讼。此外，在接到原告方的要求后，被告已经删除了相关作品，因此不该承担侵权责任。<br/><div class="contheight"></div>澎湃新闻注意到，该案系北京互联网法院挂牌成立后受理的首起案件。今年10月底，在该案开庭审理过程中，涉案短视频是否应受我国著作权法保护成为庭审争议焦点之一。其间，北京互联网法院还曾对外表示，目前，国内外对短视频行业的法律保护均处于探索期。<br/><div class="contheight"></div>法院审理后认为，在没有相反证据的情况下，短视频的署名者对该短视频享有著作权，受法律保护，本案原告微播享有该视频的网络传播权，有权提起诉讼。本案中，被告百度作为网络服务者，在有效时间内即时删除涉案视频，不构成侵权。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 互联网法院</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2775979">
+<div class="nbgbox">
+<a class="zan" contid="2775979" href="javascript:;" onclick="voteCont(this)" praisetimes="42">
+                           41</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 互联网法院</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2775979&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2775979&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

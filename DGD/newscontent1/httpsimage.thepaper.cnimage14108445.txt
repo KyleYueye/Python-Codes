@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25423">人事风向</a>
+</div>
+<h1 class="news_title">中国工程院院士李焯芬入职浙江大学宁波理工学院</h1>
+<div class="news_about">
+<p>甬派</p>
+<p>
+							2019-01-10 09:31<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="378" src="http://image.thepaper.cn/www/image/14/108/450.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">入职仪式上的李焯芬院士。    浙大宁波理工学院官网 图<br/><div class="contheight"></div></span>今天（1月9日）下午，浙江大学宁波理工学院举行中国工程院院士、加拿大工程院院士李焯芬入职仪式，揭牌成立宁波大湾区建设工程技术研究中心。<br/><div class="contheight"></div>李焯芬院士是该校引进的首位全职院士，他将担任宁波大湾区建设工程技术研究中心主任兼首席科学家。<br/><div class="contheight"></div>李焯芬院士是国内外著名的土木与水利工程专家，曾在国际学术期刊及国际会议上发表论文200多篇，参与中国多个重大基础设施项目，如大亚湾核电站、三峡工程、粤港澳大湾区建设等的可行性论证工作。<br/><div class="contheight"></div>“宁波是‘一带一路’的始发港，被誉为古丝绸之路‘活化石’，也是国家具有战略意义的杭州湾大湾区建设的核心城市之一，有着独特的历史文化资源，在国家‘一带一路’和大湾区建设等具有鲜明的区位优势。”李焯芬院士表示，“未来大型基础设施建设，将为‘一带一路’沿线国家和杭州湾大湾区辐射城市的经济发展带来新动力，将为工程界带来新的机遇。”<br/><div class="contheight"></div>李焯芬院士选择宁波还有一段故事。“我来过宁波，对宁波印象深刻！”十多年前，李院士曾陪同书画大师饶宗颐先生来过宁波，对宁波天一阁等情有独钟；同时，在香港工作多年，与在港的宁波帮人士有紧密联系和深厚感情，“在与他们的接触中，让我加深了对宁波的了解。”<br/><div class="contheight"></div>浙大宁波理工学院党委书记胡征宇说：“去年8月份以来，我们一直保持与李院士联系，沟通中他一再强调，不要给学校增添‘麻烦’，‘我是为做事情而来的’，相信李院士的加盟，会进一步加强我们与香港在科技、文化与教育方面的联系。”<br/><div class="contheight"></div>今天揭牌成立的宁波大湾区建设工程技术研究中心，是浙江大学宁波研究院在宁波的重要战略布局，围绕4个研究方向成立宁波大湾区环境地质与灾害防治研究所、城市交通与地下工程研究所、环境水利与生态海堤研究所和土木工程新材料开发研究所等4个研究所，开展相关研究，实现资源共享、人才共享、成果共享。<br/><div class="contheight"></div>该研究中心将招聘引进并形成一个以李院士为核心、30名左右教授为主要力量、40名左右的专业技术和管理人员为支撑的高端研究团队，同时，研究中心还将聘请国内外相关领域知名专家成立专家委员会，为中心发展集聚人才资源。<br/><div class="contheight"></div><strong>新闻多一点</strong><br/><div class="contheight"></div>李焯芬1968年毕业于香港大学；1970年获港大硕士学位；1972年获加拿大西安大略大学博士学位，主修岩土工程。曾任教西安大略大学及多伦多大学。长期服务于安大略省水电局及省电力公司，历任高工，总工，工程部门总经理等职；负责水电核电建设，大坝安全评估，核电站及大坝抗震，核废料处理等研究课题。1994年回香港大学任教，先后出任土木工程系讲座教授，香港大学副校长。<br/><div class="contheight"></div>李院士热衷于社会公益事业，2003年起开始担任香港福慧慈善基金会会长。<br/><div class="contheight"></div>（原标题为《宁波再添一位全职院士！他叫李焯芬，土木与水利工程专家》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：钟煜豪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 全职院士，土木与水利工程专家</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835148">
+<div class="nbgbox">
+<a class="zan" contid="2835148" href="javascript:;" onclick="voteCont(this)" praisetimes="104">
+                           103</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 院士</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835148&caid=25423",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835148&amp;caid=25423" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

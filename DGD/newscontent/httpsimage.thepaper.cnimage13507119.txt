@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">龙岩公交车劫持事件已致8死，其中1名遇害人为派出所民警</h1>
+<div class="news_about">
+<p>澎湃新闻记者 庄岸 谢寅宗 戴越 钟笑玫 喻琰</p>
+<p>
+							2018-12-25 22:43<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">针对12月25日发生在福建龙岩的公交车被劫持致8人死亡事件，25日晚，澎湃新闻从龙岩市公安局新罗分局南城派出所工作人员处了解到，遇害8人中，有一名民警来自该派出所，其他详情由上级单位统一发布。<br/><div class="contheight"></div>据闽西新闻网12月25日17时许消息，当天下午15:20，龙岩公交公司闽FY6998公交车，被一持刀歹徒劫持，沿途冲撞街道行人，目前已造成5人死亡（含1名民警）、21人受伤。当地党委、政府正在全力组织伤员救助工作，歹徒已被公安机关控制，案件正在全力侦破中。<br/><div class="contheight"></div>当晚21时许，闽西新闻网发布进一步通报，上述事件已造成8人死亡、22人受伤（其中1人尚未脱离生命危险，其余生命体征平稳）。<br/><div class="contheight"></div>通报称，经公安机关初步侦查，犯罪嫌疑人邱某，男，1970年1月出生，龙岩市新罗区人，无业人员。因与当地居委会干部有积怨，事发当日居委会干部到嫌疑人家中，为其父亲拍照办理优抚证，产生矛盾，犯罪嫌疑人持刀杀人，而后劫持公交车撞人。案件具体情况正在进一步侦查中。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周琦<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 公交劫持 遇害人 民警</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2774789">
+<div class="nbgbox">
+<a class="zan" contid="2774789" href="javascript:;" onclick="voteCont(this)" praisetimes="95">
+                           94</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 公交劫持</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2774789&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2774789&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（244）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

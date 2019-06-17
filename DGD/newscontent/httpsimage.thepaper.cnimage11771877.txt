@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">司法大数据平台将在明年建成</h1>
+<div class="news_about">
+<p>张枨/人民日报</p>
+<p>
+							2018-10-30 16:56<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">人民日报10月30日报道，28日至29日，司法部在内蒙古自治区呼和浩特市召开全国司法行政信息化工作推进会。记者从推进会上获悉：明年将完成司法大数据平台建设，到2019年底，我国司法行政系统将基本实现“数字法治、智慧司法”信息化建设目标。<br/><div class="contheight"></div>会议部署落实“数字法治、智慧司法”信息化体系建设指导意见和实施方案，进一步加快推进司法行政信息化工作，为新时代全面依法治国、推动司法行政事业大发展提供有力的信息化支撑和保障。据介绍，我国司法行政系统要在2018年底前，建成司法公有云和司法数据资源平台、共享服务平台，将面向公众服务的业务系统和数据迁移上云，为全系统信息化建设奠定基础。在2019年9月底，完成标准规范建设，完成全面依法治国、行政立法行政执法协调监督等六大类18项业务系统建设，完成司法大数据平台建设；在2019年底，基本实现“大平台共享、大系统共治、大数据慧治”的“数字法治、智慧司法”信息化建设目标。 <br/><div class="contheight"></div>（原题为《司法部加快推进信息化工作，司法大数据平台明年建成》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 司法部,司法大数据平台</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2580641">
+<div class="nbgbox">
+<a class="zan" contid="2580641" href="javascript:;" onclick="voteCont(this)" praisetimes="10">
+                           9</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 司法大数据</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2580641&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2580641&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

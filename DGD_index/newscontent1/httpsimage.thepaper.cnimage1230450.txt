@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">法治课｜小哥送外卖逆行发生交通事故，“饿了么”应否担责？</h1>
+<div class="news_about">
+<p>史小君 詹维敏/人民法院报</p>
+<p>
+							2018-11-16 15:54<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日，广东省汕尾市中级人民法院依法审理了一起“饿了么”外卖小哥诉雇主的人身损害赔偿案，法院依法判决原被告双方各自承担50%的赔偿责任。<br/><div class="contheight"></div> 汕尾市海丰县的小辉（化名），于2017年3月3日起接受广东某科技公司（系“饿了么”的地区代理）雇佣，双方以5元/单按月结算计发报酬，没有签订劳动合同。2017年6月12日，小辉在“饿了么”平台接到订单后，驾驶黑色无号牌二轮摩托车前往取餐途中，逆向行驶与对向钟某驾驶的蓝色无号牌二轮摩托车发生碰撞，造成其与钟某受伤、两车损坏的交通事故。后经交通事故认定小辉负主要责任、钟某负次要责任。2017年9月13日小辉以其与广东某科技公司之间存在劳动关系为由到海丰县劳动人事争议仲裁委员会申请仲裁，广东某科技公司辩称双方不是劳动关系而是雇佣关系。该委员会以小辉、广东某科技公司之间不存在《关于确立劳动关系有关事项的通知》里规定的管理与被管理的关系为由，裁决小辉与广东某科技公司之间不存在事实劳动关系。小辉不服裁决，诉至海丰县人民法院，要求公司赔偿其各项损失，公司则辩称双方系承揽关系，其不应对小辉的损失承担赔偿责任。<br/><div class="contheight"></div> 海丰法院一审审理认为，小辉与广东某科技公司形成雇佣关系，该公司应对小辉的损失承担赔偿责任，但因小辉逆行，自身存在过错，故判决广东某科技公司对小辉的损失承担60%的责任。广东某科技公司不服一审判决提起上诉。汕尾中院经二审审理认为，小辉与广东某科技公司之间构成雇佣关系，该公司应对小辉履职过程中所受损害承担赔偿责任，但小辉因逆行造成交通事故，存在重大过错，故二审对一审认定的责任比例予以纠正，判决双方各自承担50%的责任。<br/><div class="contheight"></div>■法官说法■<br/><div class="contheight"></div> 《最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释》第十一条中规定，雇员在从事雇佣活动中遭受人身损害，雇主应当承担赔偿责任。本案中小辉虽没有与广东某科技公司签订任何书面合同，但其以公司名义接单、送餐，身着公司统一制服，对外代表公司，且送餐过程中需接受公司的管理，遵守公司的规章制度，故小辉与该公司实际形成雇佣关系，小辉在送餐过程中发生交通事故，作为雇主的该公司应承担赔偿责任。但该起事故的发生，小辉自身存在重大过错，根据《中华人民共和国侵权责任法》第二十六条“被侵权人对损害的发生也有过错的，可以减轻侵权人的责任”的规定，应减轻作为雇主的广东某科技公司的赔偿责任，故二审判决双方各承担一半责任。<br/><div class="contheight"></div>（原标题《“饿了么”外卖小哥逆行发生交通事故，雇主应否担责？法院：雇主担责50%》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：谭君<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 饿了么 逆行 送外卖 交通事故</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2640445">
+<div class="nbgbox">
+<a class="zan" contid="2640445" href="javascript:;" onclick="voteCont(this)" praisetimes="43">
+                           42</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 外卖小哥</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2640445&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2640445&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

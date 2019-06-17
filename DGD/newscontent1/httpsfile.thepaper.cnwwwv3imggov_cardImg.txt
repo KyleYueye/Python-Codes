@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=42341">亚洲雄风</a>
+</div>
+<h1 class="news_title">一目了然！第四次“习金会”有哪些重要信息？</h1>
+<div class="news_about">
+<p>亚洲雄风</p>
+<p>
+                            2019-01-10 17:22<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard">习近平总书记同金正恩委员长举行会谈！阿亚努力了一把，为大家提取四组重要信息。<div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/117/315.jpg" style="width:600px;"/></div><div><strong>一是意义重要。</strong>消息稿称，“1月8日，中共中央总书记、国家主席习近平同当日抵京对中国进行访问的朝鲜劳动党委员长、国务委员会委员长金正恩举行会谈。”消息稿这么说，“习近平积极评价金正恩这次访华的重要意义，回顾了中朝友好交往历史，表示中方愿同朝方共同努力，维护好、巩固好、发展好中朝两党两国关系，共同书写两国关系发展新篇章，共同为地区和平、稳定、发展、繁荣作出新贡献。”注意！两国领导人在中朝建交70周年、新年伊始会面，意义自然非同寻常。<div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/117/316.jpg" style="width:600px;"/></div><div><span style="color:#808080;">(欢迎仪式)</span></div></div><div><strong>二是成果丰硕。</strong>“两国领导人在亲切友好的气氛中，就中朝关系和共同关心的问题深入交换意见，达成重要共识。双方一致表示，愿共同努力推动中朝关系在新的时期不断取得新的发展，持续推进半岛问题政治解决进程，更好造福两国人民，为地区和世界和平稳定与繁荣发展作出积极贡献。”阿亚为大家划出三个关键短语：达成重要共识、推动中朝关系取得新发展和推进半岛问题政治解决。好记吧？ </div><div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/117/317.jpg" style="width:600px;"/></div><div><span style="color:#808080;">（欢迎仪式）</span></div><strong>三是活动丰富。</strong>“会谈前，习近平在人民大会堂北大厅为金正恩举行欢迎仪式。会谈后，习近平和夫人彭丽媛为金正恩和夫人李雪主举行欢迎宴会并共同观看文艺演出。9日上午，习近平在北京饭店会见金正恩。习近平总书记夫人彭丽媛、金正恩委员长夫人李雪主参加会见。会见后，习近平总书记夫妇为金正恩委员长夫妇举行午宴。”下午，金正恩还参观了北京同仁堂股份有限公司同仁堂制药厂亦庄分厂。<div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/117/318.jpg" style="width:600px;"/></div><div><span style="color:#808080;">（会见）</span></div></div><div><strong>四是规格高。</strong>中共中央政治局常委、中央书记处书记王沪宁，以及中共中央政治局委员、中央书记处书记、中央办公厅主任丁薛祥，中共中央政治局委员、中央外事工作委员会办公室主任杨洁篪，中共中央政治局委员、中央书记处书记、中央政法委书记郭声琨，中共中央政治局委员、中央书记处书记、中宣部部长黄坤明，中共中央政治局委员、北京市委书记蔡奇，国务委员兼外交部长王毅等出席有关活动。</div><div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/117/319.jpg" style="width:600px;"/></div><div><span style="color:#808080;">（会谈）</span></div>朝鲜劳动党中央政治局委员、中央副委员长、国际部部长李洙墉，中央政治局委员、中央副委员长、统一战线部部长金英哲，中央政治局委员、中央副委员长朴泰成，中央政治局委员、外务相李勇浩，中央政治局候补委员、人民武力相努光铁，中央政治局候补委员、宣传鼓动部第一副部长金与正等陪同金正恩访华并出席有关活动。<div style="text-align: center;"> <img alt="" src="http://image.thepaper.cn/www/image/14/117/320.jpg" style="text-align: center; width: 600px;"/></div></div><div><div><span style="color:#808080;">（考察同仁堂）</span></div></div></div></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2836630">
+<div class="nbgbox ">
+<a class="zan" contid="2836630" href="javascript:;" onclick="voteCont(this)" praisetimes="66">
+                                    65</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

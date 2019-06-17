@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜叫停假的“不限量套餐”，真的“不限量”何时来？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 夏熊飞</p>
+<p>
+							2018-10-09 18:25<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">曾被称为各种套餐中“忽悠之王”的不限流量套餐终于“消失”了。在被工商认定为虚假广告、遭消协质疑、工信部也点名批评勒令整改后，三大运营商如今已叫停“不限量套餐”的说法，改头换面后亮相的则改叫“畅享套餐”之类。<br/><div class="contheight"></div>在手机几乎连接一切的时代，流量成为了新的“石油”，没有WiFi与流量，多少人低头族会陷入焦躁与不安？为了争取用户，各大运营商纷纷推出了“不限量套餐”，获得了消费者的广泛青睐。<br/><div class="contheight"></div>这套餐貌似“人如其名”，缴纳固定的套餐费用，就可以不必担心使用流量超标。可不限量的背后却是限速，当流量使用达到一定的限额，网速就会急剧降低，几乎无法进行正常的网络访问服务，等同于断网。因而，可以说所谓的“不限量套餐”，其实还是花钱办理了一个限定额度的流量套餐，但运营商给消费者画的饼却是不限量。<br/><div class="contheight"></div>更可恨的是，为了扩大销量，运营商在大肆宣传“不限量”的卖点时，却有意无意淡化“限速”这一附加条件，大写的“不限量”+小写的“限速”早已成为标配。这种套路满满的真面目，逐渐被消费者看清，管理部门也将其认定为“虚假广告”。<br/><div class="contheight"></div>三大运营商集体将“不限量套餐”更名，固然是源于监管部门整治的结果，可对于抑制由“不限量”噱头所引发的冲动消费，也有一定的益处。对于运营商迈出的这一步，我们应给予中肯评价。只是，更名“不限量套餐”，终究是治标不治本的权宜之计。<br/><div class="contheight"></div>“不限量套餐”从最初的受青睐，到如今给用户上当受骗的感觉，归根究底都是消费者对于速度快、费用低流量的渴望。“不限量套餐”的说法可以被叫停，但消费者对于不限量或者资费更低廉流量的渴望与需求却是无法叫停的。<br/><div class="contheight"></div>更名或许有助于填平“不限量套餐”的坑，但买的没有卖的精，运营商是否会玩其他概念再给用户挖下另一个坑，是消费者及监管部门需要继续警惕的。而更关键的问题在于，进一步加快提速降费的进程。<br/><div class="contheight"></div>这要求运营商放长眼光，而不是为了眼前小利与消费者玩勾心斗角的游戏，捡了芝麻丢了西瓜。当然，这更有赖于管理部门的持续强力推进，毕竟割自己肉的事情，运营商做起来总是不会太爽快。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 不限量套餐</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2511627">
+<div class="nbgbox">
+<a class="zan" contid="2511627" href="javascript:;" onclick="voteCont(this)" praisetimes="151">
+                           150</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 不限量套餐</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2511627&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2511627&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（47）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

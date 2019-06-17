@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">经济日报：数据真实是经济普查的生命线</h1>
+<div class="news_about">
+<p>林火灿/经济日报</p>
+<p>
+							2018-12-25 13:15<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">经济日报12月25日消息，全面摸清我国经济发展状况，准确把握新时代经济发展新特征新趋势，科学指导和推动高质量发展，就必须获得真实可靠、客观翔实的一手数据。从这个意义上说，数据质量是经济普查的生命线，也是衡量普查成败的根本标准<br/><div class="contheight"></div>2019年1月1日，第四次全国经济普查现场登记工作将正式拉开帷幕。在中国特色社会主义进入新时代、“两个一百年”奋斗目标的历史交会期，开展此次重大国情国力调查，是我国在决胜全面建成小康社会、开启全面建设社会主义现代化国家新征程中的一次“全面体检”。<br/><div class="contheight"></div>全面摸清我国经济发展状况，准确把握新时代经济发展新特征新趋势，科学指导和推动高质量发展，就必须获得真实可靠、客观翔实的一手数据。从这个意义上说，数据质量将是经济普查的生命线，也是衡量普查成败的根本标准。<br/><div class="contheight"></div>自《国务院关于开展第四次全国经济普查的通知》下发以来，第四次全国经济普查各项工作加快推进、全面展开，为普查现场登记奠定了坚实基础。做好经济普查现场登记，是普查决战决胜的关键环节，也是确保前期工作取得丰硕成果的重要保证。在这次现场登记中，普查员们将在3个月的时间里，对全国近90万个普查小区、8000多万个普查对象逐一登记，时间紧、任务重。各地区各部门应以高度的责任感和使命感，扎实做好现场登记各项工作，确保经济普查数据真实可靠，确保经济普查取得圆满成功。<br/><div class="contheight"></div>要确保普查数据真实可靠，必须确保普查的各环节、各方面都依法依纪依规行事。各级普查机构和广大普查人员应认真履行独立调查、独立报告的职责，坚决抵制各种干预普查数据的行为，严格执行普查方案和各项操作规程；深入企业、个体经营户等普查对象查实情、报实数，确保普查对象不重不漏，确保源头数据真实准确。任何单位和个人都应积极支持普查机构、普查人员依法普查，不得强令、授意普查机构、普查人员编造篡改普查资料，更不得以任何方式在普查数据上造假作假。<br/><div class="contheight"></div>要确保普查数据真实可靠，必须严格规范现场登记，从源头上提高数据质量。普查对象不配合，普查人员进不了门、填不了数，往往是影响现场登记工作的突出问题。因此，要充分发挥我国行政动员优势，主动争取各方力量广泛参与和支持，努力形成强大普查合力。广大普查人员要自觉规范现场登记行为，熟练掌握现场登记各项要求和技能，主动出示证件、亮明身份，以专业友善的态度、清晰准确的表述、熟练高效的操作，赢得普查对象的信任、支持与配合；对于普查对象存在的一些顾虑，要耐心细致地做好解释说明工作。<br/><div class="contheight"></div>普查对象也有义务接受经济普查机构和经济普查人员依法调查，应当如实、按时填报经济普查表，不得虚报、瞒报、拒报和迟报经济普查数据。<br/><div class="contheight"></div>摸清家底责任大，经济普查靠大家。只有每一名普查工作者依法、独立、科学地做好普查登记工作，每一个普查对象真实准确、及时完整地提供普查资料，每一位社会公众理解、重视、支持普查，各地区各部门通力协作、密切配合，才能确保普查数据真实可靠，确保第四次全国经济普查任务圆满完成。<br/><div class="contheight"></div>（原题为《数据真实是经济普查的生命线》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 经济普查</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772438">
+<div class="nbgbox">
+<a class="zan" contid="2772438" href="javascript:;" onclick="voteCont(this)" praisetimes="15">
+                           14</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 经济普查</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772438&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772438&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

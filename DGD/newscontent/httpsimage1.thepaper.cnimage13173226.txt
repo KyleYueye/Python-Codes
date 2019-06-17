@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">日本8年间共174名技能实习生死亡，在野党吁改善环境</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-13 21:01<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近期46名涉嫌到日本北海道打黑工的中国人下落不明，日媒报道了这些中国工人在寒冷天气中身着薄衫劳作的细节，一度引发中国国内不少民众的担心。<br/><div class="contheight"></div>事实上，不管是在日本打黑工的外国人，还是按照日本“技能实习生”制度合法前往日本工作的外国人，由于各项保障制度尚不完善，其中客死他乡的并不在少数。<br/><div class="contheight"></div>据共同社12月13日报道，据日本法务省统计，从2010至2017年的8年内，共计有174名外国人技能实习生因事故和疾病等原因死亡。死亡原因包括自杀、工伤，不少技能实习生的死亡原因甚至不明。在这些死亡的174人中，男性死亡为132人，女性为42人。从年龄上看，死亡的技能实习生中，20多岁者数量最多，高达118人；30多岁的有48人；40多岁的有3人；10多岁的也有5人。<br/><div class="contheight"></div>值得注意的是，令人难过的是，在这些死亡的174人中，不乏一些在工厂内被木材加工机夹住胸部、被金属切割机夹住头部而死亡的案例；另一方面，死于心肌梗塞、蛛网膜下腔出血、急性心力衰竭等疾病的案例也不在少数。<br/><div class="contheight"></div>报道称，日本在野党认为恶劣的工作环境或许是导致实习生死亡的原因之一，要求政府对此进行详细调查。考虑到日本政府日前才通过进一步引进外国劳动力的相关法案，日本在野党主张应首先谋求改善实习生的工作环境，才能使得该项制度具有切实落实的基础。<br/><div class="contheight"></div>本月6日，日方已经查明从2015至2017年的3年中，死亡的实习生人数为69名，接近近8年以来死亡人数的二分之一。对此，日本法务省表示“尚未把握详情”，会由法务省内设置的项目组对技能实习生的死亡经过等情况展开调查。<br/><div class="contheight"></div>日本1981年建立“外国人研修制度”，随着日本社会的老龄化日益严重并导致劳动力缺乏，研修生制度逐渐演变成日本变相引进劳动力的方式。1993年，日本又推出“技能实习生”在留资格制度，但技能实习生从事的劳动多是日本人不愿干的低薪工作，也就是日本人口中的“3K工作”（危险、脏、累），这与培训技术的目标日渐背离。共同社指出，截至去年10月底，在日的技能实习生人数约为25.8万人。<br/><div class="contheight"></div>另一方面，随着日本老龄少子化越发严重，日本政府也加快了引进外劳的步伐。上周末，日本国会在12月8日凌晨通过了一项旨在增加引进外国劳力的新法案。根据新法案，从明年4月开始，日本政府将在5年内引进超过34万名外国劳力，并将首次向外国体力劳动者提供最长达十年的签证，符合条件的外国劳力甚至还可以携带家人赴日工作。但是有日媒指出，34万名外劳并不能满足日本社会对劳动力的需求，加上外劳进入日本尚有许多法律层面上需要推进的事项，如何保障外劳在日本的权益也就显得更加重要了。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 日本,技能实习生</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2737199">
+<div class="nbgbox">
+<a class="zan" contid="2737199" href="javascript:;" onclick="voteCont(this)" praisetimes="29">
+                           28</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日本老龄化</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2737199&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2737199&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

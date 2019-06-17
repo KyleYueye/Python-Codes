@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国以倒卖军火为由逮捕一俄罗斯人，俄外交部：不是第一次了</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-06 07:56<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月5日，俄罗斯外交部就又一俄罗斯公民德米特里∙马卡连科(Dmitry Viktorovich Makarenko)在美国塞班岛被捕事件发布声明，要求美国方面给出明确理由，并彻底尊重俄公民的权利。<br/><div class="contheight"></div>俄罗斯外交部表示，俄驻华盛顿大使馆不是从美国执法机关那里听说有关情况，而是从马卡连科的亲属那里得知了消息。“美国当局违反双边领事公约，没有在规定的三天期限内通知有关我国公民被捕的情况。莫斯科要求华盛顿解释俄公民被捕原因，并彻底尊重他的权利。”<br/><div class="contheight"></div>“这种情况已经不是第一次发生了，美国忽略其国际义务的行为已成为常态。”俄外交部在其声明中写道。<br/><div class="contheight"></div>同样据俄外交部声明，马卡连科1979年出生。2018年12月29日，他在与妻子、未成年的子女以及年迈的父母一同飞抵美国北马里亚纳群岛的塞班岛后，当即在机场被美国联邦调查局（FBI）拘留，目前已被从北马里亚纳群岛转移到了佛罗里达州。<br/><div class="contheight"></div>俄新社1月5日报道称，美国1月4日公布的一份法庭文件显示，美国联邦调查局于2018年12月29日在塞班市逮捕了一名俄罗斯公民，指控其于2017年6月在没有许可证的情况下秘密出口国防用品。该文件已提交给美国地方法院，文件签署日期显示是2018年12月31日。根据法院起诉书，马卡连科被控犯有八起刑事案件。若罪名成立，他将面临长达45年的监禁。<br/><div class="contheight"></div>报道称，来自符拉迪沃斯托克的马卡连科试图从美国运送步枪夜视瞄准具、昼夜两用热成像望远镜和弹筒帽到俄罗斯。此案还有一名共犯，现年32岁的乌克兰裔美国公民弗拉基米尔•内德维米。根据法庭文件，马卡连科是内德维米的客户。内德维米在美国购买设备后，通过外国银行收取货款，再将货物发往俄罗斯。其中一个包裹于2018年6月被美国海关截获。内德维米被捕后认罪，已被判处26个月监禁。<br/><div class="contheight"></div>此前，俄罗斯联邦安全局于2018年12月31日对外宣布，12月28日，在俄罗斯首都莫斯科当场抓获一名美国“间谍”、前美国海军陆战队军官保罗•惠兰，原因是他试图从一名俄籍人士那里获取涉及俄国家机密的U盘。此外，惠兰长期通过俄社交网络拉拢经美国情报机关筛选、可能涉密的俄罗斯人。1月3日，俄方正式对惠兰提出指控。<br/><div class="contheight"></div>去年更早些时候，2018年7月15日，美国司法部在华盛顿拘捕俄罗斯女子布京娜，指控她涉嫌合谋渗透包括全国步枪协会（NRA）在内的美国政治机构，并以“自己与俄罗斯政府有联系”为由，渗透美国政界。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘惠<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 间谍,美俄关系,俄罗斯外交部</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2818327">
+<div class="nbgbox">
+<a class="zan" contid="2818327" href="javascript:;" onclick="voteCont(this)" praisetimes="131">
+                           130</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美俄关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2818327&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2818327&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（47）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

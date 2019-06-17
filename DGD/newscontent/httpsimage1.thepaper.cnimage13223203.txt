@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">“黄马甲”运动迎来第五周节点，巴黎8000名警察严阵以待</h1>
+<div class="news_about">
+<p>澎湃新闻记者 于潇清</p>
+<p>
+							2018-12-15 17:51<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">席卷法国的“黄马甲”运动将于12月15日星期六连续第五个星期六举行示威抗议活动。法国媒体预计，具有象征意义的巴黎香榭丽舍大街仍将成为“黄马甲”们示威抗议的主要地点。<br/><div class="contheight"></div>据欧洲本地新闻网（The local）12月15日报道，法国巴黎市以及各个城市目前都在严阵以待，准备应对第五波的示威活动。<br/><div class="contheight"></div>巴黎警察局局长迈克尔（Michel Delpuech）14日表示，巴黎计划在周六派出同于上周六的警力与防暴力量。这也意味着仅巴黎市就要有超过8000名警察出动，此外巴黎还将动用14辆警用装甲车来应对可能的骚乱，而在全国范围内会有超过89000名警察值班。<br/><div class="contheight"></div>但迈克尔同时表示，现在仍然不清楚是否会有类似于上周末规模的“黄马甲”们上街示威抗议，因此本周卢浮宫、埃菲尔铁塔等一些景点将正常开放。<br/><div class="contheight"></div>根据民调机构Odoxa最新公布的调查结果显示，目前有54%的民众支持继续抗议，这一数字相较于两周之前下降了近二十个百分点。尤其在上周发生了斯特拉斯堡枪击事件之后，一部分人开始选择支持政府。<br/><div class="contheight"></div>但15日“黄马甲”运动仍将持续。一名“黄马甲”运动的支持者在其个人社交媒体上写到，“现在我们反而比以往任何时候更需要将这个运动扩大影响！”根据社交媒体“脸谱”网上的活动统计显示，已经有超过24000人报名了15日在巴黎香榭丽舍大街的抗议活动，另外还有36000人计划在巴黎其他地方参与抗议。<br/><div class="contheight"></div>目前，香榭丽舍大街上的商家对游客数量的大幅度下降深表担忧。据法新社14日报道，几个星期以来在香榭丽舍大街几乎看不到游客，尤其是外国游客。<br/><div class="contheight"></div>一个在香榭丽舍大街向游人出售纪念品的商店雇员在接受媒体采访时表示，“现在附近几乎没有任何游客，到处空空如也，人们害怕出门。”自从“黄马甲”运动以来，香榭丽舍大街附近的旅馆预订比例也已经下降了50%。<br/><div class="contheight"></div>香榭丽舍大街目前也已成为各国驻法国使领馆提醒谨慎前往的地区。据中国驻法国大使馆15日发布信息，本周六，法国黄马甲运动将再次在巴黎和外地发起示威抗议活动，驻法国使馆在此提醒在法中国公民，时刻关注有关新闻动态，提高安全防范意识，谨慎前往香榭丽舍大街及有关城市市中心、商业区等区域，避免发生意外事件。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：汤宇兵<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 黄马甲</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2742887">
+<div class="nbgbox">
+<a class="zan" contid="2742887" href="javascript:;" onclick="voteCont(this)" praisetimes="85">
+                           84</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 黄马甲运动</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2742887&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2742887&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

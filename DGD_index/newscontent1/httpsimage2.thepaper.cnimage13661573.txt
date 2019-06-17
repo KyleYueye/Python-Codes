@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">金正恩勉励朝鲜劳动英雄：明年搞好农业后再次见面</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2018-12-29 10:47<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据海外网12月29援引朝中社报道，朝鲜最高领导人金正恩会见朝鲜第四次全国农业部门积极分子会议与会者，并与他们合影留念。他高度评价做出贡献的农业劳动者、农村基层干部和科技工作者，并勉励此次获得“劳动英雄”称号的与会者“搞好明年的农业生产后再次见面”。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="386" src="http://image.thepaper.cn/www/image/13/661/568.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">图/朝中社</span><br/><div class="contheight"></div>韩联社称，朝鲜第四次全国农业部门积极分子会议，是金正恩执政以来首次召开。今年4月召开的朝鲜劳动党七届三中全会，提出了集中一切力量进行社会主义经济建设的新战略路线。此次会议，旨在鼓舞劳动者士气，提高明年的粮食产量。<br/><div class="contheight"></div>据朝中社报道，金正恩来到摄影场所时，与会者表示热烈欢迎。<br/><div class="contheight"></div>金正恩高度评价说，农业劳动者、农村基层干部和科技工作者把金日成同志和金正日同志的遗训铭刻在心，即终生致力于农作，为解决人民的粮食和吃饭问题呕心沥血。金正恩肯定他们为创造丰收而奉献纯洁良心和爱国汗水的辛劳。<br/><div class="contheight"></div>朝中社还说，对于在贯彻朝鲜劳动党“农业第一主义方针”斗争中发挥先锋作用，因此获授公民最高荣誉——“劳动英雄”称号的有功者，金正恩热情地勉励他们，“搞好明年的农业生产后再次见面”。<br/><div class="contheight"></div>金正恩表示期待和相信，与会者铭记朝鲜劳动党把农业战线定为经济强国建设主攻方向的意图，不断扩大高产农场、高产作业班、高产分组、高产农场员队伍，在全国遍地更高地打响增产粮食的胜利战鼓，并同与会者一起合影留念。<br/><div class="contheight"></div>崔龙海、朴奉珠、卢斗哲、朴太德、金能五、高人虎、李哲万、郭范基等朝鲜劳动党和政府领导干部，各道党委委员长参加上述活动。<br/><div class="contheight"></div>（原标题 《金正恩勉励朝鲜劳动英雄：搞好明年农业 再次见面》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 金正恩</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2791011">
+<div class="nbgbox">
+<a class="zan" contid="2791011" href="javascript:;" onclick="voteCont(this)" praisetimes="19">
+                           18</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 金正恩</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2791011&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2791011&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

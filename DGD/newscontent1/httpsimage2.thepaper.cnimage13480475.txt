@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">全国人大常委会法工委：建立健全全国统一备案审查信息平台</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林平</p>
+<p>
+							2018-12-25 10:30<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月24日，十三届全国人大常委会第七次会议在京召开第三次全体会议。全国人大常委会法工委主任沈春耀在作关于2018年备案审查工作情况的报告时指出，法制工作委员会通过运用备案审查衔接联动机制，推动纠正存在问题的规范性文件，实现备案审査全覆盖。<br/><div class="contheight"></div>与此同时，备案审查工作还将建立健全全国统一的备案审查信息平台，实现互联互通。<br/><div class="contheight"></div>沈春耀介绍，过去一年间，法制工作委员会积极参与、建立并完善与中央办公厅、司法部、中央军委办公厅之间的备案审査衔接联动机制，在移交审查建议、共商研究意见、共享工作信息、共同培训研讨、协调解决问题等方面逐步建立起常态化工作机制，向有关方面转送审查建议14件。<br/><div class="contheight"></div>同时，积极探索建立与最高人民法院、最高人民检察院、地方人大常委会之间的备案审査工作联系机制，充分有效运用备案审查衔接联动机制，通过座谈会、共同调研等方式推动纠正存在问题的规范性文件。督促有关方面加强对规章、行政规范性文件以及地方“两院”规范性文件进行监督，确保实现规范性文件备案审査全覆盖。<br/><div class="contheight"></div>报告透露，2018年8月，司法部将备案审查工作中发现的存在问题的43件地方性法规一揽子转送法制工作委员会研究处理。<br/><div class="contheight"></div>经初步研究，其中15件存在与法律或行政法规不一致、缺乏上位法依据增设行政审批事项等问题，其他28件存在与国家有关政策要求不一致等问题，“下一步深入研究后，将通过适当形式督促有关地方予以纠正。”沈春耀说。<br/><div class="contheight"></div>不仅如此，全国人大常委会法工委会还将加强全国统一的备案审查信息平台建设和国家法律法规数据库建设，推动地方人大加快信息平台建设并与全国人大实现互联互通，推动地方建立人大常委会听取和审议备案审查专项工作报告制度，建立备案审查工作信息公开机制。<br/><div class="contheight"></div>沈春耀表示，在进一步落实“有件必备、有备必审、有错必纠”之外，法制工作委员会还将推动实现备案审査工作制度化、信息化、智能化。<br/><div class="contheight"></div>具体包括：出台并实施备案审查工作规定，提高备案审查工作制度化、规范化水平，为地方人大备案审査工作提供指导。逐步健全向常委会报告备案审查工作情况的制度。进一步运用好备案审査衔接联动机制。建立健全全国统一的备案审查信息平合，实现互联互通。巩固完善全国人大备案审査信息平台的电子备案、在线审查等功能，拓展信息平台的数据收集和立法服务功能，提升备案审查工作效率和水平，推进国家法律法规数据库建设。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王选辉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 全国人大,立法,备案审查</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2771782">
+<div class="nbgbox">
+<a class="zan" contid="2771782" href="javascript:;" onclick="voteCont(this)" praisetimes="29">
+                           28</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 备案审查</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2771782&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2771782&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

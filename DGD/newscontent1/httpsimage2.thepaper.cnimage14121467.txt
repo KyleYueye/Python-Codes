@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25438">财经上下游</a>
+</div>
+<h1 class="news_title">卫健委回应“2018出生人口大幅下跌”：近期公布数据</h1>
+<div class="news_about">
+<p>澎湃新闻记者 海阳</p>
+<p>
+							2019-01-10 17:19<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月10日，国家卫生健康委员会举行例行新闻发布会。在回应“2018出生人口大幅下跌”传言时，卫健委新闻发言人宋树立表示，卫健委一直在持续监测，具体数据将由有关部门近期公布。<br/><div class="contheight"></div>中国人民大学、中国调查与数据中心副教授陶涛表示，近年来，育龄妇女规模下降，平均年龄提升，结婚人数出现下降，婚育时间整体推迟。这些都对出生人口规模、生育水平产生影响。2018年的出生人口可能需要在更长时期里客观看待。<br/><div class="contheight"></div><strong>以下为问答实录：</strong><br/><div class="contheight"></div><strong>记者</strong>：我有两个问题是关于出生人口数据的，一个想问一下预计今年的出口人生数据什么时候公布，和去年相比，可能会有哪些不同。二是现在有一些地方的出生人口数据已经陆续公布了，据此有些专家预测今年全国出生人口可能会比去年减少200多万，请问对此观点有何评论？下一步生育政策的研究重点可能是在哪个方面？谢谢。 <br/><div class="contheight"></div><strong>宋树立</strong>：这个问题确实是社会、媒体都特别关注的。我也看到媒体近来陆续有一些相关报道，生育问题影响因素是比较多的，育龄妇女的规模，结婚年龄，生育年龄，还有经济社会因素等等，是比较复杂的。我们委里一直在持续监测，具体数据有关部门近期会公布。今天请来了中国人民大学社会与人口学院、中国调查与数据中心的副教授陶涛，请陶教授给大家解释一下。<br/><div class="contheight"></div><strong>陶涛</strong>：各位媒体朋友，大家好。非常荣幸有这样一个机会和大家分享一下我的一些看法。<br/><div class="contheight"></div>第一，怎么去看待2018年出生人口的变化。我们知道，出生人口的规模受到育龄妇女的规模的影响，我国15—49岁育龄妇女的规模2011年达到顶峰，之后一直是下降状态，相应的出生人口也进入下行通道。从2000年以来，每年出生人口大概是1500—1800万之间波动，最近受到政策调整的因素，还有龙年、羊年等生肖选择的影响，波动也是在加大的。除了育龄妇女规模的影响外，还有一些因素，比如育龄妇女的年龄结构，我们可以看到，整个育龄妇女的平均年龄是在提升的，2015年数据显示，在所有育龄妇女当中，有一半以上都在40岁以上，这也是一个影响因素。包括结婚的情况，2017年全国结婚人数大概是1063万，同比下降7%。还有一个因素是婚育的推迟，近三年以来，平均的初育年龄和平均生育二孩的年龄都往后推了一岁，这些也会对出生人口规模、生育水平是会产生影响的。刚才说了，2000年以来出生人口规模大概是在1500—1800万波动，可能2018的出生人口也需要在更长时期里客观看待。<br/><div class="contheight"></div>第二，随着我国经济社会的发展，我国的生育模式和生育状况确实发生了一些新的变化，需要进一步加强人口的监测。城镇化的推进，高等教育的普及，婚育的推迟，所有的因素都会对生育水平产生一些影响。90后成为了生育主体，他们的生育观念、生育意愿也出现了一些新的变化，所以在今后一段时期内，进一步加强人口监测，进一步掌握人口生育模式、生育规律，这是十分重要的。<br/><div class="contheight"></div>最后，在很多调查中发现，人们在生育养育过程中确实存在一些顾虑，对经济社会政策的配套呼声比较高，主要反映在住房、就业、女性劳动保护、税收，产假、婴幼儿照护等等各个方面，都有一些政策上的期盼，这也是生育相关的政策，需要构建生育友好的、家庭友好的政策支持体系，切实帮助更多家庭在生育养育过程中解决一些实际的困难。谢谢。<br/><div class="contheight"></div><strong>宋树立</strong>：我还想补充一点。这两年我们看到二孩的出生比始终保持在50%左右，也就是说，二孩政策所产生的积极意义在持续释放出来。我们也会会同相关部门加强监测、加强研究，落实党的十九大报告要求的“促进生育政策和相关经济社会政策配套衔接，加强人口发展”。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李跃群<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837176">
+<div class="nbgbox">
+<a class="zan" contid="2837176" href="javascript:;" onclick="voteCont(this)" praisetimes="36">
+                           35</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 全国出生人口</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837176&caid=25438",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837176&amp;caid=25438" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

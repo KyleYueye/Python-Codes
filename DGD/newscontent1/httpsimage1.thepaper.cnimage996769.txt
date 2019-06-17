@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜“天天迎接陪同”，基层叫的这些苦上级部门听见了吗</h1>
+<div class="news_about">
+<p>澎湃特约评论员 柯锐</p>
+<p>
+							2018-08-28 17:20<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2386015" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜“天天迎接陪同”，基层叫的这些苦上级部门听见了吗" src="//image2.thepaper.cn/image/9/953/330.jpg"/>
+</a>
+<div class="atlas_360_txt">乡镇干部诉苦：一些地方层层搞督查，一年两百多天在陪同检查<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">督导、督查、督察……半月谈记者在基层采访时，听到许多乡镇干部诉苦：中央层面的督查很有必要，但目前一些地方层层搞督查，已成基层不能承受之重，不仅没有达到促进工作落实的效果，反而严重耗费了具体抓落实的人力、物力、精力，产生反作用。<br/><div class="contheight"></div>“从2017年9月开始，仅乡上的2个锅炉，各级部门就查了10多次。”“我一年中有200多天在迎接、陪同检查，有时候这个检查组还没走，另一个又来了。”“现如今督导检查的人比具体抓落实的人还多。”这些来自基层的吐槽，反映部分地方“督查问题”已成为“问题督查”。<br/><div class="contheight"></div>基层工作，头绪多、范围广，面临矛盾复杂、工作难度大的问题。对督查工作来说，一是要有问题意识，带着问题导向开展工作，及时发现基层工作中的问题并纠正，二是督查要带着标准、规则，有针对性地去督查，对基层工作的老大难问题提供指导和解决方案。层层搞督查，不但不能促进基层纠正问题、改进工作，反而让基层疲于应付各类来自上级的检查，无谓增加他们的工作负担。<br/><div class="contheight"></div>严格说来，这样的“问题督查”，它没有真正履行监督职责，反而异化为一种形式主义。就像报道里的一位基层干部讲的：都来督查我们，谁来抓落实呢？<br/><div class="contheight"></div>督查的目的是抓工作落实，追求实效是其宗旨，也是立足点。基层乡镇受到上级的督查五花六门、数量繁多，反过来也说明：有些督查的效果堪忧。层层搞督查，稀释了督查者的主体责任，也容易造成基层工作的疲沓——久而久之变成“没有督查，不会干事”。<br/><div class="contheight"></div>避免督查流于形式，需要将监督方式拓宽。基层乡镇接受上级督查，本质上是一种行政监督。这种监督，具有直接、震慑力大的特点。不过这种监督终究是一种科层体系内的监督，与社会公众监督、新闻舆论监督相比，具有封闭性、随机性等劣势，而后两种监督，则具有参与者多、监督范围广等优点。<br/><div class="contheight"></div>有鉴于此，对于涉及公共利益的基层工作，特别是某些老大难问题，除了常规的行政督查，也要注重社会监督、舆论监督等监督方式，多种监督、督查方式结合，提高监督效率，促进工作改进。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 督导督查</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2387695">
+<div class="nbgbox">
+<a class="zan" contid="2387695" href="javascript:;" onclick="voteCont(this)" praisetimes="143">
+                           142</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 督导督查</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2387695&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2387695&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（40）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

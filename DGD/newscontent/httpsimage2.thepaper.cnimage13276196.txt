@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25450">文化课</a>
+</div>
+<h1 class="news_title">外教社《黑布林英语阅读》丛书是如何获得青睐的</h1>
+<div class="news_about">
+<p>澎湃讯</p>
+<p>
+							2018-12-18 15:08<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">推进全民阅读是一个热门话题，上海外语教育出版社（以下简称“外教社”）作为知名权威外语出版和服务基地，也为推动“全民阅读”，尤其是青少年英语阅读作出了努力。<br/><div class="contheight"></div>在外教社新近推出的中小学优质英语分级读物中，《黑布林英语阅读》丛书从欧洲专业英语教育出版机构Helbling Languages引进，包含114种系列读物，将经典小说与当代作品完美结合，包含了众多经典名著故事，如《汤姆·索亚历险记》《野性的呼唤》《呼啸山庄》等，在提升学生英语阅读能力的同时，也对综合素养提高起到了潜移默化的积极影响。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="590" src="http://image.thepaper.cn/www/image/13/276/240.jpg" width="600"/></div>近几年，《黑布林》销量逐年攀升，《黑布林》也积攒下了良好的口碑。在一些大型网络书店的购书评论中，不难看到以下关键词：语言地道、语音纯正、适合阅读和听力练习、配套资源方便使用、激发学习兴趣——这也是大多数人给于《黑布林》正面评价的原因。该套读物从国外原版引进，由国内知名中小学英语教育专家改编，确保了其内容的高质量和权威性，丛书单词量合理、内容丰富、故事性强、充满时代感。<br/><div class="contheight"></div>《黑布林》系列图书采用了立体化融合出版策略，让读者全方位享用相关英语教育资源：除了配套听力外，《黑布林》提供E-zone教学平台支持，方便教师组班管理英语阅读教学，还有Blog读物博客供读者交流，走近作者和绘图者，倾听并分享世界各地英语阅读教学理论与实践。<br/><div class="contheight"></div>目前，《黑布林》涵盖了小学、初中、高中各年级，该系列仍在不断推出新书。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陈诗怀<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2749140">
+<div class="nbgbox">
+<a class="zan" contid="2749140" href="javascript:;" onclick="voteCont(this)" praisetimes="23">
+                           22</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 英语教育</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2749140&caid=25450",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2749140&amp;caid=25450" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜6岁女孩命陨试衣镜，商场尽到安全保障义务了吗？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 史洪举</p>
+<p>
+							2018-12-10 15:41<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2721498" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">上海飞洲国际一商铺内试衣镜砸死6岁女孩，涉事商铺暂停营业</span></a></img></p></div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="377" src="http://image.thepaper.cn/www/image/13/55/590.jpg" width="507"/></div><span style="color: rgb(128, 128, 128);">被砸中的6岁女孩姚某</span><br/><div class="contheight"></div>12月8日晚，上海徐汇区飞洲国际商场一家商铺内，一立式试衣镜突然倒下，砸伤了6岁女孩姚某。姚某被家人送医后因伤势过重不幸身亡。 <br/><div class="contheight"></div>可以说，凡是服装类商场或门店，均离不了试衣镜。这一最常见物品却夺走了6岁女孩的生命，让人震惊和不可思议。这起事件中，带领小孩逛商场的监护人是否存在监护不力的问题，还有待权威部门判定。但是，作为公共场所的管理者，商场和涉事商家显然未尽到安全保障义务。 <br/><div class="contheight"></div>根据侵权责任法，宾馆、商场、银行、车站、娱乐场所等公共场所的管理人或者群众性活动的组织者，未尽到安全保障义务，造成他人损害的，应当承担侵权责任。消费者权益保护法也规定，宾馆、商场、餐馆等经营场所的经营者，应当对消费者尽到安全保障义务。 <br/><div class="contheight"></div>之所以强调经营者的安全保障义务，主要在于经营者面对的是不特定的消费者，其中既有年轻体壮者，也有活泼好动者，更有老幼病残者；既有小心谨慎者，也有粗枝大叶者。这决定了，此类场所必须考虑到多数人的性格特征和注意程度，适用更严格的安全标准，摆放的相关设备理当比个人住宅内的家具更牢固安全。 <br/><div class="contheight"></div>尤其是，经营者更清楚经营场所内相关设施的性能和安装状况，因而具有更强的预见风险和控制风险能力。消费者则不同，其大多数知晓自己家中家具的安装情况，却不了解公共设施的相关情况。那么，经营者显然更应承担安全保障义务，采取警示、加固、提醒等必要措施避免消费者人身安全受到侵害。 <br/><div class="contheight"></div>值得注意的是，这是经营者的法定义务，不得随意减轻和免除，更不得将该安全保障义务转嫁为消费者的注意义务。也就是说，只要不是消费者故意“碰瓷”，凡是在经营场所内受到侵害的，均应视为经营者未尽到安全保障义务。 <br/><div class="contheight"></div>据报道，店经理解释称，该店是2011年请装修公司装修的，当时这个镜子就在，按照要求，镜子应该有钢钉等设施和墙壁相连。但该镜子与墙壁残留的连接痕迹中，无任何钉铆痕迹，仅有一圈胶迹。由此可见，很难说涉事商场已经尽到了充分的安全保障义务，即便查明女孩有碰触试衣镜行为，也不能免除经营者责任。<br/><div class="contheight"></div>需要说明的是，这里的消费者是相对于经营者而言的泛称，即并不是购买了商品的人才是消费者，凡是逛商场、门店者均视为消费者，哪怕是从商场路过闲逛的，或者是到超市寻找卫生间的，都属于消费者权益保护法所规定的消费者，经营者都应尽到安全保障义务。否则，一旦造成消费者损害的，均应承担损害赔偿责任。<br/><div class="contheight"></div>再小的公共场所安全隐患，都可能带来天大灾难。作为公共场所的管理者和经营者，不能懈怠侥幸，必须尽到更高的安全保障义务，确保该场所内的相关设施符合安全标准。这样方能有效避免“夺命试衣镜”式悲剧，让消费者免遭天降之祸。</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 试衣镜砸死6岁女孩</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2723572">
+<div class="nbgbox">
+<a class="zan" contid="2723572" href="javascript:;" onclick="voteCont(this)" praisetimes="119">
+                           118</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 试衣镜砸死6岁女孩</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2723572&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2723572&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜28个部门联合惩戒，这回医闹者该知道痛了</h1>
+<div class="news_about">
+<p>澎湃特约评论员 史洪举</p>
+<p>
+							2018-10-17 15:32<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">10月16日，国家发改委、人民银行、卫健委、公安部、人社部、商务部、最高人民法院等28个部门联合印发了《关于对严重危害正常医疗秩序的失信行为责任人实施联合惩戒合作备忘录》的通知，将对实施或参与涉医违法犯罪活动，被公安机关处以行政拘留以上处罚，或被司法机关追究刑事责任的严重危害正常医疗秩序的自然人实施联合惩戒。<br/><div class="contheight"></div>近几年来，医闹行为时有发生，甚至有暴力伤医乃至杀医的极端恶性事件。如前几天，北京大学第一医院妇产科医生就被患者家属暴力伤害，引发广泛关注。在医闹现象多发的背景下，如果不采取有效措施惩戒医闹行为，必将导致医护行业人人自危，导致双输局面。由相关部门对医闹行为实施联合惩戒，显然有助提高医闹者的作恶成本，促进和谐医患关系的形成。<br/><div class="contheight"></div>众所周知，医疗属于专业性极强的行业，这让很多医疗知识匮乏的患者在信息不对称格局下，容易对医生的诊疗方式、手段、结果产生怀疑。特别是，一些患者对医疗技术怀有不切实际的幻想，对医护人员要求过度，稍有不满，便将恶气撒向无辜的医护人员。还有患者将医疗结果的不理想归咎于医护人员的失职和“暗箱操作”，进而报复医护人员，实施侮辱、恐吓、殴打等行为。<br/><div class="contheight"></div>殊不知，绝大多数医护人员以救死扶伤为天职，几乎没有医生希望患者的疾病越治越严重，也很少有医护人员故意产生差错，制造医疗事故。而且，在医患纠纷中，法律法规倾向于保护处于弱势的患者权益，如只要医生未尽到诊疗义务，违规操作，隐匿、销毁、篡改病历资料的，就应对患者的损害承担赔偿责任。<br/><div class="contheight"></div>遗憾的是，一些患者或家属在与医护人员沟通不畅或诉求未满足，或者出现伤亡结果时，充满偏见、情绪乃至仇视，对医护人员的正常行为进行“有罪推定”，进而戾气迸发，诉诸暴力。还有患方在纠纷发生后，摒弃正常的解决渠道，采取围堵、哄闹、打砸、侮辱、殴打等方式发泄怨气、索要高额赔偿。<br/><div class="contheight"></div>这种原始丛林式的暴力伤医行为，显然偏离了法治轨道，让本应受到尊重的白衣天使尊严扫地，毫无安全感可言。如果不对这种暴行严加防范和惩戒，必将导致一地鸡毛，医护、患者、社会各方之间没有赢家。如有调查指出，有近60%的医护人员不愿意其子女从医，侧面证明其对行业前景并不看好。还有医护人员为避免医闹行为，不得不过度检查，对高危病情不得不过度谨慎，以致错过最佳治疗时间。<br/><div class="contheight"></div>如今，28个国家级部门对严重危害正常医疗秩序的医闹行为联合惩戒，彰显出其对医闹行为的零容忍姿态和对维护正常医疗秩序的高度重视。值得注意的是，这种联合惩戒以公安机关或司法机关已经对医闹者实施行政处罚和司法惩戒为前提，并将医闹行为定性为失信行为。这无疑是对医闹行为的名誉否定和行为限制，让其在一定期限内无法享受工作招录、职务晋升、荣誉获得等正常人的“待遇”。<br/><div class="contheight"></div>现实中，一些医闹者往往有着体面的工作和美好的前途，如北京大学第一医院妇产科医生被患者家属暴力伤害事件中，一名嫌疑人就刚进入大学。如果对其实施联合惩戒，等于给其当头棒喝，让其感受到切肤之痛。期盼关部门能够密切协作，狠抓落实，进而形成威慑，打消一些人有恃无恐的念头，纠偏其以闹牟利的心理，还公众健康、互信、和睦的医患关系。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 医闹 医患关系</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2537505">
+<div class="nbgbox">
+<a class="zan" contid="2537505" href="javascript:;" onclick="voteCont(this)" praisetimes="198">
+                           197</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 医闹</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2537505&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2537505&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（56）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国中西部遇暴风雪：机场公路关闭千架航班取消，已致死1人</h1>
+<div class="news_about">
+<p>高路/新华社</p>
+<p>
+							2018-12-29 16:35<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社休斯敦12月28日电 席卷美国中西部的暴风雪从26日一直持续至28日，截至目前已导致1人死亡，数千架次航班取消或延误，多条高速公路封闭。<br/><div class="contheight"></div>来自美国国家气象局的消息说，自冬季风暴“埃博妮”24日登陆西海岸加利福尼亚州后，一路向东挺进并不断加强，给美国中西部地区带来暴风雪和剧烈降温，部分地区降雪超过28厘米。<br/><div class="contheight"></div>美国中西部的堪萨斯州、新墨西哥州、明尼苏达州、内华达州、北达科他州等地多处机场封闭，航班取消或延误，多条州际高速公路封闭。<br/><div class="contheight"></div>据报道，27日，堪萨斯州发生一起因暴风雪造成的交通事故，导致一名摩托车驾驶者死亡，发生事故的高速公路随即封闭。堪萨斯州州长科利尔26日已宣布该州进入紧急状态。<br/><div class="contheight"></div>在新墨西哥州，多个城市政府机构因暴风雪被迫放假，大雪还造成大面积停电和交通瘫痪。<br/><div class="contheight"></div>除暴风雪外，冬季风暴还造成美国南部密西西比州、路易斯安那州、南卡罗来纳州等地暴雨成灾，一些地区已经发出洪水预警。<br/><div class="contheight"></div>（原文标题：《美国中西部暴风雪导致机场公路封闭》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国,假期,暴风雪</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2792069">
+<div class="nbgbox">
+<a class="zan" contid="2792069" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 超强风暴袭击美国</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2792069&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2792069&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

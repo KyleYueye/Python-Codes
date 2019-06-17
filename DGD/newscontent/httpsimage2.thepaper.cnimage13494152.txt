@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">庆祝改革开放40周年大型展览累计参观人数突破200万</h1>
+<div class="news_about">
+<p>澎湃新闻记者 王俊</p>
+<p>
+							2018-12-25 19:26<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="375" src="http://image.thepaper.cn/www/image/13/494/156.jpg" width="600"/></div>“伟大的变革——庆祝改革开放40周年大型展览”对公众开放以来，吸引了广大群众踊跃参观。<br/><div class="contheight"></div>继12月6日参观人数突破100万人之后，澎湃新闻（www.thepaper.cn）从“伟大的变革——庆祝改革开放40周年大型展览”办公室获悉，12月25日，现场参观人数突破200万，创造主题展览新的记录。<br/><div class="contheight"></div>11月14日起，“伟大的变革——庆祝改革开放40周年大型展览”对公众开放。12月25日，大型展览进入对公众开放第40天。<br/><div class="contheight"></div>澎湃新闻记者从大型展览办公室了解到，12月25日当天，现场观众达55510人次，累计现场观众2013209人次；当天现场讲解472批次，累计讲解达15611批次；当天收到观众留言2.01万字，累计留言达208.36万字。<br/><div class="contheight"></div>另外，截至12月25日17时，网上展馆全面上线25天，点击浏览总量达2.084亿次。<br/><div class="contheight"></div>“伟大的变革——庆祝改革开放40周年大型展览”由中共中央宣传部、中央改革办、中央党史和文献研究院、国家发展改革委、商务部、中央军委政治工作部、新华社、北京市共同举办。<br/><div class="contheight"></div>展览以坚持和发展中国特色社会主义为主题，紧扣改革开放40年历程，紧扣改革开放的历史纵深感、群众获得感、发展成就感，安排设计了6个主题内容展区，多角度、全景式集中展示改革开放光辉历程、伟大成就、宝贵经验，展示党的十八大以来，以习近平同志为核心的党中央高举改革开放旗帜、推进全面深化改革、扩大对外开放的战略决策部署，展现党中央将改革开放进行到底的政治魄力和坚定决心。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：钟煜豪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 庆祝改革开放，参观人数</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2773474">
+<div class="nbgbox">
+<a class="zan" contid="2773474" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 庆祝改革开放40周年大型展览</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2773474&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2773474&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

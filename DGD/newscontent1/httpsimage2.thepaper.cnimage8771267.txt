@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜强迫精神病人劳动？不查清，社会良心不安</h1>
+<div class="news_about">
+<p>澎湃特约评论员 杨晨</p>
+<p>
+							2018-07-10 15:24<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/8/771/280.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">西安雁塔区的甘露医院 视觉中国 图</span><br/><div class="contheight"></div>据《华商报》报道，7月7日上午，西安雁塔区的甘露医院让精神病人到医院2楼“干活”，病人刘某“很累”“不想搬了”，从楼上跳了下来，导致“骨盆、左踝关节、右跟骨、左胫骨平台骨折，伤势严重”。甚至事发后，院方并没有叫救护车，而是用一辆三轮车一路颠簸地将重度骨折的患者送到了另一家医院。<br/><div class="contheight"></div>楼是自己跳下去的，却不能让一个不能认识和控制行为的精神病患者“自认倒霉”。精神病人是在医院接受治疗的，也是由家属及医保支付了医疗费用的，不是来当苦力的。现在的问题是，医院究竟有没有强迫精神病人劳动？<br/><div class="contheight"></div>目前，事件的真相，还有待做出全面的调查。受伤者刘某虽然是精神病患者，但还是勾勒出了部分事实：“我搬了很久，不想搬了，想跑，就从房顶跳了下来，当时有很多人一起在搬。”而且目前院方表示暂时不能够看监控视频。但是，基本可以肯定，患者的跳楼与被“要求”劳动有关系。<br/><div class="contheight"></div>要明白，我国《精神卫生法》明确规定，“医疗机构不得强迫精神障碍患者从事生产劳动”，“精神障碍患者的人格尊严、人身和财产安全不受侵犯”。精神病人是来治病的，而不是当“苦力”的，如果坐实强迫劳动，医疗机构必须要承担赔偿责任。<br/><div class="contheight"></div>其实，除了民事责任，有关人员的医疗行政责任也无可推卸。《精神卫生法》明确规定，对违法“强迫精神障碍患者劳动”的医疗机构及其工作人员，“由县级以上人民政府卫生行政部门责令改正，对直接负责的主管人员和其他直接责任人员依法给予或者责令给予降低岗位等级或者撤职的处分”，“对有关医务人员，暂停六个月以上一年以下执业活动”，“情节严重的给予或者责令给予开除的处分，并吊销有关医务人员的执业证书”。简言之，如果真是强迫精神病人劳动，那是可以把相关医生赶出医生队伍的。<br/><div class="contheight"></div>报道中有一个细节，“刘某可能是想从医院跑出去，此前也跑过一次，但被发现了”，由此可见，精神病患者被院方要求劳动，恐怕也非偶然而为。<br/><div class="contheight"></div>精神病人是最无助的一个群体，他们是最缺乏自我维权能力的。面对这次的跳楼事件，公众要质疑：当地的甘露医院强迫精神病人劳动，是不是司空见惯的事情？当地卫生部门长期以来有没有知晓、监督到这一情况？职能部门必须作出全面调查，不能让个别精神病院成为罪恶的渊薮。<br/><div class="contheight"></div>医院绝不能是“血汗工厂”，患者更不是苦力，不能自我维权的精神病人更应该得到社会的关注。践踏病人权益的恶行，绝不能捱到跳楼见血了，方才“东窗事发”。在严肃查处“跳楼”事件、救济弱势者的同时，有关部门也应反思监管疏漏、追究相关责任。到底有没有强迫精神病人劳动？这个事情不查清楚，整个社会的良心会不安的。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2252312" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">西安一精神病院副院长让病患干活，一人跳楼致多处骨折</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 精神卫生法 强迫劳动 精神病院 甘露医院</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2252997">
+<div class="nbgbox">
+<a class="zan" contid="2252997" href="javascript:;" onclick="voteCont(this)" praisetimes="20">
+                           19</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 精神病人</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2252997&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2252997&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

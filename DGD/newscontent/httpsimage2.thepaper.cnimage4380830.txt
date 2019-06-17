@@ -1,0 +1,92 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25427">澎湃人物</a>
+</div>
+<h1 class="news_title">澎湃问吧今日嘉宾：“陆老神仙”，网络新词靠谱翻译请点进来</h1>
+<div class="news_about">
+<p>澎湃新闻讯</p>
+<p>
+							2015-05-20 15:18<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align: center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/4/380/833.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">复旦大学外文学院教授陆谷孙。</span><br/><div class="contheight"></div>       今天，复旦大学外文学院陆谷孙教授做客澎湃问吧，回答网友关于时政、网络新词的翻译问题。<br/><div class="contheight"></div>       陆谷孙教授，人称 “陆老神仙”、“活字典”。现在，他正在紧张地编写《中华汉英大字典》。他说“委实是重任在肩，无暇也无意旁骛，但难以推脱‘死缠烂打’型小编‘没完没了’的邀请，勉强以老朽有限的能力和知识储备回答一趟问题。”<br/><div class="contheight"></div>       陆老神仙来了，网友们纷纷祭出了字典上也查不到的词来求教。对于“双引擎”“众创空间”，陆老神仙回复说，“双引擎肯定是飞机的比喻，那就set in motion或kick-start the twin engines。众创空间的话，zhongchuangkongjian？room for collective innovation。”<br/><div class="contheight"></div>       对于时政词汇，比如，李克强总理曾说过的“大道至简，有权不可任性”，陆老神仙给出的翻译是“the sovereign truth is simple. those who wield power should not be self-willed”。他说，其实还有很多种译法。<br/><div class="contheight"></div>       对于“当电灯泡”这样的词，陆老师则给了多种翻译方式：“不但有to do/play gooseberry或to be the third（自行车） or fifth（汽车） wheel，更有two's company， three's a crowd。”<br/><div class="contheight"></div>       关于“网络新词收入字典的问题”，陆老师回答说：主要根据词的热度做判断，比如“屌丝”这个词，就是收入词典的。其一是因为去年百度统计，这个词有4110万的频用度，人民日报也不避讳；另一个原因，这个词译成英语，像loser、underdog、dumbass都很恰当，特别是“屌丝文化”对应“culture of angst”，简直是说到了屌丝的本质。<br/><div class="contheight"></div>       陆老神仙还在回答中，有什么问题快来问吧。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_asktopic">
+<div class="news_askuser" onclick="window.open('asktopic_detail_10000130');"><span class="verticalAlign_topic"></span>
+<div class="news_askuser_bd">
+<div class="news_askuser_sort">思想</div>
+<div class="news_askuser_profile">陆谷孙教授留给我们的那些回答</div>
+</div> <div class="news_askuser_trbs"><span class="trbs">
+<div class="userleft_hdimg">
+<img src="//image.thepaper.cn/publish/interaction/image/1/346/173.jpg"/><div class="hdimg_bg30"><img src="//file.thepaper.cn/www/v3/img/headerimg_ctbg30.png"/><span></span></div>
+</div>
+<a class="u_sname">陆谷孙</a>
+<span>2015-05-19</span>
+<span class="trbs_zan" id="10000130" times="147">147</span>
+<span>已关闭提问</span>
+</span></div>
+</div>
+</div>
+<!-- 审稿人字段 -->
+<!-- 空格分隔后的作者列表-->
+<div class="news_editor">责任编辑：李胜南<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 陆谷孙,澎湃问吧</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="1333267">
+<div class="nbgbox">
+<a class="zan" contid="1333267" href="javascript:;" onclick="voteCont(this)" praisetimes="26">
+                           25</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 问吧</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=1333267&caid=25427",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=1333267&amp;caid=25427" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（50）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

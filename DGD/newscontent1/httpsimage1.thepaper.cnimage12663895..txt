@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜不远离毒品，“再美”的人设也会瞬间崩塌</h1>
+<div class="news_about">
+<p>澎湃特约评论员 张丰</p>
+<p>
+							2018-11-28 15:27<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据北京警方通报，11月26日，“石景山公安局根据群众举报，在本市某小区抓获2名涉毒违法人员陈某（男，43岁，歌手）和何某某（女，25岁，无业），现场起获冰毒7.96克，大麻2.14克。经尿检，陈某呈冰毒类和大麻类阳性，何某某呈大麻类阳性。”两人目前都已被行政拘留。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="894" src="http://image.thepaper.cn/www/image/12/663/925.jpeg" width="600"/></div><span style="color: rgb(153, 153, 153);">陈羽凡  视觉中国 图</span><br/><div class="contheight"></div>平安北京转发这则信息时表示，“毒品，让‘最美’凋零。”基本暗示出这位陈姓歌手的真实身份。据北青报记者核实，陈某就是著名歌手陈羽凡（原名陈涛）。此前，陈羽凡的公司还发文辟谣，警方及时的信息通报，让辟谣声明很快被打脸。<br/><div class="contheight"></div>根据网上信息，羽泉组合今年有多场“20周年巡回演唱会”，从12月8号开始，还有广州、北京和上海等地要举办。陈羽凡被拘留，也让这个系列巡演能否继续打上了问号。<br/><div class="contheight"></div>从警方通报来看，这次举报明星吸毒的不是“朝阳群众”，而是“石景山群众”。最近几年，北京警方在打击吸毒贩毒行为方面屡有斩获，很大程度上就是依赖于这种群众监督体系。多起明星吸毒被曝光，也显示出警方在处理此类事件的决心。法律和执法，都不会因为对象是名人而区别对待。<br/><div class="contheight"></div>明星吸毒受到社会的广泛关注，主要是因为其名人效应。人们期待明星在拥有巨大影响力和收益的同时，能对歌迷尤其是青少年歌迷，有正面道德示范效应。歌迷很难把作品和人分开来看，这也是明星都小心翼翼维护自己公众形象的原因。每一个明星的“倒下”，也都意味着其人格的破产。过去20年，羽泉组合在公众面前一直是正面、健康的形象，此番陈羽凡的“凋零”，肯定会让歌迷感到失望。<br/><div class="contheight"></div>多次明星吸毒事件被曝光，昭示出娱乐圈的生活方式，存在着较为严重的问题。很多人一直有一个误区，大麻、冰毒之类的毒品，能给人提供某种创作的灵感，所以艺人吸毒，多少值得原谅。这种想法是错误的，也是有害的。<br/><div class="contheight"></div>事实上，真正长期的、可持续的创作，恰恰需要一个健康的生活方式，明星吸毒不但不能带来创作的繁荣，对个人的身体和歌迷的内心健康，乃至社会的价值观，都会带来不良影响。<br/><div class="contheight"></div>上世纪90年代以来，中国娱乐产业发展迅速，艺人群体不断扩大。他们头顶着闪亮的光环，但是作为公众人物，他们的行为一直缺乏有效的监督。警方连续的行动，不外乎重申这个事实：在中国，和在大多数国家一样，吸毒是一种违法行为，这种行为一旦被发现，就会受到法律的惩罚。<br/><div class="contheight"></div>最近几年，北京警方的持续行动，宣告着部分明星为所欲为的“好日子”已经结束。这对整个娱乐圈是一种警示，明星们必须适应这种新的监督方式，对照自己的行为。如果他们不能意识到这一点，那“凋零”的就不止是陈羽凡。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2680143" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">北京警方：43岁歌手陈某因吸毒、非法持有毒品被行政拘留</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 陈羽凡吸毒被抓</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2680737">
+<div class="nbgbox">
+<a class="zan" contid="2680737" href="javascript:;" onclick="voteCont(this)" praisetimes="413">
+                           412</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 明星吸毒</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2680737&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2680737&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（94）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

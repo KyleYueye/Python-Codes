@@ -1,0 +1,79 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25574">翻书党</a>
+</div>
+<h1 class="news_title">童书FM | “天上一日，地上一年”</h1>
+<div class="news_about">
+<p>贺超叔叔</p>
+<p>
+							2018-12-23 15:48<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="audio_panel">
+<audio controls="" id="topAudio" preload="auto" src="http://audio.thepaper.cn/output/67ae5f6d3b864ed2ac155bc86167bf81/mp3128/d3dd5bd5-64e5-43a1-86f1-3375675dbc6c-84286635-6698-eac6-21fa-33d0cfb73464.mp3">Your browser does not support the audio element.</audio>
+<div class="audio_name">贺超叔叔讲《西游记》：“天上一日，地上一年”</div>
+</div>
+<script>$(function(){ audioInit("topAudio")});</script>
+<div class="news_txt" data-size="standard"><strong>【编者按】</strong><br/><div class="contheight"></div>《西游记》中多次提及 “天上一日，地上一年”，这是中国古代人民对外太空的想象，西方文化中也有类似的现象——比如在《小王子》中，孤独的小王子在自己的小星球上一天看了44次日落。<br/><div class="contheight"></div>上述解读《西游记》的角度来自《贺超叔叔说西游》中“西游小课堂”的栏目，作者贺超在其中阐释了同《西游记》相关的成语知识、历史典故、科学知识等。<br/><div class="contheight"></div>另外，《贺超叔叔说西游》还将《西游记》的故事放在中国神话的大背景下讲解。盘古开天、女娲补天、夸父逐日、后羿射日、大禹治水、嫦娥奔月、哪吒闹天宫等，贺超将这些传统神话故事与《西游记》串联起来。比如，没有盘古开天，就没有《西游记》的世界四大部洲等。<br/><div class="contheight"></div>本篇音频由中央人民广播电台主持人贺超播讲，澎湃新闻经授权发布。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="394" src="http://image.thepaper.cn/www/image/13/431/190.jpg" width="591"/></div><span style="color: rgb(128, 128, 128);">贺超<br/><div class="contheight"></div><strong><span style="color: rgb(0, 0, 0);">《贺超叔叔说西游》 </span></strong><span style="color: rgb(0, 0, 0);"><br/><div class="contheight"></div>贺超 编著 播音，长江少年儿童出版社，2018年11月</span><br type="_moz"/></span><div style="text-align:center;"><img alt="" height="762" src="http://image.thepaper.cn/www/image/13/431/196.jpg" width="600"/></div></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：臧继贤<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 西游记,小王子,神话故事</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2765063">
+<div class="nbgbox">
+<a class="zan" contid="2765063" href="javascript:;" onclick="voteCont(this)" praisetimes="51">
+                           50</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 童书FM</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2765063&caid=25574",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2765063&amp;caid=25574" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

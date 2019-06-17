@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">英国匿名阁员称脱欧正陷入僵局，二次公投可能性上升</h1>
+<div class="news_about">
+<p>澎湃新闻记者 于潇清</p>
+<p>
+							2018-12-16 08:29<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">随着英国议会对脱欧议案审议投票的延迟以及保守党对英国首相特雷莎·梅不信任票的举行，英国脱欧正在面临着越来越多的不确定因素。<br/><div class="contheight"></div>据路透社12月15日报道，有不愿透露姓名的英国内阁部长级官员告诉路透社，英国退出欧盟的计划目前现在正陷入僵局，局面甚至可能面临逆转的可能。<br/><div class="contheight"></div>这位匿名的内阁部长级官员表示，“有管理下的”无协议脱欧可能性正在上升，英国方面对脱欧展开第二次公投的可能性也正在上升，“我们还没有准备好做任何交易，英国的公众也没有准备好做任何交易。我们甚至都没有准备好一个B计划。”<br/><div class="contheight"></div>14日，刚刚从不信任投票中涉险过关的特雷莎再次见到了欧盟委员会主席容克，可容克再次强硬的表示欧盟方面已经不会同英国就脱欧协议的内容本身做任何的再谈判。同日，欧洲理事会主席图斯克也在发言中强硬地确认了这一点。<br/><div class="contheight"></div>目前，离英国脱欧的既定时间——2019年3月29日不到150天，越来越多的民众开始出现焦虑的情绪，要求二次公投的民众比率也逐渐上升。据北京外国语大学最新发布的《英国发展报告2017-2018》中统计，自从2017年4月起英国民调机构开始就展开脱欧二次公民进行调查以来，支持二次公投的民众比率在今年7月首次超过反对者，为42%。而在之后，这一比率仍继续呈现上升趋势。<br/><div class="contheight"></div>据路透社15日报道，目前包括内阁部长们私下对特雷莎的脱欧协议都存在不同看法，越来越多的人担心无协议脱欧或者是二次公投的可能性。但英国外交大臣杰里米·亨特此前14日表示自己坚信政府目前的脱欧协议可以在不做任何更改的前提下通过议会的审议。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陈良飞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 英国脱欧</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2743484">
+<div class="nbgbox">
+<a class="zan" contid="2743484" href="javascript:;" onclick="voteCont(this)" praisetimes="27">
+                           26</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 英国脱欧</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2743484&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2743484&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25490">打虎记</a>
+</div>
+<h1 class="news_title">安徽省投资集团总经理张春雷涉嫌严重违纪违法被查，已自首</h1>
+<div class="news_about">
+<p>中央纪委国家监委网站</p>
+<p>
+							2018-12-27 16:51<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中央纪委国家监委网站12月27日消息，据安徽省纪委监委消息：安徽省投资集团控股有限公司党委副书记、总经理张春雷涉嫌严重违纪违法，已投案自首，目前正在接受安徽省纪委监委纪律审查和监察调查。<br/><div class="contheight"></div><strong>张春雷简历</strong><br/><div class="contheight"></div>张春雷，男，汉族，1965年1月出生，安徽寿县人，中国科学技术大学管理学院研究生学历，1981年7月参加工作，1995年12月加入中国共产党。<br/><div class="contheight"></div>1981年7月，省皖西机械厂二车间工人；<br/><div class="contheight"></div>1983年9月，省电大国防工办分校工业会计专业学生；<br/><div class="contheight"></div>1986年7月，任省皖西机械厂财务科会计；<br/><div class="contheight"></div>1992年5月，任省皖西机械厂供运销售处副处长；<br/><div class="contheight"></div>1993年3月，任省皖西机械厂供运销售公司总经理；<br/><div class="contheight"></div>1996年1月，任省皖西机械厂厂长助理；<br/><div class="contheight"></div>1996年4月，任省皖西机械厂总经济师；<br/><div class="contheight"></div>1998年2月，任省皖西机械厂副厂长兼总经济师；<br/><div class="contheight"></div>1998年10月，任省皖西机械厂厂长、党委副书记；<br/><div class="contheight"></div>2000年11月，任安徽军工集团控股有限公司董事、副总经理；<br/><div class="contheight"></div>2002年3月，任安徽军工集团控股有限公司董事、副总经理、党委委员；<br/><div class="contheight"></div>2003年4月，任省属国有企业监事会主席；<br/><div class="contheight"></div>2008年8月，任省投资集团有限责任公司纪委书记、党委委员<br/><div class="contheight"></div>2011年7月，任省投资集团控股有限公司总经理、党委副书记、董事（其间：2012.09--2014.11参加中国科学技术大学管理学院项目管理专业工程硕士学习）<br/><div class="contheight"></div>（原题为《安徽省投资集团控股有限公司党委副书记、总经理张春雷涉嫌严重违纪违法接受纪律审查和监察调查》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 安徽,投资集团,张春雷,自首</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780201">
+<div class="nbgbox">
+<a class="zan" contid="2780201" href="javascript:;" onclick="voteCont(this)" praisetimes="37">
+                           36</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 安徽打虎</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780201&caid=25490",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780201&amp;caid=25490" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

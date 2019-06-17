@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25437">牛市点线面</a>
+</div>
+<h1 class="news_title">证监会向禹国刚致贺信：您当选改革先锋是整个资本市场的荣誉</h1>
+<div class="news_about">
+<p>澎湃新闻</p>
+<p>
+							2018-12-22 17:40<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月22日，中国证监会公布了《致禹国刚同志的贺信》。<br/><div class="contheight"></div>贺信称，2018年12月18日，党中央、国务院授予您改革先锋称号、颁授改革先锋奖章，这充分体现了以习近平同志为核心的党中央对资本市场改革发展的高度重视、殷切希望，和对您的亲切关怀。证监会全体干部职工向您表示热烈的祝贺，并致以崇高的敬意！<br/><div class="contheight"></div>在12月18日举行的庆祝改革开放40周年大会上，中共中央、国务院授予100名为改革开放作出杰出贡献的同志改革先锋称号，颁授改革先锋奖章。其中，深交所主要筹建者禹国刚荣获了改革先锋称号。禹国刚获得的推荐语是“资本市场发展的实践者”。他也是资本市场惟一一名入选改革开放百杰的代表人物。<br/><div class="contheight"></div>证监会的贺信称，“资本市场发展的实践者”这一光荣称号是党中央、国务院对禹国刚的最高褒奖禹国刚您作为中国资本市场的探索者，勇立时代潮头、锐意改革创新、敢于实践探索，为创建深圳证券交易所、推动证券交易技术革新、促进资本市场规范发展做出了杰出贡献。“您当选改革先锋，这不仅是您个人的荣誉，更是整个资本市场的荣誉，证监会全体干部职工深感振奋，备受鼓舞。”<br/><div class="contheight"></div>禹国刚参与并见证了我国资本市场从无到有、从小到大、从区域到全国发展的历程。<br/><div class="contheight"></div>根据官方公布的简历，禹国刚1944年2月出生，陕西安康人，深圳证券交易所原副总经理（法定代表人）。1988年负责筹建深圳证券交易所，学习借鉴境外证券市场法律法规和业务规则，牵头拟订《深圳证券交易所章程》等重要文件，奠定了深圳证券交易所制度基础，促进了我国证券市场的规范化发展。推动深圳证券交易所第一个同步实现“四化”——交易电脑化、交收无纸化、通信卫星化、运作无大堂化，一跃成为亚太地区乃至世界知名的证券交易所，其证券交易系统技术水平至今仍处于全球领先地位。<br/><div class="contheight"></div>证监会在贺信中称，伟大时代呼唤伟大精神，崇高事业需要先锋引领。证监会号召全系统干部职工大力弘扬以禹国刚为代表的老一辈资本市场建设者们开拓创新、敢为人先的改革精神和爱岗敬业、无私奉献的时代精神，不忘初心、牢记使命、改革开放、继续前进，努力建设富有国际竞争力的中国特色资本市场，为实现中华民族伟大复兴的中国梦作出无愧于时代和人民的贡献。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙扶<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 快讯</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2764222">
+<div class="nbgbox">
+<a class="zan" contid="2764222" href="javascript:;" onclick="voteCont(this)" praisetimes="107">
+                           106</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 快讯</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2764222&caid=25437",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2764222&amp;caid=25437" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

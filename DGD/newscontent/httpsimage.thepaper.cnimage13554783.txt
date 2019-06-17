@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">罗永浩在锤子科技部分股份被湖南浏阳法院冻结三年</h1>
+<div class="news_about">
+<p>澎湃新闻记者 周玲</p>
+<p>
+							2018-12-27 17:00<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月27日，据天眼查信息显示，锤子科技(北京)股份有限公司有一则股权冻结信息，被执行人为罗永浩，冻结期限自 2018年12月17日至 2020年12月16日，执行法院为湖南省浏阳市人民法院，具体冻结股权数额未显示。该公司目前最大股东仍为罗永浩。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/554/665.png" width="100%"/></div>天眼查信息显示：罗永浩持有锤子科技(北京)股份有限公司的股份为27.81%，为第一大股东。罗永浩还担任这家公司的法定代表人和董事长。<br/><div class="contheight"></div>眼下，锤子手机正在面临更多的资金问题。<br/><div class="contheight"></div>12月26日，北京市大兴区人民法院民事裁定书（2018）京0115财保305号显示，由于奥音科技（北京）有限公司申请，法院裁定冻结北京锤子数码科技有限公司在招商银行北京X**支行账户内的存款人民币450万元整。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/554/662.png" width="100%"/></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/554/663.png" width="100%"/></div></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙扶<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 锤子科技</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780367">
+<div class="nbgbox">
+<a class="zan" contid="2780367" href="javascript:;" onclick="voteCont(this)" praisetimes="27">
+                           26</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 锤子手机</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780367&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780367&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

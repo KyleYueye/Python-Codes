@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=28309">济南公安</a>
+</div>
+<h1 class="news_title">图集｜警车的变迁：从步行到警用特种车辆</h1>
+<div class="news_about">
+<p>济南公安</p>
+<p>
+                            2018-12-26 18:56<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard">改革开放40周年，从步行到自行车，到“偏三”，到警用吉普，再到制式警车，以至各种警用特种车辆。警车四十年的变迁史折射出的不仅是公安正规化、现代化建设步伐的加快，更是见证了改革开放以来中国日新月异的发展。<br/><div class="contheight"></div>现如今各种警用车辆各显神通，和我们民警共同守护着千家万户的安宁。<div style="text-align:center;"><span style="color: rgb(128, 128, 128);"><img alt="" height="549" src="http://image.thepaper.cn/www/image/13/523/253.jpg" width="922"/></span></div><span style="color: rgb(128, 128, 128);">大金鹿自行车</span><div style="text-align:center;"><span style="color: rgb(128, 128, 128);"><img alt="" height="549" src="http://image.thepaper.cn/www/image/13/523/254.jpg" width="984"/></span></div><span style="color: rgb(128, 128, 128);">警用三轮车，俗称“偏三”</span><div style="text-align:center;"><span style="color: rgb(128, 128, 128);"><img alt="" height="561" src="http://image.thepaper.cn/www/image/13/523/255.jpg" width="938"/></span></div><span style="color: rgb(128, 128, 128);">警用吉普车</span><div style="text-align:center;"><span style="color: rgb(128, 128, 128);"><img alt="" height="555" src="http://image.thepaper.cn/www/image/13/523/256.jpg" width="966"/></span></div><span style="color: rgb(128, 128, 128);">普通制式警车</span><div style="text-align:center;"><span style="color: rgb(128, 128, 128);"><img alt="" height="558" src="http://image.thepaper.cn/www/image/13/523/257.jpg" width="1001"/></span></div><span style="color: rgb(128, 128, 128);">防暴装甲车</span><br/><div class="contheight"></div>责编：宋健崔卉<br/><div class="contheight"></div>审核：李平伟董斌<br/><div class="contheight"></div>（原标题《改革开放40周年：看警车的变迁》）</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2776879">
+<div class="nbgbox ">
+<a class="zan" contid="2776879" href="javascript:;" onclick="voteCont(this)" praisetimes="37">
+                                    36</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

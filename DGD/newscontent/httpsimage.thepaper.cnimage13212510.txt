@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">朝韩联合申奥新进展：明年2月与国际奥委会详谈</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2018-12-15 06:21<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网12月15日电 当地时间12月14日，朝鲜体育省副相元吉友与韩国文体部副部长卢泰刚在开城联络办公室举行第二次体育合作小组会谈，双方就共同申奥等相关事宜达成一致，并商定于明年2月与国际奥委会进行磋商。<br/><div class="contheight"></div>据韩联社报道，14日，韩国统一部发布消息称，韩国和朝鲜将共同向国际奥委会提交申办2032年夏季奥运会的意向书，并于2019年2月15日共赴瑞士洛桑，由韩国、朝鲜和国际奥委会三方共同讨论联合申奥和组联队参赛等事宜。韩国文化体育观光部长官都钟焕、朝鲜体育相金一国、韩朝奥委会人员届时将同国际奥委会主席巴赫会面。<br/><div class="contheight"></div>今年9月，朝韩两国领导人举行会晤并签署《平壤共同宣言》。在随后召开的联合记者会上，韩国总统文在寅表示，朝韩商定申请合办2032年夏季奥运会。据了解，迄今为止，从没两个国家联合举办奥运会的先例。<br/><div class="contheight"></div>朝韩两国体育代表团自2000年悉尼奥运会起，在开幕式运动员入场环节共举朝鲜半岛旗、组成联合方阵携手入场，成为奥运史上的一段佳话。今年2月，朝韩联合冰球队还参加了平昌冬季奥运会女子冰球比赛。 <br/><div class="contheight"></div>（原题为《朝韩联合申奥新进展：明年2月与国际奥委会详谈》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 韩朝联合申奥,韩朝关系,合作</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2741780">
+<div class="nbgbox">
+<a class="zan" contid="2741780" href="javascript:;" onclick="voteCont(this)" praisetimes="58">
+                           57</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 韩朝关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2741780&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2741780&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

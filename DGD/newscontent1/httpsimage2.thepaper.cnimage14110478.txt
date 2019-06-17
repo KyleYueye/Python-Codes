@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25423">人事风向</a>
+</div>
+<h1 class="news_title">《黄河边的中国》作者退休</h1>
+<div class="news_about">
+<p>澎湃新闻记者 钟煜豪</p>
+<p>
+							2019-01-10 11:31<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">华东理工大学校方消息透露，该校教授、博士生导师曹锦清退休，他作为《黄河边的中国》一书的作者为人熟知。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="387" src="http://image.thepaper.cn/www/image/14/110/476.jpg" width="580"/></div><span style="color: rgb(128, 128, 128);">曹锦清 资料图<br/><div class="contheight"></div></span>1月9日，华东理工大学社会与公共管理学院微信公号“社想”发布消息称，9日晚6时，学校研究生楼204济济一堂。今年已经70岁的曹锦清教授和往常一样，携带着一摞书本和一个保温杯早早来到了教室。这堂课的主题是“郡县制与国家治理”，这也是曹老师退休前的最后一堂课。<br/><div class="contheight"></div>曹锦清教授，中国著名社会学家、三农问题专家，1982年毕业于复旦大学哲学系，1986年在华东师范大学获硕士学位。曹锦清出版有个人专著“中国研究三部曲”：《如何研究中国》《黄河边的中国》《中国七问》，其中《黄河边的中国》一书长销十余年，再版十多次，已成为当代中国最具影响力的社会调查报告类书籍之一。<br/><div class="contheight"></div>上述报道介绍，近几年，曹锦清被华东理工大学返聘，承担着社会与公共管理学院硕士生“西方社会思想史”和博士生“社会学经典著作研究”两门课程的教学任务。密密麻麻的备课笔记，始终坚持板书教学，从不迟到早退，一站就是3、4个小时，曹老师严谨求实的教学态度感染着广大师生。他还经常教诲学生“多读书、多调研、多思考”，成为大家做学问的基本遵循。<br/><div class="contheight"></div>另外，《人民日报 海外版》2016年一篇报道回顾道，上世纪80年代，大量西方人文译著进入中国，知识界在读书求知中开始了对国家和个人命运的反思，有人在“黄色文明”与“蓝色文明”的比较中失去信心，有人在市场经济的大潮之下慨叹人文精神的失落，有人在对封建社会政治结构的分析中感到迷惘，中国的真面孔在哪里？中国人的真精神在哪里？带着这样的问题，曹锦清先生走出书斋，返回实证，直接阅读中国社会生活这本大书，着眼于中国“是什么”，而非在西方价值体系里中国“应该是什么”。那些年，他与农民同吃同住，从解剖麻雀入手，获得了理解中国社会的第一手资料，他把自己的所看、所听、所谈、所思、所虑结集成《黄河边的中国》一书，让我们感受到一个学者渊博的知识、深刻的思想，还有一份真挚的家国情怀。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王俊<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 黄河边的中国，社会学</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835693">
+<div class="nbgbox">
+<a class="zan" contid="2835693" href="javascript:;" onclick="voteCont(this)" praisetimes="111">
+                           110</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 大学教授</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835693&caid=25423",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835693&amp;caid=25423" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

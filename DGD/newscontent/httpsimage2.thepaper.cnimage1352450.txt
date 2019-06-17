@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">中化集团原总经理蔡希有一审获刑12年 </h1>
+<div class="news_about">
+<p>奚丹霓/央视新闻客户端</p>
+<p>
+							2018-12-26 17:07<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">央视新闻客户端12月26日消息，2018年12月26日上午，山东省泰安市中级人民法院公开宣判中国中化集团公司原党组成员、总经理蔡希有受贿案，对被告人蔡希有以受贿罪判处有期徒刑十二年，并处罚金人民币三百万元。对蔡希有受贿所得财物及其孳息予以追缴，上缴国库。蔡希有当庭表示服从判决，不上诉。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="394" src="http://image.thepaper.cn/www/image/13/524/360.jpg" width="600"/></div>鉴于蔡希有案的犯罪事实、证据涉及国家秘密，泰安市中级人民法院于2018年9月18日依法对该案进行了不公开开庭审理。经审理查明：1997年至2016年春节前，被告人蔡希有利用担任大连西太平洋石油化工有限公司副总经理、中国石化销售公司副经理、中国国际石油化工联合有限责任公司总经理、中国石油化工股份有限公司副总裁及中国石油化工集团公司党组成员等职务上的便利以及职权、地位形成的便利条件，为相关单位和个人在合同性质变更、成品油购销等事项上提供帮助，直接或通过其特定关系人索取或非法收受相关人员给予的财物，共计折合人民币5367.4557万元。泰安市中级人民法院认为，被告人蔡希有的行为构成受贿罪。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/524/362.jpg" width="600"/></div>鉴于蔡希有主动交代办案机关尚未掌握的全部受贿犯罪事实，系自首；提供侦破其他重大案件的线索，经查证属实，有重大立功表现；认罪悔罪，积极退赃，受贿所得赃款已全部追缴，依法对其从轻处罚。法庭遂作出上述判决。<br/><div class="contheight"></div>（原题为《中化集团原总经理蔡希有一审获刑12年》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中化集团,受贿</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776908">
+<div class="nbgbox">
+<a class="zan" contid="2776908" href="javascript:;" onclick="voteCont(this)" praisetimes="304">
+                           303</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中化集团</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776908&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776908&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（59）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

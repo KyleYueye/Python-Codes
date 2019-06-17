@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">法制日报：面对医疗用品洗涤乱象，监管须迅速出手</h1>
+<div class="news_about">
+<p>黄羊滩/法制日报</p>
+<p>
+							2018-12-23 06:31<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">法制日报12月23日报道，近日，记者卧底江西南昌市两家医疗布草洗涤企业发现，有洗涤厂为提高效率，使用工业洗涤剂清洗医疗布草，也无严格的高温消毒环节。此外，一些儿科医用布草被夹杂在成人医疗布草中混洗，带血的医用布草与其他患者衣物和床单进行混洗。有洗涤厂员工坦言，他们所谓的分类洗涤，只是把医院分开，不分科室，不分洗衣设备。<br/><div class="contheight"></div>如果不是记者卧底取证、实地采访，人们很难知道医院里那些床单、手术服，甚至是孩子用的布草等物，都是在作坊般的污浊环境中洗出来的。各种布草不仅混在一起，往往还乱折扔一地，被工人踩来踩去。而原本应该专门洗涤的婴儿用医疗布草，居然也和成人的混在一起大水漫灌。这样的洗法，能洗出什么样的洁净和卫生呢？<br/><div class="contheight"></div>更有甚者，一些带血的纱布及用过的输液管等医疗废物，有时也被混进洗衣机，跟布草一起混洗。<br/><div class="contheight"></div>记者呈现出来的洗涤真相，打碎了所有人关于医用布草的信赖和善意。原来，那些个飘散着消毒剂味道，一些医院让人肃然起敬的“软环境”，就是这样编织起来的。洁白的床单和墨绿的手术服背后，是污浊的操作和粗暴的利益计算。<br/><div class="contheight"></div>按照国家卫健委制定的《医疗消毒供应中心基本标准和管理规范(试行)》，可穿戴、可折叠的医用布草是作为医疗器械来管理的，在洗涤时必须满足清洗、消毒、干燥、检查、折叠、包装、灭菌、储存等条件，才能投放到医院进行使用。这中间，分类洗涤只是最起码的要求，而消毒、灭菌等则是对这些可重复使用医用布草的基本要求。<br/><div class="contheight"></div>企业为了图省事，稀里糊涂地将这些东西混在一起过水，非但没能满足消毒、灭菌等要求，甚至连合格清洗都没做到。就像工人所说的那样，“洗其实就是过了一遍热水”，这样的操作如何让人放心？对此，洗涤企业责无旁贷。必须明白，卫生和消毒乃是对医疗洗涤行业最起码的要求。<br/><div class="contheight"></div>作为使用主体，医院也应该有细化、具体的要求。任何一家医院，医用布草的洗涤都是一个不小的单子，提出一些规范化要求并非难事。<br/><div class="contheight"></div>此外，监管部门也不能失职。根据相关文件规定，各级卫生健康行政部门应当将医疗消毒供应中心纳入当地医疗质量安全管理与控制体系。从记者暗访看，洗涤似乎只是医院与洗涤企业的事情，这也导致了这一行业的无序。<br/><div class="contheight"></div>医用布草是不是卫生、有没有消毒、让不让人放心，不是小事，而是每天都在与病人发生关联的大事。一旦发生交叉感染，或者遗留下一些不洁的痕迹，都会对人产生负面影响。<br/><div class="contheight"></div>此前，宾馆的清洁问题已经足够让人闹心，此番又曝出医用布草不洁问题，这让公众情何以堪？让人担忧的是，类似问题并非孤例，而有着某种行业普遍性。希望各方面迅速行动，延伸监管触角，把这些床单、手术服管起来。<br/><div class="contheight"></div>（原题为《面对医疗用品洗涤乱象，监管须迅速出手》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2764287" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">南昌通报“三甲医院床单手术服混洗”：两洗涤厂一整改一停业</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 医疗用品,洗涤,乱象</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2765665">
+<div class="nbgbox">
+<a class="zan" contid="2765665" href="javascript:;" onclick="voteCont(this)" praisetimes="124">
+                           123</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 医疗布草</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2765665&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2765665&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

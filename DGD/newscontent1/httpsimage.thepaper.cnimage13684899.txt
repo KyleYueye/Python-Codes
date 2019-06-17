@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">英国将花1亿英镑增加渡轮运量应对无协议脱欧带来的交通堵塞</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-29 20:52<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">如果英国在明年3月底离开欧盟之前未能成功达成相应协议，英国政府可能将不得不花费超过1亿英镑租用额外的海上渡轮来缓解英国与欧洲大陆之间交通的拥堵。<br/><div class="contheight"></div>随着英国脱欧时间的临近，“无协议”脱欧的风险正在上升，而这将成为许多英国人和企业的噩梦，他们将不得不做好遭受经济冲击的准备。路透社29日的报道指出，如果遭遇无协议脱欧，英国通往欧洲大陆的主要关口检查很有可能遭遇堵塞，将需要更多额外的船只来连接英国和欧洲大陆的交通。<br/><div class="contheight"></div>目前，仍在相关协议之内的英国车辆前往欧洲大陆可以非常顺利地通过边境检查。但如果英国脱欧后没有达成相关协议，届时每辆卡车的通关时间就有可能延迟几分钟，这可能意味着大量车辆会在海关堵塞积压，并在海峡隧道内大排长龙。<br/><div class="contheight"></div>英国交通部表示，它正在准备应对“不可预见的事件”带来的“极度紧急局势”。为了缓解可能出现的交通堵塞和人员积压状况，英国政府已经准备好签署三份合同，为英国南海岸的港口提供额外的运输能力。这些合同包括与法国公司Brittany Ferries签订的价值4700万英镑的运输合同，与丹麦航运公司DFDS4700万英镑的合同以及与Seaborne Freight签订的1400万英镑的合同。<br/><div class="contheight"></div>对此，英国反对党自由民主党领袖文斯·凯布尔称这一举动是“疯狂之举”，批评政府滥用公共资金，没有经过合法的投标程序，并让民众可能面对一个无协议脱欧的糟糕局面。<br/><div class="contheight"></div>据统计，目前每天大约有16,000辆卡车往来于英国多佛和法国加来之间，运输着从易腐食品到药品以及保持工厂运转所需的工业品等诸多货物。<br/><div class="contheight"></div>英国交通部在一份声明中说，“虽然政府仍致力于确保达成协议，但该部门正在帮助政府为一系列方案做好充分准备。”本月早些时候，英国政府宣布所有政府部门必须加强对无协议脱欧的准备，包括让3,500名武装部队人员待命以应对任何紧急事件。<br/><div class="contheight"></div>英国首相特雷莎·梅主张的脱欧协议，原定于本月11日在英国议会投票表决，因预计将遭到国会议员大多数反对，投票表决时间推迟到下月14日。备受争议的脱欧协议，最终能否获得议会通过，前景依然堪忧。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 英国,脱欧,摆渡</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2793366">
+<div class="nbgbox">
+<a class="zan" contid="2793366" href="javascript:;" onclick="voteCont(this)" praisetimes="13">
+                           12</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 脱欧</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2793366&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2793366&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

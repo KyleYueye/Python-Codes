@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25436">能见度</a>
+</div>
+<h1 class="news_title">湖北宜昌最后38座煤矿关闭，退出200多年的煤炭开采行业</h1>
+<div class="news_about">
+<p>郭晓莹/中新网</p>
+<p>
+							2018-12-26 14:12<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据湖北煤矿安全监察局和宜昌市政府12月26日消息，宜昌市2018年煤矿关停退出工作通过省级验收，38家煤矿全部验收合格，在湖北省率先完成煤矿整体关闭退出目标。至此，宜昌市全面退出历经200多年的煤炭开采行业。<br/><div class="contheight"></div>根据湖北省钢铁煤炭行业化解过剩产能和脱困升级工作领导小组办公室安排，该省煤矿关停退出第三验收组日前对宜昌市2018年煤矿关停退出工作进行省级验收。验收组通过听汇报、查资料和看现场等方式，对宜昌市秭归、长阳、远安、五峰、当阳、兴山6个县市区的38家煤矿进行全面验收。<br/><div class="contheight"></div>湖北煤矿安全监察局数据显示，“十二五”期间，宜昌市有煤矿153处，数量居湖北省首位。2015—2017年，宜昌市先后关闭煤矿29处、72处、11处。随着2018年最后38处煤矿的关闭，标志着宜昌市整体退出煤炭开采。<br/><div class="contheight"></div>宜昌地处长江中上游结合部，是三峡工程和葛洲坝工程所在地，在长江生态环境修复与保护中具有特殊重要地位。<br/><div class="contheight"></div>湖北煤矿安全监察局副局长冯国祥表示，宜昌市实现了平安退出、稳定退出、率先整体退出，成效显著。<br/><div class="contheight"></div>(原标题：湖北宜昌最后38座煤矿关闭 全面退出煤炭开采行业)</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：虞涵棋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776270">
+<div class="nbgbox">
+<a class="zan" contid="2776270" href="javascript:;" onclick="voteCont(this)" praisetimes="9">
+                           8</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 煤矿</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776270&caid=25436",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776270&amp;caid=25436" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

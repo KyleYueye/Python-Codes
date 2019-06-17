@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜自如甲醛超标还想“封口”，这样的套路很没底线</h1>
+<div class="news_about">
+<p>澎湃特约评论员 西蒙</p>
+<p>
+							2018-08-29 15:19<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2388332" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">自如回应甲醛超标租客生病：正沟通补偿，希望通过法律调解</span></a></img></p></div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="906" src="http://image.thepaper.cn/www/image/9/995/24.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">机构的检测结果显示，卧室、厨房、客厅的甲醛、TVOC均超标。 央广“下文”客户端 图<br/><div class="contheight"></div></span>头晕、皮肤过敏、喉咙肿痛，甚至被查出“白细胞低得像化疗病人”，最后一监测，出租住的房子甲醛超标。看到这样的新闻，多少租客要吓出一身冷汗？<br/><div class="contheight"></div>据媒体报道，标榜品质租房的自如，近日被曝出将刚装修好的房子迅速出租，导致房屋甲醛超标。这样的案例，至少了三四起，经专业机构检测，有房子甲醛值达到标准的2.3倍。这是继“住房贷”事件后，自如又一次被推上了风口浪尖。<br/><div class="contheight"></div>租房乱象中，租客和中介之间的矛盾占了很大比例，房屋质量是重头。按理说，每一间出租房在“上架”前，都应该通过基本的质量检测，这不仅包括甲醛检测，也包括房屋质量、家居安全等检测。老百姓自己装修，还有交房验收呢，一般新装修的房子，也要晾两三个月。<br/><div class="contheight"></div>但眼下，租客需求量大、租房行情火爆，一些中介又急于抢占市场、回笼资金，便将刚装修完还不能住人的房子，急急推向市场，为租客的身体健康受损埋下了伏笔。<br/><div class="contheight"></div>从报道来看，遇到类似问题，自如管家一般会协助租户办理无责换房或无责退租，并退回押金及未发生的房租及服务费。但这样的“补救措施”并不能让租客的满意。一些租客认为，既然自己的权益受到侵害，就不应该只是免除部分租金来赔偿。再者，甲醛已经影响到租客的身心健康，医疗费也不是一笔小数目，还要换新房子，其中的损失当然不是退租就能补偿的。<br/><div class="contheight"></div>更值得注意的是，媒体、工商部门介入后，自如同意退还全额租金，但要求签订一份带有“封口性质”的和解协议，要租客“不得作出发表有损对方声誉的言论等任何有损契约精神的言行，并对该协议内容进行保密”。令人不得不怀疑，这就是自如，以及很多公司在遇到类似负面新闻时的标准套路。<br/><div class="contheight"></div>去年12月，有媒体就曾对自如房甲醛超标问题进行了报道，当时自如方面表示，“会积极面对存在的甲醛超标的问题、绝不推诿”“会按照更高的标准制定相关措施，改善居住环境。”现在看来，自如不仅没有整改，还变本加厉，在遇到租客投诉和曝光时意图“封口”。这样的套路，很没有底线。<br/><div class="contheight"></div>事实上，租房甲醛超标是一个一直都存在、但没得到很好解决的老问题。自如作为较大的租房平台，这样的案例肯定不会少。说到底，是因为在租房市场里还没有建立起一套完整的居住体验评价体系，不同的房源被或大或小的中介平台掌握在手里，监管和评测难度很大，而用户权益一旦受损，也往往缺乏畅通的维权渠道。<br/><div class="contheight"></div>自如的案例提醒我们：不论公司化运作还是个人行为，房屋租赁的任何流程都要经得起质量检测、社会检验，在这个问题上，平台作为责任主体，责无旁贷；而如果平台耍花招，监管部门也要及时介入，为租客讨一个公道。</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 自如,甲醛超标</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2390796">
+<div class="nbgbox">
+<a class="zan" contid="2390796" href="javascript:;" onclick="voteCont(this)" praisetimes="198">
+                           197</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 自如</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2390796&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2390796&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

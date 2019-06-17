@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">南开大学师生缅怀杰出校友周恩来：43年，您从未离开</h1>
+<div class="news_about">
+<p>北方网</p>
+<p>
+							2019-01-08 21:56<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月8日，南开大学举行“学习周恩来精神 践行南开人责任——纪念总理逝世43周年活动”。师生分别聚集在八里台、津南校区周恩来总理像前，默哀寄托哀思，并向总理像敬献鲜花。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="799" src="http://image.thepaper.cn/www/image/14/46/592.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">南开大学微信公号 图</span><br/><div class="contheight"></div>“我们深切缅怀总理，铭记总理为了国家民族的振兴呕心沥血奉献自己的一生；感念无数革命志士不惧动荡与战火，为了中华民族的崛起抛头颅撒热血，我们向全校学生发出‘学习周恩来精神 践行南开人使命’的倡议。”在八里台校区，第12届周恩来奖学金获得者、化学院2015级本科生周兆筱为代表发出倡议：要学习总理，立“为中华之崛起而读书”之志向，坚持道路自信、制度自信、文化自信，将“公能”品格薪火相传，把人生理想融入国家富强和民族复兴的事业中。要学习总理，修“面壁十年图破壁”之品格，坚持五个“不虚度”的行为准则，读书不虚度、学业不虚度、习师不虚度、交友不虚度、光阴不虚度，严于律己，率先垂范，以高洁品格感召众人，用实际行动服务众人，用南开人的优异成绩贡献祖国改革开放新时代发展。<br/><div class="contheight"></div>其实，对于南开人而言，周总理从未远离。每逢周恩来逝世、诞辰纪念日和清明时节，南开师生校友都会自发来到校园内的周恩来总理塑像和纪念碑前凭吊致祭。南开大学还通过成立周恩来研究室（周恩来研究中心）、周恩来政府管理学院等，设立“周恩来班”和“周恩来奖学金”，举办周恩来研究国际学术研讨会等方式，缅怀纪念周恩来总理。自2016年起，每年的9月25日，南开大学都会开展纪念周恩来入学南开大学纪念活动，以总理之精神鼓舞学生“为中华崛起而读书”。 <br/><div class="contheight"></div>（原题为《43年 您从未离开！南开大学师生深切缅怀杰出校友周恩来》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 南开大学,周恩来</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2829010">
+<div class="nbgbox">
+<a class="zan" contid="2829010" href="javascript:;" onclick="voteCont(this)" praisetimes="325">
+                           324</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 周恩来</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2829010&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2829010&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

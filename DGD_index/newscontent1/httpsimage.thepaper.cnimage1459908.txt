@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">法制日报刊文：让法治为科技创新护航</h1>
+<div class="news_about">
+<p>秦平/法制日报</p>
+<p>
+							2019-01-09 06:20<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="906" src="http://image.thepaper.cn/www/image/14/59/920.png" width="600"/></div><div>法制日报1月9日消息，1月8日上午，中共中央、国务院在北京隆重举行国家科学技术奖励大会。习近平、李克强、王沪宁、韩正等党和国家领导人出席会议活动。</div>李克强代表党中央、国务院在大会上讲话时指出，优化科技发展战略布局，调整优化重大科技项目，要“弘扬科学家精神，严守科研伦理规范，加强科研诚信和学风建设”。<br/><div class="contheight"></div>在举世瞩目的国家科学技术奖励大会上，中央将“严守科研伦理规范”作为重要的科学研究与应用原则提出来，显然有着重大而深远的理论意义和现实意义。<br/><div class="contheight"></div>在刚刚过去的2018年，“世界首例基因编辑婴儿在中国诞生”的消息震惊了全世界，媒体对此进行了连篇累牍的跟进报道。虽然迄今为止，这一事件尚未有官方正式的调查结论和处理结果，但基因编辑婴儿的诞生挑战了人类共同的科研伦理道德却是一个不争的事实。<br/><div class="contheight"></div>原快播CEO王欣曾用“技术无罪”为自己传播淫秽色情的行为辩护，这种混淆概念、强词夺理的说法确实也迷惑了一些人。的确，技术本身无善无恶，但应用者的行为要接受道德与法律的检验。<br/><div class="contheight"></div>技术的进步与应用往往会决定人类的前途与命运。善用技术者将造福人类，并成为推动人类发展进步的根本动力，而恶用技术者也会为人类带来灭顶之灾。技术无罪，但是为了人类的安全与未来，技术必须受到法律的约束，违反伦理道德的技术应用必须被禁止。<br/><div class="contheight"></div>本次大会的主旨是鼓励科技创新、推动科技进步，但同时也着重强调了科研伦理。这就证明了规范对科技发展的重要作用。如果说科技的发展与进步是一匹不知道自己要奔向哪里的野马，那人类的法律就是降伏这匹野马的缰绳，以法律的强制力，让科技只能沿着人类福祉的方向奔跑。<br/><div class="contheight"></div>我国现行的法律体系中有科技进步法、科技普及法，还有相关的部门法律法规，但是当基因编辑人事件出现以后，我们才发现我们在科技相关领域里的立法漏洞颇多，关于规范科技伦理方面的法律规定几乎没有，仅有个别原则性的表述散见于法律条文之中，这让法律在面对具体个案的时候显得有些尴尬。<br/><div class="contheight"></div>建设创新型国家和世界科技强国，是大会为我国科技进步提出的目标。如果法律制度跟不上发展的要求，必然会成为制约科技发展的短板。为此，立法机关应该以大会为契机，进一步加强科研伦理及科技应用的立法研究工作，让法治为科技创新护航。<br/><div class="contheight"></div>（原题为《让法治为科技创新护航》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 法治,科技创新,科研伦理</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2830177">
+<div class="nbgbox">
+<a class="zan" contid="2830177" href="javascript:;" onclick="voteCont(this)" praisetimes="33">
+                           32</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 科研伦理</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2830177&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2830177&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

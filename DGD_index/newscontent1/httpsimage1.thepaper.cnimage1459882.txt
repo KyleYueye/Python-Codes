@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">无人机干扰迫使伦敦最繁忙机场停航 </h1>
+<div class="news_about">
+<p>刁世峰/海外网</p>
+<p>
+							2019-01-09 06:26<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网1月9日消息，据英国广播公司（BBC）消息，当地时间8日下午5点，英国伦敦希思罗机场附近发现一架可疑的无人机，迫使机场全面停止起降。机场方面负责人称，正全力配合警方调查，以防止对运行安全造成威胁，同时为停航造成的不便向乘客致歉。<br/><div class="contheight"></div>据了解，伦敦希思罗机场（London Heathrow Airport）是英国乃至全世界最繁忙的机场之一，年客运量排名世界第7。<br/><div class="contheight"></div>另据英国天空新闻网此前报道，受无人机干扰而停飞在英国并非首例，12月19日，英国第二大机场伦敦盖特威克机场便因发现无人机干扰而停航近15小时，导致数万旅客滞留。<br/><div class="contheight"></div>（原题为《突发！无人机干扰迫使伦敦最繁忙机场停航》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 无人机,伦敦,停航</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2830175">
+<div class="nbgbox">
+<a class="zan" contid="2830175" href="javascript:;" onclick="voteCont(this)" praisetimes="46">
+                           45</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 无人机干扰航班</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2830175&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2830175&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

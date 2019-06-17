@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜90后挂职副市长，公众担心的是啥</h1>
+<div class="news_about">
+<p>澎湃特约评论员 胡印斌</p>
+<p>
+							2018-12-27 15:40<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="398" src="http://image.thepaper.cn/www/image/13/554/320.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">袁琳</span><br/><div class="contheight"></div>生于1990年的河北女子袁琳，不期然被置于聚光灯下。<br/><div class="contheight"></div>12月25日， 这个28岁、仅有两年私企工作经验的北大在读博士生，被福建省福清市人大常委会任命为福清市人民政府副市长。消息传出，引发舆论热议。<br/><div class="contheight"></div>26日，福州市委组织部对此回应称，袁琳担任副市长系福建省与北大校地合作引进在读研究生从事社会实践，为期10个月，到期免职，人事关系仍在北大，不是公务员，不发工资。<br/><div class="contheight"></div>福清市是一个县级市，单就行政级别论，副市长不过是副处级。一个北大博士生，担任一个副处级的职务，似乎算不上什么“破格”“破例”。<br/><div class="contheight"></div>然而，网友的质疑也并非完全没有道理。<br/><div class="contheight"></div>任何公职都对应着相应的责任和担当，都具有毋庸置疑的公共性。职务的授受，必须符合相应的规范。袁琳经过市人大常委会的任命而担任副市长，符合“选任官”的任职程序，并无不妥。但同时也需要搞明白，在读博士生从事社会实践、撰写调研报告，一定要担任副市长吗？<br/><div class="contheight"></div>福清市虽是县级市，但却不是一般的县，而是全国县域经济综合竞争力百强县，2017年GDP为995亿元。这样一个产值近千亿的大市，其主政者职责之重大，不言而喻。设官授职，乃是政府行政的大事，哪怕是一个科技副市长，也并非可有可无的摆设，而是对应着沉甸甸的责任。以袁琳简单到“清汤寡水”的履历，能否胜任愉快，仍是未知数。 <br/><div class="contheight"></div>不要说副市长不重要。没有不重要的职务，除非没有把合适的人放到合适的岗位上；也没有一个职位是可以敷衍的，除非从一开始就没想着当回事去做。 <br/><div class="contheight"></div>此外，即便是北大与地方有合作协议，协议约定的也只是提供实践的机会、向大学开放门户，而不是必然要出让一些重要的行政职务。一切都要立足于能够做事情，能够做好事情，而不是非要安排什么官职。<br/><div class="contheight"></div>真正的问题在于，博士生下去深入实践、做调研，未必一定要挂上一个副市长的名头。学问做得好不好，研究是不是深入贯通，并不完全取决于职务，而取决于是不是真的能够扎下去。当年费孝通先生搞调研，写作《江村经济》，也没有搞个什么名头。<br/><div class="contheight"></div>当然，在当下的语境中，有一个职务，实践起来会方便很多，但这也只是一种可能而已。如果一般性的职务就可以完成工作，又何必一定要用一个“90后女博士出任副市长”去撩拨公众的情绪呢？诚如福州市委组织部所言，暑期来的一位同学就担任了某单位的领导助理，既然助理就可以了，为什么一定要搞一个副市长呢？<br/><div class="contheight"></div>说到底，女博士出任副市长，问题不在年龄，而在此举可能引发公众猜测。毕竟，在以往的实践中，挂职属于相对比较快捷的上升管道，这不能不让人多想。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2779060" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">90后女博士私企工作两年就任副市长，官方：系社会实践挂职</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 90后女博士挂职副市长</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780364">
+<div class="nbgbox">
+<a class="zan" contid="2780364" href="javascript:;" onclick="voteCont(this)" praisetimes="165">
+                           164</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 挂职</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780364&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780364&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（56）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">近四成大学生关注网红：男生青睐游戏类、女生热衷美妆</h1>
+<div class="news_about">
+<p>澎湃新闻记者 李文姬</p>
+<p>
+							2018-12-25 14:36<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月25日，中国社会科学院发布本年度《社会蓝皮书》。蓝皮书指出，有近四成大学生关注网红。其中，8%的大学生基本每天都会查看网红新动态。<br/><div class="contheight"></div>对于这些关注网红动态的大学生来说，他们所关注的网红类型与直播类型有着较为相似的地方。游戏和美妆无疑是大学生最喜欢的网红类型，有41.7%的大学生关注游戏类网红，31.6%的大学生关注美妆类网红。<br/><div class="contheight"></div>而从性别来看，男女生关注的网红类型存在明显不同。男生更多关注游戏类网红，关注比例达到62.8%，而女生则热衷于美妆类网红，关注比例为55.5%。<br/><div class="contheight"></div>此外，体育类、科技类网红也相对更受男生的欢迎，分别有19%和16.2%的男生关注这两类网红。在女大学生群体中，除了美妆网红外，美食烹饪类网红、游戏类网红和购物类网红也比较受欢迎，关注比例分别为38%、23.5%和23.2%。<br/><div class="contheight"></div>蓝皮书还指出，随着互联网发展，青少年触网越来越早。触网年龄主要集中在6—10岁，占比超过6成。而5岁及以下就已接触到互联网的青少年也超过了1成。<br/><div class="contheight"></div>此外，值得关注的是，有近3成青少年在上网过程中遇到过暴力辱骂，包括“网络嘲笑和讽刺”、“辱骂或者用带有侮辱性的词汇”、“恶意图片或者动态图”、“语言或者文字上的恐吓”等等。<br/><div class="contheight"></div>然而，“当作没看见，不理会”是青少年最常用的应对暴力辱骂信息的方式，6成青少年都选此项。选择“报警”的比例仅为6.23%。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：钟煜豪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 大学生，网红</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772652">
+<div class="nbgbox">
+<a class="zan" contid="2772652" href="javascript:;" onclick="voteCont(this)" praisetimes="33">
+                           32</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 网红直播</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772652&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772652&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

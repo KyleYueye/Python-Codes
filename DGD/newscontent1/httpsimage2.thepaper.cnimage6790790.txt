@@ -1,0 +1,80 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">SIHH2018|高珀富斯：高级复杂腕表的前行之路</h1>
+<div class="news_about">
+<p>钟天阳</p>
+<p>
+							2018-02-01 10:23<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+<p style="line-height: 20px; margin-bottom:5px">
+<img alt="" src="//file.thepaper.cn/www/v3/img/topic.gif" style="float:left">
+<a href="newsDetail_forward_30413" target="_blank">
+<span class="news_topic">
+                              【专题】专题｜聚焦2018SIHH日内瓦高级钟表沙龙</span>
+</a>
+</img></p></div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard"><u>2018年日内瓦表展上，高珀富斯依旧按照自己的步伐，推出三款高级复杂功能腕表。作为一家独立制表风格浓厚的高级制表品牌，这个拥有100名员工的公司每年只生产100枚腕表。因此新的市场环境、新的消费趋势对这个品牌而言都没有太大的影响，动则数百万人民币的价位，更是让消费者限定在了高级鉴赏家的领域。<br/><div class="contheight"></div></u><div style="text-align: center;"><img alt="" height="594" src="http://image.thepaper.cn/www/image/6/790/787.jpg" width="400"/></div><span style="color: rgb(153, 153, 153);">双重摆轮腕表Double Balancier</span><br/><div class="contheight"></div>此次高珀富斯在表展上的重头戏，就是18K 5N红金表壳、黑色金质珐琅表盘款式的双重摆轮腕表Double Balancier。这款腕表在最新的款式上，突出了双重摆轮的立体造型，黑金表盘的分钟圈、数字、时标及动力储存显示则以大明火内填珐琅装饰。在计时方面，机械系统打破了计时限制，品牌研发的Differentiel Spherique Constant差动器提供了更稳定的动力传送。从美学上来说，兼具简约与复杂魅力，从表盘上的开口可以看到立体深邃的核心机械，5N红金指针及表壳尽显高贵优雅品质。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="650" src="http://image.thepaper.cn/www/image/6/790/786.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">恒定动力腕表DIFFéRENTIEL D’éGALITé</span><br/><div class="contheight"></div>这款表上首次有了跳秒装置，令读时更加方便，调校更加精确。同时配备暂停摆轮和重启秒针装置，拨出表冠即可操作。30°倾斜的摆轮减低了地心吸力的影响，令机芯可在稳定位置上更有效运作。同双重摆轮腕表一样，表盘上也设宽阔开口，令精巧机芯一览无遗。这款白金腕表限量33枚。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="626" src="http://image.thepaper.cn/www/image/6/790/788.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">世界时间地球腕表GMT EARTH</span><br/><div class="contheight"></div>新推出的GMT Earth世界时间腕表新作突破了技术界限，呈现从北极到南极的立体地球。这款时计经过重新设计，使机芯与表壳更显突出。这款表的亮点有三个：第一，以蓝宝石水晶打造整体结构，全方位的呈现完整的地球景象。第二，地球并非是唯一的三维立体元素，表盘最上方的小时丶分钟和小秒针显示、世界时间显示、动力储存显示以及24秒陀飞轮都有体现。第三，GMT地球腕表同时显示三个时区的时间，其精确度可达到一刻钟。时计背面显示24个时区的夏令时与冬令时，更仔细地补充地球所显示的时间功能。这款白金腕表同样限量发行33枚。</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘嘉郦<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="1974015">
+<div class="nbgbox">
+<a class="zan" contid="1974015" href="javascript:;" onclick="voteCont(this)" praisetimes="10">
+                           9</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日内瓦表展</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=1974015&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=1974015&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

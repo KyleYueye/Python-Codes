@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">俄国防部长向美发照会要求商讨《中导条约》问题，美未回复</h1>
+<div class="news_about">
+<p>吴刚/新华社</p>
+<p>
+							2018-12-15 18:20<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div>新华社符拉迪沃斯托克12月15日消息，俄罗斯国防部发言人科纳申科夫15日说，俄国防部长绍伊古日前向美国国防部长发出两封照会，要求商讨《中导条约》问题和叙利亚局势问题。</div>科纳申科夫说，在第一封照会中，绍伊古建议俄美两国国防部门举行会晤，讨论在执行《中导条约》方面的分歧。绍伊古强调，俄愿意就俄美两国关系和国际热点问题同美国进行开放务实的对话。在第二封照会中，绍伊古对在美国控制的叙利亚领土上库尔德人和阿拉伯人矛盾激化表示严重关切。<br/><div class="contheight"></div>科纳申科夫说，俄方至今尚未收到美方对俄方照会的答复，这表明美方不想就上述问题与俄方对话。<br/><div class="contheight"></div>美国总统特朗普10月20日以俄罗斯长期违反《中导条约》以及该条约限制美方研发新武器为由，宣布美国将退出《中导条约》。美国国务卿蓬佩奥12月4日在布鲁塞尔表示，除非俄罗斯恢复全面履行《中导条约》，否则美国将在60天后暂停履行该条约义务。<br/><div class="contheight"></div>《中导条约》全称为《苏联和美国消除两国中程和中短程导弹条约》，1987年12月8日由美苏两国领导人签署。条约规定两国不再保有、生产或试验射程在500公里至5500公里的陆基巡航导弹和弹道导弹。<br/><div class="contheight"></div>（原题为《俄国防部长向美国发照会要求商讨&lt;中导条约&gt;问题》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2548866" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">特朗普宣布美国将退出与俄签订的中导条约</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中导条约</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2742880">
+<div class="nbgbox">
+<a class="zan" contid="2742880" href="javascript:;" onclick="voteCont(this)" praisetimes="16">
+                           15</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中导条约</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2742880&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2742880&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_26490">汽车圈</a>
+</div>
+<h1 class="news_title">因引擎起火事件应对不力，韩国将重罚宝马并提起刑事诉讼</h1>
+<div class="news_about">
+<p>澎湃新闻记者 陈楚薇</p>
+<p>
+							2018-12-25 17:58<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月24日，据彭博社、美联社、路透社等多家媒体报道称，韩国交通部表示，将对宝马汽车处以112亿韩元（约合990万美元）的罚款，此外，还将对该公司提起刑事诉讼，原因是该公司对数十起发动机起火事件应对不力。<br/><div class="contheight"></div>据该部门的统计数据显示，截至11月底，由于宝马柴油车的尾气处理系统出现故障，已经导致韩国52辆汽车起火。<br/><div class="contheight"></div>当日，韩国国土交通部在首尔召开记者会，公布由政府和民间人士组成的第三方调查组织所提交的历时5个月的调查报告。据报告称，引擎着火是由于车辆废气再循环冷却器(EGR)的阀门出现故障所引起，但这家德国汽车制造商在今年年初约40辆汽车起火事件发生后，仍然试图故意掩盖技术问题，且行动过于迟缓，未能实现及时召回。 <br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="337" src="http://image.thepaper.cn/www/image/13/491/116.jpg" width="600"/></div>据悉，迫于压力与安全的考虑，早于今年7月，宝马就已经因引擎着火事件公开道歉，并宣布召回42个车型、共计约10.6万问题车辆，但这次车辆召回行动将使用同款发动机和废气再循环系统的另外52个车型、共计约6.6万辆汽车排除在外。直到相关方面提出异议后，宝马公司才于10月19日宣布召回剩余车辆。<br/><div class="contheight"></div>韩国交通部表示，宝马集团试图“淡化”这一故障缺陷问题的严重性，并花费了太长的时间来进行召回。<br/><div class="contheight"></div>对此，宝马(BMW AG)韩国子公司在一份声明中表示，该部门的调查结果与该公司的评估基本一致，即：火灾是由EGR冷却器中的冷却剂泄漏造成的。如果车辆长时间高速行驶，再加上碳和石油沉积物，泄漏可能会燃烧并引发火灾，但宝马否认设计缺陷，而且认为这个问题可以通过更换故障硬件来解决。<br/><div class="contheight"></div>“宝马集团正在配合正在进行的调查，并致力于解决这个问题。”宝马在声明中表示。<br/><div class="contheight"></div>宝马(BMW)韩国分公司的一名官员金荣云(Junghyun Kim)表示，目前还没有与韩国火灾有关的伤亡报告。　　<br/><div class="contheight"></div>作为在韩国仅次于奔驰的第二大进口汽车制造商，由于引擎着火故障频发，今年1至11月份，宝马在韩国的销量同比下降10%至4.76万辆，相比之下，韩国同期进口汽车增长了13%，而现代汽车的销量也较去年同期增长了3%。<br/><div class="contheight"></div>据韩国交通部统计，宝马汽车在韩国发生自燃的几率为0.14%，在德国和英国的自燃率分别为0.19%和0.17%，低于在美国和英国的自燃率。<br/><div class="contheight"></div>而在韩国地区召回的基础上，宝马已经将范围扩大至全球，10月23日，该公司宣布将召回大约160万辆柴油汽车，以修复可能导致车辆自燃的故障。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陈华<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 宝马 自燃</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2773089">
+<div class="nbgbox">
+<a class="zan" contid="2773089" href="javascript:;" onclick="voteCont(this)" praisetimes="42">
+                           41</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 宝马中国</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2773089&caid=26490",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2773089&amp;caid=26490" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

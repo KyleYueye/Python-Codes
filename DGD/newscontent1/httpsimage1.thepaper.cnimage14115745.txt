@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">陕西汉中17岁学生酒后掉进水渠，冷水里泡2小时后获救</h1>
+<div class="news_about">
+<p>华商报</p>
+<p>
+							2019-01-10 13:47<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">要不是发现及时，17岁的小华（化名）可能凶多吉少。1月7日凌晨，他失足掉进1.5米深的水渠中被冻僵，在齐胸的水中泡了2个多小时才被人发现救起。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="447" src="http://image.thepaper.cn/www/image/14/115/740.jpg" width="600"/></div> “我们赶到现场时，他抱着一根排水管泡在水里一动不动，问他话也不回答，已经被冻僵了。”9日，陕西汉中勉县公安局定军山派出所民警陈昱天说，7日上午7时30分，他们接到群众报警：勉县绿缘路河苑小区后的一个水渠中，一名男子泡在水里急需救助。陈昱天和两名同事立即带上救生绳、游泳圈和3件救生服赶往现场。<br/><div class="contheight"></div>事发地距派出所仅300多米，民警很快赶到现场。“渠水有1.5米深，已经淹到他的胸部位置。”陈昱天说，他看男子叫不答应，且脸色苍白、嘴唇不停发抖，情况非常危急，赶紧和同事将救生绳打结，抓住渠岸边一棵小树，将绳子套在男子肋下，“我们三个一同使劲，把他拉了上来。”<br/><div class="contheight"></div>陈昱天说，救上来的男子衣服已经完全湿透，眼睛发直、脸色苍白、浑身发抖，他立即拨打120并将男子送往勉县医院。经检查治疗，男子并无大碍。随后，男子家人也赶来了。经了解，男子小华今年17岁，是高中生，家就在事发地附近的小区。当日凌晨，小华酒后独自一人回家，由于天黑而且事发地没有路灯，一脚踩空掉进水渠中。<br/><div class="contheight"></div> “天黑，看不见周围情况，水泥渠壁光滑，他也没有东西可以抓。”陈昱天说，小华顺着渠水向前游了一段距离才抓到一根排水管，但因为当时气温低，而且在水里浸泡时间太长已被冻僵，根本无法爬上岸，只好抓住水管等待救援。好在天亮后，路过群众发现他并报警。 （ 原标题：17岁学生酒后掉进水渠 冷水里泡2小时后获救）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李寿康<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 陕西 勉县 落水</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836442">
+<div class="nbgbox">
+<a class="zan" contid="2836442" href="javascript:;" onclick="voteCont(this)" praisetimes="23">
+                           22</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 警方救人</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836442&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836442&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

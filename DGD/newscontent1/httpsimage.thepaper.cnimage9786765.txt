@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜放射性石料疑流向民居，检测报告也要有“实料”</h1>
+<div class="news_about">
+<p>澎湃特约评论员 熊志</p>
+<p>
+							2018-08-21 19:03<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="338" src="http://image.thepaper.cn/www/image/9/786/747.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">义峰山矿坑航拍图。北青深一度 图</span><br/><div class="contheight"></div>近日，有媒体报道浙江绍兴市“义峰山放射性石料流向民居，辐射超标”，引发广泛关注。绍兴当地成立了专门调查组展开调查，并随后对检测结果进行了通报。不过，有细心的网友发现，在通报中，受官方委托、对矿山现场进行抽样测试的江西省核工业地质局测试研究中心，资质早就被注销。<br/><div class="contheight"></div>资质被注销，意味着检测造假。面对更汹涌的质疑，绍兴国土局出面辟谣称，被注销的是企业，而该局委托的单位为事业单位。的确，目前江西省核工业地质局测试研究中心的官网可以正常打开，内容也更新到了近两天。不过注销企业和受委托的事业单位的名字完全一样，地址也非常类似，公众的疑虑可谓正当，当地有义务进一步澄清，否则检测的公正性存疑。 <br/><div class="contheight"></div>在整个事件中，绍兴方面的回应还算及时。8月18日媒体曝光放射性石料流向民居后，当地便成立了调查组，委托第三方进行监测；等到被指检测企业注销，也很快出面辟谣。谣言止步于信息透明，这是基本常识，反应迟滞或者藏着掖着，只会加剧猜疑。 <br/><div class="contheight"></div>不过信息公开，及时只是最底线的要求。至少在此次事件上，检测机构的身份，也得有比较充分的说明。除了前面提到的注销企业和检测单位重名这点外，对商品楼盘和矿石场产品进行检测的机构，通报也只是以“第三方专业机构”抽象指代，没有具体点明。事涉民众的身体健康，这种不透明，让外界监督无从谈起，自然难以形成有效说服力。 <br/><div class="contheight"></div>更关键的是，就像网友在跟帖中质疑的，通报中对检测结果的描述，要么是“基本吻合”，要么是“基本一致”，没有公布放射性元素的实际检测结果，以及理论上的安全区间。虽说官方表示检测结果待报告出具后及时公布，但目前舆情发酵，尤其是购买过相关商品楼的民众，迫切关心民居是否安全，在检测已经初步完成的前提下，理当最大限度公开，平抑质疑。 <br/><div class="contheight"></div>另外，需要强调的是，此次事件源于有放射性危险的石料流向违规，即便流出来的混凝土产品和商品楼盘的检测都在安全范围以内，也不意味着公众的追问是多余的。 <br/><div class="contheight"></div>事实上，义峰山区域很早就被检测为放射性异常区，后续的开采有严格的限制。2005年的《浙江省绍兴县义峰山建筑石料矿普查地质报告》明确提到，“区内岩石放射性伽马总量照射量超过了限值标准，不宜作工业建筑、民用建筑主体材料和装修材料”。所以目前唯一一家仍在开采义峰山矿石的企业，采矿许可证的经营范围，也被限定为“居室等建筑物以外其他用途如道路、堤坝等”。 <br/><div class="contheight"></div>从通报来看，相关石料流向了33个商品楼盘，违规销售基本可以坐实，而且持续了相当长的一段时间。这意味着职能部门对开采企业监管不力。除了公布检测结果之外，开采企业何以做到违规销售，职能部门是否存在放任，也应该对公众有个交代。<br/><div class="contheight"></div> 此次事件源于媒体曝光，这种问题揭露的路径，本身就让当地政府陷于被动的局面。积极应对，坦诚回应，是危机处理的应有姿态。如果玩文字游戏，通报表述不严谨；或者选择性回应，遮遮掩掩，对监管失察避而不谈，无疑会为公信力减分。只有公布详细的检测报告，才能消弭公众的质疑。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 放射性石料</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2367520">
+<div class="nbgbox">
+<a class="zan" contid="2367520" href="javascript:;" onclick="voteCont(this)" praisetimes="122">
+                           121</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 放射性石料</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2367520&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2367520&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

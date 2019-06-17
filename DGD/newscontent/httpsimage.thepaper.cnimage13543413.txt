@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">外媒：曾策划袭击中国驻卡拉奇领事馆的“幕后黑手”之一被杀</h1>
+<div class="news_about">
+<p>环球网</p>
+<p>
+							2018-12-27 09:07<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据环球网12月27日消息，11月23日，中国驻巴基斯坦卡拉奇领事馆遭武装组织袭击，造成四人死亡，巴基斯坦武装组织俾路支解放军(BLA)声称对此事负责。路透社12月26日援引该组织消息称，策划中国驻卡拉奇领事馆袭击事件的“幕后黑手”之一及其五名同伙被杀。<br/><div class="contheight"></div>“重要的俾路支(BLA)指挥官阿斯拉姆·俾路支及五名伙伴周一在敌人的袭击中死亡。”该组织发言人声明称。据巴基斯坦萨马电视台报道，阿斯拉姆及其同伙在俾路支省与阿富汗边境坎大哈省的自杀式袭击中死亡。<br/><div class="contheight"></div>上月，三名俾路支武装分子袭击中国驻卡拉奇领事馆，造成巴方2名警卫人员牺牲，两名平民死亡，一名安保人员受伤。三名武装分子被当场击毙。<br/><div class="contheight"></div>（原标题外媒：曾策划袭击中国驻卡拉奇领事馆凶手之一死亡 ）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 卡拉奇总领馆</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2779075">
+<div class="nbgbox">
+<a class="zan" contid="2779075" href="javascript:;" onclick="voteCont(this)" praisetimes="198">
+                           197</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中国驻卡拉奇总领馆遭袭</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2779075&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2779075&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

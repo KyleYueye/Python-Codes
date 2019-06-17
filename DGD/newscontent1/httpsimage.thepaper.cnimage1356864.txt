@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">时隔7年，阿联酋将重开大马士革大使馆</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-27 19:49<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="336" src="http://image.thepaper.cn/www/image/13/568/59.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">央视新闻客户端 图<br/><div class="contheight"></div></span>时隔7年后，阿联酋将重开驻叙利亚首都大马士革的大使馆。<br/><div class="contheight"></div>路透社27日报道，叙利亚信息部长说，这标志一个曾经支持叙反对派的阿拉伯国家对巴沙尔·阿萨德总统的重大外交支持。阿联酋驻叙利亚大使馆自2011年叙利亚冲突爆发后不久就关闭了。<br/><div class="contheight"></div>阿联酋方面尚未对此事作出评论，路透社称，叙利亚方面提供的一份情况说明邀请记者在当地时间27日下午13:30到位于大马士革Abu Rummaneh区的使馆所在地报道这一事件。<br/><div class="contheight"></div>在冲突爆发近八年之后，叙利亚政府在俄罗斯、伊朗等国支持下，逐渐重新掌控了叙利亚大部分地区。路透社指出，阿联酋曾是几个支持叙利亚反对派对抗阿萨德政府的地区国家之一，但是其作用并不如沙特、卡塔尔或土耳其突出。<br/><div class="contheight"></div>据新华社报道，最近数月，有关阿拉伯国家恢复与叙利亚的正常外交关系、阿盟恢复叙利亚成员国资格的呼声增多。多个阿拉伯国家的官员表露兴趣，暗示愿意在这些方面“作探索”。<br/><div class="contheight"></div>今年10月，叙总统巴沙尔接受科威特报社记者采访时说，叙利亚已经与多个阿拉伯国家“达成重大谅解”，有望改变持续多年的敌对关系。<br/><div class="contheight"></div>本月16日，苏丹总统奥马尔·巴希尔访问叙利亚，成为叙利亚内战爆发近8年来首位访问这一国家的阿拉伯国家联盟（阿盟）成员国领导人。不少人猜测，阿盟、尤其是海湾逊尼派君主国是否有意缓和与叙利亚什叶派政府的紧张关系。<br/><div class="contheight"></div>今年9月，叙利亚和巴林两国外交部长在美国纽约出席联合国大会期间有过一次“友好碰面”，两人当时热情拥抱，由媒体记者摄入镜头。不少政治分析师推测，这类场景“相当罕见”，可能预示海湾逊尼派君主国不久会与叙利亚政府改善关系。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：辛恩波<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 叙利亚,阿联酋,阿拉伯</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2781901">
+<div class="nbgbox">
+<a class="zan" contid="2781901" href="javascript:;" onclick="voteCont(this)" praisetimes="31">
+                           30</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 叙利亚</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2781901&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2781901&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

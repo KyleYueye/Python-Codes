@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">阿富汗首都政府机构办公点遭袭，至少32人身亡</h1>
+<div class="news_about">
+<p>代贺 法瑞德/新华社</p>
+<p>
+							2018-12-25 15:46<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="469" src="http://image.thepaper.cn/www/image/13/488/771.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">12月24日，在阿富汗首都喀布尔，袭击事件现场升腾起黑色的浓烟。 新华网 图<br/><div class="contheight"></div></span>阿富汗内政部发言人纳吉布·达尼什25日向新华社记者证实，首都喀布尔市区24日发生袭击事件，造成至少32人死亡，超过20人受伤。<br/><div class="contheight"></div>达尼什说，袭击发生在当地时间24日下午，目标是政府机构位于市区的一处办公地点，多名武装人员参与袭击。死者包括28名平民，1名警察以及3名袭击者。<br/><div class="contheight"></div>消息人士25日凌晨告诉新华社记者，遭袭政府机构办公地点靠近喀布尔使馆区。至少1名武装分子在事发现场引爆爆炸装置当场身亡，另有至少两名袭击者与安全人员枪战约7小时后被击毙。<br/><div class="contheight"></div>目前尚无任何组织宣称制造了此次袭击。记者在市区看到，通往袭击现场的主要道路被警方严密封锁，只允许警方或救援车辆前往事发区域。有目击者称，一些伤员伤势严重，袭击死伤人数有可能继续上升。<br/><div class="contheight"></div>今年以来，阿富汗首都多次遭遇各类袭击事件，造成严重人员伤亡。11月28日，喀布尔第9警区曾发生汽车炸弹爆炸袭击，造成至少10人死亡，另有19人受伤。<br/><div class="contheight"></div>（原标题为《阿富汗首都发生袭击事件致32人死亡》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：汪伦宇<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 阿富汗，恐怖主义，塔利班</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772836">
+<div class="nbgbox">
+<a class="zan" contid="2772836" href="javascript:;" onclick="voteCont(this)" praisetimes="4">
+                           3</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 阿富汗</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772836&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772836&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

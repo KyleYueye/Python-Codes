@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">山东青岛将对53国人6天内过境免签，入境活动范围扩至全省</h1>
+<div class="news_about">
+<p>澎湃新闻记者 张家然</p>
+<p>
+							2018-12-26 19:35<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="393" src="http://image.thepaper.cn/www/image/13/525/757.jpg" width="600"/></div><br/><div class="contheight"></div>12月26日，澎湃新闻（www.thepaper.cn）从山东省政府新闻发布会上获悉，青岛航空口岸、海港口岸获国务院批准，自2019年1月1日起对53个国家人员实行144小时过境免办签证政策。<br/><div class="contheight"></div>山东省公安厅出入境管理总队总队长于娜介绍说，青岛实行144小时过境免签政策是指53个国家人员只要持有效国际旅行证件和144小时内确定日期、座位前往第三国或地区联程客票，不需要申请中国签证，便可从青岛航空口岸和海港口岸入出境，在山东省行政区域内停留活动144小时，也就是6天时间。<br/><div class="contheight"></div>目前，此项政策共适用于53个国家。其中，欧洲39个，分别是:奥地利、比利时、捷克、丹麦、爱沙尼亚、芬兰、法国、德国、希腊、匈牙利、冰岛、意大利、拉脱维亚、立陶宛、卢森堡、马耳他、荷兰、波兰、葡萄牙、斯洛伐克、斯洛文尼亚、西班牙、瑞典、瑞士、摩纳哥、俄罗斯、英国、爱尔兰、塞浦路斯、保加利亚、罗马尼亚、乌克兰、塞尔维亚、克罗地亚、波黑、黑山、马其顿、阿尔巴尼亚、白俄罗斯。美洲6个，分别是：美国、加拿大、巴西、墨西哥、阿根廷、智利。大洋洲2个，分别是:澳大利亚、新西兰。亚洲6个，分别是:韩国、日本、新加坡、文莱、阿联酋、卡塔尔。<br/><div class="contheight"></div>另据山东省公安厅党委委员、副厅长李祝群介绍，青岛过境免签政策有三大变化：一是过境免签时间延长，由原来过境免签72小时延长至144小时；二是过境免签适用口岸类型有所增加，由原来单一的空港口岸扩大到海港口岸；三是免签入境活动范围广，一般72小时、144小时过境免签入境外国人活动范围仅限于入境口岸所在城市，而通过青岛机场或海港免签入境的外国人，活动范围是整个山东省行政区域内。<br/><div class="contheight"></div>李祝群表示，青岛航空口岸、海港口岸实行144小时过境免办签证政策是实施国家经济社会发展重大战略的具体措施，是推动山东省新旧动能转换重大工程、扩大对外开放、加强国际交流合作和便利人员往来的重要举措，将对进一步提升山东的国际影响力、促进全省经贸、文化、科技、教育、旅游等方面发展起到积极作用、提供更加广阔的平台。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 免签,入境</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2777142">
+<div class="nbgbox">
+<a class="zan" contid="2777142" href="javascript:;" onclick="voteCont(this)" praisetimes="17">
+                           16</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 青岛口岸</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2777142&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2777142&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

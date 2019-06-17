@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25455">艺术评论</a>
+</div>
+<h1 class="news_title">独家｜到访中国的德国总统施泰因迈尔上午拜访了一位艺术家</h1>
+<div class="news_about">
+<p>澎湃讯</p>
+<p>
+							2018-12-10 13:31<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">2018年12月10日上午，到访中国的德国总统施泰因迈尔来到了中国艺术家徐冰位于北京的工作室进行访问。这是施泰因迈尔就任德国总统以来对中国的首次国事访问，参观徐冰工作室是这位热爱艺术的总统此次中国之行中的一站。<div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/51/336.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">德国总统施泰因迈尔正在参观徐冰工作室<br type="_moz"/></span></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/51/483.jpg" width="600"/></div>施泰因迈尔总统在繁忙的国事之余仍不忘他热爱的艺术。今天上午10点过后，他来到中国艺术家徐冰位于北京的工作室进行访问，整个过程持续了一个小时。期间，徐冰向施泰因迈尔展示《背后的故事》、《英文方块字书法》、《蚕》、《凤凰》等作品。其中，《背后的故事》系列第一件作品始于德国柏林的国家东亚美术馆。<br/><div class="contheight"></div>徐冰以二战期间该美术馆丢失的三幅山水画为灵感，取枯枝落叶为素材，借光影之变幻，将遗失作品的踪影再现于它们曾经存在过的空间，诉说艺术品背后的故事。施泰因迈尔总统对徐冰丰富的艺术创作形式和细节表现出极大的兴趣，大为赞叹，称其作品“独一无二，创意非凡”。<div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/51/337.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">徐冰与施泰因迈尔</span><br/><div class="contheight"></div>徐冰是中国当代艺术家中最具代表性的一位。他的艺术经过几十年的探索，建立了成熟的思想及方法体系，因而在世界上影响广泛，获得荣誉无数。1999年由于他的“原创性、创造能力、个人方向和对社会，尤其在版画和书法领域中作出重要贡献的能力”获得美国最重要的个人成就奖，麦克亚瑟“天才奖”。2004年获得首届威尔士国际视觉艺术奖，评委会主席奥奎在授奖辞中说：“徐冰是一位能够超越文化界线，将东西方文化相互转换，用视觉语言表达他的思想和现实问题的艺术家。”<br/><div class="contheight"></div>2010年，徐冰被美国哥伦比亚大学授予人文学荣誉博士学位；2015年获美国国务院颁发艺术勋章。他的作品曾展出于美国纽约现代美术馆、大都会博物馆、古根海姆美术馆、英国大英博物馆、德国路德维希美术馆、西班牙索菲亚女王国家美术馆等重要美术馆，以及威尼斯双年展、悉尼双年展、圣保罗双年展等国际展等国际艺术展。<div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/51/334.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">徐冰与施泰因迈尔正在交流<div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/51/243.jpg" width="600"/></div></span>（文中图片由徐冰工作室提供）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：钱雪儿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 徐冰，施泰因迈尔</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2722569">
+<div class="nbgbox">
+<a class="zan" contid="2722569" href="javascript:;" onclick="voteCont(this)" praisetimes="233">
+                           232</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 徐冰</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2722569&caid=25455",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2722569&amp;caid=25455" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

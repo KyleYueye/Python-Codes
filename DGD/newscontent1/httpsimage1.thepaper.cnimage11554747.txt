@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜不会引发“人狗对立”，医院发布血腥照片就合适吗？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 郑山海</p>
+<p>
+							2018-10-23 17:33<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2552777" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜不会引发“人狗对立”，医院发布血腥照片就合适吗？" src="//image.thepaper.cn/image/11/525/265.jpg"/>
+</a>
+<div class="atlas_360_txt">医院发布狗咬伤男童原图被指血腥，回应：当时未想到社会争议<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">近日，甘肃酒泉一家医院接诊了一名被七八只流浪犬围攻的男童。孩子伤势严重，头皮都被流浪犬撕掉，可谓触目惊心。医院将救助过程的相关图片公布于众，引发一些爱心人士和动保组织不满，认为医院行为会引发“人犬对立”。 <br/><div class="contheight"></div>也许，一些爱狗人士想得太多了。“人犬对立”本身就是一个伪命题，人与狗的矛盾，说到底还是人与人的矛盾。呼唤规范养犬及加强对流浪狗的管理，是为了让所有人都生活得更安全，而非煽动人对狗、一部分人对另一部分人的仇恨。反倒是，跳出动物保护的立场，站在现代医院管理的角度看，医院公布这样的相片，确实存在不妥之处。 <br/><div class="contheight"></div>首先，公布照片不利于保护患者的隐私。保护患者隐私权，是我国《执业医师法》对医师提出的基本要求，对于违规者可以吊销执业证书。按照定义，与公共利益无关的一切个人信息、个人领域都属于公民隐私，具有不受他入侵扰的权利。其中一个具体表现，就是未经患者同意将医疗过程变成活教材。虽然酒泉这家医院主观上没有把抢救当活教材的意愿，但客观上造成了其扩散范围超过了一般的医学观摩。而且，经过院方的宣传，孩子几乎成为公众人物，个人信息想要保护，就变得困难。医院的处理，不能不说存在瑕疵。<br/><div class="contheight"></div>其次，医院没有关注患者家属的感受。谁都知道，医院的抢救重地是不允许家属进入的。这有治疗环境（如清洁、无菌）的需要，也存在规避不良刺激的需要。因为，部分治疗场景或过程，可能会让一些普通人难以承受。如今孩子的头皮都被扯掉了，如此残忍的画面，不管是家长还是孩子，都是一种无法直视的残忍与伤害。将这样的相片公布出来，对家长会不会是往伤口上撒盐？或者，若干年后，孩子自己看见了，会不会引发痛苦的记忆，这些都是一家成熟的医院应该想到的问题。<br/><div class="contheight"></div>再者，公布这样的照片，也没有考虑到社会反响。据报道，截至22日15时许，“男童头皮遭狗狗撕裂”话题在微博上阅读量达1.4亿，讨论达2.8万。如此海量的受众中，只要具备起码悲悯心与共情能力的人，都很容易引发心理不适，乃至衍生出一些不必要的极端情绪，不利于对养犬这一公共话题的理性探讨。 <br/><div class="contheight"></div>当然，医院公布照片有自身考虑。用图文并茂的方式展现医务工作救死扶伤的精神，树立医务人员的正面形象，是当前很多医院屡试不爽的策略。只是，因为受众是包括患者及家属在内的社会公众，就应当有更细致更人性化的考量。否则，即便真实，也可能将宣传正能量的初衷，扭曲成“博眼球”、引发公众不适的尴尬之举。 <br/><div class="contheight"></div>当代医院早已不是单纯的生物医学，而是社会医学，每一个行为都需要考虑很多社会文化的容忍度。不然违背了规则，真可能动辄得咎，引发适得其反的效果，还觉得自己很委屈。（作者系医生）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 发布血腥图片</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2556099">
+<div class="nbgbox">
+<a class="zan" contid="2556099" href="javascript:;" onclick="voteCont(this)" praisetimes="98">
+                           97</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 正面宣传</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2556099&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2556099&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（135）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

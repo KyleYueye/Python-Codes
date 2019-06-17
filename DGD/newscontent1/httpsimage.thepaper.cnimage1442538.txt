@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">重庆轨交环线因人防门侵入限界故障，4名人员受伤送医</h1>
+<div class="news_about">
+<p>澎湃新闻记者 钟笑玫 实习生 郭春娟</p>
+<p>
+							2019-01-08 20:03<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月8日下午，有网友微博爆料称，重庆轨道交通环线发生故障有人被困，视频中光线较暗，有玻璃破碎。19时许，重庆轨道交通发微博称，经现场确认，因海峡路至南湖路区间人防门侵入限界，导致环线四公里至海峡路区段（含四公里站、南湖站、海峡路站）停运。四名人员受伤（一名乘客，三名工作人员），已送往医院救治。<br/><div class="contheight"></div>重庆市轨道交通运营服务热线工作人员表示，轨道交通环线突发故障的时间为当日17时许，相关部门正在积极抢修当中。<br/><div class="contheight"></div>1月8日17时许，重庆市轨道交通（集团）有限公司官方微博@重庆轨道交通发布运营突发信息称，目前，重庆轨道交通环线因设备故障，环县造成海峡路至海棠溪区段运营受阻，其它区段运行正常。现工作人员正在积极处理，请大家配合车站人员引导，有序等待或换乘其他交通工具，由此给你带来的不便，我们深表歉意！<br/><div class="contheight"></div>1月8日19时32分，重庆轨道交通发微博称，经现场确认，因海峡路至南湖路区间人防门侵入限界，导致环线四公里至海峡路区段（含四公里站、南湖站、海峡路站）停运。轨道集团启动应急救援预案，已及时将列车上的30名乘客全部疏散至南湖车站。为保障市民出行，轨道交通环线调整列车运行交路，四公里——重庆北站南广场——重庆图书馆正常运行。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="136" src="http://image.thepaper.cn/www/image/14/42/543.png" width="600"/></div><div><span style="color: rgb(128, 128, 128);">微博截图</span></div></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：宋蒋萱<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 重庆 地铁 故障</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828533">
+<div class="nbgbox">
+<a class="zan" contid="2828533" href="javascript:;" onclick="voteCont(this)" praisetimes="35">
+                           34</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 地铁故障</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828533&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828533&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（157）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

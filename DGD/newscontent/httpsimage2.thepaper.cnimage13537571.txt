@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25464">澎湃质量报告</a>
+</div>
+<h1 class="news_title">女子在广州至天津列车上“讲课”，乘警询问发现其为传销头目</h1>
+<div class="news_about">
+<p>央视网</p>
+<p>
+							2018-12-26 21:49<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="498" src="http://image.thepaper.cn/www/image/13/537/560.jpg" width="550"/></div><div><span style="color: rgb(128, 128, 128);">央视网 图</span></div><div>12月26日上午，广州至天津T254次列车乘警臧连宏开展客票调查时，发现卧铺车厢一名女性乘客侃侃而谈，疑似传销“讲课”。经调查，该女子竟是一名传销组织头目，已被公安机关网上通缉。</div>2019年春运临近，为创造平安有序的乘车环境，天津铁路公安处乘警支队组织警力在列车上开展客票调查，加强治安清查防范，有效净化列车治安环境。26日8时30许，T254次列车运行在武昌至郑州区间，乘警臧连宏巡视车厢，查验旅客车票、证件。当巡视至14号硬座车厢时，发现9号座位上的旅客所持车票座号不符。经询问得知，该座位原本是一位女乘客，开车后她补卧铺换了车厢。臧连宏查验完硬座车厢后，照例到列车长办公席查看客运补票登记，看到14车9号座位的旅客补的卧铺在宿营车厢2号下铺。<br/><div class="contheight"></div>9时50分许，臧连宏巡视至卧铺车厢最后一节，找到乘务员查看卧铺票夹。乘务员反映说宿营2号下铺的女士补到石家庄的卧铺，刚才要求换回车票在郑州站提前下车。这个反常情况引起臧连宏警觉。他走进宿营车厢，靠近2号下铺，听到一名女子正对着临铺乘客侃侃而谈，疑似传销“讲课”。臧连宏上前询问，发现该女子与临铺乘客是坐车时才认识。经查验车票和身份证件，臧连宏发现该女子竟是一名传销组织的头目，当天刚被山东省公安机关上网通缉。臧连宏将其带至餐车进一步调查。面对乘警的询问，该女子神色紧张，承认自己叫史某某，以销售“某老酒”为幌子，以交纳1900元入门费购买产品为条件发展会员，组织、领导传销活动。14时40分许，T254次列车到达邯郸站后，乘警臧连宏将该嫌疑人移交邯郸站铁路公安派出所。<br/><div class="contheight"></div>（原题为《以卖老酒为幌子牟利 传销女头目列车落网》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：崔烜<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 传销 列车</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2778403">
+<div class="nbgbox">
+<a class="zan" contid="2778403" href="javascript:;" onclick="voteCont(this)" praisetimes="165">
+                           164</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 传销</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2778403&caid=25464",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2778403&amp;caid=25464" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（59）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

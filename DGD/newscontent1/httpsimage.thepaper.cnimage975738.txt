@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">澎湃评论｜最高层接连严厉表态，既要一查到底也要刮骨疗毒</h1>
+<div class="news_about">
+<p>澎湃特约评论员 李勤余</p>
+<p>
+							2018-07-24 08:43<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">长春长生生物问题疫苗事件，引发社会强烈关注。7月23日，正在国外访问的习近平总书记作出重要指示，指出涉事公司的行为性质恶劣，令人触目惊心。有关地方和部门要高度重视，立即调查事实真相，一查到底，严肃问责，依法从严处理。李克强总理也作出批示：此次疫苗事件突破人的道德底线，必须给全国人民一个明明白白的交代。<br/><div class="contheight"></div>疫苗是人类在医学领域最伟大的发明，其对于疾病的重要预防作用，不言而喻。然而上周日，国家药监局通报长生生物狂犬病疫苗生产记录造假；媒体调查还发现，这家药企的全资子公司去年就因生产的“百白破”疫苗效价指标不符合规定，被立案调查。一时之间，公众对疫苗安全的信任受到了严峻考验。<br/><div class="contheight"></div>在这一关键时刻，总书记和总理相继作出重要指示、批示，掷地有声的表态，既震慑了违法犯罪行为，又稳定了民心，更为事件的调查处理和长效机制的建设指明了方向。<br/><div class="contheight"></div>由于此案涉及的范围广、性质恶劣，难免一个个问号浮现在公众面前：问题疫苗不合格的原因何在？问题企业屡屡违规，为何能屹立不倒？23日下午，长春警方已经对长生生物狂犬病疫苗涉嫌违法犯罪案件迅速立案调查，将主要涉案人员公司董事长和4名公司高管依法审查。党和政府一查到底、绝不姑息的决心，可见一斑。人们有理由相信，随着调查的深入，真相终将水落石出，违法犯罪分子终将受到法律严惩。<br/><div class="contheight"></div>疫苗连着每一个孩子的身体健康，疫苗安全大于天。查处个案之后，如何才能确保每一支疫苗都安全可靠？这离不开日常监管的落实和加强。如何才能让违法企业不敢唯利是图，置人民群众的利益于不顾？这就需要加大执法力度，提高违法成本。正如总书记所言，完善我国疫苗管理体制，方能坚决守住安全底线。<br/><div class="contheight"></div>疫苗生产，本应是造福于民的好事。多年以来，在我国地域辽阔、人口众多的现实条件下，疫苗接种为维护人民群众的身体健康做出了不可磨灭的贡献。若因为一些害群之马的存在，使整个行业陷入信任的泥潭，后果将不堪设想。猛药去疴、刮骨疗毒，正当其时。<audio controls="controls" style="display: none;"></audio></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 马上评,疫苗</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2287550">
+<div class="nbgbox">
+<a class="zan" contid="2287550" href="javascript:;" onclick="voteCont(this)" praisetimes="341">
+                           340</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 长春长生疫苗</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2287550&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2287550&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（216）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,90 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">铁路公安集中整治“霸座”，一妇女霸占3个座位被拘留5天</h1>
+<div class="news_about">
+<p>熊丰/新华社</p>
+<p>
+							2018-12-21 13:31<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="429" src="http://image.thepaper.cn/www/image/13/364/104.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">铁路公安将集中整治“霸座”等突出治安问题。</span><br/><div class="contheight"></div>新华社北京12月21日消息，记者21日从铁路公安局获悉，针对“霸座”“霸铺”等社会关注的热点问题，铁路公安局近期组织治安、法制等部门制定出台了《旅客列车常见警情处置指引》，从现场处置要求、基本流程、注意事项等进行明确，下发到18个铁路公安局，为规范列车警情处置工作提供指导。<br/><div class="contheight"></div>北京、徐州、齐齐哈尔等铁路公安处乘警支队围绕“霸座”等突出治安问题，组织开展处置演练，提高快速反应和妥善处置能力。长沙、吉林、佳木斯等铁路公安处密切与客运部门的配合，从接处警等方面进行完善。重庆铁路公安处制作了《规范处置列车霸座案事件》教学片，组织乘警学习。深圳、南宁、延边等铁路公安处组织民警走进车站、车厢，通过列车广播、发放资料等形式，宣传相关法律法规，增强广大旅客的法律意识和安全意识。<br/><div class="contheight"></div>近期，各地铁路公安机关加强对“霸座”等突出问题的整治。12月1日，G170次列车上，一名醉酒妇女强行霸占他人的座位，并辱骂工作人员及其他旅客。随后，北京铁路公安局立即与上海铁路公安局联系协调，共同妥善处置。南京铁路公安处在南京南站将该妇女带下车，依法对其予以行政拘留7日处罚，并通报铁路征信系统。12月6日，在G696次列车上，两名旅客占用乘警办公席，不听列车员劝阻并发生冲突。太原铁路公安处乘警接报后，对行为人予以控制。在调查取证，查清事实后，太原铁路公安处依法对两人处以行政拘留处罚。12月14日，在K7426次列车上，一名妇女持有4号车厢车票，却强行霸占3号车厢三个座位，导致3名旅客无法就座。经列车长、乘警劝说教育，该妇女仍拒不让座。随后，吉林铁路公安处乘警将其强制带离座位。在调查清楚后，这名妇女被处以行政拘留5日处罚。<br/><div class="contheight"></div>（原题为《铁路公安机关集中整治“霸座”等突出治安问题》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_asktopic">
+<div class="news_askuser" onclick="window.open('asktopic_detail_10013709');"><span class="verticalAlign_topic"></span>
+<div class="news_askuser_bd">
+<div class="news_askuser_sort">圆桌</div>
+<div class="news_askuser_profile">从“霸座男”到“霸座女”，面对不文明行为，公众真的无解吗？</div>
+</div> <div class="news_askuser_trbs"><span class="trbs">
+<div class="userleft_hdimg">
+<img src="http://image.thepaper.cn/html/image/def_head.jpg"/><div class="hdimg_bg30"><img src="//file.thepaper.cn/www/v3/img/headerimg_ctbg30.png"/></div>
+</div>
+<a class="u_sname"></a>
+<span>2018-09-20</span>
+<span class="trbs_zan" id="10013709" times="1439">1.4k</span>
+<span>提问征集中</span>
+</span></div>
+</div>
+</div>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 铁路,霸座</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2759332">
+<div class="nbgbox">
+<a class="zan" contid="2759332" href="javascript:;" onclick="voteCont(this)" praisetimes="287">
+                           286</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 霸座</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2759332&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2759332&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（599）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

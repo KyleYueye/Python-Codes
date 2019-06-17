@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">广电总局：持续整治泛娱乐化、追星炒星、天价片酬等突出问题</h1>
+<div class="news_about">
+<p>祖薇/北京青年报-北青网</p>
+<p>
+							2019-01-08 17:01<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">北京青年报-北青网1月8日消息，1月6日至8日，2019年全国广播电视工作会议在京召开。中宣部副部长、国家广播电视总局党组书记、局长聂辰席在会上指出，今年是新中国成立70周年，是决胜全面建成小康社会的关键一年。做好今年工作，要突出“一条主线”、抓好五方面重点工作。其中包括：要强化责任落实，坚持主管主办和属地管理、分级负责原则，管理部门、播出机构、制作经营机构、网络机构等各类主体，都必须承担相应的政治责任、管理责任、主体责任。要突出管理重点，坚持网上网下统一导向、统一标准 、统一尺度，持续整治泛娱乐化、追星炒星、天价片酬、唯收视率点击率、违规播出广告等突出问题。要跳出传统观念模式的束缚，综合运用行政、经济、法律、科技等手段，提高治理体系和治理能力现代化水平。<br/><div class="contheight"></div>（原标题《国家广电总局：持续整治泛娱乐化、追星炒星、天价片酬》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 天价片酬</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827706">
+<div class="nbgbox">
+<a class="zan" contid="2827706" href="javascript:;" onclick="voteCont(this)" praisetimes="150">
+                           149</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 天价片酬</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827706&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827706&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜谨防“摸家底”式调查变成“因财施教”</h1>
+<div class="news_about">
+<p>澎湃特约评论员 舒圣祥</p>
+<p>
+							2018-09-12 14:29<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2431981" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜谨防“摸家底”式调查变成“因财施教”" src="//image.thepaper.cn/image/10/374/273.jpg"/>
+</a>
+<div class="atlas_360_txt">深圳一幼儿园问卷调查学生家房价户型，教育局：已中止活动<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard"> “你家是自购房还是租赁房？你家户型是什么样？你家房价是多少？”近日，这样一连串跟“房”有关的问题，出现在了深圳市龙岗区童梦可园幼儿园中（4）班下发的《“我的小区”主题调查表》中，经由社交媒体发布后，迅速引起网友热议。 <br/><div class="contheight"></div>这到底是描述“我家的小区”还是描述“我家的经济状况”？难道是要搞幼儿园版“房产实名登记联网”？读罢幼儿园的调查表，很多网友表达了类似质疑。虽然幼儿园已经澄清“并不存在外界猜测中的摸家底、要当地产中介等情况”，只是为了让幼儿了解自己家所在的小区而已。但说实话，若说纯属无心之过，恐怕也难以服众。 <br/><div class="contheight"></div>试问，真要让幼儿了解自家周边环境，何需具体到是租房还是购房，以及什么户型什么房价？这些真的是幼儿需要去关注的吗？孩子们的世界理应是单纯的，为什么非得从小让他们明白贫富贵贱？更重要的是，这些真的跟教学内容有关吗？其中教育意义到底何在？是要让他们从小清楚自己的“身份”，还是要从小培养“炒房客”？ <br/><div class="contheight"></div>类似事件早已不是第一次发生。孩子入幼儿园时，也许很多家长都遇到过，要和孩子共同面试的尴尬。因为只有两者都符合要求，孩子才能入园。包括某些中小学在内，调查家长职业，更是十分常见的做法。去年，某民办学校在学生面谈过程中，要求家长做问卷调查，不仅考察家长们的学识，还要求填写爷爷奶奶的学历、工作单位等信息，俨然一副“查三代”的架势。 <br/><div class="contheight"></div>调查家长职业之类，总归还有点遮羞布的意味，直接调查房子户型与房价，未免就有点赤裸裸了。当然，查三代也好，查房产也罢，本质都是一样的，看似滑稽无厘头，也可轻松解释成无心之过，却都是教育功利化的一种表现，背后是严重跑偏的教育理念——不是因材施教，而是“因财施教”。 <br/><div class="contheight"></div>貌似谁家里房子好，谁家里钱多，谁最能拼爹拼妈，甚至拼爷拼奶，谁就是学校眼中的好学生。如此跑偏的教育理念，又怎能有教无类地公平对待所有学生，让学生从小树立正确的价值观？无奈的是，在教育资源分布不均，优势教育资源更是普遍稀缺的背景下，家长们普遍存在“难上的就是好学校”的心理，让某些传说中的好学校，傲慢与偏见得愈发严重。<br/><div class="contheight"></div>为人父母者，当然都希望自己的孩子能够得到平等对待，希望他们可以健康成长，保有纯真和良好的做人品质。有些孩子之所以那么傲娇，除了某些家长不正确的观念，导致其形成了歪曲的价值观，一些学校动辄摸家底“因财施教”的做法，也在其中扮演了很不好的角色。 <br/><div class="contheight"></div>教育者应该立志成为“大先生”，平等对待每个学生，而不是拨着算盘去摸家底，把教育做成功利的生意。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 摸家底式调查</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2432530">
+<div class="nbgbox">
+<a class="zan" contid="2432530" href="javascript:;" onclick="voteCont(this)" praisetimes="160">
+                           159</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 教育公平</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2432530&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2432530&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（34）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

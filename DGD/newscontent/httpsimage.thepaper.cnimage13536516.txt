@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">北交大：试验爆炸事故3名遇难学生均为研究生，将严肃问责</h1>
+<div class="news_about">
+<p>“北京交通大学”微信公号</p>
+<p>
+							2018-12-26 20:44<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2778213" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">北交大实验室里到底发生了什么？专家：或因试验产生甲烷爆炸</span></a></img></p></div>
+<div class="news_txt" data-size="standard">“北京交通大学”微信公号12月26日消息，12月26日上午9:30左右，学校东校区环境工程实验室内进行垃圾渗滤液污水处理科研试验时发生爆炸引发火灾。上午10:20，火情得到控制，经初步核实，共有3名参与实验的研究生在事故中不幸遇难。事故原因相关部门仍在调查中。<br/><div class="contheight"></div>此次事故令人无比痛惜，学校已第一时间成立工作小组，党委书记、校长任组长，在现场组织救援、安全防护工作，并及时召开党委常委会扩大会议通报情况、部署工作。<br/><div class="contheight"></div>学校已全面开展安全隐患排查整改，将全力做好善后事宜，并依法依规严肃问责。<br/><div class="contheight"></div>北京交通大学全体师生沉痛悼念在事故中不幸逝去的三个年轻生命。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/536/440.png" width="100%"/></div>（原题为《沉痛通报》）</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 北交大实验室爆炸,研究生,遇难</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2778274">
+<div class="nbgbox">
+<a class="zan" contid="2778274" href="javascript:;" onclick="voteCont(this)" praisetimes="1685">
+                           1684</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 北交大实验室爆炸</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2778274&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2778274&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（2k）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

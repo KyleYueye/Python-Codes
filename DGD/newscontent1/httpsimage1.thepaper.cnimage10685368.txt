@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜公共场所的戏精被曝光的越多，越是一种震慑</h1>
+<div class="news_about">
+<p>澎湃特约评论员 黄帅</p>
+<p>
+							2018-09-21 19:25<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="311" src="http://image.thepaper.cn/www/image/10/685/294.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">网传视频截图<br/><div class="contheight"></div></span>“高铁霸座”的舆论风波还没过去，网上又出现了一段热门视频：在上海地铁金沙江路站3号口，一名女乘客拒绝安检，强行插队，被拒进站，与安检员产生了争执。民警到达后，女子仍欲强行进站，再次被拦后，料想不到的一幕发生了：她竟然倒地不起，“虚弱”地喊要打110……<br/><div class="contheight"></div>不过，“戏精式表演”没维持多久，在民警教育下，女子认识到自身错误，表示愿意配合接受安检。<br/><div class="contheight"></div>这起看似不大的事情之所以成了热点，与当下网友特别反感公共场所奇葩行为有关。或许这名乘客也知道“高铁霸座”男成了众矢之的，这才没有大声吵闹，但示弱的“表演”，除了让围观者一阵喧哗，成为网上的笑料外，对己、对人又有啥好处呢？ <br/><div class="contheight"></div>安检员尽职工作，乘客自觉配合检查，本就是毫无争议的事情。稍有社会公德和常识的人，都不会在公众场合大洒狗血，以拙劣的表演来蒙混过关。 <br/><div class="contheight"></div>整个过程中，民警没有粗暴执法的言语或动作，反而是这个女乘客很会“表演”：明明民警就在场，她却喊着打110，如果真是身体突然出了问题，不应该打120吗？常识都搞错了，到底是“表演”中慌了神还是另有原因？ <br/><div class="contheight"></div>目前，此事仍在进一步调查中，但它引起的热议，恐怕在一两天内不会消除。我们当然可以谴责乘客的不讲规矩，但也要看出，包括之前“高铁霸座”等类似现象中，颇不寻常的两点。 <br/><div class="contheight"></div>其一，这类不文明现象几乎都是被网友曝光到网上，进而引发主流媒体的关注，导致其成为社会公共事件的。随着自媒体和智能手机的全面普及，越来越多细节里的不文明现象被曝光，或许有些人早已习惯了“任性”，但他们没想到有一天自己的恶习竟广为人知。 <br/><div class="contheight"></div>这一方面说明新技术对监督不文明现象发挥的作用越来越大，另一方面，也提醒人们，要在任何时候都遵守公德，“不以恶小而为之”是理应坚持的原则和底线。 <br/><div class="contheight"></div>其二，“戏精表演”也好，“高铁霸座”也罢，当事人似乎对错误行为一度理直气壮，但迫于外界监督或舆论压力，只好低头认错。如果外部监督力度不大，或者他们觉得自己的犯错成本很低，就很难保证类似问题不再出现。<br/><div class="contheight"></div>理想的状态下，遵守规则和拥有公德应该是发自内心的认同，但不能不说，内心道德律令的养成也离不开外部监督，包括社会监督、舆论监督的规制。<br/><div class="contheight"></div>从“有图有真相”，到“有视频有真相”，这类公共事件被曝光似乎正在成为普遍现象。这也是好事：公共场所的戏精被曝光的越多，对他们越是一种震慑，一种教育。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 地铁插队</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2465263">
+<div class="nbgbox">
+<a class="zan" contid="2465263" href="javascript:;" onclick="voteCont(this)" praisetimes="188">
+                           187</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 戏精</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2465263&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2465263&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（62）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

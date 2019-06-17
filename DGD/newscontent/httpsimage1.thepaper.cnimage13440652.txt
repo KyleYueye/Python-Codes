@@ -1,0 +1,82 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="channel_36079">湃客</a>
+                    &gt; <a href="list_35572">有数</a>
+</div>
+<h1 class="news_title">普通感冒和流感到底有什么区别？</h1>
+<div class="news_about">
+<p>
+                            2018-12-24 08:58<span> 来源：澎湃新闻 湃客</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_paike_author clearfix">
+<a href="sparker_3444367" target="_blank">
+<div class="thum">
+<img src="//image.thepaper.cn/publish/interaction/image/2/730/404.jpg"/>
+</div>
+<div class="name">混子曰</div>
+</a>
+<div class="line"></div>
+<div class="link" data-userid="3444367" onclick="followUser(this)">+关注</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/430/710.jpg" style="width:600px;"/></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/430/711.jpg" style="width:600px;"/></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/430/712.jpg" style="width:600px;"/></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/430/713.jpg" style="width:600px;"/></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/430/714.jpg" style="width:600px;"/></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/430/715.jpg" style="width:600px;"/></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/430/716.jpg" style="width:600px;"/></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/430/717.jpg" style="width:600px;"/></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/430/718.jpg" style="width:600px;"/></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/430/719.jpg" style="width:600px;"/></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/430/720.jpg" style="width:600px;"/></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/430/721.jpg" style="width:600px;"/></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/430/722.jpg" style="width:600px;"/></div><div style="text-align:center;"><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/430/779.jpg" style="width:600px;"/></div></div><audio controls="controls" style="display: none;"></audio></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_keyword">关键词 &gt;&gt; 感冒,病毒,流感</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                本文为自媒体、作者等湃客在澎湃新闻上传并发布，仅代表作者观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love sparker_news_love" style="width: 446px;">
+<input id="hidden_contid" type="hidden" value="2766348">
+<div class="nbgbox">
+<a class="zan" contid="2766348" href="javascript:;" onclick="voteCont(this)" praisetimes="681">
+<span></span>680</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang"><span></span>收藏</a></div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766348&caid=35572",".news_imgad")</script>
+</div>
+<div class="news_txtad">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766348&amp;caid=35572" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（53）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜高中生论文造假：没进学术门先学会了“门道”</h1>
+<div class="news_about">
+<p>澎湃特约评论员 熊志</p>
+<p>
+							2018-08-16 14:13<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">《重视和培养生物医学工程专业学生的营销理念》《试论中药房的药学信息服务》《小议游戏模拟法在软件工程课程设计中的应用》……这些发表于学术期刊、看上去高大上的论文，作者竟然都是高中生。<br/><div class="contheight"></div>不过很可惜，据媒体梳理、对比，这些论文大多涉嫌抄袭：有的是原封不动抄，同样的话，顶多换一种表达方式；有的是将多篇论文拼接在一起；还有更高明的——通过联合署名，把自己包装成第一作者。这些案例揭开了冰山一角，它让人看到，论文造假的社会病，毒害力之强，连高中生都无法幸免。<br/><div class="contheight"></div>被曝光的高中生，大多来自高考自主招生录取名额较多的高中，可见论文造假的目的性很明确，就是拿论文当自主招生的敲门砖。其中一些学生，甚至已经借助涉嫌抄袭的论文进入了高校大门。<br/><div class="contheight"></div>自主招生作为高考改革的重要手段，将论文、专利纳入考量，灵活录取，谈不上有什么不合理。如果承认唯分数论不合理，就该允许体现学科特长和创新潜能的自由裁量。只是对高中生而言，不能高估论文考核的作用，也不能低估造假的可能。<br/><div class="contheight"></div>学术研究的门槛并不低，即便大学的本科论文，很多都是走走过场，高中生写论文，无疑是相当超前的举动。看看他们的选题，从大数据、人工智能、互联网金融到克隆技术和远程医疗，这些研究还不充分的前沿行业，别说高中生，就是硕士、博士，如果没有专业人士全方位的辅导，想要发表在重点期刊，难度也很大。<br/><div class="contheight"></div>高中生论文造假，至少说明两道防线失守了：一是刊发的期刊，二是录取的高校。一些靠版面费营生的期刊，收钱发文，早就成了明规则，这倒好理解，但高校在论文审查上也马虎大意，完全说不通。作为重要的学术研究场所，以大学的查重技术，要识别媒体曝光的那些造假案例，可谓轻而易举，然而造假者还是冠冕堂皇通过了录取。<br/><div class="contheight"></div>除了期刊和高校，高中生论文造假，背后的家长或者老师，往往扮演了关键角色。此前有媒体报道，一些家长为了让孩子拥有通过自主招生的资本，重金买版面，或者找抢手代写；而造假者的高中老师，有时还会亲自上阵，将自己的成果署上学生姓名。<br/><div class="contheight"></div>家长和老师的本意，是让孩子上好个大学，接受更好的教育，结果在他们还没有踏入学术圈之前，就让他们习得了学术圈的潜规则；没进学术门，先学会了“门道”。连最基本的求真都做不到，可以说学术生涯还没开始，就提前结束了。<br/><div class="contheight"></div>有自由裁量的地方，就可能产生黑幕和不公。高中生借着抄袭的论文升学，说明高考无疑还是当下最公平的方式之一。这并不是否认自主招生的合理性，只是在论文造假严重，且已经蔓延至中学的前提下，应该有基本的警惕。否则投机取巧者一路畅行，轻松敲开名校之门，对那些埋头苦学的学生，太不公平了。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 高中生,论文造假</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2352918">
+<div class="nbgbox">
+<a class="zan" contid="2352918" href="javascript:;" onclick="voteCont(this)" praisetimes="258">
+                           257</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 论文造假</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2352918&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2352918&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（116）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

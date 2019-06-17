@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">德国再赔偿千名大屠杀幸存者每人2500欧元</h1>
+<div class="news_about">
+<p>王宏彬/新华社</p>
+<p>
+							2018-12-17 20:00<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社12月17日消息，德国政府同意向大约1000名第二次世界大战期间纳粹大屠杀的幸存者支付每人2500欧元一次性赔偿金，补偿他们在战争中遭受的创伤。<br/><div class="contheight"></div>二战期间，德国犹太人团体和慈善人士在纳粹眼皮下把上万名犹太儿童偷运出境。这些大屠杀幸存者只有十分之一还在世，当年最年幼者如今已是80多岁高龄。<br/><div class="contheight"></div>为大屠杀幸存者争取赔偿的团体“犹太人对德国索取物质赔偿大会”16日说，这份赔偿代表德国政府承认纳粹迫害给当事人构成的伤害，不少幸存者有严重的心理问题。<br/><div class="contheight"></div>索赔大会执行副总监格雷戈·施耐德介绍，“几乎所有”当事人的父母都命丧纳粹集中营，逃离德国那天是他们最后一次见父母。<br/><div class="contheight"></div>美国大屠杀纪念馆记录显示，第一批获得营救的儿童1938年12月2日抵达英国东南部港口哈里奇，最后一批1940年5月14日离开欧洲大陆。<br/><div class="contheight"></div>大约一万名儿童获救，其中7500人是犹太人，主要来自德国、奥地利、捷克斯洛伐克和波兰。这些人中，只有大约1000人在世，其中半数在英国，其他分布在美国、以色列、加拿大、澳大利亚等国。<br/><div class="contheight"></div>施耐德说，其中一些人上世纪50年代领过赔偿，这次可以再领。<br/><div class="contheight"></div>联邦德国、即西德政府1952年与索赔大会达成第一份赔偿协议，迄今已有超过80万名大屠杀幸存者获得政府赔偿，总额超过800亿美元。<br/><div class="contheight"></div>（原标题《德国再赔偿大屠杀幸存者》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 大屠杀</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2747301">
+<div class="nbgbox">
+<a class="zan" contid="2747301" href="javascript:;" onclick="voteCont(this)" praisetimes="223">
+                           222</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 大屠杀</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2747301&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2747301&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（56）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

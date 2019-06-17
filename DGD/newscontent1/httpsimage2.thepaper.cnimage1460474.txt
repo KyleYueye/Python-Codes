@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27234">科技湃</a>
+</div>
+<h1 class="news_title">中国恶性淋巴瘤新药研究登国际期刊封面，缓解率80.4%</h1>
+<div class="news_about">
+<p>林苗苗 邱冰清/新华社</p>
+<p>
+							2019-01-09 07:50<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京1月8日电 近日，国家癌症中心、中国医学科学院肿瘤医院教授石远凯牵头开展的国产PD-1单抗治疗复发或难治性经典型霍奇金淋巴瘤的研究，登上国际权威期刊《柳叶刀·血液病学》2019年第一期封面。<br/><div class="contheight"></div>霍奇金淋巴瘤是一种较为罕见的B细胞恶性淋巴瘤，多发生于20至40岁的年轻人，其中绝大部分为经典型。尽管其早期治疗效果较好、治愈率较高，但一线治疗后仍有约20%发展为复发或难治性经典型霍奇金淋巴瘤，针对这类患者缺乏有效的治疗手段。<br/><div class="contheight"></div>石远凯牵头的研究纳入了96位患者，是迄今为止我国入组人数最多的复发或难治性经典型霍奇金淋巴瘤研究，采用我国自主研发的1类创新药信迪利单抗进行单药治疗。研究结果显示客观缓解率达80.4%，疗效与进口同类药物不相上下，且安全性良好。<br/><div class="contheight"></div>据了解，正常来说，人体免疫系统中的T淋巴细胞好比“警察”，可以及时识别并清除体内突变细胞，从而防止肿瘤的发生。不过，肿瘤微环境可导致T淋巴细胞功能被抑制，从而无法杀伤肿瘤细胞，这也是肿瘤肆意发展、难以被攻克的原因之一。<br/><div class="contheight"></div>专家介绍，与传统的化疗和靶向治疗不同，PD-1单抗可通过克服患者体内的免疫抑制，重新激活和恢复患者自身的免疫细胞杀伤肿瘤的功能。PD-1单抗也因此成为目前癌症免疫治疗的前沿热门领域，具有广谱性、疗效相对持久及比传统化疗毒副作用更小等优势。<br/><div class="contheight"></div>2018年12月，首个国产PD-1单抗——特瑞普利单抗注射液以及信迪利单抗注射液先后获批。石远凯说：“国产PD-1单抗获批上市将为我国肿瘤患者带来更多的治疗选择。”<br/><div class="contheight"></div>（原标题 中国抗癌新药研究登上国际期刊封面引关注）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张唯<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2830253">
+<div class="nbgbox">
+<a class="zan" contid="2830253" href="javascript:;" onclick="voteCont(this)" praisetimes="152">
+                           151</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 抗癌药物</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2830253&caid=27234",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2830253&amp;caid=27234" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

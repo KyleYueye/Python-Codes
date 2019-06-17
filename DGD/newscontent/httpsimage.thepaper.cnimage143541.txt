@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">文在寅幕僚团改组，现任韩驻华大使卢英敏接任幕僚长</h1>
+<div class="news_about">
+<p>刘强/海外网</p>
+<p>
+							2019-01-08 15:39<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="659" src="http://image.thepaper.cn/www/image/14/35/50.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">文在寅与卢英敏<br/><div class="contheight"></div></span>海外网1月8日消息，据韩联社8日报道，韩国总统文在寅当天改组幕僚团。青瓦台秘书室长、政务首席秘书、国民沟通首席秘书等多个职务遭遇调整。<br/><div class="contheight"></div>根据青瓦台8日下午公布的结果，青瓦台秘书室长（幕僚长）一职，由文在寅“心腹”、现任韩国驻华大使卢英敏接任。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="578" src="http://image.thepaper.cn/www/image/14/35/33.jpg" width="314"/></div><span style="color: rgb(128, 128, 128);">前国会议员姜琪正<br/><div class="contheight"></div></span>政务首席秘书，由前国会议员姜琪正接任。姜琪正也被视为韩国政界的“亲文派”人士。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="584" src="http://image.thepaper.cn/www/image/14/35/31.jpg" width="303"/></div><span style="color: rgb(128, 128, 128);">前MBC电视台评论员尹道汉<br/><div class="contheight"></div></span>国民沟通首席秘书，由前MBC电视台评论员尹道汉接任。尹道汉是广播电视领域的专家。<br/><div class="contheight"></div>早前有分析指出，文在寅改组幕僚团，旨在提升近期持续走低的支持率，整顿纪律松懈的风气，集中精力落实政府各项决策。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="330" src="http://image.thepaper.cn/www/image/14/35/27.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">文在寅与卢英敏<br/><div class="contheight"></div></span>卢英敏被韩国舆论视为文在寅“心腹”，曾任三届国会议员。2012年，文在寅首次参选总统时，卢英敏就出任文在寅竞选团队的秘书室室长。2017年文在寅二度竞选总统期间，卢英敏再次贴身辅佐文在寅，为文在寅登上总统宝座立下汗马功劳。<br/><div class="contheight"></div>“萨德”事件发酵、中韩关系紧张之际，深受文在寅信任的卢英敏被提名为驻华大使，并于2017年10月10日赴北京上任。<br/><div class="contheight"></div>卢英敏还是韩国政界少见的诗人和作家，出版过几本诗集，对中国历史文化兴趣浓厚，被认为是“知华派”。<br/><div class="contheight"></div>（原题为《文在寅幕僚团改组！韩驻华大使卢英敏接任幕僚长》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 文在寅,韩驻华大使</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827610">
+<div class="nbgbox">
+<a class="zan" contid="2827610" href="javascript:;" onclick="voteCont(this)" praisetimes="5">
+                           4</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 文在寅</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827610&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827610&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

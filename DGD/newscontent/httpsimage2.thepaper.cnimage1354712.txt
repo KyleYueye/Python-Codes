@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=29833">河北网宣</a>
+</div>
+<h1 class="news_title">“爱又米”骗了三百大学生两百万：电话诱导网贷后立即还钱</h1>
+<div class="news_about">
+<p>网信河北</p>
+<p>
+                            2018-12-27 11:01<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard">12月25日，从邯郸市公安局破获系列网络电信诈骗案新闻发布会上获悉，近日，邯郸市公安局邯山区分局历时10个月，往返8个省、市，途经2万余里，破获一系列利用网络贷款诈骗学生钱财的大型网络诈骗案，抓获犯罪嫌疑人7人，涉案金额达200万余元，摧毁了一个专门针对校园学生网络电信诈骗的团伙，净化了校园网络环境。<div style="text-align:center;"><img alt="" height="389" src="http://image.thepaper.cn/www/image/13/533/619.jpg" width="550"/></div>2017年12月1日以来，邯郸市邯山区公安分局先后接到多名来自邯郸学院、河北工程大学的学生报案称遭遇网络诈骗。接报案后，邯郸市邯山区公安分局指示网安局长秦蛟、刑侦局长袁世玉联合侦办，网安大队联合刑警一中队展开侦查，同时联系河北工程大学和邯郸学院保卫部门，就该案的情况进行了通报并公布办案民警电话，方便学生咨询和报案。<br/><div class="contheight"></div>经过调查，受骗学生均为在手机上下载注册“爱又米”借款软件后，接到自称“爱又米”客服的来电，该客服电话能够详细说出注册人身份证号码、家庭住址、家庭成员、职业年龄等详细信息，声称学生如果长期不使用软件进行贷款业务，会影响学生个人征信，进而影响学生就业，并造成禁止乘坐高铁和飞机等严重后果。在取得学生信任后，该客服又称，只要学生在平台上办理了贷款，随后进行还款，既不会产生额外费用，也不会影响征信，有过交易记录后注销账号即可。<br/><div class="contheight"></div>按照该客服电话的引导，部分学生在“爱又米”平台进行了数额不等的贷款业务，又按照该客服电话提供的二维码进行了还款。随后，有学生接到“爱又米”平台业务提醒还款的电话，查询后发现贷款账户并未收到还款，才意识到自己被骗，遂立即报案。<br/><div class="contheight"></div>经过侦查，查明该犯罪团伙有组织，有预谋，利用黑客软件盗取个人信息，并寻找话务员，利用网络平台，有目标、有针对性地对特定群体进行诈骗的犯罪事实，该团伙组织严密，反侦察意识强，给案件侦查带来一定难度。<br/><div class="contheight"></div>办案民警在当地警方的大力协助下，于2018年5月展开收网行动，当月在福建省龙岩市相继将5名犯罪嫌疑人抓获，9月在山西省运城市将2名犯罪嫌疑人抓获。另外3名犯罪嫌疑人正在抓捕过程中。<br/><div class="contheight"></div>经过对犯罪嫌疑人的讯问，该团伙成员供述了冒充“爱又米”客服对300余名大学生实施诈骗的犯罪经过，涉及杭州、太原、石家庄、武汉、福建、四川、山东、江西等全国十几个城市、地区。<br/><div class="contheight"></div>目前，该案件正在进一步处理中。<br/><div class="contheight"></div>来源：河北新闻网<br/><div class="contheight"></div>编辑：马小丫<br/><div class="contheight"></div>（本文原标题：《300余名大学生被骗200万！河北警方破获系列网络电信诈骗案》）<br/><div class="contheight"></div><br type="_moz"/></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2778054">
+<div class="nbgbox ">
+<a class="zan" contid="2778054" href="javascript:;" onclick="voteCont(this)" praisetimes="18">
+                                    17</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

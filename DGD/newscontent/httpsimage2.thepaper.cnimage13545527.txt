@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25678">唐人街</a>
+</div>
+<h1 class="news_title">章莹颖家属律师：已开始选陪审团成员，庭审或持续数月</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2018-12-27 10:39<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网12月27日消息，据美国侨报网报道，章莹颖家人律师史蒂夫•贝克特(Steve Beckett)日前接受了《新闻公报》(The News-Gazette)的采访，谈论了他与章家的关系，美中法律系统的不同，以及章家迫切想要知道章莹颖究竟遭遇了什么的愿望。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="338" src="http://image.thepaper.cn/www/image/13/545/525.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">章莹颖 资料图<br/><div class="contheight"></div></span>据报道，在中国学者章莹颖失踪案嫌犯克里斯滕森(Brendt Christensen)被捕后不久，贝克特就开始同章莹颖的家属合作。当时，在章莹颖的家人于失踪案发生后准备前往香槟之际，一名曾听过贝克特讲课的、来自中国的国际法留学生找到了这名律师。另一名在芝加哥的中国律师也请求贝克特帮助章家。<br/><div class="contheight"></div><strong>多久和章莹颖家人沟通一次？</strong><br/><div class="contheight"></div>贝克特说：“这取决于发生了什么。即使他们在秋季回到中国之后，也许每两周一次。但是(直到上周)没有很多事情发生。”<br/><div class="contheight"></div>“这是一个不寻常的情况，因为我的客户在半个地球之外并且说中文，而我不会说中文。但我认识了一位在芝加哥从事律师执业的中国公民。我还认识章莹颖的男朋友候霄霖，他现在正在北京的学校就读，他会说英语。如果我们打电话会议，通常是芝加哥(Chicago)律师、我和候霄霖一起。你还需要担心的是时间问题，因为有13个小时的时差……”<br/><div class="contheight"></div>“但我们有很好的工作关系。他们是很棒的人。在他们住在厄巴纳时，我拜访了他们的家。我告诉他们，当我还是个男孩的时候，我曾负责为他们居住的房子送报纸。我只是觉得他们需要适应社区，适应我们律师，他们才能觉得舒服。所以，我认为，在一个可怕的状况下，这是你能够做到最好的。我们也得到了来自大学的大力支持。”<br/><div class="contheight"></div><strong>美中司法系统差异是否让章莹颖家庭感到困惑？</strong><br/><div class="contheight"></div>“当然。在中国没有陪审团审判。政府官员会做决定。法庭会有多个法官，通常是3个，有时多达5个。有检察官起诉，还会有来安全委员会的代表。”<br/><div class="contheight"></div>贝克特表示：“我曾在会议上同中国的辩护律师交谈过，中国律师(在这类案件中)几乎没有什么事可以做。他们不能交叉询问证人。他们可以在法庭上说‘我要求法庭为当事人伸张正义’，法官则可以向被告提问……”<br/><div class="contheight"></div>“他们还认为我们疯了，因为我们让普通公民决定像这样的重要案件，而不是那些训练有素的专业人士，这些人也同政府有着联系。”<br/><div class="contheight"></div><strong>庭审可能持续多久？</strong><br/><div class="contheight"></div>“我的感觉是，庭审会是以月计，而不是以周计。至少两个月，也许三个月。因为你必须选择一个陪审团。有2000份陪审员问卷被发出。你在谈论的是，有很多人参与进来。这是一个寻求死刑的案件，人们对死刑有看法。他们正在对潜在的陪审团成员进行预先谈话。我已经开始这样做了，那是一次谈一个陪审员，如果你可以想象。陪审团选拔过程可能需要数周时间。”<br/><div class="contheight"></div>（原题为《章莹颖家属律师：已开始选陪审团成员，庭审或数月》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 章莹颖,陪审团</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2779347">
+<div class="nbgbox">
+<a class="zan" contid="2779347" href="javascript:;" onclick="voteCont(this)" praisetimes="64">
+                           63</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 章莹颖失踪</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2779347&caid=25678",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2779347&amp;caid=25678" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

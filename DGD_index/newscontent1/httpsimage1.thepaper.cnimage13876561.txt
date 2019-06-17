@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">土耳其援建科索沃清真寺，“赠礼”举动引发科索沃民众担忧</h1>
+<div class="news_about">
+<p>澎湃新闻记者 李怡清 实习生 汪梦雪</p>
+<p>
+							2019-01-04 12:10<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">土耳其曾承诺向科索沃援建的清真寺即将动工，但这一举动却引发科索沃民众对“新奥斯曼主义” （neo-Ottomanism）的担忧。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="360" src="http://image.thepaper.cn/www/image/13/876/559.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">6年前科索沃普里什蒂纳当地政府原定建设清真寺时打下的基石，现已杂草丛生。<br/><div class="contheight"></div></span>据英国《卫报》（The Guardian）1月2日报道，在科索沃普里什蒂纳地区，一块奠基石已经等待了6年，如今，当地市政府终于批准建设新清真寺。尽管这块杂草覆盖的石头上被人用鲜红色的涂鸦写下了“不要土耳其清真寺，否则将有流血”的字样，但这里，仍将于今年春天动工建造一座奥斯曼式的新清真寺。<br/><div class="contheight"></div>报道称，这座新清真寺是土耳其送给科索沃宣布独立建国10周年的“赠礼”。在这个拥有180万人口、其中95%为穆斯林的巴尔干地区，百余座清真寺在此前长年累月的战争中被摧毁，并始终未能得到重建。<br/><div class="contheight"></div>“在欧洲，没有一个没有教堂的村庄，但在科索沃，至少有50个没有清真寺的村庄。”办公地点位于普里什蒂纳“帝国清真寺”附近的宗教人士纳伊姆·特纳瓦娃（Naim Tërnava）告诉记者，在伊斯兰节日期间，礼拜者往往排到了这座建于1461年奥斯曼土耳其时代的清真寺外的大街上。因而特纳瓦娃对当地民众对即将到来的清真寺的争辩感到吃惊。<br/><div class="contheight"></div>反对者则对新清真寺的设计感到不满。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="360" src="http://image.thepaper.cn/www/image/13/876/558.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">普里什蒂纳新清真寺的设计方案。批评者称其过于“奥斯曼式”。<br/><div class="contheight"></div></span>据《卫报》报道，该项目由土耳其国家宗教事务局（Diyanet）监管，在2012年公开征集清真寺的设计方案后，就收到了数十份设计图，包括当地最有声望的设计师，但最终的设计方案则是以16世纪建于土耳其西北部埃迪尔内著名的塞利米耶清真寺为基础，与奥斯曼土耳其时期在巴尔干地区建造的数百座清真寺无异。<br/><div class="contheight"></div>“（清真寺的）设计应该是原创的，但最终选中的设计只是奥斯曼时期清真寺的翻版。对我来说，这个决定更具政治性。”建筑师Arbër Sadiki说。<br/><div class="contheight"></div>除了设计本身，这一设计背后所映射的土耳其“新奥斯曼主义”更引发当地居民的疑虑。一些人对土耳其咄咄逼人的形象感到不满，另一些人则担忧宗教信仰将回归当地已世俗化的生活中。但是另一方面，科索沃人也对“只有土耳其向他们伸出了援助之手”的境况感到无可奈何。 <br/><div class="contheight"></div>除了普里什蒂纳地区，近些年，土耳其还在科索沃其它地区建造了清真寺。<br/><div class="contheight"></div>《卫报》指出，安卡拉在西方对科索沃尚不感兴趣之际，将科索沃视为自己的后院。<br/><div class="contheight"></div>历史上，自1389年的科索沃战役后的500多年间，科索沃一直处于奥斯曼土耳其帝国的统治之下，直至1912年开启的第一次巴尔干战争，巴尔干地区多国组成联盟击败了日益衰弱的奥斯曼土耳其帝国，科索沃在500多年后又重新归属塞尔维亚。但在这500多年间，包括伊斯兰教等来自奥斯曼土耳其的宗教文化已深刻地改变了这一地区。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：吴挺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 土耳其,科索沃,清真寺</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2810846">
+<div class="nbgbox">
+<a class="zan" contid="2810846" href="javascript:;" onclick="voteCont(this)" praisetimes="157">
+                           156</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 清真寺</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2810846&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2810846&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

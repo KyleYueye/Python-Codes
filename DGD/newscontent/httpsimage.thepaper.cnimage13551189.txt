@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">无论是否真品都被鉴定为珍品，一古玩鉴定团队骗取手续费被抓</h1>
+<div class="news_about">
+<p>澎湃新闻记者 杨帆</p>
+<p>
+							2018-12-27 14:20<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div>“你好，我是古昌集团的业务经理，请问您手上是否有收藏品要出售，我们公司可以在国内、境外为您拍卖藏品，在各大顶级拍卖行都有我们的经理……”</div>12月24日，当上海闵行公安分局民警查获这一以“古玩鉴定”为幌子的诈骗团伙时，古昌集团办公室内的业务员还在繁忙地“业务拓展”。<br/><div class="contheight"></div>在现场，警方抓获涉案人员20名，并发现了各类诈骗合同、话术剧本，以及所谓的“拍卖珍品”，涉案金额500余万元。案件正在进一步审理中。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="750" src="http://image.thepaper.cn/www/image/13/551/171.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">诈骗团伙的“专业话术”。闵行公安分局提供</span><br/><div class="contheight"></div>张先生就是一名受害者。<br/><div class="contheight"></div>张先生来自江苏，是一名古玩收藏爱好者，今年7月，他接到一个推销电话，对方声称可以帮客户拍卖古玩。张先生一开始并不相信，但是对方几次致电，最后一次还有一名自称“李总”的高管来电，声称一定能为张先生这样的专业藏家找到高端买家。<br/><div class="contheight"></div>由于的确是想要出手几件藏品，于是张先生在7月5日，特意从江苏赶到上海，带着十几件瓷器藏品来到“古昌集团”。接待张先生的业务员反复强调，公司有强大的包装宣传团队和渠道，经过他们的推广，张先生手中的藏品不仅能出手，还一定是高于市场价的。同时，公司还承诺，如果一年内卖不出去，可以全额退款。<br/><div class="contheight"></div>就这样，在业务员的游说下，张先生支付了4500元“服务费”和“手续费”。直到12月，他也没有收到过一次拍卖的通知，当他提出要拿回手续费时，却遭到了公司的拒绝。再往后，业务员连电话都不接了，于是张先生报了警。<br/><div class="contheight"></div>包括张先生在内，今年12月以来，闵行公安陆续接到群众报警，称被一家名为“古昌集团”的公司诈骗。<br/><div class="contheight"></div>闵行警方高度重视，由刑侦支队、梅陇派出所抽调警力成立专案组开展调查。经查，这家公司从今年5月开始营业，“古玩拍卖”业务有着明确的分工和运作模式。<br/><div class="contheight"></div>业务员负责从网络等各种渠道获得持有藏品的卖家联系方式，通过承诺高价拍卖等话术，吸引客户到公司，当客户到公司后，以公司气派的办公场所、拍卖藏品等方式进一步获取客户信任，然后请出“鉴定师”为客户鉴定藏品价值。<br/><div class="contheight"></div>实际上，无论藏品是否为真品，经过“鉴定”，都会变成“几百万”的珍品，之后产品经理会以收取“保证金、鉴定费、服务费”为由，要求客户支付几千至几万元不等的费用。<br/><div class="contheight"></div>公司收取费用后，根本不会开展任何鉴定和拍卖活动。一名嫌疑人交代，所谓“鉴定”就是网上大致查询下同类藏品的真实拍卖价格，让客户相信自己手中的是珍品。由于鉴定、拍卖的确需要较长时间，因此大部分被害人并不会很快发现自己上当受骗，即使发现问题，也有很长的一段时间可以周旋。<br/><div class="contheight"></div>在这一过程中，即使客户有犹豫、有怀疑，产品经理也都有相应的“话术”应对。在业务员的办公桌上，民警发现了详细的“邀约话术”和“客户常见问题”，整个过程都有详细的操作说明。<br/><div class="contheight"></div>目前，闵行警方已抓获20名涉案嫌疑人，案件正在进一步审理中。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑浩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 古玩鉴定,诈骗话术,网络搜索</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780026">
+<div class="nbgbox">
+<a class="zan" contid="2780026" href="javascript:;" onclick="voteCont(this)" praisetimes="8">
+                           7</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 古玩拍卖</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780026&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780026&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

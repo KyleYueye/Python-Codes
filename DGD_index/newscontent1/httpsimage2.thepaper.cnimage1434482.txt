@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25450">文化课</a>
+</div>
+<h1 class="news_title">阿里发布“2018读书报告”，90后占据电子阅读半壁江山</h1>
+<div class="news_about">
+<p>澎湃讯</p>
+<p>
+							2019-01-08 14:57<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月8日，阿里巴巴发布了《2018中国人读书报告》。<br/><div class="contheight"></div>报告显示，在淘宝、天猫、闲鱼、阿里文学等平台上买书和读书的人，在 2018 年每人平均多读了一本书，人均购买纸质书达到 5.5 本。上海读书人口总数在全国各城市中排名第一，职场读物、外语书籍、原版进口书长期热销。而在电子书方面，据天猫读书APP数据显示，自去年6月上线至今，电子书订单总量超2500万单。其中，选择电子阅读的读者群体中有 46% 为 90 后，几乎占据半壁江山。90 后群体更倾向接受数字时代的阅读方式。<br/><div class="contheight"></div> <div style="text-align:center;"><img alt="" height="495" src="http://image.thepaper.cn/www/image/14/34/448.jpg" width="600"/></div>根据《2018中国人读书报告》显示，2018年我国新增阅读人口接近3000万，增长主力来自于90后和00后人群。在选择电子阅读的读者群中有46%为90后。事实上，如今有超5成以上读者正在接受“纸电一起读”，在两种阅读方式上，人们已经基本形成不同的阅读偏好。例如，在电子阅读领域，小说、励志成功学、职场心理学等永远是年轻人在通勤途中的最好解闷良药；而在传统阅读领域，人们更偏爱购买儿童文学、教辅教材、绘本图书、期刊杂志等书籍。这类书籍更依赖传统图书媒介，因此地位撼动不易。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="495" src="http://image.thepaper.cn/www/image/14/34/449.jpg" width="600"/></div>去年6月，阿里文学携手天猫图书推出天猫读书APP，旨在加快纸质书电子化。上线仅半年时间，天猫读书APP的电子书总订单量超2500万单。其中，《冰与火之歌：权力的游戏》《阿里巴巴与四十大道》《人性的弱点》成为读者最喜欢的三本电子书。<br/><div class="contheight"></div> <div style="text-align:center;"><img alt="" height="535" src="http://image.thepaper.cn/www/image/14/34/452.jpg" width="600"/></div>“天猫读书APP是我们为广大消费者打造的一座移动图书馆。”阿里文学总裁宇乾说。<br/><div class="contheight"></div>根据天猫读书APP数据显示，电子书订单量排名前五的省份是，广东、江苏、浙江、山东、河南。在城市上，上海、北京、广州、深圳、杭州的读者最喜欢用手机看书。其中，成功励志、人文社科、小说成为读者最喜爱的书籍种类。<br/><div class="contheight"></div>在天猫读书APP中，18-34岁的用户超过6成。女性读者占比65%远超男性。本科学历以上用户超过70%。而每晚21点到23点则是手机读书的高峰时段。<br/><div class="contheight"></div>电子书的普及不仅不会让纸质书消亡，更会让整个产业踏入快车道。据《2018中国读书报告》显示，阿里系平台上买书和读书的人，在2018年平均每人多读了一本书。电子阅读、听书等阅读模式的出现，让更多人享受到了阅读的快乐。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陈诗怀<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827520">
+<div class="nbgbox">
+<a class="zan" contid="2827520" href="javascript:;" onclick="voteCont(this)" praisetimes="59">
+                           58</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 天猫</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827520&caid=25450",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827520&amp;caid=25450" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

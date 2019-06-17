@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">安倍给父亲扫墓，发誓要尽全力解决日俄领土争端</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2019-01-07 17:45<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="336" src="http://image.thepaper.cn/www/image/14/6/623.png" width="597"/></div><span style="color: rgb(128, 128, 128);">安倍晋三在扫墓时接受采访</span><br/><div class="contheight"></div>据日本富士电视台报道，6日，日本首相安倍晋三回老家山口县给父亲安倍晋太郎扫墓，并表示自己会尽全力解决日俄领土争端。<br/><div class="contheight"></div>安倍晋三1954年生于日本山口县，出身政治世家。其祖父是国会议员，外祖父是上世纪中期日本首相岸信介，父亲安倍晋太郎生前曾任日本前首相中曾根康弘的内阁外相。<br/><div class="contheight"></div>6日，安倍在山口县给父亲扫墓时，对记者表示：“无论怎样我都将积极推进日俄谈判。我发誓，为了解决领土争端，给签署和平条约问题画上终止符，我将尽全力促成此事。”<br/><div class="contheight"></div>多名日本政府消息人士近期表示，日俄和平条约谈判迟迟未取得进展。日方原本设想，河野太郎2018年内访问俄罗斯，现在已无法实现。日本政府正在考虑新方案希望2019年1月再安排河野访俄，同俄罗斯外长拉夫罗夫开展条约签订相关谈判。<br/><div class="contheight"></div>日媒称，谈判难以取得进展的原因是因为俄方对于南千岛群岛(日称北方四岛)问题的谈判态度并不积极。日本政府目前十分发愁，希望俄方早日提供合作，促成谈判。<br/><div class="contheight"></div>日媒此前报道称，安倍在2018年11月与普京会谈时，对普京表示，两国应在战后恢复邦交并把南千岛群岛的色丹与齿舞两岛交还日本。日本也将根据日美安保条约，不在这两座岛上设置美军基地。但俄方多次表示无法相信日本，交还两岛后，那里完全可能出现美军基地。日媒称，日俄要解决领土问题，还有很长的路要走。<br/><div class="contheight"></div>（原题为《安倍给父亲扫墓 发誓要尽全力解决日俄领土争端》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘惠<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 安倍晋三,日俄和平条约,领土争端</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2824434">
+<div class="nbgbox">
+<a class="zan" contid="2824434" href="javascript:;" onclick="voteCont(this)" praisetimes="46">
+                           45</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 俄日和平条约</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2824434&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2824434&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（62）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

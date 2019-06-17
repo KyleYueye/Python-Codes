@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=65635">扬子晚报</a>
+</div>
+<h1 class="news_title">海南21岁女孩见长沙下雪太兴奋，雪中玩一下午第二天成面瘫</h1>
+<div class="news_about">
+<p>扬子晚报</p>
+<p>
+                            2019-01-09 11:25<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard">对于21岁的海南人小王来说，太难得看到下雪了，但自己却在兴奋开心之余因口眼歪斜在好友陪同下住进了医院。1月8日，记者从湖南省第二人民医院获悉，小王被诊断为面瘫，目前已回家继续治疗。<br/><div class="contheight"></div>小王是海南人，平时很少见到雪，此次正好在长沙游玩时巧遇这场大雪，于是她异常兴奋，约了几个好友到湘江边上拍照、堆雪人、打雪仗，玩了一个下午，觉得脸上刺痛麻木才意犹未尽的离开。第二天早上起床洗漱发现一边嘴角漏水，而眼睛有一边也闭不上了，于是急忙到医院来就诊。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="426" src="http://image.thepaper.cn/www/image/14/68/555.jpg" width="600"/></div>湖南省第二人民医院康复医学科赵洁主治医师接诊了小王，赵医生检查发现，小王在皱眉头时右侧额头完全没有皱纹，即使用力闭眼右眼脸也不能完全闭合，嘴巴鼓气时上下唇也没法完全闭合，右侧嘴角一直漏着气。经检查，小王被诊断为面神经麻痹。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="626" src="http://image.thepaper.cn/www/image/14/68/547.jpg" width="600"/></div>小王住院后，医生为其制定了一整套治疗方案，以针灸为主、复合手法推拿、灸法琉通经络，中医定向透药、氦氖激光照射改善局部循环，再配合一些营养神经的药物治疗。通过系统治疗，小王目前已经康复出院。<br/><div class="contheight"></div>赵洁表示，面瘫只要治疗及时，一般预后良好，最快的可在一个月内恢复，多数在 3 月内痊愈。但是 6 个月以上未见恢复者则预后较差，有的遗留有面部痉挛，所以，面瘫一定要尽早治疗。<br/><div class="contheight"></div>其实，面瘫除了治疗得及时，预防也很重要。赵洁医生提醒，首先要调整好身体的状态，避免熬夜、严格规范生活作息、合理运动，增强免疫力。其次是要避免冷刺激，尤其是在冬季不要让风长时间吹头部或面部，另外少吃生冷食物。<br/><div class="contheight"></div>对于已经面瘫的患者，赵洁表示，在治疗期间更要注意休息，防风、防受寒，注意头脸部的保暖，如出门穿风衣或系围巾等，洗脸漱口时都要用热水，清淡饮食，戒烟戒酒。<br/><div class="contheight"></div><strong>网友评论</strong><br/><div class="contheight"></div>@alo：同情！<br/><div class="contheight"></div>@首席鉴官：人生大起大落，不以物喜不以己悲。<br/><div class="contheight"></div>@生长在悬崖上的草：所以保暖还是很重要，特别在很冷，风又大的地方，口罩还是需要的<br/><div class="contheight"></div>@OhRiang：同为海南人在北京上海十几年了，第一次见到雪也就感叹下，这位大姐是看抖音南方人见到雪的画面玩过头了吧<br/><div class="contheight"></div>来源：潇湘晨报（xxcbwx）<br/><div class="contheight"></div>（原标题：《见下雪太兴奋，21岁海南女子疯玩一下午后致口眼歪斜...医生诊断为...》）<br/><div class="contheight"></div></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2831236">
+<div class="nbgbox ">
+<a class="zan" contid="2831236" href="javascript:;" onclick="voteCont(this)" praisetimes="48">
+                                    47</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

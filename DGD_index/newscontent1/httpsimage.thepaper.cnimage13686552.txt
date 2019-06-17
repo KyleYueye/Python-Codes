@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">郭声琨：不断把扫黑除恶专项斗争推向深入，创造安全稳定环境</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-29 21:17<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="350" src="http://image.thepaper.cn/www/image/13/686/550.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">12月29日，中共中央政治局委员、中央政法委书记、全国扫黑除恶专项斗争领导小组组长郭声琨出席全国扫黑除恶专项斗争视频会议并讲话。  中华人民共和国最高人民法院网站 图<br/><div class="contheight"></div></span>新华社北京12月29日消息，中共中央政治局委员、中央政法委书记、全国扫黑除恶专项斗争领导小组组长郭声琨当日在全国扫黑除恶专项斗争视频会议上强调，要坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻以习近平同志为核心的党中央决策部署，树牢“四个意识”，坚定“四个自信”，坚决做到“两个维护”，不断把扫黑除恶专项斗争推向深入，为新中国成立70周年创造安全稳定环境。<br/><div class="contheight"></div>会议总结扫黑除恶专项斗争一年来工作情况，研究部署明年工作。郭声琨指出，一年来的专项斗争取得显著成效，社会治安环境明显改善，群众安全感、满意度明显增强，基层组织建设明显夯实，党风政风社会风气明显好转。<br/><div class="contheight"></div>郭声琨强调，2019年，为期三年的专项斗争迎来“船到中流浪更急”的深水区、攻坚期。要认清专项斗争面临的时、势、责，保持清醒头脑，坚定信心决心，持之以恒、久久为功。要以积案和线索清零为目标，继续突破一批大要案，及时发现、打击网络空间、新兴领域黑恶犯罪，坚决查处各类“保护伞”，带动政治生态、社会生态不断好转。要坚持创新发展新时代“枫桥经验”，加强基层组织建设和基层社会治理，落实重点行业领域日常监管主体责任，形成扫黑除恶治乱长效机制。要进一步加强组织领导，落实工作责任，表彰宣传英模事迹，弘扬见义勇为风尚，为专项斗争深入开展形成强大合力、营造强大声势。<br/><div class="contheight"></div>赵克志、周强、张军出席。<br/><div class="contheight"></div>（原题为《郭声琨在全国扫黑除恶专项斗争视频会议上强调 不断把扫黑除恶专项斗争推向深入 为新中国成立70周年创造安全稳定环境》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 郭声琨,扫黑除恶</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2793668">
+<div class="nbgbox">
+<a class="zan" contid="2793668" href="javascript:;" onclick="voteCont(this)" praisetimes="84">
+                           83</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 郭声琨</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2793668&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2793668&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

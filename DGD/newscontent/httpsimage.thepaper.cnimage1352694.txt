@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">济南机动车保有量突破230万，投资超两亿开发智慧交管系统</h1>
+<div class="news_about">
+<p>澎湃新闻记者 张家然 实习生 柳光辰</p>
+<p>
+							2018-12-26 18:56<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月26日，城市交通管理“智慧+”发展论坛暨“济南交通大脑”正式启用仪式在山东大学中心校区举办，本次论坛由济南市公安局交警支队主办。<br/><div class="contheight"></div>济南市公安局交警支队支队长曹凤阳介绍说，近年来，随着省会城市吸引力和辐射效应不断增强，人车物流急剧增长，济南市机动车保有量已突破230万辆，交通供需矛盾日益突出，停车难、行车难成为制约城市发展、影响营商环境和生活品质的突出问题。<br/><div class="contheight"></div>为此，济南市正在探索基于当前最前沿的交通管理、大数据分析、人工智能等技术，汇聚了该市当前几乎所有和交通相关的海量数据，打造一个极具交通管理智慧的交通管理和服务平台系统，这个系统被命名为“济南交通大脑”。<br/><div class="contheight"></div>“济南交通大脑”的建设由济南市交警支队牵头组织，山东大学负责顶层设计、咨询和实施保障，滴滴出行作为主要开发单位，联合世纪高通、浪潮集团、海信、以萨等多家单位共同实施。在本次论坛上，“济南交通大脑”正式启用。<br/><div class="contheight"></div>“济南交通大脑”第一期建设投资超过2亿元。今年5月，“济南交通大脑”的设计和开发工作启动，至今系统的整体架构和首批功能已经正式运转上线。随着相关开发工作的进展，系统第一期建设所规划的500大功能会在2019年陆续全部上线。<br/><div class="contheight"></div>中国信息协会副会长朱玉分析认为，“济南交通大脑”可以分析研判交通流量、车载导航、车辆状态等多源数据，进行多层次智慧应用，再通过移动终端、户外大屏等形式引导市民科学出行，避免拥堵。<br/><div class="contheight"></div>另据济南市副市长、公安局局长吴德生介绍，随着大数据、人工智能、移动互联等先进科技在交通领域的深化应用，城市交通管理信息化、智能化管理水平不断提高，交通拥堵状况有效改善，济南市出行拥堵指数退出全国各大城市前20名。<br/><div class="contheight"></div>在本次论坛上，济南市交警支队和山东大学共建的“智慧交通大数据联合研究中心”正式揭牌成立，中心将整合山东大学技术、工程、人文领域众多学科资源，共同为济南市的发展服务。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 机动车,济南</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2777155">
+<div class="nbgbox">
+<a class="zan" contid="2777155" href="javascript:;" onclick="voteCont(this)" praisetimes="47">
+                           46</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 交管系统</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2777155&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2777155&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

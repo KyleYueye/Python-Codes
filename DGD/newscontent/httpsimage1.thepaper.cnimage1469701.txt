@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">雷军在小米上市前拿的99亿元股权激励，将全部捐给慈善机构</h1>
+<div class="news_about">
+<p>澎湃新闻记者 包雨朦 综合报道</p>
+<p>
+							2019-01-09 12:29<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月9日上午，小米集团（1810.HK）在港交所发布公告称，其创始人、董事长兼CEO雷军承诺一年内不会减持公司股票。同时，雷军宣布将他在上市前获得的股权激励，全部捐赠至慈善基金，用于慈善用途。<br/><div class="contheight"></div>小米的公告显示，出于对公司长期价值的信心，小米集团创始人、董事长兼CEO雷军和其他控股股东，承诺持有的所有股票，继续锁定365天，同时小米集团高级副总裁、CFO周受资亦做出同样的承诺。<br/><div class="contheight"></div>另外，雷军在上市前获得的不超过约6400万股B类股（激励股份）将捐赠给慈善机构。<br/><div class="contheight"></div>据小米招股书显示，今年4月，经董事会提议，小米公司全体股东一致同意，向雷军控制的Smarshifshifent Mobile Holding Limited发行约6400万股B类普通股，作为股权激励，且在上市前发出。这些股份占总股本大约2%，按当时估值情况计算，接近99亿元。<br/><div class="contheight"></div>1月8日，小米股价周二下跌7.2%，已从上市时的17港元下跌至11.10港元。根据彭博社汇总的数据，超过30亿股小米股票将解禁，大约相当于已发行股票的19%。对冲基金一直在增持空头头寸，1月8日卖空股票数量接近3000万股，为去年8月份以来最高。<br/><div class="contheight"></div>小米2018年第三季度财报显示，当季营收508亿元人民币，同比上涨49.1%，中国大陆的增长是20.9%。经调整利润29亿元，同比增长17.3%。报告期内，小米手机业务营收350亿元人民币，同比增长36.1%，智能手机销量达3330万部，较去年同期增长20.4%。截至10月26日，小米智能手机出货量全年突破一亿台。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙扶<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 雷军,小米</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831384">
+<div class="nbgbox">
+<a class="zan" contid="2831384" href="javascript:;" onclick="voteCont(this)" praisetimes="155">
+                           154</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 小米上市</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831384&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831384&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

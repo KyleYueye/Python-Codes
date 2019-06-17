@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">中国政府将向黎巴嫩提供新一轮紧急人道主义粮食援助</h1>
+<div class="news_about">
+<p>李良勇/新华社</p>
+<p>
+							2018-12-22 10:06<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社贝鲁特12月21日消息，中国政府将向黎巴嫩政府提供新一轮紧急人道主义粮食援助，用于帮助在黎巴嫩的叙利亚难民以及接纳难民的黎方社区。<br/><div class="contheight"></div>21日，中国驻黎巴嫩大使王克俭与黎巴嫩发展和重建委员会主席吉斯尔分别代表本国政府就上述粮食援助事宜签字并换文确认。<br/><div class="contheight"></div>王克俭说，这一援助是为落实中国政府先前作出的有关对外援助承诺，改善在叙利亚及周边国家的叙难民人道状况，帮助黎巴嫩政府减轻负担。他介绍，应黎政府要求，中方此次将提供大约1000吨小麦，以帮助在黎巴嫩的叙难民和接纳难民的社区。<br/><div class="contheight"></div>王克俭表示，中方将与黎巴嫩社会事务部合作，尽快把这些小麦运抵黎巴嫩并分发到难民手中，“为缓解地区冲突和人道主义状况贡献中国的一份力量”。<br/><div class="contheight"></div>吉斯尔感谢中方新一轮人道援助。他同时强调，黎中关系一直不断发展。<br/><div class="contheight"></div>2011年叙利亚危机爆发以来，大量叙利亚难民涌入黎巴嫩，给黎巴嫩带来沉重经济、社会等负担。为缓解在黎叙利亚难民人道状况，帮助黎应对难民危机，中国政府多次向黎提供人道主义援助。2017年，中国向黎巴嫩提供了2764吨大米的紧急人道主义粮食援助。<br/><div class="contheight"></div>（原标题《中国将向黎巴嫩提供新一轮紧急人道援助》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 黎巴嫩</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2763541">
+<div class="nbgbox">
+<a class="zan" contid="2763541" href="javascript:;" onclick="voteCont(this)" praisetimes="88">
+                           87</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 黎巴嫩</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2763541&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2763541&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

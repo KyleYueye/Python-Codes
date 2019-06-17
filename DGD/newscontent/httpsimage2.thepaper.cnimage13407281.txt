@@ -1,0 +1,78 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">隆回就营养餐征询意见：统一食堂供餐，采购有学生奶标识牛奶</h1>
+<div class="news_about">
+<p>胡权/隆回新闻网</p>
+<p>
+							2018-12-22 17:42<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">隆回新闻网12月22日消息，12月22日上午，隆回县组织教师、家长、县人大代表、县政协委员等社会各界人士就农村义务教育阶段学生营养餐临时配送方案进行座谈。县委常委、宣传部部长刘科棉表示，从2019年上学期开始，隆回县将积极探索学生营养餐食堂供餐模式，确保全县学生吃上安全、健康的营养餐。<br/><div class="contheight"></div>座谈会上，县教育局相关负责同志就全县农村义务教育阶段学生营养餐实施开展情况进行了全面介绍，并充分征询与会代表对学生营养餐临时配送方案的意见。与会代表围绕营养餐供餐模式、临时配送方案各抒己见、畅所欲言，积极为学生营养餐配送等建言献策。<br/><div class="contheight"></div>刘科棉和与会的相关部门负责同志认真听取了与会代表的发言，对各位代表提出的中肯意见和建议表示衷心感谢，并表示将充分吸收代表提出的意见和建议，进一步完善学生营养餐配送模式。<br/><div class="contheight"></div>就学生营养餐临时配送，代表们一致同意：对于有食堂供餐条件的学校，将采取统一食堂供餐模式替代牛奶等配送；对于尚无食堂供餐条件的学校，将马上集中采购有“学生奶”标识的学生牛奶替代。同时，要求学校在10摄氏度以下低温天气里，对有加热需求的学生提供加热条件。<br/><div class="contheight"></div>（原题为《隆回县就学生营养餐临时配送方案广泛征询社会各界意见》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2764018" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">记者实地探访“学生倒免费奶”事发学校：牛奶专供专派</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2761147" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">隆回再处置“贫困县学生倒掉免费奶”：暂停涉事企业供奶</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2751734" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">隆回处置“贫困县学生倒掉免费奶”：责成供应企业立即整改</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2749670" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">湖南隆回回应“贫困县学生倒掉免费奶”：天冷喝不完，怕过期</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 营养餐,牛奶</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2764202">
+<div class="nbgbox">
+<a class="zan" contid="2764202" href="javascript:;" onclick="voteCont(this)" praisetimes="58">
+                           57</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 营养餐</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2764202&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2764202&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

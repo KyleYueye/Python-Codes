@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25435">金改实验室</a>
+</div>
+<h1 class="news_title">央行行长易纲：要立足高质量脱贫，有效加强扶贫领域风险防范</h1>
+<div class="news_about">
+<p>央行网站</p>
+<p>
+							2018-12-26 19:12<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">2018年12月25日，中国人民银行扶贫开发工作领导小组会议暨定点扶贫工作座谈会在北京、铜川两地同时召开。会议深入总结了2018年人民银行定点扶贫工作，研究部署了2019年人民银行定点扶贫工作重点。人民银行行长易纲出席会议，对人民银行要在助力打赢脱贫攻坚战中做表率提出明确要求，并亲切慰问宜君县、印台区干部群众和人民银行驻铜工作组。人民银行副行长、人民银行扶贫开发工作领导小组组长刘国强主持会议。<br/><div class="contheight"></div>易纲指出，改革开放40年来，我国反贫困事业取得了巨大成就。党领导下的金融事业不断开创新局面，为扶贫开发事业创造了良好金融环境，作出了重要贡献。金融扶贫是新时期党中央扶贫开发的重要制度安排，是脱贫攻坚的重点工程。人民银行坚决贯彻党中央国务院决策部署，高度重视金融扶贫工作，认真履行金融精准扶贫和金融单位定点扶贫“双牵头”职责，先后出台系列金融政策，推动金融精准扶贫真正落地。携手中央金融单位立足地区实际、发挥行业优势，探索新时期金融定点扶贫工作路径。同时，构建人民银行大扶贫工作格局，把定点扶贫“责任田”打造成“金融政策落地、金融普惠实现、信用价值彰显、风险防范有效”的金融精准扶贫“示范田”，使定点扶贫体现金融特点、彰显金融价值，展现金融担当。<br/><div class="contheight"></div>易纲强调，当前脱贫攻坚任务还很艰巨，贫困地区存在的缺人才、缺技术、缺资金等“三缺”问题，是市场日益发达、竞争日益激烈的真实反映。金融助推脱贫攻坚要跟上新时代的要求。要总结改革开放40年取得成绩的经验，回归常识，尊重规律，为帮扶区县出思路、出政策、出资源，帮助贫困地区找到符合社会主义市场经济条件下的发展道路，培育完善市场机制，主动应对市场竞争，实现真正脱贫。要坚持扶贫先扶志，激发贫困群众内生动力，克服“等靠要”思想，提升核心竞争力，巩固脱贫成效，实现永久脱贫。要坚持扶贫必扶智，继续加大教育帮扶力度，提升群众文化素养，阻断贫困代际传递，让贫困地区早日摆脱贫困。<br/><div class="contheight"></div>易纲指出，2019年是打赢脱贫攻坚战极为关键的一年。人民银行全系统要把握新形势、适应新要求，推动金融扶贫和定点扶贫工作再上新台阶，为坚决打赢脱贫攻坚战作出新的更大贡献。要坚持政治统领，增强打赢脱贫攻坚战的责任感和使命感，在思想上、行动上与中央要求对标，精准落实扶贫任务。要发挥自身优势，展现脱贫攻坚的央行担当，做定点扶贫的力行者、金融精准扶贫的先行者、金融单位定点扶贫的示范者。要立足高质量脱贫，有效加强扶贫领域风险防范，处理好履行社会责任与防控风险关系。要巩固专项治理成果，持续加强扶贫领域作风建设，打造让党放心、让群众满意的扶贫队伍。要做好脱贫巩固提升，有效衔接乡村振兴战略，把帮扶地区建成社会主义新农村。<br/><div class="contheight"></div>人民银行扶贫开发领导小组成员单位、南京分行、铜川市和宜君县、印台区的有关负责同志，铜川市中心支行有关同志参加会议。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑景昕<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 快讯</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2777718">
+<div class="nbgbox">
+<a class="zan" contid="2777718" href="javascript:;" onclick="voteCont(this)" praisetimes="10">
+                           9</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 快讯</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2777718&caid=25435",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2777718&amp;caid=25435" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

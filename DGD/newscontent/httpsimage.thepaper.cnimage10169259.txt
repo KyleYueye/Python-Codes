@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">去哪投诉奇葩证明？司法部开通“证明事项清理投诉监督平台”</h1>
+<div class="news_about">
+<p>澎湃新闻记者 邵克 实习生 苏琦</p>
+<p>
+							2018-09-05 11:15<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">司法部9月5日举行新闻发布会，司法部部长傅政华介绍，为了广泛倾听民意，接受群众对地方和部门设立的“奇葩证明”、循环证明、重复证明等问题的投诉，找到涉及群众利益的堵点、痛点，切实解决群众和企业办事创业的突出问题，督促指导地方和部门做好证明事项清理工作，司法部在中国法律服务网上正式开通“群众批评——证明事项清理投诉监督平台”，群众可通过网站和手机客户端提出意见建议。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="351" src="http://image.thepaper.cn/www/image/10/169/969.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">中国法律服务网页面截屏。</span><br/><div class="contheight"></div>司法部介绍，投诉平台在中国法律服务网首页设置专栏，方便群众登录。采用姓名加手机号实名注册制，群众有意见建议即可点击“我要批评”提出。有关意见建议和问题，既可以在中国法律服务网的网站上提，也可以在手机客户端上提。收到群众提出的意见建议和问题后，司法部会及时在线转送相关地方和单位予以处理。涉及司法部部本级的事项，由部机关相关司局、直属单位办理。涉及地方司法行政部门的事项，在线转送各地方司法厅（局）办理。涉及国务院各部门部本级（包括部门管理的国家局）或者实行垂直领导体制本系统的事项，在线转送国务院部门负责清理工作的机构研究处理。涉及地方政府及其工作部门的事项，在线转送相关省、自治区、直辖市负责证明事项清理的牵头单位，同时抄送国务院相关部门负责清理工作的机构。<br/><div class="contheight"></div>在将相关信息转送至地方和部门的平台管理员账号后，管理员可以通过移动端或电脑端登录平台研究转送相关意见建议，办理单位或牵头单位要在要求时限内向意见提请人反馈处理情况，同时，向司法部在线反馈处理结果司法部证明事项清理工作领导小组办公室会定期统计汇总投诉意见情况和有关单位研究处理情况，在中国法律服务网上向社会公布，对办理及时、群众满意的进行宣传，对办理不及时、群众不满意的，专门进行督促指导对存在的共性问题提出改进工作的建议。<br/><div class="contheight"></div>司法部介绍，同时，司法部证明事项清理工作领导小组办公室向各地区各部门以及本部机关各司局、各地司法厅（局）印发通知明确平台管理员登录、转送、反馈和督办清理工作的职责，以及反馈处理结果的时限要求。同时，抽调五名工作人员成立平台信息跟踪处理小组，及时转送、处理证明事项清理投诉监督平台上的群众批评、意见。<br/><div class="contheight"></div>2018年5月，中共中央办公厅、国务院办公厅印发的《关于深入推进审批服务便民化的指导意见》（厅字（2018）22号），明确要求持续开展“减证便民”行动，全面清理烦扰企业和群众的“奇葩”证明、循环证明、重复证明等各类无谓证明，大力减少各种繁琐环节和手续。6月，国务院办公厅印发《关于做好证明事项清理工作的通知》（国办发（2018）47号），要求各地区各部门对证明事项进行全面清理，明确凡没有法律法规依据的一律取消。对法律、行政法规设定的证明事项可以通过法定证照、书面告知承诺、政府部门内部核查和部门间核査、网络核验、合同凭证等办理的，能被其他材料涵盖或者替代的，开具单位无法调查核实的，以及不适应形势需要的证明事项，也要研究取消。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2409958" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">司法部部长人民日报撰文：在全面推进依法治国中展现新作为</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：胥辉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 司法部 投诉监督</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2410260">
+<div class="nbgbox">
+<a class="zan" contid="2410260" href="javascript:;" onclick="voteCont(this)" praisetimes="1387">
+                           1386</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 司法部</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2410260&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2410260&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（376）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">韩国青瓦台被检方搜查，系文在寅上台后首次</h1>
+<div class="news_about">
+<p>刘强/海外网</p>
+<p>
+							2018-12-26 17:19<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="308" src="http://image.thepaper.cn/www/image/13/523/259.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">韩国总统府青瓦台</span></div><div style="text-align:center;"><img alt="" height="343" src="http://image.thepaper.cn/www/image/13/523/66.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">韩国记者在青瓦台特別监察班办公室外拍照<br/><div class="contheight"></div></span>海外网12月26日消息，据韩联社报道，今天（26日），韩国首尔东部地方检察厅对青瓦台进行搜查取证，原因是在野的自由韩国党举报青瓦台特别监察班等机构涉嫌非法监视平民。当天，青瓦台方面回应，对搜查全力提供配合。<br/><div class="contheight"></div>报道说，这是文在寅政府成立以来，青瓦台首次遭检方搜查。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="486" src="http://image.thepaper.cn/www/image/13/522/986.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">文在寅<br/><div class="contheight"></div></span>根据报道，检方对青瓦台民政首席秘书室下属反腐败秘书室和特别监察班进行了搜查。 反腐败秘书室位于总统办公室所在的青瓦台与民馆，特别监察班则在中央政府首尔办公楼的昌成洞分馆。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="343" src="http://image.thepaper.cn/www/image/13/523/63.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">韩国记者在特别监察班办公楼前等待<br/><div class="contheight"></div></span>据悉，检方在青瓦台楼内没有进行强制搜查，而是由青瓦台方面主动提交材料。根据韩国《刑事诉讼法》，对涉及军事机密的场所进行搜查必须得到负责人批准。另外，对前任和现任公务员的物品进行搜查也需得到其所属部门的批准。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="308" src="http://image.thepaper.cn/www/image/13/523/75.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">韩国记者在特别监察班办公地附近等待<br/><div class="contheight"></div></span>近日，在野的自由韩国党指责青瓦台特別监察班非法监视普通民众，并于12月20日向检方检举青瓦台秘书室长任钟晳、民政首席秘书曹国、反腐败秘书朴炯哲、特別监察班前负责人李仁杰等4人。<br/><div class="contheight"></div>（原题为《韩国青瓦台被检方搜查 系文在寅上台后首次》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 韩国,青瓦台,搜查</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776786">
+<div class="nbgbox">
+<a class="zan" contid="2776786" href="javascript:;" onclick="voteCont(this)" praisetimes="50">
+                           49</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 青瓦台</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776786&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776786&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

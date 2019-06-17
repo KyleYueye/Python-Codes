@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25433">地产界</a>
+</div>
+<h1 class="news_title">港珠澳大桥通车带动下，11月澳门入境旅客同比大增15%</h1>
+<div class="news_about">
+<p>澎湃新闻记者 陶宁宁</p>
+<p>
+							2018-12-24 10:07<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="330" src="http://image.thepaper.cn/www/image/13/446/574.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">港珠澳大桥全线通车运营（10月24日无人机拍摄）。 新华社 图<br/><div class="contheight"></div></span>根据澳门特区政府统计暨普查局公布的官方数据，在港珠澳大桥通车带动下，11月入境旅客同比大增15.3%，达到326.63万人次。其中，内地旅客有228.36万人次，同比上升15.3%。官方数据还显示出，取道陆路入境旅客有明显的增长，但经海路入境旅客则大幅减少。<br/><div class="contheight"></div>11月入境澳门旅客数环比上升了3.6%，其中留宿旅客158.92万人次，不过夜旅客167.7万人次，同比分别增加5.1%和26.9%。旅客平均逗留1.2日，与去年同月持平。留宿旅客上升0.1日至2.2日。<br/><div class="contheight"></div>11月，共计有228.36万人次的内地旅客入境澳门，同比上升15.3%，其中个人游旅客增加19.1%至105.56万人次。<br/><div class="contheight"></div>内地旅客主要来自于广东省及湖南省，数量分别达到92.54万人次和11.58万人次。中国香港的旅客为59.11万人次，按年上升25.6%。<br/><div class="contheight"></div>港珠澳大桥的通车对游客数量的提升带来不小助力。澳门特区政府统计暨普查局官方数据显示，按入境方式统计，因港珠澳大桥通车，取道陆路入境的旅客同比大增47.9%，达231.5万人次，当中有多达43.67万人次经港珠澳大桥入境。<br/><div class="contheight"></div>但另一方面，经海路入境的旅客则大幅减少33.7%至67.85万人次；经外港客运码头和氹仔客运码头入境的旅客分别下跌了31.9%和36.3%。<br/><div class="contheight"></div>此外，从空路入境的旅客为27.28万人次，同比增加11.3%。<br/><div class="contheight"></div>统计数据还显示，今年前11个月，入境澳门旅客累计达3223.38万人次，同比增加9.1%。其中内地旅客达2281.16万人次，同比上升13.3%。中国香港旅客为564.62万人次，同比上升1.0%。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘秀浩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 港珠澳大桥</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2767941">
+<div class="nbgbox">
+<a class="zan" contid="2767941" href="javascript:;" onclick="voteCont(this)" praisetimes="62">
+                           61</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 港珠澳大桥</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767941&caid=25433",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767941&amp;caid=25433" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

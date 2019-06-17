@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">沪徐汇警方约谈快递外卖企业：饿了么美团一月交通违法千余起</h1>
+<div class="news_about">
+<p>澎湃新闻记者 朱奕奕</p>
+<p>
+							2019-01-10 13:50<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“两快”（快递+外卖）骑手成为交通违法行为的高发群体。<br/><div class="contheight"></div>1月10日上午，上海徐汇交警部门召集辖区快递、外卖企业负责人进行集中约谈，对前期发现积累的400余起“骑手”交通违法信息进行集中通报。<br/><div class="contheight"></div>美团、饿了么、必胜客宅急送、韵达、申通等企业区域负责人都到会，各负责人的座位前方有该企业骑手交通违法记录。其中美团、饿了么成“违法大户”。据徐汇交警部门透露，仅2018年12月6日至2019年1月5日，美团“两快”违法538起，饿了么“两快”违法699起。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="393" src="http://image.thepaper.cn/www/image/14/114/93.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">1月10日上午，上海徐汇交警部门召集辖区快递、外卖企业负责人进行集中约谈</span><span style="color: rgb(128, 128, 128);">。澎湃新闻记者 朱奕奕 摄<br/><div class="contheight"></div></span>2018年以来，徐汇公安交警部门通过“你最痛恨的交通违法行为”网络投票活动，了解群众“最痛恨”的交通违法行为，并重点加大对非机动车闯红灯、逆向行驶、违反禁令标志等交通违法行为开展不间断整治。<br/><div class="contheight"></div>一年多来，在有民警值守的路口，这三种“最痛恨”的违法行为现场查处数出现了同比下降，路口交通秩序明显改观。但是在没有民警值守的路口，这些行为依然存在，“两快”骑手尤为明显是违法行为的高发群体。<br/><div class="contheight"></div>据徐汇交警部门介绍，2018年徐汇区非机动车驾驶事故共23.3万起，其中“两快”骑手造成的有7.8万起，占33%。而“两快”事故中，违法行为集中在逆行、不按交通信号灯行驶、非机动车在机动车道行驶三类行为，占比72%，“而这也是最危险的交通违法行为”。<br/><div class="contheight"></div>“若骑手存在多次违法行为将被清退。”美团外卖区域负责人表示，目前美团的骑手都需要佩戴工服工帽，接受交通安全培训并且通过测试才能上岗，内部也有奖惩机制，单次违法100元，多次违法会被清退，机制上线以来，骑手驾驶违法行为比同比下降了36%，未来也将继续增强企业重视程度。<br/><div class="contheight"></div>警方将尝试以科技手段带动执法手段的转变和提升。<br/><div class="contheight"></div>徐汇交警部门介绍，目前，分局交警部门已探索尝试综合运用电子牌照、视频加无线传输等科技手段升级，及时发现“两快”骑手交通违法行为，并采取“无现场”处罚的方式，加大对“两快”骑手交通违法行为的整治力度。<br/><div class="contheight"></div>针对多次违规、约谈无效的企业，建议相关部门限制其经营规模，倒逼用人单位制定更有效的交通安全教育监督制度，提高“两快”从业人员交通安全意识。<br/><div class="contheight"></div>徐汇交警部门主动跨前，已将本区“饿了么”“美团”等快餐和“顺丰”“中通”等快递企业的所有站点纳入日常管理，组建“两快”企业站长微信群，除了加强针对性的交通安全宣传外，还将“两快”骑手的违法行为及时通报企业，督促企业履行主体责任。<br/><div class="contheight"></div>此外，徐汇交警部门还主动参与“两快”骑手日常管理。除定期召开“两快”企业交通安全座谈会外，还建立民警参加外卖骑手晨会制度，加强交通安全宣传和守法教育；同时，对有违法记录的“两快”骑手进行强制性脱产培训，集中组织观看全国各地“两快”骑手交通违法事故视频，达到警钟长鸣目的。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑浩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 快递,外卖,交通违法</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836232">
+<div class="nbgbox">
+<a class="zan" contid="2836232" href="javascript:;" onclick="voteCont(this)" praisetimes="17">
+                           16</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 交通违法</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836232&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836232&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

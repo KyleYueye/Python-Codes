@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25491">长三角政商</a>
+</div>
+<h1 class="news_title">小伙通过驾考约好友喝酒庆祝，酒驾摩托被查获后驾照被吊销</h1>
+<div class="news_about">
+<p>毛晓华/现代快报网</p>
+<p>
+							2018-12-25 17:21<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">现代快报12月25日报道，泰兴男子丁某日前参加C1驾驶证科目四考试成功通过，获得C1驾驶资格，第二天就可以领取驾驶本。兴奋不已的丁某当晚约了亲朋好友10人一起到火锅店庆祝，席间推杯换盏。酒足饭饱后丁某驾驶摩托车回家路上被夜查交警查获，这离丁某取得C1驾驶资格仅仅过去了4个小时，还没见到驾照模样就被吊销，可谓 " 最短命 " 的驾照。<br/><div class="contheight"></div>12月24日下午3点左右，丁某驾驶牌号为苏MTV**6的二轮摩托车（注销报废车）到泰兴机动车驾驶证考场参加C1驾驶证科目四考试，4点进入考场，5点考试通过，从法律意义讲丁某已经取得了C1驾驶资格，第二天就可以领取驾驶本了。<br/><div class="contheight"></div>想想第二天就能领证，丁某有点小“激动”，回到张桥家中约了亲朋好友10人一起到泰兴城区某火锅城庆祝，席间丁某喝了白酒后还不过瘾，又来了几瓶啤酒“漱口”，气氛相当热闹。<br/><div class="contheight"></div>酒足饭饱后，丁某酒后驾驶摩托车回家，行驶至城区鼓楼南路与庆云路交叉路口时被夜查交警查获，经呼气式酒精测试丁某酒精含量为 116.6hg/100ml。<br/><div class="contheight"></div>丁某因涉嫌醉驾、准驾不符、驾驶报废机动车将面临驾驶证被吊销、罚款、拘役等行政、刑事处罚。<br/><div class="contheight"></div>目前此案还在进一步办理之中。<br/><div class="contheight"></div>交警提醒，人们如今都把喝酒不开车开车不喝酒放在嘴边，但就是有人抱有侥幸心理，认为自己喝了酒 , 车子还是能够正常驾驶 , 况且公安交警也不一定能查到自己，这既是对自己也是对他人的不负责任。 <br/><div class="contheight"></div>（原题为《小伙通过驾考约好友庆祝，4小时后酒驾被吊销驾照》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 通过驾考,酒驾,吊销驾照</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2773030">
+<div class="nbgbox">
+<a class="zan" contid="2773030" href="javascript:;" onclick="voteCont(this)" praisetimes="19">
+                           18</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 驾照</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2773030&caid=25491",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2773030&amp;caid=25491" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

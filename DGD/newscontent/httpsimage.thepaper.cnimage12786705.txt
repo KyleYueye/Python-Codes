@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25455">艺术评论</a>
+</div>
+<h1 class="news_title">一幅前拉斐尔派画家素描首次公开，曾在二手书店被意外淘得</h1>
+<div class="news_about">
+<p>澎湃新闻综合报道</p>
+<p>
+							2018-12-06 11:31<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>英国剑桥大学菲茨威廉博物馆近日举办的“Ivor Batchelor 夫妇遗赠展”，一幅英国前拉斐尔派画家 但丁·加百利·罗塞蒂（Dante Gabriel Rossetti）的素描将首次公开展出。这幅画作于1956年由 Ivor Batchelor 夫妇在爱丁堡一家二手书店意外淘得，当时售价只有75英镑。<div style="text-align:center;"><img alt="" height="360" src="http://image.thepaper.cn/www/image/12/786/464.jpg" width="600"/></div></u><span style="color: rgb(128, 128, 128);">粉彩素描，但丁·加百利·罗塞蒂</span><br/><div class="contheight"></div>这幅粉彩素描是油画《Pia de Tolomei》的草稿，描绘了一名女子倚靠在植物墙边的场景，画面中的女子名为 Alexa Wilding，曾是罗塞蒂最常使用的模特之一。1868年罗塞蒂完成油画终稿，画面中的人物则替换为他的情人 Jane Morris。<div style="text-align:center;"><img alt="" height="561" src="http://image.thepaper.cn/www/image/12/786/462.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">《Pia de Tolomei》，但丁·加百利·罗塞蒂，1868年</span><br/><div class="contheight"></div>Jane Morris 从1868年起成为罗塞蒂的专属模特，后者以她为原型完成了多幅画作，包括1872年的《牧场聚会》、1878年的《受祝福的少女》等。<div style="text-align:center;"><img alt="" height="812" src="http://image.thepaper.cn/www/image/12/786/532.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">《牧场聚会》（The Bower Meadow），1872年<div style="text-align:center;"><img alt="" height="929" src="http://image.thepaper.cn/www/image/12/786/469.jpg" width="500"/></div></span>《受祝福的少女》（The Blessed Damozel），1878年<br/><div class="contheight"></div>1956年，Ivor Batchelor 夫妇在爱丁堡一家二手书店中意外发现这幅素描画，以75英镑购买并收藏这幅画作。Ivor 表示，“这是罗塞蒂一件尺幅较大且完成度较高的素描画，能够获得这幅画作确实是意外收获。”2005年 Ivor 去世后，这幅画作与其他藏品一同被遗赠给剑桥大学菲茨威廉博物馆。<br/><div class="contheight"></div>值得一提的是，这幅画作仍然保留着最初的画框—— 罗塞蒂在画作背面写有警告语，要求后人避免更换框架以免破坏画作原本的粉彩质感。<div style="text-align:center;"><img alt="" height="360" src="http://image.thepaper.cn/www/image/12/786/465.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">工作人员正在悬挂罗塞蒂的粉彩素描</span><br/><div class="contheight"></div>本次展览将从12月4日持续至2019年3月3日，展出 Ivor Batchelor 夫妇收藏的美术作品及装饰艺术品，包括罗塞蒂、约翰·拉斯金（John Ruskin）、威廉·奥宾（William Orpen）、华特·席格（Walter Sickert） 和 格温·约翰（Gwen John） 等人的画作，以及瓷器、玻璃器、青铜器和陶器等工艺品。<br/><div class="contheight"></div><u>展览名称“Ivor Batchelor 夫妇遗赠展”将从2018年12月4日持续至2019年3月3日。</u></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：钱雪儿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 前拉斐尔派，剑桥大学</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2694496">
+<div class="nbgbox">
+<a class="zan" contid="2694496" href="javascript:;" onclick="voteCont(this)" praisetimes="64">
+                           63</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 前拉斐尔派</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2694496&caid=25455",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2694496&amp;caid=25455" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

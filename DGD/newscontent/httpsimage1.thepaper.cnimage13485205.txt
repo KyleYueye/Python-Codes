@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25423">人事风向</a>
+</div>
+<h1 class="news_title">37岁女干部孙丽娜任河北固安县代县长，曾任团沧州市委书记</h1>
+<div class="news_about">
+<p>澎湃新闻记者 王哿</p>
+<p>
+							2018-12-25 13:02<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日，河北廊坊市固安县政府迎来一位“80后”女性“一把手”。<br/><div class="contheight"></div>据《京南时讯》消息，12月20日，固安县第十七届人大常委会召开第15次会议。会议以投票表决的方式通过并任命孙丽娜同志任固安县人民政府副县长、代县长。<br/><div class="contheight"></div>此外，固安县官方公开的孙丽娜简历还提到，孙丽娜此前已出任固安县委副书记、县政府党组书记等职务。<br/><div class="contheight"></div>公开简历显示，现年37岁的孙丽娜（1981.3）是河北献县人，2003年8月参加工作，2001年7月加入中国共产党，研究生学历。她此前担任沧州河间市委常委、常务副市长。<br/><div class="contheight"></div>孙丽娜从廊坊师范学院外语系英语教育专业毕业后选调至肃宁县肃宁镇政府出任镇长助理。此后，孙丽娜担任肃宁县人大常委会秘书，肃宁县皮草加工出口基地管委会副主任科员，肃宁县皮草加工出口基地管委会副主任，肃宁县委宣传部副部长。<br/><div class="contheight"></div>2008年，孙丽娜出任共青团沧州市委副书记（试用期一年），党组成员。此后，孙丽娜先后担任共青团沧州市委书记、党组书记，泊头市委副书记（正处级），河间市委常委、副市长（分管政府常务工作，正处级）等职务。<br/><div class="contheight"></div>此前担任固安县委副书记、县长的王海已出任固安县委书记一职。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：钟煜豪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 女干部，固安县</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772384">
+<div class="nbgbox">
+<a class="zan" contid="2772384" href="javascript:;" onclick="voteCont(this)" praisetimes="45">
+                           44</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 河北人事</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772384&caid=25423",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772384&amp;caid=25423" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

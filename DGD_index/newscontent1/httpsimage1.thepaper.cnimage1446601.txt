@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">新加坡政府2021年起接管130万份乐龄健保保单</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-08 21:59<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新加坡卫生部已与三家私人保险业者达成协议，从2021年起接管三家各自承保的130万份乐龄健保（ElderShield）保单，这批保单估计价值29亿美元（约合人民币198.75亿元）。新加坡《联合早报》8日报道称，据信这是私人业者的保险业务首次在新转为国有化。<br/><div class="contheight"></div>新加坡卫生部7日发布报告称，从2021年起，将从三家私人保险业者手中接管130万份乐龄健保保单。这批保单总值约29亿美元。报告指出，政府接管后，乐龄健保保户将更顺畅地升级至终身护保（CareShield Life），获得更好的保障。若保户选择不升级、继续使用乐龄健保，政府接管后保单仍维持现状。<br/><div class="contheight"></div>新加坡卫生部承诺称，政府将确保在非营利基础上管理乐龄健保，“若实际索偿情况优于预期，保户还是能继续享有保费回扣。“<br/><div class="contheight"></div>此外，保单索偿评估程序将得到改进，让保户从中受益。比如若出现认知障碍如失智症，以致日常活动无法自理，也可以索偿。目前的索偿评估标准为，如果因为残疾而无法进行冲凉、进食、更衣、如厕、在室内走动、下床坐上椅子或轮椅六项日常活动中的任何三项，投保人和看护者便可向保险公司提出申请。<br/><div class="contheight"></div>“这意味着目前受保于乐龄健保的130万名国人，保单将从2021年由政府管理，并将跟2020年起受保的新保户一样，可在更具包容性的索偿条件下统一受保。”新加坡《联合早报》在8日的报道中评论道。<br/><div class="contheight"></div>据悉，乐龄健保是新加坡一项重度残障保险计划，主要为那些需要接受长期护理的本国公民减轻经济负担。拥有公积金保健储蓄户头的新加坡公民和永久居民，年满40岁时都会自动受保。乐龄健保计划目前由三家保险公司管理，它们是英杰华（Aviva）、大东方（Great Eastern）以及职总英康（ NTUC Income）。<br/><div class="contheight"></div>新加坡卫生部2016年委任乐龄健保检讨委员会，之后该委员会组织了多场讨论会，并咨询大量新加坡公民意见，试图加强乐龄健保计划。<br/><div class="contheight"></div>据《联合早报》去年年初报道，乐龄健保检讨委员会于2018年1月30日发布中期报告，为提议加强现有乐龄健保计划提出了四项建议，其中之一即为政府从保险公司手中收回管理权限。理由是由政府来管理乐龄健保计划，可以更容易地管理旗下的津贴计划，因为这些计划需根据个人经济情况来发放津贴。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘惠<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 新加坡,养老改革,重疾险</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828879">
+<div class="nbgbox">
+<a class="zan" contid="2828879" href="javascript:;" onclick="voteCont(this)" praisetimes="51">
+                           50</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 养老改革</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828879&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828879&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

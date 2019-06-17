@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">朝鲜《劳动新闻》：北南关系不应成为美对朝敌视政策的牺牲品</h1>
+<div class="news_about">
+<p>程大雨/新华社</p>
+<p>
+							2019-01-03 19:49<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社平壤1月3日消息，朝鲜劳动党中央委员会机关报《劳动新闻》3日刊发评论文章，强调北南关系不应成为朝美关系附庸，批评美国干涉北南关系发展速度、坚持对朝敌视政策，呼吁北南双方大胆推进双方关系发展。<br/><div class="contheight"></div>文章表示，在当前全民族期待北南关系取得更大进展的时候，华盛顿政界依然不断发出“北南关系不能走在朝美关系前面”“北南关系应与朝美无核化谈判并行推进”等要求调整北南关系发展速度的论调。<br/><div class="contheight"></div>文章表示，虽然去年北南关系发生了惊人变化，但细究起来几乎仍是处于有形式无内容的停滞状态。北南双方达成的许多协议在实际履行中尚存各种问题，原因就在于美国表面支持北南改善关系，实际却从中作梗。<br/><div class="contheight"></div>文章说，美国这一态度的根源在于其对朝敌视政策没有改变。现实表明，美国受其自身战略利益驱使与朝进行对话，但这并不是为了与朝鲜建立良好而全新的关系，而只是为了剥夺朝鲜的核武器并使朝鲜屈服。<br/><div class="contheight"></div>文章说，北南关系不应成为美国对朝敌视政策的牺牲品，北南双方应更加大胆地加速推进北南关系发展。美国也应摆脱看待北南关系的过时思维方式，北南关系不会损害美国的战略利益，反而会带来帮助。<br/><div class="contheight"></div>（原题为《朝鲜媒体说北南关系不应成为朝美关系附庸》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 朝鲜,北南关系,美国</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2810384">
+<div class="nbgbox">
+<a class="zan" contid="2810384" href="javascript:;" onclick="voteCont(this)" praisetimes="55">
+                           54</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 朝美关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2810384&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2810384&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

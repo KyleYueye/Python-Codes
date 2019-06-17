@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">朝鲜官媒：朝韩关系永远不会成为朝美关系的附属品</h1>
+<div class="news_about">
+<p>刘强/海外网</p>
+<p>
+							2019-01-03 10:41<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网1月3日消息，朝鲜劳动党机关报《劳动新闻》3日发表署名评论，指出美方妨碍朝韩关系的发展，并对制裁背景下朝韩经济合作项目进展有限表示失望。评论还强调“朝韩关系绝不会成为朝美关系的附属品”。<br/><div class="contheight"></div>评论指出，美国政界有人鼓吹“朝韩关系的发展不能走在朝美关系之前”“朝韩关系应该与朝美无核化谈判进程一致”，这些说法，引发朝鲜半岛全民族的忧虑。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/838/438.jpg" width="100%"/></div><span style="color: rgb(128, 128, 128);">朝韩铁路和公路对接项目开工仪式（青瓦台）<br/><div class="contheight"></div></span>评论说，去年12月26日，朝韩代表团在朝鲜开城板门火车站举行朝韩铁路和公路对接项目开工仪式。虽然此举迈出了连接民族血脉的第一步，但也仅仅停留在仪式阶段，没有真正动土。可谓一场“外力胁迫下的悲剧”，“地球上找不到这样一个案例，举行了开工仪式，却没有真正动土”。<br/><div class="contheight"></div>评论还指出，是美国始终未变的对朝敌对政策导致了这些限制。它还呼吁韩国独立于美朝关系，推动朝韩关系向前发展。并表示，朝韩关系的改善将导致朝美关系随之进步。<br/><div class="contheight"></div>评论强调，现在是美国改变其处理朝韩关系的观点和态度的时候。“朝鲜与韩国的关系，永远不会成为朝美关系的附属品。”<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/838/437.png" width="100%"/></div><span style="color: rgb(128, 128, 128);">金正恩发表新年贺词。（朝中社）</span><br/><div class="contheight"></div>据海外网早前报道，新年伊始，朝鲜最高领导人金正恩发表贺词，他重申要坚定不移地实现朝鲜半岛无核化；愿意进一步发展朝韩、朝美关系，随时准备和美国总统特朗普再次举行会谈。<br/><div class="contheight"></div>1月2日，特朗普回应金正恩新年讲话，称“金正恩委员长很清楚地认识到朝鲜拥有巨大的经济潜力，我也期待与他会晤。”<br/><div class="contheight"></div>（原题为《朝鲜官媒：朝韩关系，绝不会成为朝美关系附属品》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 朝韩关系,朝鲜</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2807406">
+<div class="nbgbox">
+<a class="zan" contid="2807406" href="javascript:;" onclick="voteCont(this)" praisetimes="52">
+                           51</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 朝韩关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2807406&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2807406&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

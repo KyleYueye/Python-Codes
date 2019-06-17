@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">俄居民楼天然气爆炸事故已致4死35人失踪，普京亲赴现场</h1>
+<div class="news_about">
+<p>栾海/新华网</p>
+<p>
+							2019-01-01 00:42<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华网莫斯科12月31日消息，俄罗斯西部车里雅宾斯克州马格尼托哥尔斯克市31日凌晨发生的居民楼天然气爆炸事故，造成该楼一个单元的建筑从上到下全部垮塌，人员伤亡严重。俄总统普京亲自赶往事故现场听取情况汇报。<br/><div class="contheight"></div>据俄紧急情况部网站发布的消息，此次天然气爆炸发生在马格尼托哥尔斯克市西部的一幢10层居民楼，该事故已造成4人死亡、5人受伤，另有35人下落不明。事发后被疏散的居民已在附近学校得到安置。<br/><div class="contheight"></div>据幸存者回忆，爆炸发生在该单元楼下部某楼层，在爆炸后数分钟内楼房并未发生垮塌，住在高层的部分居民从阳台不停向下观望。当听到有人呼喊“打电话叫救护车、消防队”并看到火光后，一些意识到危险的居民才从楼内逃出。随后该单元的住宅整体垮塌。<br/><div class="contheight"></div>俄总统普京在事发后乘机抵达马格尼托哥尔斯克市，视察事故现场并听取车里雅宾斯克州州长的情况汇报。俄总理梅德韦杰夫同日对这次事故中的遇难者表示哀悼，对死者家属表示慰问，并表示俄政府将采取一切必要措施救治伤者。<br/><div class="contheight"></div>目前，俄救援队正借助无人机和嗅探犬昼夜搜救并清理废墟。马格尼托哥尔斯克市的气温现约为零下17摄氏度。救援负责人担心，随着时间流逝，在废墟下找到生还者的希望会越来越小。<br/><div class="contheight"></div>据悉，俄联邦侦查委员会正对此次事故展开刑事调查。<br/><div class="contheight"></div>（原题为《俄居民楼天然气爆炸事故人员伤亡严重 普京亲赴现场》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王建亮<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 俄罗斯,天然气爆炸,居民楼坍塌</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2801236">
+<div class="nbgbox">
+<a class="zan" contid="2801236" href="javascript:;" onclick="voteCont(this)" praisetimes="60">
+                           59</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 俄天然气爆炸</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2801236&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2801236&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

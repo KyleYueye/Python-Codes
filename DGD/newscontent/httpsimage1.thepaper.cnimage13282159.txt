@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">2018年全球性别差距日本排名小幅提升，冰岛居首</h1>
+<div class="news_about">
+<p>澎湃新闻记者 廖婧雯</p>
+<p>
+							2018-12-18 17:07<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">性别差距之一是备受全球关注的议题。<br/><div class="contheight"></div>据日本共同社12月18日消息，瑞士“世界经济论坛”（达沃斯论坛）18日发布了2018年版《全球性别差距报告》（以下简称“报告”）。报告显示，日本在149个调查对象国中居于第110位，因工资差距等缩小，排名较去年提升4位。不过在政治、经济领域的女性参与度方面，日本被认为没有进展，在日美欧等七国集团（G7）中垫底，在二十国集团（G20）中也处于落后位置。<br/><div class="contheight"></div>由于女性议员和阁僚较少，报告在政治领域（125位）对日本评价偏低，在经济领域（117位）也因女性高管较少等，比去年降低3位。报告指出日本“依然是男女平等方面没有进展的国家之一”。<br/><div class="contheight"></div>冰岛连续10年居首。挪威和瑞典分居二、三位，北欧各国排名靠前。G20中排名最高的是法国，居于第12位，其次是德国的第14位，美国居于第51位，中国居于第103位。<br/><div class="contheight"></div>另据日本广播协会NHK18日报道，在今年出台的报告书中还特别列出了在人工智能（AI）领域方面男女人才就业的差距。据调查，在AI专业领域就业的男女比例中，男性占78%，女性则占22%，具有显著的性别差异。<br/><div class="contheight"></div>研究性别问题的京都大学伊藤公雄教授就性别差距接受采访时表示，“国际上男女不平等问题仍然很明显。男性长时间工作和女性从事家务和育儿的男女分工结构让七八十年代形成的性别分工结构稳定发展，并且发展成为很大的成功经验。如果以后产业结构没有发生重大转变的话，既定的男女分工结构也不会得到改变。”<br/><div class="contheight"></div>世界经济论坛也在今年发布的报告中强调，“从全世界来看，政治领域的性别差距有所扩大等，消除差距的行动处于原地踏步状态。以当前速度要完全消除差距需要108年”。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李怡清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 全球性别差距报告,男女平等,日本</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2749738">
+<div class="nbgbox">
+<a class="zan" contid="2749738" href="javascript:;" onclick="voteCont(this)" praisetimes="327">
+                           326</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 全球性别差距报告</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2749738&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2749738&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

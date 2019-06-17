@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美偷猎者射杀百只鹿入狱，法院判其每月看一次《小鹿斑比》</h1>
+<div class="news_about">
+<p>张敏/海外网</p>
+<p>
+							2018-12-18 16:03<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="375" src="http://image.thepaper.cn/www/image/13/280/398.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">偷猎者小戴维·贝里  本文图片均来自海外网</span><br/><div class="contheight"></div>海外网12月18日消息，美国密苏里州的一名偷猎者因非法猎杀百余头鹿而被判入狱，他还被勒令反复观看迪士尼电影《小鹿斑比》（Bambi）。<br/><div class="contheight"></div>据英国广播公司(BBC)、美联社综合报道，这名29岁的偷猎者名叫小戴维·贝里（David Berry Jr），今年8月他与家人一起在密苏里州西南部的劳伦斯县捕杀了百余头鹿。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="337" src="http://image.thepaper.cn/www/image/13/280/448.jpg" width="600"/></div>当地动物保护机构称，这是密苏里州历史上最大的偷猎案件之一。<br/><div class="contheight"></div>劳伦斯县的检察官唐·特雷尔（Don Trotter）说，偷猎者在夜间行动，捕杀鹿的目的是获取鹿头，而鹿的身体则会被遗弃，任由其腐烂。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="407" src="http://image.thepaper.cn/www/image/13/280/400.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">迪士尼电影《小鹿斑比》</span><br/><div class="contheight"></div>贝里被判一年监禁，法官还下令，贝里在服刑期间需要反复观看迪士尼电影《小鹿斑比》。他需要在2018年12月23日前完成第一次观看，此后每个月至少要看一次。此外，贝里也因在假释期间违法使用枪械，需额外服刑120天。<br/><div class="contheight"></div>贝里和他的父亲老戴维·贝里（David Berry Sr）、两位兄弟以及另一名协助他们捕猎的男子被剥夺了狩猎和捕鱼的权利，并需为此支付5.1万美元（约合人民币35万元）的罚款和诉讼费。<br/><div class="contheight"></div>迪士尼经典动画《小鹿斑比》讲述的是一只小鹿的成长故事，是一部充满爱与温馨的作品。法官下令让偷猎者观看《小鹿斑比》，也是为了唤起他们的同情心，杜绝偷猎行为。<br/><div class="contheight"></div>（原题为：美国一偷猎者捕杀百余头鹿 法官判其在狱中看《小鹿斑比》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 偷猎者,小鹿斑比</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2749529">
+<div class="nbgbox">
+<a class="zan" contid="2749529" href="javascript:;" onclick="voteCont(this)" praisetimes="118">
+                           117</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 偷猎</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2749529&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2749529&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（637）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

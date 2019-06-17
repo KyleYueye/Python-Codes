@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">韩国10万名出租车司机罢工抵制拼车软件，急坏上班族</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2018-12-20 11:04<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="410" src="http://image.thepaper.cn/www/image/13/329/849.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">20日上午，韩国光州一家出租车公司院内，停满了罢工的车辆。</span><br/><div class="contheight"></div>为抵制Kakao公司推出的拼车软件car pool，今天（20日）凌晨4时起，韩国出租车团体开始长达24小时的罢工。当天下午，10万多名出租车司机还要在首尔汝矣岛举行第三轮大规模集会。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="390" src="http://image.thepaper.cn/www/image/13/329/841.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">20日上午，首尔市民在出租车站点排长队等车。</span><br/><div class="contheight"></div>目前，韩国虽然没有出现出租司机罢工引起的交通混乱，但普通市民的出行还是遭遇了很大不便，出租车站点排起了长队，但半天不见一辆车的影子，让上班族很是焦急。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="337" src="http://image.thepaper.cn/www/image/13/329/842.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">11月22日，出租车司机在首尔汝矣岛举行第二轮示威。</span><br/><div class="contheight"></div>据韩联社报道，即时通讯服务运营商Kakao原定于本月17日正式推出拼车服务，但因遭遇出租车行业激烈抗议而推迟上线，并决定积极听取各界意见后再决定上线日期。不过，拼车软件虽然推迟上线，仍然没有平复出租车行业的愤怒。<br/><div class="contheight"></div>今天（20日），罢工参加集会的数万名出租车司机，将于下午2时到4时在汝矣岛议事堂大街举行集会后，4时起从汝矣岛游行至麻浦大路。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="283" src="http://image.thepaper.cn/www/image/13/329/850.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">出租车打出标语“文在寅总统，请救救出租车”。</span><br/><div class="contheight"></div>韩国警方表示，集会时间正赶上下班交通高峰，难免会造成汝矣岛一带交通拥堵，建议市民驾车时最好选择绕行或利用公共交通。<br/><div class="contheight"></div>(原题为：《韩国10万出租司机罢工抵制拼车软件，急坏上班族》)</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：廖婧雯<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 韩国，出租车，罢工</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2755390">
+<div class="nbgbox">
+<a class="zan" contid="2755390" href="javascript:;" onclick="voteCont(this)" praisetimes="101">
+                           100</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 罢工</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2755390&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2755390&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（62）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25482">逝者</a>
+</div>
+<h1 class="news_title">著名川剧表演艺术家蓝光临病逝，享年83岁</h1>
+<div class="news_about">
+<p>封面新闻</p>
+<p>
+							2018-12-15 22:35<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="311" src="http://image.thepaper.cn/www/image/13/228/643.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">本文图片均来自封面新闻</span><br/><div class="contheight"></div>封面新闻12月15日消息，刚刚，封面新闻记者从成都市川剧研究院获悉，著名川剧表演艺术家蓝光临先生因病去世，享年83岁。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="532" src="http://image.thepaper.cn/www/image/13/228/644.jpg" width="400"/></div>蓝光临，1935年生，四川广安人。川剧名角，工文武小生，师从曾荣华、彭海清，代表曲目《夫妻桥》、《石怀玉惊梦》等。1963年赴北京演出，轰动首都，受邓小平、朱德、陈毅等人接见。剧评家胡沙题词赞扬他“一曲惊梦北京，好似当年魏长生”。1990年赴法国讲学川剧，开“川剧出国讲学”之先河。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="372" src="http://image.thepaper.cn/www/image/13/228/645.jpg" width="600"/></div>退休之后的蓝光临，继续发挥余热。去年，他指导排演的川剧《焚香记》上演。今年9月份，接受封面新闻《口述历史》栏目采访时，蓝光临曾表示：自己这一生很幸运，和杨淑英、陈书舫、竟华等大师都同过台，学到过真实的本领，也知道各家都擅长什么。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/228/646.jpg" width="600"/></div>蓝光临最大的心愿是将自己的所学所感、人生起伏写入书中出版。“我这一辈子，看到的就怕忘记，能够记下来，给后人留一些文字，也不枉我这一生从事川剧。”于是，他将自己耳濡目染的经历记录成文，取名《白塔秋枫集》。这本集子蓝光临从50多岁的时候就开始准备，有点什么念头就写下来，几经起伏。<br/><div class="contheight"></div>（原题为《著名川剧表演艺术家蓝光临病逝，享年83岁 曾为封面新闻录制＜口述历史＞》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 蓝光临病,川剧</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2743481">
+<div class="nbgbox">
+<a class="zan" contid="2743481" href="javascript:;" onclick="voteCont(this)" praisetimes="451">
+                           450</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 名人逝世</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2743481&caid=25482",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2743481&amp;caid=25482" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（307）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">卫健委谈2019年工作：将推动中医药振兴发展</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2019-01-10 17:07<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网1月10日电 10日下午，卫健委举行例行新闻发布会，新闻发言人胡强强就2019年卫生健康重点工作进行了简要介绍，提到推进健康中国建设、推动中医药振兴发展等十方面内容。<br/><div class="contheight"></div>胡强强称，2019年卫生健康重点工作共有十个方面内容。<br/><div class="contheight"></div><strong>一、推进健康中国建设</strong><br/><div class="contheight"></div>实施健康中国战略是一项复杂的系统工程，必须调动各方力量。我们将聚焦重要健康影响因素、重点人群和重点疾病，实施一批健康行动。以建设健康城市、健康乡村以及健康社区、健康企业、健康学校等“健康细胞”为基础，以卫生城镇创建、城乡环境卫生整洁行动、农村“厕所革命”等为载体，为实施健康中国战略提供有力保障。<br/><div class="contheight"></div><strong>二、整合医疗卫生资源</strong><br/><div class="contheight"></div>推进医联体建设，加强县医院建设，发展远程医疗，做实家庭医生签约服务。<br/><div class="contheight"></div><strong>三、“三医”联动改革</strong><br/><div class="contheight"></div>完善药品政策，完善国家基本药物制度，加强公立医院管理，配合开展医保支付方式改革。<br/><div class="contheight"></div><strong>四、构建更加成熟定型的分级诊疗制度</strong><br/><div class="contheight"></div>建立分级诊疗体系，从医疗服务体系、资源布局和功能调整完善入手，有效盘活存量，引导优质资源下沉，引导患者有序就医。<br/><div class="contheight"></div><strong>五、实施健康扶贫工程</strong><br/><div class="contheight"></div>完善基层医疗卫生服务能力建设长效机制。健全贫困群众医疗兜底保障制度。建立贫困地区健康危险因素防控长效机制。<br/><div class="contheight"></div><strong>六、做好重大疾病防控和公共卫生工作</strong><br/><div class="contheight"></div>在传染病防治、免疫规划、地方病防治、慢性病防治、职业病防治等方面持续发力。同时还要警惕和防控突发疫情。<br/><div class="contheight"></div><strong>七、促进人口均衡发展与健康老龄化</strong><br/><div class="contheight"></div>深入推进生育政策相关研究，加强人口监测和形势分析。促进婴幼儿照护服务事业发展。编制规划，积极探索建设整合型老年健康服务体系。<br/><div class="contheight"></div><strong>八、 推动中医药振兴发展</strong><br/><div class="contheight"></div>推进重点实验室建设和现代化关键技术装备研究，加强中医药知识产权保护，推动中医药走向世界。<br/><div class="contheight"></div><strong>九、加强卫生健康人才队伍建设</strong><br/><div class="contheight"></div>遵循医疗卫生行业人才成长规律，建设一支政治坚定、技术优良、品德高尚的队伍。<br/><div class="contheight"></div><strong>十、推动卫生健康治理体系和治理能力现代化</strong><br/><div class="contheight"></div>加强卫生健康法治建设，推进综合监管制度实施，加大监管整治力度。加强科技创新，深度参与全球卫生治理，服务国家外交大局和改革开放全局。<br/><div class="contheight"></div>（原题为《卫健委谈2019年工作：将推动中医药振兴发展》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：崔烜<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 国家卫健委 2019</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837060">
+<div class="nbgbox">
+<a class="zan" contid="2837060" href="javascript:;" onclick="voteCont(this)" praisetimes="9">
+                           8</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国家卫健委</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837060&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837060&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

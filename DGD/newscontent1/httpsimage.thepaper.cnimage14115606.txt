@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25438">财经上下游</a>
+</div>
+<h1 class="news_title">去年空管系统保障航班起降突破千万架次，创近9年最好纪录</h1>
+<div class="news_about">
+<p>樊曦/新华社</p>
+<p>
+							2019-01-10 13:23<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京1月10日消息，中国民用航空局空中交通管理局局长车进军10日表示，2018年我国空管安全运行实现稳中向好。全年共保障航班起降突破1000万架次，实现零事故、零事故征候，创造了近9年来最好的安全纪录。<br/><div class="contheight"></div>在2019年民航空管系统工作会议暨安全工作会议上，车进军表示，2018年空管运行效率和服务质量实现双提升。一年来，空中大通道建设捷报频传。M503北向航线和衔接线顺利启用，形成了港澳往来华东地区的海上“快车道”；成（都）拉（萨）复线成功开辟，大幅提升了西藏往返中东部地区和南亚、西亚地区的通行能力；沪哈大通道一期正式运行，中韩大通道全线贯通，山东半岛和渤海湾地区航路网由“十”字运行变为“井”字运行，区域容量大幅提升。<br/><div class="contheight"></div>随着空域环境进一步优化，航班延误治理取得积极成效。空中交通运行管理系统（ATOM）全面推广使用，流控发布机制更加科学，空管原因导致的不正常航班数占计划数的比例下降至0.45%，达到近年来最好水平。雷雨季节航班正常率同比提高19个百分点，全年航班正常率突破80%。<br/><div class="contheight"></div>车进军说，今年空管系统将进一步提升空管综合保障能力，加快推进北京、成都、青岛、大连新机场空管工程等重大项目建设，确保北京大兴国际机场顺利开航。同时着力提升海上和西部地区空域资源使用效率，推进京广大通道建设，进一步打通我国南北空中“大动脉”，加快长三角、粤港澳大湾区及海南地区空域优化，科学解决繁忙区域拥堵问题，确保空管原因导致的不正常航班数占计划航班数比例不超过5%。<br/><div class="contheight"></div>（原题为《2018年我国空管系统保障航班起降突破千万架次》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张珺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 空管安全</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836321">
+<div class="nbgbox">
+<a class="zan" contid="2836321" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 空管安全</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836321&caid=25438",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836321&amp;caid=25438" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

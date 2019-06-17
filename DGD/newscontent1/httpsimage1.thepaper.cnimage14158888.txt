@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">国戏公布2019本科招生简章：部分专业“三试”变“两试”</h1>
+<div class="news_about">
+<p>上官云/中新网客户端</p>
+<p>
+							2019-01-11 11:04<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">10日，记者从中国戏曲学院获悉，中国戏曲学院(以下简称“国戏”)2019年本科招生简章正式公布。<br/><div class="contheight"></div>据介绍，2019年，中国戏曲学院面向全国计划招收本科生515人，所有艺术类专业无分省计划，文理兼招。文化产业管理专业属于普通类专业，只招文科生。<br/><div class="contheight"></div>相较而言，本科招生计划较去年减少15名。2019年，国戏多个招考方向继续执行免学费政策，京剧表演、京剧器乐、昆曲表演、昆曲器乐、多剧种表演、多剧种器乐、戏曲作曲等招考方向实行免学费政策。<br/><div class="contheight"></div>记者梳理发现，与以往相比，国戏今年的招生政策有以下八个方面的新变化、新亮点。<br/><div class="contheight"></div>第一，进一步扩大了戏曲类专业的招生规模。比如，今年扩大了京剧表演、昆曲表演、多剧种表演、多剧种器乐、戏曲形体教育等招考方向的招生规模。<br/><div class="contheight"></div>第二，地方戏本科层次的人才培养新增3个剧种，这也意味着，国戏培养的戏曲剧种除京剧、昆曲外，将达到24个。今年的多剧种表演、多剧种器乐将招收赣剧、湘剧和花鼓戏，这将是这三个国家级非遗剧种第一次成建制的培养本科人才。<br/><div class="contheight"></div>第三，在注重考察考生专业水平和发展潜力的同时，更加重视考生的文化素质，逐步提高高考分数在录取中的比重。。<br/><div class="contheight"></div>第四，为了扩大戏曲类专业的规模，压缩了影视表演、影视导演、戏曲舞蹈、绘画等招考方向的招生规模，鼓励这些专业进一步开展具有国戏特色的教学改革，强化内涵和特色建设。<br/><div class="contheight"></div>第五，进一步整合部分专业和招考方向的考试内容，压缩考试时间，节约考生的考试成本。表演系的昆曲表演、昆曲器乐、多剧种表演、多剧种器乐、戏曲形体教育、戏曲舞蹈，导演系的戏曲导演、影视表演等招考方向全部由三试变为两试。<br/><div class="contheight"></div>第六，根据学院办学特点和专业培养目标，进一步改革了人才选拔方式和考试内容，取消戏曲文学、国际文化交流两个招考方向的面试环节，重在考察考生的基础写作和文化综合能力。<br/><div class="contheight"></div>第七，学院继续招收非艺术类的文化产业管理专业，鼓励那些有志于从事剧场、剧院管理工作且高考成绩能够达到一本线的考生报考。<br/><div class="contheight"></div>第八，取消现场收费环节，所有专业和招考方向的一试、二试和三试全部改为网上缴费和移动支付，便于考生缴费考试。<br/><div class="contheight"></div>中国戏曲学院院长巴图表示，国戏是全国戏曲人才培养、学术研究、公共服务、文化传承和国际交流的中心，也欢迎大家报考。<br/><div class="contheight"></div>（原题为：《想考国戏的人注意了！这些专业“三试”变“两试”》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中国戏曲学院,本科招生,专业,文科生</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2840741">
+<div class="nbgbox">
+<a class="zan" contid="2840741" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 招生</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2840741&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2840741&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

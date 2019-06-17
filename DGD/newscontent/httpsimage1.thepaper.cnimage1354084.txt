@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25437">牛市点线面</a>
+</div>
+<h1 class="news_title">上交所副总经理：地方债投资者扩容要与筹资扩容同步推进</h1>
+<div class="news_about">
+<p>金嘉捷/上证报</p>
+<p>
+							2018-12-26 22:45<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“要大力推进投资主体多元化，除了银行机构认购之外，鼓励银行机构作为承销团成员，扩大分销投资者范围，同时通过证券公司扩大认购投资者范围。”在12月26日举行的政府债市场高质量发展研讨会上，上海证券交易所副总经理刘绍统表示，地方债投资者扩容要与筹资扩容同步推进，从而提升一级市场的发行定价市场化和二级市场的流动性。同时，他透露了下一阶段上交所推进政府债市场建设的四方面安排。<br/><div class="contheight"></div>第一，努力做好发行人、投资者服务和对接。上交所加强政府债券发行和投资服务，通过承销团成员等方式促进双方加强交流沟通和需求对接，为发行人和投资者做好服务。<br/><div class="contheight"></div>第二，大力拓展政府债投资者范围、提升其参与度。目前政府债的主流投资者是银行，需要推进非银金融机构、金融产品、一般法人机构和个人投资者参与。<br/><div class="contheight"></div>第三，完善政府债交易结算机制。根据投资者交易需求，完善债券交易结算机制，开发交易型产品，包括ETF等。同时加强做市制度实施和支持，提升二级市场流动性。<br/><div class="contheight"></div>第四，扩大政府债券市场对外开放。我国政府债券的无风险属性、免税属性、稳定收益属性受境外投资者青睐，鼓励其参与一级市场发行认购、二级市场交易，利用国内和国际两种资源推进政府债市场高质量发展。<br/><div class="contheight"></div>今年以来，上交所的地方债发行业务得到较大发展。刘绍统指出，发行品种不断丰富，专项债品种得到很大丰富，新增了教育、医疗、污水治理、乡村振兴等新品种。期限结构也得以丰富，增加了1、2年短期债券和15、20、30年长期债券，既满足了地方财政经济、项目建设需要，也满足了投资者的配置期限需求。同时，上交所大力推进地方政府债投资主体多元化、加强二级市场建设，包括开展地方债借贷业务、支持开发地方债ETF等。<br/><div class="contheight"></div>在建设高质量政府债券市场方面，刘绍统认为，首先要加强政府债的财政功能与金融功能的发挥，目前其二级市场流动性偏低，影响了其功能发挥，要保持政府债投融资功能平衡。<br/><div class="contheight"></div>其次，坚定市场化改革方向，尤其是市场化发行定价。“市场化定价是寻找供需平衡点，有利于形成有效的市场定价基准和收益率曲线。”他认为，在资金供给端还有大量工作要做，投资者扩容要与债券筹资扩容同步推进，实现供需有效平衡。<br/><div class="contheight"></div>第三，坚持一二级市场协同发展。他表示，目前中国政府债一级市场处于全球领先水平，但二级市场仍有差距。目前交易机制和交易型产品还不能满足主流投资人需求，一二级市场应协同发展，充分发挥国债和地方债作为金融资产的功能，发挥其担保品、抵押品作用。<br/><div class="contheight"></div>（原标题为《上交所刘绍统：地方债投资者扩容要与筹资扩容同步推进》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王杰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2778673">
+<div class="nbgbox">
+<a class="zan" contid="2778673" href="javascript:;" onclick="voteCont(this)" praisetimes="60">
+                           59</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 地方债</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2778673&caid=25437",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2778673&amp;caid=25437" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

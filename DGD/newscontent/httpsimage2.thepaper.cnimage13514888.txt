@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25463">港台来信</a>
+</div>
+<h1 class="news_title">国台办：大陆欢迎台北动物园参加大熊猫保育研讨会</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2018-12-26 11:01<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网12月26日消息，26日上午，国务院台湾事务办公室举行例行新闻发布会，国台办发言人马晓光就近期两岸热点问题回答记者提问。<br/><div class="contheight"></div>有记者提问，大陆赠台大熊猫“团团”“圆圆”所在的台北市立动物园日前表示，今年派人到大陆参加大熊猫的年会交流活动首度遭到拒绝，疑似涉政治原因，想请发言人说明一下情况。<br/><div class="contheight"></div>马晓光表示，据了解，海峡两岸暨港澳地区大熊猫保育教育研讨会自2009年以来已经举办了五届，形成了专门探讨港澳台大熊猫合作议题的有效的民间磋商机制。2019年将在北京举办第六届会议，我们欢迎台北动物园届时派员参加，共商大熊猫保护和繁育合作事宜。<br/><div class="contheight"></div>这里我要澄清一下有关媒体的报道，今年首次举办的“大熊猫保育与繁育国际大会暨2018大熊猫繁育技术委员会年会”，这个会议并非所有曾经参加过我刚才提到的两岸暨港澳地区有关研讨会的机构都能全部参会，这是两个不同的会，我要借此作一个澄清。<br/><div class="contheight"></div>我们的态度大家很清楚，向台湾人民赠送大熊猫，这是大陆方面主动提出的善举，是为了融洽两岸同胞感情，增进两岸同胞的相互了解。我们将一如既往就大熊猫的保育工作开展两岸交流合作。大熊猫“团团”和“圆圆”进入台北动物园屈指算来已经10年了，受到台湾同胞特别是台湾小朋友的喜爱，它们的第二代“圆仔”今年也5岁了。许多台湾同胞很关心“圆仔”繁育后代的事，大陆同胞也很关心。据我了解，两岸专家正在积极开展技术交流和评估，探讨后续繁育合作的事项。我和大家一样，都期待“圆仔”尽快有好事喜事。<br/><div class="contheight"></div>（本文原题为《国台办：大陆欢迎台北动物园参加大熊猫保育研讨会》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 国台办,大熊猫</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2775758">
+<div class="nbgbox">
+<a class="zan" contid="2775758" href="javascript:;" onclick="voteCont(this)" praisetimes="16">
+                           15</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国台办</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2775758&caid=25463",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2775758&amp;caid=25463" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

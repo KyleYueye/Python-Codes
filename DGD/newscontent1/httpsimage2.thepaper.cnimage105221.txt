@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜24岁员工烧伤身亡，一句“意外”不能脱责</h1>
+<div class="news_about">
+<p>澎湃特约评论员 谭浩俊</p>
+<p>
+							2018-08-29 19:24<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据央视网报道，今年5月31日，广东新会美达锦纶股份有限公司（美达股份，000782.SZ）一生产车间内，因萃取塔发生故障，24岁员工冯某被严重烫伤，初诊为全身多处特重烧伤（98%）。7月24日，冯某在经历全身被感染、双腿被截肢后离世 。 <div style="text-align:center;"><img alt="" height="799" src="http://image.thepaper.cn/www/image/10/5/219.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">冯某家属晒出的冯某在新会人民医院治疗期间的资料<br/><div class="contheight"></div></span>对此，美达股份称，本次发生萃取塔喷水是投产30多年以来的第一次，主要原因是意外性引起的，间接原因也有伤者安全意识不足的问题，属意外导致的工伤事故。在冯某治疗期间，公司共预付治疗总费用1988273.61元。又称，家属此前两次分别向公司提出450万元和250万元赔偿金，均被拒绝。 <br/><div class="contheight"></div>这段话隐含的意思大概有这么几点：事故是意外。伤者自己也有原因。公司已经仁至义尽。家属还要赔偿，是无理取闹。<br/><div class="contheight"></div>美达股份似乎忘了一个常识：对于父母来说，孩子的生命永远是第一位的，是多少钱都换不来的。生命逝去，对事故原因的质疑、追寻，对责任的认定，对责任方的追究，更是任何法治社会都不容忽视的公民权利。 <br/><div class="contheight"></div>根据冯某家属的说法，首先，事情发生后，美达股份没有将冯某及时送医，原本开车15分钟的路程，花了1小时20分。其次，烫伤冯某的不是普通热水，而是含有8%的己内酰胺，美达股份涉嫌隐瞒了这一实情，导致冯某被错误治疗。第三，美达股份未给冯某配穿合格衣服，且公司未对设备进行正常维护。<br/><div class="contheight"></div>具体的事故细节和责任认定，当然还需要权威机构的说法，但结合以上几点看，起码可以明确的是，事故发生后，冯某没有被及时送医；在治疗过程中，美达股份也没有充分尊重和尽力满足家属的合理需求。 <br/><div class="contheight"></div>一个常识是，不管企业方有没有责任，也不管是什么性质的事故，都应当首先以抢救生命为重，而不能为了自身推卸责任或减轻负担，耽误救治。<br/><div class="contheight"></div>如果及时将冯某送医，与医生坦言伤者实情，并及时转院，也许生命不会就此离去。即便结局不变，家属也多少能够理解。可美达股份的公告中，基本看不到对一位年轻生命逝去的惋惜，对自身安全责任意识和防范举措的反思和改进，反而强调自身花去多少钱，与冯某家属的要求多么无理。这样的表态，不仅让逝者家属难以接受，也让普通公众感到寒心。 <br/><div class="contheight"></div>如果查明冯某受伤与美达股份的安全保障不到位有关，冯某死亡与美达股份救治不及时有关，可能就不是“垫付全部医疗费用，并在相关工伤赔偿金之外，出于人道主义给家属适当慰问金”那么简单了。特别是如果水中真含有8%的己内酰胺，“意外事故”极有可能转化成安全责任事故，企业就将被追究法律责任。 <br/><div class="contheight"></div>从近段时间发生的恶性案件来看，无论是滴滴顺风车司机杀人案件，还是碧桂园施工现场的伤亡事件，以及此次美达股份事故，都与企业的安全意识不强、安全管理存在漏洞、安全责任落实不到位有关。企业发生安全事故，首先要从自身找原因，而不是事故发生后，首先把责任推给受害者。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美达股份</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2391625">
+<div class="nbgbox">
+<a class="zan" contid="2391625" href="javascript:;" onclick="voteCont(this)" praisetimes="119">
+                           118</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美达</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2391625&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2391625&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（34）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

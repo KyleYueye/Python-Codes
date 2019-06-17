@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25437">牛市点线面</a>
+</div>
+<h1 class="news_title">花旗亚洲退出，东方花旗证券有限公司将成东方证券全资子公司</h1>
+<div class="news_about">
+<p>澎湃新闻记者 刘歆宇</p>
+<p>
+							2019-01-08 19:47<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">又一家合资券商股权生变。这一次，是外资方退出，中资方接手。<br/><div class="contheight"></div>1月8日傍晚，东方证券股份有限公司（东方证券，600958.SH）发布公告，宣布拟以现金方式收购花旗环球金融亚洲有限公司（以下简称“花旗亚洲”）持有的东方花旗证券有限公司（以下简称“东方花旗”）全部33.33%股权。<br/><div class="contheight"></div>若交易达成，那么东方花旗将不再是合资券商，转而成为东方证券的全资子公司。<br/><div class="contheight"></div>东方花旗成立于2012年6月4日，目前从事股票和公司债券的承销与保荐、企业债和资产支持证券的承销、并购重组、新三板推荐挂牌及企业改制等相关的财务顾问服务。<br/><div class="contheight"></div>目前，东方花旗的股权结构非常简单——东方证券持有66.67%的股权，占控股地位，花旗亚洲持有另外33.33%的股权。<br/><div class="contheight"></div>花旗亚洲是花旗集团（Citigroup Inc.）间接持有的全资子公司，注册地位于中国香港。公告显示，2017年度花旗亚洲净亏损1.25亿港元。<br/><div class="contheight"></div>根据公告，东方证券于2018年12月收到花旗亚洲关于《无意延长合资期限的通知》。按照双方于2011年6月1日签订的股东协议规定，花旗亚洲希望不再延长合资期限，并提出将其持有的东方花旗全部33.33%股权，以东方花旗2018年12月31日经审计净资产乘以其出资比例的价格转让给东方证券。<br/><div class="contheight"></div>据东方证券网站介绍，东方证券股份有限公司是一家经中国证券监督管理委员会批准设立的综合类证券公司，其前身是于1998年3月9日开业的东方证券有限责任公司，总部设在上海。“经过20年的发展，公司从一家仅有586名员工、36家营业网点的证券公司，逐渐壮大为一家总资产达2000亿，净资产超过500亿，员工4000余人、在全国76个城市设有153家分支机构，提供证券、期货、资产管理、理财、投行、投资咨询及证券研究等全方位、一站式专业综合金融服务的上市证券金融控股集团。”<br/><div class="contheight"></div>本次交易以东方花旗2018年12月31日经审计净资产值乘以花旗亚洲出资比例33.33%作为交易价格。<br/><div class="contheight"></div>不过，公告未有披露东方花旗2018年12月31日经审计净资产值的具体数额。<br/><div class="contheight"></div>截至2018年6月30日，东方花旗资产净额为14.23亿元，若以此数据估算，那么这笔交易的价格为4.74亿元。<br/><div class="contheight"></div>此外，公告披露了东方花旗近年的营收情况。2017年，东方花旗实现营业收入10.39亿元，净利润1.88亿元；2018年上半年，未经审计的财务数据显示，营业收入和净利润规模分别为4.53亿元和1.28亿元。<br/><div class="contheight"></div>2018年4月28日，证监会发布《外商投资证券公司管理办法》，正式允许外资在合资券商中的持股比例可达51%。这引发了市场对于目前存量合资券商股权变化的关注。<br/><div class="contheight"></div>不久前的2018年12月1日，瑞银集团宣布从中资股东方面收购瑞银证券的部分股权，让瑞银证券成为首家外资控股的合资券商。<br/><div class="contheight"></div>而本次花旗方面的退出，也为合资券商的股权变动提供了另一个样本——外资主动退出，中资全面接盘。至于花旗方面是否有意在中国独立设立控股券商，目前还不得而知。<br/><div class="contheight"></div>东方证券的公告透露，本次交易尚待证券监管部门及国资监管部门核准或备案。此外，更名等具体事项也将待股权转让完成之后进行。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王杰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828118">
+<div class="nbgbox">
+<a class="zan" contid="2828118" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 合资券商</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828118&caid=25437",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828118&amp;caid=25437" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

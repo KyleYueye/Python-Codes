@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">某奢侈品牌48件工艺展览品运抵上海，进博会展馆内外均精彩</h1>
+<div class="news_about">
+<p>李淑平</p>
+<p>
+							2018-10-26 10:44<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>中国首届进博会越来越让人期待了，场馆内外展览均精彩。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/11/648/649.jpg" width="600"/></div></u>临近进博会开幕，“芬兰概念车”、“捷克大师工艺制品”、“会飞的汽车”等许多高新技术和高价值展品从世界各地空运至上海。今天，继参展进博会的一双36码高跟鞋因为镶了一万颗粉钻迎来大家关注后，另外一条消息亦获广泛关注：某奢侈品牌48件工艺展览品运抵上海，届时在上海，进博会场馆内外均有精彩展览供大家大饱眼福。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/11/648/647.jpg" width="600"/></div>来自东航物流的消息称，10月25日凌晨，48件共重达6081公斤的某奢侈品牌工艺展览品搭乘卢森堡航空公司CV7982来到上海，将于下个月开始在上海展览。<br/><div class="contheight"></div>据了解，一接到运输任务，物流公司立即启动进博会保障预案，作为物流公司重要地面服务保障单位，货站事业部和运输公司通力合作，组织人力和运力保障，确保展品运输全链条无缝衔接。凌晨2：40飞机落地，上午9：50物流公司便把货物交付客户手中，7个小时完成进口货物的全链条操作。东航物流安全、高效、专业、精准的服务品质可圈可点。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈关哲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2567021">
+<div class="nbgbox">
+<a class="zan" contid="2567021" href="javascript:;" onclick="voteCont(this)" praisetimes="68">
+                           67</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 进博会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2567021&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2567021&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

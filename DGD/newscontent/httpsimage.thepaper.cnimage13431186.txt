@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">上海生态廊道已建成4.23万亩，位于不同区域发挥不同功能</h1>
+<div class="news_about">
+<p>澎湃新闻记者 栾晓娜</p>
+<p>
+							2018-12-23 16:53<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/430/924.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">滨江森林公园初冬景色 本文图均为 </span><font color="#808080">上海市绿化和市容管理局 供图</font></div><div>目前，上海的森林覆盖率已经达到16.8%，生态廊道已建成4.23万亩。在12月23日举行的“走进森林 走进果园——上海林业宣传活动“启动仪式上，上海市绿化和市容管理局副局长顾晓君透露，根据计划，到2020年，上海的森林覆盖率将进一步提高到18%，实现每个上海市民林地拥有面积从“一张床”到“绿色一间房”的梦想。</div>除了不断提高森林覆盖率，上海还在加快建设生态廊道。根据规划，“十三五”期间，本市将推进17廊（片）市级重点生态廊道建设，总共12万亩，涉及9个郊区，其中金山、崇明和浦东涉及面积最多，均在2万亩以上。今后，市民可进入生态廊道进行休闲活动。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/430/933.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128); text-align: start;">滨江森林公园初冬景色</span></div>今年，本市启动了奉贤区沪芦高速、天马处理厂周边等8个生态廊道项目建设，面积为1.2万亩。再加上2016年-2017年先期实施的项目，迄今为止，老港、天马、外冈处理厂和金山化工区周边，以及沪芦高速等5廊（片）生态廊道启动全面实施，吴淞江、绕城高速等2廊（片）部分区段启动实施，累计完成重点生态廊道建设面积4.23万亩。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="401" src="http://image.thepaper.cn/www/image/13/430/938.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">浦东老港生态廊道<br/><div class="contheight"></div></span>据介绍，上海的生态廊道位于不同区域，发挥着不同功能。其中，市级重点生态廊道有三种功能类型：第一种类型是发挥阻隔邻避设施功能的，如金山化学工业区、浦东老港、松江天马等垃圾处理厂周边；第二种功能类型是发挥隔离城市组团功能的，如绕城、沪渝等高速公路沿线，京沪、沪杭等高铁沿线和吴淞江等河道沿线；第三种功能类型是发挥连接生态系统功能的，如沪芦高速、陈海公路等道路沿线，黄浦江、环岛运河等河道沿线。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="401" src="http://image.thepaper.cn/www/image/13/430/935.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">浦东老港生态廊道</span></div>根据要求，本市生态廊道建设在坚持生态为主的同时，还要统筹一些必要的生活、休闲、景观、体育锻炼功能，并要求注重实效，能快则快。同时，与“四化”（绿化、彩化、珍贵化、效益化）示范相结合，扩大彩化、珍贵化、效益化树种应用，实行多树种、多规格、乔灌木搭配，形成错落有致的植物群落，营造良好景观，展现生态廊道的生态、社会和经济效益。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="401" src="http://image.thepaper.cn/www/image/13/430/945.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">在森林里感受太极的阴阳之气，人与自然的交融。</span></div>此次“走进森林 走进果园——上海林业宣传活动”由市绿化和市容管理局联合相关单位共同主办，将在未来一年内，通过线上宣传、线下活动等多种形式，带领市民走进上海的森林公园、开放林地、果园，去感受上海森林的美景，采摘甜蜜的果实，增强上海市民对林业的获得感和感受度。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：杨洁<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 生态廊道,森林覆盖率</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766374">
+<div class="nbgbox">
+<a class="zan" contid="2766374" href="javascript:;" onclick="voteCont(this)" praisetimes="85">
+                           84</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 生态廊道</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766374&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766374&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

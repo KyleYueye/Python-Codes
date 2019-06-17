@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">国务院研究室原主任、党组书记袁木同志逝世，享年91岁</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-25 16:14<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="787" src="http://image.thepaper.cn/www/image/13/489/54.jpg" width="550"/></div><span style="color: rgb(128, 128, 128);">袁木同志遗像 新华社 图<br/><div class="contheight"></div></span>新华社北京12月25日消息，国务院研究室原主任、党组书记袁木同志，于2018年12月13日因病医治无效在北京逝世，享年91岁。<br/><div class="contheight"></div>袁木同志病重期间和逝世后，中央有关领导同志以不同方式表示慰问和哀悼。<br/><div class="contheight"></div>袁木，1927年12月生于江苏省兴化县。1946年秋至1948年7月在复旦大学学习期间，参加了中国共产党领导的进步学生运动，并担任校系科联合会主席。1948年9月起先后任冀热察导报社编辑、冀哈尔日报社记者。1950年1月加入中国共产党。1950年1月起先后任新华社冀哈尔分社记者、山西分社记者，新华社对外部、国内部副组长。1969年1月起先后任中央组织宣传组组织联络员办公室组织联络员、中央组织部调研室负责人。1978年1月后在国务院办公室调研组、国务院办公厅调研室工作。1983年3月任国务院秘书长助理。1984年12月任国务院机关党组成员、国务院秘书长助理。1985年4月至1988年9月任中央财经领导小组副秘书长。1988年9月任国务院研究室主任。1990年8月至1995年4月任国务院研究室党组书记、主任。1986年至1992年10月担任国务院发言人。2000年6月离休。<br/><div class="contheight"></div>袁木是政协第八届全国委员会常务委员。<br/><div class="contheight"></div>（原题为《袁木同志逝世》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 袁木,逝世</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772867">
+<div class="nbgbox">
+<a class="zan" contid="2772867" href="javascript:;" onclick="voteCont(this)" praisetimes="71">
+                           70</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 逝世</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772867&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772867&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（56）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

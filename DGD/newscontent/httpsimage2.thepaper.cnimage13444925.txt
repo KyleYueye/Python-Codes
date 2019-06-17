@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25435">金改实验室</a>
+</div>
+<h1 class="news_title">信用卡代偿业务存隐患：或干扰银行对客户真实征信情况甄别</h1>
+<div class="news_about">
+<p>彭江/经济日报</p>
+<p>
+							2018-12-24 06:50<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">当前，越来越多的人在消费时选择使用信用卡支付，尤其是在商家打折做活动时，不少消费者狂刷信用卡，当然也会产生到期没钱还的烦恼。于是，信用卡代偿这项金融服务便应运而生。<br/><div class="contheight"></div>所谓信用卡代偿，通俗地说，就是消费者刷卡消费到期还款遇到资金困难时，先向相关平台申请贷款，由平台发放贷款或采取套现形式，用以偿还银行卡消费资金，并对平台支付一定利息或手续费的金融服务活动，这种金融服务方式是将贷款人贷款过渡到信用平台贷款，或由平台通过套现给债务人延长债务偿还期限。<br/><div class="contheight"></div>有专家认为，信用卡代偿金融服务具有一定的现实意义，它让不少缺乏实际消费能力的消费者通过这种方式满足消费意愿，然后通过分期偿还方式实现债务慢慢消化，解决了暂时资金不足的困难。信用卡代偿方式是对金融机构服务不足、普惠服务覆盖不全面的一种有效补充。<br/><div class="contheight"></div>不过，也有专家认为，信用卡代偿与普惠金融无关，涉嫌违规套现贷。事实上，现实中有不少持卡人前期盲目消费，直到信用卡账单出来后才发现无力偿还，此时“信用卡代偿”被这些人当作“救命稻草”。一些平台在宣传中称，“预留500元额度即可完美还清10000元账单”。有平台客服称，用户只需在信用卡内预留5%至10%额度，平台接下来模拟商家信用卡消费，把信用卡预留额度的资金套出，再把套出资金返还给用户，用来偿还用户信用卡。<br/><div class="contheight"></div>在实际业务中，信用卡代偿业务利率普遍高于银行贷款利率，一些平台最高分期还款利率甚至高达40%至50%；还有的平台收取“砍头息”，即所谓的会费、保险费扣除贷款本金。还有的平台故意逾期收取滞纳金或逾期罚金，同时平台还存在泄露个人身份信息等行为。<br/><div class="contheight"></div>中国财政科学研究院应用经济学博士后盘和林认为，信用卡代偿应引起监管部门重视，此项业务可能严重干扰银行对客户真实征信情况甄别，对社会信用体系建设是一种破坏，规模过大可能积累金融风险。此外，从保护金融消费者弱势群体的原则出发，要对综合利率予以明确，消除其中信息不对称问题，比如综合利率（含服务费等）不能超过法定高利贷上限，综合费率要强调公开，保护消费者知情权等。<br/><div class="contheight"></div>财经评论人莫开伟认为，应鼓励各类正规金融平台或民间有资质的金融组织参与信用卡代偿业务活动，对其代偿利率或收费实行监管，制定代偿利率或收费标准，防止其演变成变相的非法高利贷，对违法高利放贷行为或“套现贷”行为严厉打击。<br/><div class="contheight"></div>盘和林认为，对于个人来说，要尽量远离信用卡代偿业务,在消费时避免“拆东墙补西墙”。近日，“两高”修改恶意透支信用卡定罪量刑标准，明确“明知没有还款能力而大量透支，无法归还的”属于非法占有目的，可能构成恶意透支。<br/><div class="contheight"></div>中国银行法学研究会理事肖飒建议，信用卡持卡人应量入为出，谨慎选择信用卡代偿服务平台，最好选择银行分期还款业务，延长还款期限，降低还款压力。必要时，在明确套现风险的基础上，选择资质较好的平台，确保个人信息安全与利率计算规则的清晰明确。（原题为《信用卡代偿业务应引起重视——信用卡“拆东墙补西墙”存隐患》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑景昕<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2767640">
+<div class="nbgbox">
+<a class="zan" contid="2767640" href="javascript:;" onclick="voteCont(this)" praisetimes="42">
+                           41</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 信用卡</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767640&caid=25435",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767640&amp;caid=25435" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

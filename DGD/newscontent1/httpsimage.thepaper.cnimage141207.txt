@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">吉林珲春拍到东北虎一家五口珍贵影像：虎妈带着四只小虎玩耍</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2019-01-10 16:48<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><span style="color: rgb(128, 128, 128);"><div style="text-align:center;"><img alt="" height="303" src="http://image.thepaper.cn/www/image/14/119/985.jpg" width="540"/></div>吉林珲春拍到东北虎一家五口珍贵影像（视频截图）。 东北虎豹国家公园管理局 供图</span><br/><div class="contheight"></div>中新网长春1月10日消息，记者10日从东北虎豹国家公园管理局获悉，近日，该局珲春分局保护人员在整理红外相机监测数据时发现了一个由五名成员组成的野生东北虎家庭，相当罕见。<br/><div class="contheight"></div>当天，东北虎豹国家公园管理局向中新网记者提供了这段长达50秒的珍贵视频，其拍摄时间为2018年5月10日早6时许，画面十分清晰。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="303" src="http://image.thepaper.cn/www/image/14/119/986.jpg" width="540"/></div>视频画面显示，一只母虎带着四只小虎正在镜头前悠然玩耍。虎妈妈慈爱满满，虎宝宝呆萌顽皮，一家五口十分惬意。<br/><div class="contheight"></div>东北虎豹国家公园是中国首批开展国家公园体制试点的10个单位之一，东北虎豹国家公园体制试点区跨吉林、黑龙江两省，与俄罗斯、朝鲜接壤，总面积146.12万公顷。<br/><div class="contheight"></div>自东北虎豹国家公园成立以来，保护野生虎豹的力度不断加大，公园内野生虎豹定居家族数量不断增多，2018年仅珲春分局就已经监测到三个定居家族，拍摄到幼虎7只。<br/><div class="contheight"></div>吉林官方公布最新数据显示，截至2017年底，至少有27只东北虎和42只东北豹长期活动于中俄交界的吉林省区域，并且种群数量保持稳定。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="397" src="http://image.thepaper.cn/www/image/14/119/987.jpg" width="540"/></div>在过去的一年里，东北虎频频在吉林现身，它们的身影已经从中俄边境地区扩散至吉林内陆，有的东北虎甚至已经在吉林定居多年。（本文原题为《吉林珲春拍到东北虎一家五口珍贵影像》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 东北虎</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837028">
+<div class="nbgbox">
+<a class="zan" contid="2837028" href="javascript:;" onclick="voteCont(this)" praisetimes="185">
+                           184</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 东北虎</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837028&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837028&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

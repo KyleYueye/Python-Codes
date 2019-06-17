@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">最高法：涉党政机关执结金额480亿元，涉军案全部执结</h1>
+<div class="news_about">
+<p>澎湃新闻记者 庄岸</p>
+<p>
+							2018-10-24 19:30<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">涉党政机关执行清积专项行动取得新进展：案件数量逐渐下降，绝大多数地方未出现新积案，执结到位金额480亿元。10月24日，最高人民法院院长周强在十三届全国人大常委会第六次会议上报告人民法院解决执行难工作情况时透露了这一消息。<br/><div class="contheight"></div>报告显示，自2013年开始，最高人民法院在全国法院组织开展涉党政机关执行积案专项清理行动，对被执行人为党政机关的执行案件加大强制执行力度，在当年年底即清理99.38%的积案。<br/><div class="contheight"></div>2014年以来，最高人民法院不断探索构建清理涉党政机关执行积案长效机制，中央政法委与最高人民法院定期通报党政机关执行法院生效裁判情况，联合发出通报，督促有关单位和部门积极主动履行义务。与中央文明办联合督促履行义务，推动形成不执行人民法院生效裁判的党政机关不得参评文明单位的硬性工作要求。对部分跨省的以党政机关为被执行人的案件，专门立案督办并与综治考核挂钩，实现案结事了。<br/><div class="contheight"></div>报告显示，目前已执行到位金额480亿元，今年将实现涉党政机关执行案件90%实际执结、案款90%执行到位的目标。<br/><div class="contheight"></div>在中央军委政法委领导下，涉军队执行案件全部执结，在全国做出表率。<br/><div class="contheight"></div>“随着法治意识提高和法治政府建设推进，以党政机关为被执行人的案件数量逐渐下降，绝大多数地方未出现新的执行积案。”周强说。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：朱远祥<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 法院执行 最高法 周强 报告</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2561507">
+<div class="nbgbox">
+<a class="zan" contid="2561507" href="javascript:;" onclick="voteCont(this)" praisetimes="33">
+                           32</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 法院执行</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2561507&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2561507&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

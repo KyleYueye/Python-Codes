@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25437">牛市点线面</a>
+</div>
+<h1 class="news_title">秦洪看盘｜2500点一线有较强支撑，在此需要震荡夯实基础</h1>
+<div class="news_about">
+<p>金百临咨询 秦洪</p>
+<p>
+							2019-01-10 16:45<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/14/119/974.jpg" width="600"/></div>周四A股市场出现了冲高受阻回落的态势，在午市前后一度因为新基建主线的强劲拉升而冲高，但作为维稳资金主要出击工具的券商股在午市后的抛压明显增强，如此就使得指数的压力随之增强，上证综指、创业板指等主要指数均出现了回落态势。<br/><div class="contheight"></div><strong>诸多信号显示A股市场所处环境大大改善</strong><br/><div class="contheight"></div>从目前A股市场所处的环境来说，正在逐渐改善，不仅是体现在贸易谈判的信息，这已经得到了人民币汇率持续回升趋势的佐证，并且还在于持续降准的效应正在显现，银行间的拆借利率持续走低，国债逆回购利率也从年初的3%迅速降至2.4%左右。与此同时，关于小微企业降税等信息，也向市场参与者传递出减税、降费的政策措施正在逐一落实。这些信息叠加在一起，就夯实了A股市场走强的基础。<br/><div class="contheight"></div>但是，周四的A股市场却出现了较为奇怪的下跌走势。这其实也并不奇怪，一方面是因为A股市场的短线走势具有一定的随机性，即便在经济强劲回升、一片乐观的做多氛围中，也会有日线甚至周线级别的调整。就如同2015年的上半年，那么牛气冲天的行情，在2015年4月也出现了周K线级别的调整。另一方面是因为行情环境的改善，前期尽力维稳的资金松了一口气，比如券商股在周四的表现就较为低迷，方正证券等品种更是跌幅居前，如此就放大了市场的技术调整压力，使得指数在午市后有所走低。<br/><div class="contheight"></div><strong>中期趋势的基础越发扎实，或有暖冬行情</strong><br/><div class="contheight"></div>由此可见，短线A股市场的疲软主要是因为行情氛围改善，维稳资金松了一口气，从而导致指数的疲软。既如此，可以推测的是，A股市场的中期趋势尤其是春节前的走势，可能会出现在震荡中重心有所上移的走势。<br/><div class="contheight"></div>这其实也得到了两个信息的佐证，一是A股最主要的边际增量资金，比如北上资金，仍然处于净买入的状态。在周四，沪股通净流入9.9亿，深股通净流入8.9亿，显示出北上资金对A股的中短线走势仍持有积极看好的态势。如果再考虑到近期人民币升值的趋势因素，可以推测，后续北上资金仍然会有进一步加仓的态势。并且，A股也纳入到富时罗素指数，说明境外资金的净买盘的力量仍然在不断增强，有利于A股市场中短线走势的演绎。<br/><div class="contheight"></div>二是接二连三出现的上市公司2018年业绩预告，显示出经济增速放缓对上市公司业绩压力并不宜过于夸大。比如，智能手机的销量虽然在2018年下半年出现大幅度的回落数据，但智能手机产业链的立讯精密、弘信电子等个股仍然出现了业绩大幅回升的趋势。这显示出作为相关领域头部公司的上市公司，仍然在不断侵蚀相关领域中小企业的市场份额，这固然对中小企业是一个压力，但对这些领域的产业升级仍然有着积极的推动力。因为头部公司依靠高质量的产品、持续的科研投入，将推动着这些领域的产业竞争力的提升。所以，近期相关上市公司业绩预告，意味着2018年年报业绩乃至2019年一季度业绩形势，不宜过于悲观，这无疑会进一步提振市场参与者对中短线走势的期待情绪。<br/><div class="contheight"></div>因此，经过周四的调整之后，短线A股市场的走势有望震荡企稳。其中，上证综指的2500点一线有着较强支撑，在此震荡夯实基础之后，有望出现重心渐次上移的走势。牵引力量可能有两类，一是金融股，毕竟市场化利率的持续走低，对银行股、券商股的估值坐标有着一定的推动力量；二是以5G等为代表的新基建主线有望成为近期强势股的摇篮，仍可积极跟踪。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王杰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837021">
+<div class="nbgbox">
+<a class="zan" contid="2837021" href="javascript:;" onclick="voteCont(this)" praisetimes="13">
+                           12</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 秦洪看盘</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837021&caid=25437",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837021&amp;caid=25437" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

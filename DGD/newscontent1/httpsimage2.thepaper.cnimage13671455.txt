@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">未成年人保护法最快明年开始修法，重点关注校园欺凌</h1>
+<div class="news_about">
+<p>杨丽娟、雷崔捷/人民日报客户端</p>
+<p>
+							2018-12-29 16:56<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">人民日报客户端12月29日消息，十三届全国人大常委会第七次会议12月29日，表决通过全国人大社会委关于十三届全国人大第一次会议主席团交付审议的代表提出的议案审议结果的报告。报告显示，未成年人保护法修法已纳入十三届全国人大常委会立法规划，争取2019年10月提请全国人大常委会审议。<br/><div class="contheight"></div>针对代表提出的“关于修改未成年人保护法，完善未成年人家庭监护和国家监护”等议案，教育部、公安部、民政部、司法部、最高人民法院、最高人民检察院认为，未成年人保护工作是一项复杂的社会系统工程涉及家庭、学校、社会、政府、司法等多方主体。<br/><div class="contheight"></div>建议在修改相关法律中：<br/><div class="contheight"></div>①清晰界定相关部门的职能定位；<br/><div class="contheight"></div>②完善议案所提诉讼程序有关规定和强制报告机制；<br/><div class="contheight"></div>③研究论证临时监护责任、长期监护程序、家庭监护情况调查评估、未成年人独处最低年龄、其他监护人资格、扩大临时监护范围等问题；<br/><div class="contheight"></div>④预防未成年人犯罪法相关规定，涵盖了对校园欺凌和校园暴力的防治，但对校园欺凌、校园暴力的范畴定义、行为主体、行为表现、危害后果以及受理、处置程序和惩处标准等缺乏详细、可操作性的规定。但是否通过制定反校园欺凌法来解决相关问题，还需调研论证；<br/><div class="contheight"></div>⑤我国涉及未成年人司法工作的相关规定，散见于多部法律以及相关司法解释中。制定未成年人司法法，需要处理好与预防未成年人犯罪法等相关法律的衔接，并由有关方面共同研究论证。<br/><div class="contheight"></div>社会委经研究，同意上述有关方面意见。修改未成年人保护法和预防未成年人犯罪法已纳入十三届全国人大常委会立法规划第一类项目，社会委是牵头起草单位。未成年人监护制度、校园欺凌、校园暴力问题是修改未成年人保护法关注的重点内容之一。社会委将对相关问题深入调查研究，广泛听取意见认真吸纳议案建议，完善未成年人监护制度、校园欺凌定义、预防和处置等规定，增强法律的可操作性和实际效果，争取2019年10月提请全国人大常委会审议。<br/><div class="contheight"></div>在修改未成年人保护法的同时，社会委将一并考虑预防未成年人犯罪法的修改。争取2021年10月提请全国人大常委会审议。<br/><div class="contheight"></div><div>（原标题《未成年人保护法最快明年开始修法，重点关注校园欺凌》）</div></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 未成年人保护法</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2792153">
+<div class="nbgbox">
+<a class="zan" contid="2792153" href="javascript:;" onclick="voteCont(this)" praisetimes="121">
+                           120</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 未成年人保护法</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2792153&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2792153&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

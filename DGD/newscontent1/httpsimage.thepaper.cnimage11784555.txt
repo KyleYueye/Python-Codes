@@ -1,0 +1,80 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">再见大侠｜庙堂之高，江湖之远，都可见一颗赤子之心</h1>
+<div class="news_about">
+<p>澎湃特约评论员 叶克飞</p>
+<p>
+							2018-10-30 20:57<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">曾有人说：“金庸的江湖再远都有一座庙堂”。之所以有此说法，是因为金庸作为中国传统知识分子，颇具士大夫情怀，一心修身齐家治国平天下。<br/><div class="contheight"></div>他早年曾在北京谋外交官差事，却不可得，被迫远走香江。创办《明报》的初衷也是问政，写武侠小说纯属无心插柳，却因此成名。<br/><div class="contheight"></div>不能涉足政坛，多少是金庸的内心遗憾。也正因此，他笔下人物多有庙堂之心。尤其是早期人物，基本走“能力越大，责任越大”的路子。陈家洛与虎谋皮，搭上香香公主性命，只为了反清复明。袁承志在为父报仇与国难间挣扎，直至事不可为。郭靖从一个呆板少年成长为一代大侠，不惜放弃金刀驸马高位，与成吉思汗决裂，坚守襄阳直至殉国，“侠之大者”的关键就在于家国情怀。<br/><div class="contheight"></div>在早期作品中，金庸的价值观完全是传统士大夫的价值观。生逢大时代，他将跌宕中的情怀与隐痛投射于武侠江湖，也因此更能唤起海内外华人的共鸣。<br/><div class="contheight"></div>但金庸毕竟曾受西方现代文明滋养，不仅心怀庙堂，也知江湖之远。虽醉心政治，但他的性格中仍有淡泊一面，因此深知“事不可为”的道理。<br/><div class="contheight"></div>当事不可为时，唯有郭靖殉国，而陈家洛远走大漠，袁承志漂泊海外，都成为时代的隐者。后期作品受时势影响，心态变化更为明显，《笑傲江湖》中的令狐冲，就是那动荡诡谲、人人为权力奔忙的江湖中，唯一的、真正的隐士。<br/><div class="contheight"></div>这颗赤子之心，才是金庸最可贵之处。<br/><div class="contheight"></div>在金庸小说中，我最爱《倚天屠龙记》里的一段：明教蝴蝶谷大会后，诸路人众向张无忌告别，“众人虽均是意气慷慨的豪杰，但想到此后血战四野，不知谁存谁亡，大事纵成，今日蝴蝶谷大会中的群豪只怕活不到一半，不免俱有惜别之意……那‘怜我世人，忧患实多！怜我世人，忧患实多！’的歌声，飘扬在蝴蝶谷中。群豪白衣如雪，一个个走到张无忌面前，躬身行礼，昂首而出，再不回顾。张无忌想起如许大好男儿，此后一二十年之中，行将鲜血洒遍中原大地，忍不住热泪盈眶。”<br/><div class="contheight"></div>明教群雄，自张无忌以下，即使以智计著称的杨逍和彭莹玉，都仅仅是江湖人物。明教的种种努力成果，最终落入野心家之手。但我之所以最爱这一段，正是因为明教的理想主义。大好男儿，白衣如雪、依依惜别，然后将鲜血洒遍中原大地，让人有生当如是之感。<br/><div class="contheight"></div>一个时代，最不可缺的，便是理想主义。</div>
+<div class="go_to_topic">
+<p style="line-height: 20px; margin-bottom:5px">
+<img alt="" src="//file.thepaper.cn/www/v3/img/topic.gif" style="float:left">
+<a href="newsDetail_forward_56843" target="_blank">
+<span class="news_topic">
+                              【专题】再见，金庸</span>
+</a>
+</img></p></div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 金庸逝世</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2582139">
+<div class="nbgbox">
+<a class="zan" contid="2582139" href="javascript:;" onclick="voteCont(this)" praisetimes="326">
+                           325</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 金庸逝世</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2582139&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2582139&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

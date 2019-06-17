@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜“食堂阿姨事件”的真相，说清楚很难吗？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 邓海建</p>
+<p>
+							2018-10-26 14:01<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2565891" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜“食堂阿姨事件”的真相，说清楚很难吗？" src="//image1.thepaper.cn/image/11/639/644.jpg"/>
+</a>
+<div class="atlas_360_txt">食堂阿姨微信收款被举报？成都文理学院：将追究造谣者责任<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">因为一个疑似“被学生钓鱼”的食堂阿姨，成都文理学院走到了舆论的风口浪尖。前情提要是这样的：<br/><div class="contheight"></div>25日一早，微博网友爆料称，成都文理学院一名女学生在学校食堂吃饭时，因未带饭卡，让食堂阿姨帮忙刷卡支付。在将餐费微信转账给食堂阿姨后，该女生举报对方私收现金，导致食堂阿姨被学校罚款20000元，举报人则获得2000元奖励。<br/><div class="contheight"></div>昨天下午及晚上，学校连发两份通报，核心意思是，“不存在上述事实”。<br/><div class="contheight"></div>具体来看，在第二份通报中，校方称涉事商家“曹氏鸭脖”位于该校第一学生食堂内，10月18日，鸭脖经营者纪某某违反校方与食堂管理公司之间的管理规定，擅自通过微信收取学生购买鸭脖款22元。但不存在舆情所言“对食堂阿姨罚款20000元”的事实，也不存在“对举报者进行奖励2000元”的事实。<br/><div class="contheight"></div>一个“文理学院”，多少占了个“理”字，即便面对不对称、乃至部分失实的信息，有个宽广的胸怀和姿态，总好过板着脸的气急败坏。但即便很多老新闻人，看了这份通报，也还是对核心事实不明就里。<br/><div class="contheight"></div>第一，就算鸭脖经营者纪某某不是该校员工，也不存在“对食堂阿姨罚款20000元”“对举报者进行奖励2000元”的事实，但学校是否处罚了纪某某？是“罚款”“奖励”这两个行为不属实，还是“20000元”“2000元”这两个金额有出入？此前网络流传的“严禁食堂窗口使用微信、支付宝，违反规定罚款20000元”的通知，是不是真的？<br/><div class="contheight"></div>第二，通报在事实界定上精确到“月日时分”，且轻易追溯到涉事主体的姓名，那么请问，那个传说中“告密”的女学生，也是网友杜撰出来的吗？纪某某所谓违规微信收款被发现，究竟是食堂管理公司的“火眼金睛”，还是买鸭脖学生的“大义灭亲”？<br/><div class="contheight"></div>遗憾的是，在食堂阿姨事件中，成都文理学院似乎误会了舆论的核心关切。是的，面对该校官网白纸黑字《关于发动学生共同监督食堂窗口收取现金的通知》等旧闻旧事，我们关心屡被吐槽的高校食堂管理流弊，我们关心一个好心员工在人情通融之下的命运转折，但我们更关心的是，究竟存在不存在这种损人利己、恩将仇报的举报和告密行为——把这个核心事实大大方方说清楚，很难吗？<br/><div class="contheight"></div>若是《农夫与蛇》的故事在高校食堂都能上演，那就已突破了大部分人的道德认知底线。钓鱼执法可恨，在于权力僭越程序正义，诱人违规、迫人犯罪；民间告密可诛，在于它割裂基本信任纽带，道路以目、风声鹤唳。说真的，设若举报事实属实，我也很心疼这个内心煎熬的姑娘：她的朋友圈，大概也就到此为止了。<br/><div class="contheight"></div>当然，此事关乎学校声誉，校方即便清白无虞，瓜田李下的自说自话，恐怕也难以服众。何不如，让收钱的食堂阿姨（鸭脖经营者）和买鸭脖的大学生出来“走两步”？</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 食堂阿姨事件</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2567594">
+<div class="nbgbox">
+<a class="zan" contid="2567594" href="javascript:;" onclick="voteCont(this)" praisetimes="246">
+                           245</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 女学生钓鱼举报食堂阿姨</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2567594&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2567594&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（50）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

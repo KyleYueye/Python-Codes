@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">中国投资撤离硅谷：特朗普推新政加强审查中资，多起交易告吹</h1>
+<div class="news_about">
+<p>王晓雄 译/环球时报</p>
+<p>
+							2019-01-08 11:08<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="399" src="http://image.thepaper.cn/www/image/14/24/230.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">特朗普<br/><div class="contheight"></div></span>特朗普政府推出旨在遏制中国获取美国创新成果的新政策，已使得中方对美国科技初创公司的投资几乎停滞，投资者和初创企业因来自华盛顿的审查而放弃有关交易。<br/><div class="contheight"></div>英国路透社1月7日报道，纽约荣鼎咨询公司表示，去年中国对美国初创企业的风投总额达到创纪录的30亿美元，投资者和科技公司都抢着在(美国)新监管政策获批之前完成交易。之后，中国对美国初创企业的风险投资便开始减少。<br/><div class="contheight"></div>特朗普签署新的法令，扩大政府阻挠外资投资美企的权力，特别是要阻止中国染指美战略性科技行业。新法令仍待最终批准，但科技行业从业者表示，影响已很快显现。<br/><div class="contheight"></div>曾代理美国科技公司接受外国投资的律师尼尔-奥唐纳说：“涉及中国公司、中国买家和中国投资者的交易事实上全部中止。”中国投资者们开始撤回交易，不再与美国初创公司会面。一些美国企业家也开始回避中国资金，因为担心美政府冗长的审批过程会耗尽它们的资源和发展势头。硅谷一名风投家表示，据他所知，至少有10起交易因为需获得美国外国投资委员会批准而告吹。<br/><div class="contheight"></div>中国已处于该委员会的瞄准线上。这个亚洲巨人在关乎全球竞争力和军事实力的科技领域一直是个积极投资者。对硅谷而言，缺少了中国资金并不意味着世界末日。但来自中国的投资对美企进入全球第二大经济体仍至关重要。一家位于旧金山的教育科技初创公司首席执行官卡尔森-卡恩说，拒绝中国投资使他们的海外扩张变得更困难。<br/><div class="contheight"></div>对于硅谷而言，这是一个巨大转变。(美政府的)审查威胁已令中国投资者三思。一些(美国)科技企业表示，华盛顿抑制北京的热情编织成一张过大过宽的网，许多无辜生意人陷入中间。<br/><div class="contheight"></div>（《原题为《中国投资离开硅谷》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中美关系,硅谷,科技</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2826491">
+<div class="nbgbox">
+<a class="zan" contid="2826491" href="javascript:;" onclick="voteCont(this)" praisetimes="86">
+                           85</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中美关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2826491&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2826491&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

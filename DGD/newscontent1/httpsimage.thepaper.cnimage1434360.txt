@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27234">科技湃</a>
+</div>
+<h1 class="news_title">两部门：国家最高科学技术奖800万元奖金全部属个人所得</h1>
+<div class="news_about">
+<p>澎湃新闻</p>
+<p>
+							2019-01-08 14:46<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月8日，2018年度国家科学技术奖励大会在人民大会堂举行，哈尔滨工业大学刘永坦院士，中国人民解放军陆军工程大学钱七虎院士分获国家最高科学技术奖。<br/><div class="contheight"></div>科技部、财政部联合下发《关于调整国家科学技术奖奖金标准的通知》强调，国家最高科学技术奖的奖金标准由500万元/人调整为800万元/人，全部属获奖人个人所得。<br/><div class="contheight"></div>根据通知，国家自然科学奖、国家技术发明奖、国家科学技术进步奖的特等奖奖金标准由100万元/项调整为150万元/项，一等奖奖金标准由20万元/项调整为30万元/项，二等奖奖金标准由10万元/项调整为15万元/项。<br/><div class="contheight"></div>调整后的国家科学技术奖奖金标准自2018年度国家科学技术奖起实施。<br/><div class="contheight"></div><strong>科技部 财政部关于调整国家科学技术奖奖金标准的通知</strong><br/><div class="contheight"></div>国科发奖〔2019〕7号<br/><div class="contheight"></div>各省、自治区、直辖市及计划单列市科技厅（委、局）、财政厅（局），新疆生产建设兵团科技局、财政局，国务院各有关部委、直属机构，各有关单位：<br/><div class="contheight"></div>为贯彻落实《关于深化科技奖励制度改革的方案》（国办函〔2017〕55号）有关精神，充分发挥国家科学技术奖对广大科技工作者的激励作用，释放各类人才创新活力，经国务院同意，对国家科学技术奖奖金标准进行调整。具体调整如下：<br/><div class="contheight"></div>一、国家最高科学技术奖的奖金标准由500万元/人调整为800万元/人，全部属获奖人个人所得；<br/><div class="contheight"></div>二、国家自然科学奖、国家技术发明奖、国家科学技术进步奖的特等奖奖金标准由100万元/项调整为150万元/项，一等奖奖金标准由20万元/项调整为30万元/项，二等奖奖金标准由10万元/项调整为15万元/项；<br/><div class="contheight"></div>三、调整后的国家科学技术奖奖金标准自2018年度国家科学技术奖起实施。<br/><div class="contheight"></div>特此通知。<br/><div class="contheight"></div>科 技 部　　财 政 部<br/><div class="contheight"></div>2019年1月4日</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：韩声江<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827409">
+<div class="nbgbox">
+<a class="zan" contid="2827409" href="javascript:;" onclick="voteCont(this)" praisetimes="212">
+                           211</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国家科学技术奖</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827409&caid=27234",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827409&amp;caid=27234" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜清理自媒体的灰度空间与“黑暗料理”</h1>
+<div class="news_about">
+<p>澎湃特约评论员 张涛甫</p>
+<p>
+							2018-10-25 13:09<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">技术和人性的连接，既会结出智慧和和德性的果实，也会开出恶之花和毒之果。互联网技术也是如此，在人类社会，似乎还没有哪一种技术能像互联网技术这样，如此深广地与人性连接：互联网技术触角八爪鱼般地抓住了人性，与人性欲求的格式塔全方位接入，正因乎此，互联网技术的善与恶、利与弊、美与丑，也在人性之上的实体空间和虚拟空间中前所未有地释放出来了。我们在畅享互联网带来的天量红利的同时，也饱尝了其反方向的伤害之苦。<br/><div class="contheight"></div>遥想当年，互联网问世之初，很多人对这场人类社会的新技术革命礼赞有加，认为互联网是自由的天堂，是人性解放的乌托邦，特别是那些原教旨自由主义者认为，互联网解脱了套牢在人们身上的表达枷锁，直接拆除了长期以来限制个人尽兴表达的路障，殊不知，互联网空间并不都是清风明月，这里存在灰度空间和黑暗角落。<br/><div class="contheight"></div>近期，有媒体爆料：一些地产自媒体敲诈勒索触目惊心，有自媒体公众号靠敲诈年入千万；有的自媒体靠洗稿做成大号，形成洗稿产业链，千字10元至30元找网络写手，将“爆款”原创文章移花接木、改头换面，回流到内容市场，挣流量，赚广告费。其实，网络敲诈、洗稿之类的桥段，已不是什么新闻了，只不过在不同时段上演不同花样而已。而且，网上恶之花的品种还很多，诸如谣言、水军、恶搞、色情、暴力、标题党之类，不一而足，这些品种的剧目，常常你方唱罢我登场，甚至会出现扎堆拥堵现象，释放出大量的雾霾和毒气，污染了网络空间，沙化了社会良俗，拉低了人性底线。<br/><div class="contheight"></div>技术是人类社会进步和发展的杠杆，每一次技术发明，在被接入社会的时候，都存在技术与社会的博弈和相互利用，也就是说，技术的社会化过程，是一个复杂而有趣的过程。每一次技术革命，都会引发社会系统的大盘调整，甚至出现社会颠覆性的变革。与人类社会的历次技术革命相比，互联网技术革命的能级及其引发的震级，也是最大的，它引发了人类社会系统的最大范围和深度的基因重组。究其原因，就是此前似乎还没有哪种技术，能像互联网这样如此深广地触及人性的欲求。<br/><div class="contheight"></div>互联网深度连接人性，也会把人性欲求能见度空前放大了，甚至扭曲人性的欲求，人性之恶也会恣意释放出来。在互联网技术没有大面积渗透到人类空间之前，人类社会经由长期的社会规训，人性恶被控制在相对合适的节度内，一般不会发生塌方式的礼崩乐坏和人性危机。互联网技术地毯式普及开来，弥漫到社会各个角落，引爆了一场灵魂深处的革命，直抵人性，把人性欲求大面积激活。在这种语境下，极易引发燎原式的行为失范。<br/><div class="contheight"></div>好在，我们的反应机制是灵敏的，面对技术活性带来的形形色色漏洞，我们及时亡羊补牢，对网络灰度空间进行清理，整治花样繁多的黑暗料理，多管齐下，全方位规范诸种网络失范行为，把那些被互联网撩拨起来的欲火浇灭，将人性之恶挡在社会的安全线之外。<br/><div class="contheight"></div>当然，道高一尺魔高一丈，技术在进步，技术活性也不断释放出来，新的网络“飞地”也会不断出现，人性中善与恶的博弈会在新的网络空间上演，这就要求我们的网络治理永远在路上。<br/><div class="contheight"></div><span style='color: rgb(51, 51, 51); font-family: "Hiragino Sans GB", "Microsoft Yahei", sans-serif; letter-spacing: 0.5px;'>（</span><strong style='color: rgb(51, 51, 51); font-family: "Hiragino Sans GB", "Microsoft Yahei", sans-serif; letter-spacing: 0.5px;'>作者系复旦大学新闻学院教授</strong><span style='color: rgb(51, 51, 51); font-family: "Hiragino Sans GB", "Microsoft Yahei", sans-serif; letter-spacing: 0.5px;'>）</span></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 自媒体乱象</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2563878">
+<div class="nbgbox">
+<a class="zan" contid="2563878" href="javascript:;" onclick="voteCont(this)" praisetimes="106">
+                           105</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 治理自媒体乱象</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2563878&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2563878&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

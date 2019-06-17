@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">文在寅：韩国经济面临结构性难题，要抢占先机与朝鲜合作</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2019-01-10 15:32<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网1月10日报道，据韩联社10日消息，当天上午，韩国总统文在寅在青瓦台迎宾馆举行2019年新年记者会。文在寅表示，韩国经济面临结构性难题，而朝韩开展经济合作，将为之提供巨大动力。他还说，一旦解除对朝制裁，国际资本将会竞相角逐朝鲜市场，韩国应当占领先机。<br/><div class="contheight"></div>文在寅表示，韩国经济如今面临结构性难题，过去高速增长的场景无法再现。“像朝韩经济合作这样的机会，是我们独有的。这是为我们预先准备的一份祝福。”<br/><div class="contheight"></div>文在寅说，提到朝韩经济合作，外界存在“韩国无偿援助朝鲜”的误解。实际上，<strong>以开城工业园区为例，虽然朝鲜工人也可以拿到工资收益，但韩国企业无疑受惠更大，对韩国经济也有很大帮助。</strong><br/><div class="contheight"></div>“国际社会解除对朝制裁后，朝鲜将开放经济，搞基础设施建设。届时，国际资本将竞相进入朝鲜市场。”文在寅强调，“韩国应该抢占先机，确保主导权，不能错失机会。”<br/><div class="contheight"></div>文在寅接着表示，“目前，受制裁影响，无法立即行动。但是，一旦制裁解除，就应该尽快开展事前调查和研究工作。” <br/><div class="contheight"></div>（原题为《文在寅：韩国经济面临难题 要抢占先机与朝鲜合作》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 韩国,经济难题,朝鲜</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836649">
+<div class="nbgbox">
+<a class="zan" contid="2836649" href="javascript:;" onclick="voteCont(this)" praisetimes="16">
+                           15</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 韩朝合作</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836649&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836649&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

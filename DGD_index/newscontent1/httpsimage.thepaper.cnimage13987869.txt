@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国白宫官员：为了“修墙”，特朗普倾向于宣布国家紧急状态</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-06 22:17<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">美国政府停摆如今已经进入第三周，但截至目前仍没有看到解决的可能。<br/><div class="contheight"></div>据美国有线电视新闻网（CNN）1月6日报道，一位匿名的白宫高级官员对CNN表示，如果政府方面和国会、民主党的谈判持续僵持，美国总统特朗普现在倾向于宣布国家进入紧急状态，以确保南部边境墙计划能够获得来自军方的资金支持。<br/><div class="contheight"></div>这位官员表示，虽然不是首选，但在目前各方持续僵持的状态之下，利用紧急状态下总统和政府的权力为边境墙筹措资金确实也是一种出路。<br/><div class="contheight"></div>特朗普1月5日威胁民主党方面称，如果修墙的资金一直不被通过，美国政府在接下来的“几个月或者几年”还将会是关门状态。6日，他再次在其个人社交媒体账号中抨击道，“民主党人不愿意造墙的唯一原因就是这堵墙会真正发挥作用，现有99%的跨境犯罪都会因此消失，我们实际上能够节省更多的钱。”<br/><div class="contheight"></div>据新华社1月5日报道，美国白宫和国会民主党5日各派代表就修建美国和墨西哥边境隔离墙拨款等问题举行磋商，但并未取得实质性突破。这意味着美国联邦政府“停摆”还将继续。约四分之一的联邦政府机构从去年12月22日凌晨开始陷入停顿，约80万联邦雇员工作受影响，迄今已持续15天。特朗普也在其个人社交媒体账号中写道，他6日将前往戴维营同白宫高级官员举行有关边境安全主题的一系列会议。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 边境墙，特朗普，美国</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2822044">
+<div class="nbgbox">
+<a class="zan" contid="2822044" href="javascript:;" onclick="voteCont(this)" praisetimes="122">
+                           121</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 边境墙</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2822044&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2822044&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（69）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

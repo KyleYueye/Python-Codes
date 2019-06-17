@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">习近平同阿尔及利亚总统就中阿建交60周年互致贺电</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-20 11:17<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京12月20日消息，国家主席习近平12月20日同阿尔及利亚民主人民共和国总统布特弗利卡互致贺电，庆祝两国建交60周年。<br/><div class="contheight"></div>习近平在贺电中指出，中阿传统友谊深厚，中国是第一个承认阿尔及利亚的非阿拉伯国家，阿尔及利亚是最早同新中国建交的非洲国家之一。建交60年来，两国关系始终保持良好发展势头。2014年中阿建立全面战略伙伴关系，双边关系取得了新的长足发展，各领域合作卓有成效，我对此感到十分满意。我高度重视中阿关系发展，希望双方继续携手努力，以两国建交60周年为新起点，弘扬传统友谊，深化互利合作，推动中阿全面战略伙伴关系不断迈上新台阶，更好造福两国和两国人民。<br/><div class="contheight"></div>布特弗利卡在贺电中对60年来阿中关系顺利发展表示满意。他说，两国始终相互信任，彼此支持，各领域合作成果丰硕。阿方愿继续巩固阿中政治互信，积极参与“一带一路”建设，支持构建人类命运共同体，将阿中全面战略伙伴关系提升至更高水平。<br/><div class="contheight"></div>同日，国务院总理李克强同阿尔及利亚总理乌叶海亚也互致了贺电。李克强在贺电中说，中方高度重视中阿关系发展，愿同阿尔及利亚政府一道努力，积极落实中非合作论坛北京峰会各项成果，深化共建“一带一路”框架内的各领域合作，继续增进两国人民的福祉。乌叶海亚在贺电中说，阿方愿同中方共同努力，进一步巩固阿中传统友谊，深化两国务实合作，造福友好的两国人民。<br/><div class="contheight"></div>（原题为《习近平同阿尔及利亚总统布特弗利卡就中阿建交60周年互致贺电 李克强同阿尔及利亚总理乌叶海亚互致贺电》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 习近平致贺电</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2755446">
+<div class="nbgbox">
+<a class="zan" contid="2755446" href="javascript:;" onclick="voteCont(this)" praisetimes="37">
+                           36</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 习近平致贺电</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2755446&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2755446&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（34）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

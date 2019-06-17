@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=31103">山东公安</a>
+</div>
+<h1 class="news_title">确认一个眼神，烟台民警下班路上抓获盗墓嫌犯：看过他的案卷</h1>
+<div class="news_about">
+<p>山东公安</p>
+<p>
+                            2018-12-22 20:29<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard"> “确认过眼神，你是对的人。”<br/><div class="contheight"></div>只因下班路上在人群中多看了一眼~<br/><div class="contheight"></div>咱们烟台的警察叔叔就<br/><div class="contheight"></div>成功抓获了一名盗墓贼~<br/><div class="contheight"></div>这波操作，必须给点个赞！<br/><div class="contheight"></div>12月13日，烟台莱阳市公安局合成作战中心民警在下班途中出于职业的习惯，在周围过往的人群中多看了一眼，突然在不远处一个男子身上停住了，发现了一张似曾相识的面孔。<br/><div class="contheight"></div>他细细打量着该男子，总觉得有些眼熟...<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="648" src="http://image.thepaper.cn/www/image/13/409/43.jpg" width="600"/></div>他是谁？<br/><div class="contheight"></div>突然，民警眼睛一亮<br/><div class="contheight"></div>他想起来了！<br/><div class="contheight"></div>那个男子是被滕州警方网上追逃的盗窃古墓逃犯于某！<br/><div class="contheight"></div>确认过眼神 是要抓的人<br/><div class="contheight"></div>随后，民警立即返回单位，和其他同事一起对犯罪嫌疑人于某进行追踪。民警锁定了其驾驶车辆，并确定了其落脚点。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="375" src="http://image.thepaper.cn/www/image/13/409/44.jpg" width="600"/></div>随后民警立即组织警力赶赴该小区进行暗中摸排，最终确认了于某的具体住址。12月17日下午，民警将外出返回的于某当场抓获。<br/><div class="contheight"></div>经查，犯罪嫌疑人于某（男，50岁，巨野县人），伙同他人在滕州市盗掘古墓遗址，2016年被滕州市公安机关网上追逃。目前，案件正在进一步办理中。<br/><div class="contheight"></div>下班路上顺手抓逃犯，这样的事件看似偶然，实际上却是必然！<br/><div class="contheight"></div>要知道民警们得反复看多少遍案卷才能将那么多的犯罪嫌疑人的面孔一一刻在脑海。<br/><div class="contheight"></div>而那一秒锁定犯罪分子的“火眼金睛”，其实都包含着民警们平日里的辛苦付出。<br/><div class="contheight"></div>人民警察辛苦了！<br/><div class="contheight"></div>致敬！点赞！<br/><div class="contheight"></div>来源 |烟台公安<br/><div class="contheight"></div>编辑 | 陈万里<br/><div class="contheight"></div>审核 | 刘冠伟</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2764447">
+<div class="nbgbox ">
+<a class="zan" contid="2764447" href="javascript:;" onclick="voteCont(this)" praisetimes="387">
+                                    386</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">旅日大熊猫香香今年就要还回中国了，日本：想商量下延期</h1>
+<div class="news_about">
+<p>王珊宁/海外网</p>
+<p>
+							2019-01-09 21:42<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网1月9日消息，据日本NHK电视台报道，生活在日本东京上野动物园的旅日大熊猫宝宝“香香”2019年就2岁了，可能于6月份归还给中国。东京都知事小池百合子9日表示，日本民众都在呼吁希望能延期还熊猫，近期日本政府在考虑和中国商量这件事。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/84/531.jpg" width="100%"/></div><span style="color: rgb(128, 128, 128);">大熊猫宝宝“香香”  视觉中国 图</span><br/><div class="contheight"></div>日本人非常喜欢“香香”。2017年6月“香香”在日本出生，迅速霸占日本各大头条，一时间“火”遍全日本。为了预约看“香香”，动物园电话被“打爆”。园方采取了抽签制，一个月内每天只接待2000人。“香香”正式与公众见面首日，共1397人入场，中签比例约为45:1。媒体称，一名男子为了看“香香”特意休了年假，提前一天住到动物园附近酒店，还特意买了新相机。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="280" src="http://image.thepaper.cn/www/image/14/84/530.png" width="500"/></div><span style="color: rgb(128, 128, 128);">上野动物园门口，人们排长队等着看“香香”</span><br/><div class="contheight"></div>日媒称，上野动物园和中方签署了一份协议，内容是，当“香香”满24个月时就要返还给中国，双方再另行商议具体的返还日期。到6月份“香香”就2岁了，很可能在6月份就要还给中国。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/84/532.png" width="100%"/></div><span style="color: rgb(128, 128, 128);">东京都知事小池百合子接受采访</span><br/><div class="contheight"></div>针对此事，东京都知事小池百合子9日表示：“今年6月份它就满两岁了，在此之前希望能根据协议再和中国具体商量”。小池还表示，因为日本民众特别喜欢“香香”，希望能够延期归还给中国。“‘香香’受到所有日本市民的喜爱，考虑到大家的心情，希望‘香香’能在这边再多留一段时间。”<br/><div class="contheight"></div>据悉，中日间具体协商的日期还在调整中。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="239" src="http://image.thepaper.cn/www/image/14/84/528.jpg" width="388"/></div><span style="color: rgb(128, 128, 128);">华春莹露出灿烂笑容</span><br/><div class="contheight"></div>2017年，在中国外交部的例行记者会上，一名日本记者用英语询问中国外交部发言人华春莹，对于“香香”在东京上野动物园公开亮相的评价时，华春莹严肃地回答道：“我们希望日方与中方能够相向而行，按照中日之间的四点原则共识和四个联合的文件，来妥善处理好有关的问题。”之所以会答非所问，是因为发音的问题，华春莹把这位记者说的“香香”听成了日本外务省事务次官“杉山”的名字。<br/><div class="contheight"></div>经身边记者提醒后，华春莹随即露出了一个灿烂的笑容，表示：“大熊猫非常招人喜欢，是促进中外友好交流的‘小使者’。我们也希望香香能够为增进中日人民之间的感情和友谊，为推动中日关系健康发展发挥‘小使者’的积极作用。”现场也随即传出了轻松的笑声。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="326" src="http://image.thepaper.cn/www/image/14/84/529.gif" width="594"/></div><span style="color: rgb(128, 128, 128);">旅日大熊猫“香香”</span><br/><div class="contheight"></div>日本网友也纷纷被华春莹的笑容感染，他们留言称：“华春莹桑超可爱。”还有网友为华春莹的反应点赞：“虽然我是日本人，但连我都不知道外务省的杉山，而她却知道，很伟大。”中国网民也笑称：“香香”不仅让日本民众为之“疯狂”，还“圈粉”了华春莹。<br/><div class="contheight"></div>（原题为《熊猫香香今年就要还回中国了 日本：想商量下延期》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 旅日大熊猫</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2833161">
+<div class="nbgbox">
+<a class="zan" contid="2833161" href="javascript:;" onclick="voteCont(this)" praisetimes="195">
+                           194</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 旅日大熊猫</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2833161&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2833161&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（992）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

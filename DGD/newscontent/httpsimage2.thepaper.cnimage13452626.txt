@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">广东查处新丰县练溪托养中心虐待被托养人员案</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-24 14:10<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社广州12月24日消息，24日，广东省韶关市中级人民法院和乐昌市、仁化县人民法院分别作出一审判决，对新丰县练溪托养中心虐待被托养人员案涉案的20名被告人追究刑事责任，被告人李翠琼、潘忠蔼分别被判处死刑缓期二年执行和无期徒刑；广东省纪检监察机关对事件中存在失职失责问题的107名公职人员同时进行了严肃问责。<br/><div class="contheight"></div>法院经审理查明，被告人李翠琼（新丰县民政局原局长）、潘忠蔼（新丰县民政局原主任科员）等人为牟取非法利益，利用职权，合伙违规成立托养中心，非法经营期间，存在虐待被托养人员等行为，并造成被托养人员身体健康受损死亡。曾任新丰县分管民政工作副县长的赖展锋等7名被告人不依法履行监管职责，导致该托养中心实际脱离监管、长期违法经营。<br/><div class="contheight"></div>审理法院认为，该案性质恶劣，后果严重。综合考虑各被告人的犯罪事实、犯罪情节以及悔罪表现等因素，依法以故意伤害罪、虐待被看护人罪、滥用职权罪对李翠琼、潘忠蔼数罪并罚，分别判处死刑缓期二年执行和无期徒刑，追缴全部违法所得；依法以玩忽职守罪、受贿罪对赖展锋数罪并罚，判处有期徒刑八年；依法对其余被告人分别判处有期徒刑。<br/><div class="contheight"></div>部分人大代表、政协委员、新闻记者以及当地群众和被告人家属等旁听了各案的公开审理。<br/><div class="contheight"></div>同时，记者从广东省纪委监委获悉，根据有关规定，广东省对在该事件中存在失职失责问题的新丰县、韶关市和省民政厅等单位107名公职人员进行了严肃问责。其中，给予省政府副秘书长刘洪（时任省民政厅厅长）留党察看二年、政务撤职处分，降为副处级非领导职务；给予新丰县委书记陈景辉（已免职）开除党籍、开除公职处分。对其他相关责任人，也分别给予了党纪政务处分。<br/><div class="contheight"></div>记者获悉，2017年2月发现新丰县练溪托养中心虐待被托养人员并造成人员死亡事件后，广东省委省政府迅速成立省市联合调查组全面查清事件，对练溪托养中心被托养人员进行妥善安置，并深刻汲取教训，举一反三，对全省社会救助托养机构进行全面清查，排查和整治问题隐患。同时修订了《广东省民办社会福利机构管理规定》，出台《广东省社会救助条例》，强化救助管理工作保障。（本文原题为《广东查处新丰县练溪托养中心虐待被托养人员案：20人被追刑责　107名公职人员被问责》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 广东,托养中心,虐待</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768658">
+<div class="nbgbox">
+<a class="zan" contid="2768658" href="javascript:;" onclick="voteCont(this)" praisetimes="218">
+                           217</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 练溪托养中心</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768658&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768658&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,80 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">“一大会址”日记｜香港理工大三学生：这是必须要来的地方</h1>
+<div class="news_about">
+<p>澎湃新闻驻中共一大会址报道组记者 杨帆</p>
+<p>
+							2019-01-08 21:49<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><strong>【编者按】</strong><br/><div class="contheight"></div><u>2017年10月31日，党的十九大闭幕仅一周，习近平总书记带领中共中央政治局常委，集体瞻仰上海中共一大会址和浙江嘉兴南湖红船，在广大党员干部群众中引起热烈反响。<br/><div class="contheight"></div>连日来，全国各地前往一大会址纪念馆参观的党员群众络绎不绝，在中国共产党人的精神家园，他们回顾建党历史，重温入党誓词，不忘初心，砥砺前行。<br/><div class="contheight"></div>澎湃新闻推出“一大会址”日记，派出记者常驻中共一大会址，近距离观察、感受、记录会址每天的新闻，讲述一大的红色故事，传承中国共产党人的初心。</u><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/14/46/550.jpeg" width="600"/></div><span style="color: rgb(128, 128, 128);">2019年1月8日，中共一大会址纪念馆，李明泽在《留日学生全体泣告全国同胞书》前留影。澎湃新闻记者 杨帆 摄</span><br/><div class="contheight"></div>2019年1月8日，星期二，阴。<br/><div class="contheight"></div>阴雨绵绵，没有冲淡参观者瞻仰中共一大会址的热情。上午11时许，李明泽和妈妈一起走进了中共一大会址纪念馆。<br/><div class="contheight"></div>李明泽告诉澎湃新闻（www.thepaper.cn）记者，他目前是香港理工大学的大三学生。趁着假期来上海，一方面是了解这座城市，提前规划一下以后的发展；另一方面也想逛逛上海的地标，这其中就有一大会址纪念馆。<br/><div class="contheight"></div>“之前不清楚周一闭馆，昨天就没能进去，所以我们这是第二次来这里了。”他说，自己来自河南郑州，高考之后选择到香港读书，在和内地读书的高中同学交流过程中，他感觉自己在大学生活中缺乏历史知识和教育，所以决定多补习历史知识，“所以一大会址纪念馆是必须要来的地方。”<br/><div class="contheight"></div>“今天来不仅是参观，更是在这些客观的历史实物中去感受和学习，这比单纯的书本知识来得更加直观。”李明泽在《留日学生全体泣告全国同胞书》前驻足良久，“字里行间能感受到当时知识分子发自内心的爱国热情。”<br/><div class="contheight"></div>他说，作为新时代青年，他希望自己能积累更多的历史和思想文化知识，“这样不仅能充实自己，也能在以后的日子里，继续传承给下一代。”</div>
+<div class="go_to_topic">
+<p style="line-height: 20px; margin-bottom:5px">
+<img alt="" src="//file.thepaper.cn/www/v3/img/topic.gif" style="float:left">
+<a href="newsDetail_forward_29866" target="_blank">
+<span class="news_topic">
+                              【专题】中共一大会址日记</span>
+</a>
+</img></p></div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王维佳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; “一大会址”日记,香港理工大学</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828996">
+<div class="nbgbox">
+<a class="zan" contid="2828996" href="javascript:;" onclick="voteCont(this)" praisetimes="5">
+                           4</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: “一大会址”日记</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828996&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828996&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

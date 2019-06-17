@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=65656">宁夏日报</a>
+</div>
+<h1 class="news_title">银川一男子酒后多次报警谎称"有炸药"，获刑两年</h1>
+<div class="news_about">
+<p>宁夏日报</p>
+<p>
+                            2019-01-09 12:45<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard">记者1月8日从银川市金凤区法院获悉，因90后青年姬某某喝酒后多次拨打110报警谎称一居民家中放置数公斤炸药，法院以编造虚假恐怖信息案对其进行一审宣判，被告人姬某某获刑2年。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="429" src="http://image.thepaper.cn/www/image/14/69/794.jpg" width="600"/></div>金凤区居民姬某某与海某某的女儿存在感情纠纷，多次联系海某某协商解决被拒，遂心怀不满。去年9月13日零时至4时许，姬某某酒后用手机多次拨打110、金凤区良田镇派出所值班电话，报警称海某某家院中放置着数公斤炸药。期间，姬某某还多次打电话给海某某，称其家中有爆炸物并对其进行恐吓。银川市公安局110指挥中心接警后，紧急调动银川市公安局特警支队、技侦支队、金凤区公安分局良田镇派出所等部门的警力，采取紧急应对措施前往现场进行人员疏散、防爆排查。经警方现场排查，未发现有爆炸物。9月14日凌晨，警方将姬某某抓获。<br/><div class="contheight"></div>金凤区法院审理认为，被告人姬某某因个人情感问题，酒后编造虚假爆炸恐怖信息威胁恐吓被害人，并报警制造恐慌，造成警方多部门采取紧急应对措施进行处置排查，严重扰乱社会秩序，其行为已构成编造虚假恐怖信息罪，应予刑事处罚，依法判处被告人姬某某犯编造虚假恐怖信息罪，判处有期徒刑2年。（记者　张涛）<br/><div class="contheight"></div>（原标题：《银川一男子报警谎称"有炸药"，获刑两年》）<br/><div class="contheight"></div></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2831407">
+<div class="nbgbox ">
+<a class="zan" contid="2831407" href="javascript:;" onclick="voteCont(this)" praisetimes="13">
+                                    12</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

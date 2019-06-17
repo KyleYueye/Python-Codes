@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美司法部又逮捕一名中国工程师，称其窃取石油公司商业机密</h1>
+<div class="news_about">
+<p>环球网</p>
+<p>
+							2018-12-23 13:37<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">环球时报-环球网报12月23日消息，根据路透社报道，美国司法部周五对外宣称已于20日逮捕了一名名叫谭洪进（音）的中国公民，称其从他任职的一家美国石油公司窃取了与价值超过10亿美元产品有关的商业机密。美国司法部称，谭洪进涉嫌下载了数百份与制造一种“下游能源市场研发产品”相关的文件，并计划将这些文件提供给他将任职的一家中国公司。<br/><div class="contheight"></div>在12月20日的同一天，美国司法部还对任职于中国天津一家公司的两名中国公民提起诉讼，指控他们在十多年的时间里与中国国家安全部门联合开展了一场广泛的黑客活动，涉嫌渗透45家美国公司和政府机构，窃取知识产权和其他数据。美国联邦调查局（FBI）已对两名中国公民发出全球通辑令。美国联邦调查局局长克里斯托弗·雷声称，“中国的目的很明确，就是以非法手段取代美国的超级大国地位。”<br/><div class="contheight"></div>同一天遭逮捕的谭洪进据其LinkedIn页面信息显示为自2017年5月以来，一直在跨国能源公司菲利普斯66公司（Phillips 66）在俄克拉荷马州巴特尔斯维尔（Bartlesville）的部门任技术专家。信息显示，这家公司成立于1875年，总部位于休斯顿，是一家能源生产和物流公司。Phillips 66也发声明表示，正协助联邦调查局（FBI）调查涉及该起的案件，但拒绝发表评论。<br/><div class="contheight"></div>消息显示谭洪进目前仍被拘留，他的预审和拘留听证会定于下周举行。<br/><div class="contheight"></div>在此之前，美国曾多次以窃取商业机密为由指控并逮捕在美工作的华裔工程师。而20日，美国司法部一日连诉三名中国公民，不能不让人怀疑这是出于政治目的发起的一场构陷。<br/><div class="contheight"></div>针对谭洪进被捕一案，中国外交部目前还未表态。但在21日的新闻发布会上，新闻发言人华春莹针对美司法部起诉两名中国公民表示，美国作为当今世界第一强国，不仅妄自尊大、自私自利，而且出于维护自身霸权的狭隘零和思维，对打压别国正当发展权利无所不用其极，甚至不惜捏造事实、无中生有。这与它大国的地位不相符。这样的一个美国对世界的和平与发展不是好事，从长远看也不利于美国自身利益。<br/><div class="contheight"></div>联想起最近相当长时间内美国对中国科学家、留学生和在美华人“从事间谍活动”的连续指责，中国社会科学院美国所副所长倪峰日前在接受《环球时报》记者采访时表示，今天美国所做的一切已经和近七十年前的“麦卡锡主义”有了很多类似的地方。倪峰指出，在麦卡锡所处的冷战时代，美国的所作所为是源于对共产主义根深蒂固的恐惧，而在今天，美国对中国的恐惧已不再是意识形态层面，而源于一种在科技、国力上被超越的担忧。在这一背景下，作为维护国家利益的隐秘力量，美国的司法、情报部门最先有所动作不足为奇。<br/><div class="contheight"></div>但倪峰同时认为，从皮尤调查中心的数据看，美国普通大众对中国的好感度在近些年持续增加，即便今年因贸易战的缘故下滑了两三个百分点，但好感度仍比前些年高不少。倪峰认为，“这是由于两国社会交往的频率与范围都不断增加，从日常生活而非战略层面审视中国的美国大众与精英阶层在对华看法上出现了严重割裂。美国大众看到的是一个越来越亲和、发展而非此前被‘妖魔’’的中国。” （本文原题为《美司法部又逮捕一名中国工程师，罪名还是老一套！》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国,逮捕,中国工程师</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766205">
+<div class="nbgbox">
+<a class="zan" contid="2766205" href="javascript:;" onclick="voteCont(this)" praisetimes="222">
+                           221</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中美关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766205&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766205&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（69）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

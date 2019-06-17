@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">外媒：富士康明年将在印度组装iPhone，投巨资扩建工厂</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-27 21:11<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">消息人士透露，美国苹果公司最快将于2019年开始通过富士康在印度的工厂组装iPhone手机。据悉，这将是富士康首次在印度生产该手机。<br/><div class="contheight"></div>路透社27日报道，这位消息人士说，富士康将在印度生产苹果公司最昂贵的高端机型，包括其目前的旗舰产品iPhone X系列。这位消息人士说，这可能会帮助苹果公司将其在印度的业务提升到一个新的水平。<br/><div class="contheight"></div>《华尔街日报》12月18日曾报道，鉴于全球智能手机销售正趋于平缓，苹果公司等智能手机生产商正寄望从印度市场以及当地新增手机用户中挖掘商机来实现增长。但作为科技巨头的苹果公司在印度的市场份额持续下滑，收入远低于预期，在当地的领导层也动荡不稳。<br/><div class="contheight"></div>为了追赶竞争对手，苹果公司去年在印度南部城市班加罗尔附近建立了一家工厂，用来组装其最便宜的机型iPhone SE。<br/><div class="contheight"></div>上述消息人士向路透社透露，组装苹果手机的工作将在富士康位于泰米尔纳德邦(Tamil Nadu)Sriperumbudur镇的工厂进行。<br/><div class="contheight"></div>泰米尔纳德邦工业部长M C Sampath向路透社透露，富士康将投资250亿卢比（约3.56亿美元）扩建这一工厂。他说，这一投资将为当地创造25000个工作岗位。<br/><div class="contheight"></div>富士康已在印度有多家工厂，2015年富士康还曾宣布将在马哈拉托特拉邦投资50亿美元，建设一座手机及零部件工厂，并将在2020年为当地创造5万个就业岗位。今年7月，印度《经济时报》曾报道该计划的有关进展。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：辛恩波<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 印度,制造业,苹果,富士康</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2781789">
+<div class="nbgbox">
+<a class="zan" contid="2781789" href="javascript:;" onclick="voteCont(this)" praisetimes="102">
+                           101</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 富士康</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2781789&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2781789&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（84）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

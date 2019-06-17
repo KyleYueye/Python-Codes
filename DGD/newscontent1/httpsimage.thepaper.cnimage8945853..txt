@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">深观察｜我们需要一部《反网络暴力法》</h1>
+<div class="news_about">
+<p>澎湃特约评论员 周成洋</p>
+<p>
+							2018-07-18 14:46<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近年来，网络暴力事件问题愈演愈烈。它不仅刺激和挑动着社会矛盾，更是造成了群体对立与意识观念割裂。网络暴力行对公民的人身权利的实质性伤害，早已经超出网络舆论的边界。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="309" src="http://image.thepaper.cn/www/image/8/945/851.jpeg" width="550"/></div><span style="color: rgb(128, 128, 128);">“菲妥妥”的生活照。  网络图</span><span style="color: rgb(128, 128, 128);"><br/><div class="contheight"></div></span>今年5月31日，湖南某高速公路服务区发生一起一家三口自杀案（两人死亡）。实际上，之前死者“菲妥妥”之前就在微博上宣告过自杀，后被警方解救。然而，有一些网友认为菲妥妥自杀是“演戏”，随之而来的是海量的侮辱和讽刺。结果这一家没有败给生活，却败给了网络暴力，菲妥妥自杀后，没有一个咒骂她的网民表示过忏悔。<br/><div class="contheight"></div>今年 6月末，江苏南京江宁一男子见2岁幼儿被泰迪犬咬伤，一气之下将狗摔死，虽已与狗主人达成和解，没想到却卷入了网络暴力漩涡。爱狗人士对他及家人进行“人肉”，电话骚扰、短信威胁咒骂。巨大的恐惧感，让其妻子无法忍受，选择割腕“为狗偿命”。<br/><div class="contheight"></div>再比如，电影《我不是药神》的主角之一，因为拒演了由其成名作电视剧而翻拍的电影，结果引起了一些人的不满，他不仅被打上“忘恩负义”的标签，甚至就连《我不是药神》都遭遇一些人的恶意差评。<br/><div class="contheight"></div>网络语言暴力，指的并非是正常的批评性言论，而是指通过网络平台传播的侮辱、诽谤、诋毁以及其他恶意攻击个人的负面性言论。这些言论早已超过正常的言论边界，有些言论本身就违背了相关法律，但在追究具体责任人的时候，很难有一套行之有效的执法措施。在网络暴力的场景之下，施暴者并非一个人，而是一群人，这增加了维权成本，更提高了司法机关介入的门槛。<br/><div class="contheight"></div>目前，关于网络暴力的法律法规尚不明晰。由于没有一部专门的法律对网络暴力行为进行限制，建立规范的网络伦理，这使得网络暴力一直被作为“道德问题”，人们忽视了其应受法律惩罚性，对自身行为的约束也降低了。<br/><div class="contheight"></div>与网络暴力相关的民事责任、行政责任、刑事责任，虽然都能从相关法律里找到散见的法律依据，可是在具体的“行为定性”上仍然会出现分歧，这也造成公安机关介入处理此类案件时，往往是投入成本高，实际处理打击小，现实效果偏差。<br/><div class="contheight"></div>当前，推动网络暴力的人群有一个逻辑误区，他们经常用被施暴者个人行为的错误来论证自己施暴行为的“正义”。目前看到的各类网络暴力事件，都在混淆法律的边界，都在试图用民粹道德的标准去说明网络暴力行为的正确，不得不说是让人遗憾的。比如，一个人在某一方面犯了错，施暴者便觉得对其网络暴力是合法的、正当的。其实，他人的错误行为，绝不是我们可以肆意妄为的理由。<br/><div class="contheight"></div>新的问题需要新的解决方案。因此，有必要推动《反网络暴力法》的制定，正如《反家庭暴力法》的实施带来的改变。应进一步研究实施《反网络暴力法》的可行性与难点，在充分调研的基础上，梳理网络暴力中的具体行为，要明确平台的相关责任，将针对网络暴力的法律责任——禁言、注销账号、行政罚款、行政拘留、追究刑事责任——也需要形成一个有机体，针对网络暴力也应有明确的执法机制。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 网络暴力 菲妥妥</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2272917">
+<div class="nbgbox">
+<a class="zan" contid="2272917" href="javascript:;" onclick="voteCont(this)" praisetimes="173">
+                           172</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 网络暴力</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2272917&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2272917&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（772）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

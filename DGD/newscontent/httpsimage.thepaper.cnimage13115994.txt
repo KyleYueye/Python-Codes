@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">外交部：加拿大前外交官供职的组织未备案，违反我国相关法律</h1>
+<div class="news_about">
+<p>赵萌/@北京青年报</p>
+<p>
+							2018-12-12 15:24<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">北京青年报微博12月12日消息，在12日的外交部例行记者会上，针对有报道称加拿大前外交官康明凯（Michael Kovrig）近日被中国政府拘留一事，发言人陆慷进行了回应。他表示，对于上述报道提及的事情目前没有相关的情况可以提供。如果有这样的事情，也请你放心，<strong>中国相关部门肯定会依法依规来处理。</strong><br/><div class="contheight"></div>陆慷还表示：“据我了解，<strong>康明凯供职的国际危机组织（International Crisis Group）在中国并没有备案</strong>。那么，<strong>如果没有备案的话，它的人员在中国从事活动，就已经违反了去年刚刚修订的《中华人民共和国境外非政府组织境内活动管理法》</strong>。”<br/><div class="contheight"></div>（原题为《外交部回应加拿大前外交官康明凯被拘事件》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 加拿大前外交官,康明凯,被拘留,外交部</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2730800">
+<div class="nbgbox">
+<a class="zan" contid="2730800" href="javascript:;" onclick="voteCont(this)" praisetimes="8174">
+                           8173</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 外交部例行记者会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2730800&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2730800&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（788）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">国有金融企业首次报家底：总额241万亿，银行业比重最大</h1>
+<div class="news_about">
+<p>澎湃新闻记者 庄岸</p>
+<p>
+							2018-10-24 21:35<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">国有金融企业首次报“家底”：总额241万亿。10月24日，第十三届全国人大常委会第六次会议审议了《国务院关于2017年度金融企业国有资产的专项报告》，报告显示，国有资本布局逐步优化，“有进有退”的两性态势逐渐成形，银行业金融机构占比最大。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）注意到，这是国有金融资产首次全口径、全覆盖向外报“明白账”。报告还要求全面加强党的建设，“探索坚持党的领导与完善公司法人治理结构相结合的有效途径。”<br/><div class="contheight"></div><strong>国有资产总额241万亿，银行业金融机构占比最大</strong><br/><div class="contheight"></div>我国金融企业国有资产 (国有资本应享有权益)主要分布在财政部管理的中央国有金融企业 、金融管理部门管理的金融基础设施类机构、中央企业集团 (非金融)管理的下属各级金融子公司，以及地方金融企业。<br/><div class="contheight"></div>上述报告对我国境内外国有金融资产“家底”进行了全面展示，既重点报告中央情况，也汇总反映地方情况；中央层面，除报告财政部管理的中央国有金融企业外，还汇总统计了金融管理部门下属金融基础设施类机构、中央企业集团（非金融）控股各级金融子公司等情况，实现了中央要求的全口径、全覆盖。<br/><div class="contheight"></div>报告显示，截至2017年末，全国金融企业资产总额241万亿元，负债总额217.3万亿元，形成国有资产（国有资本应享有权益）16.2万亿元。国有金融资本规模稳步增长，实力日益壮大。<br/><div class="contheight"></div>从行业布局来看，银行业金融机构占比最大。截至2017年末，中央层面，银行业金融机构资产总额、国有资产分别占84.8%、65.3%；证券业分别占0.6%、1.8%；保险业分别占3.7%、3.2%。地方层面，银行业金融机构资产总额、国有资产分别占89.1%、54.2%；证券业分别占4.4%、12.6%；保险业分别占2.8%、3.1%。<br/><div class="contheight"></div><strong>国有资本布局“有进有退”，将扩大民间资本股权</strong><br/><div class="contheight"></div>国有资本如何布局，直接影响着资本配置效率的高低。财政部部长刘昆指出，2013年以来，围绕“进”与“退”，“为”与“不为”，金融企业国有资本整体布局实现了一系列良性调整。主要从三个方面着力：<br/><div class="contheight"></div>一是“该进则进”，国有金融资本向重点领域集中，控制力和影响力增强。报告中提到，通过对国有大型商业银行、政策性银行、开发性金融机构补充资本金，国有资本更多向关系国民经济命脉和国家金融安全的重要行业、关键领域、重点金融机构集中，提高了国有金融机构服务实体经济和防范化解风险的实力。<br/><div class="contheight"></div>二是“该退则退”，通过低效无效资产退出，减少对国有金融资本的占用。近年来，中央国有金融企业积极聚焦主业，重组内部资源，处置非核心业务资产，主动回归本源。<br/><div class="contheight"></div>三是 “该合则合”，中央国有金融企业加大资源整合力度，重组步伐加快。报告中提到光大集团等10家国有金融企业进行了重组，减少同质化竞争，增加协同效应。整合后的金融企业总体实力不断提高，国际竞争力和影响力日益增强。<br/><div class="contheight"></div>此外，报告中还提到，国有资本将通过优化竞争性国有金融机构股权结构，通过减持、引资、扩大对外开放等适度降低国有股占比，扩大民间资本股权，既减少对国有金融资本的过度占用，又要确保国有金融资本在金融领域保持必要的控制力，从而达到进一步优化国有金融资本战略布局，提高配置效率的目的。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：朱远祥<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 金融 国有 资产 人大</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2562330">
+<div class="nbgbox">
+<a class="zan" contid="2562330" href="javascript:;" onclick="voteCont(this)" praisetimes="32">
+                           31</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 金融</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2562330&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2562330&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

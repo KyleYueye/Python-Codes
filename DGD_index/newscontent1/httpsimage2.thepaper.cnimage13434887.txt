@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">集体经营性建设用地拟入市，明确农用地征补标准</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林平</p>
+<p>
+							2018-12-23 20:06<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月23日，《土地管理法修正案（草案）》提交十三届全国人大常委会第七次会议审议，自然资源部部长陆昊在作草案说明时指出，允许土地所有权人通过出让、出租等方式交由单位或者个人使用，扫清集体经营性建设用地入市的法律障碍。<br/><div class="contheight"></div><strong>集体经营性建设用地拟入市，允许出让流转</strong><br/><div class="contheight"></div>2015年2月，全国人大常委会通过决定，授权国务院在北京市大兴区等33个县市区推进农村农村土地征收、集体经营性建设用地入市、宅基地制度改革试点。该授权的期限于2017年12月31日届满。2017年10月31日，全国人大常委会审议将上述三项改革试点期限延长１年，至2018年12月31日。<br/><div class="contheight"></div>澎湃新闻注意到，修改土地管理法位列入全国人大常委会、国务院2018年立法工作计划。草案共二十九条，主要修改内容涉及土地征收、集体经营性建设用地入市、宅基地制度等方面。<br/><div class="contheight"></div>值得关注的是，为破解集体经营性建设用地入市的法律障碍，草案删去了从事非农业建设必须使用国有土地或者征为国有的原集体土地的规定。<br/><div class="contheight"></div>具体包括，一是明确入市的条件。对土地利用总体规划确定为工业、商业等经营性用途，并经依法登记的集体建设用地，允许土地所有权人通过出让、出租等方式交由单位或者个人使用，并应当签订书面合同，明确用地供应、动工期限、使用期限、规划用途和双方其他权利义务。<br/><div class="contheight"></div>二是明确集体经营性建设用地入市后的管理措施。为维护土地管理秩序，草案明确要求集体建设用地使用权人严格按照土地利用总体规划确定的用途使用土地；集体建设用地使用权的最高年限、登记等，参照同类用途的国有建设用地执行。具体办法由国务院自然资源主管部门制定。<br/><div class="contheight"></div><strong>六种情形可征集体土地，明确农用地征收补偿标准</strong><br/><div class="contheight"></div>在修法方向上，前述草案在征地补偿标准、宅基地审批等直接关系农民利益的问题上坚持“只做加法、不做减法”原则，并强化了对被征地农民的社会保障、住宅补偿等制度。<br/><div class="contheight"></div>比如，缩小了土地征收范围。草案删去了现行土地管理法关于从事非农业建设使用土地的，必须使用国有土地或者征为国有的原集体土地的规定；明确因政府组织实施基础设施建设、公共事业、成片开发建设等六种情形需要用地的，可以征收集体土地。其中成片开发可以征收土地的范围限定在土地利用总体规划确定的城镇建设用地范围内，此外不能再实施“成片开发”征地，为集体经营性建设用地入市预留空间。<br/><div class="contheight"></div>其次，土地征收程序得以进一步规范。草案要求市、县人民政府申请征收土地前进行土地现状调查、公告听取被征地的农村集体经济组织及其成员意见、组织开展社会稳定风险评估等前期工作，与拟征收土地的所有权人、使用权人就补偿安置等签订协议，测算并落实有关费用，保证足额到位，方可申请征收土地。个别确实难以达成协议的，应当在申请征收土地时如实说明，供审批机关决策参考。<br/><div class="contheight"></div>三是完善对被征地农民合理、规范、多元保障机制。草案明确了征收农用地的土地补偿费、安置补助费标准由省、自治区、直辖市制定公布区片综合地价确定，制定区片综合地价要综合考虑土地原用途、土地资源条件、土地产值、安置人ロ、区位、供求关系以及经济社会发展水平等因素，在实践中稳步推进，防止攀比。<br/><div class="contheight"></div>陆昊表示，考虑到农村村民住宅补偿、被征地农民社会保障费用对被征地农民住有所居和长远生计的重要性，将这两项费用单列，明确征收农村村民住宅要按照先补偿后搬迁、居住条件有改善的原则，尊重农村村民意愿，采取重新安排宅基地建房、提供安置房等方式，保障其居住权，并将被征地农民纳入相应的养老等社会保障体系。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：胥辉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 土地制度 入市 征补标准</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766804">
+<div class="nbgbox">
+<a class="zan" contid="2766804" href="javascript:;" onclick="voteCont(this)" praisetimes="589">
+                           588</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 土地制度</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766804&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766804&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（56）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

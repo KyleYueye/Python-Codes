@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">中组部：从代中央管理党费划拨1.8亿余元慰问生活困难党员</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-26 16:39<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京12月26日消息，为充分体现以习近平同志为核心的党中央对生活困难党员、老党员、老干部的关怀，日前，经中央领导同志同意，中央组织部从代中央管理党费中划拨18080万元，专门用于2019年元旦春节期间走访慰问生活困难党员、老党员、老干部，走访慰问基层干部特别是工作在困难艰苦地区和战斗在脱贫攻坚第一线的干部、因公殉职或者不幸去世的优秀基层干部家属。村（社区）老骨干和因病致贫的特困群众、确有困难的大学生村官和基层党务工作者也可纳入走访慰问范围。<br/><div class="contheight"></div>中央组织部要求，各级党组织要把开展走访慰问活动作为深入学习贯彻习近平新时代中国特色社会主义思想、加强党内激励关怀帮扶的重要举措，高度重视，精心组织，达到“慰问一人、温暖一户、带动一片”的效果。各级党委组织部门要从代本级党委（工委）管理党费中配套相应额度用于走访慰问，确保专款专用，让党员干部和广大人民群众切身感受到党中央的关怀和温暖。<br/><div class="contheight"></div>（原题为《中央组织部从代中央管理党费中划拨18080万元用于元旦春节期间走访慰问生活困难党员、老党员、老干部》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中组部,中央管理党费</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776650">
+<div class="nbgbox">
+<a class="zan" contid="2776650" href="javascript:;" onclick="voteCont(this)" praisetimes="13">
+                           12</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中组部</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776650&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776650&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

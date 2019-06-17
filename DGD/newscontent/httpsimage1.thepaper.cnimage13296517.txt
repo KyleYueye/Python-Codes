@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">因第二次“金特会”遇阻，美国朝鲜问题特使本周访韩商讨</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2018-12-19 06:33<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="337" src="http://image.thepaper.cn/www/image/13/296/515.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">左为美国朝鲜问题特使斯蒂芬·比根<br/><div class="contheight"></div></span>海外网12月19日电，据美联社消息，美国国务院当地时间周二（18日）表示，由于美朝高层之间直接会谈的日期尚不确定，美国朝鲜问题特使斯蒂芬·比根（Stephen Biegun）本周将访问韩国。<br/><div class="contheight"></div>该部门在一份简短的声明中称，斯蒂芬·别根将于本周三和周四访问首尔，与韩国高级官员围绕朝鲜半岛无核化问题展开对话。声明中还提到，为推动朝鲜半岛无核化，此次会谈也将推进相关的朝韩南北合作项目。<br/><div class="contheight"></div>据海外网此前报道，今年6月12日，首次美朝首脑会晤在新加坡举行。这也是美朝在任领导人史上首次会晤。双方签署历史性文件，共同发表声明。美方承诺为朝鲜提供安全保证，而金正恩也重申了他对朝鲜半岛完全无核化坚定不移的承诺。<br/><div class="contheight"></div>不过，随着8月底美国国务卿蓬佩奥访朝被临时叫停，朝美双方基本中断了各种高层往来。10月9日，特朗普曾表示，第二次朝美首脑会晤将在11月6日美国中期选举后举行，但也未能如期实现，朝美两国半岛无核化谈判再次陷入僵局。<br/><div class="contheight"></div>报道称，尽管朝美双方的高层谈话一再推迟，美方仍然相信，第二次“金特会”将在明年年初进行。<br/><div class="contheight"></div>另据报道，近日因系列制裁问题，朝美关系陷入紧张。朝鲜外务省美国研究所政策研究室室长16日发表谈话说，美国以所谓的“人权问题”为由，将朝鲜领导干部列入美制裁名单的做法是“挑衅行为”。这名未透露姓名的朝鲜外务省官员提到，朝美领导人新加坡会晤后的6个月间，美国国务卿等高级官员每天恶意中伤朝鲜。<br/><div class="contheight"></div>他还表示，对对方进行威胁、恐吓和打压并非解决问题之道。朝鲜主张应首先构筑信任，通过从能做到的事情开始、逐一分阶段进行的方式改善朝美关系。<br/><div class="contheight"></div>（原题为《因第二次“金特会”遇阻，美国朝鲜问题特使本周访韩》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 金特会,朝鲜</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2751424">
+<div class="nbgbox">
+<a class="zan" contid="2751424" href="javascript:;" onclick="voteCont(this)" praisetimes="43">
+                           42</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 金特会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2751424&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2751424&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">最高法发布第二批保护产权和企业家合法权益典型案例 </h1>
+<div class="news_about">
+<p>罗沙/新华社</p>
+<p>
+							2018-12-04 18:55<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京12月4日消息，最高人民法院4日发布第二批六件人民法院充分发挥审判职能作用保护产权和企业家合法权益典型案例，为全国法院审判执行工作提供参考和指引。<br/><div class="contheight"></div><strong>这六件典型案例包括：张某强虚开增值税专用发票案，中科公司与某某县国土局土地使用权出让合同纠纷案，王某平等人与某某港公司合同纠纷案，北京某源公司与某某汇源公司侵害商标权及不正当竞争纠纷案，天新公司、魏某国申请某某省某某市人民检察院国家赔偿案，李某飞、腾飞龙公司执行申诉案。</strong><br/><div class="contheight"></div><strong>最高人民法院研究室主任姜启波表示，选择在12月4日国家宪法日向社会发布本批案例，是贯彻党中央关于毫不动摇鼓励、支持、引导非公有制经济发展方针政策的具体措施，是坚持我国社会主义基本经济制度深入推进依法治国的具体行动，是人民法院发挥审判职能作用为民营企业提供服务和保障的具体信号。</strong><br/><div class="contheight"></div>他表示，通过已经发布的两批保护产权和企业家合法权益典型案例以及之后还要发布的典型案例引领，一些法院在产权保护和企业家合法权益保护中所面临的困惑将逐步得到解决，人民法院保护产权和企业家合法权益的力度将进一步加大，人民法院在保护产权和企业家合法权益、坚决纠正涉产权错案冤案的工作将进一步得到有力推动。<br/><div class="contheight"></div>当天，最高人民法院还举行了以“履行宪法使命·守护公平正义”为主题的公众开放日活动，2018年部分新入额法官、新晋升等级的法官等进行了宪法宣誓。<br/><div class="contheight"></div>（原题为《最高法发布第二批人民法院保护产权和企业家合法权益典型案例》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2611259" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">最高法副院长：尽快发布保护产权和企业家权益第二批典型案例</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 第二批,保护产权,企业家合法权益</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2705688">
+<div class="nbgbox">
+<a class="zan" contid="2705688" href="javascript:;" onclick="voteCont(this)" praisetimes="14">
+                           13</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 保护产权</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2705688&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2705688&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

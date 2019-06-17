@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜治理“狗”事，官方出手才能终结民间互怼</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-08-13 12:02<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">长期以来，狗都是一个争议度极高的话题，异烟肼毒狗只是最新的讨论分支。狗的问题，背后是人的问题。而人的问题，在养狗人的素养、公德心背后，更重要的是治理。<br/><div class="contheight"></div>如果官方的治理缺失，民间的互怼便会层出不穷，异烟肼毒狗的讨论说明，互怼已经发展到互害的地步。这也说明，治理“狗”事，已经到了刻不容缓的地步。<br/><div class="contheight"></div>近日，济南和西安的做法引发关注。济南自2017年1月1日开始实行养犬登记“信用计分制”，对于犬主遛狗不栓绳等违规行为进行扣分、罚款，扣满12分，将犬只没收，犬主人学习通过之后才可重新领养。该制度实施一年半以来，犬只栓绳率从不足20%增长至80%以上。<br/><div class="contheight"></div>西安的做法是警方与小区物业联手，对养犬实行登记造册，从狗狗的居住地开始管理。同时，西安警方推出史上最严厉整治举措，对于不听劝阻的不文明养犬者，将吊销其养犬登记证，5年内不得再养犬。西安市公安局从8月5日开始，部署要求全市各分县局上街查狗常态化。<br/><div class="contheight"></div>这两个城市得到不少点赞，人们呼吁更多城市向它们学习。需要提醒的是，许多城市都有《犬只管理条例》或《养犬管理办法》之类的规定，但这些规定沦为具文，对养狗人并未产生有效的约束力。有些地方进行过一阵风式的治理，但过后不文明养狗的现象又死灰复燃。<br/><div class="contheight"></div>养狗的人总爱说“狗狗这么可爱”，但这句话是有前提的。只有栓着绳、粪便有人清理的狗才是可爱的，到处乱跑、乱拉的狗是公害。有些狗主人自以为“我的狗不咬人”便放飞自我，殊不知，狗或许没拖他们的后腿，但他们拖了狗的后腿。<br/><div class="contheight"></div>治理“狗”事，就是针对那些不负责任的狗主人。有效的治理就是要让他们知道痛，知道怕，再也不存侥幸心理。“文明养狗”要从有心无力的倡导，变成有外在约束力的规范与自觉。这样“文明养狗”才能上升为养狗文明。<br/><div class="contheight"></div>可能有人会觉得，不文明养狗的现象泛滥，治理起来需要投入太多的人力、财力，其实不然。济南的养狗计分制借鉴的是机动车驾驶人管理，实践证明这个做法很有效。打个比方，不是每一个路口都有交警，但大多数司机都不敢无证驾驶、酒驾，因为他们知道万一被查到后果很严重。同样道理，只要建立起“遛狗不栓绳，后果很严重”的预期，后边维持住这个秩序就没那么费力了。<br/><div class="contheight"></div>也就是说，治理养狗乱象前期需要有关部门投入力量进行宣传、巡查，但风气扭转之后就不再需要大规模出动了，但这根弦要一直绷着。届时可以更多依赖市民举报，只要每一起举报都得到重视与回应，同样能对不文明养狗产生有力约束。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 文明养狗</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2342493">
+<div class="nbgbox">
+<a class="zan" contid="2342493" href="javascript:;" onclick="voteCont(this)" praisetimes="345">
+                           344</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 文明养狗</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2342493&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2342493&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（153）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

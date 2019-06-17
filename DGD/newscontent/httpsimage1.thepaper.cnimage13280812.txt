@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">柬埔寨“三峡”竣工：中柬最大水电合作项目，坝长亚洲第一</h1>
+<div class="news_about">
+<p>澎湃新闻记者 李怡清 实习生 沈馨妍</p>
+<p>
+							2018-12-18 16:39<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月17日，中国与柬埔寨最大水电合作项目、被誉为柬埔寨的“三峡工程”的华能桑河二级水电站正式举行竣工投产庆典。<div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/280/726.jpg" width="100%"/></div><span style="color: rgb(128, 128, 128);">12月17日，柬埔寨首相洪森（中）在上丁省参加桑河二级水电站竣工投产仪式。  本文图片均为新华社 图<br/><div class="contheight"></div></span>据柬埔寨《金边邮报》18日报道，该水电站大坝全长6500米，为亚洲第一长坝。该电站总装机容量40万千瓦，占柬全国总装机容量的近20%，是目前柬埔寨装机容量最大的水电站，年发电量可达19.7亿千瓦时。<br/><div class="contheight"></div>中新社报道称，柬埔寨王国首相洪森、中国驻柬大使王文天为竣工剪彩。<br/><div class="contheight"></div>洪森表示，开发可靠的电力资源对于国家经济发展至关重要，该水电站是国家优先事项的重要组成部分。随着工业和农业的不断发展，柬埔寨用电需求快速增长。因此，国家必须进一步推动电力部门的发展，同时也需要将电力覆盖到乡村地区。<div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/280/735.jpg" width="100%"/></div><span style="color: rgb(128, 128, 128);">12月16日在柬埔寨上丁省拍摄的桑河二级水电站。<br/><div class="contheight"></div></span>该水电站对当地居民的影响在整个建设过程中一直备受关注，部分人士担心该工程扰乱了当地社群的生活。<br/><div class="contheight"></div>但是，柬埔寨矿业与能源部长Suy Sem表示该电站将为柬埔寨王国带来许多好处，该水电站可能会带来柬埔寨的平均电价下降。目前，柬埔寨全国25个省份获得电力供应，柬埔寨电力公司的电网覆盖全国96%。<br/><div class="contheight"></div>据柬埔寨华文媒体《东华日报》消息，首相洪森即将率领柬埔寨国家级代表团赴北京进行正式访问，计划向中国申请更多贷款以完善柬埔寨电网供应系统，争取将国内电力供应覆盖率达到100%。<br/><div class="contheight"></div>据柬埔寨中国商会电力企业协会提供的数据，截至2017年底，柬埔寨全国供电量74亿度，同比增长11.9%，国内发电65.51亿度，自主供电率达88.5%。其中，中资已投产7个项目共11座水电站、1座火电站，总装机达到1733兆瓦，占全国总装机的85%，全年发电量55.75亿度，占全国发电量的85%。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：宁希巍<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 柬埔寨,中国,水电站</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2749576">
+<div class="nbgbox">
+<a class="zan" contid="2749576" href="javascript:;" onclick="voteCont(this)" praisetimes="87">
+                           86</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 柬埔寨</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2749576&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2749576&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

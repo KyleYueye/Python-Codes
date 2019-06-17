@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评︱又出了“霸座女”，应急处置为何依旧缺位？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 夏熊飞</p>
+<p>
+							2018-09-19 17:11<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2455906" target="_blank">
+<span class="p_time">01:57</span>
+<img alt="马上评︱又出了“霸座女”，应急处置为何依旧缺位？" src="//image1.thepaper.cn/image/10/597/162.jpg"/>
+</a>
+<div class="atlas_360_txt">高铁又现“霸座女”：票上没写靠过道，座位上也没贴<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">高铁再现霸座行为，只不过这次当事人性别发生了变化。<br/><div class="contheight"></div>9月19 日下午，一段“高铁霸座女”视频在网上热传。爆料网友称，事发车次为永州到深圳北的 G6078 次高铁，一名持有靠过道座位票的女子在永州上车后，却强行坐在靠窗座位。当列车安全员要求其对号入座时，却遭该女子反驳，霸占座位不肯让座，并一再争论“座位上又没贴号，自己也是买了票上车的，位置就是自己的”。将近两分钟的争执中，该女子始终未起身让座。目前铁路公安已介入调查。<br/><div class="contheight"></div>同样是霸占他人座位，还理直气壮、百般狡辩，一副能奈我何的做派，简直与前段时间“风头出尽”的“霸座男”孙某如出一辙。<br/><div class="contheight"></div>孙某被网友曝光，不仅遭到了舆论的口诛笔伐，而且之后被济南铁路公安处依据《治安管理处罚法》第23条，给予治安罚款200元的处罚，并被铁路客运部门一定期限内限制购票乘坐火车后，还被国家公共信用信息中心列入限制乘坐火车严重失信人名单，被限制乘坐所有火车席别。<br/><div class="contheight"></div>孙某霸座最后算是在法律上有了一个交代。有此“前车之鉴”，在铁路公安部门已经介入调查的情况下，这位“高铁霸座女”显然无法逃脱处罚。<br/><div class="contheight"></div>但仍不禁要问，遇到类似霸座行为，难道就只能靠乘客自行交涉、乘务员苦口婆心沟通以及事后的罚款、记入征信系统吗？为何前有“霸座男”孙某的闹剧，再次遭遇“高铁霸座女”，应急处置依旧是黔驴技穷呢？<br/><div class="contheight"></div>果断快速高效处置好霸座行为，不仅是对座位被霸占乘客权益的维护，更是维护列车运行秩序的必要。因为一旦处置不力或迟缓，一方面可能引发当事乘客双方之间的冲突，另一方面也会客观上纵容此类行为的滋生。<br/><div class="contheight"></div>列车上皆配有乘警，面对霸座行为，在协调劝阻无效的情况，完全可以在第一时间使用强制手段带离。这既确保了车厢内的正常秩序，也能防止事态进一步扩大，无论是对霸座者抑或其他乘客，都是一种保护。<br/><div class="contheight"></div>俗话说事不过三，接连出现的“霸座男”“霸座女”事件，给铁路部门提了个醒，面对霸座行为必须要尽快出台有针对性的预防措施与应急处置机制，而不是总拖到“秋后算账”。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 高铁霸座</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2456717">
+<div class="nbgbox">
+<a class="zan" contid="2456717" href="javascript:;" onclick="voteCont(this)" praisetimes="752">
+                           751</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 高铁霸座</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2456717&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2456717&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（2.1k）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

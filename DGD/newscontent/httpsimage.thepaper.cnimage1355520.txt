@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25430">澎湃防务</a>
+</div>
+<h1 class="news_title">日新版防卫大纲指责中国，国防部：无中生有，已提出严正交涉</h1>
+<div class="news_about">
+<p>国防部网站</p>
+<p>
+							2018-12-27 16:29<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">国防部网站消息，12月27日下午，国防部举行例行记者会，国防部新闻局局长、国防部新闻发言人吴谦大校答记者问。<br/><div class="contheight"></div><strong>记者：</strong>日本共同社12月18日报道，日政府内阁会议当日审议通过了新版防卫计划大纲，该文件称，中国的军事动向、国防政策以及军事力量的“不透明”性，正成为包括日本在内的地区和国际社会的安保上的强烈关切。同时，中国在海上和空中作战能力等方面快速提升军事实力，在太空和网络空间的优势地位日益明显。日方决定将加强太空、网络空间、电子战等能力，并创建太空部队。此外，大纲提出将“出云”号和 “加贺”号护卫舰改装成为事实上的航母。请问对此有何评论？<strong><br/><div class="contheight"></div>吴谦：</strong><strong>日方文件中对中国国防和军队建设的</strong><strong>指责无中生有，是完全站不住脚的。</strong><strong>中国军队表示坚决反对，并向日方提出了严正交涉。</strong><br/><div class="contheight"></div>中国坚持走和平发展道路，坚定奉行防御性国防政策和积极防御的军事战略，战略意图始终清晰透明。中国军队积极参与国际维和、远海护航、人道主义救援等行动，致力于为国际社会提供更多公共安全产品，始终是维护世界和平的坚定力量。<br/><div class="contheight"></div>日方不顾国际社会的强烈反对，执意突破日和平宪法限制，不断扩充军备，引发亚洲邻国和国际社会强烈担忧。我们<strong>敦促日方以史为鉴，恪守“专守防卫”的政策承诺，在防务安全领域谨言慎行，以实际行动取信于国际社会。</strong><br/><div class="contheight"></div>（原题为《国防部：敦促日方以史为鉴、谨言慎行》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 日本,防卫大纲,航母,国防部</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780468">
+<div class="nbgbox">
+<a class="zan" contid="2780468" href="javascript:;" onclick="voteCont(this)" praisetimes="25">
+                           24</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国防部发布</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780468&caid=25430",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780468&amp;caid=25430" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

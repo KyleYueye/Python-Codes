@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25490">打虎记</a>
+</div>
+<h1 class="news_title">湖北黄冈纪委暗访通报：一行政服务中心窗口人员迟到率30%</h1>
+<div class="news_about">
+<p>湖北黄冈市纪委监委网站</p>
+<p>
+							2018-12-25 14:49<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><strong>关于暗访发现的3起行政服务中心窗口工作人员作风问题的通报<br/><div class="contheight"></div>(市纪委“护航行动”通报第二号)</strong><br/><div class="contheight"></div>12月20日至21日，黄冈市纪委优化营商环境“护航行动”指挥部暗访行动组对部分县(市、区)政务服务中心进行暗访，发现一批窗口工作人员作风问题。现将其中3起典型问题通报如下：<br/><div class="contheight"></div>1.蕲春县行政服务中心税务局窗口工作人员工作时间玩手机问题。12月20日16:40，该中心三楼服务大厅，一顾客咨询办税业务，到处找不着办税窗口(没有挂牌)，问了多人才找到，一女工作人员低头玩手机，头也不抬地回答问题。<br/><div class="contheight"></div>2.麻城市行政服务中心市国土局、公安局窗口工作人员工作时间玩手机问题。12月21日10:10，该中心一楼大厅，市国土局窗口一女工作人员用打开的书遮挡玩手机。10:13，市公安局办理港澳通行证窗口，一女工作人员公开玩手机游戏。<br/><div class="contheight"></div>3.罗田县行政服务中心窗口工作人员上班迟到问题。12月21日8:00，该中心窗口工作人员未到岗的占比高达30%，多名顾客来办业务无人接待。<br/><div class="contheight"></div>行政服务中心的作风好坏是营商环境好坏的最直接反映。上述3起典型案例，直接折射出部分地方行政服务中心管理不严，环境不优，各地对此必须引起高度重视，采取切实有效措施，解决行政服务中心窗口工作人员作风问题，不断优化营商环境。<br/><div class="contheight"></div>市纪委优化营商环境“护航行动”已全面启动，“护航行动”聚焦行政审批、日常监管、构建亲清新型政商关系中的突出问题，紧盯有关职能部门和党员干部在涉企服务中有政策不落实，有项目不公开，该审批的不审批，该服务的不服务，或利用职权吃拿卡要，索贿受贿，乱收费乱摊派乱罚款、违规占用企业财物等问题，强化监督执纪问责和监督调查处置，优先处置，快查快结，对群众举报和暗访发现的问题，从严从重处理并通报曝光。对造成影响的问题，要坚持“一案三查”，不仅查处直接责任人，还要追究主体责任、监督责任。<br/><div class="contheight"></div>中共黄冈市纪委办公室<br/><div class="contheight"></div>2018年12月24日<br/><div class="contheight"></div>（原标题为《 关于暗访发现的3起行政服务中心窗口工作人员作风问题的通报》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：钟煜豪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 湖北黄冈，服务中心</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772705">
+<div class="nbgbox">
+<a class="zan" contid="2772705" href="javascript:;" onclick="voteCont(this)" praisetimes="67">
+                           66</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 上班迟到</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772705&caid=25490",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772705&amp;caid=25490" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

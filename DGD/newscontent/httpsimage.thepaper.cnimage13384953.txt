@@ -1,0 +1,90 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25456">市政厅</a>
+</div>
+<h1 class="news_title">你的地方｜地方库之一：老地图向你发送了一个新奇的邀约</h1>
+<div class="news_about">
+<p>澎湃新闻记者 王昀 伍惠源 制图 龙慧</p>
+<p>
+							2018-12-21 22:29<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="254" src="http://image.thepaper.cn/www/image/13/382/869.jpg" width="600"><img alt="" height="412" src="http://image.thepaper.cn/www/image/13/382/784.jpg" width="600"><div style="text-align:center;"><img alt="" height="817" src="http://image.thepaper.cn/www/image/13/228/955.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="539" src="http://image.thepaper.cn/www/image/13/228/956.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="811" src="http://image.thepaper.cn/www/image/13/228/957.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="878" src="http://image.thepaper.cn/www/image/13/228/958.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="639" src="http://image.thepaper.cn/www/image/13/228/960.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="976" src="http://image.thepaper.cn/www/image/13/228/978.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="793" src="http://image.thepaper.cn/www/image/13/228/996.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="775" src="http://image.thepaper.cn/www/image/13/228/998.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="775" src="http://image.thepaper.cn/www/image/13/229/0.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="919" src="http://image.thepaper.cn/www/image/13/229/1.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="663" src="http://image.thepaper.cn/www/image/13/229/2.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="863" src="http://image.thepaper.cn/www/image/13/229/3.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="51" src="http://image.thepaper.cn/www/image/13/229/189.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="44" src="http://image.thepaper.cn/www/image/13/229/190.jpg" width="600"/><br/><div class="contheight"></div></div><div style="text-align:center;"><img alt="" height="333" src="http://image.thepaper.cn/www/image/13/383/669.jpg" width="600"/></div></img></img></div>
+<div class="go_to_topic">
+<p style="line-height: 20px; margin-bottom:5px">
+<img alt="" src="//file.thepaper.cn/www/v3/img/topic.gif" style="float:left"/>
+<a href="newsDetail_forward_61387" target="_blank">
+<span class="news_topic">
+                              【专题】你的地方：向行号图学习</span>
+</a>
+</p></div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：吴英燕<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; PSA,上海双年展,上双,你的地方,上海,行号图,老上海百业指南,地图</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2743256">
+<div class="nbgbox">
+<a class="zan" contid="2743256" href="javascript:;" onclick="voteCont(this)" praisetimes="37">
+                           36</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 你的地方</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2743256&caid=25456",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2743256&amp;caid=25456" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>
+<div class="newsct_share_detail" id="2743256">
+<div>
+<a class="weixin_share" onclick="weixinShare(2743256)"></a>
+</div>
+<a class="ctshare_sina_detail" href="javascript:showToSina('2743256','你的地方｜地方库之一：老地图向你发送了一个新奇的邀约','//image.thepaper.cn/image/13/384/953.jpg','http://www.thepaper.cn');"></a>
+<a class="ctshare_zone_detail" href="javascript:showToZone('2743256','你的地方｜地方库之一：老地图向你发送了一个新奇的邀约','//image.thepaper.cn/image/13/384/953.jpg','http://www.thepaper.cn','我们基于《上海行号路图录》提出了一系列地方或线索。它们之间又形成了有趣的互文。这里有12个有趣的地方和线索，在等你认领。');"></a>
+<a class="ctshare_rr_detail" href="javascript:showTodouban('2743256','你的地方｜地方库之一：老地图向你发送了一个新奇的邀约','//image.thepaper.cn/image/13/384/953.jpg','http://www.thepaper.cn','我们基于《上海行号路图录》提出了一系列地方或线索。它们之间又形成了有趣的互文。这里有12个有趣的地方和线索，在等你认领。');"></a>
+</div>
+<div class="back-top" id="toTop"></div>
+</div>

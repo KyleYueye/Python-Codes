@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">哈佛提前录取亚裔比例继续提高，此前被指歧视亚裔</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2018-12-16 09:27<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网12月16日消息，据美国中文网报道，日前，美国宾夕法尼亚大学和布朗大学宣布，已经完成2023届本科提前招生申请者的录取决定，两所学校的录取率都只有18%，均创下两所学校的历史新低。哈佛大学也表示，该校2023届本科提前招生录取仅13.4%，同样是史上录取率最低一届，今年哈佛大学提前录取学生亚裔比例达26.1%，保持稳步提高趋势。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="366" src="http://image.thepaper.cn/www/image/13/231/311.jpg" width="550"/></div><div><span style="color: rgb(128, 128, 128);">当地时间2018年5月24日，美国马萨诸塞州，哈佛大学举行毕业典礼。</span><span style="color: rgb(128, 128, 128);">资料图</span></div>据报道，哈佛大学今年提前招生阶段共有6958名申请者，最终录取935人，录取率创下历史最低的13.4%。去年哈佛大学的提前招生录取率是14.5%。其中，女生录取比例达到51.3%，超出去年的47.2%，而表示对物理学和计算机学科感兴趣的女生比例也较去年显著提升，分别从33%和29%大幅度提高到53%和43%。<br/><div class="contheight"></div>哈佛大学招生和补助办主任菲茨西蒙斯表示，性别转换非常的剧烈，这在过去几年都是没有见到过的。<br/><div class="contheight"></div>备受关注的亚裔学生团体诉哈佛大学招生歧视案正在审理之中，也让今年哈佛大学录取学生族裔分布更引人瞩目。哈佛大学2023届本科提前录取学生中有26.1%是亚裔，前两年的数字是24.2%和21.7%。<br/><div class="contheight"></div>菲茨西蒙斯表示，亚裔学生录取占比的提高的趋势，是因为亚裔申请者人数的增加。非裔学生比例出现下滑，从去年的13.9%降低到今年的12%，而今年西裔学生的比例是10%，与去年相当。此外，国际生比例从去年的8.2%提高到11.2%。<br/><div class="contheight"></div>据报道，宾大今年的提前申请招生阶段共录取1279名2023届本科学生，录取率只有18%，创下该校历史新低。宾大2022届本科的提前招生录取率是18.5%，而再往前两届的录取率分别达到22%和23.2%。今年宾大的提前招生申请者人数比去年增加了15%。<br/><div class="contheight"></div>布朗大学方面，今年提前招生申请者较去年增加了21%，创下该校历史申请人数之最。不过，录取率也和宾大一样创下历史最低，该校2023届本科提前招生的录取率只有18%，共有769名申请者从4232名申请者中脱颖而出被提前录取。<br/><div class="contheight"></div>布朗大学招生办主任鲍威尔表示，申请人数的增加是导致录取率降低的因素。除了18%的学生被录取外，27%的学生被拒绝，55%的学生被延后决定。而在上一届只有12%在提前录取阶段被拒绝。<br/><div class="contheight"></div>据报道，在提前录取学生构成方面，有12%是第一代大学生，是最近6年来的最高；44%是有色人种，比2022届的38%显著提高；男女比例则几乎相当，男生录取者379人略少于女生的390人。<br/><div class="contheight"></div>鲍威尔还表示，虽然近几年美国国际生数量出现下降，但申请布朗大学的国际生数量实际有所增加。<br/><div class="contheight"></div>（原标题《哈佛提前录取亚裔比例继续提高 此前被指歧视亚裔》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 哈佛</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2743809">
+<div class="nbgbox">
+<a class="zan" contid="2743809" href="javascript:;" onclick="voteCont(this)" praisetimes="53">
+                           52</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 哈佛</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2743809&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2743809&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（244）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

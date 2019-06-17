@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">应勇听取各民主党派、工商联负责人及无党派代表人士意见建议</h1>
+<div class="news_about">
+<p>澎湃讯</p>
+<p>
+							2019-01-10 18:56<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="303" src="http://image.thepaper.cn/www/image/14/123/308.jpg" width="600"/></div>上海市委副书记、市长应勇今天（10日）下午主持召开座谈会，就即将提交市十五届人大二次会议审议的《政府工作报告》（征求意见稿）和政府工作，听取本市各民主党派、工商联负责人及无党派代表人士的意见和建议。<br/><div class="contheight"></div>“要更加突出问题导向，更好发挥基层作用，解决好养老、托育等民生问题”“要不断优化法治环境，提升上海的核心竞争力”“历史风貌保护与旧区改造、民生改善要同步推进、协调发展”“要加快推进一网通办，营造更好营商环境”“要加强科技创新等领域合作，推进长三角更高质量一体化发展”“要推动高校和科研院所设立知识产权管理和技术转移专业机构，加快科研成果转化”……民革市委主委高小玫、民盟市委主委陈群、民建市委主委周汉民、农工党市委主委蔡威、致公党市委主委张恩迪、台盟市委主委李碧影、市工商联主席王志雄、民进市委专职副主委胡卫、九三学社市委副主委钱锋、无党派代表人士解冬相继发言，结合各自工作及前期调研，对《政府工作报告》及政府工作提出意见和建议。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="385" src="http://image.thepaper.cn/www/image/14/123/307.jpg" width="600"/></div>应勇边听边记，不时与大家讨论交流。在集中回应时，应勇代表市委、市政府感谢各民主党派、工商联及无党派人士长期以来为上海发展作出的重要贡献，以及对政府工作的大力支持。他说，大家精心准备，提出的意见和建议质量很高，我们将认真研究、充分吸纳，进一步修改完善《政府工作报告》，并不断改进政府工作。<br/><div class="contheight"></div>应勇说，去年全市经济社会发展总体平稳、稳中有进、稳中向好、符合预期，呈现结构更优、效益更好、更趋协调、更可持续的高质量发展态势，市十五届人大一次会议确定的全年目标任务全面完成。今年经济运行稳中有变、进中有缓、好中有忧，必须保持战略定力，坚定发展信心，勇于迎难而上。要深入学习贯彻习近平总书记考察上海重要讲话精神，按照中央经济工作会议和十一届市委六次全会的部署，全面用好我国发展的重要战略机遇期，集中精力办好自己的事情，加快落实三项新的重大任务，持续办好进口博览会，更好为全国改革发展大局服务。<br/><div class="contheight"></div>应勇说，做好政府工作，需要凝聚各方智慧和力量。希望各民主党派、工商联及无党派人士集思广益，群策群力，发挥优势，积极建言资政。市政府将一如既往加强与大家的沟通协作，认真听取意见和建议，不断提高政府科学决策、民主决策、依法行政的水平。<br/><div class="contheight"></div>市委常委、统战部部长郑钢淼出席座谈会。<br/><div class="contheight"></div><span style="color: rgb(128, 128, 128);">（本文图片 张春海 摄）</span></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 应勇,民主党派</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837423">
+<div class="nbgbox">
+<a class="zan" contid="2837423" href="javascript:;" onclick="voteCont(this)" praisetimes="10">
+                           9</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 应勇</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837423&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837423&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

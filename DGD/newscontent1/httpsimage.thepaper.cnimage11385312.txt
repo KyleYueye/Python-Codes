@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜18岁男孩受虐待身亡，网戒学校换个马甲继续作恶？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 胡欣红</p>
+<p>
+							2018-10-17 13:06<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据媒体报道，18岁男孩被父母送到一所“特训学校”两天后，突然不治身亡。原来，该“特训学校”曾对男孩实施关禁闭、限制饮食、殴打等极端手段，从而导致悲剧发生。<br/><div class="contheight"></div>18岁男孩因为长时间遭受虐待而殒命，这样的人间悲剧令人痛心不已。但更令公众不解的是，“戒网瘾学校”早已被有关部门命令禁止，成了人人喊打的过街老鼠，何以还能换个马甲继续作恶？<br/><div class="contheight"></div>“该死的爹娘，失败的教育，狠心的看守。”网友的评论，值得玩味。<br/><div class="contheight"></div>据调查，罗某于2016年3月14日在合肥市注册成立安徽正能教育有限公司并担任法定代表人。2017年5月18日，罗某租赁庐江县白山镇兴岗村新农小学校舍，并以“合肥正能青少年特训学校”的名义对外招生。学校对外宣称可以通过隔离封闭式的成长辅导戒除青少年的网瘾，解决厌学、叛逆等成长问题。<br/><div class="contheight"></div>网络成瘾究竟是不是精神疾病，或许还有待商榷探讨。但如何防范化解，显然是一门专业活，绝非由一些乌合之众组成的所谓学校所能承担。<br/><div class="contheight"></div>这样的学校，有没有经过教育部门的审批？是谁批准成立的？究竟该由谁监管？这些深层次的问题，亟待进一步探究。发现一起才被动处理一起，相关部门的监管缺失难辞其咎。 <br/><div class="contheight"></div>谴责网戒学校粗暴教育的同时，家长也有责任。以这件事为例，“特训学校”与被害人的父母见面并签订《委托协议书》之后，才强行将李某带离。这样的情形，基本上是所有网戒学校的规定动作。<br/><div class="contheight"></div>明知孩子会受到强制措施，依然将其送入“虎口”，却丝毫不关心其中蕴含的风险，难免被网友指责为“共谋犯”。家长的选择其实是一种赌博，赌这些来路不明、手段不明的学校里有一些神奇的办法，能把他们的孩子“完美修复”。<br/><div class="contheight"></div>事实已经反复证明，这种赌博的代价会有多么惨痛。家长付出的只是金钱，而孩子付出的可能会是生命。<br/><div class="contheight"></div>“多办一所学校，就可少建一座监狱”。可是如果所谓学校，本质就是另一种类型的监狱，那只会酿成悲剧。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 网戒学校</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2537142">
+<div class="nbgbox">
+<a class="zan" contid="2537142" href="javascript:;" onclick="voteCont(this)" praisetimes="149">
+                           148</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 网戒学校</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2537142&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2537142&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

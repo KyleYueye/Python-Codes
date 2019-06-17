@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">女司机突开车门致骑电动车者撞上受伤死亡，被判缓刑  </h1>
+<div class="news_about">
+<p>山东高法微信公众号</p>
+<p>
+							2019-01-10 12:46<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">最近，山东日照市区发生了一起令人痛心的交通事故，32岁女司机韩某驾驶车辆靠边停车后突开车门，致骑电动车经此地的尚某撞上车门后死亡。近日，日照市东港区法院对该案进行了公开宣判，对韩某以交通肇事罪判处有期徒刑一年，缓刑二年。<br/><div class="contheight"></div>法院审理查明，2018年11月9日18时许，被告人韩某驾驶小型轿车沿日照市东港区菏泽路由南向北行驶至菏泽路与淄博路交叉口北侧路段时，因其儿子嚷着要买东西，韩某将车辆停放在菏泽路东侧路边，就在其打开驾驶室车门想下车时，骑电动车驶至该地点的尚某撞在了打开的车门上。案发后，韩某打电话报警，并通知救护车，不幸的是，尚某经医院抢救无效后死亡。交警部门出具交通事故认定书，分析事故形成原因系由于韩某驾驶机动车在道路上行驶未确保安全文明驾驶、开关车门妨碍其他车辆通行，韩某对事故负全部责任。归案后，韩某如实供述犯罪事实，其家属在保险限额外赔偿了被害人家属损失，并取得了被害人家属谅解。<br/><div class="contheight"></div>法院经审理认为，被告人韩某违反道路交通安全法，驾驶机动车发生重大事故，致一人死亡，并负事故全部责任，侵犯了交通运输的正常秩序和安全，其行为构成交通肇事罪。案发后，被告人韩某电话报警并在现场等候处理，归案后如实供述犯罪事实，系自首，应依法对其从轻处罚。被告人家属已在保险限额外赔偿被害人家属损失并取得谅解，可以酌情从轻处罚。根据被告人韩某的犯罪情节和悔罪表现，决定对其以交通肇事罪判处有期徒刑一年，缓刑两年。<br/><div class="contheight"></div>法官说法：在道路上行驶，一个非常微小的动作，可能会造成严重的事故。在此提醒广大车主，在驾驶中要注意每一个细节，规范每一个行为，除了上下车前仔细检查周边环境外，还要坚决避免把身体伸出车窗、开车操作导航、开车看手机等存在安全隐患的行为，做到开文明车、行平安路、回幸福家。（原标题：突开车门致人死亡，肇事司机被判刑 ）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李寿康<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 山东 日照 女司机</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836211">
+<div class="nbgbox">
+<a class="zan" contid="2836211" href="javascript:;" onclick="voteCont(this)" praisetimes="33">
+                           32</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 伤亡事件</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836211&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836211&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（357）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

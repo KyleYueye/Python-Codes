@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">只因姓“特朗普”，美国11岁男孩长期遭遇校园霸凌</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-14 15:28<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">本周，一对来自美国特拉华州的父母告诉媒体，自己11岁的儿子因姓氏与美国总统特朗普相同，一直是校园霸凌的受害者。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="349" src="http://image.thepaper.cn/www/image/13/190/348.jpg" width="600"/></div>梅根·特朗普（Megan Trump，与特朗普家族无关联）周二在ABC新闻当地台WPVI的一档节目中表示，因为学校无法遏制她儿子约书亚·特朗普（Joshua Trump）遭遇的校园霸凌行为，约书亚决定改跟继父姓贝托（Berto）。<br/><div class="contheight"></div>“他们咒骂他，叫他白痴，说他蠢，”梅根说，约书亚因此变得讨厌自己，厌恶自己的姓，“而且他总是感到难过，说不想再那样生活。”作为一位母亲，儿子的状态让她感到“害怕”。<br/><div class="contheight"></div>据约书亚的继父博比·贝托（Bobby Berto）透露，自特朗普宣布竞选美国总统后，校园里针对儿子的嘲讽就开始了。去年，他们帮儿子办了辍学手续，转回家接受一年家庭教育。原本以为这种校园霸凌不会跟着约书亚到中学，但现实未如所愿。<br/><div class="contheight"></div>在约书亚升入威尔明顿市泰利中学时，其父母便与老师提前谈论过儿子因姓氏遭欺凌的问题。老师们在与同学们说话时都尽量避免提及约书亚的姓氏，以免招惹学生起哄。<br/><div class="contheight"></div>“有五名学生因此问题受到纪律处分，他们都道歉了，”该校校长马克·梅耶（Mark Mayer）表示，他原本以为约书亚在学校一切顺利，直到上周梅根告知他两起霸凌事件，其中一起发生在体育课，另一起为约书亚在校车上被打了一拳。<br/><div class="contheight"></div>报道称，约书亚·特朗普（Joshua Trump）在学校系统里的名字已改为约书亚·贝托（Joshua Berto）。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘惠<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 特朗普,校园霸凌</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2739013">
+<div class="nbgbox">
+<a class="zan" contid="2739013" href="javascript:;" onclick="voteCont(this)" praisetimes="286">
+                           285</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 校园霸凌</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2739013&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2739013&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（65）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

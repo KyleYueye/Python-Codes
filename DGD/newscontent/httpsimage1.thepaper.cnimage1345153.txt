@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25435">金改实验室</a>
+</div>
+<h1 class="news_title">审计署：三地区用财政资金偿还等纠正14.32亿元违规举债</h1>
+<div class="news_about">
+<p>澎湃新闻记者 胡志挺</p>
+<p>
+							2018-12-24 13:11<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月24日上午，国家审计署审计长胡泽君在十三届全国人大常委会第七次会议上作《2017年度中央预算执行和其他财政收支审计查出问题的整改情况》报告。<br/><div class="contheight"></div>据了解，此次整改报告，主要是今年6月审计署受国务院委托向第十三届全国人大常委会第三次会议作的《国务院关于2017年度中央预算执行和其他财政收支的审计工作报告》反映问题的整改情况。<br/><div class="contheight"></div>对于地方政府债务风险防控问题，胡泽君表示，对一些地区违规举债或提供担保问题，3个地区通过财政资金偿还或项目市场化运作等纠正14.32亿元。对政府债券筹集资金闲置问题，8个地区已拨付15.95亿元，其他地区正加快项目建设。对一些地方落实债务管理要求不到位问题，4个地区通过调整融资模式、补充增信措施、更换融资产品等完善后续融资方式，保障重点项目建设资金接续，其他地区正与债权人协商解决；5个地区已完成政府融资担保情况摸排，其他地区正在推进统计摸排工作。目前，各地正在按照财政部统一部署，健全政府债务台账制度，做好债务统计监测和报告工作。<br/><div class="contheight"></div>根据审计署在今年6月报告中反映的情况，2017年7月全国金融工作会议后，相关地区风险防范意识进一步增强，举债冲动得到有效遏制，违规举债问题明显减少。不过，仍有一些问题亟待解决。比如：5个地区2017年8月以后违规举债32.38亿元，还有3个地区政府违规提供担保9.78亿元；11个地区发行的政府债券筹集资金中，有39.22亿元结存在财政部门，其中29.2亿元闲置1年以上。一些地方落实债务管理要求还不到位，有14个地区化解债务方式过于简单，造成重点项目建设资金接续不畅等。<br/><div class="contheight"></div>在审计建议环节，胡泽君指出，要认真贯彻党中央、国务院关于防范化解地方政府隐性债务风险的部署要求，研究制定配套措施，坚决遏制隐性债务增量，有序推进隐性债务存量化解，制定融资平台公司市场化转型等办法，健全债务管理长效机制。<br/><div class="contheight"></div>审计署网站12月24日同时发布的《财政部关于地方政府债务审计发现问题的整改情况》显示，目前，法定限额内地方政府债务风险总体可控，但一些地方通过融资平台公司、政府和社会资本合作（PPP）、政府购买服务、政府投资基金等违法违规或变相举债形成的隐性债务风险不容忽视。<br/><div class="contheight"></div>今年以来，审计署多次通报部分地方政府通过多种方式违规举债，财政部、银保监会等多个部门也连续发文要求遏制地方政府违法违规举债。财政部数据显示，截至2018年11月末，全国地方政府债务余额182903亿元，控制在全国人大批准的限额之内。其中，一般债务108616亿元，专项债务74287亿元；政府债券180338亿元，非政府债券形式存量政府债务2565亿元。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑景昕<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768394">
+<div class="nbgbox">
+<a class="zan" contid="2768394" href="javascript:;" onclick="voteCont(this)" praisetimes="8">
+                           7</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 审计署</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768394&caid=25435",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768394&amp;caid=25435" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

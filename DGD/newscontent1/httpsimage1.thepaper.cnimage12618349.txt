@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜“扶贫送老婆”，这不是“佳话”是自黑</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-11-27 16:03<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日，网上出现所谓“扶贫送老婆”的新闻和议论。<br/><div class="contheight"></div>我查了一下，信息源头应该是《桂林日报》的一篇报道《帮扶干部帮助解决了终身大事，一年后这家又添喜事》，而且这个报道是一个续集。故事开始于去年，《桂林日报》2017年4月11日刊发报道《扶贫干部给他“送”来了老婆》。<br/><div class="contheight"></div>原来周应雄是广西桂林的一名贫困户，因为照顾先后生病的爷爷奶奶和父亲，不仅误了终身大事，家里也是一贫如洗。他家的帮扶联系人是桂林医学院附属医院的一名干部，把本医院的一名绿化工人介绍给了周应雄。两人于去年4月结婚，今年“又添喜事”是指生了孩子。<br/><div class="contheight"></div>只要弄清楚事情的原委，就会发现压根不是什么“扶贫送老婆”，只不过媒人碰巧是扶贫干部罢了。如果这叫“扶贫送老婆”，同事介绍对象就可以说成“上班送老婆”，跟同学谈恋爱、结婚也成了“上学送老婆”。延伸一下便可发觉此事的荒谬之处。<br/><div class="contheight"></div>归根结底，本来是一件好事，但当地媒体的宣传走了味。原报道明确用了“成就了‘扶贫送老婆’的一段佳话”，不能怪网友断章取义。<br/><div class="contheight"></div>这让人想起去年的“扶贫女干部闪婚贫困户”事件。那原本也是一起普通的爱情故事，在传播过程中变味，成了对扶贫事业的高级黑。<br/><div class="contheight"></div>在扶贫工作中，大量的扶贫干部下到基层，他们与贫困群体有着密切的生活接触，促成或者发生一些美好的故事在情理之中。但是感情故事哪怕再动人，也不应该与扶贫工作混为一谈，更不应该当做扶贫的政绩来宣传。<br/><div class="contheight"></div>在现代社会的语境中，“送老婆”绝对不是讨巧的说法，而只会引起人们的反感。男女平等、婚恋自由的观念早已深入人心，“送老婆”是把女性当成一件礼物来描述，不仅容易遭到舆论的诟病，而且对当事人也不尊重。所以说，如果跟不上社会观念水位的进步，“佳话”也会成为自黑。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 贫困户 扶贫</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2675679">
+<div class="nbgbox">
+<a class="zan" contid="2675679" href="javascript:;" onclick="voteCont(this)" praisetimes="178">
+                           177</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 贫困户</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2675679&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2675679&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（304）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">人工智能加速无人零售场景落地</h1>
+<div class="news_about">
+<p>苏小艾</p>
+<p>
+							2018-12-18 18:27<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">早上在公司楼下自主售货机买杯咖啡，上午利用智能快递柜给客户寄合同，下班到盒马鲜生采购晚餐的食材，智能结账通道，能让晚饭提前10分钟。饭后如果你想一个人来些娱乐活动，那社区附近的迷你KTV绝对是首选。如果不是我们回想，也许不会感觉到自己早已被无人零售业态紧紧包裹。<br/><div class="contheight"></div>移动互联网时代下，基于各种消费场景的市场新物种也在飞速发展。在新零售浪潮下，无人值守的新兴业态层出不穷。2017年初起至今，众多新兴的无人零售企业一鸣惊人的有，一夜倒下的也不在少数。<br/><div class="contheight"></div>2017年7月，阿里在“淘宝造物节”期间引人注目的“无人零售快闪店”，在“造物节”结束后，便停止营业，宣布回炉进行技术升级。而号称全球第一款可规模化复制的24小时无人便利店“缤果盒子”，2017年6月初登陆上海，截至当年10月已关闭两个网点。该如何应对市场、又该如何从众多竞争对手中突围成长，是任何一家新零售的首要焦点。<br/><div class="contheight"></div>自去年11月成立的便丽猫，在短短一年的时间，已发展成为全国性的无人零售连锁企业。 “智能科技+高效运营”的模式，是便丽猫在行业内寻求突破的着力点，而因成熟的智能技术及多品类整合经营，也让其在无人零售领域有了自己的一席之地。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="388" src="http://image.thepaper.cn/www/image/13/281/767.jpg" width="600"/></div><br/><div class="contheight"></div>有别于市场上常见的单品种无人购物业态，便丽猫整合了多品类智能零售终端。从鲜食制作切入，主打现制鲜售的健康果汁、咖啡饮品、主食小吃等商品，如披萨、鲜榨橙汁、椰子、咖啡、薯条等。通过透明的交互视窗，消费者还可以进一步了解智能配售过程，增加交互体验。试想在饥肠辘辘的时候，在这样的售货机前来一份现制披萨，再配上鲜榨橙汁，这份临时快餐，真是不仅新鲜，还有营养。<br/><div class="contheight"></div>在不少业内人士眼中，智能无人零售的着力点更多的在于移动支付、物联网技术、人工智能、大数据等等逐渐成熟技术的整合应用上。一般情况下，不想用无人柜的消费者，往往是嫌注册流程太过繁琐，而且里面的东西固有不变。<br/><div class="contheight"></div>从便丽猫方面了解到，未来公司将基于新零售的痛点，创新技术变革，朝着更加智能、科技、人性化的方向去打造空间平台模式，让整个自动售卖机的行业更容易进入这个市场，并成为赋能以传统商超及便利店为核心的新零售的必要组成部分。<br/><div class="contheight"></div>在逐步精细化运营过程中，便丽猫针对市场痛点，还研究了一套切实的方法论。一方面深化研发支撑系统的打造以及多品类智能设备的智慧升级，降低获客成本、优化用户体验。另一方面通过自建全国的供应链及物流体系打破自动售货机领域的区域性运营特征，并且充分利用现有供应链资源和运营优势，以边际成本快速拓展，让现制鲜售类的智能零售终端能够布局全国。<br/><div class="contheight"></div>此外，随着从移动互联网进入产业互联网，物联网时代，to B端业务成为各大巨头争夺的新战场，便丽猫也将向产业纵深布局的供应链打造，深度挖掘用户需求，对场景进行深耕和拓展。目前合作的场景方有盒马鲜生，阿里零售通，天猫零售通、阿里巴巴、大润发、咔啦酷、奔驰工厂等。<br/><div class="contheight"></div>目前，便丽猫已经有100多家线下智能零售终端集合店，除覆盖北上广深外，在海口、西安、成都、杭州、福州、武汉等核心城市落地。未来，借助智能零售终端简单、灵活、占地面积小等天然优势，便丽猫将携全品类终端及服务布局三大场景，及商业场景、枢纽场景和社区场景，并重点提升多场景自由组合、散点布局与多场景适配能力。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：杨思超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2749648">
+<div class="nbgbox">
+<a class="zan" contid="2749648" href="javascript:;" onclick="voteCont(this)" praisetimes="58">
+                           57</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 无人零售</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2749648&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2749648&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

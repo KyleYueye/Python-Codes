@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">西藏：GDP连续25年高速增长，今年基本消除绝对贫困</h1>
+<div class="news_about">
+<p>上游新闻</p>
+<p>
+							2019-01-10 17:18<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月10日上午，西藏自治区十一届人大二次会议开幕，西藏自治区主席齐扎拉向大会报告政府工作。齐扎拉在政府工作报告中透露，预计2018年全区生产总值突破1400亿元，增长10%左右。这是自1993年以来西藏自治区连续25年保持10%以上的经济增速 。2019年，西藏将提前宣布全区基本消除绝对贫困。<br/><div class="contheight"></div>上游新闻记者了解到，1月9日，西藏自治区政协十一届二次会议已在拉萨开幕，这也标志着全国31个省份正式进入了2019“地方两会”时间。<br/><div class="contheight"></div><strong>连续25年高速增长，去年GDP增速10%</strong><br/><div class="contheight"></div>上游新闻记者从西藏自治区政府工作报告中了解到，预计2018年全区生产总值突破1400亿元，增长10%左右；一般公共预算收入达到234亿元；农民人均收入增长13%左右，城镇居民人均可支配收入增长10%以上；居民消费价格增长指数控制在2%以内；城镇登记失业率2.83% ，城镇调查失业率4.6%，城镇新增就业5.4万人；完成国家核定的能耗、碳排放、污染减排指标，城市空气质量优良天数比例98.1%。<br/><div class="contheight"></div>西藏自治区自1993年以来连续25年保持10%以上的经济增速。<br/><div class="contheight"></div>根据国家统计局的数据，2017年，西藏是仅有的两个GDP增速继续保持两位数增长保持的省份，以10%位列全国第二，仅次于贵州省。根据西藏自治区十届人大四次会议上披露的“十三五”时期国民经济和社会发展主要目标显示，十三五期间，西藏地区生产总值仍将保持年均两位数增长的态势。<br/><div class="contheight"></div><strong>2019年西藏目标，改善民生放在重要位置</strong><br/><div class="contheight"></div>齐扎拉在政府工作报告中提出2019年工作的主要目标：地区生产总值增速保持在10%左右，地方财政收入高于全国平均增幅，社会消费品零售总额增长13%；能耗、碳排放强度和污染减排指标控制在国家核定范围内，地级以上城市空气质量优良天数比率保持95%以上。<br/><div class="contheight"></div>西藏自治区政府工作报告将民生改善放到了重要的位置，2019年是新中国成立70周年，是全面建成小康社会的关键之年，也是西藏民主改革60周年，也是西藏自治区全面消除绝对贫困的决战决胜之年。<br/><div class="contheight"></div>西藏作为全国唯一省级集中连片特困地区，脱贫攻坚任务艰巨。<br/><div class="contheight"></div>上游新闻记者注意到，“全力保障和改善民生”放在了自治区政府在2019年主抓的七大方面的首位。政府工作报告提出2019年城镇居民人均可支配收入增长10%以上，农村居民人均可支配收入增长13%以上，农牧民劳务性收入增长20%以上；居民消费价格涨幅控制在4%以内，城镇登记失业率控制在3%以内，城镇调查失业率控制在5%以内，城镇新增就业5万人。<br/><div class="contheight"></div>（原标题为《西藏：GDP连续25年高速增长，今年基本消除绝对贫困》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：钟煜豪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 西藏，GDP，绝对贫困</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837058">
+<div class="nbgbox">
+<a class="zan" contid="2837058" href="javascript:;" onclick="voteCont(this)" praisetimes="11">
+                           10</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 西藏经济</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837058&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837058&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">乌克兰延长对俄记者羁押，俄方要求停止迫害立即放人</h1>
+<div class="news_about">
+<p>侯兴川/海外网</p>
+<p>
+							2018-12-28 07:41<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/608/229.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">维辛斯基（Kirill Vyshinsky）。视觉中国 资料</span><br/><div class="contheight"></div>海外网12月28日消息，乌克兰延长对“俄新社乌克兰”网站负责人维辛斯基（Kirill Vyshinsky）的羁押。对此，俄罗斯外交部声明称，要求乌克兰停止对维辛斯基滥用法律，并立即释放他。<br/><div class="contheight"></div>据塔斯社（tass）27日消息，乌克兰赫尔松市（Kherson）法院驳回乌检方要求将记者维辛斯基羁押至2月16日的请求，而对后者之羁押延期限长至1月27日。同时驳回维辛斯基的代理律师对其保释的请求。乌克兰法院称，相信30天就足以完成全案调查。目前，维辛斯基的代理律师已宣布计划对法院的裁决提出上诉。<br/><div class="contheight"></div>另据《俄罗斯卫星新闻网》（sputniknews）消息，对于维辛斯基被乌方延长羁押，俄罗斯外交部27日发表声明，要求乌方停止对“俄新社乌克兰”网站负责人维辛斯基的“滥用法律”，并立即释放他。俄外交部消息指出，“我们再一次强调，制造假的叛国指控，逮捕记者，是乌克兰在媒体自由领域国际义务的重大破坏。 我们要求基辅政权终止对维辛斯基的滥用法律，并将其立即释放。”此外，俄外交部还呼吁相关的国际机构对此问题作出反应并对乌克兰政府施加压力。<br/><div class="contheight"></div>据报道，“俄新社乌克兰”网站负责人基里尔∙维辛斯基5月15日在基辅遭到拘留，17日被转移到赫尔松市后正式被逮捕。当时的逮捕羁押期限是60日，后来延长至11月4日。<br/><div class="contheight"></div>据报道，对维辛斯基的指控源自2014年乌东事件。乌克兰政府指控维辛斯基支持乌克兰顿巴斯地区“两个自行宣布成立的共和国”，称维辛斯基犯有叛国罪。据报道， 如果维辛斯基被判有罪，可能面临长达15年的牢狱之灾，但维辛斯基并不承认指控。<br/><div class="contheight"></div>据报道，维辛斯基原本是乌克兰国民，于2015年获得俄罗斯公民身份。但此举并不为乌克兰政府承认，乌克兰政府仍以维辛斯基拥有乌克兰国籍为由，不允许俄领馆人员与其接触。俄外交部认为乌方的这种做法不可接受。维辛斯基亦向俄罗斯总统弗拉基米尔·普京要求过法律援助。<br/><div class="contheight"></div>（原标题《乌克兰延长对俄记者羁押 俄方:停止迫害立即放人》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 乌克兰羁押俄记者</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2785665">
+<div class="nbgbox">
+<a class="zan" contid="2785665" href="javascript:;" onclick="voteCont(this)" praisetimes="36">
+                           35</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 乌克兰羁押俄记者</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2785665&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2785665&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

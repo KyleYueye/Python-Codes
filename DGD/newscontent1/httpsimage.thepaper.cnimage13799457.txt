@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">英媒：英国防大臣海外建基地说法遭批，朝野一致斥其无稽之谈</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-02 10:11<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/799/451.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">英国国防大臣威廉姆森。视觉中国 资料</span><br/><div class="contheight"></div>英国国防大臣威廉姆森（Gavin Williamson）日前表示，英国可能在南海、加勒比海等地建新军事基地，真正发挥“全球作用”，该说法一经提出随即引发英国国内的批评。<br/><div class="contheight"></div> 英国广播公司（BBC）1月1日报道，威廉姆森日前在接受《星期天电讯报》采访时表示，在脱离欧盟后，英国人应该更乐观，“这是自二战结束以来最了不起的时刻，我们可能在世界舞台上扮演世界期望我们扮演的角色。” <br/><div class="contheight"></div>威廉姆森还进一步透露说，英国会在世界建立更多军事基地，“不仅在远东，而且也在加勒比地区”建立英国基地，成为 “真正的全球角色”。不过他拒绝披露英国新军事基地的具体地点。《星期天电讯报》引述接近英国国防部的消息人士说，新海外基地可能在几年后设在靠近南海的新加坡或文莱。在加勒比地区的基地可能在蒙特塞拉特或圭亚那。 <br/><div class="contheight"></div>此外，威廉姆森表示，期望英国脱离欧盟后，会大幅度调整政策重点，英国要同澳大利亚、加拿大、新西兰、加勒比国家以及非洲国家深化联系。他认为，这些国家期望英国发挥“道德领导，军事领导以及全球领导”作用。 <br/><div class="contheight"></div>但他的发言随即受到保守党内和在野党的批评，称他表现出“赤裸裸的野心”以及无知。<br/><div class="contheight"></div>保守党后排议员苏布里（Anna Soubry）说，国防大臣的话 “完全是无稽之谈”，她表示英国留在欧盟并不妨碍英国的国防政策，因为欧盟并没有军事功能，因此脱欧和英国军事项目并没有关联。北约是英国参加的唯一军事联盟，所以如果英国希望并且有钱在世界各地建军事基地，和英国是否留在欧盟没有关系。 <br/><div class="contheight"></div>工党议员珀拉德（Luke Pollard ）也在社交媒体上质问威廉姆森：预算从哪里来？为什么英国国家军事战略可以边走边改？要削减哪些方面的预算来支持上述扩充？ 另外一名工党议员莱斯利（Chris Leslie）说，威廉姆森关于英国脱欧后建立更多海外军事基地的说法显示了对军事战略的无知，而国防大臣这么说，很令人担心。<br/><div class="contheight"></div>而《南华早报》引述专家分析认为，如果威廉姆森的计划得以继续下去，将标志着英国从20世纪60年代退出东南亚和波斯湾军事基地政策的转变，亦会给与相关亚洲国家的关系蒙上一层阴影。<br/><div class="contheight"></div>今年10月，《澳大利亚人报》发表对威廉姆森的独家专访，文中透露重要信息称，英国一艘护卫舰萨瑟兰号下月将从澳大利亚启航，经由南海回返英国，以捍卫航行自由权利。<br/><div class="contheight"></div>对此，在外交部例行发布会上，发言人耿爽回应称，“当前南海风平浪静，希望有关方面不要试图去无风起浪。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 英国,南海,军事基地</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2803163">
+<div class="nbgbox">
+<a class="zan" contid="2803163" href="javascript:;" onclick="voteCont(this)" praisetimes="73">
+                           72</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 南海诸岛主权</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2803163&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2803163&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（43）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

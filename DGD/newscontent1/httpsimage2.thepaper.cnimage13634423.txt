@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">日本开始流行签婚前协议，出轨或家暴要掂量掂量是否赔得起</h1>
+<div class="news_about">
+<p>参考消息</p>
+<p>
+							2018-12-28 18:47<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">日媒称，在日本，越来越多的人选择在结婚之前签订“婚前协议”，明确婚后的生活规则以及离婚时的赔偿金、财产分割方式等。<br/><div class="contheight"></div>据《日本经济新闻》网站12月26日报道，在每三对夫妻中就有一对离婚的背景下，对结婚感到不安的男女正在增加。据称签订婚前协议有规避纠纷、使婚姻生活更和谐的效果。<br/><div class="contheight"></div><strong>日本离婚率超过30%</strong><br/><div class="contheight"></div>据日本厚生劳动省统计，2017年共有60.7万对夫妻提交结婚申请书，有21.2万对夫妻离婚。日本的离婚率在2002年达到30%，之后也一直居高不下，可以说现在是“每三对夫妻就有一对离婚的时代”。<br/><div class="contheight"></div>司法统计显示，无法协议离婚的情况下，由家庭法庭进行的调解和审判的时间逐渐变长。2005年离婚案件的平均审理时间为4.3个月，10年时间延长了1个月左右。新受理件数方面，2006年约为6.98万件，到2014年增至7.52万件左右。<br/><div class="contheight"></div>其背景在于，在进行离婚调解的同时决定赡养费等的“婚姻费用分担事件”出现增加。新受理件数在2005年起的10年里几乎翻了一倍。<br/><div class="contheight"></div><strong>婚前协议好处多</strong><br/><div class="contheight"></div>“不想再次因为结婚而痛苦。签订婚前协议能够打消我对另一半的担心”，2017年秋季，一位居住在东京都港区的40多岁女性与男友签订了婚前协议。二人通过相亲认识，男方为30多岁男性，从事房地产销售工作。<br/><div class="contheight"></div>这名女性曾经离过婚，原因是前夫的语言暴力和出轨。她和相亲认识的男性交往了近1年，虽然进展很顺利，但是“害怕再经历同样的遭遇”，对结婚比较犹豫。<br/><div class="contheight"></div>她和男友商量后，在婚前协议中写明“出轨或者家暴的情况下，向受害方支付1000万日元赔偿金”、“如果有不忠行为可以协议离婚”、“财产平均分配”，此外还写入“生了孩子后，要怀着作为父母的觉悟和责任感养育孩子”、“纪念日夫妻一起过”等共约30项条款。<br/><div class="contheight"></div>“婚前协议”是打算结婚的情侣签订的协议。委托行政书士（代理个人或企业法人同政府部门打交道，处理登记、报批、办理执照、项目审批等业务的职业）或律师等来拟定。要想使婚前协议成为具有法律效力的文书，必须在公证处公证，制作费和手续费合计需要10万日元左右。仅在公证人面前宣誓承诺协议内容真实、获得“宣誓认证”的话，只需1.1万日元。<br/><div class="contheight"></div>报道称，金钱方面的协议属于日本民法中的“夫妻财产协议”，一旦违反将被采取强制执行等措施。日本民法规定，婚后签订的夫妻间协议可以单方面取消，但是婚前签订的协议则具备婚后无法取消的效力。<br/><div class="contheight"></div>（原题为《日本开始流行签婚前协议 出轨或家暴要掂量掂量是否赔得起》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙语双<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 日本,离婚率,婚前协议</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2788363">
+<div class="nbgbox">
+<a class="zan" contid="2788363" href="javascript:;" onclick="voteCont(this)" praisetimes="193">
+                           192</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日本婚姻法规</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2788363&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2788363&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（492）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

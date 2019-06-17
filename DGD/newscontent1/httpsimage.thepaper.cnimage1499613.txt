@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">日本政府斥巨资买岛供美军机训练，背后有何考量？</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-09 22:40<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">日本政府即将斥巨资购买一无人岛，用作驻日美军航母舰载机的训练基地。<br/><div class="contheight"></div>据共同社9日报道，围绕转移美军航母舰载机训练基地一事，日本政府正在与拥有马毛岛的企业就签订合同展开最终协调。目前双方在谈的交易价格约为160亿日元（约合人民币10亿元）。<br/><div class="contheight"></div>日本防卫省官员当天表示：“为了在本（财）年度内办妥（即2019年3月底之前），想以可在国会审议等场合说明的金额签约。”<br/><div class="contheight"></div>每日新闻报道称，现在双方交涉的难点主要集中在价格上。日本政府希望以110亿到140亿日元（约合人民币6.9亿到8.79亿元）之间的价格买下马毛岛。<br/><div class="contheight"></div>综合媒体报道，日美两国政府早在2011年就选定马毛岛，作为转移美军航母舰载机训练的候选地。经过长达5年的交涉后，这家企业2016年才同意出售，起初向日本政府提出的价格为400亿日元（约合人民币25.1亿元），谈判一度进展艰难。<br/><div class="contheight"></div>至于日本政府如此“诚意”购岛的原因，日媒报道称，<strong>日本政府认为马毛岛是美军机理想的训练基地</strong>。<br/><div class="contheight"></div>马毛岛位于鹿儿岛县种子岛宇宙发射中心以西12公里，面积8.2平方公里，附近是各国军舰可以航行的西表岛航道，<strong>岛上没有居民</strong>。<br/><div class="contheight"></div>据《读卖新闻》9日消息，完成购买后，日本政府计划在马毛岛建造自卫队设施，美国军方也将一同使用该设施。<strong>日本政府还会考虑采取措施减轻冲绳承担的“美军负担”</strong>，例如转移美国海军陆战队在普天间基地进行的MV-22“鱼鹰”运输机训练。<br/><div class="contheight"></div>就美军机训练转至马毛岛事宜，日本防卫省在2019年度预算中列入了约6亿日元（约合人民币3800万元）作为环境调查费。日本官房长官菅义伟在1月9日的记者会上介绍称，“正在完善自卫队设施，并进一步探讨将其用作驻日美军航母舰载机的训练候选地。”<br/><div class="contheight"></div>据悉，舰载机陆基模拟着舰训练需要舰载机不停起降，噪音污染一直很严重。驻日美军曾长期在神奈川县的厚木基地进行该训练，因噪音等问题备受当地居民诟病，现已转移至硫磺岛进行。<br/><div class="contheight"></div>硫磺岛距离美军航空基地远且飞行易受天气影响。为了确保飞行员的安全，<strong>美方一直要求日方安排在更近的马毛岛训练</strong>。改至马毛岛后，美军岩国海军陆战队基地与训练岛屿的距离将从1400公里缩短至400公里。<br/><div class="contheight"></div>另一方面，受驻日美军基地问题困扰，冲绳民众近年来多次举行集会示威，抗议美军机噪音严重扰民、坠机事故接连不断令人惴惴不安、美军基地环境污染、军事基地给当地带来不安全因素等。<br/><div class="contheight"></div>目前，美国在日本本州岛上有5个军事基地，在冲绳岛有2个军事基地，在九州岛上有1个军事基地。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘惠<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美军基地,日本,驻日美军</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2832746">
+<div class="nbgbox">
+<a class="zan" contid="2832746" href="javascript:;" onclick="voteCont(this)" praisetimes="41">
+                           40</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 驻日美军</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2832746&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2832746&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

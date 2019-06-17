@@ -1,0 +1,96 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25464">澎湃质量报告</a>
+</div>
+<h1 class="news_title">天津多部门调查权健是否涉传销：质疑一直有，但取证难未坐实</h1>
+<div class="news_about">
+<p>澎湃新闻记者 赵孟</p>
+<p>
+							2018-12-27 16:42<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“百亿保健帝国阴影”事件发酵持续二日后，天津市武清区多个部门已介入调查“权健是否涉嫌传销”。<br/><div class="contheight"></div>天津27日发布消息称，针对权健集团被自媒体指出涉嫌虚假宣传、传销等诸多问题，天津市委、市政府责成市市场监管委、市卫健委和武清区等相关部门成立联合调查组，对网民关注的诸多问题展开调查核实。目前，调查组已进驻权健集团展开核查。 <br/><div class="contheight"></div>12月27日，澎湃新闻从天津市武清区市场质量监督管理局了解到，该局正在核实了解有关权健公司是否涉嫌违法违规的情况。<br/><div class="contheight"></div>此外，权健公司所在地天津市豆张庄镇市场和质量监督管理所一位工作人员称，这项工作由市场监管部门牵头，卫生监督、公安等部门也已经介入。当日，该所几乎所有人员都出动。<br/><div class="contheight"></div>天津市武清区公安分局指挥中心民警证实，该局已经介入此事，针对权健是否涉嫌传销一事的工作正在开展中，但对于是否立案或案件性质等问题，他表示暂时不便透露。<br/><div class="contheight"></div>前述豆张庄市场质量监督管理所工作人员说，权健公司是其辖区最大的保健品企业，他们“隔三岔五都要去检查”，此前接到有关该企业的投诉，多数是产品质量问题，有关传销的质疑虽然一直存在，但由于取证较难，未能坐实。<br/><div class="contheight"></div>这位工作人员表示，此前权健公司举行推销大会等活动，市场质量监管管理部门工作人员曾扮装成普通人员进去，以便了解真实信息，但由于涉嫌“钓鱼执法”等问题被叫停，因此对权健公司是否合规经营的监督陷入困难。</div>
+<div class="go_to_topic">
+<p style="line-height: 20px; margin-bottom:5px">
+<img alt="" src="//file.thepaper.cn/www/v3/img/topic.gif" style="float:left">
+<a href="newsDetail_forward_64937" target="_blank">
+<span class="news_topic">
+                              【专题】专题｜权健帝国漩涡</span>
+</a>
+</img></p></div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_asktopic">
+<div class="news_askuser" onclick="window.open('asktopic_detail_10014700');"><span class="verticalAlign_topic"></span>
+<div class="news_askuser_bd">
+<div class="news_askuser_sort">法律</div>
+<div class="news_askuser_profile">我是律师胡定锋，入保健品的“坑”该如何维权，问我吧！</div>
+</div> <div class="news_askuser_trbs"><span class="trbs">
+<div class="userleft_hdimg">
+<img src="//image.thepaper.cn/publish/interaction/image/2/947/372.jpg"/><div class="hdimg_bg30"><img src="//file.thepaper.cn/www/v3/img/headerimg_ctbg30.png"/><span></span></div>
+</div>
+<a class="u_sname">胡定锋</a>
+<span>4小时前</span>
+<span class="trbs_zan" id="10014700" times="185">185</span>
+<span>提问征集中</span>
+</span></div>
+</div>
+</div>
+<div class="news_editor">责任编辑：崔烜<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 权健 传销 调查 天津</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780457">
+<div class="nbgbox">
+<a class="zan" contid="2780457" href="javascript:;" onclick="voteCont(this)" praisetimes="61">
+                           60</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 保健帝国权健</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780457&caid=25464",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780457&amp;caid=25464" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（81）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

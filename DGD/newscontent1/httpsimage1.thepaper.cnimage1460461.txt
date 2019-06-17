@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27234">科技湃</a>
+</div>
+<h1 class="news_title">小烟小酒不伤身？中外学者携手揭示烟酒影响人脑功能</h1>
+<div class="news_about">
+<p>陈静/中新网</p>
+<p>
+							2019-01-09 07:44<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网上海1月8日电 小烟小酒不伤身？中外学者的一项研究表明，这样观点或导致错误的健康习惯。<br/><div class="contheight"></div>复旦大学8日披露，该校脑智能科学与技术研究院院长冯建峰教授领衔的，来自英国华威大学、牛津大学、剑桥大学等研究人员组成的国际合作团队，历时两年研究发现，吸烟人群的脑功能连接呈现整体减弱的趋势；而饮酒人群的脑功能连接呈现整体增强的趋势。这种同步性异常的升高或降低都会影响人脑的功能。<br/><div class="contheight"></div>复旦大学类脑智能研究院青年研究员程炜当日表示，脑功能连接，也就是不同脑区间功能信号的同步性，可以简单理解为脑区间的协同性。人脑的各种功能都需要不同脑区之间的协同作用来完成。 研究发现吸烟组对脑惩罚功能的敏感性降低，而饮酒组对脑奖赏功能的敏感性升高。冯建峰表示，这也解释了长期吸烟饮酒人群对尼古丁和酒精的依赖。研究还发现这些和吸烟、饮酒关联的脑连接，与吸烟量、饮酒量以及冲动性行为都显著相关。<br/><div class="contheight"></div>8日，该研究成果在线发表在生物医学领域权威期刊eLife上。同时，该论文被遴选为eLifedigest特别报道。<br/><div class="contheight"></div>当下，吸烟、饮酒的人数比例在全球居高不下。世界卫生组织(WHO)官网最新数据显示，全球约11亿人吸烟，23亿人饮酒，其中重度饮酒人群占18.4%，重度抽烟人群占15.2%。WHO数据显示，在中国，烟民数量超过3亿，占世界总吸烟人口的三分之一，中国饮酒人数将近5亿。程炜表示，如果能弄清楚酒精与尼古丁对人类大脑作用的成瘾机制，将为烟酒成瘾的治疗起到重要作用。<br/><div class="contheight"></div>研究团队整合了美国人脑连接组计划(HCP)以及欧洲青少年数据(IMAGEN)两大脑影像数据库，基于静息态功能磁共振脑影像数据对近2000例被试进行脑网络建模分析，分别找到了与吸烟、饮酒密切相关的神经环路。<br/><div class="contheight"></div>校方表示，国际团队的研究揭示了吸烟与饮酒具有不同的神经环路机制，并对人脑作用呈相反的异常模式。这一发现为揭示尼古丁与酒精对大脑的作用机制奠定了理论基础，对烟酒成瘾这一全球公共健康问题以及发展针对烟酒成瘾的特异性治疗方法具有重要意义。<br/><div class="contheight"></div>（原标题 中外学者携手研究揭示烟酒如何影响人的大脑和健康）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张唯<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2830248">
+<div class="nbgbox">
+<a class="zan" contid="2830248" href="javascript:;" onclick="voteCont(this)" praisetimes="128">
+                           127</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 脑科学</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2830248&caid=27234",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2830248&amp;caid=27234" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

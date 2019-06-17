@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25437">牛市点线面</a>
+</div>
+<h1 class="news_title">沪深股市缩量震荡尾盘跳水：光伏概念活跃，沪指跌0.36%</h1>
+<div class="news_about">
+<p>澎湃新闻记者 欧阳李宁</p>
+<p>
+							2019-01-10 16:15<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/14/118/506.jpg" width="600"/></div>1月10日，A股市场全天窄幅整理，尾盘跳水。截至收盘，上证综指跌0.36%，报2535.10点；创业板指数跌0.28%，报1258.99点；深证成指跌0.26%，报7428.61点。<br/><div class="contheight"></div>沪深两市总计成交3133.64亿元，较前一个交易日缩量658.94亿元。<br/><div class="contheight"></div>盘面上，光伏、风电、5G、特高压活跃；券商尾盘跳水，创投、高铁跌幅明显。<br/><div class="contheight"></div><strong>风电、光伏概念股爆发<br/><div class="contheight"></div></strong>风电、光伏加速平价上网，概念股爆发，向日葵（300111）、易成新能（300080）、保变电气（600550）、中元股份（300018）、风范股份（601700）等涨停。<br/><div class="contheight"></div>5G板块再起波澜，特发信息（000070）、麦捷科技（300319）、邦讯技术（300312）、超讯通信（603322）、新易盛（300502）涨停。<br/><div class="contheight"></div>雄安概念盘中拉升，四通新材（300428）、东方能源（000958）、博天环境（603603）、天域生态（603717）等大涨。<br/><div class="contheight"></div>中信证券（600030）拟134.6亿元收购广州证券，收涨4.93%；越秀金控（000987）受益，股价一字涨停。不过，券商板块整体低迷。<br/><div class="contheight"></div>个股方面，实控人被捕，子公司股权遭冻结，宝塔实业（000595）却连续4个交易日涨停；重新上市第三个交易日，ST长油（601975）再度跌停。<br/><div class="contheight"></div><strong>“市场反弹的持续性仍需观察”<br/><div class="contheight"></div></strong>国海证券认为，市场反弹的持续性仍需观察。2018年12月14日至今的这一轮市场下跌，受权重股以及医药股影响较大，在此期间上证50、医药行业跌幅均大于上证指数，而权重如果不企稳，市场反弹的持续性就很难期待。从当前时点来看，上证50跌幅已明显趋缓，因此短期市场走势很可能出现两种情景：1.权重股止跌并出现明显反弹带动指数上行；2.在降准等政策之后，权重股并无明显起色，市场在利好出台之后出现回落。<br/><div class="contheight"></div>国海证券称，如果出现第一种情景，市场反弹会有持续性，并且反弹空间可能会在10%以上；而如果出现第二种情景，我们认为市场反弹很难持续，指数维持震荡走势的概率较大。无论哪一种情景出现，未来一周均是重要观察时点，在此期间权重股的走势、市场热点的变化均需要重点关注。<br/><div class="contheight"></div>爱建证券认为，上周股指破位后出现绝地反击走势，市场短期低点得以探明，股指经过连续两天的震荡整理后周三向上突破，但由于多空分界岭的反压较大，股指冲高受阻回落，走出了较长上影线的倒T字K线，表明股指上行的压力依然较大。股指仍在2450-2650的箱体区间运行，虽然收复了短期均线但仍处于短期周均线和多空分界岭的下方，市场总体的下降趋势依然没有改变，此次股指回升，超跌技术性反弹的概率依然较大。随着指数的反弹步入中轨区，多空之间的分歧开始逐步加大，短期股指或将围绕多空分界岭上下波动，控仓精选个股操作策略。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王杰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 大盘 沪指</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836805">
+<div class="nbgbox">
+<a class="zan" contid="2836805" href="javascript:;" onclick="voteCont(this)" praisetimes="16">
+                           15</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 大盘</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836805&caid=25437",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836805&amp;caid=25437" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">印度要求60名中国专家离境，印企抗议：政府的决定独断专行</h1>
+<div class="news_about">
+<p>方伟文、王会聪 /环球时报</p>
+<p>
+							2018-12-21 08:32<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">环球时报12月21日消息，据《印度时报》20日报道，印度外国人管理处上周下达命令，要求被当地一家公司邀请到印度工厂指导工作的60名中国专家立即离境，理由是“违反其商务签证的有关规定”。该公司对此提出抗议，批评政府的决定“极端、不合理且独断专行”。<br/><div class="contheight"></div>报道称，涉事企业名为“太平洋网络技术公司”，其母公司位于香港。19日，该公司负责人前往孟买高等法院，对印度当局要求60名中国专家“立即离开印度”的通知提出质疑。该公司在上诉书中表示，这些通知“极端、不合理且独断专行”，侵犯了该公司获得平等待遇和正常开展业务的权利，因为过去两年接受外国专家的现场指导一直是“不可或缺的行业规范”。报道称，按计划，这些中国专家将前往该公司的两家工厂，培训当地工人“如何有效操作复杂机器和在生产线上发现机器故障等”。<br/><div class="contheight"></div>印度《第一邮报》称，孟买高等法院的两名法官将于21日为此召开听证会。接到印度当局通知后，至少6名中国专家已被迫离开，尽管他们的签证仍在有效期内。该公司还称，其致力于推进莫迪政府提出的“印度制造”计划，如果这些中国专家被迫回国，将影响该公司业务甚至导致工厂停产。<br/><div class="contheight"></div>当地分析人士20日告诉《环球时报》记者，印度政府以签证问题要求这些中国专家离境，从法理上没有问题，但是这一事件发生的时机耐人寻味。中印政治关系目前被认为处于“历史最好时期”，高层互访不断。但本月印度5个邦选举结果显示，莫迪领导的人民党大败，一些民族主义者批评政府“对中国太软弱”。在此情况下，不排除印度政府拿一些小问题显示对中国的强硬立场，回应呼声，为明年的大选拉选票。<br/><div class="contheight"></div><div>（原标题《印度要求60名中国专家立即离境，印企抗议：政府的决定“独断专行”》）</div></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 印度商务签证</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2758480">
+<div class="nbgbox">
+<a class="zan" contid="2758480" href="javascript:;" onclick="voteCont(this)" praisetimes="96">
+                           95</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 印度商务签证</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2758480&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2758480&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（43）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

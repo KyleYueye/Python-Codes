@@ -1,0 +1,86 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">武汉一双层公交车违规上高架桥被“削顶”1死7伤，警方调查</h1>
+<div class="news_about">
+<p>澎湃新闻记者 周琦</p>
+<p>
+							2018-12-27 16:22<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<script src="//file.thepaper.cn/www/v3/js/jwplayer7.1.4.js" type="text/javascript"></script>
+<script type="text/javascript">jwplayer.key="JYFbHxc36sStM1VSc1vvyI42CCrHFlTZcWEYUA==";</script>
+<div class="news_video_name">
+<style type="text/css">
+							#player_wrapper{width:669px;height:377px;}
+							#player_wrapper .player_err_tip{width:669px;height:377px;display: none;vertical-align: middle;background-color: black;color: white; text-align: center;}
+							.jw-tab-focus:focus{outline:none;}
+						</style>
+<div id="player_wrapper">
+<div class="player_err_tip" id="Text">抱歉!<br/>您的浏览器可能不支持此视频播放器，请用更高版本的浏览器试试！</div>
+</div>武汉公交撞限高杆(00:49)
+					</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="788" src="http://image.thepaper.cn/www/image/13/555/48.jpg" width="590"/></div><span style="color: rgb(128, 128, 128);">一辆双层593路公交车撞上限高架。 本文图片均由现场目击者 提供</span><br/><div class="contheight"></div>12月27日下午，武汉一辆593路双层公交车撞上了高架桥匝道限高架上。当日下午，武汉市洪山区公安分局官方微博@平安洪山 发布通报称，事故造成8名乘客受伤，暂无生命危险。16时31分，@平安洪山 再次发布微博称，刚刚获悉，一名伤者因抢救无效，不幸去世。<br/><div class="contheight"></div>有目击者告诉澎湃新闻（www.thepaper.cn），事故发生在下午2时许，地点位于武汉白沙洲大道八坦路上白沙洲高架匝道处。<br/><div class="contheight"></div>现场目击者给澎湃新闻发来的多段视频显示，发生事故的是一辆593路双层公交车。这辆双层公交车撞上了上高架桥匝道的限高架上，第二层已经被限高架损毁近一半。目击者在公交车二层里拍摄的视频显示，有多人受伤，两名女子被限高架卡在车座位上不能动弹。事故现场，一名女子满脸是血，一辆救护车已经赶到现场进行救援，医护人员正在给一名中年女子包扎头部。一名被目击者称为司机的黑衣男子，看见有人拍摄用衣服帽子遮住头，正准备接受警方调查。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="408" src="http://image.thepaper.cn/www/image/13/555/58.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">事发现场</span><br/><div class="contheight"></div>在现场参与救援的民警告诉澎湃新闻，事故发生在白沙洲大道上，公交车都不能上高架桥，更何况是一辆双层公交，目前正在调查这辆公交车为何驶入高架桥匝道。<br/><div class="contheight"></div>12月27日下午，@平安洪山 通报称，27日14时许，洪山警方接群众报警称白沙洲大道白沙三路口附近白沙洲高架闸口处有一辆双层公交车（593路）撞上限高架。接警后，洪山警方调集周边交管、消防及120等单位迅速到场救援处置。目前，有8名乘客受伤，均已送医院检查治疗，暂无生命危险，肇事公交司机已被警方控制，现场交通已恢复，具体相撞原因正在进一步调查中。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = 'http://cloudvideo.thepaper.cn/video/b390bf70a5c74e259e1642755fe3da94/hd/787646d0-44fb-4de8-93e7-0500712a931c-2fd4ce41-376e-285d-ffee-48cc90239b84.mp4',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'//image2.thepaper.cn/image/cover/20181227/67afba2252c0408a9dcd8cc3564a7041-20181227162658259-4454146782968409760-264fba50-75da-4bcb-9541-d4b3667779b0.jpg',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王选辉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 公交车,高架,武汉</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780383">
+<div class="nbgbox">
+<a class="zan" contid="2780383" href="javascript:;" onclick="voteCont(this)" praisetimes="36">
+                           35</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 冲向公交车</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780383&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780383&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（398）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

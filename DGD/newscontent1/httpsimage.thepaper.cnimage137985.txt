@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">驻美大使崔天凯在美媒撰文：合作是中美唯一正确选择</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2019-01-02 06:39<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网华盛顿1月1日消息，“分歧尽管难以避免，却可加以有效管控”，中国驻美大使崔天凯1月1日在美国媒体撰文指出，中美双方的共同利益远大于矛盾分歧，合作是唯一正确选择。<br/><div class="contheight"></div>这篇当天发表在《今日美国》网站上的署名文章说，40年前，中国改革开放与中美建交同步走来，改革开放为中美建交和两国关系发展提供了动力和活力，中美建交为中国改革开放创造了十分重要的外部条件。这两大历史进程的交织，为两国和世界人民带来了巨大利益。<br/><div class="contheight"></div>崔天凯指出，中美关系的稳定发展像空气和水一样，滋养着两国和世界人民。“脱钩”或彼此隔绝这样不负责任的做法，必将殃及中美两国人民，也将殃及世界。<br/><div class="contheight"></div>他表示，分歧尽管难以避免，却可加以有效管控，因为维系两国关系发展的一些重要因素没有改变：两国人民都追求更加美好的生活；两国需合力应对重大全球性挑战。中美双方的共同利益远大于矛盾分歧，合作是唯一正确选择。<br/><div class="contheight"></div>崔天凯同时强调，维系两国关系的政治基础不能改变。双方要尊重彼此的核心利益和重大关切，严格遵守《中美建交公报》等三个联合公报，坚持一个中国原则毫不动摇。<br/><div class="contheight"></div>崔天凯认为，在新的国际形势下，中美关系又一次站在了历史的十字路口。两国人民对中美关系的发展寄予厚望，期望从中更多获益，他们的共同利益必将超越“政治正确”，超越两国之间的某些分歧。展望未来40年，中美关系应继续由两国人民来定义。<br/><div class="contheight"></div>他指出，中美合则两利，斗则俱伤。我们要在两国元首共同引领下，“只争朝夕”，推进以协调、合作、稳定为基调的双边关系。要加强沟通、增进互信、聚焦合作、妥处分歧，包括加紧协商解决经贸分歧等。<br/><div class="contheight"></div>崔天凯说，中美关系大厦建立在共同利益的坚实基础之上，过去40年虽然历经风雨，依然屹立。想要损害或推翻这一基础，只会两败俱伤。为子孙后代留下一个稳定和充满机遇的中美关系是我们共同的历史责任<br/><div class="contheight"></div>（原题为《崔天凯在美媒撰文：合作是中美唯一正确选择》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王建亮<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中美关系,崔天凯</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2803007">
+<div class="nbgbox">
+<a class="zan" contid="2803007" href="javascript:;" onclick="voteCont(this)" praisetimes="114">
+                           113</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中美关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2803007&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2803007&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

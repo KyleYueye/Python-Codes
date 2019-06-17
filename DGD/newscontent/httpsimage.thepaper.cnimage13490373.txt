@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">今年全国人代会期间7139件代表建议全部办理完毕</h1>
+<div class="news_about">
+<p>陈菲/新华社</p>
+<p>
+							2018-12-25 16:50<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京12月25日消息，记者从全国人大常委会获悉，十三届全国人大一次会议期间代表提出的7139件建议已经全部办理完毕并答复代表。代表建议所提问题得到解决或计划逐步解决的占建议总数的75.8%。<br/><div class="contheight"></div>24日，全国人大常委会副秘书长信春鹰向十三届全国人大常委会第七次会议报告了十三届全国人大一次会议期间代表提出的建议、批评和意见（以下简称建议）办理情况。<br/><div class="contheight"></div>信春鹰表示，今年代表提出的建议紧扣贯彻落实党中央重大决策部署，建议内容聚焦打好三大攻坚战、实施乡村振兴战略、推动经济高质量发展、保障和改善民生等方面；紧扣回应人民群众重大关切，反映人民群众愿望和呼声，代表通过视察、调研、座谈、走访等形式形成的建议有4402件，占建议总数的61.7%。<br/><div class="contheight"></div>今年是十三届全国人大代表依法履职的第一年。据悉，大会期间共有2546名代表提出建议，其中初任代表提出建议4499件，占建议总数的63%；以代表团名义提出建议126件，涉及18个代表团。<br/><div class="contheight"></div>报告显示，历年来，民生方面的代表建议数量最多、占比最高。今年，科教文卫体类和社会及公共事务类建议有2375件，占建议总数的33.3%。<br/><div class="contheight"></div>“代表通过提出建议方式积极参与管理国家事务。”信春鹰说，各有关方面尊重人民主体地位，支持代表依法履职，增强建议办理实效，切实推动解决问题，代表联系人民群众的桥梁纽带作用进一步发挥，人民代表大会制度的优越性进一步彰显。<br/><div class="contheight"></div>（原题为《件件有答复！今年全国人代会期间7139件代表建议全部办理完毕》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 人代会</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2773025">
+<div class="nbgbox">
+<a class="zan" contid="2773025" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 人代会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2773025&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2773025&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

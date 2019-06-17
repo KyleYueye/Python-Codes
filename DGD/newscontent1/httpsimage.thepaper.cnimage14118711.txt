@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">上海市网信办分领域依法处置41个违规自媒体账号</h1>
+<div class="news_about">
+<p>“网信上海”微信公号</p>
+<p>
+							2019-01-10 15:51<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“网信上海”微信公号1月10日消息，根据国家互联网信息办公室统一部署，结合上海市实际情况，上海市互联网信息办公室近期集中对房地产、时政、金融、教育等领域的自媒体账号开展专项整治，会同市公安局、市市场监管局、市教委、市房管局、市版权局、市扫黄打非办、市文化市场行政执法总队等单位，依法关停一批、约谈一批、训诫一批、警示一批，取得初步成效。<br/><div class="contheight"></div>专项整治期间，上海市网信办协调有关部门分批次对41个违规自媒体账号予以依法处置（20个销号，21个暂停更新），涉及时政新闻、地区资讯、房地产、教育等多个领域。同时，联合上海市相关部门对30余家违规自媒体运营者进行约谈及训诫警示，责令自查自纠，全面深入整改。<br/><div class="contheight"></div>整治期间，根据《互联网用户公众账号信息服务管理规定》，上海市网信办已制定相关规范性意见，指导督促上海市自媒体平台切实履行主体责任，加强内容审核，规范开展用户公众账号管理工作。对于非本地的自媒体平台，上海市网信办也已着手研究督促其遵守管理部门的要求，履行好自律的职责。上海市网信办负责人表示，将加强网络综合治理，对自媒体乱象继续保持高压严管态势，今后一个阶段将重点整治“曲解政策，挑战底线”“无证无照，报道时政”“制谣传谣，扰乱社会”“格调低俗，传播色情”“商业敲诈，恶意营销”“抄袭盗版，洗稿圈粉”“放大焦虑，制造紧张”等扰乱互联网信息传播秩序的行为，努力营造风清气正的网络空间。<br/><div class="contheight"></div><strong>附：新一批关闭和暂停更新的违规时政类微信公众号名单</strong><br/><div class="contheight"></div><strong>【1】6个微信公众号被关闭：</strong><br/><div class="contheight"></div>微信公众号“国际要闻”<br/><div class="contheight"></div>（微信号：guojiyaowen）<br/><div class="contheight"></div>微信公众号“人民栏目网”<br/><div class="contheight"></div>（微信号：gh_49a77f8f57ab）<br/><div class="contheight"></div>微信公众号“人民第一栏目”<br/><div class="contheight"></div>（微信号：gh_c4957c3183b1）<br/><div class="contheight"></div>微信公众号“环球要闻”<br/><div class="contheight"></div>（微信号：huanqiuyaowen）<br/><div class="contheight"></div>微信公众号“人民订阅”<br/><div class="contheight"></div>（微信号：rmdy6666）<br/><div class="contheight"></div>微信公众号“国民栏目”<br/><div class="contheight"></div>（微信号：syys6666）<br/><div class="contheight"></div><strong>【2】5个微信公众号被暂停更新30日：</strong><br/><div class="contheight"></div>微信公众号“上海百事通”<br/><div class="contheight"></div>（微信号：bst310）<br/><div class="contheight"></div>微信公众号“上海最资讯”<br/><div class="contheight"></div>（微信号：shn310）<br/><div class="contheight"></div>微信公众号“金融观察家”<br/><div class="contheight"></div>（微信号：financetop）<br/><div class="contheight"></div>微信公众号“每周新闻精读”<br/><div class="contheight"></div>（微信号：gh_84cac88f2af5）<br/><div class="contheight"></div>微信公众号“懂上海”<br/><div class="contheight"></div>（微信号：dongsh021）<br/><div class="contheight"></div>（原题为《上海市网信办分领域整治自媒体账号》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 上海网信办,自媒体整治</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836839">
+<div class="nbgbox">
+<a class="zan" contid="2836839" href="javascript:;" onclick="voteCont(this)" praisetimes="329">
+                           328</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 治理自媒体乱象</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836839&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836839&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（40）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

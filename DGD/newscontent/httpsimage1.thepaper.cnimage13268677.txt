@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">特蕾莎·梅：议会将于明年1月14日当周举行脱欧投票</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2018-12-18 07:01<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网12月18日消息，据美联社消息，当地时间17日，英国首相特蕾莎·梅在讲话中表示，议会将于明年1月14日开始的一周内进行“脱欧”投票。<br/><div class="contheight"></div>另据英国广播公司（BBC）报道，投票原本应在上周12月11日进行。但在最后一刻，英国首相意识到立法者有拒绝“脱欧”协议的倾向后，她决定取消原定的投票。<br/><div class="contheight"></div>据悉，议会关于此次“脱欧”的辩论将于圣诞假期后，即明年1月7日重新开启。<br/><div class="contheight"></div>据海外网此前报道，“脱欧”协议想要最终生效，需经过英国下院同意、议会立法、欧盟国家同意及欧洲议会批准四道关卡。根据英国法律，下院的同意是英国政府执行“脱欧”协议的先决条件，下院的态度因此成为现有“脱欧”协议能否进入下一步程序的决定性因素。<br/><div class="contheight"></div>（原题为《特蕾莎·梅：议会将于1月14日当周进行“脱欧”投票》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 脱欧</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2748169">
+<div class="nbgbox">
+<a class="zan" contid="2748169" href="javascript:;" onclick="voteCont(this)" praisetimes="92">
+                           91</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 脱欧</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2748169&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2748169&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

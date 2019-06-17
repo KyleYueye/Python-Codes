@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">最高法：确保有财产可供执行案件执结率达到九成</h1>
+<div class="news_about">
+<p>罗沙/新华网</p>
+<p>
+							2018-10-10 23:03<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华网北京10月10日消息，人民法院将坚决如期打赢“基本解决执行难”这场硬仗，开展涉民生重点案件集中执行、专项执行，确保有财产可供执行案件法定期限内实际执结率达到90%。<br/><div class="contheight"></div>这是记者从10日举行的全国法院审判执行工作会议暨全国法院审判管理工作座谈会上获悉的。会议还提出要切实加强对无财产可供执行案件的管理，确保终结本次执行合格率达到90%，扎实推进“执转破”工作，加大司法救助力度。要高度关注人民群众切身感受，进一步加强信访工作长效机制建设，推动信访案件办理规范化，确保执行信访案件办结率达到90%。<br/><div class="contheight"></div>此外，人民法院将加强统筹协调，强化督导问责，提高新收执行案件的办理效率，加大对旧存案件的清理力度，确保全国90%以上法院达标，确保三年案件整体执结率达到80%。<br/><div class="contheight"></div>会议同时提出，要深化司法体制综合配套改革，全面落实司法责任制，健全完善审判监督管理制度。要加强审判工作标准化、规范化建设，细化办案流程，促进严格规范司法。要深入推进司法公开，坚持群众需求导向、公开效果导向、问题攻坚导向，主动开展工作，有效破解难题，以公开促规范，不断提升工作质效。<br/><div class="contheight"></div>在智慧法院建设方面，会议强调要积极回应法官办案信息化需求，完善电子档案管理等系统建设，加强中国审判流程信息公开网建设，提高审判效率，方便群众诉讼。要坚持开放共享理念，统筹推进，实现系统间深度融合，促进互联互通、信息共享。<br/><div class="contheight"></div>（原题为《最高法：确保有财产可供执行案件执结率达到九成》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王建亮<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 法院,案件执行难,最高法,旧案</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2517330">
+<div class="nbgbox">
+<a class="zan" contid="2517330" href="javascript:;" onclick="voteCont(this)" praisetimes="29">
+                           28</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 法院执行难</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2517330&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2517330&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

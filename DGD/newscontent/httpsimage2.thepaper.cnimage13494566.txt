@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">浙江兰溪14岁男孩留下轻生书信后出走，暑假查出患了糖尿病</h1>
+<div class="news_about">
+<p>兰溪广电融媒体</p>
+<p>
+							2018-12-25 19:41<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="480" src="http://image.thepaper.cn/www/image/13/494/548.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">兰溪广电融媒体 图<br/><div class="contheight"></div></span>章金龙，14岁，身高1.60米，云山街道黎明村徐尚源自然村人。今天（25日）早上5点从家中出走，身穿灰红色校服、黑色棉裤，头戴红帽子，背黑色书包。<br/><div class="contheight"></div>请大家仔细记住这个男孩的样貌特征，帮忙扩散寻找，非常紧急！<br/><div class="contheight"></div>如此紧急寻找，是因为男孩从家中出走时，留给家人一封有轻生念头的信，信中写到：儿子不孝，儿子为家里造成长久经济负担，儿子不想再劳烦二老还有姐姐了，在儿子知道这种病不能完全治好后，就已经做好想死的准备，我走了，出去死，不再回来……<br/><div class="contheight"></div>记者跟随其中一支救援队在搜寻过程中，见到离家出走男孩的母亲。男孩母亲泪流满面，由于迟迟没有孩子的线索，显得万分着急焦虑。<br/><div class="contheight"></div>男孩母亲告诉记者，儿子是一个很内向的人，今年暑假期间，被查出患了糖尿病。近两个月里，儿子一直在打针吃药接受治疗，这次不知道为什么突然选择离家出走。<br/><div class="contheight"></div>面对记者镜头，男孩母亲哭求的声音让人心碎。<br/><div class="contheight"></div>目前，男孩母亲已经向警方报案，兰溪多支救援队伍以及众多爱心人士，也已经加入寻找男孩的队伍。<br/><div class="contheight"></div>如果您见到过这位男孩，或者您有相关线索，请及时与男孩母亲小丽联系，联系电话88802055。<br/><div class="contheight"></div>（原标题：《14岁男孩留下轻生书信后出走，母亲崩溃：“儿子，求你回来”！》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周琦<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 轻生 书信 出走 糖尿病</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2773539">
+<div class="nbgbox">
+<a class="zan" contid="2773539" href="javascript:;" onclick="voteCont(this)" praisetimes="58">
+                           57</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 男子轻生</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2773539&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2773539&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

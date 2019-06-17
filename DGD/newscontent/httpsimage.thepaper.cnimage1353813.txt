@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">新华时评：“受污染”的收视率，制造出一连串虚假繁荣的乱象</h1>
+<div class="news_about">
+<p>魏婧宇/新华社</p>
+<p>
+							2018-12-26 21:45<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2776518" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">广电总局收视综合评价大数据系统开通试运行：解决收视造假</span></a></img></p></div>
+<div class="news_txt" data-size="standard">新华社北京12月26日报道，国家广播电视总局组织研发的收视综合评价大数据系统26日正式开通运行，旨在对广播电视节目收视率进行客观真实的统计，还影视剧行业一片清明。<br/><div class="contheight"></div>影视剧行业有一句话叫“得收视率者，得天下”。收视率像一把尺子，衡量着电视剧的受欢迎程度，成为广告投放和影视资源开发的依据。如此重要的数据，本该来自观众的真实选择，然而有些人却利用原有收视率统计系统样本容量小的空子，通过控制样本户的观影选择操纵收视率。<br/><div class="contheight"></div>剧情靠复制粘贴却收视爆棚、“零演技”演员成收视红人，20集的故事被“注水”到50集……“受污染”的收视率，制造出一连串虚假繁荣的乱象。<br/><div class="contheight"></div><strong>收视率造假，污染影视剧制作环境。</strong>通过数据操控就能获得好的收视成绩之时，创造力和匠心似乎显得没那么重要了，以品质为上、追求卓越的创作理念受到冲击。<br/><div class="contheight"></div><strong>收视率造假，扰乱观众审美选择。</strong>被造假的收视率剥夺了鉴赏家和评判者的地位，观影需求“被代表”，“热门”电视剧不是出自真心选择。“金玉其外”的影视剧充斥荧屏，令人分不清东施西施谁美、李逵李鬼孰真。<br/><div class="contheight"></div><strong>收视率造假，影响国家文化建设。</strong>“为人民服务”是文艺创作的准则，造假的收视率掩盖了人民群众真实的文化需求。没有人民群众，文艺就没有土壤，创作就没有源泉，创新就没有方向。<br/><div class="contheight"></div>为此，此次推出的收视综合评价大数据系统，就是要通过大数据、封闭传输、清洗处理等技术手段，保证收视率的真实客观，真实反映人民群众的文化需求，指导影视创作方向。<br/><div class="contheight"></div>廓清收视迷雾，更需对“唯收视率论”说不。“文艺创作方法有一百条、一千条，但最根本、最关键、最牢靠的办法是扎根人民、扎根生活。”影视行业需建立多元化的综合评价体系，鼓励引导广大影视剧创作者深入基层、深入生活，从人民的伟大实践和丰富多彩的生活中汲取营养，才能创作出无愧于人民、无愧于时代的精品力作。<br/><div class="contheight"></div>（原题为《以收视率之“真”引导影视创作之“深”》）</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 收视率,影视创作,大数据系统</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2778448">
+<div class="nbgbox">
+<a class="zan" contid="2778448" href="javascript:;" onclick="voteCont(this)" praisetimes="170">
+                           169</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 收视率</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2778448&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2778448&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">华为智能手机2018年发货量破2亿台，再创历史新高</h1>
+<div class="news_about">
+<p>经济日报-中国经济网</p>
+<p>
+							2018-12-25 12:34<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">经济日报-中国经济网北京12月25日消息，华为消费者业务今日（12月25日）宣布，在全球消费者和合作伙伴的热情支持下，凭借华为P20系列、Mate20系列、荣耀10 等多款华为、荣耀机型在市场上的优异表现，2018年华为智能手机发货量（含荣耀）已经突破2亿台，再创历史新高。<br/><div class="contheight"></div>据介绍，华为P20系列再次提升智慧摄影新高度，让轻薄、时尚的手机也能拥有专业摄影体验。此外，其出众的美学设计受到了女性消费者青睐，上市以来全球发货量超过1600万台，其中女性用户占比接近一半；<br/><div class="contheight"></div>华为Mate20系列沿袭了华为Mate系列科技研发基因，搭载了华为史上最强大、最精密的麒麟980芯片，更先进的7纳米制程与更强悍的A76 Based+G76架构，带来更佳的能效比及全新流畅体验，并让手机的“智慧性”再度升级，上市两个月发货量即突破500万台；<br/><div class="contheight"></div>华为nova系列以高颜值基因领航青春潮流主义，受到了年轻用户的喜爱。华为nova 3凭借大胆的配色设计及创新的自拍理念成为2018年最受欢迎的自拍手机之一，华为nova4则延续了高颜值的系列基因，成为新一代极点全面屏的开拓者。截止2018年底，全球nova星人累计超过6500万，引领华为中端档位产品崛起；<br/><div class="contheight"></div>荣耀数字旗舰系列一直以工艺革命、设计美学引领行业发展。作为2018年度荣耀美学旗舰代表作品，荣耀10在外观ID设计上大胆创新，以“会变色更潮美”引领时尚科技潮流，与荣耀V10并肩助力荣耀领跑中国互联网手机市场。<br/><div class="contheight"></div>过去8年，华为消费者业务坚持以消费者为中心，用创新为消费者创造价值，在影像、续航、通信、人工智能等多个领域引领了行业创新趋势，并获得了全球消费者的青睐和赞誉。<br/><div class="contheight"></div>与此同时，作为沟通现实物理世界与虚拟数字世界的桥梁，智能手机已经成为消费者的信息中枢。因此，我们认为用户的隐私安全，与让人眼前一亮的产品同等重要，因为这关乎到全球消费者对我们的信任。华为将隐私安全保护置于商业利益之上，遵从全球最严格的GAPP(Generally Accepted Privacy Principles)隐私技术框架和欧盟GDPR(General Data Protection Regulations)要求，将PbD（Privacy by Design）融入产品开发、设计、验证、销售、服务和采购等所有环节，以保障消费者的隐私安全。同时，华为在开放的ARM芯片架构和谷歌Android系统的基础上，对手机安全性做了进一步的增强和补充。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="302" src="http://image.thepaper.cn/www/image/13/484/750.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">2010年至2018年华为智能手机发货量（单位：百万台）</span><br/><div class="contheight"></div>也正是得益于这些努力，华为智能手机发货量从2010年的300万台增长到2018年的2亿台，增长约66倍；从全球智能手机市场的“Others”跻身全球TOP3智能手机厂商，并在2018年第二季度和第三季度，成为全球第二大智能手机厂商，全球市场份额达到14.6%[1]。<br/><div class="contheight"></div>目前，华为智能手机正在为全球170多个国家的超过5亿消费者提供服务，根据权威品牌调研机构IPSOS报告显示，不断进步、勇于创新、值得信赖等形象已经成为华为在全球消费者心中的品牌标签。<br/><div class="contheight"></div>华为消费者业务CEO余承东表示：“面向未来，华为消费者业务将秉承‘我们的起点和终点都是消费者’的核心理念，勇于创新，努力成为新一轮智慧手机革命的探索者和引领者，持续为消费者创造价值，让华为品牌真正为全球消费者所喜爱。”<br/><div class="contheight"></div>（原题为《华为智能手机全年发货量破2亿台 8年增长66倍》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 华为,手机,发货量</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772365">
+<div class="nbgbox">
+<a class="zan" contid="2772365" href="javascript:;" onclick="voteCont(this)" praisetimes="275">
+                           274</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 华为业绩</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772365&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772365&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

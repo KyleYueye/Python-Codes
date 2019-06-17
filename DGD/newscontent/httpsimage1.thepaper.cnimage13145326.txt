@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">纪念中美建交40周年研讨会在沪举行，中美学者共话中美关系</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-13 13:29<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="420" src="http://image.thepaper.cn/www/image/13/145/324.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">研讨会现场。澎湃新闻记者 南博一 摄<br/><div class="contheight"></div></span>2018年12月13日，在中美建交迎来四十周年之际，由复旦大学美国研究中心、上海市美国问题研究所、上海市人民对外友好协会联合举办“纪念中美建交四十周年”研讨会在《上海公报》签署地上海锦江饭店小礼堂举行。<br/><div class="contheight"></div>来自中美两国的外交亲历者、学界翘楚以及社会贤达百余人，汇聚上海锦江饭点小礼堂这一承载中美关系重大历史意义的地方,共话中美关系的历史、现状与未来。<br/><div class="contheight"></div>2019年是中美建交40周年。四十年国际形势沧桑巨变，中美关系也经历了跌宕起伏。在本次研讨会的四个环节中，来自中美两国的政界高官、资深学者分享了他们的真知灼见。<br/><div class="contheight"></div>与会专家认为，40年来世界局势风起云涌,国际政治环境变了、中美实力对比变了,但仍然能够找到中美关系演变中始终保持“不变”的“基本面”：<br/><div class="contheight"></div>中美关系的战略重要性没有变——两国关系的好坏不仅牵动地区形势,还直接影响许多全球问题的解决；<br/><div class="contheight"></div>中美同时从合作中受益的事实没有变——中国改革开放能成功一定程度上得益于美国的支持和配合，而美国能够成为唯一的超级大国也得益于与中国的战略合作，美国的经济繁荣也离不开中国商品与市场的贡献；<br/><div class="contheight"></div>中美关系与时俱进的必要性没有变——中美各自在变，国际形势在变，这就需要我们不断适应变化的国际和国内形势，更新我们的思维，以符合时代潮流的方式把两国关系推向前进，而不是倒退到过去。<br/><div class="contheight"></div>与会专家表示，作为世界上最大的发展中国家和发达国家、作为世界上第一和第二大经济体，中美关系体量之大、内涵之丰富意味着双方需要大智慧、大胸襟、大格局。已经积累的成功经验为双方提供了许多有益的启发，在中美两国重塑互动模式的过程中，应当不断寻找共同利益、增强相互依赖；扩大合作面、探索新的合作形式、发展多个“稳定剂”和“压舱石”；辩证看待差异、理性处理分歧、建设性地开展竞争，让良性竞争推动中美共同进步。<br/><div class="contheight"></div>作为本次研讨会的一项重要议程，“40人看40年—纪念中美建交40周年系列访谈”项目成果正式发布。该项目由上海市美国问题研究所和复旦大学美国研究中心联合澎湃新闻共同推出，历时一年，在中美两地七个城市采访了40位中美两国政界、学界的杰出代表(双方各20人)，试图梳理中美关系发展的经验与教训，同时分享推动两国合作交流的真知灼见。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李怡清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中美建交40年,《上海公报》,中美关系</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2734203">
+<div class="nbgbox">
+<a class="zan" contid="2734203" href="javascript:;" onclick="voteCont(this)" praisetimes="23">
+                           22</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中美建交40年</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2734203&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2734203&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

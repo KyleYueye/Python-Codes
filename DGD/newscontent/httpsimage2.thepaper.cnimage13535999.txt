@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25438">财经上下游</a>
+</div>
+<h1 class="news_title">税务部门将以电话调查跟进个税落实情况，个税APP月底可用</h1>
+<div class="news_about">
+<p>赵白执南/中证网</p>
+<p>
+							2018-12-26 21:08<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中证网讯 记者26日从国家税务总局了解到，国家税务总局局长王军26日到北京督导调研个人所得税第二步改革相关准备情况。据了解，截至目前，各级税务机关已累计召开个税培训会25万场，培训纳税人6300余万人次、扣缴单位230余万户次，上门辅导14余万户次。<br/><div class="contheight"></div>王军表示，下一步，税务部门将持续加大督导力度，通过明察暗访、电话调查等方式跟进政策落实情况，认真倾听企业心声，尽心尽力推动个税改革工作，与企业一道帮助广大纳税人尽早拿到新年个税红包。<br/><div class="contheight"></div>据了解，税务总局开发的“个人所得税”APP软件已经上线，广大纳税人可以在主流应用市场或在税务部门官方网站扫二维码下载，手机端目前支持实名注册功能，税务部门正在抓紧进行校验和压力测试，专项附加扣除信息填报功能将在2018年12月31日正式投入使用。<br/><div class="contheight"></div>北京12366纳税服务中心负责人介绍，近期纳税人的来电咨询量确实有较大增加，其中个税问题占比由原来的10%增加到现在的30%。纳税人比较关心的问题有赡养老人、房租和贷款等专项附加扣除政策，以及扣除的具体操作方法。<br/><div class="contheight"></div>王军表示，个税改革无论对税务部门还是企业和个人纳税人来说都是一个新鲜事物，对税务部门征管、服务和信息系统提出了很高要求，因此在运行初期难免会存在一些问题，税务部门会尽百分之百的努力，让大家能够便捷享受红利，同时也请纳税人与税务部门继续携手同行，把改革红包送进千家万户。<br/><div class="contheight"></div>（原标题：税务部门将通过电话调查等方式跟进个人所得税落实情况）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2778267">
+<div class="nbgbox">
+<a class="zan" contid="2778267" href="javascript:;" onclick="voteCont(this)" praisetimes="57">
+                           56</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 个税改革</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2778267&caid=25438",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2778267&amp;caid=25438" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

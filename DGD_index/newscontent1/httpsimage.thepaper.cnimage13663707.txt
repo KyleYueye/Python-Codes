@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">中国驻芬兰大使馆：在芬兰遭遇车祸的4名中国游客脱离危险</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-29 12:14<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社赫尔辛基12月28日消息，中国驻芬兰大使馆官员28日说，近日在芬兰北部一起交通事故中受伤的4名中国游客均已脱离危险，身体状况正在好转。<br/><div class="contheight"></div>使馆领事部主任林键说，使馆在第一时间派工作人员前往医院探望当事人，为其提供翻译等必要协助。目前4名伤者分在两家医院接受治疗，使馆每天与伤者保持联系。<br/><div class="contheight"></div>记者看到伤者家属在给使馆发来的信息中说，一名伤者脸部手术顺利，另一名伤者在医生鼓励下“试着站起来了”，两人已转至普通病房。<br/><div class="contheight"></div>据了解，这6名中国游客在芬兰北部城市罗瓦涅米租车自驾游，天黑路滑不慎翻车，6人中4人受伤。知情人士透露，其中伤势较重的一人已经清醒，目前情况稳定，准备接受进一步治疗。<br/><div class="contheight"></div>林键再次提醒，芬兰冬季路滑，自驾需谨慎，驾驶员应学习冰雪路面驾驶知识，租车自驾游时尤其要注意避免疲劳驾驶。<br/><div class="contheight"></div>（原标题《在芬兰遭遇车祸的中国游客脱离危险》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 芬兰车祸</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2791260">
+<div class="nbgbox">
+<a class="zan" contid="2791260" href="javascript:;" onclick="voteCont(this)" praisetimes="17">
+                           16</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 芬兰车祸</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2791260&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2791260&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

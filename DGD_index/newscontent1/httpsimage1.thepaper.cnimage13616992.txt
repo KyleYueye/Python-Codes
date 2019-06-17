@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">波士顿马拉松爆炸案嫌犯提出上诉，要求推翻死刑判决</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2018-12-28 10:46<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网12月28日消息，27日，美国波士顿马拉松爆炸案主犯焦哈尔·察尔纳耶夫的律师向法院提出上诉，要求推翻他的定罪和死刑判决。据悉，2013年的袭击造成3人死亡，另有260多人受伤。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="377" src="http://image.thepaper.cn/www/image/13/616/989.jpg" width="550"/></div><span style="color: rgb(128, 128, 128);">资料图：当地时间2015年1月5日，美国波士顿，美国联邦法院对嫌犯进行首日开庭审判。<br/><div class="contheight"></div></span>据报道，代表被告察尔纳耶夫的律师，在向位于波士顿的美国第一巡回上诉法院提交的一份简报中辩称，一名下级法院法官拒绝将此案移交给另一个没有因爆炸事件而受到创伤的城市审理，这剥夺了他的公正审判权。<br/><div class="contheight"></div>被告律师承认，当时19岁的当事人与他已故的26岁兄弟察尔纳耶夫一起进行了袭击。但他们认为，对于爆炸事件的全面报道，意味着几乎整个陪审团都接触到了有关袭击事件的新闻，其中包括“关于凶杀案受害者、伤者及其家属的令人心碎的故事”。<br/><div class="contheight"></div>长达500页的简报中写道：“审前的宣传是毁灭性的：激进派陪审员看的越多，就越有可能认为察尔纳耶夫有罪并且应该被判处死刑。”<br/><div class="contheight"></div>文件同时显示，美国地方法院法官奥图尔忽略了两名陪审员“受影响”的证据，他们在被选中之前，在社交媒体上对此案进行过评论。法官同时阻止辩方告诉陪审员关于察尔纳耶夫的哥哥与一宗2011年三重谋杀案的关系。<br/><div class="contheight"></div>辩方律师强调，该证据将支持他们的论点，即察尔纳耶夫是他哥哥一手策划的计划中的配角，他哥哥是一名“愤怒和暴力的人”，受到伊斯兰激进派的影响。<br/><div class="contheight"></div>2013年4月15日，察尔纳耶夫和哥哥塔默兰制造了震惊世人的波士顿马拉松爆炸案，塔默兰在爆炸4天后与警方交火死亡。2015年，经过两个多月时间的漫长庭审，大陪审团就爆炸案作出裁定，决定对焦哈尔·察尔纳耶夫处以死刑。<br/><div class="contheight"></div>同一个陪审团后来裁定，察尔纳耶夫被控的17项死刑重罪中有6项罪名成立，这些罪名与他亲自在马拉松终点安置高压锅炸弹有关。波士顿爆炸案是自2011年9月11日以来，在美国本土最严重的袭击事件之一。<br/><div class="contheight"></div>（原标题《波士顿马拉松爆炸案嫌犯上诉 要求推翻死刑判决》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 波士顿马拉松爆炸案</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2786469">
+<div class="nbgbox">
+<a class="zan" contid="2786469" href="javascript:;" onclick="voteCont(this)" praisetimes="9">
+                           8</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 波士顿马拉松爆炸案</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2786469&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2786469&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

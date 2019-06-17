@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">南开大学获3校友匿名捐赠1.72亿：用于大数据等学科建设</h1>
+<div class="news_about">
+<p>胡春艳 聂际慈/中国青年报</p>
+<p>
+							2019-01-10 09:57<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">为助力南开大学百年校庆，南开校友企业家联谊会（以下简称“联谊会”）1月9日成立。成立大会上举办了企业家校友捐赠仪式，3位匿名企业家校友向母校捐赠人民币1.72亿元，用于学校数学、大数据、人工智能、金融、国际经济等学科的发展建设。<br/><div class="contheight"></div>南开大学党委书记杨庆山，联谊会总召集人、物美集团创始人兼董事长张文中校友，国家能源投资集团党组书记、董事长乔保平校友，北京字节跳动公司创始人兼CEO张一鸣校友共同为联谊会揭牌。<br/><div class="contheight"></div>联谊会由南开系列学校的海内外企业家校友自愿发起成立，为南开校友总会下设校友组织。联谊会旨在加强南开及南开校友组织与南开企业家校友的联系与沟通，搭建南开企业家校友之间交流合作平台，广泛凝聚南开企业家校友的智慧和能量，带领南开企业家校友积极开展公益活动和商业活动，推动资源共享，促进共同发展，为国家建设服务，为地方经济与社会繁荣发展做贡献。联谊会第一届主席团主席由张文中担任。<br/><div class="contheight"></div>（原题为：《南开大学3名校友匿名向母校捐赠1.72亿元》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 南开大学,匿名,母校,企业家</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835168">
+<div class="nbgbox">
+<a class="zan" contid="2835168" href="javascript:;" onclick="voteCont(this)" praisetimes="217">
+                           216</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 捐款</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835168&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835168&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

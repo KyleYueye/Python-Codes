@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">应乘客家属要求，狮航斥资百万美元重启搜寻失事客机乘客遗体</h1>
+<div class="news_about">
+<p>澎湃新闻记者 李怡清 实习生 沈馨妍</p>
+<p>
+							2018-12-18 13:39<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="401" src="http://image.thepaper.cn/www/image/13/276/388.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">当地时间2018年12月13日，印尼雅加达，印尼狮航坠机事故遇难者亲属在总统府外集会，要求继续搜寻失踪者遗体。视觉中国 图<br/><div class="contheight"></div></span>上月飞机失事的印度尼西亚狮子航空公司自掏腰包，雇佣专业船只在失事客机坠落海域搜寻第二只“黑匣子”。但由于天气状况不佳，船只无法如期于17日抵达目标海域，搜寻被迫推迟两天开始。<br/><div class="contheight"></div>据法新社12月17日报道，印尼狮航宣布已投入数百万美元展开对第二个黑匣子和失踪遇难者的后续搜寻。报道称，重启搜寻工作是狮航应失事客机上乘客家属的要求所做出的回应。<br/><div class="contheight"></div>狮航16日晚发布声明，说它投入380亿印尼盾(约合260万美元)，雇佣一艘离岸多用途补给船，拟17日抵达目标海域，开始搜寻作业。然而，暴雨天气阻碍船只在马来西亚柔佛巴鲁港的设备和船员调动集结，导致船只预定抵达失事海域的日期推迟至19日。<br/><div class="contheight"></div>根据计划，搜查工作将集中在坠机的最新坐标上，相关人员也将开展10天的连续作业。<br/><div class="contheight"></div>执飞狮航JT610航班的波音737 MAX飞机于10月29日从雅加达起飞后13分钟从雷达中消失，掉入印尼爪哇岛北海岸的水域，所载189人全部遇难。<br/><div class="contheight"></div>印尼当局于上月叫停了鉴别遇难者的任务，目前只有125人被正式鉴定出了身份，仍有64人身份未定。<br/><div class="contheight"></div>上周，许多遇难者家属在雅加达举行抗议，要求当局继续搜寻失踪的64具遗体并支付相应赔偿金。“我们已经听到过太多承诺，都不知道该相信谁，但是我们的家人依然在等待。” 遇难者家属科马尔 （音译）说。<br/><div class="contheight"></div>另外，已有近30名遇难者亲属对波音公司提起诉讼，指控波音 737 MAX的系统故障直接导致了空难。<br/><div class="contheight"></div>根据印尼当局11月28日公布的事故初步调查显示，飞行员在事故发生前立即控制机上的“防失控系统”。调查人员还发现，狮航此架飞机之前存在经常性的技术问题， 但是调查人员并未查明事故起因。随后，狮航与波音公司就事故责任产生争议。<br/><div class="contheight"></div>目前，飞机驾驶舱的录音还没有找到，最终调查报告也要到明年才能公布。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王靓<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 狮航,坠机,</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2749141">
+<div class="nbgbox">
+<a class="zan" contid="2749141" href="javascript:;" onclick="voteCont(this)" praisetimes="16">
+                           15</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 狮航失事客机</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2749141&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2749141&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">刘莘教授逝世，中国政法大学法学院哀悼：她不畏权贵不恋功名</h1>
+<div class="news_about">
+<p>微信公号“中国政法大学法学院”</p>
+<p>
+							2018-12-26 08:00<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">时为季冬，戊戌与己亥交替之际，刘莘教授未盼及春至便溘然长逝，草木动容、天地同悲、学界殇恸。巨擘之陨，实乃行政法学界乃至整个法学界、教育学界难以估量之损失。<br/><div class="contheight"></div> 新中国行政法学初创之时，刘莘教授有筚路蓝缕奠基之功；行政法治建设的漫漫征程，她鞠躬尽瘁、致力为公，身体力行参与法治实践，见证行政法治龃龉前行。<br/><div class="contheight"></div> 她生前笔耕不辍、著作等身，在行政法立法、行政诉讼、行政复议等领域居功甚伟、建树颇丰；她在中国政法大学任教数十载， 三尺讲台上立德树人、桃李传承。<br/><div class="contheight"></div> 她仗义执言、不畏权贵、不恋功名， 用独立的学术品格感召学人，用学者的良知和底线慰藉苍生；她以“身土不二”为座右铭，深深眷恋着脚下的土地和身后的祖国，用豁达的人生态度拥抱风雨和苦痛。<br/><div class="contheight"></div> 斯人已逝，精神长存。刘莘教授高尚的情操、独立的品格、渊博的学识、豁达的态度为我们树立了崇高的榜样，留下了宝贵的精神财富。全院师生将秉承刘莘教授的遗志和学风，继续完成其未竟事业，为推进行政法治建设矢志不渝继续奋斗。<br/><div class="contheight"></div>中国政法大学法学院<br/><div class="contheight"></div>2018年12月25日<div style="text-align:center;"><img alt="" height="338" src="http://image.thepaper.cn/www/image/13/508/806.png" width="600"/></div>（原标题为《 沉痛哀悼刘莘教授》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：钟煜豪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 刘莘教授</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2774926">
+<div class="nbgbox">
+<a class="zan" contid="2774926" href="javascript:;" onclick="voteCont(this)" praisetimes="63">
+                           62</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 逝者</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2774926&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2774926&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

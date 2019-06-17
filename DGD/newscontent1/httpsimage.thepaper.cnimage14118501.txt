@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25491">长三角政商</a>
+</div>
+<h1 class="news_title">客户用零钞付装修款：6万一元硬币+10万一元、五角等纸币</h1>
+<div class="news_about">
+<p>澎湃新闻记者 葛熔金</p>
+<p>
+							2019-01-10 16:13<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">经营装修公司的董立才开着车，装着4个编织袋、2个纸板箱的一元、五角等纸币，前往温州苍南县农商行灵溪支行存款。银行工作人员花了近4个小时，理清了12700张小额纸币，共8.5万元。<br/><div class="contheight"></div> 这些钱，是一名客户付给董立才的部分装修款。<br/><div class="contheight"></div> “客户签合同时就写明会用零钞支付，我一来为接单子，二来以为是10元、50元这样的零钞，没细问就答应了。”1月10日，董立才在接受澎湃新闻（www.thepaper.cn）采访时表示：“哪知道，第一笔6万元全部是1元硬币，第二笔10万元，绝大多数是5角和1元纸币。接下去还有2万余元尾款，不知道会是什么情况。”<br/><div class="contheight"></div> 据他介绍，这单业务是去年6月接的，金额18万余元，签合同时客户注明会用零钞支付，“聊天时客户提到，他在北方某地从事编织袋母料生产加工，房子的首付款也是用零钞支付的。至于为什么会有这么多零钞，客户没有细说。”澎湃新闻请董立才代为联络客户接受采访，至发稿未收到反馈。<br/><div class="contheight"></div> 2018年7月，客户付了头期款6万元：6只装满1元硬币的编织袋，每袋1万元。<br/><div class="contheight"></div> “我都傻眼了——还以为是10元、50元的，想不到是硬币。问了几个朋友，他们建议到菜市场兑换。”董立才说，后来他去菜场，以每12斤一千元换给了摊贩。<br/><div class="contheight"></div> 2018年12月28日，客户支付第二笔装修款10万元，分别装在4个编织袋和2个纸箱内，绝大部分是归类整齐的5角纸币、1元纸币，还有部分是混在一起的5角、1元、5元、10元纸币。<br/><div class="contheight"></div> “我都快崩溃了，但既然合同上说零钞支付，只能硬着头皮收下。小额纸币在菜场也没人要，我电话咨询了苍南农商行灵溪支行，他们说可以兑换。”董立才表示。<br/><div class="contheight"></div> “那天董先生打开编织袋，里面是整理好的5角和1元纸币，但纸箱里的纸币未经整理、面额较杂，我们安排了2名工作人员清点，花了近4个小时把4个编织袋的钱清点完，共127捆，其中一元纸币4.3万张，五角纸币8.4万张，合计8.5万元。因为已经比较迟了，董先生将2个纸箱里的钱拿了回去，表示会按面额归类后再来兑付。” 苍南农商行灵溪支行有关负责人告诉澎湃新闻。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张军<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 零钞,装修款,一元,五角</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836774">
+<div class="nbgbox">
+<a class="zan" contid="2836774" href="javascript:;" onclick="voteCont(this)" praisetimes="43">
+                           42</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 硬币买房</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836774&caid=25491",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836774&amp;caid=25491" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（219）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

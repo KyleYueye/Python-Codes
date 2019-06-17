@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">塔利班与美国在阿联酋再度谈判，阿富汗政府未能参加</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-17 19:19<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">塔利班组织新闻发言人称，塔利班和美国准备于17日下午在阿联酋进行新一轮和谈。<br/><div class="contheight"></div>塔利班组织的新闻发言人宰比哈拉·穆贾希德（Zabihullah Mujahid）17日在社交媒体上发布信息确认，塔利班将于美国于当日晚些时候在阿联酋举行新一轮和谈。<br/><div class="contheight"></div>宰比哈拉·穆贾希德还在推文中附了一条声明，提及参会方还包括沙特阿拉伯、巴基斯坦和阿联酋。<br/><div class="contheight"></div>半岛电视台17日报道称，本轮谈判的目的是终止已在阿富汗境内燃烧了17年的战火，但阿富汗政府将不会出现在谈判桌上。<br/><div class="contheight"></div>此外，阿富汗国家通讯社社长米纳维（Khalil Minawi）17日也确认了这场会谈，他发推文补充称，这场谈判“由巴基斯坦促成”。<br/><div class="contheight"></div>半岛电视台的报道称，在此前的谈判中，阿富汗政府一直被排除在外。塔利班多次以阿富汗政府是“美国的傀儡”为由，拒绝与阿政府代表一同坐到谈判桌上。<br/><div class="contheight"></div>最近几个月内，美国阿富汗和解事务特别代表扎尔梅·哈利勒扎德至少两次访问了位于卡塔尔的塔利班政治代表处。俄罗斯卫星通讯社17日报道称，哈利勒扎德目前正在进行一系列外事访问，目标是协调各方努力，促进阿富汗和平对话。此前，哈利勒扎德访问了巴基斯坦、阿富汗、俄罗斯以及乌兹别克斯坦，并计划前往阿联酋和卡塔尔。<br/><div class="contheight"></div>美国目积极推进与塔利班的谈判也这在阿富汗引起了一些不同的反应。由于阿富汗政府一直没能参加美国和塔利班的谈判，因此对美国多有不满。据俄罗斯卫星通讯社报道，阿富汗前总统哈米德·卡尔扎伊此前质疑美国的目标是否真的在于恢复阿富汗的和平，并强调了美国应与包括俄罗斯和中国在内的各方协调一致。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：汪伦宇<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 塔利班 美国中东政策</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2746857">
+<div class="nbgbox">
+<a class="zan" contid="2746857" href="javascript:;" onclick="voteCont(this)" praisetimes="53">
+                           52</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 塔利班</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2746857&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2746857&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

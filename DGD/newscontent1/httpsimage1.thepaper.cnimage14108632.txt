@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25482">逝者</a>
+</div>
+<h1 class="news_title">《禁忌之恋》男主去世，曾被称为“瓦努阿图的布拉德·皮特”</h1>
+<div class="news_about">
+<p>澎湃新闻记者 程晓筠 编译</p>
+<p>
+							2019-01-10 10:20<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据英国《卫报》报道，曾主演澳大利亚影片《禁忌之恋》（Tanna，2015）的演员蒙哥奥·戴恩（Mungau Dain），日前因病在岛国瓦努阿图首都维拉港去世，具体年龄不详，但确定连三十岁都还没到，而其死因则是腿部伤口感染后未能及时医治引起的并发症，令人不胜唏嘘。<br/><div class="contheight"></div>向外界证实其死讯的，正是当初联合执导了《禁忌之恋》的澳大利亚人本特利·迪恩（Bentley Dean）、马丁·巴特勒（Martin Butler）以及参与该片编剧的雅妮塔·苏特（Janita Suter）。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="336" src="http://image.thepaper.cn/www/image/14/108/622.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">《禁忌之恋》剧照，蒙哥奥·戴恩</span><br/><div class="contheight"></div>早在2003年，迪恩就因为拍摄纪录片的关系，到过南太平洋岛国瓦努阿图。十多年后，为了拍摄一个罗密欧与朱丽叶式的爱情故事，他与妻子雅妮塔·苏特再次来到了瓦努阿图的坦纳岛上，驻扎了整整七个月时间。在此期间，当地村落的长老向他们推荐了年轻体健的蒙哥奥·戴恩，因为他可是全村最帅的男子，于是也就有了“瓦努阿图的布拉德·皮特”之说。<br/><div class="contheight"></div>就这样，从无表演经历——甚至都没看过电影——的戴恩以及一群当地人，在这些来自澳大利亚的电影人的指导下，完成了这部风光旖旎、表演真挚的《禁忌之恋》。影片讲述部落首领的孙子（由戴恩饰演）与美丽的女孩瓦瓦相恋，然而，由于战争爆发，瓦瓦被安排充当议和的筹码，两人最终选择走上不归路。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="888" src="http://image.thepaper.cn/www/image/14/108/620.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">《禁忌之恋》海报</span><br/><div class="contheight"></div>在2015年的威尼斯影展上，该片在大会附属的“国际影评人周”单元中，获得最佳影片与最佳摄影两项大奖，此外，它还在那一年的萨格勒布电影节、伦敦电影节上都有所斩获。当然，更了不起的还在于，在2017年的第89届奥斯卡上，《禁忌之恋》由近百部作品中脱颖而出，跻身最佳外语片（代表澳大利亚）提名名单；虽然最后负于伊朗影片《推销员》，但对于包括戴恩在内的这班当地非职业演员来说，这一切都已足够让他们骄傲一辈子了。<br/><div class="contheight"></div>影片完成之后，戴恩也跟着制片人和导演第一次走出小岛，来到欧美各地出席宣传活动，大开眼界。更重要的是，戴恩就此爱上了表演，一直都在期待下一次机会。导演迪恩回忆说，距今一年之前，他曾回过一次坦纳岛。探访这位老友的时候，戴恩就很憧憬地问过他：“你来了可太好了，我们下一部电影拍什么？”<br/><div class="contheight"></div>对于戴恩的英年早逝，本特利·迪恩感到非常遗憾：“要是当初能早几天去医院，只需要用一些抗生素，他根本就不会死，很可惜，瓦努阿图的医疗资源实在是太有限了。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程娱<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 禁忌之恋</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835482">
+<div class="nbgbox">
+<a class="zan" contid="2835482" href="javascript:;" onclick="voteCont(this)" praisetimes="16">
+                           15</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 电影</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835482&caid=25482",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835482&amp;caid=25482" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

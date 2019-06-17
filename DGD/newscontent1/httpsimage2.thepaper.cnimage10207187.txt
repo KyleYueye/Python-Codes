@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜这个大学的第一堂课，或许不仅是上给“00后”的</h1>
+<div class="news_about">
+<p>澎湃特约评论员 杨鑫宇</p>
+<p>
+							2018-09-06 14:27<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">今年开学季，“00后”集体迈入了大学时代。连日来，在各大高校的开学典礼上，大学校长们的“开学第一课”，向这些“00后”阐释大学精神，传授修身治学的道理。这其中，西交利物浦大学执行校长席酉民教授主题为拒绝“巨婴”的开学演讲，让人印象深刻。 <br/><div class="contheight"></div>“巨婴”，顾名思义，是指那些生理年龄已成人、但心理年龄和社会年龄还依然似婴儿般，一味索取、没有奉献，永远以自我为中心的“伪成年人”。在演讲中，席酉民对学生与家长提出了务实的建议。对刚刚或即将成年的“00后”来说，这堂开学第一课上得很及时。 <br/><div class="contheight"></div>西交利物浦是一所中外合作大学，或许正是这种独特的身份优势，让席酉民这番关于“巨婴”的演说更接地气，而且还带着一股罕见的辛辣味道。有趣的是，高等教育领域很多让人眼前一亮的言行，都常发端于这种颇具“个性”的学校。 <br/><div class="contheight"></div>我们很难定论，席酉民的观点是否比其他校长的开学演说更加高明。但是，能在“巨婴”这个充满争议的话题上，听到一位为人师、为世范的校长发表自己的观点，已经是一件很难得的事情。这样的演讲，有助于我们走出概念的泥淖和纷扰的吵嚷，从更加现实的角度认识“巨婴”现象，帮助年轻学子更好地走入“精神成年”，担负起对个人、家庭和社会的责任。 <br/><div class="contheight"></div>当然，对“巨婴”这一概念，并非没有争议。有人认为，它切中了一些现实社会心态，也有人认为，它根本是一顶精心打造出的帽子，可以被扣在任何人头上。可贵的是，席酉民的演讲并未执迷于概念争端之中，而是超然而出，用实在而接地气的表述和建议，把这个充满争议的人造概念拉回了现实生活，从而为其赋予了具有可操作性的现实意义。 <br/><div class="contheight"></div>作为一名校长，席酉民的言论有着十分具体的关怀对象，那就是就读于大学的青年学生群体，特别是刚入学的“00后”。在他看来，许多大学生之所以不能在心态上成熟，最本质、最直接的原因就是家庭教育出了问题：每一个“巨婴”背后，都有“无所不能”的父母。 <br/><div class="contheight"></div>过于强势、过于关照、过于依赖的家庭教育，造就了一批虽然年满18岁，但心理却依然幼小的“巨婴”，而这直接导致了这些孩子难以适应大学的环境，并且可能在未来造成更多问题。对此，席酉民提出了简单但有效的建议，那就是让家长们学会放心、放手、放下，让下一代更加独立、自由而茁壮地生长。 <br/><div class="contheight"></div>事实上，席酉民所谈及的话题，又何止适用于大学教育这一个领域呢？ 很少有人意识到，对于当下，我们每一个人都有责任。从本质上讲，不论是在家庭教育里，社会组织里，还是人际网络里，我们或许都太习惯于对个人进行控制和包办，并且过于强调建立依赖共生性的社会关系。而这种做法，恰恰不利于独立心态和健全人格的形成，在这个问题上，我们应当从席酉民的演讲中有所领悟。 <br/><div class="contheight"></div>大学，是一个社会之中探索知识与智慧的前沿，从大学校长的演说之中，我们也能看到比单纯的教育问题更多的东西。这堂开学第一课，不仅上给“00后”，也是上给我们每一个人的。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 开学演讲 巨婴</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2414038">
+<div class="nbgbox">
+<a class="zan" contid="2414038" href="javascript:;" onclick="voteCont(this)" praisetimes="72">
+                           71</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 巨婴</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2414038&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2414038&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

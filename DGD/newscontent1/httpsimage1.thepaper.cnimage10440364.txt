@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜贫困户求“别再打扰”，哪里出了岔子？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 朱昌俊</p>
+<p>
+							2018-09-14 09:34<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="403" src="http://image.thepaper.cn/www/image/10/440/369.jpg" width="600"/></div>最近，一张贫困户家的“门前照”火了，有些许年代的木质大门紧闭，旁边斑驳的红砖墙上，是几行毛笔字：“各位领导：本人已脱贫，请不要再来打扰了”。<br/><div class="contheight"></div>乍看之下，这幅场景会让人误以为是恶搞，但背后的现实却让人心情沉重：据微信公号“侠客岛”透露，照片背后的实情是当日上门的扶贫干部自掏腰包，买了一壶油、一袋米，“私车公用”翻山越岭来贫困户走访，结果却吃了闭门羹。<br/><div class="contheight"></div>一边是扶贫干部长途爬涉“送温暖”，一边却是贫困户冷冰冰的“别再打扰”，这着实构成了一种强烈的反差。贫困户的做法，或也超出了一般人对于被扶贫者心态的惯常理解——帮助你脱贫，你怎么还会不领情？<br/><div class="contheight"></div>但倘若留意过媒体和相关部门曝光或披露的一些扶贫乱象，对此现象或就不会感到那么惊诧和难以理解。其背后可能折射的是当前精准扶贫过程中的一个突出弊端，那就是，在个别地方的扶贫绩效考核指挥棒下，扶贫干部的考核任务与贫困村民实际需要的扶贫之间，出现了断裂或是脱节。<br/><div class="contheight"></div>从过往公开的案例来看，这主要表现在两个方面。一者，贫困户获得扶贫资源的成本偏高，这包括扶贫干部反复的拜访、信息确认，以及填写各种表格，提出各种要求，甚至是让他们学习如何应对上面的调查。长此以往，这种繁复的程序和要求，实际上让扶贫有变成扰民之虞，反而影响到贫困户正常的生产生活。<br/><div class="contheight"></div>此前媒体报道，部分基层扶贫干部吐槽被微信工作群和所谓“工作留痕”考核绑架，其中一个细节让人印象深刻：“现在去下乡，进村第一件事，不是去村委会布置工作，而是先到挂点的贫困户家去和他合个影……”显然，这样的考核，不仅让扶贫干部疲于应付，也间接连累了村民，并可能伤及他们对扶贫工作的认同度。<br/><div class="contheight"></div>二来，扶贫工作迟迟难以让贫困户体验到实实在在的获得感，甚至由于工作不当，给农户造成损失。有媒体曾报道过这样一个案例：西部某地为帮助民众脱贫，当地一度兴起养兔热，政府整合各类资金予以支持，高峰期兔子存栏接近40万只，但市场行情急剧变化，短短5年时间,产业规模已萎缩到不足7万只，造成不少养殖户血本无归，多年缓不过劲来。<br/><div class="contheight"></div>当扶贫定位不清、方法失当，贫困户对扶贫工作失去信任，极端者挂出如前文所示的“门前照”，就毫不让人意外了。<br/><div class="contheight"></div>因此，面对“门前照”一事，扶贫干部及当前的扶贫考核制度设计，都应该要有所触动和警醒。一方面，扶贫考核要更接地气，因地施策，无缝对接好贫困户的真实需求，不能让扶贫干部完成考核与让贫困户脱贫，成为不相干的两回事。<br/><div class="contheight"></div>另一方面，扶贫政策和具体的执行，也得关照好贫困户自身的心态和感受。不能自恃是扶贫者、帮助者，是“为你好”，就固执认为贫困户理所当然应该无条件的配合和承受压力甚至代价。特别是当前进入扶贫攻坚的冲刺阶段，各地的扶贫压力也到了最大的时候，更得避免各种压力传导过多的施加到贫困村民的身上，引发不必要的抵触情绪。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 贫困户,扶贫</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2439432">
+<div class="nbgbox">
+<a class="zan" contid="2439432" href="javascript:;" onclick="voteCont(this)" praisetimes="226">
+                           225</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 贫困户</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2439432&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2439432&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（62）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

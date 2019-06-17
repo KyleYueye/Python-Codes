@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜复读需谨慎，别一味依赖“成绩两年有效”的新政</h1>
+<div class="news_about">
+<p>澎湃特约评论员 胡欣红</p>
+<p>
+							2018-07-25 14:57<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">去年高考结束后，《钱江晚报》就曾报道，在浙江省新高考政策下，“冷”了几年的高复市场有回暖之势，越来越多的高分考生选择再战一年。今年，这种趋势越发明显。目前了解到选择复读的考生，分数最高的为662分。这个成绩，若是报考浙大这一档次的重点大学，都是妥妥的。“高复市场复苏是从去年开始的，尤其是来复读的高分考生，一下子多起来，今年比去年还要多。”某高复学校负责人对记者说。<br/><div class="contheight"></div>提起高复，人们并不陌生，不少过来人更是感慨万千，不无戏谑地称之为“高四”（也可以衍生出“高五”“高六”……）。关于要不要高复，历来是一个颇有争议的话题：有人通过高复改变了命运，还在高复岁月磨炼了自己，甚至发出“没有经历过高复是人生的一大缺憾”；也有人不仅没能提高分数，还在重压之下濒临“崩溃”，痛斥高复纯粹是在浪费时间……<br/><div class="contheight"></div>换言之，高复有利也有弊，需要考生理性权衡，综合考量。作为一个从教20余年的资深教师，也常常遇到心有不甘的学生在高考后咨询要不要继续复习的。通常情况下，有没有学习潜力和良好心态是我的评判标准。简而言之，对于原先没怎么努力和心态较好的学生，我会支持他（她）再奋战一年。反之，已经很努力依然没考好的，高复一年，恐怕也不会有明显提升。尤其是因心态不好而发挥失常者，高复会带来更重的压力，更需慎重。<br/><div class="contheight"></div>至于新高考政策外语和选考科目成绩两年有效，这种所谓给高复带来“利好”，从来就没有纳入我考量的范围。有保底成绩，无后顾之忧，又能向更高分数冲刺，看起来似乎在一定程度上降低了复读风险，实则效果不彰。尤其是高分考生，既然选择高复，一心就冲着名校而去，要求自然很高。具体而言，选考科目除了考97分以上者，恐怕都不会善罢甘休，该花的时间照样花，又怎会无后顾之忧？<br/><div class="contheight"></div>事实上，新高考在浙江全面推行之后，笔者所在学校就不乏有高复之后成绩不升反降的事例，“保底”之说其实并不具多少可信度。因此，如果过于渲染新高考政策下复读风险降低，令人怀疑是否别有用心。<br/><div class="contheight"></div>总之，要不要继续读“高四”，考生需慎重。尤其是那些一心冲名校的高分考生，本已在百尺竿头，要想更进一步，殊为不易。与其热衷于名校，不如反过来想想花费一年的时间是否值得。如果依然与名校失之交臂，又当如何？现在的学生，只要能力较强者，基本上都要继续考研或者出国深造，一味在“高四”拼命搞应试，为何不考虑尽早到高校深造？孰是孰非，值得权衡。<br/><div class="contheight"></div> “社会上对名校认可度高，本科就读名校在就业上更占优势，这也是高分学生选择高复的外部原因。”如果不是出于成绩存在提升空间的考量，而是被这种外部因素绑架，为了名校而名校，如此急功近利，恐怕更会得不偿失。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 高复</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2291563">
+<div class="nbgbox">
+<a class="zan" contid="2291563" href="javascript:;" onclick="voteCont(this)" praisetimes="96">
+                           95</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 浙江高考改革</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2291563&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2291563&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

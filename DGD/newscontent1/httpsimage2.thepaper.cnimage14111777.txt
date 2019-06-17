@@ -1,0 +1,86 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25490">打虎记</a>
+</div>
+<h1 class="news_title">央视今晚8点播出五集专题片《红色通缉》第一集《引领》</h1>
+<div class="news_about">
+<p>中央纪委国家监委网站</p>
+<p>
+							2019-01-10 12:06<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<script src="//file.thepaper.cn/www/v3/js/jwplayer7.1.4.js" type="text/javascript"></script>
+<script type="text/javascript">jwplayer.key="JYFbHxc36sStM1VSc1vvyI42CCrHFlTZcWEYUA==";</script>
+<div class="news_video_name">
+<style type="text/css">
+							#player_wrapper{width:669px;height:377px;}
+							#player_wrapper .player_err_tip{width:669px;height:377px;display: none;vertical-align: middle;background-color: black;color: white; text-align: center;}
+							.jw-tab-focus:focus{outline:none;}
+						</style>
+<div id="player_wrapper">
+<div class="player_err_tip" id="Text">抱歉!<br/>您的浏览器可能不支持此视频播放器，请用更高版本的浏览器试试！</div>
+</div>央视今晚8点播出《红色通缉》第一集《引领》 来源：中央纪委国家监委网站(01:15)
+					</div>
+<div class="news_txt" data-size="standard">央视新闻客户端1月10日消息，党的十八大以来，以习近平同志为核心的党中央把反腐败国际追逃追赃提升到国家政治和外交层面，纳入反腐败工作总体部署，为开展国际追逃追赃工作作出了方向性的引领。中央纪委国家监委宣传部、中央广播电视总台联合摄制五集电视专题片《红色通缉》，展示了反腐败国际追逃追赃工作取得的显著成效，今晚央视综合频道将播出第一集《引领》。<br/><div class="contheight"></div><strong>解说词：</strong>“百名红通”头号通缉对象杨秀珠，外逃13年7个月，曾经声称“死也要死在美国”，为什么最终回国自首？<br/><div class="contheight"></div><strong>杨秀珠（百名红通人员第1号）：</strong>在外面，这个苦楚，你们在国内的是领受不了的，我们在外面是知道的。<br/><div class="contheight"></div><strong>解说词：</strong>闫永明，“百名红通人员”第5号，在新西兰化身当地富商，而“百名红通”的公布让他的真实身份、涉嫌犯罪历史都公开曝光，置于舆论和公众的审视之下。<br/><div class="contheight"></div><strong>迈克·布什（新西兰警察总监）：</strong>我们新西兰坚决不会成为逃犯的避风港，不论他们来自哪个国家。<br/><div class="contheight"></div><strong>解说词：</strong>许超凡，建国以来最大的银行资金盗用案主谋，外逃美国17年最终被遣返回国。<br/><div class="contheight"></div><strong>许超凡（红通人员）：</strong>都是在不断地逃亡之中，待一段时间，然后就觉得这个地方不行，很危险。要再到一个地方。<br/><div class="contheight"></div><strong>解说词：</strong>中央纪委国家监委宣传部、中央广播电视总台联合摄制五集电视专题片《红色通缉》，敬请关注。<br/><div class="contheight"></div>（原题为：《红色通缉》第一集 引领 预告）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = 'http://cloudvideo.thepaper.cn/video/610b4bf2a3eb40d78e97821559f417f6/hd/82b0cfab-35f9-4c39-87af-e9cb33dfb94e-37a674b2-4e8c-a955-bfe1-d2676ff15db0.mp4',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'//image2.thepaper.cn/image/14/111/783.jpg',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：顾亚敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 《红色通缉》</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835950">
+<div class="nbgbox">
+<a class="zan" contid="2835950" href="javascript:;" onclick="voteCont(this)" praisetimes="185">
+                           184</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 《红色通缉》</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835950&caid=25490",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835950&amp;caid=25490" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

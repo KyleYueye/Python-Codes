@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">滴滴一键报警功能在广东全省升级：可向警方同步行程位置信息</h1>
+<div class="news_about">
+<p>澎湃新闻记者 欧阳李宁</p>
+<p>
+							2019-01-10 12:00<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月10日，国内最大的网约车平台滴滴出行与广东省公安厅达成战略合作，双方将为广东全省用户提供视频报警、自助图文报警两项多媒体报警，并就滴滴“一键报警”开展深度警企联动。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="418" src="http://image.thepaper.cn/www/image/14/111/791.jpg" width="193"/></div>即日起，广东本地滴滴乘客可通过最新版滴滴出行APP内的“一键报警”，快速使用广东公安提供的“视频报警”与“自助报警”，与当地警方直接建立联系。此外，如乘客点击滴滴“一键报警”页面上的“呼叫110”，其行程、位置信息将根据公安机关需要，直接发送至广东110接警中心，发送给警方。后续，滴滴车主APP也将接入以上两种快捷报警方式。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="418" src="http://image.thepaper.cn/www/image/14/111/789.jpg" width="193"/></div><div style="text-align:center;"><img alt="" height="406" src="http://image.thepaper.cn/www/image/14/111/790.jpg" width="187"/></div>据介绍，多媒体报警方式是广东公安厅推出的一款创新报警方式，是110服务群众报警的重大创新，与传统电话报警相比有以下优势：可快速确定报警人位置；集成人工受理报警、自助报警两种报警方式；实现语音、视频、图文等多媒体报警。需注意的是，多媒体报警方式对当地网络环境有一定依赖，如遇危急情况，建议优先选择110电话报警。<br/><div class="contheight"></div>滴滴方面表示，建立并不断优化警企协作机制是滴滴平台安全升级的重要工作之一。此前，滴滴已建立警方调证绿色通道，400电话安全调证专线团队7*24小时待命，并在全国各区域36个大中城市驻点跟进警企协作支援机制的落地。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙扶<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 滴滴 报警</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835964">
+<div class="nbgbox">
+<a class="zan" contid="2835964" href="javascript:;" onclick="voteCont(this)" praisetimes="22">
+                           21</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 滴滴出行</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835964&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835964&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

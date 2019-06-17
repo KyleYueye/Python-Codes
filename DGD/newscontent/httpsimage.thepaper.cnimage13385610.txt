@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">2018年日本出生人口比去年少2.5万人，再创新低</h1>
+<div class="news_about">
+<p>姜俏梅、王可佳/新华社</p>
+<p>
+							2018-12-21 22:17<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">日本厚生劳动省21日公布的人口动态统计预测显示，2018年日本国内出生的婴儿为92.1万人，比去年减少2.5万人，连续3年低于100万人，是自1899年开始这项统计以来的最低纪录。<br/><div class="contheight"></div>2018年日本有136.9万人去世，是二战以来死亡人数最多年份。用死亡人数减去出生人数得出的人口自然减少人数为44.8万人，创有史以来最高纪录。<br/><div class="contheight"></div>日本人口的死亡数在2005年超过出生数，转为自然减少。尽管2006年出生数曾一时反超，但2007年再度转为自然减少，至2018年已连续12年自然减少。厚生劳动省分析称，25岁至39岁育龄女性人口不断减少是导致少子化加剧的一大原因。<br/><div class="contheight"></div>据统计，2018年日本只有59万对夫妻结婚，比上年减少1.7万对，为二战以来最少，而离婚夫妻为20.7万对。<br/><div class="contheight"></div>2016年，日本出生人口约为97.7万人，首次低于100万人。 （原标题为《2018年日本出生人口再创新低》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：汪伦宇<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 日本生育率，日本社会</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2761832">
+<div class="nbgbox">
+<a class="zan" contid="2761832" href="javascript:;" onclick="voteCont(this)" praisetimes="131">
+                           130</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日本人口</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2761832&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2761832&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（69）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

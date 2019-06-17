@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">外交部回应中印成功举行高级别人文交流机制首次会议</h1>
+<div class="news_about">
+<p>王盼盼/环球时报-环球网</p>
+<p>
+							2018-12-25 16:13<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">环球时报-环球网综合报道，2018年12月25日，外交部发言人华春莹主持召开例行记者会，部分实录如下。<br/><div class="contheight"></div><strong>问：前几天，中国和印度成功举行了高级别人文交流机制首次会议。中印此时启动人文交流机制有何特别考虑？</strong><br/><div class="contheight"></div><strong>答：</strong>建立中印高级别人文交流机制，是习近平主席和莫迪总理达成的重要共识。中印作为世界两大文明古国，加强人文交流有利于延续中印两大文明交流互鉴的传统，顺应两国人民交流与了解的意愿，契合当前双边关系全面发展的需要，有着巨大发展空间和潜力。今年，习主席同莫迪总理四次会晤。在两国领导人战略引领下，中印关系呈现全面改善发展的势头。此时正式启动中印高级别人文交流机制，既是落实两国领导人共识的重要步骤，和推动中印关系全面发展的重要举措，也是构建东方文明复兴的重要平台，将有利于巩固双边关系民意基础，促进两国关系健康发展，推动不同文明和谐相处，共同维护世界的和平稳定。<br/><div class="contheight"></div>前几天，王毅国务委员兼外长和斯瓦拉吉外长成功主持了机制首次会议，达成了一系列重要共识，开好了局，起好了步。接下来，我们希望两国有关部门“八仙过海、各显神通”，在双方商定的文化交流与文物保护，教育合作与语言教学、旅游合作与人员往来、青年互访与体育交流、媒体交流与奥论环境、学术交流与合作制片等8个重要工作领域，开展丰富多彩的交流活动，使两国广大民众真正从中受益，吸引更多人士设身中印友好交流的伟大事业，形成中印两国27亿人民的大交流、大合作，为实现“龙象共舞”奠定坚实的基础，营造良好的环境。<br/><div class="contheight"></div>（原题为《中印启动人文交流机制 外交部：两国领导人达成的重要共识》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 外交部,中印关系</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772893">
+<div class="nbgbox">
+<a class="zan" contid="2772893" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 外交部</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772893&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772893&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

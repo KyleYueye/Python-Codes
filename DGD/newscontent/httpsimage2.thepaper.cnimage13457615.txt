@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">辽上京遗址发现祭祀坑，除无法鉴定性别的婴幼儿外均系女性</h1>
+<div class="news_about">
+<p>殷耀、勿日汗/新华社</p>
+<p>
+							2018-12-24 16:58<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/457/613.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">考古学家正在清理和鉴定殉人祭祀坑内的遗存  新华社 图<br/><div class="contheight"></div></span>新华社呼和浩特12月24日消息，记者从内蒙古自治区文物考古研究所2018年度考古成果发布会上了解到，考古人员在辽王朝第一座都城辽上京遗址发现两方祭祀坑，其中一方埋有14具头骨和骸骨，疑为殉人祭祀坑。<br/><div class="contheight"></div>这两方祭祀坑位于辽上京遗址宫城西北部新发现的大型建筑群下。其中，东侧圆形祭祀坑深约3米，坑内中部埋一层切割、砍断的牛、马、羊等动物骨骼，坑底殉有14人个体，除5具完整尸体，其余为人头骨。部分尸骨上有砍凿痕迹，显示为暴力致死。这些尸骨，除了无法鉴定性别的婴幼儿外，其余均系女性。<br/><div class="contheight"></div>另一方祭祀坑为西侧长方形祭祀坑，深约0.76米，葬3匹整马和骆驼蹄、牛头、狗头等动物骨骼，以及残缺的人头骨等。<br/><div class="contheight"></div>考古人员排除了这两个坑作为墓葬的可能性。测年结果显示，大型建筑群和祭祀坑的年代有可能是辽末金初。在这一时期辽、金的考古发掘中，从未发现过都城宫城建筑基址下的祭祀坑，更不用说殉人坑。新发现的两方分别以马和人为主体的祭祀坑，填补了辽上京遗址考古的空白。<br/><div class="contheight"></div>“这是一个具有重大学术意义的新现象。”考古领队董新林说，目前学者仅能推测它或许跟北方民族的习俗有关。<br/><div class="contheight"></div>发现祭祀坑的大型建筑遗址是一座南向的长方形建筑，始建于金初，废弃于金代晚期。此建筑之下，没有发现辽代大型建筑基址，但发现有保存较好的辽代地面。建筑东西宽约66米、南北进深15米，目前尚不知这一大型建筑的用途。<br/><div class="contheight"></div>契丹民族建立的辽朝是公元10到12世纪雄踞我国北方草原的游牧帝国，辽上京遗址是其建立的第一座都城。辽被金灭国后，辽上京宫城被废弃，从帝都变成了金的地方城市。辽上京考古发掘工作已开展12年。<br/><div class="contheight"></div>（原标题《辽上京遗址发现人头祭祀坑》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 辽上京遗址</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2769190">
+<div class="nbgbox">
+<a class="zan" contid="2769190" href="javascript:;" onclick="voteCont(this)" praisetimes="11">
+                           10</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 辽上京遗址</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2769190&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2769190&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

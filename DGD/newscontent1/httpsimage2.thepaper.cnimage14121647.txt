@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">上海交警查处4名“炸街族”，分别记3分罚款700元</h1>
+<div class="news_about">
+<p>澎湃新闻记者 朱奕奕</p>
+<p>
+							2019-01-10 18:14<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">在上海，又有4名炸街族被查处了。<br/><div class="contheight"></div>自2018年12月1日《关于进一步加强机动车噪声污染治理工作的通告》实施以来，上海市交警部门通过高频次整治、滚动式设卡、研发“黑科技”等“组合拳”，大力查处“炸街”行为，以及与之相伴的擅自改装机动车违法行为，赢得不少市民拍手称赞。近期，上海交警又连续查处4名“炸街族”。<br/><div class="contheight"></div>借助科技手段，上海市公安局交通警察总队机动支队民警取得“炸街”车辆的线索和证据，并通过调查，掌握了车辆详细信息和行驶轨迹。民警分别对4辆涉嫌噪音污染的车辆进行了现场检测，4部车辆噪声无一例外都超出了法律规定的80分贝，并且都进行过非法改装。民警对沈某某、倪某某、袁某某、雷某某等4人分别处以记3分，罚款700元的处罚。<br/><div class="contheight"></div>沈某某擅自改装车辆排气装置，现场检测噪声达90.2分贝。倪某某擅自改变机动车外包围和前保险杠，现场检测噪声达93.2分贝。袁某某擅自加装车辆尾翼，现场检测噪声达100分贝。雷某某则擅自改变车身颜色，现场检测噪声达101分贝。<br/><div class="contheight"></div>在查处过程中，交警总队利用现有“电子警察”、“声呐定位”等科技手段研发出了“黑科技”。这些科技手段在发现机动车噪声扰民违法行为中发挥了重要作用，为“炸街”行为的查处提供了强有力的辅助证据。该系统自2018年12月1日以来已发现165辆涉嫌噪音超标机动车。<br/><div class="contheight"></div>目前，上海交警APP已开通“机动车噪音污染”举报项目，市民朋友对发现的机动车噪音污染问题，可以通过手机及时进行举报，也可通过拨打“110”报警电话等方式进行举报，公安机关将第一时间受理查处。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：高文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 黑科技,炸街,噪音污染</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837190">
+<div class="nbgbox">
+<a class="zan" contid="2837190" href="javascript:;" onclick="voteCont(this)" praisetimes="47">
+                           46</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 声纳仪查获炸街车</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837190&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837190&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（43）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

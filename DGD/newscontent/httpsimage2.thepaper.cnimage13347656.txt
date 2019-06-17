@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">国务委员兼国防部长魏凤和会见俄罗斯国防部副部长</h1>
+<div class="news_about">
+<p>梅常伟/新华社</p>
+<p>
+							2018-12-20 20:17<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社12月20日报道，国务委员兼国防部长魏凤和20日在京会见俄罗斯国防部副部长兼军事政治总局总局长卡尔塔波洛夫。<br/><div class="contheight"></div>魏凤和说，中俄两军近年来在各层级、各领域、各方向开展高水平务实交流合作，为维护全球战略平衡、维护地区稳定作出重要贡献。中方愿同俄方一道，以明年中俄建交70周年为契机，坚决落实两国元首重要共识，推动中俄军事领域合作不断取得新成果。<br/><div class="contheight"></div>卡尔塔波洛夫说，俄方愿同中方加强包括军事政治在内的各领域务实合作，不断把两国两军关系推向新的高度。 <br/><div class="contheight"></div>（原题为《魏凤和会见俄罗斯国防部副部长》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 魏凤和,会见,俄罗斯国防部</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2757392">
+<div class="nbgbox">
+<a class="zan" contid="2757392" href="javascript:;" onclick="voteCont(this)" praisetimes="31">
+                           30</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中俄军事合作</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2757392&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2757392&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

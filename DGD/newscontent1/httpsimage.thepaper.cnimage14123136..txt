@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25438">财经上下游</a>
+</div>
+<h1 class="news_title">商务部谈特斯拉落户上海：欢迎各国企业来华投资兴业 </h1>
+<div class="news_about">
+<p>中国新闻网</p>
+<p>
+							2019-01-10 18:15<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网1月10日消息，在10日的商务部例行新闻发布会上，发言人高峰表示，作为新能源汽车的领先企业，特斯拉在上海设厂，有助于推进中国新能源汽车行业的发展。中国欢迎世界各国的企业来华投资兴业，共享中国汽车市场的发展机遇。<br/><div class="contheight"></div>会上有记者问：近日，我国首个外资独资海外车企项目落地上海，这一工厂的建立对上海乃至我国整个汽车市场的竞争格局会带来什么样的影响？<br/><div class="contheight"></div>高峰对此回应，特斯拉公司作为首个在中国落地的外资独资的新能源汽车企业，是中国进一步扩大对外开放的见证者和受益者。作为新能源汽车的领先企业，特斯拉在上海设厂，有助于推进中国新能源汽车行业的发展，推动产业的结构升级，将为国内消费者带来更多购车的选择，满足多样化多层次的汽车消费需求。<br/><div class="contheight"></div>高峰表示，当前，中国汽车市场进入需求多元、结构优化的新的发展阶段，总体上由实用型消费向品质化消费转变，对新能源汽车等汽车产品有着巨大的市场需求。我们欢迎世界各国的企业来华投资兴业，共享中国汽车市场的发展机遇。<br/><div class="contheight"></div>（原题为《商务部谈特拉斯落户上海：欢迎各国企业来华投资兴业》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 特斯拉,汽车</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837340">
+<div class="nbgbox">
+<a class="zan" contid="2837340" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 特斯拉</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837340&caid=25438",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837340&amp;caid=25438" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

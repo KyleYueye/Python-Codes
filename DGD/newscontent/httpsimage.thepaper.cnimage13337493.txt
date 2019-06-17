@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">推翻授予外交豁免权决定，南非警方向穆加贝夫人发布逮捕令</h1>
+<div class="news_about">
+<p>澎湃新闻记者 廖婧雯</p>
+<p>
+							2018-12-20 15:52<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="900" src="http://image.thepaper.cn/www/image/13/337/490.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">格蕾丝·穆加贝  视觉中国 资料图<br/><div class="contheight"></div></span>近日，南非警方向津巴布韦前“第一夫人”格蕾丝·穆加贝发出逮捕令。后者多年前曾在南非攻击一名模特，但因被授予外交豁免权而免于受罚。<br/><div class="contheight"></div>据《南华早报》12月20日报道，南非警方发言人维西奴·奈杜（Vishnu Naidoo）证实，对格蕾丝的逮捕令已于上周四（13日）发出，南非警方正在寻求国际刑警组织的帮助来执行逮捕令。<br/><div class="contheight"></div>目前，穆加贝方面和津巴布韦当局尚未对此事作出回应。<br/><div class="contheight"></div>据澎湃新闻（www.thepaper.cn）此前报道，2017年8月，当时还是津巴布韦“第一夫人”的格蕾丝利用小长假前往南非，一方面看医生，一方面看望居住在约翰内斯堡的两个儿子。14日，一位名叫英格斯的20岁女模特向媒体控诉称，此前一天晚上格蕾丝用“插线板的插头一侧”抽打她，原因是看见英格斯和格蕾丝的两个儿子在一起。<br/><div class="contheight"></div>事发后，根据南非警方的一份声明，津巴布韦方面就第一夫人格蕾丝·穆加贝（Grace Mugabe）打人事件向南非申请外交豁免。随后，格蕾丝返回津巴布韦国内。<br/><div class="contheight"></div>今年，在英格斯质疑南非政府授予格蕾丝外交豁免权的决定后，南非法院推翻了这一决定。<br/><div class="contheight"></div>53岁的格蕾丝·穆加贝（Grace Mugabe）是现年94岁的津巴布韦前国家元首穆加贝的第二任妻子，并一度被视为其接班人。去年底，执政37年的穆加贝遭军方扣留，随后宣布下台，穆加贝曾经的狱友、战友和副手埃默森·姆南加古瓦就任总统。今年7月30日，埃默森·姆南加古瓦赢得总统大选，于8月26日在首都哈拉雷宣誓就职。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李怡清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 南非,穆加贝,津巴布韦</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2755992">
+<div class="nbgbox">
+<a class="zan" contid="2755992" href="javascript:;" onclick="voteCont(this)" praisetimes="18">
+                           17</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 穆加贝</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2755992&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2755992&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

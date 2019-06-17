@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25574">翻书党</a>
+</div>
+<h1 class="news_title">小翻书党│冬至快到了，看看烧纸钱背后的故事</h1>
+<div class="news_about">
+<p>有鬼君</p>
+<p>
+							2018-12-20 15:45<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">冬至快到了，读到一本关于纸钱的书《礼俗消费与地方变迁：江浙锡箔的物质文化史》。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="865" src="http://image.thepaper.cn/www/image/13/294/941.jpeg" width="600"/></div><span style="color: rgb(128, 128, 128);">《礼俗消费与地方变迁：江浙锡箔的物质文化史》，潘玮琳/著，上海社会科学院出版社 2018年9月版</span><br/><div class="contheight"></div>这虽是一本新文化史的著作，不过我却属于买椟还珠的读者，更感兴趣的是其中观念形成的部分，即第一章“纸钱的起源”和第二章“锡箔的起源：民间传说及其社会经济背景”。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="800" src="http://image.thepaper.cn/www/image/13/304/248.jpg" width="600"/></div>作者介绍，正史中唯一提到纸钱来历的出于《新唐书·王璵传》，此后儒道佛三教为其发明权展开各种讨论，讨论的目的不是为了纳入自己的学说体系，更多的是竭力与其撇清关系，或者推给思想对手。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="800" src="http://image.thepaper.cn/www/image/13/304/249.jpg" width="600"/></div>天主教传入中国后，烧纸钱又卷入著名的中国礼仪之争。其中提到南怀仁抨击佛教的“预修寄库”的说法，认为“地狱者实为受苦之监牢”，存储冥资，不啻“世间岂有人不犯罪，而先将金银买监牢去坐乎”？南怀仁不懂的是，中国的冥界不仅仅只有监狱，还有正常的居民，有正常的衣食住行。烧给祖先的纸钱，是为了让他们在那个世界生活舒适，而不是打点狱卒。这在时人眼中是基本的常识。当然，对天主教徒的误解，我们不应苛求。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="800" src="http://image.thepaper.cn/www/image/13/304/250.jpg" width="600"/></div>第二章“锡箔的起源”，作者收集了江浙的民间故事与传说，在民间传说中，发明者基本锁定了朱元璋和刘伯温这一对传奇君臣。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="800" src="http://image.thepaper.cn/www/image/13/304/251.jpg" width="600"/></div>作者对此做了经济社会学的解释，锡箔的兴起与明代民间贵银思想有关。也就是说，老百姓偏好使用金子、银子这类直观可见的货币，同样也希望祖宗们喜欢。这一点，现代人太容易理解了，我们清明扫墓，除了纸钱，总要烧一点纸房子、纸汽车、纸游艇之类的。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="800" src="http://image.thepaper.cn/www/image/13/304/252.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="800" src="http://image.thepaper.cn/www/image/13/304/253.jpg" width="600"/></div>后面几章说的是锡箔产业自明清以来在江浙的发展情况，属于买椟还珠的珠宝，诸位可以自行翻阅。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="800" src="http://image.thepaper.cn/www/image/13/304/254.jpg" width="600"/></div></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：顾明<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 冬至,纸钱,锡箔</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2751267">
+<div class="nbgbox">
+<a class="zan" contid="2751267" href="javascript:;" onclick="voteCont(this)" praisetimes="71">
+                           70</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 小翻书党</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2751267&caid=25574",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2751267&amp;caid=25574" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜ofo押金难要，一装外国人秒退，两副面孔是自打脸</h1>
+<div class="news_about">
+<p>澎湃特约评论员 宋潇</p>
+<p>
+							2018-12-17 13:36<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="378" src="http://image.thepaper.cn/www/image/13/253/448.jpg" width="600"/></div>ofo押金难退，困扰着不少用户。近日，一网友发微博称，自己尝试了传说中的“外国人报案”策略。他为自己设计了人设：来自加州、在中国生活了两三年、中文不太好、做事喜欢上纲上线的外国人，以此身份给ofo写了封英文投诉邮件，要求退还押金。本是试试看，没想到ofo很快给他退了押金，还回复了一封英文邮件道歉。（澎湃新闻，12月17日）<br/><div class="contheight"></div>普通人拨打几十上百个电话都要不回的押金，这名“歪果仁”一封邮件让ofo秒退并道歉，这种“两副面孔”式的差别对待，无疑是极其讽刺和值得玩味的。用户不过是想要回属于自己的应得利益，企业却乐此不疲地在玩“猫鼠游戏”的套路游戏。<br/><div class="contheight"></div>不知何时起，共享单车押金难退的新闻就屡见报端。即使很多用户都在投诉和反映类似问题，单车企业仍然坚持“在多少个工作日内就能退押金，客服电话也依然打得通”之类的说法。这种不在一个频道的对话，与其说是回应，不如说是“一本正经地胡说八道”。道理很简单，如果客服电话打得通，谁愿意通过微博、朋友圈吐槽？如果能按承诺的退还押金，又有谁愿意耗时耗力，就为了争那99元、199元？ <br/><div class="contheight"></div>当然，当这99元、199元本就属于用户，再怎么坚持要回也是理直气壮的。我也曾是“讨押金大军”中的一员。在这个过程中，我也采取过“自我打造人设”之类的策略，只是相比于“假扮外国人”，还略输一筹，但确实要比自称普通用户更“有用”，花了几个月时间，总算要回了押金。可这种落差总让我很心寒：在共享单车企业眼里，难道不是所有的用户都该受到平等对待，他们的合法权益都该被一视同仁地保障吗？难道还有高低贵贱之分？ <br/><div class="contheight"></div>道理并不复杂，当用户决定不再使用企业的产品，企业就应当退还用户押金。这就好比我向你借了钱，我就应当按照此前承诺的时限还，怎么好意思到期不还，反倒要你各种“跪求”我还钱一样？<br/><div class="contheight"></div>用户用你的产品，是有实际需求，说得感性点，是出于对产品的喜爱。交押金，是出于对企业的信任。共享单车企业别自作聪明、自以为是地认为用户就是傻，押金到了企业口袋里，就成了企业自己的钱。<br/><div class="contheight"></div>企业也不必拿自身经营困难做搪塞用户的借口，这个理由自私而拙劣。经营不善，是企业自身出了问题，跟用户无关，无论如何，企业也不能将自身的责任作为损害用户权益的挡箭牌。作为新兴的互联网企业，应当在诞生之初就对风险有足够的预估，即便先期预估不足，在困境当前，也应当以退还押金等保障用户利益的行动为先。苦只能苦自己，不能苦用户。 <br/><div class="contheight"></div>每一次用户为了要回押金的“脑洞大开”，都是打在共享单车企业脸上火辣辣的耳光。Ofo该醒醒了，别拿着好不容易积累起来的企业信誉，一次次挑战用户忍受的底线。再者，监管部门也该出手了。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2744060" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">网民自曝假装外国人，ofo秒退押金还附道歉信</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; ofo退押金</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2746252">
+<div class="nbgbox">
+<a class="zan" contid="2746252" href="javascript:;" onclick="voteCont(this)" praisetimes="177">
+                           176</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: ofo退押金</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2746252&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2746252&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（59）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

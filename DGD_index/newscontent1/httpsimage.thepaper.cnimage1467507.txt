@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">特朗普将就修美墨边境墙事宜发表演讲，或不动用国家紧急状态</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-09 10:17<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">当地时间周二晚间，美国特朗普将就美墨边境筑墙拨款事宜发表全国讲话。但据知情人士透露，特朗普或将不会宣布南部边境进入全国紧急状态。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="453" src="http://image.thepaper.cn/www/image/14/67/499.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">特朗普离开白宫会见记者，坚持要求为修建边境隔离墙拨款。视觉中国 图<br/><div class="contheight"></div></span>很早以前，特朗普就承诺修筑美墨边境墙，并要求为此事拨款。在美国国会没有通过对修建边境墙的预算后，美国联邦政府已经部分停摆长达三周。特朗普此前表示，为了获得修建边境墙的预算，或许还将宣布美国进入全国紧急状态。<br/><div class="contheight"></div>但据《华尔街日报》1月9日报道，看过特朗普讲稿的知情人士透露，特朗普的讲稿中没有包含宣布全国进入紧急状态的内容。此前美国两党的议员都表示，不会支持这种行为。美国众议院军事委员会(House Armed Services Committee)级别最高的共和党人士、得克萨斯州众议员索恩伯里（Mac Thornberry）周二告诉记者，他反对通过宣布紧急状态来用军费建墙。尽管不会宣布国家将进入紧急状态，但是特朗普将在讲话中集中解释他为什么认为美国存在边境危机，届时他将通过指出美墨边境的非法毒品活动以及贩卖人口活动来支持自己的立场。<br/><div class="contheight"></div>报道称，宣布全国进入紧急状态可以使特朗普有机会绕过国会，将拨款重新引向修建美墨边境墙，而不是先拨给其他优先事项。但是，如果特朗普真宣布全国进入紧急状态，将面临美国法律挑战。此外，在全国进入紧急状态下，从何处获得筑墙资金也是一个未知数。特朗普此前已表示，如果结束联邦政府部分关闭的提案不包含边境筑墙拨款，他将不会签署。<br/><div class="contheight"></div>据白宫负责通讯的副幕僚长沙恩（Bill Shine）称，特朗普将于美东时间周二晚上9点（北京时间周三上午10点）在白宫椭圆形办公室发表讲话，预计讲话将持续七至八分钟。如果联邦政府还继续部分停摆，那将成为美国历史上持续时间最长的一次政府停摆。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国,墨西哥,美墨边境墙</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831009">
+<div class="nbgbox">
+<a class="zan" contid="2831009" href="javascript:;" onclick="voteCont(this)" praisetimes="9">
+                           8</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美墨边境墙</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831009&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831009&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

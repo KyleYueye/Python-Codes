@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜19岁女孩“隆鼻死”：美谁都爱手术刀不是谁都能拿</h1>
+<div class="news_about">
+<p>澎湃特约评论员 斯远</p>
+<p>
+							2019-01-08 18:29<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2825376" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜19岁女孩“隆鼻死”：美谁都爱手术刀不是谁都能拿" src="//image.thepaper.cn/image/14/14/146.jpg"/>
+</a>
+<div class="atlas_360_txt">19岁女大学生隆鼻离奇死亡！涉事新三板公司利美康紧急停牌<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">这几天，一条“贵阳19岁女孩隆鼻手术后死亡”的消息引发广泛关注。1月6日，贵阳市云岩区卫计局发出通报，称将按照公平、公正原则，严格根据尸检报告和调查结果，依法依规处置此事，并及时向社会公布。<br/><div class="contheight"></div>据媒体此前报道，1月3日下午1时，19岁大二女学生小夏被推进贵州利美康外科医院（贵州整形口腔美容外科医院）手术室实施隆鼻手术。7小时后，其家人被告知，小夏在贵州医科大学附属医院救治无效死亡。<br/><div class="contheight"></div>进去时活蹦乱跳、青春洋溢，几个小时之后，家人却只能看到一具冰冷的尸体，这样的“逆转”确实让人难以接受。一个小小的隆鼻手术，竟然出了人命，也令公众感到震惊和不解。按照术前医生的说法，“这种微整形手术是没有风险的”，可最终的结局竟然是年轻女孩的死亡。<br/><div class="contheight"></div>这一恶性事件再一次暴露出当下美容行业的乱象。一方面，众多美容医院似医非医，游走于社会的边缘地带。随便给“病人”或“顾客”动刀，却缺乏足够的防护措施，甚至连基本的手术应急处置条件也不具备；另一方面，监管却失之于松、散、软，往往袖手事外，即便偶尔组织一些专业的监督检查，也多是一阵风，缺乏常态化的日常监管。<br/><div class="contheight"></div>据《2017中国医美行业白皮书》显示，2017年中国医美行业增速超40%，总量超1000万例，增速是全球6倍，成为仅次于美国的全球医美第二大国。预计2019年，中国医美市场将突破万亿元。正因为如此，整形美容业也受到了资本的热捧，该医院运营主体利美康股份也早就登陆新三板。<br/><div class="contheight"></div>而与此同时，医美行业在“野蛮增长”中遇到的种种问题也逐渐暴露出来，没有医学背景，“仅在鸡腿练习过注射，三五天速成后就敢往人脸上打玻尿酸”“美甲师纹瞳线致人眼睛失明”等触目惊心的行业乱象，媒体多有报道。<br/><div class="contheight"></div>美谁都爱，但手术刀不是谁都能拿。必须明白，整形整容成为越来越多女性的选择，行业乱象不能仅靠消费者练就一双“慧眼”去发现、辨别。伴随着医美行业的快速扩张，监管必须跟上。从医美行业从业人员的素质，到对整形机构的认证，到不留死角的常态化监管，都要严格把关，从源头保证医疗安全。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 隆鼻手术后死亡</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828137">
+<div class="nbgbox">
+<a class="zan" contid="2828137" href="javascript:;" onclick="voteCont(this)" praisetimes="79">
+                           78</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 隆鼻手术后死亡</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828137&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828137&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

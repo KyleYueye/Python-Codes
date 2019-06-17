@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">安倍期待推进修宪讨论，在野党要求优先国民投票</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2019-01-06 18:11<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据中新网1月6日援引日媒报道，日本首相安倍晋三在6日播出的NHK节目中表示，期待在计划1月下旬召集的例行国会上，朝野政党的修改宪法讨论有所进展。<br/><div class="contheight"></div>他表示，“宪法是阐述国家未来和理想的，在国会上需要围绕把日本建成怎样的国家进行坚实讨论。各党应抱着想法参加进来。”<br/><div class="contheight"></div>联合执政的公明党党首山口那津男表明了慎重姿态。在野的立宪民主党党首枝野幸男强调应优先讨论就是否修宪问信于民的国民投票。<br/><div class="contheight"></div>对于力争2020年实施修改后的宪法，安倍称“心情完全不变”，但也表示“并非以日程为前提”。<br/><div class="contheight"></div>山口强调，“有必要完善在国会能够讨论的环境。国会的作用是形成包含在野党的广泛共识，增进国民理解。”同时，他考虑到5月1日皇太子即位为新天皇等，指出“在重要活动接连到来的情况下，让国民共识成熟起来并不容易”。<br/><div class="contheight"></div>枝野提及去年的临时国会中，众院宪法审查会会议在朝野政党未达成共识的情况下召开了，表示“进行圆满且建设性讨论的积淀被完全破坏。恢复原本的宪法讨论方式是大前提。”在此基础上他指出：“以全面限制收费广告为核心的国民投票制度讨论才是最优先的。”<br/><div class="contheight"></div>（原标题 《安倍期待推进修宪讨论，在野党要求优先国民投票》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 日本修宪，安倍晋三</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2821428">
+<div class="nbgbox">
+<a class="zan" contid="2821428" href="javascript:;" onclick="voteCont(this)" praisetimes="6">
+                           5</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 安倍修宪</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2821428&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2821428&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

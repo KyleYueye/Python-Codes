@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">深圳两男童疑遭双亲虐待，街道办：系失管失教，暂未认定虐童</h1>
+<div class="news_about">
+<p>郭琳琳/北京头条客户端</p>
+<p>
+							2019-01-10 18:59<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/123/297.jpg" width="100%"/></div>北京头条客户端1月10日消息，在深圳宝安虐童事件后，近日，有网友反映称，深圳龙岗区又有2名男童疑似被父母“虐待”，且脸上有伤。1月10日，深圳龙岗区园山街道办事处工作人员对北青报记者称，接到反映后，街道办事处已经组织相关部门核实具体情况，经查孩子父母确有“失管失教”，但目前暂没有认定为虐童。相关部门已给孩子进行体检，并到孩子家中看望，对孩子的后续抚养问题会再与相关举报人和家长进行沟通。<br/><div class="contheight"></div>在网友发布的视频中，一个小男孩左眼角有淤青，头发也有一块被剃掉，男孩身上穿着的衣服较脏。在另一段视频里，男孩弟弟穿着纸尿裤在街道上爬，拍视频的人一直在说，要找人看看男孩妈妈是否在家。<br/><div class="contheight"></div>爆料人对北青报记者称，大一点的男孩小文（化名）不到4岁，小一点的男孩小武（化名）2岁。据她们了解，两个孩子饿的时候没有饭吃，父母偶尔还会抽巴掌或者用棍子打两个小孩。该爆料人称，孩子父亲平时会做零工，母亲则没有工作，且二人非婚，导致孩子户口出现问题，影响孩子正常上幼儿园。在家中，孩子父母还很少照看孩子，独留孩子在家或在外闲逛。<br/><div class="contheight"></div>1月10日，孩子父亲聂先生对北青报记者回应表示，家长平时也会偶尔打孩子，但不认为是虐待。聂先生称，他在外做零工工资较低，孩子母亲没有工作，且患有腰病，家中经济条件一般，所以平时孩子饮食确实营养跟不上。孩子父亲称他已经回过老家办理相关户口手续，至于后续会不会送孩子上幼儿园，还要看家里有没有钱。<br/><div class="contheight"></div>深圳龙岗区园山接到办事处宣传部工作人员对北青报记者介绍，街道办在接到来访后，已经组织相关部门介入，就目前掌握情况看应不属于虐童，但是父母确实存在失管失教。目前相关部门已经带孩子进行体检，会对孩子进行龋齿治疗。工作人员介绍，孩子母亲称小文脸上的伤是不小心磕到的，目前已经好多了。相关部门也已经督促父母尽快为孩子办理户口，以便解决入园问题。对于有人提出希望将孩子带离家中到福利院生活，工作人员表示，街道办会考量男孩抚养问题，并与家长以及爱心人士再进行沟通。<br/><div class="contheight"></div>（原题为《深圳又现虐童？街道办称系“失管失教”》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 虐童,深圳</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837404">
+<div class="nbgbox">
+<a class="zan" contid="2837404" href="javascript:;" onclick="voteCont(this)" praisetimes="41">
+                           40</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 虐童</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837404&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837404&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（301）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

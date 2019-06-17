@@ -1,0 +1,80 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">再见大侠｜金庸离开了世界，也留给我们一个世界</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-10-30 21:19<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">看到金庸先生去世的新闻，我的第一反应是“不会又是一个乌龙吧”。当消息终于得到验证，从我内心涌出的第一道感觉却不是悲伤。<br/><div class="contheight"></div>金庸先生享年94岁。按中国传统说法，这叫喜丧。即便在医学发达的今天，这也是高龄了。更何况，这些年传过太多“金庸去世”的假新闻，透支了我们的情感反应。<br/><div class="contheight"></div>一个金庸属于他的家人，一个金庸属于整个华人世界。作为读者，我们大可不必跟前一个金庸套近乎、装熟，因为后一个金庸已足够我们受益终身。<br/><div class="contheight"></div>近年来，浮躁的影视圈充斥着IP、宇宙、世界这些大词，但要说谁真正打造了一个属于自己的世界，非金庸莫属。<br/><div class="contheight"></div>金庸离开了世界，也留给我们一个世界。对这个世界最深沉的爱，无过于给它嵌入一个小世界。<br/><div class="contheight"></div>人类这个物种，生而孤独，以故事为食。若没有故事，我们不会理解自己是谁。<br/><div class="contheight"></div>谁若能留下一个万人传诵的故事，便相当于在茫茫大地上留下一个脚印了。留下一个世界，则相当于盖了一座小屋。后来的人便可以借宿、休憩，重新出发，直到留下自己的脚印，或盖出自己的小屋。<br/><div class="contheight"></div>虚构与现实不是截然两分，而是水乳交融。如果没有荷马史诗，古希腊文明就会失去灵魂。没有金庸世界，多少人的青春将会缺失一角。<br/><div class="contheight"></div>我高中同桌是一位金庸迷，那时候武侠小说被老师视为洪水猛兽。但是我早早就知道，金庸是不会教人向坏的，因为我这位同桌最爱的一句格言就是“侠之大者，为国为民”。<br/><div class="contheight"></div>后来，我的同桌没有行走江湖，而是自己做了一名老师。可是谁说老师就不能是一位侠客呢，至少他不会再无端没收同学们的金庸小说。<br/><div class="contheight"></div>若我们只怀念青春，还可能低估了金庸的意义。金庸笔下最出彩的人物，大都处于乱世，如乔峰，如郭靖。有儿女情长，更有家国情怀。金庸着眼于乱世，与自身经历不无关系。<br/><div class="contheight"></div>抗日战争全面爆发时，金庸是一名中学生。抗战期间，金庸还曾因在壁报上讽刺训导主任投降主义的文章而被开除。此外，我们更不要忘了，金庸是一手写武侠，一手写社论。<br/><div class="contheight"></div>正因为金庸留给我们的“小屋”物资太丰裕了，我们有太多怀念他的方式。或许，最好的纪念不是沉湎于“小屋”，而是从“小屋”里找到合适的“装备”，回到大千世界以自己的方式快意恩仇。</div>
+<div class="go_to_topic">
+<p style="line-height: 20px; margin-bottom:5px">
+<img alt="" src="//file.thepaper.cn/www/v3/img/topic.gif" style="float:left">
+<a href="newsDetail_forward_56843" target="_blank">
+<span class="news_topic">
+                              【专题】再见，金庸</span>
+</a>
+</img></p></div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 金庸逝世</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2582234">
+<div class="nbgbox">
+<a class="zan" contid="2582234" href="javascript:;" onclick="voteCont(this)" praisetimes="297">
+                           296</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 金庸逝世</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2582234&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2582234&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

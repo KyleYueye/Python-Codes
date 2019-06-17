@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜小学装修疑云：真没问题，空气检测为何不出示？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 聂夫</p>
+<p>
+							2018-09-28 20:15<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="507" src="http://image.thepaper.cn/www/image/10/885/746.jpg" width="400"/></div><span style="color: rgb(128, 128, 128);">全体家长公开信</span><br/><div class="contheight"></div>一边是多达几十名小学生在刚刚装修的教室里出现流鼻血、头疼、呕吐等不适症状，另一边则是学校出具的“完全合格”的空气质量检测报告，如此离奇的一幕，近日发生在郑州澳新国际学校纬五路一小校区。<br/><div class="contheight"></div>尽管校方始终坚称，学生的状况与装修无关，“流鼻血是个体差异”，但架不住“个体差异”的学生人数实在太多，所以最后还是被迫同意对校区再次进行空气质量检测。原以为这样就能够查明真相，水落石出，结果等了半天，等来的却是让所有学生分流到其他学校上课的“紧急通知”，而那份关乎事实真相与追责依据的检测报告却迟迟不见踪影（据《工人日报》9月28日报道）。<br/><div class="contheight"></div>这难免引人遐想：重新检测的结果到底怎样，是否还跟上份一样，“各项指标均符合国家一类(医院、学校)空气质量标准”？如果是，那校方为何藏着掖着不肯示人，又为何要紧急分流学生去它校上课？如果不合格，那真实数值是多少，超标多少倍？之前那份“完全合格”的检测报告又是怎么出炉的，这里面是否存在刻意造假，装修公司与学校应该承担何种责任？<br/><div class="contheight"></div>事实上，校园空气污染事件并非个案，而学校装修后“空关通风期”太短更是个老问题。相比家庭房屋装修后动辄空关一年半载，学校由于其特殊性，往往只能利用暑假的短短两个月进行装修改造，普遍存在时间紧、任务重、空关时间短的情况。比如，这一次出状况的郑州纬五路第一小学，8月25日才结束装修清场调试，9月1日便开门迎新。中间间隔时间之短，恐怕每一个装修过房子的人都会感到不可思议。<br/><div class="contheight"></div>尽管校方事后宣称，工程所使用装修材料均为环保达标材料。但正如装修行业人士所言，哪怕是最环保的涂料也需要通风一两周才能住人，而对于学校这种公共场所，学生身体抵抗能力较差，一般需要更长时间来通风散味。这就难怪每年一到开学季，教室、塑胶跑道等因装修产生的环境问题总是频频见诸报端。<br/><div class="contheight"></div>都说学生是祖国的花朵，学校作为教书育人的地方，显然不能只顾文明其精神，而忽略健康其体魄。更何况，装修问题空气污染影响的不只是学生，也同样包括校长、老师在内的全体教职工人员。如果仅仅因为害怕家长维权、上级问责，便不敢公布真实的检测报告，既有失师道的本分，也是对自身健康的不负责任。<br/><div class="contheight"></div>当然，要想避免类似情况的发生，光靠学校的自觉与重视是远远不够的，还必须有来自外部的监管。遗憾的是，作为上级职能部门的郑州市金水区教体局，至今没有公布任何调查进展。而质监、环保等部门，或者囿于现行制度，无权对学校进行强制管理，或者因为缺乏室内空气质量的强制性规定，面临难监管的尴尬。相比校园空气问题，这些制度层面的“污染”同样有待检测。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 装修污染</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2485185">
+<div class="nbgbox">
+<a class="zan" contid="2485185" href="javascript:;" onclick="voteCont(this)" praisetimes="79">
+                           78</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 学校污染</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2485185&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2485185&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（427）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

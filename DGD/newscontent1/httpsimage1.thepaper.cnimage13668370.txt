@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜民警依法履职免责，让执法更有底气</h1>
+<div class="news_about">
+<p>澎湃特约评论员 杨晨</p>
+<p>
+							2018-12-29 15:10<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2791028" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜民警依法履职免责，让执法更有底气" src="//image2.thepaper.cn/image/13/661/969.jpg"/>
+</a>
+<div class="atlas_360_txt">公安部新规：民警依法履职致公民权益受损，个人不担法律责任<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">公安部近日制定并发布了《公安机关维护民警执法权威工作规定》，将于2019年2月1日起正式施行。根据《规定》，公安民警依法履行职责、行使职权受法律保护，依法履职对公民、法人或者其他组织合法权益造成损害的，民警个人不承担法律责任等。<br/><div class="contheight"></div>出台这一规定，固然是日渐严峻的形势使然。公安民警执法过程中，与犯罪分子面对面“较量”，有太多的不可控因素，自身很容易受到不法伤害。根据公安部统计，2013年至2017年的5年里，全国公安民警因公牺牲2003人，因公负伤或致残2.5万人。其中，2017年牺牲361人，平均年龄只有43.5岁。在这些流血牺牲事例中，很多与民警在执法执勤过程中受到暴力袭击、报复伤害、妨害阻碍有关。如何更好地保护执法民警，理应进入立法者的视线。<br/><div class="contheight"></div>不仅如此，在公安民警的执法过程中，也不可避免地产生一些“副作用”，对公民、法人或者其他组织合法权益造成或多或少的损害。如果让依法履职的民警后果自负，无异于是对正常执法行为的否定，当执法者再面对违法犯罪行为时，难免有“一朝被蛇咬十年怕井绳”的谨慎心态，战战兢兢、畏惧不前，也会在无形中助长犯罪分子的气焰。<br/><div class="contheight"></div>此次《规定》以部门规章的形式，明确民警依法履职造成损害，个人不承担法律责任，有利于从法规层面为执法者解除后顾之忧，让他们更好地履行法定职责。更重要的是，释放出保护执法人员、遏制违法犯罪的强烈讯号，有利于警醒那些潜在的违法者遵守法律规定，放弃心存侥幸。 <br/><div class="contheight"></div>不过，也有人表示担忧：如果民警执法不用承担责任，会不会让警察执法肆无忌惮，对公民合法权益造成侵害？其实，这一顾虑完全没有必要。<br/><div class="contheight"></div>从立法的初衷看，这一《规定》所保护的，仅是民警合法履行的职务行为，而不是为非作歹的行为，如果民警采取不合法、不合规的执法手段，就不属于保护的范围，承担法律责任就是必然的后果。而《规定》对保护内容、流程等事项的具体化，也有利于防止权力庇护。 <br/><div class="contheight"></div>还有人担心，如果民警依法履职免除个人责任，对公民、法人或者其他组织合法权益造成的损害“真空”，又该如何弥补？没有救济就没有权利。《条例》对此考虑得比较周到，在明确民警个人免责的同时，规定“由其所属公安机关按照国家有关规定对造成的损害给予补偿”。如此，就与《国家赔偿法》等法律实现对接，让该有的国家救济不缺位。<br/><div class="contheight"></div>规制权力、保护权利，乃是法治的必然要求。对于警察权力，固然要通过《人民警察法》等法律规制，如规范警察的职责范围、执法程序、义务纪律，规定执行职务应“依法接受人民检察院和行政监察机关的监督”等，而《规定》明确的“民警依法履职免责”，这种针对执法主体的“导向激励”，同样是对警权的规制，有助于更好地保护公民的合法权益，理应得到肯定。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 民警依法履职免责</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2791738">
+<div class="nbgbox">
+<a class="zan" contid="2791738" href="javascript:;" onclick="voteCont(this)" praisetimes="55">
+                           54</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 民警依法履职免责</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2791738&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2791738&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

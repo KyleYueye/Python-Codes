@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25437">牛市点线面</a>
+</div>
+<h1 class="news_title">经济日报刊文：到底是什么绊住了中长期资金入市的脚步</h1>
+<div class="news_about">
+<p>梁睿/《经济日报》</p>
+<p>
+							2018-12-24 08:50<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div>12月20日，国务院金融稳定发展委员会召集部分商业银行、证券公司、保险机构、信托公司、基金公司负责人开会。会议代表提出了推动资本市场健康发展的各项措施，其中一条便是要借鉴国际通行做法，积极培育中长期投资者，畅通各类资管产品规范进入资本市场的渠道。</div>A股市场缺血久矣，“引导中长期资金入市”也喊了很多年，但除了2015年7月份因救市需要，证金公司耗资1万多亿元全面买入A股外，近年来鲜有较大规模中长期机构资金入市。到底是什么绊住了中长期资金入市的脚步呢？<br/><div class="contheight"></div>首先是得不到合理回报。长期以来，A股市场“重融资 轻回报”的局面没有改变。从市场总体来看，在存量资金有限的情况下，容量却在不断扩大，2008年底A股上市公司总数不过1602家，但10年后的今天却有近3600家，数量增长了一倍有余。大量公司挤破脑袋发股票融资，以及随之而来的再融资和大股东减持对股市带来了巨大的抽血效应。在此情况下，无论是短期资金还是长期资金，都难以产生长期财富效应。从个股分红来看，同样存在着“重融资、轻分红”的痼疾，通过各种手段增发圈钱的比比皆是，上市多年不分红的“铁公鸡”不在少数，股息率超过同期国债利率的公司却少之又少。如果不能在分红上给予中长期资金稳定的回报预期，无论是什么资金，都会放弃长期投资理念，转而在市场博弈中追逐利润，股市追涨杀跌局面也就在所难免。<br/><div class="contheight"></div>其次是难以介入上市公司经营。当前，认识上的一大误区是认为机构投资者和中长期资金应该定位于财务投资者的角色，不需要参与上市公司经营管理，这其实是一种漠视投资者权益的态度。碰上遵纪守法、认真负责的公司管理层，机构投资者还能当当甩手掌柜；但万一遇上贾跃亭这样的“老赖”、原长生生物董事长高俊芳这样的见利忘义者，恐怕投资只会打了水漂。散户股东不想介入经营管理大不了用脚投票，可是机构投资者也对上市公司不法行为难闻难问或者不闻不问，那还能靠谁来防范上市公司重大经营风险呢？<br/><div class="contheight"></div>除了上述障碍，还有投资比例、范围、时限等诸多规定限制中长期资金发挥作用。纵然从防范风险等角度考虑，这些规定有一定合理性，但同样也捆住了机构投资者的手脚。如果固守长期以来形成的僵化、单一风控手段，恐怕难以引起中长期资金的兴趣。<br/><div class="contheight"></div>资本市场健康发展需要吸引中长期资金，职业年金、养老金等长期资金也需要资本市场保值增值。要吸引这些中长期资金入市，需要资本市场真正不忘初心，认真借鉴国际通行做法，把保护投资者权益作为不可动摇的基石，依法保护各类股东知情权、监督权、参与决策权、选择管理者权、资产收益权等各项权利，唯有如此，才能为各类资金搭建公平公正的舞台，中长期资金才会源源不断地入市。<br/><div class="contheight"></div>（原标题《长期资金入市难在哪》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：葛佳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2767713">
+<div class="nbgbox">
+<a class="zan" contid="2767713" href="javascript:;" onclick="voteCont(this)" praisetimes="34">
+                           33</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: A股</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767713&caid=25437",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767713&amp;caid=25437" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

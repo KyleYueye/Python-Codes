@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">四川一高校考研试题内容出现偏差，校方：1月6日上午补考</h1>
+<div class="news_about">
+<p>李华锡/中国青年网</p>
+<p>
+							2018-12-24 13:45<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月23日，有参加电子科技大学2019年硕士研究生考试的考生向中国青年网记者反映，电子科技大学研究生考试自命题科目《固体物理》（科目代码：818）考试中，试题内容出现偏差，导致无法参加考试。当日，该校研究生院向各相关教育考试院、报考点发布通知，相关考生该科目由学校统一组织补考。随后该校研究生招生网发布通知，向考生致歉，补考时间定为2019年1月6日上午。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="475" src="http://image.thepaper.cn/www/image/13/451/652.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">电子科技大学研究生招生网发布《电子科技大学关于2019年全国硕士研究生招生考试自命题科目&lt;固体物理&gt;补考的通知》。本文图片 中国青年网</span><br/><div class="contheight"></div>参与此次考试的考生告诉记者，在23日《固体物理》考试中，试卷内容出现偏差，结果让考生干坐在考场3个小时，后收到学校发来的补考通知，通知加盖该校研究生院公章。<br/><div class="contheight"></div>学生们收到的通知为《电子科技大学关于2019年全国研究生招生考试自命题科目818&lt;固体物理&gt;补考的函》（以下简称《补考函》），《补考函》称，各相关教育考试院、报考点：因我校2019全国研究生招生考试自命题科目818《固体物理》试题内容出现偏差，相关考生该科目将由统一组织补考。补考时间和地点由我校另行通知。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="558" src="http://image.thepaper.cn/www/image/13/451/642.jpg" width="440"/></div><span style="color: rgb(128, 128, 128);">电子科技大学向各相关教育考试院、报考点发布的《补考函》。<br/><div class="contheight"></div></span>记者了解到，12月23日，该校研究生招生网还发布《电子科技大学关于2019年全国硕士研究生招生考试自命题科目&lt;固体物理&gt;补考的通知》（以下简称《通知》）。《通知》称，12月23日下午，电子科技大学2019年全国硕士研究生招生考试自命题科目《固体物理》（科目代码：818），试题内容与考试大纲出现偏差，无法考核考生相应学科的真实水平，考试未能正常进行。我们真诚的向考生致歉，并将认真调查、严肃追究相关人员的责任。根据教育部《2019年全国硕士研究生招生工作管理规定》，经学校研究生招生工作领导小组研究并报上级主管部门审核，决定对该科目组织统一补考。相关考生均需参加本次补考，考试成绩以本次补考为准。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="734" src="http://image.thepaper.cn/www/image/13/451/643.jpg" width="440"/></div><span style="color: rgb(128, 128, 128);">网友爆料截图。</span><br/><div class="contheight"></div>《通知》发布了补考时间：2019年1月6日上午；补考地点：电子科技大学清水河校区。《通知》称，具体安排将通过电话、短信等方式与考生逐一联系，请考生保持通讯畅通。考生参加补考产生的交通费及住宿费按相关标准由学校统一报销。再次向考生表示诚挚的歉意！<br/><div class="contheight"></div>记者致电该校研究生院，相关负责人告诉记者，现在考试院已经拟定了补考方案，现已通过正常渠道递交给省考试院和教育部，事件正在平稳解决。23日，研究生院拟定补考函通过四川省教育考试院，发放给各个考试点，并通过考点通知考生。目前，正在等待教育部批复补考方案，批复后会通知到考生。<br/><div class="contheight"></div>该校党委宣传部相关负责人告诉记者，该事件以学校研究生招生网发布的《通知》为准，其他事宜不作说明，事件后续进展本网将持续关注。<br/><div class="contheight"></div>（原题为：《四川一高校考研试题内容出现偏差 校方：已安排补考》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 考研,补考,偏差,电子科技大学</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768544">
+<div class="nbgbox">
+<a class="zan" contid="2768544" href="javascript:;" onclick="voteCont(this)" praisetimes="21">
+                           20</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 考研</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768544&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768544&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（301）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

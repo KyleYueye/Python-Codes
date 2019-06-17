@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25423">人事风向</a>
+</div>
+<h1 class="news_title">两所湖北省“国内一流大学建设高校”同时迎来新校长</h1>
+<div class="news_about">
+<p>澎湃新闻记者 王俊</p>
+<p>
+							2018-12-25 20:33<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日，湖北大学、长江大学这两所湖北省“国内一流大学建设高校”同时迎来了新校长。<br/><div class="contheight"></div>据湖北大学网站消息，12月25日，湖北大学召开教师干部大会，宣布湖北省委关于湖北大学党委副书记、校长的任免决定：谢红星同志任湖北大学党委副书记、校长；赵凌云同志不再担任湖北大学党委副书记、校长。<br/><div class="contheight"></div>这意味着，赵凌云今年7月调任华中师范大学校长、党委副书记之后，湖北大学近日迎来了新校长谢红星。<br/><div class="contheight"></div>官方简历显示，谢红星出生于1966年3月，1987年7月参加工作，1987年1月入党，博士研究生，教授，历任武汉大学历史系党总支副书记兼副主任、历史文化（旅游）学院副院长、政治与行政学院副院长、驻深圳办事处主任、深圳研究院副院长、校长办公室主任等职务，2007年6月任武汉大学副校长、党委常委，并于2014年6月调任长江大学党委副书记、校长。<br/><div class="contheight"></div>谢红星调任湖北大学校长之际，其原先担任的长江大学校长职务也同步确定了继任人选，即原任武汉科技大学副校长的冯征。<br/><div class="contheight"></div>据长江大学网站消息，12月24日下午，长江大学召开干部教师大会，宣布湖北省委关于冯征任长江大学校长的决定。<br/><div class="contheight"></div>冯征出生于1964年4月，浙江诸暨人，大学学历，教育学硕士学位，1985年7月参加工作，1983年5月加入中国共产党，曾任华中工学院团委副书记，华中理工大学本科一年级学生党总支副书记、光电子工程系党总支副书记、研究生院管理处副处长、研究生院管理处处长、党委研究生工作部部长，华中科技大学党委研究生工作部部长、研究生院管理处处长、电气与电子工程学院党总支书记、研究生院副院长兼学位办公室主任、研究生院常务副院长兼创新研究院副院长、研究生院常务副院长兼创新研究院常务副院长等职务。<br/><div class="contheight"></div>此次履新长江大学之前，冯征担任武汉科技大学副校长、党委常委职务。<br/><div class="contheight"></div>湖北大学和长江大学都是湖北省“国内一流大学建设高校”。<br/><div class="contheight"></div>据湖北大学网站介绍，湖北大学是湖北省人民政府与教育部共建的省属重点综合性大学，也是国家“中西部高校基础能力建设工程”高校、湖北省“国内一流大学建设高校”。<br/><div class="contheight"></div>而长江大学网站则介绍称，长江大学是湖北省属高校中规模最大、学科门类较全的综合性大学，为湖北省重点建设的骨干高校，是国家“中西部高校基础能力建设工程”入选高校，湖北省“国内一流大学建设高校”，也是湖北省人民政府与中国石油天然气集团公司、中国石油化工集团公司、中国海洋石油总公司共建和湖北省人民政府与国家农业部共建的高校。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：钟煜豪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 新校长，湖北高校</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2774084">
+<div class="nbgbox">
+<a class="zan" contid="2774084" href="javascript:;" onclick="voteCont(this)" praisetimes="39">
+                           38</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 湖北人事</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2774084&caid=25423",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2774084&amp;caid=25423" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

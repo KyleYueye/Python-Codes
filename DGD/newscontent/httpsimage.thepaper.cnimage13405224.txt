@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">王毅：中印高级别人文交流机制首次会议达成一系列重要共识</h1>
+<div class="news_about">
+<p>胡晓明、赵旭/新华社</p>
+<p>
+							2018-12-22 14:08<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="382" src="http://image.thepaper.cn/www/image/13/405/246.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">王毅<br/><div class="contheight"></div></span>新华社新德里12月22日消息，当地时间12月21日下午，国务委员兼外长王毅在出席中印媒体高峰论坛开幕式时向中印媒体表示，今天上午，我同斯瓦拉杰外长共同主持了中印高级别人文交流机制首次会议，取得圆满成功。建立这一机制是习近平主席和莫迪总理达成的重要共识，体现了两国领导人对中印人文交流的高度重视和深切期许。我们在今天的会议中共同回顾了中印人文交流进展情况，就下阶段交流合作交换了意见，形成重要共识。<br/><div class="contheight"></div>第一，双方一致认为，中印人文交流利在两国，功在世界。积极开展人文交流，有利于巩固中印友好社会基础，促进中印关系健康发展，助力两国繁荣振兴，并为不同文明和谐共存、共同发展探索新的道路。<br/><div class="contheight"></div>第二，双方一致认为，扩大人文交流正当其时，大有可为。两国领导人的重要共识为我们确立了根本指针，中印悠久的文明交流给我们提供了充足养分，两国和两国关系的快速发展给我们积累了丰厚资源。我们要充分利用这些有利条件，推动中印人文交流大发展。<br/><div class="contheight"></div>第三，双方一致认为，交流活动可以“八仙过海，各显神通”。双方同意将文化交流与文物保护、教育合作与语言教学、旅游合作与人员往来、青年互访与体育交流、媒体交流与舆论环境、学术交流与合作制片等8个领域确定为下阶段重点合作方向。两国对口部门将为此做好具体规划，开展丰富多彩的交流活动。<br/><div class="contheight"></div>第四，双方一致认为，要打造人文交流的精品项目。继续办好智库论坛、中印论坛、香客朝圣、教育合作、青年互访、博物馆交流、媒体高峰论坛、中印联合医疗队等定期项目，同时要打造新的交流品牌，拓展交流领域，不断扩大中印人文交流的知名度和影响力。<br/><div class="contheight"></div>第五，双方一致认为，人文交流要“从人民中来，到人民中去”。我们要积极构建官民并举、多方参与的人文交流新架构，大力开展人气高、接地气、民众喜闻乐见的交流活动，使两国广大民众真正从中受益，吸引更多人士投身中印友好交流的伟大事业。<br/><div class="contheight"></div>第六，双方一致认为，应积极参与上海合作组织、金砖国家、东亚合作、文明古国论坛等多边机制内的人文交流，为促进地区和世界的和平与发展做出积极贡献。<br/><div class="contheight"></div>王毅指出，建立中印高级别人文交流机制，是中印关系史上的重要创举。今天的机制首次会议开好了局、起好了步，取得了开门红。在两国领导人的关心指导下，在双方共同努力下，中印人文交流一定能够乘势而起，迎来一个崭新的大发展，形成两国27亿人民的大交流。<br/><div class="contheight"></div>（原标题《王毅：中印高级别人文交流机制首次会议达成一系列重要共识》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中印交流</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2763975">
+<div class="nbgbox">
+<a class="zan" contid="2763975" href="javascript:;" onclick="voteCont(this)" praisetimes="26">
+                           25</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中印交流</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2763975&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2763975&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

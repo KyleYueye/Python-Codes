@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25455">艺术评论</a>
+</div>
+<h1 class="news_title">上海文艺团体进入“换届季”：美协影协书协等完成换届</h1>
+<div class="news_about">
+<p>澎湃新闻综合报道</p>
+<p>
+							2018-12-07 09:20<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>上海市美术家协会第八次会员代表大会昨天下午召开，选举产生了上海市美术家协会新一届理事87名，漫画家郑辛遥当选上海市美术家协会新一届主席。<br/><div class="contheight"></div>进入11月、12月份以来，上海文联团体会员也进入了“换届季”，上海市书法家协会、上海市摄影家协会、上海市民间文艺家协会等也先后进行新一届理事及主席团成员的换届。</u><br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="352" src="http://image.thepaper.cn/www/image/12/976/597.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">上海市美术家协会第八届主席、副主席成员</span><br/><div class="contheight"></div>上海市美术家协会第八次会员代表大会审议并通过了上海市美术家协会第七届主席施大畏所作的《上海市美术家协会第八次会员代表大会工作报告》，审议并通过了《上海市美术家协会章程》，选举产生了上海市美协新一届理事87名，其中常务理事22名。郑辛遥当选为上海市美术家协会第八届主席，李磊、杨剑平、陈琪、陈翔、殷雄、蒋铁骊当选为副主席（以姓氏笔划为序）。施大畏担任荣誉顾问，张培成、卢辅圣、周长江、俞晓夫、李向阳、汪大伟担任顾问。<br/><div class="contheight"></div>新一届上海市美协主席代表新一届理事会向第七届理事会五年来的辛勤努力和扎实工作致以敬意，同时对美协的未来工作提出了三点设想。一是要服务好广大会员，营造良好创作氛围，树正气、讲公平，给年轻人机会；二是要尊重艺术规律，作品是艺术家的立身之本，美协应百家争鸣，鼓励创作精品力作；第三要关爱好老画家，同时当然也要扶持青年画家成长。 新一届理事会将带领广大美术工作者、带领上海美术界继续深入生活、扎根人民、扎实工作、潜心创作，为更好地繁荣上海美术事业贡献自己的力量 。<br/><div class="contheight"></div>进入11月、12月份以来，上海文联的文艺团体也进入了“换届季”，上海市书法家协会、上海市摄影家协会、上海民间文艺家协会等也先后进行新一届理事会成员的换届。<br/><div class="contheight"></div>12月5日下午，上海电视艺术家协会第七次会员代表大会上，滕俊杰当选为上海电视艺术家协会第七届主席，刘祎呐当选驻会副主席兼秘书长，王丽萍、王建军、王磊卿、印海蓉、杨震华、陈梁、曹可凡当选为副主席。<br/><div class="contheight"></div>12月4日下午，上海电影家协会第八次会员代表大会上，任仲伦当选为第八届主席团主席，赵芸当选为驻会副主席兼秘书长，石川、刘风、郑大圣、速达当选为副主席。<br/><div class="contheight"></div>12月2日下午，上海民间文艺家协会第七次会员代表大会上，李守白当选为上海民间文艺家协会主席，倪里勋当选驻会副主席兼秘书长，张红玉、郑土有、奚小琴、黄景春当选为副主席。<br/><div class="contheight"></div>11月30日下午，上海市摄影家协会第七次会员代表大会上，雍和当选为上海市摄影家协会第七届主席，忻雅华当选驻会副主席兼秘书长，丁和、王杰、毛安吉、刘开明、陈海汶、林路、顾铮、常河当选为副主席。<br/><div class="contheight"></div>11月11日下午，上海市书法家协会第七次会员代表大会上，丁申阳当选为上海市书法家协会第七届主席，潘善助当选驻会副主席兼秘书长，田文惠、李静、张索、张卫东、张伟生、宣家鑫、晁玉奎、徐庆华当选为副主席。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陈若茜<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 上海市美术家协会</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2714843">
+<div class="nbgbox">
+<a class="zan" contid="2714843" href="javascript:;" onclick="voteCont(this)" praisetimes="28">
+                           27</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 文联</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2714843&caid=25455",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2714843&amp;caid=25455" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

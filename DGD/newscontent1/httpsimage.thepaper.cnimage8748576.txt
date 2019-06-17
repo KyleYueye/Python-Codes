@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜去哪吃啥都好友可见，不能让被共享再一发不可收拾</h1>
+<div class="news_about">
+<p>澎湃特约评论员 楚天</p>
+<p>
+							2018-07-09 16:18<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据经济日报报道，大众点评正在大张旗鼓地号召用户使用微信登录，与好友分享动态，并给出了5元奖励。但是这款APP没有告诉用户的是，它将异常执着地帮你跟好友共享信息，关也关不掉。 <br/><div class="contheight"></div>大众点评与微信之间的关系本身就很微妙。大众点评作为一款网上订餐软件，其背后则是不断扩充的业务版图，从在线订餐到在线旅游、再切入到网约车、共享单车等领域。此次，大众点评号召用户使用微信登录，与好友分享动态，或许也是为了进军社交领域，进一步提供具有想象空间的业务模型。 <br/><div class="contheight"></div>不过，大众点评如此做却是强制信息“共享”，它通过奖励、以及几乎让人看不清的“提示”等方式，也是诱导用户使用这一功能。即便有心的用户发现后想更改，大众点评也设置了种种障碍，最大限度阻止用户取消信息共享授权。 <br/><div class="contheight"></div>将社交媒体与大众点评这样的功能性软件捆绑在一起，让用户将信息让渡出来，确实让人郁闷。对用户而言，自己的日常生活轨迹不仅暴露在微信好友以及粉丝眼皮子底下，而且也将“共享”给大众点评及微信。从报道中可以看出，APP可以留存用户的浏览信息、位置信息、旅行计划、常用酒店、租车信息等。经过授权，大众点评还可以向合作伙伴和第三方获得这些信息，也可以向第三方分享这些信息。用户信息变成供企业随意挖掘的富矿，而大众点评与微信才是“共享”用户信息最大的受益者。 <br/><div class="contheight"></div>大数据成为互联网最热门的词汇之一，但大数据一旦滥用，就会成为某些互联网企业侵犯消费者知情权、隐私权的借口。更可怕的是，这些互联网企业不仅仅是满足于获取用户信息，更急迫地榨取其信息所可能衍生的各种商业价值，使其成为企业自身盈利的一部分。如果此类行为不加以制约，用户与企业之间的信息关联就变成一边倒——用户信息在各种平台“裸奔”，企业只顾索取而缺乏足够的保护举措，甚至有意将信息加工后在市场出售流通。如此，用户信息所带来的更多危害性就会爆发。毕竟，用户信息所指向的还有其个人账户、包括许多与之挂钩的财产性账户，比如无线支付账户等。 <br/><div class="contheight"></div>正如专家所指出的，面对愈演愈烈的网络平台肆意获取用户信息现象，监管部门的日常执法机制需同步强化，可以制定惩罚性赔偿措施，鼓励被侵权用户提出集体诉讼，让相关责任方付出沉重的经济代价、司法代价和市场代价。 <br/><div class="contheight"></div>信息强制“共享”是对用户权益的伤害，而公众最不希望看到的是，此类现象没有获得及时制止而一发不可收拾，仅仅依靠消费者自查以及自我维权成本过高，监管部门应当对此发挥“有形之手”的作用，让企业不敢触碰红线，用户才能放心使用各类网上软件功能。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 大众点评 隐私泄露</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2250045">
+<div class="nbgbox">
+<a class="zan" contid="2250045" href="javascript:;" onclick="voteCont(this)" praisetimes="19">
+                           18</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 泄露隐私</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2250045&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2250045&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

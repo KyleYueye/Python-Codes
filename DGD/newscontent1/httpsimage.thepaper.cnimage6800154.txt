@@ -1,0 +1,82 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">中国近400主题公园将有自己的评选体系</h1>
+<div class="news_about">
+<p>刘玉侠</p>
+<p>
+							2018-01-31 16:55<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中国主题公园数量逐年大增，目前已近400家。今后，这些主题公园将有自己的评选体系，其中，游客体验是重要评价因素。<br/><div class="contheight"></div>1月30日，由上海交通大学海外教育学院主题公园研究所与澎湃新闻主办的“2017年度主题公园行业评选活动”正式启动。作为国内首个主题公园行业评选活动，这标志着中国将有自己的主题公园行业评选体系。<br/><div class="contheight"></div>值得一提的是，为了保证票选结果公正公平，该评选不收取任何费用；评选十分注重游客感受，将游客的体验纳为评选的重要参考依据。<br/><div class="contheight"></div>当天，澎湃新闻副总经理黄武锋，携程玩乐事业部总经理方洪峰，执惠文旅（上海）总经理周起屹，上海交通大学海外教育学院企业定制研训中心主任惠晓丹等联合举办方代表作为嘉宾，与上海交通大学海外教育学院副院长、主题公园研究所常务副所长谷来丰博士一起启动了本次评选活动。参加启动仪式的还有部分行业专家以及十多家媒体嘉宾。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="401" src="http://image.thepaper.cn/www/image/6/800/148.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">“2017年度主题公园行业评选活动”启动仪式现场</span><br/><div class="contheight"></div>启动仪式现场，谷来丰为大家介绍了本次活动的背景、目的、意义与要求。他表示，自1955年美国迪士尼乐园诞生开始，主题公园已经问世62年。中国的主题公园起步稍晚，但至今也快30年了，并且在数量上和入园人数上逐步接近美国。<br/><div class="contheight"></div>有数据显示，到目前为止，中国室外大中型主题公园已近400座，基本覆盖了全国大部分省市。未来几年，中国主题公园的数量还会大量增加。但主题公园在高速发展的背后却是良莠不齐，在全国范围内还没有一个对于主题公园权威且客观公正的排行评价。所以，行业亟待这样一个标准和规范出台。<br/><div class="contheight"></div>作为本次评选活动的主办方之一，上海交通大学海外教育主题公园研究所是全国唯一具有高校学术背景、聚集主题公园行业顶尖专家，以及开设全球首个主题公园与景区方向的DBA学位项目和主题公园与景区行业Mini MBA课程项目的学术研究机构。<br/><div class="contheight"></div>据谷来丰介绍，本次主题公园行业评选活动，旨在探索、总结并传播中国主题公园行业发展的智慧，探讨优秀主题公园经营与发展之道，进而推动中国主题公园行业从成长迈向成熟。<br/><div class="contheight"></div>至于评选结果揭晓以后，如何才能够更好的延续和增强评选榜单对行业的影响力，谷来丰说，“研究所将利用丰富的评选经验，为每一个参选的主题公园服务，树立榜单的专业性并拓展榜单的影响力，实现国内主题公园的可持续发展，为行业搭建交流信息与对标学习的战略意义平台，让更多的企业可以去学习参观”。<br/><div class="contheight"></div>据了解，首届中国主题公园评选活动包括榜单设置、评选原则、评选指标、评委阵容、评选流程的内容制定等流程，上海交大海外教育学院主题公园研究所将全程予以专业化的指导保障。颁奖盛典将于2018年4月下旬举行，届时，将评选出“最受游客欢迎主题公园（主奖）、最值得期待的新建主题公园、最佳规划设计主题公园、最佳IP主题公园、最佳运营主题公园、最佳创意设计主题公园、最佳演艺主题公园、最佳衍生商品主题公园、最佳服务主题公园、最佳营销创新主题公园、最具潜力主题公园、最佳文化特色主题公园”12个奖项。</div>
+<div class="go_to_topic">
+<p style="line-height: 20px; margin-bottom:5px">
+<img alt="" src="//file.thepaper.cn/www/v3/img/topic.gif" style="float:left">
+<a href="newsDetail_forward_31964" target="_blank">
+<span class="news_topic">
+                              【专题】专题｜2017年度主题公园行业“星空奖”评选</span>
+</a>
+</img></p></div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<!-- 审稿人字段 -->
+<!-- 空格分隔后的作者列表-->
+<div class="news_editor">责任编辑：李淑平<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="1976917">
+<div class="nbgbox">
+<a class="zan" contid="1976917" href="javascript:;" onclick="voteCont(this)" praisetimes="52">
+                           51</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 主题公园</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=1976917&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=1976917&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

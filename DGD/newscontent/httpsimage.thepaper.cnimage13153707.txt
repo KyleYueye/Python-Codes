@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">土耳其媒体：高铁撞上铁路机车后脱轨，事故致4死43伤</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-13 14:32<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="337" src="http://image.thepaper.cn/www/image/13/153/703.jpg" width="600"/></div>当地时间周四早晨6:30，安卡拉一列高速列车的2节车厢脱轨。土耳其私营电视台NTV援引安卡拉省长瓦西普·沙辛(Vasip Sahin)消息称，事故造成至少4人死亡，43人受伤。<br/><div class="contheight"></div>出事列车原定从安卡拉驶往土耳其中部城市科尼亚，NTV援引土耳其交通运输部的声明称，高速列车在行驶过程中撞上了一辆路控铁路机车（locomotive），而后者不应该出现在那条轨道上。<br/><div class="contheight"></div>路透社援引省长瓦西普·沙辛消息称，事故原因为高速列车撞上了另一辆在轨道上进行检查的铁路机车。<br/><div class="contheight"></div>今日俄罗斯（RT）网站更新的现场视频和照片显示，事故车厢严重受损，现场散落了大量车体碎片。国家救援队（UMKE）和消防人员等赶到现场，正在向受伤的人群提供救助。另据路透社此前报道，高速列车疑似撞上了安卡拉西部Marsandiz火车站附近的一座立交桥，目前残破的车厢仍被困在桥下。<br/><div class="contheight"></div>据悉，事故发生地Marsandiz火车站距离安卡拉主火车站约8公里，不是安卡拉 - 科尼亚高铁的经停站，目前尚不清楚列车在发生碰撞时的行驶速度。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘惠<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 高铁事故,土耳其,</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2734753">
+<div class="nbgbox">
+<a class="zan" contid="2734753" href="javascript:;" onclick="voteCont(this)" praisetimes="13">
+                           12</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 高铁脱轨</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2734753&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2734753&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

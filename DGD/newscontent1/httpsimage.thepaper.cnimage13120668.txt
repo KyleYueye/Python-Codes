@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜洗澡要用APP，这是为学生方便还是给学生添堵？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 刘浏</p>
+<p>
+							2018-12-12 17:32<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2729136" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜洗澡要用APP，这是为学生方便还是给学生添堵？" src="//image1.thepaper.cn/image/13/102/291.gif"/>
+</a>
+<div class="atlas_360_txt">上个大学要用多少APP？新华社调查校园APP泛滥现象<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">12月2日，长沙理工大学发布通知称，因热水系统改造，学生们需要用手机APP进行扫码才能洗澡，引发了不少学生们抱怨。大部分手机本就不防水，带到浴室也不方便。学校随后称，已经重启了刷卡洗澡的功能。 <br/><div class="contheight"></div>刷卡洗澡，简单方便，是高校的普遍做法。这所学校却偏要学生改用APP洗澡，是典型的将简单问题复杂化。如今，问题看似解决了，但其背后却反映了不容忽视的问题——校园APP正在部分高校中泛滥。<br/><div class="contheight"></div>如今，许多大学生都会被要求下载五花八门的APP，选课、体测、评奖评优、成绩查询，甚至洗衣服、吹头发，明明一张“校园卡”或跑个窗口就能解决的事情，硬生生被无数个APP霸占。而打开这些APP呢，低质的交互界面、简易的功能架构、眼花缭乱的产品广告映入眼帘。不好看就算了，用户体验也很差，“热水费充值一次不得少于200元并无法退款”、“跑步记录出问题致使刷锻失败，影响成绩”、“卡顿现象频发”、“系统bug多”……这些问题极大地影响了学生们的校园生活。不仅没有给学生们带来便利，反而徒增许多不必要的麻烦。 <br/><div class="contheight"></div>此外，学生在注册这类APP时需要上传大量个人信息，例如姓名、学号、邮箱、身份证号，甚至家庭住址等等。一旦这些信息通过APP平台，被人以非法手段窃取，还会给学生带来许多未知的、无穷的隐患。<br/><div class="contheight"></div>但现实是，学生往往只能被迫接受。学校一方面通过各种通知强制要求学生下载，另一方面，又将APP的使用与学分、成绩、评优挂钩，甚至直接关乎学生能否顺利毕业。 <br/><div class="contheight"></div>明明多是越用越麻烦的手机应用，学校却还乐此不疲、大张旗鼓地宣传与推广，难免让人怀疑背后是否有着利益驱使。 <br/><div class="contheight"></div>不可否认，学校信息化建设的初衷是好的，但要真正建成“智慧校园”，不是简单开发几个流于形式的APP并让学生使用就足够了。说到底，“智慧校园”还是为学生服务，让学生更好地学习与生活。一个好的校园APP，应当尽量将所有服务都整合进同一个平台，学生在此可以“一站式”完成信息查询、缴费、证明办理、校医挂号等一系列校园服务，让原本需要在校园各部门间跑腿的事可以直接通过网上申请与办理，这才是真正给学生们带来便利。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 校园APP</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2731324">
+<div class="nbgbox">
+<a class="zan" contid="2731324" href="javascript:;" onclick="voteCont(this)" praisetimes="255">
+                           254</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 校园APP</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2731324&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2731324&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（69）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

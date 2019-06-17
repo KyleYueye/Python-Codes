@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">时装设计百花齐放的背后是面料的创新</h1>
+<div class="news_about">
+<p>苏菲</p>
+<p>
+							2018-03-01 16:49<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>随着几大世界时装周相继开幕，各种创新设计花样百出吸引了大家的注意力。而时装设计创新的背后是面料在功能和设计上的不断革新。</u><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/6/774/760.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">决赛作品</span><br/><div class="contheight"></div>近日，在佛罗伦萨Stazione Leopolda举办的Pitti Uomo男装展上，2017/18国际羊毛标志大奖全球总决赛举行，又有设计师推出创新设计。其中，不列颠群岛赛区的Matthew Miller与印度及中东赛区的Bodice分别摘下男装和女装总冠军，来自美国赛区的DYNE成为首届创新大奖得主。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="899" src="http://image.thepaper.cn/www/image/6/774/762.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">男装组冠军作品</span><br/><div class="contheight"></div>据悉，男装组冠军Matthew Miller根据“型随行动”理念，给衣物添加了能应对不同环境的多功能元素，比如在服装腰带设计上添加了便利的元素，在温暖的气候下，服装不需要穿的时候可以变为一件配饰。同时，Miller丰富了羊毛处理方式，包括革新性地创作出防水面料，同时摒弃塑料固件，以废旧大理石之类的回收材料取而代之。此外，Matthew Miller还使用17.5微米至20.5微米的澳大利亚美丽诺羊毛进行创作，其多层次的系列彰显出品牌的设计哲学，延伸了每一件单品的固有个性。<br/><div class="contheight"></div> <div style="text-align:center;"><img alt="" height="899" src="http://image.thepaper.cn/www/image/6/774/763.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">女装组冠军Bodice与其作品</span><br/><div class="contheight"></div>Bodice获得了本次女装组总冠军，她在生产技术与制造工艺上的突出表现受到肯定。Ruchika Sachdeva与手工编织者进行合作，并鼓励他们在传统工艺上采用非传统手段，将澳大利亚美丽诺羊毛和当地匠人们的手艺进行融合，创造出优雅的系列作品。Bodice同时与位于印度中部Sawantwadi的Bio-Dye作坊合作，以获得取自自然且亲和肌肤的天然染料，为作品增添最为纯正的色彩。海军蓝和森林绿的色彩混合粉色和绿色粉彩，以此致敬古老的Ayurveda习俗。为完善品牌的整体理念，Bodice更选用包括椰子壳、贝壳和木头在内的再生原料制作纽扣。<br/><div class="contheight"></div>为表彰创新设计，由Future Tech Lab赞助的首届创新大奖颁予了DYNE。从上世纪80年代学习滑雪板时所穿着的飞行员夹克所获得的灵感，DYNE的设计师Christopher Bevans打造了一身富含高科技的滑雪装备，将NFC芯片植入羊毛防水夹克中，使得品牌能够在穿着者遇到雪崩或者极端情况时进行定位追踪。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李淑平<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="1970165">
+<div class="nbgbox">
+<a class="zan" contid="1970165" href="javascript:;" onclick="voteCont(this)" praisetimes="18">
+                           17</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 时装</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=1970165&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=1970165&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

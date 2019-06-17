@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">胡泽君：管控网络贷款风险，P2P网贷机构已暂停校园贷</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林平</p>
+<p>
+							2018-12-24 14:36<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月24日，受国务院委托，审计署审计长胡泽君在十三届全国人大常委会第七次会议上报告有关2017年度中央预算执行和其他财政收支审计查出问题的整改情况。<br/><div class="contheight"></div>谈到“三大攻坚战”相关审计查出问题的整改情况时，胡泽君列出了包括防范化解重大风险、金融风险防控、基本养老保险基金支付风险防控等三方面内容。<br/><div class="contheight"></div>在金融风险防控问题上，报告指出，对国有银行违规向房地产行业提供融资和个人消费贷款流入楼市股市问题，住房城乡建设部、人民银行、银保监会等部门开展专项整治，有关金融机构通过收回贷款、调账等整改219.83亿元，其余141.04亿元已制定清收计划。<br/><div class="contheight"></div>对期限错配风险问题，有关金融机构依照资管新规调整业务模式，优化产品结构，定期开展流动性压力测试，压降错配程度。报告指出，对网络贷款风险管控问题，重庆市将注册地与经营地分离的机构落地问题纳入整治重点，涉及的12家小额网贷公司均已落地重庆；互联网金融风险专项整治工作领导小组、银保监会要求限期整改无资质小贷公司校园贷问题，开展P2P网络借贷机构合规检查，P2P网贷机构已暂停校园贷。 <br/><div class="contheight"></div>在关于防范化解重大风险问题上，胡泽君指出，一是地方政府债务风险防控问题。对一些地区违规举债或提供担保问题，3个地区通过财政资金偿还或项目市场化运作等纠正14.32亿元。对政府债券筹集资金闲置问题，8个地区已拨付15.95亿元，其他地区正加快项目建设。<br/><div class="contheight"></div>此外，对一些地方落实债务管理要求不到位问题，4个地区通过调整融资模式、补充增信措施、更换融资产品等完善后续融资方式，保障重点项目建设资金接续，其他地区正与债权人协商解决；5个地区已完成政府融资担保情况摸排，其他地区正在推进统计摸排工作。<br/><div class="contheight"></div>“目前，各地正在按照财政部统一部署，健全政府债务台账制度，做好债务统计监测和报告工作。”胡泽君说。<br/><div class="contheight"></div>报告还指出了有关基本养老保险基金支付风险防控的问题。胡泽君表示，对一些地方省级统筹不到位问题，4个省出台了省级调剂金制度或提高省级调剂金比例，2个省加大了财政补助力度。对占用财政资金等弥补基金缺口现象，有关地方通过归还原资金渠道、补拨财政资金等整改。对少缴或欠缴保费问题，3个省补缴3171.36万元。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：段彦超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 审计,网络贷款,校园贷</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768631">
+<div class="nbgbox">
+<a class="zan" contid="2768631" href="javascript:;" onclick="voteCont(this)" praisetimes="26">
+                           25</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 审计署</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768631&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768631&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

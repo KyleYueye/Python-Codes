@@ -1,0 +1,80 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">新表试戴| 用GUCCI独有的设计语言，写一首有趣的小诗</h1>
+<div class="news_about">
+<p>文/钟天阳 图/王辰</p>
+<p>
+							2018-03-27 10:13<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">不仅时尚的奢侈品市场在谈消费升级与千禧一代，整个巴塞尔表展也在讨论这波消费热潮与新兴消费势力。而当人们在讨论这两个关键词时，一定会谈到GUCCI近年来风格独具的设计和得益于此的惊人业绩增长。新的一年，GUCCI延续这股风潮，在腕表新品中推出多款极具风格特色的腕表，G-Timeless系列便是其中代表。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="453" src="http://image.thepaper.cn/www/image/7/76/951.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">青年演员王大陆现身巴塞尔表展演绎黑色蜜蜂款G-Timeless系列。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/7/76/948.jpg" width="600"/></div>全新推出的G-Timeless系列，用GUCC风格独具的设计语言吸引了无数目光。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/7/76/949.jpg" width="600"/></div>表背印刻了GUCCI标识，以及风格独具的手绘猫头图案。</span><br/><div class="contheight"></div>全新推出的G-Timeless系列，腕表中性式样设计，将休闲瑞士腕表风格与品牌诗意美学设计融为一体，搭配源于自然的独特符号，营造出现代设计风格。其中某些腕表首次配备抛光金色PVD镀层表后盖，刻有品牌标志性动物图案之一：蜜蜂或虎头。表带上的插针式表扣以表壳相同材料制成，表带专门针对不同手腕尺寸设计，长度150毫米到192毫米——不论男女都可以上手。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/7/76/947.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">G-Timeless系列腕表上手效果十分亮眼。</span><br/><div class="contheight"></div>腕表采用白色皮革表面和相匹配的表带，更显年轻人特有的清新感。表面配有栩栩如生的飞蛾图案，与黄金剑形指针、Gucci标识和12点钟位置数字25相得益彰。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="404" src="http://image.thepaper.cn/www/image/7/76/950.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">此次G-Timeless系列中，另有黑色皮革搭配蜜蜂图案，以及驼色皮革搭配蜜蜂图案的款式。</span></div>
+<div class="go_to_topic">
+<p style="line-height: 20px; margin-bottom:5px">
+<img alt="" src="//file.thepaper.cn/www/v3/img/topic.gif" style="float:left">
+<a href="newsDetail_forward_31826" target="_blank">
+<span class="news_topic">
+                              【专题】专题｜直击巴塞尔2018</span>
+</a>
+</img></p></div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘嘉郦<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2042531">
+<div class="nbgbox">
+<a class="zan" contid="2042531" href="javascript:;" onclick="voteCont(this)" praisetimes="6">
+                           5</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 巴塞尔表展</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2042531&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2042531&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

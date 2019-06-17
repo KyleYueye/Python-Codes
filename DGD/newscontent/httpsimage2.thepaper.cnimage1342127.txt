@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">反对特朗普从叙利亚撤军，美国又一官员宣布辞职</h1>
+<div class="news_about">
+<p>朱箫/海外网</p>
+<p>
+							2018-12-23 06:31<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><span style="color: rgb(128, 128, 128);"><div style="text-align:center;"><img alt="" height="381" src="http://image.thepaper.cn/www/image/13/421/33.png" width="600"/></div>布雷特·麦格克 本文图片均为 海外网 图</span><br/><div class="contheight"></div>海外网12月23日消息，据美联社12月22日消息，美国分管协调打击极端组织“伊斯兰国”（IS）联合行动的美国总统特使布雷特·麦格克（Brett McGurk）宣布辞职，以抗议美国总统唐纳德·特朗普突然决定从叙利亚撤军的决定。此前，美国国防部长吉姆·马蒂斯已被曝将于明年2月底去职。<br/><div class="contheight"></div>报道称，就在11天前，麦格克还说，认为“伊斯兰国”已被消灭是“鲁莽的”，因此让美国军队回国是不明智的。他决定加快计划于明年2月中旬辞职。<br/><div class="contheight"></div>据悉，麦格克于2015年被美国前总统奥巴马任命，特朗普政府时留任。他在辞职信中表示，“这些武装分子正在逃亡，但尚未被击败，过早地从叙利亚撤出美国军队将创造滋生IS的条件。”他还提到，加快打击“伊斯兰国”的行动取得了进展，但这项工作并没有完成。<br/><div class="contheight"></div><span style="color: rgb(128, 128, 128);"><div style="text-align:center;"><img alt="" height="397" src="http://image.thepaper.cn/www/image/13/421/34.png" width="600"/></div>特朗普</span><br/><div class="contheight"></div>当地时间19日，《华盛顿邮报》援引美国国防官员消息称，特朗普政府将从叙利亚撤出全部部队，含2000多名士兵，并结束针对“伊斯兰国”的长期地面行动。随后，特朗普在推特上发文，“我们已经打败了‘伊斯兰国’，这是在我总统任期内，美国军队在那待着的唯一理由。”<br/><div class="contheight"></div>当地时间20日，美国总统特朗普在推特上宣布，国防部长马蒂斯将于明年2月底去职。美国舆论普遍认为，马蒂斯去职的直接导火索是特朗普19日突然宣布从叙利亚撤军。美国军方官员20日表示，已接到从阿富汗撤回半数兵力的命令。据悉，撤军决定事先并未通报盟国。包括马蒂斯在内的美国政、军人士都反对特朗普的决定，他们认为特朗普所说的已在叙利亚战胜“伊斯兰国”并不属实。<br/><div class="contheight"></div>（原题为《美国又一官员辞职！反对特朗普从叙利亚撤军》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 特朗普,撤军,辞职</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2765381">
+<div class="nbgbox">
+<a class="zan" contid="2765381" href="javascript:;" onclick="voteCont(this)" praisetimes="69">
+                           68</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美军撤出叙利亚</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2765381&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2765381&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（34）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

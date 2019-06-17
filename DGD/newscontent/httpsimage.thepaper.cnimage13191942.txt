@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">外交部回应美“对等进入西藏法案”：罔顾事实，干涉中国内政</h1>
+<div class="news_about">
+<p>外交部网站</p>
+<p>
+							2018-12-14 16:14<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">外交部网站12月14日消息，外交部发言人陆慷主持例行记者会。<br/><div class="contheight"></div><strong>问：美国国会通过法案要求允许美国外交官、记者和游客进入西藏。如果以上人士无法进入西藏，美国国会希望拒绝中国官员进入美国。你对此有何评论？<br/><div class="contheight"></div>答：</strong>美国国会通过的有关法案罔顾事实，粗暴干涉中国内政，违反国际关系基本准则，中方对此坚决反对，并已向美方提出严正交涉。<br/><div class="contheight"></div>西藏事务纯属中国内政，不容其他国家干涉。外国人员进入西藏，可以通过正常渠道办理。事实上，每年都有大量中外人士到西藏访问、旅游和经商。就拿美国来说，自2015年以来就有将近4万人次的美国人士到西藏，这其中就包括美国会众院少数党领袖、参议员等。这些都充分证明，美国会法案对中方的指责完全站不住脚，也是中国政府和人民绝不能接受的。<br/><div class="contheight"></div>我们敦促美国行政部门立即采取有效措施，阻止该案签署成法，以免严重损害中美关系和两国在重要领域的合作。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 西藏</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2739502">
+<div class="nbgbox">
+<a class="zan" contid="2739502" href="javascript:;" onclick="voteCont(this)" praisetimes="229">
+                           228</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 西藏</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2739502&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2739502&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（97）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

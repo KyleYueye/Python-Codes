@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜乘客突发哮喘飞机返航：急救药为何不能带上飞机？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 朱昌俊</p>
+<p>
+							2018-08-30 13:31<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2390958" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜乘客突发哮喘飞机返航：急救药为何不能带上飞机？" src="//image2.thepaper.cn/image/9/996/338.jpg"/>
+</a>
+<div class="atlas_360_txt">武汉飞福州航班因乘客突发哮喘返航：急救药安检时被没收<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">8月28日，西部航空PN6219航班在武汉天河机场起飞后不久返航，原因是机上一名24岁乘客突发哮喘。原来，乘客携带的哮喘急救药在安检时因属于喷剂被没收了，而飞机上又未配备此类药物。<br/><div class="contheight"></div>如果不是这则新闻，恐怕很多人都不知道，原来救命药也不一定能够带上飞机。虽然这名患者很幸运，遇到了作为专业医生的乘客施救，在飞机紧急返航后挽回了生命。不过，这个带有很大侥幸色彩的紧急事件还是让人捏了一把汗，有必要对当前飞机安检规则和机上急救药品配备有更多审视。正如施救的苏医生在朋友圈里的感慨：当时机上备有哮喘急救药就好了。他提议，飞机上应常备8类常用急救药品。 <br/><div class="contheight"></div>以哮喘病为例，有数据显示，中国约有3000万哮喘患者，这之中有相当一部分都需要随身携带急救药品。这类乘客坐飞机，本身就存在一定的健康隐患，若不能携带急救药上机，等于是进一步放大风险。民航安检对液体、凝胶及喷雾类物品，执行严格的标准，这是好事。只是因为药品的特殊性，在附有医生处方或医院证明的前提下，理应获得豁免。 <br/><div class="contheight"></div>这次事件中，乘客的哮喘急救药在安检时被没收，到底是因为没有出具医生处方或医院证明，还是其他原因，尚未公布。但这种情况可能给乘客增加的风险，是显而易见的。对于救命药品的安检规则执行，能否通过加强现场验证，给予一定的灵活空间，有必要考虑。<br/><div class="contheight"></div>其次，还涉及到对药品携带相关规则的宣传和普及。很多时候，乘客未按规定携带药品，可能是对于规则的不熟悉。乘客固然需要提前做好“功课”，但民航作为服务行业，对于相关规则的告知，还是有必要加大力度，避免因为信息不对称，既增加管理成本，也给乘客造成困扰。信息的传达不仅是在航空公司的官网挂出来那么简单，更应考虑到乘客的实际需求，在购票时通过短信、在机场显著位置标注等多渠道传导给乘客。<br/><div class="contheight"></div>另外，诚如当事医生提醒的，飞机上急救药品和设备的配备，也该有更多重视。报道提及，当时乘务员提供的急救包里的药物只有阿司匹林、硝酸甘油、肾上腺素注射液等寥寥数种，比较关键的哮喘急救药则没有。这个方面，过去是有过惨痛教训的。2016年7月，一名85岁老人在飞机备降后发生意外死亡。其中责任争议很大的一点，就是被指老人出现病症后，由于飞机上缺乏急救药品和设备，延误了救治时间。 <br/><div class="contheight"></div>目前有关飞机上急救药品及配备种类、数量，民航局是有相关规定的。只是，具体执行得怎样，随着时间的推移，以及老年乘客的增多，标准是不是要根据需要修改、优化，能否吸取更多的医学专业意见，值得正视。<br/><div class="contheight"></div>航空安全重于泰山，患者生命也非儿戏。在飞机上已可以使用手机的今天，作为更攸关乘客安全甚至生命的机上急救服务，没有理由不做得更好。无论从法律、规则的角度，还是从航空公司提升服务的角度，都有必要作出适当的改进。<audio controls="controls" style="display: none;"></audio></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 飞机急救药品</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2393942">
+<div class="nbgbox">
+<a class="zan" contid="2393942" href="javascript:;" onclick="voteCont(this)" praisetimes="181">
+                           180</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 飞机急救药品</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2393942&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2393942&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（34）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

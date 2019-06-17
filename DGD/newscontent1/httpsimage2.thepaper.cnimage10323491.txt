@@ -1,0 +1,77 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评丨一个这么假的“史润龙”怎么能畅行无阻</h1>
+<div class="news_about">
+<p>澎湃评论员  陈良飞</p>
+<p>
+							2018-09-10 17:48<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">最近有点火的“史润龙”事件真相逐渐浮现。<br/><div class="contheight"></div>据济南公安市中区分局官方微博@济南公安市中区分局 9月10日下午通报，网民史某龙使用“山东省互联网经济研究中心”（经核查此单位不存在）处长等头衔，自称“扶贫英雄”，并假冒新华网名义发布“新华网评”。为满足个人虚荣心，史某龙编造了“山东省互联网经济研究中心处长”等各种头衔，找他人代写文章，PS图片虚构场景，并在网上进行发布，造成恶劣社会影响。<br/><div class="contheight"></div>通报还公布了史某龙的部分个人信息：史某龙，男，2001年8月出生，山东济南人，初中肄业。<br/><div class="contheight"></div>通报里的“史某龙”就是近日在舆论场上大名鼎鼎的“史润龙”。<br/><div class="contheight"></div>个别网民编造虚假信息、编造各类假头衔、PS图片虚构场景，这些都不是互联网上的新鲜事。“史润龙”事件背后的真问题是：为什么这些假得不能再假的文章、图片能够在正规的媒体网站上通行无阻？<br/><div class="contheight"></div>澎湃新闻是最早介入“史润龙”事件调查的媒体。随着调查的深入和发布稿件点名媒体的增多，越来越多涉及“史润龙”事件的媒体网站也大吐苦水。<br/><div class="contheight"></div>有的媒体网站称，涉及“史润龙”的稿件是后台程序自动抓取；有的媒体网站称，涉及“史润龙”的稿件转载自其他正规媒体网站；还有的媒体网站称，涉及“史润龙”的稿件发布在读者来稿栏目，不属于自己发布的报道……这些媒体网站都是拥有互联网信息采编或者转载资质的新闻单位，却任由这些假得不能再假的文字内容、图片畅行无阻，以上这些难道能成为借口，难道不是我们的审核出了问题？谁在为报道质检、把关？<br/><div class="contheight"></div>再过些日子来看，“史润龙”事件不过就是一个笑话。不过，在这一事件上，我们很多媒体网站的表现不及格。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2420994" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">谁是“史润龙”？新华网：有人冒名发文章，已第一时间举报</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2425153" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">涟源官方回应：荷塘镇没查到“史润龙”其人，报道系移花接木</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2425650" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">济南警方通报：网民史某龙满足虚荣心编造头衔，造成恶劣影响</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 史润龙</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2426266">
+<div class="nbgbox">
+<a class="zan" contid="2426266" href="javascript:;" onclick="voteCont(this)" praisetimes="143">
+                           142</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 史润龙</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2426266&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2426266&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（87）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜要么流产要么受处分，“怀孕审批”的土政策该叫停了</h1>
+<div class="news_about">
+<p>澎湃特约评论员 柯锐</p>
+<p>
+							2018-11-20 16:55<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2651847" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜要么流产要么受处分，“怀孕审批”的土政策该叫停了" src="//image2.thepaper.cn/image/12/410/144.gif"/>
+</a>
+<div class="atlas_360_txt">女职工“违规怀孕”要处分？河北一银行怀孕审批制被工会喊停<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">在石家庄一家大型商业银行，女职工生育，无论头胎、二胎都要向单位申请。如果没被单位批准就怀孕，要么实施医学流产，要么接受处分。（11月20日《工人日报》）<br/><div class="contheight"></div>虽然在当地工会的介入下，这一奇葩规定已废除，被侵权女职工的工作和待遇也已得到恢复。但仍要追问的是，“要么流产，要么接受处分”这一违法且有违人性的制度，为何能够在一家大型商业银行出台并得以实施？<br/><div class="contheight"></div>生育是女职工作为自然人与生俱来的权利，生育权的核心是自主决定生育问题，也就是女职工有生育的自由，也有不生育的自由；在不违反相关法律法规的前提下，女职工有自由地决定生育子女的时间、数量和间隔的权利。这个权利，作为工作单位的银行，是无权干涉的。《女职工劳动保护特别规定》明确规定：用人单位不得因女职工怀孕、生育、哺乳而降低其工资、予以辞退、与其解除劳动或者聘用合同。 <br/><div class="contheight"></div>众所周知，社会老龄化现象正日趋明显，我国自2015年实施全面二孩政策以来，鼓励生育的政策导向日趋清晰，各级政府和相关部门都在完善措施，以满足民众的生育意愿。作为一家大型商业银行，理应遵守法律法规、响应国家生育政策，可是这家银行却视法律与规定如空气，自行搞一套“计划生育”制度，甚至对几名没有经过批准就怀孕的女职工进行了处分，可谓法盲，实力演绎“在违法边缘试探”。<br/><div class="contheight"></div>从感性上说，这种对职工毫无人文关怀的制度，必然打击员工工作热情，更不必说影响员工对单位的归属感、对工作的认同感，而这样员工组成的单位，又何谈竞争力与企业形象？可以说，在法、理、情上，这家银行都输得很彻底。<br/><div class="contheight"></div>值得反思的是，此类违法“土政策”时有冒头。上月，某大型集团公司创办的幼儿园，对申请生育二胎的女职工进行综合考评打分，并根据得分的高低排队，确定怀孕顺序，违反规定者按自动辞职处理。一名女职工“插队”怀孕，被单位解除劳动合同。为此，这名女职工要求单位支付两倍工资差额并对其进行赔偿。最终，法院支持了这位女职工的维权诉求。 <br/><div class="contheight"></div>河北这家银行的做法和幼儿园的做法异曲同工，原因可能也相似，就是为了破解女职工扎堆生育问题，减轻单位的人手压力。这种原因说出来似乎也站得上台面，但是，无论如何，企业的利益不能以牺牲、干预职工的生育权利为代价。<br/><div class="contheight"></div>用人单位要做的是尽早规划，合理安排人员配置与工作进度，将影响降到最低，而不是把压力完全推给女职工，想方设法阻碍她们生育。 <br/><div class="contheight"></div>不合理的紧缩性生育政策带来的危害有目共睹。有必要重申，任何企业和单位不得违法践踏和剥夺女职工自由自主的生育权。同时，鉴于女职工和用人单位权力的不对等，有可能使得不合理的“土政策”在偷偷违法施行，工会等部门应加强监督管理，女职工也要强化维权意识，一旦遭遇不公，勇敢站出来，坚定维权。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 怀孕审批</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2653550">
+<div class="nbgbox">
+<a class="zan" contid="2653550" href="javascript:;" onclick="voteCont(this)" praisetimes="76">
+                           75</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 怀孕申请</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2653550&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2653550&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（94）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

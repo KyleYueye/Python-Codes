@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25437">牛市点线面</a>
+</div>
+<h1 class="news_title">上交所债券质押式回购交易时间将延长：1月12日全网测试</h1>
+<div class="news_about">
+<p>澎湃新闻记者 刘歆宇</p>
+<p>
+							2019-01-10 21:22<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">澎湃新闻记者获悉，上海证券交易所将在本周六（1月12日）进行债券质押式回购延长交易时间全网测试。未来，上交所债券质押式回购（俗称“逆回购”）将延长到15时30分收盘。<br/><div class="contheight"></div>据了解，为迎接债券质押式回购交易时间延长，此前上交所已经组织各证券公司和基金公司于1月5日进行过一次同样主题的测试，并在去年12月22日进行过国债质押式回购延长闭市时间业务全网测试。<br/><div class="contheight"></div>这份向上交所会员单位发布的通知中写道，为保障债券质押式回购延长交易时间的顺利平稳实施，提醒市场各方做好业务和技术应对，上海证券交易所和中国证券登记结算有限责任公司上海分公司定于2019年1月12日（周六）组织全市场参与者开展全网测试，模拟在集合竞价、连续竞价、延长交易不同时段股票、基金、债券、债券质押式回购实时交易的申报和撤单、资金前端控制、行情接口文件验证等业务处理过程。<br/><div class="contheight"></div>测试内容包括三个方面。<br/><div class="contheight"></div>一是在集合竞价、连续竞价、延长交易的不同时段，股票、基金、债券、债券质押式回购实时交易的申报、撤单；<br/><div class="contheight"></div>二是在集合竞价、连续竞价、延长交易的不同时段，资金前端控制自设额度申报；<br/><div class="contheight"></div>三是行情接口文件验证。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="221" src="http://image.thepaper.cn/www/image/14/128/794.png" width="562"/></div>此前，上交所曾在2018年12月6日发布通知，宣布计划延长债券质押式回购交易时间，同时保持现有交易机制和交易模式，股票、基金、债券现券等其他品种的交易时间保持不变。调整后，每个交易日的9:15至9:25为债券质押式回购的开盘集合竞价时间，9:30至11:30、13:00至15:30为债券质押式回购的连续竞价时间。债券质押式回购的代码段为204***。<br/><div class="contheight"></div>上交所要求各会员单位、信息服务商及相关市场参与人于2019年1月底前完成系统改造，做好相关业务、技术准备工作。<br/><div class="contheight"></div>交易时间的正式调整开始日期还没有最终公布，不过，从上述时间节点要求，以及近期的密集测试来看，相信很快将会落地。<br/><div class="contheight"></div>目前，上交所债券质押式回购按照期限分为1天、2天、3天、4天、7天、14天、28天、91天和182天共九个品种，证券交易代码分别为204001、204002、204003、204004、204007、204014、204028、204091和204182，证券简称分别为GC001、GC002、GC003、GC004、GC007、GC014、GC028、GC091、GC182。<br/><div class="contheight"></div>不少投资者将逆回购作为短期理财的一项工具。根据上交所规定，个人等社会公众投资者可将暂时闲置的资金通过交易所回购市场拆借出去，到期获取一定的收益，不过，个人投资者只可以作为逆回购方通过债券质押式回购融出资金，而不能作为正回购方融入资金。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王杰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2838036">
+<div class="nbgbox">
+<a class="zan" contid="2838036" href="javascript:;" onclick="voteCont(this)" praisetimes="38">
+                           37</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 上交所</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2838036&caid=25437",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2838036&amp;caid=25437" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

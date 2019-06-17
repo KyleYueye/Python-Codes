@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">湖南怀化：让违法违规地产开发付出惨重代价，“杀猴给猴看”</h1>
+<div class="news_about">
+<p>怀化新闻网</p>
+<p>
+							2018-12-22 22:44<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月21日上午，湖南省政协副主席、怀化市委书记彭国甫主持召开专题会议，调度解决城区房地产开发历史遗留问题及停建烂尾楼、村民安置等问题，强调要严明政治纪律，着力抓好巡视问题整改，努力提高人民群众获得感和满意度。市领导邹文辉、王行水、邓小建出席。<br/><div class="contheight"></div>“今天调度的这些巡视反馈问题，事关老百姓获得感、满意度。要坚持以问题整改的力度、效度来检验党员干部政治是否过硬、对党是否忠诚、本领是否高强、工作是否担当，确保彻底整改到位。”会上，彭国甫就有关问题逐一调度、当场交办，明确工作要求、责任单位、责任人及完成时限。他强调，要及时回应群众呼声，依法科学、有序有效解决房地产开发历史遗留问题，进一步净化规范怀化的房地产市场。领导干部要强化党性锻炼，从政治的高度来审视、反思工作，把“四个意识”“两个坚决维护”“三个坚决”落实为具体行动；要摸着良心干事，将心比心、以心换心，多站在老百姓的立场，设身处地为老百姓着想；要具体深入细致抓工作，确保各项举措精准精细可操作。<br/><div class="contheight"></div>彭国甫强调，解决历史遗留问题不能简单处理，既要守住法律底线、政策底线，又要从实际出发，历史地、具体地分析研究、化解矛盾、解决问题。要坚持以维护老百姓合法权益为核心，用政治、法律、行政、经济手段维护老百姓合法权益，纠正和严惩侵害人民群众合法权益的行为。政府要当好“裁判员”不当“运动员”，强化支持、引导、协调、监管职责，做到总揽不包揽，坚持用法治思维、经济手段、市场机制解决问题。要坚持权利与义务相统一，既坚决维护群众合法权益，又教育引导群众履行相应义务。<br/><div class="contheight"></div>彭国甫强调，要通过严查违法违规行为来净化、规范房地产开发市场，对于违法违规、侵害老百姓和业主合法权益的行为，属于历史遗留问题的，要列出时间表、责令限期整改，务必限时办结房地产办证和村民安置区建设问题。限期内不主动整改到位的，由纪委监委、公安、法院、住建、国土、规划等部门联合执法，用法律手段、行政手段、经济手段予以严惩，将其纳入国家诚信体系和怀化工程项目承建的“黑名单”，让违法违规行为付出惨重代价，做到“杀猴给猴看”，坚决把歪风邪气刹下去。要严厉打击房地产领域涉黑涉恶势力，开展史上最严违法违规建筑专项整治行动，深挖严查严处幕后“保护伞”，坚决做到斩草除根。<br/><div class="contheight"></div>（原标题为《彭国甫专题调度解决城区房地产开发历史遗留问题：严明政治纪律抓好巡视问题整改努力提高人民群众获得感和满意度》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：钟煜豪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 城区房地产，开发商</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2764745">
+<div class="nbgbox">
+<a class="zan" contid="2764745" href="javascript:;" onclick="voteCont(this)" praisetimes="111">
+                           110</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 烂尾楼</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2764745&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2764745&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

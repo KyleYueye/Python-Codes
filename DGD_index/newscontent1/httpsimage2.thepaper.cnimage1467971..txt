@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27234">科技湃</a>
+</div>
+<h1 class="news_title">浙大研发高韧性混凝土，拉伸变形能力为普通混凝土800倍</h1>
+<div class="news_about">
+<p>朱涵/新华社</p>
+<p>
+							2019-01-09 11:27<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/14/67/985.jpeg" width="600"/></div><span style="color: rgb(128, 128, 128);">徐世烺（中）团队。 浙江新闻客户端<br/><div class="contheight"></div></span>新华社杭州1月9日电 浙江大学建筑工程学院徐世烺教授团队研发出一种高韧性纤维混凝土材料，具有高韧、控裂、耐久的特性，拉伸变形能力可高达普通混凝土的800倍。这项成果于8日获2018年国家技术发明奖二等奖。<br/><div class="contheight"></div>“脆性大、易开裂是普通混凝土的天然属性。”徐世烺说，混凝土广泛应用于基础设施建设，中国的用量更是高居世界前列，混凝土裂缝会降低大型工程寿命，造成大量经济损失，甚至引发重大安全事故。<br/><div class="contheight"></div>“我们的发明从材料性能方面彻底解决了混凝土强而不韧、脆性易裂的根本缺陷。”徐世烺介绍，高韧性混凝土极限抗拉应变最高可达8.4%，这个数值比普通混凝土高出800倍。与普通砂浆、混凝土容易脆性断裂的特性不同，高韧性混凝土最大裂缝宽度远小于0.1mm，满足严酷条件下的耐腐蚀耐久性要求。<br/><div class="contheight"></div>科研团队还对包括材料力学性能、耐久性能和结构性能在内的指标进行大规模系统性测试。结果显示，高韧性混凝土变形能力和强度综合性指标比国际上最好的数据分别超出70%和60%。<br/><div class="contheight"></div>目前，高韧性混凝土已经实现规模化工业化生产，并在浙江新岭隧道、常山港特大桥等重大基础设施项目上得到应用。<br/><div class="contheight"></div>“该成果形成了具有重大创新价值的技术体系，具有自主知识产权，经过了工程验证。”中国工程院院士、东南大学教授缪昌文说，提高混凝土的抗裂能力和使用性能，能够进一步延长混凝土建筑物，尤其是重大工程的使用寿命。<br/><div class="contheight"></div>据了解，徐世烺团队已经开始对高韧性纤维混凝土材料及其复合结构的冲击动力性能开展探索研究，以期为重大工程结构的安全服役提供新的科技成果支撑。<br/><div class="contheight"></div>(原标题 中国科学家研发高韧性混凝土 可弯曲拉伸)</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张唯<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831137">
+<div class="nbgbox">
+<a class="zan" contid="2831137" href="javascript:;" onclick="voteCont(this)" praisetimes="237">
+                           236</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 高韧性纤维混凝土</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831137&caid=27234",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831137&amp;caid=27234" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

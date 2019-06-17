@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">人类发现迄今距离太阳最远太阳系天体，绕日一周或需一千多年</h1>
+<div class="news_about">
+<p>澎湃新闻记者 李佩</p>
+<p>
+							2018-12-18 22:40<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">科学家们观测到了迄今为止在太阳系中离太阳距离最远的天体，这个天体与太阳的距离是地球与太阳距离的100多倍。<br/><div class="contheight"></div>据美国有线电视新闻网（CNN）12月18日报道，国际天文学联合会(IAU)国际小行星中心周一宣布了这一发现，并将这一天体命名为“2018 VG18”，而发现它的研究人员则给它取了一个昵称“Farout”(美国俚语，意为“遥远的”)。<br/><div class="contheight"></div>研究人员指出，“Farout”是一颗直径超过310英里（约496公里）的矮行星，颜色呈粉红色，粉色通常与富含冰的物体有关。 研究人员称，由于距离地球太远，所以它绕轨道的速度非常慢，绕太阳一圈可能需要1000多年。<br/><div class="contheight"></div>地球和太阳之间的距离通常用天文单位“AU”来计算（1AU相当于大约9300万英里，） “Farout”距离太阳的距离是120AU。此前发现距离太阳最遥远的天体阋神星（Eris, 太阳系第二远的小行星），距离太阳的距离是96 AU；冥王星距离太阳的距离是34 AU。<br/><div class="contheight"></div>该天体是由卡内基科学研究所的斯科特·谢泼德（Scott S. Sheppard）、夏威夷大学的戴维·索伦(David Tholen)和北亚利桑那大学的查德威克·特鲁希略（Chad Trujillo）共同发现的，但这并不是他们第一次发现这样的天体。<br/><div class="contheight"></div>自2014年以来，该团队一直在寻找一颗位于太阳系边缘的超级类地行星（super-Earth-size planet），他们将这个被寻找的类地行星命名为“Planet Nine”或“X行星”。2014年，他们在发现了距离太阳84AU的“拜登”(Biden)之后，首次提出了存在着这样一颗超级类地行星的观点。这些年来，他们不断发现距离太阳更远的天体。2016年，斯科特•谢泼德和查德威克•特鲁希略认为他们找到了更多证据证明太阳系的确存在第九行星。并称，太阳系确实存在一颗更大、更遥远的天体符合目前对该行星的定义。<br/><div class="contheight"></div>“Farout”是今年11月，在夏威夷的莫纳克亚山天文台（Hawaii's Mauna Kea）使用日本建造的斯巴鲁望远镜观测时被发现的。随后，通过华盛顿卡内基研究所管理的智利拉斯卡姆帕纳斯天文台(Las Campanas)的巨型麦哲伦望远镜，确定了“Farout”的运行轨迹、亮度和颜色。<br/><div class="contheight"></div>查德威克•特鲁希略在一份声明中表示，这项发现是国际天文合作的成果，人类正在超越冥王星与太阳之间的距离，不断探索太阳系的边缘。<br/><div class="contheight"></div>目前，“Farout”的轨道尚未确定。“‘Farout’比任何其他已经观测到的天体距离太阳更远，其移动速度也更慢，所以完全确定其轨道需要几年时间。” 斯科特•谢泼德在一份声明中说道。<br/><div class="contheight"></div>今年10月，研究人员曾宣布发现了另一个名为“小妖精”（Goblin）的遥远天体，它拥有一个奇怪的轨道，看起来可能受到了一颗悬挂在星际空间边缘、看不见的超级类地行星的影响。不过研究小组表示，目前他们还不能确定“Farout”是否也会受到神秘超级类地引力的影响。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：朱郑勇<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 天体,太阳系,天文</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2751137">
+<div class="nbgbox">
+<a class="zan" contid="2751137" href="javascript:;" onclick="voteCont(this)" praisetimes="131">
+                           130</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 太阳系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2751137&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2751137&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜请问这位行长，你在舆论场有多少胜算？</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-12-04 14:41<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据媒体报道，国内某高校在读博士赵先生向记者反映，在他毫不知情的情况下，中国银行湖南长沙金满地支行为其名下办理了25个信用卡账户、18张信用卡。在得知这一情况后的一年半时间里，他多次与发卡银行、监管部门沟通。然而至今，相关事宜并没有得到妥善处理。<br/><div class="contheight"></div>根据常理，一个人不可能在一家银行办理这么多卡，即使你想办银行也不会配合。因此这几乎肯定是个人身份信息被冒用的案例，而且该银行也承认过，是一名离职员工搞的鬼。离职员工的问题也是银行的责任，银行有义务为赵先生消除影响、赔偿损失。<br/><div class="contheight"></div>但是在沟通协商过程中，赵先生却从涉事银行行长得到一个很有内涵的“建议”：“您觉得以您个人的这个力量跟中国银行来打这个官司，您胜算的几率有多少？”<br/><div class="contheight"></div>经媒体报道后，这句话迅速“走红”。网友们联想起前两年某银行行长关于“银行是弱势群体”的说法，追问“弱势群体”是不是“翻身”了。而我关心的是，本来可以私下协商解决的问题，闹成了舆论风波，这位行长在舆论场有几成胜算？<br/><div class="contheight"></div>从报道中可以看出，双方争论的内容或许包括赵先生的损失该如何计算。因为征信记录受影响，赵先生买房计划被迫推后，这方面的损失该如何计算是一个技术问题，也有讨价还价的空间。但是拿银行的体量或能量说事，说出“打官司有多少胜算”的浑话来，只能说是聪明反被聪明误。<br/><div class="contheight"></div>在法治社会，官司输赢与争讼双方的块头大小不应该有关系。在官司打之前，当事人也不应该知道判决结果。民告官都能赢，个人告银行凭什么不能赢呢？<br/><div class="contheight"></div>“打官司有多少胜算”的说法，暗示了一种以大欺小、倚强凌弱的逻辑。而已有很多先例表明，这种逻辑是见不得阳光的。一旦被阳光暴晒，讲强弱的逻辑便会退散，讲公正的逻辑便会彰显。<br/><div class="contheight"></div>对于公众来说，除了赵先生的维权际遇，更值得关心的是商业银行盗用个人身份信息的普遍情况。<br/><div class="contheight"></div>据统计，近几年来单是中国银行在各地的分行，在学生不知情的情况下，就曾分别为湘潭大学、商洛学院、四川文轩职业学院等高校的累计数万名学生私自办理过银行卡、信用卡。<br/><div class="contheight"></div>当今个人征信越来越重要，牵涉面极其广泛，而银行作为征信的重要环节，自己却频繁犯规，这种状况应该引起有关部门的重视。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 个人信息保护 银行</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2704750">
+<div class="nbgbox">
+<a class="zan" contid="2704750" href="javascript:;" onclick="voteCont(this)" praisetimes="115">
+                           114</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 个人信息保护</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2704750&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2704750&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">女子火车上盗窃手机想转账结果转给失主三千元，叫醒对方被抓</h1>
+<div class="news_about">
+<p>张丹羊/广州日报</p>
+<p>
+							2018-12-25 14:29<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">广州日报12月25日消息，近日，大连至广州的T369次列车上发生了一宗离奇的盗窃事件，嫌疑人实施盗窃非但没有得手，反倒搭进去3000元。<br/><div class="contheight"></div>广州铁路警方介绍，12月21日凌晨，列车行至韶关区间时，乘警接到报警称3号车厢内有人实施盗窃，随即立即赶赴现场了解情况。报警人杨先生称坐在其对面的女子盗窃他的手机，并企图转走其微信钱包内的资金。<br/><div class="contheight"></div>经调查得知，坐在杨先生对面的女子周某在凌晨趁杨先生沉睡之际，从桌子上杨先生的背包里偷出了手机，得手后发现对方手机的微信钱包内有3000多元余额，企图“一箭双雕”，欲加杨先生为微信好友，将3000元钱转账给自己。因为做贼心虚，她慌乱之际竟将自己的微信内的3000元转账到了杨先生的账户。周某发现自己操作失误后，想把钱重新转回，但发现杨先生的微信转账需要输入密码，情急之下将杨先生踢醒，并要求对方返还其误转的3000元。杨先生醒来后觉得十分可疑，自己的手机在背包内，怎么到了对方手里？自己不认识对面女子，转账又是怎么一回事？于是思来想去选择了报警。<br/><div class="contheight"></div>12月21日5时许，列车到达广州站后，乘警将嫌疑人周某交由广州铁路公安处广州车站派出所处理。经对事发经过和事实依据进行调查核实后，广州铁路公安处广州站派出所根据《中华人民共和国治安管理处罚法》相关规定给予了周某行政处罚。（本文原题为《偷窃未成 小偷反蚀3000元 偷了手机还想转账 慌乱中转给事主3000元》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 盗窃,被抓</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772537">
+<div class="nbgbox">
+<a class="zan" contid="2772537" href="javascript:;" onclick="voteCont(this)" praisetimes="157">
+                           156</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 盗窃罪</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772537&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772537&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（869）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

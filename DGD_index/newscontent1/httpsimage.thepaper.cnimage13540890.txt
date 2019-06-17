@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国一医院因失误疑致病人感染HIV等，逾三千人被要求检测</h1>
+<div class="news_about">
+<p>侯兴川/海外网</p>
+<p>
+							2018-12-27 06:35<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网12月27日电 美国新泽西州卫生部门官员表示，由于清洁机器和药物注射器具管理出现缺失，由2018年1月至9月7日到涉事医疗中心接受诊治的逾三千名病人，可能会染上HIV、乙型肝炎或丙型肝炎。<br/><div class="contheight"></div>据《时代周刊》网（time.com）26日消息，新泽西州博根县（Bergen County）萨德尔·布鲁克（Saddle Brook）镇一家名为“健康+”（HealthPlus）的外科医疗中心，已要求本年度从元旦开始至9月7日在该中心做过手术的人接受艾滋病毒、乙型肝炎和丙型肝炎血液检测。该医疗中心称，这段时间内医疗中心在清洁器具和药物注射过程中，因“感染控制不足”使接受治疗的患者处于危险之中。<br/><div class="contheight"></div>据报道，“健康+”手术中心管理员麦凯布（Betty McCabe）在一份声明中说，迄今为止尚未收获任何感染或疾病的报告。即便如此，卫生官员还是建议患者尽快接受检测。到目前为止，已有3,778名患者被要求参加检测。<br/><div class="contheight"></div>根据声明，新泽西州卫生厅在发现雇员没有遵守适当的无菌处理程序或有关配药储药规定后，于9月对该中心进行关闭整顿。该中心于9月28日重新开门营业。<br/><div class="contheight"></div>“我们非常重视这个问题，”麦凯布说，“新泽西州卫生厅关闭该中心的举动为我们提供了一个更专注于质量、安全和始终如一地遵守健全政策和程序的机会。”<br/><div class="contheight"></div>（原题为《美新泽西一医疗点清洁器具不周 三千人恐感染艾滋》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王建亮<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国,医疗机构,医疗事故,HIV</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2778797">
+<div class="nbgbox">
+<a class="zan" contid="2778797" href="javascript:;" onclick="voteCont(this)" praisetimes="14">
+                           13</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 医疗事故</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2778797&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2778797&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

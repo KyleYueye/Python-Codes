@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25491">长三角政商</a>
+</div>
+<h1 class="news_title">为逃避坐牢，杭州一涉恶案件女被告人企图“借子”被识破</h1>
+<div class="news_about">
+<p>澎湃新闻记者 张刘涛 通讯员 建法</p>
+<p>
+							2019-01-08 17:25<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">为了能以“刚刚产子，尚在哺乳期”为由申请监外执行刑罚，一名涉恶势力犯罪集团案女被告人用堂弟的孩子冒充“亲生儿子”，还与堂弟媳通过接吻交换唾液，试图在DNA检测中蒙混过关。澎湃新闻（www.thepaper.cn）1月8日从杭州建德市法院获悉，败露后，被告人洪某已因寻衅滋事罪、敲诈勒索罪、赌博罪、聚众斗殴罪、窝藏罪等入狱服刑，刑期为2年6个月。同时，警方已立案侦查其涉嫌妨害作证，其家人涉嫌帮助伪造证据的行为。<br/><div class="contheight"></div> 洪某是建德人，1982年生。2018年3月，洪某等32人涉嫌寻衅滋事、赌博、敲诈勒索、聚众斗殴、窝藏等被警方采取强制措施，洪某因怀有身孕被取保候审。<br/><div class="contheight"></div> 案件进入法院审理程序后，洪某称自己刚生产完，身体虚弱，无法到法院领取起诉书副本。当法院书记员联系上门送达材料时，洪某在电话里执意拒绝书记员到其家中。后来，书记员在洪某家附近把起诉书副本交给她，但对她的表现起了疑问。<br/><div class="contheight"></div> 2018年11月，建德法院审理该涉恶势力犯罪集团案。庭审中，洪某称产子不久，尚在哺乳期，请求监外执行，法官要求其提供住院病历、婴儿出生证明等，洪某称拿不出这些材料，因为孩子在家里由亲属接生。法官要求公安机关调查核实。<br/><div class="contheight"></div> 随后，警方上门采集了洪某及其“孩子”的唾液进行DNA比对，但结果显示样本中有第三人的DNA。警方怀疑洪某作假，又对洪某及其“孩子”进行血液采集，经DNA对比，排除婴儿系洪某亲生的可能。进一步调查发现，洪某说的“亲生儿子”其实是她堂弟的孩子。<br/><div class="contheight"></div> 原来，去年3月时怀有身孕的洪某于去年9月流产，为了能以哺乳为由申请监外执行刑罚，她想到用堂弟媳妇刚生的孩子冒充亲生儿子。警方上门采集唾沫时，全家演了出戏，将堂弟的孩子指认为洪某所生，洪某还自作聪明地和堂弟媳躲在卫生间，通过亲吻交换唾液，企图浑水摸鱼。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张军<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 杭州,女被告人,借子</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827896">
+<div class="nbgbox">
+<a class="zan" contid="2827896" href="javascript:;" onclick="voteCont(this)" praisetimes="95">
+                           94</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 涉黑涉恶</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827896&caid=25491",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827896&amp;caid=25491" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

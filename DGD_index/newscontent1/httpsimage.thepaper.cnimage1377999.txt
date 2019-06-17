@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">习近平就古巴革命胜利60周年向古巴领导人致贺电</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2019-01-01 10:07<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京1月1日消息，1月1日，中共中央总书记、国家主席习近平就古巴革命胜利60周年向古共中央第一书记劳尔·卡斯特罗、古巴国务委员会主席兼部长会议主席迪亚斯-卡内尔致电，代表中国共产党、中国政府和中国人民表示热烈祝贺。<br/><div class="contheight"></div>习近平在致劳尔第一书记的贺电中指出，60年来，在古巴共产党坚强领导下，古巴政府和人民艰苦奋斗，在社会主义建设事业中取得伟大成就，中国党、中国政府和中国人民表示高度赞赏和祝贺。中古两党和两国关系经受住国际风云变幻考验，取得丰硕成果，我们成为好朋友、好同志、好兄弟。我高度重视中古友好关系发展，愿同你一道努力，引领两国关系继续阔步前行。<br/><div class="contheight"></div>习近平在致迪亚斯-卡内尔主席的贺电中表示，古巴党和人民正致力于进一步更新和完善社会主义制度，古巴社会主义事业必将实现新发展。一个多月前，你来华进行历史性的国事访问。我们共同规划了两国关系新时期发展蓝图。我愿同你一道努力，推动中古关系不断向前迈进。<br/><div class="contheight"></div>同日，国务院总理李克强也致电迪亚斯-卡内尔主席。李克强表示，今天，古巴国家发展事业蒸蒸日上，将迎来更加美好的明天。中古相互理解，相互支持，中古关系全面深入发展。祝愿在中古双方共同努力下，两国传统友谊不断结出新的硕果。<br/><div class="contheight"></div>（原题为《习近平就古巴革命胜利60周年向古巴领导人致贺电，李克强向迪亚斯-卡内尔主席致贺电》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 习近平致贺电,古巴革命胜利60周年</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2801548">
+<div class="nbgbox">
+<a class="zan" contid="2801548" href="javascript:;" onclick="voteCont(this)" praisetimes="482">
+                           481</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 习近平致贺电</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2801548&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2801548&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（43）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

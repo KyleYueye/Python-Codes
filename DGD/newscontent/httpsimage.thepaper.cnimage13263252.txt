@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">俄乌持续对峙，俄宣布向克里米亚永久部署十多架战机</h1>
+<div class="news_about">
+<p>姚凯红/海外网</p>
+<p>
+							2018-12-17 21:43<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网12月17日消息，继俄罗斯在刻赤海峡扣押3艘乌克兰船只事件发生三周之后，俄罗斯国防部宣布，俄方将向克里米亚一军事基地永久部署10多架战机。<br/><div class="contheight"></div>据《莫斯科时报》报道，俄罗斯国防部周一（17日）宣布，俄方将向克里米亚部署10多架苏霍伊苏-27和苏-30战斗机。俄国防部指出，此次部署是为了对克里米亚贝尔贝克空军基地进行全面检修，俄方战机将永久驻扎在该军事基地。<br/><div class="contheight"></div>就在上周，美国福克斯新闻网报道称，俄乌关系紧张之际俄罗斯继续在克里米亚加速集结军事力量。报道指出，国际图像卫星公司抓拍的图片显示，克里米亚占伊科空军基地发现3架俄罗斯伊尔-76运输机。<br/><div class="contheight"></div>俄罗斯社交媒体上周也有报道称，4架伊尔-76运输机于12月6日从新罗西斯克的阿纳帕机场起飞，并降落在占伊科空军基地，其中一架飞机8日返回了阿纳帕，另外3架仍留在占伊科空军基地。<br/><div class="contheight"></div>报道认为，俄罗斯陆军利用伊尔-76运输机交付无法通过地面运输的超大型重型货物，这种货机也用于调动大批军人。俄罗斯精锐空降部队——第76近卫山地空降师驻扎在距离阿纳帕机场不远的新罗西斯克，这个空降师部队不仅参加过叙利亚战斗，还参加了2014年8月乌克兰与俄罗斯之间的上一轮暴力冲突。<br/><div class="contheight"></div>另据海外网17日早些时候报道，近日，英媒发布的一张卫星云图显示，数百辆坦克聚集在靠近乌克兰边境11英里（约17.7千米）的军事基地。<br/><div class="contheight"></div>英国《每日快报》根据一张11月的谷歌地图指出，大量T-64和T62M型号主战坦克聚集在该军事基地，与此同时，还有数千军用卡车、火炮系统和油罐车。<br/><div class="contheight"></div>英国《每日星报》则指出，乌克兰船只在刻赤海峡被俄方扣押后，基辅和莫斯科的紧张关系已经“达到顶峰”。乌克兰陆军司令部发言人丹尼尔·贝佐诺夫日前（Daniil Bezsonov）透露，乌方也在边境部署了坦克和飞机。<br/><div class="contheight"></div>（原标题《俄乌持续对峙 俄宣布向克里米亚永久部署十多架战机》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 俄乌持续对峙</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2747535">
+<div class="nbgbox">
+<a class="zan" contid="2747535" href="javascript:;" onclick="voteCont(this)" praisetimes="66">
+                           65</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 俄乌持续对峙</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2747535&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2747535&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

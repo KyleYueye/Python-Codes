@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25438">财经上下游</a>
+</div>
+<h1 class="news_title">发现陌生公司？房贷条件还不太确定？税务总局再答个税抵扣</h1>
+<div class="news_about">
+<p>国家税务总局</p>
+<p>
+							2019-01-08 20:00<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">国家税务总局网站1月8日消息，国家税务总局12366北京纳税服务中心近期接到纳税人来电咨询个税专项附加扣除相关问题，中心负责人就有关问题回答了记者提问。<br/><div class="contheight"></div><strong>问1：近日，各省市税务部门在开展个人所得税相关政策培训辅导时，有部分纳税人反映，在登录个人所得税APP时，发现“任职受雇信息”中出现自己从未任职的单位信息。遇到这种情况怎么办？<br/><div class="contheight"></div>答：</strong>遇到这种情况，可能是您的身份信息被冒用了。一方面您可以在APP上点击该单位名称，并通过右上角的“申诉”按键发起“申诉”，此时，不会影响您办理涉税事项，也不会增加您的税收负担。另一方面，税务部门将尽快核实处理您的涉税信息冒用问题，如情况属实，税务部门将对冒用单位或个人的涉税违法问题依法进行处理。<br/><div class="contheight"></div>对信息冒用产生的非涉税纠纷或法律责任，您可向相关部门反映，各级税务部门将积极配合相关部门，共同维护好您的合法权益。<br/><div class="contheight"></div><strong>问2：对单位员工提供的专项附加扣除信息，作为财务人员，是否需要逐项核实信息后才能办理扣除？<br/><div class="contheight"></div>答：</strong>不需要。根据有关规定，纳税人自己对填报的专项附加扣除信息的真实性、准确性、完整性负责。因此，作为扣缴单位的财务人员，不需要逐项进行核实。如果有员工填报信息不完整的情形，那么可以补正或重新填报。<br/><div class="contheight"></div><strong>问3：专项附加扣除自2019年1月1日起就可以享受，有的纳税人不确定本人房贷是否符合扣除条件。担心如果报送专项扣除信息，万一不符合会影响本人信用。如果不报送，又享受不到个税改革红利，遇到这种情况该怎么办？<br/><div class="contheight"></div>答：</strong>如果纳税人对本人或配偶的房贷是否符合条件还不太确定，可以抓紧查阅合同或者咨询有关部门，尽快确定是否符合条件。如果确实在单位发工资前来不及报送，也没关系，可以在相关事项确定后，再填报扣除信息。<strong>对2019年1月1日之后符合条件应当享受而未享受的扣除，可在您向单位报送相关信息后的年内剩余月份补充享受；也可在次年3月1日至6月30日内，通过向税务机关办理综合所得汇算清缴申报时享受扣除。</strong><br/><div class="contheight"></div>（原题为《国家税务总局12366北京纳税服务中心负责人就有关问题答记者问》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 个税专项附加扣除</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828576">
+<div class="nbgbox">
+<a class="zan" contid="2828576" href="javascript:;" onclick="voteCont(this)" praisetimes="169">
+                           168</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 个税专项附加扣除</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828576&caid=25438",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828576&amp;caid=25438" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（40）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

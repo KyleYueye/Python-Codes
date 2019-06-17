@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">济青高铁通车：初期停靠青岛北站，红岛站青岛机场站明年投用</h1>
+<div class="news_about">
+<p>澎湃新闻记者 张家然</p>
+<p>
+							2018-12-26 11:15<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月26日，济南至青岛高速铁路（以下简称济青高铁）开通运营，首趟列车G9217于上午9点8分从济南东站驶出。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/514/862.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">12月26日上午9点30，济青高铁G9217到达淄博北站，停车2分钟后，继续一路向东。齐鲁晚报·齐鲁壹点记者 王瑞超 图</span><br/><div class="contheight"></div>根据规划，济青高铁西起济南东站，东至青岛市红岛站，线路全长307.9公里，设济南东、章丘北、邹平、淄博北、临淄北、青州市北、潍坊北、高密北、胶州北、青岛机场、红岛11座车站。<br/><div class="contheight"></div>澎湃新闻(www.thepaper.cn)从G9217列车相关负责人处了解到，济青高铁运营初期，到青岛后的终点停靠站为青岛北站，规划中的青岛机场站、红岛站预计明年投入使用。<br/><div class="contheight"></div>官方介绍称，青岛北站位于青岛市李沧区，与青岛地铁1、3、8号线连接，旅客无须出站就可在地铁与高铁间换乘。青岛北站于2014年开通运营，胶济铁路、胶济客运专线、青荣城际铁路、青盐铁路等多条铁路引入该站，是目前胶东地区最大的现代化综合交通枢纽。<br/><div class="contheight"></div>青岛机场站位于青岛胶东国际机场ETC换乘中心内，属于地下车站，2台4线，承担着国铁与航空换乘枢纽的作用，计划与青岛胶东国际机场同步开通。<br/><div class="contheight"></div>红岛站位于红岛经济区河套街道汇海路以南，环胶州湾高速以北，占据着青岛整个大布局的中心位置。红岛站是济青高铁和青盐铁路的交汇枢纽站。红岛站因市政配套未完全到位，尚不能满足旅客安全、服务保障等需求，暂不开办客运业务，待2019年青岛新机场转场后，与青岛机场站同步开办客运业务。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 高铁,青岛</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2775755">
+<div class="nbgbox">
+<a class="zan" contid="2775755" href="javascript:;" onclick="voteCont(this)" praisetimes="30">
+                           29</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 高铁开通</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2775755&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2775755&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

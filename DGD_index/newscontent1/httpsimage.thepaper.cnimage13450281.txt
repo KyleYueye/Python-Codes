@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">审计整改报告：问题金额近3千亿，问责3299人次</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林平</p>
+<p>
+							2018-12-24 13:25<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月24日，受国务院委托，审计署审计长胡泽君在十三届全国人大常委会第七次会议上报告有关2017年度中央预算执行和其他财政收支审计查出问题的整改情况。<br/><div class="contheight"></div>报告指出，截至2018年10月底，有关部门、单位和地方通过上缴国库、补征税款、收回贷款、归还原资金渠道、统筹盘活、调账等，整改问题金额2955.58亿元，制定完善相关规章制度2944 项，问责处理3299人次。<br/><div class="contheight"></div><strong>整改对象涉2300多家单位，预算分配管理存五大问题</strong><br/><div class="contheight"></div>澎湃新闻注意到，此次整改对象涉及80多个中央部门、31个省和2300多家单位，重点检查整改措施的真实性和效果，督促对整改进展慢的问题制定针对性措施。<br/><div class="contheight"></div>在中央决算草案和预算管理审计查出问题的整改情况上，胡泽君指出，财政部、国家发展改革委和有关地方已整改7.66亿元，完善预算管理、税收征管、行政审批等方面制度8项。<br/><div class="contheight"></div>一是少计中央一般公共预算收支问题。财政部正在研究加强对通过退库方式安排资金的管理。对国际金融组织赠款，正在研究制定办法纳入一般公共预算管理。对中央返还地方的税收3.01亿元，已列入决算。<br/><div class="contheight"></div>二是重大事项披露不充分问题。对中央政府投资基金有关情况，财政部已向全国人大财经委报告，正在研究预算草案反映的具体方式；对政府投资基金注资和特别国债到期续作情况，已在决算中披露。<br/><div class="contheight"></div>三是部分收支事项列示不细化问题。对进出口环节增值税、消费税收入及退税情况，已在决算中按税种分4个科目列示,并细化补助地方的其他支出,同时要求细化中央基建投资决算。<br/><div class="contheight"></div>报告还指出了关于预算分配管理存在薄弱环节的问题。主要包括，一是预算安排与存量资金盘活统筹衔接不够问题。二是预算分配标准不够明确或执行不严格问题。三是部分预算安排和下达不够规范问题。四是国有资本经营预算范围不够完整问题。五是部门间对接还不够顺畅问题。<br/><div class="contheight"></div><strong>转移支付管理不善，建立查重机制</strong><br/><div class="contheight"></div>报告还认为，有关中央预算的转移支付管理仍不够完善。<br/><div class="contheight"></div>胡泽君指出，一是具有指定用途的转移支付占比仍较高问题。财政部正在研究完善中央对地方转移支付制度，已形成初步报告。二是专项转移支付退出机制不完善问题。财政部正在修订相关资金管理办法,明确实施期限或退出条件，除2项专项转移支付已整合外，3项已完成修订、9项已起草修订稿，其他38项正结合机构改革、完善转移支付制度和相关领域改革等抓紧推进,力争年底前完成。<br/><div class="contheight"></div>“编制2019年预算时,财政部进一步增强专项转移支付评估的完整性和科学性,将评估结果作为转移支付取消、调整或整合的重要参考。”胡泽君说。<br/><div class="contheight"></div>与此同时，部分转移支付还存在交叉重叠问题。胡泽君表示，财政部将建立查重机制,加强投资计划审核，减少拼盘支持、重复安排、多头支持等问题。对高标准农田建设，财政部正会同农业农村部整合相关资金；对两个投资专项安排同一地区重大项目前期工作经费问题，国家发展改革委将从2019年起只在一个专项中安排。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：段彦超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 审计署,报告,问题</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768421">
+<div class="nbgbox">
+<a class="zan" contid="2768421" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 审计署</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768421&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768421&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

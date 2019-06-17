@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜明星家暴也能圈粉？请收回你错误的价值观</h1>
+<div class="news_about">
+<p>澎湃特约评论员 栗中西</p>
+<p>
+							2018-11-20 19:04<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">明星蒋劲夫因为家暴日本女友上了热搜，因为牵涉到骗局、自首、跨国恋等关键词，新闻很快吸引了“吃瓜”群众的目光。本来明星八卦天天有，不值得大惊小怪，诡异的是，这则铁板钉钉的负面新闻，因为被有的自媒体冠上“第一个承认家暴的男明星”的称号，居然为当事人“圈粉”了。<br/><div class="contheight"></div>在11月25日“国际消除家暴日”即将来临之际，这则娱乐新闻释放的意义显然已经超过一般娱乐八卦，具有了更严肃深刻的社会意义。<br/><div class="contheight"></div>按理说评价公众人物，应该拿更高的道德标准“尺子”，才能对得起他们的身份，发挥他们正面的社会示范效应。遗憾的是，今时今日，出名的渠道越来越多，明星门槛就有了走低之势，千篇一律的好看皮囊之下，存在着层次多样的性格人品。总有些自我修养不够的，发挥的是负面示范作用。种种劣迹中，相比斗殴、吸毒、嫖娼，家暴的糟糕程度一点都不低，却享有更高的舆论宽容度、更松道德评价“尺子”。正因如此，就算受害人出来控诉，加害方也难见低头认错的。<br/><div class="contheight"></div>实际上，国内娱乐圈家暴丑闻并不鲜见，比如前段时间因为《延禧攻略》捧红的新人许凯、励合组合刘洲成等，女明星遭受家暴的也不少，有黄奕、贾静雯等等。而加害方少有如外国明星尼古拉斯·凯奇、约翰尼·德普等人那样，遭到巨额索赔和舆论一边倒批驳的。美国好莱坞明星对反家暴的宣传从来都不遗余力，每年都会有奥斯卡级影后影帝为反家暴站台。女星艾梅伯·赫德在与约翰尼·德普离婚后，曾拍摄了一个长达 2 分钟的短片力挺家暴受害者，提醒其他女性：“其实不需要这样，你并不孤独，我们可以作出改变。” <br/><div class="contheight"></div>“第一个承认家暴的男明星”这顶帽子至今悬空，并非是蒋劲夫的殊荣，只能说明国内公众对家暴重视程度还不够，家暴仍然没有超出私德评价的范畴和家务事的概念，甚至一部分男权主义者心目中，家暴还存在一定合理性。“如果遇到这种女的，不会想揍她吗？”“敢这么坦荡出来道歉的明星不多了”“莫名被他圈粉了”……当看到这类评论占领各个评论区点赞数第一时，就能知道反家暴的社会教育，还有很长的路要走。<br/><div class="contheight"></div>2016年11月，全国妇联做了一个关于家暴的调查，据统计：“中国2.7亿个家庭中，有30%的已婚妇女曾遭受家暴。平均每7.4秒就会有一位妇女受到丈夫的殴打。家暴致死占妇女他杀原因的40%以上。我国每年有15.7万妇女自杀，而其中60%的动因是家庭暴力……” <br/><div class="contheight"></div>我国的反家暴工作在一点一点艰难掘进中，取得了一些成果。2016年3月1日，《中华人民共和国反家庭暴力法》正式实施，两年里,共发出人身安全保护令2150余份，大力宣传之下，一些正确的观念也在不断被普及，比如家暴只存在0和1000000的区别，一旦遭受家暴要第一时间报警求助存证等等。反家暴工作就像爬坡，成果取得很艰难，但是只要油门松一松，就会“开倒车”。<br/><div class="contheight"></div>明星身陷家暴丑闻当然是很多粉丝所不乐见的，但是当事人都已经表示认错，就不要发挥清奇的脑回路，让错误的价值观借机流露，四处荼毒了。无论是否跨国、有无欺骗、哪方理亏，当一方举起巴掌时，已经在法律和道义上输掉了一切支持，这应该是超越身份的普遍共识。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 家庭暴力 蒋劲夫</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2653984">
+<div class="nbgbox">
+<a class="zan" contid="2653984" href="javascript:;" onclick="voteCont(this)" praisetimes="467">
+                           466</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 蒋劲夫</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2653984&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2653984&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（56）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

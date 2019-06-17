@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜这名肇事司机的驾照是怎么申领审验的？ </h1>
+<div class="news_about">
+<p>澎湃特约评论员 欧阳晨雨</p>
+<p>
+							2018-12-11 15:25<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2724412" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜这名肇事司机的驾照是怎么申领审验的？ " src="//image1.thepaper.cn/image/13/63/498.jpg"/>
+</a>
+<div class="atlas_360_txt">石家庄通报“小客车致二死五伤车祸”：初步认定司机癫痫发作<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">近日，石家庄发生了一起触目惊心的交通事故。一辆奥迪车与多车、多人相撞，致2死5伤。警方初步分析认定，事故原因为杨X忠驾驶车辆时癫痫病发作，致车辆失控。目前，杨X忠已被公安部门以涉嫌交通肇事罪立案侦查，并采取刑事拘留措施。 <br/><div class="contheight"></div>很多人可能对警方的处理措施不理解，因为根据《刑法》规定，“行为在客观上虽然造成了损害结果，但是不是出于故意或者过失，而是由于不能抗拒或者不能预见的原因所引起的，不是犯罪”。一个突然犯病的司机，根本就不知道自己干了什么，为何也要被追究刑事责任？<br/><div class="contheight"></div>追其根源，是因为杨X忠在事发前知道自己病史。医院以往病历显示，杨X忠曾于2017年5月、10月分别因继发性癫痫等疾病住院治疗。《道路交通安全法》规定，机动车驾驶人“患有妨碍安全驾驶机动车的疾病的，不得驾驶机动车”，但杨X忠却并未放弃驾车。从主观上来说，这属于过于自信的过失。由此造成的事故，不能归为不可抗力的影响，自然也需要负刑事责任。<br/><div class="contheight"></div>《刑法》规定，“违反交通运输管理法规，因而发生重大事故，致人重伤、死亡或者使公私财产遭受重大损失的，处三年以下有期徒刑或者拘役”。杨X忠违反道路交通安全法规导致交通事故，出现两人当场死亡、五人受伤的严重后果，根据最高法《关于审理交通肇事刑事案件具体应用法律若干问题的解释》，符合“重大事故”的认定标准，涉嫌构成交通肇事罪，警方立案追究刑责并无不妥。不仅如此，作为交通肇事者，他还应承担民事赔偿的法律责任。 <br/><div class="contheight"></div>一个不得不追问的问题是：杨X忠的驾照是如何申领的？《道路交通安全法》明确规定，“申请机动车驾驶证，应当符合国务院公安部门规定的驾驶许可条件”。而根据公安部出台的《机动车驾驶证申领和使用规定》，“有器质性心脏病、癫痫病、美尼尔氏症、眩晕症、癔病、震颤麻痹、精神病、痴呆以及影响肢体活动的神经系统疾病等妨碍安全驾驶疾病”等情形，不得申请机动车驾驶证。如果申领之前，杨X忠就已犯病，发证单位是如何审核的？<br/><div class="contheight"></div>而且，根据《机动车驾驶证申领和使用规定》，机动车驾驶人应当“定期到公安机关交通管理部门接受审验”，审验内容之一，就是“身体条件情况”。杨X忠一年之中两次因继发性癫痫住院治疗，明显不符合审验要求，为何车辆管理所没有按照规定，注销其机动车驾驶证？这些追问，应该有个回应。<br/><div class="contheight"></div>没有对生命的敬重，没有对法律的遵从，就不可能有真正的安全。在依法追究当事人责任的同时，也应彻查是否存有驾照申领、审验等环节纰漏，有的放矢地加强监督防范，避免类似悲剧重演。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 司机癫痫致车祸</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2727152">
+<div class="nbgbox">
+<a class="zan" contid="2727152" href="javascript:;" onclick="voteCont(this)" praisetimes="111">
+                           110</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 癫痫</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2727152&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2727152&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（43）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

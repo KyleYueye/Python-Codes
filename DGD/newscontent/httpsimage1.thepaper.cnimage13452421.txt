@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25433">地产界</a>
+</div>
+<h1 class="news_title">住建部谈房地产市场调控：以稳地价、稳房价、稳预期为目标</h1>
+<div class="news_about">
+<p>杨潇/央视新闻客户端</p>
+<p>
+							2018-12-24 14:45<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据央视新闻客户端消息，在今天举行的全国住房和城乡建设工作会议上，住房和城乡建设部全面总结了2018年住房和城乡建设工作，分析了面临的形势和问题，提出了2019年工作总体要求和重点任务。<br/><div class="contheight"></div>其中，谈起明年的房地产市场调控，住房和城乡建设部明确表示，要做好以下工作：<br/><div class="contheight"></div><strong>把稳地价稳房价稳预期的责任落到实处</strong><br/><div class="contheight"></div>住建部指出，明年要以稳地价、稳房价、稳预期为目标，促进房地产市场平稳健康发展。坚持房子是用来住的、不是用来炒的定位，着力建立和完善房地产市场平稳健康发展的长效机制，坚决防范化解房地产市场风险。坚持因城施策、分类指导，夯实城市主体责任，加强市场监测和评价考核，切实把稳地价稳房价稳预期的责任落到实处。继续保持调控政策的连续性稳定性，加强房地产市场供需双向调节，改善住房供应结构，支持合理自住需求，坚决遏制投机炒房，强化舆论引导和预期管理，确保市场稳定。加大房地产市场监管力度，继续深入开展打击侵害群众利益违法违规行为治理房地产乱象专项行动。<br/><div class="contheight"></div><strong>加快解决中低收入群体住房困难</strong><br/><div class="contheight"></div>住建部明确，要以加快解决中低收入群体住房困难为中心任务，健全城镇住房保障体系。支持人口流入量大的一线、二线城市和其他热点城市，降低准入门槛，增加公租房有效供应，因地制宜发展共有产权住房。继续推进棚户区改造，严格把握棚改范围和标准，重点改造老城区内脏乱差的棚户区和国有工矿区、林区、垦区棚户区，加大配套基础设施建设，严格工程质量安全监管，确保按时保质保量完成全年任务。<br/><div class="contheight"></div><strong>补齐租赁住房短板</strong><br/><div class="contheight"></div>住建部指出，明年，要以解决新市民住房问题为主要出发点，补齐租赁住房短板。人口流入量大、住房价格高的特大城市和大城市要积极盘活存量土地，加快推进租赁住房建设，切实增加有效供应。在总结试点经验基础上，指导大中城市全面培育和发展住房租赁市场。继续推进集体土地建设租赁住房试点工作。深化住房公积金制度改革，研究建立住宅政策性金融机构，加大对城镇中低收入家庭和新市民租房购房的支持力度，全面提高住房公积金服务效能和管理水平。<br/><div class="contheight"></div>（原题为《谈起明年楼市 住建部提出要做好这三项工作》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 住建部,房地产市场调控</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768628">
+<div class="nbgbox">
+<a class="zan" contid="2768628" href="javascript:;" onclick="voteCont(this)" praisetimes="7">
+                           6</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 住建部</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768628&caid=25433",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768628&amp;caid=25433" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

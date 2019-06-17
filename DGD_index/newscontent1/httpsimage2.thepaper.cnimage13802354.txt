@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国政府关门11天后，特朗普欲与民主党做“交易”</h1>
+<div class="news_about">
+<p>环球网</p>
+<p>
+							2019-01-02 12:51<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">在美国政府停摆进入第11天时，美国总统特朗普不仅希望国会两党领袖举行会谈，还发推，称希望与众议院民主党领袖佩洛西“做交易”。<br/><div class="contheight"></div>据美国有线电视新闻网1月1日消息，消息人士称，在政府部分停摆11天后，特朗普邀请国会两党领袖前往白宫举行会谈。这也是部分停摆后，特朗普和两党领袖首次举行会谈。会议具体安排仍在制定中，会议时间或为本周三(2日)下午，国土安全部的官员也会参加会议。　　<br/><div class="contheight"></div>1月1日，特朗普还发推表示，希望与佩洛西进行交易，“边境安全、墙和政府停摆并非南希·佩洛西在开始其议长任期所希望看到的！我们做个交易吧？”<br/><div class="contheight"></div>在前一天，众议院民主党人提出了一个临时拨款法案，希望重新开放政府。但民主党人的提案并不包括特朗普所要求的50亿美元修建美墨“边境墙”的费用。<br/><div class="contheight"></div>而特朗普1日在接受福克斯新闻采访时明确表示，不会放弃修建“边境墙”的想法。“不，我们不会放弃，我们必须保证边境安全，而边境墙则是我们边境安全的重要部分。”特朗普说。<br/><div class="contheight"></div>自12月21日美国政府数个联邦部门关闭以来，特朗普已多次发推，要求民主党人解决政府停摆问题。　　　　　　　　<br/><div class="contheight"></div>（原文标题：《 政府关门11天后 特朗普欲与民主党做“交易”》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 特朗普,政府关门</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2803688">
+<div class="nbgbox">
+<a class="zan" contid="2803688" href="javascript:;" onclick="voteCont(this)" praisetimes="26">
+                           25</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美国政府关门</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2803688&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2803688&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

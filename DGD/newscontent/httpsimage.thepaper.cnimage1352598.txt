@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=29988">河北共青团</a>
+</div>
+<h1 class="news_title">石家庄13岁女孩上学前失联，最后出现在鹿泉区瑞泰澜庭附近</h1>
+<div class="news_about">
+<p>河北共青团</p>
+<p>
+                            2018-12-26 18:22<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard">寻人！寻人！12月25日，13岁的石家庄女孩杨心语上学至今未归，最后出现的地点在石家庄鹿泉区瑞泰澜庭附近，孩子的家人焦急万分！希望广大网友能够帮忙寻找孩子。<br/><div class="contheight"></div> <div style="text-align:center;"><img alt="" height="815" src="http://image.thepaper.cn/www/image/13/523/976.jpg" width="608"/></div><span style="color: rgb(128, 128, 128);">（杨心语6年级时长发的照片）<br/><div class="contheight"></div></span>记者随后联系了孩子的母亲汪女士，她说，杨心语12月25日早上7点上学后至今未归。查询监控后得知她乘坐游6路公交车前往学校，但是7:15在公交车站下车后却没有进校门……“当天到达学校的时间有些迟了，她刚给老师交了一份不迟到的保证书，她应该是心里害怕，就没有进校门。”汪女士说。<div style="text-align:center;"><img alt="" height="810" src="http://image.thepaper.cn/www/image/13/523/977.jpg" width="1080"/></div><span style="color: rgb(128, 128, 128);">（监控显示杨心语在瑞泰澜庭下车后往南走了）<br/><div class="contheight"></div></span>根据监控，孩子没有进校门，转而乘坐314路公交车往家的方向走，汪女士表示，她本应该在石桥站下车，但是却在瑞泰澜庭站下了车。监控显示孩子下车的时间是7:55，之后便往南走了，至今没有回家。<div style="text-align:center;"><img alt="" height="800" src="http://image.thepaper.cn/www/image/13/523/978.jpg" width="565"/></div>河北青年报帮办记者了解到，孩子今年上初一，性格比较内向、胆小，孩子失踪后，家里人非常着急，记者联系汪女士时，还能隐约听到她的哭泣声。<br/><div class="contheight"></div><strong>重要提示<br/><div class="contheight"></div></strong>杨心语身高一米五八左右，短头发，戴眼镜，在石家庄鹿泉区瑞泰澜庭附近走失，走失时身穿浅蓝灰色相间校服，黑色运动鞋，身背黑色书包，手拿一个紫红色手提袋。<div style="text-align:center;"><img alt="" height="200" src="http://image.thepaper.cn/www/image/13/523/979.jpg" width="94"/></div><span style="color: rgb(128, 128, 128);">（杨心语走失时的衣着）<br/><div class="contheight"></div></span>如果您看到杨心语或者有她的消息，请在微信后台留言，或者联系杨心语的妈妈汪女士：13231110452、15176961497。<br/><div class="contheight"></div>这大冷天，天寒地冻的……好心人帮忙寻找、扩散吧！<br/><div class="contheight"></div>制 作|冀青工作室<br/><div class="contheight"></div>编 辑|林楠<br/><div class="contheight"></div>来 源 |综合河北青年报、河青帮帮帮整理。<br/><div class="contheight"></div>（本文原标题：《天寒地冻！河北13岁女孩上学后至今未归！你在哪儿？快回家！妈妈急哭了》）<br/><div class="contheight"></div></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2776935">
+<div class="nbgbox ">
+<a class="zan" contid="2776935" href="javascript:;" onclick="voteCont(this)" praisetimes="12">
+                                    11</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

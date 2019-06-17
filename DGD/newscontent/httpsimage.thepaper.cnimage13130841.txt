@@ -1,0 +1,86 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">特朗普前私人律师迈克尔·科亨被判三年监禁</h1>
+<div class="news_about">
+<p>徐剑梅、邓仙来/新华社</p>
+<p>
+							2018-12-13 07:11<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<script src="//file.thepaper.cn/www/v3/js/jwplayer7.1.4.js" type="text/javascript"></script>
+<script type="text/javascript">jwplayer.key="JYFbHxc36sStM1VSc1vvyI42CCrHFlTZcWEYUA==";</script>
+<div class="news_video_name">
+<style type="text/css">
+							#player_wrapper{width:669px;height:377px;}
+							#player_wrapper .player_err_tip{width:669px;height:377px;display: none;vertical-align: middle;background-color: black;color: white; text-align: center;}
+							.jw-tab-focus:focus{outline:none;}
+						</style>
+<div id="player_wrapper">
+<div class="player_err_tip" id="Text">抱歉!<br/>您的浏览器可能不支持此视频播放器，请用更高版本的浏览器试试！</div>
+</div>特朗普前律师认罪作伪证(01:34)
+					</div>
+<div class="news_txt" data-size="standard">新华社华盛顿12月12日消息，曾长期担任美国总统特朗普私人律师的迈克尔·科亨12日在纽约曼哈顿联邦地区法院被判3年监禁。<br/><div class="contheight"></div>美国联邦法官威廉·波利当天表示，科亨除了承认向国会撒谎外，还承认违反联邦竞选资金相关法律，在2016年美国选举日前夕按特朗普指示，安排向声称与特朗普有染的两名女性支付封口费，“意在影响选举结果”。尽管科亨认罪并与检方及主持“通俄”调查的特别检察官米勒合作，但这不能“把以往过错一笔勾销”。<br/><div class="contheight"></div>除3年刑期，科亨还被判罚没50万美元、补缴近140万美元税款并就此交纳10万美元罚金。他将从2019年3月6日起自行入狱服刑。<br/><div class="contheight"></div>当天宣判前，科亨表示，他出于“软弱”和“盲目忠诚”而走上一条错误的道路，他将继续与检方合作。<br/><div class="contheight"></div>科亨现年52岁，2007年开始为特朗普打理法律和商业事务。今年4月，美国联邦调查局搜查科亨在纽约的办公室、住所和旅馆房间，收缴其电脑、电话、财务记录和“受保护客户信息”等。此后，特朗普改聘前纽约市长鲁迪·朱利安尼出任私人律师。<br/><div class="contheight"></div>科亨今年8月就8项指控向检方认罪，包括违反联邦竞选资金相关法律、逃税和银行诈骗等。上个月，科亨又承认曾向国会撒谎，隐瞒自己直至2016年总统竞选期间仍就莫斯科特朗普大厦建设计划与俄方谈判的情况。<br/><div class="contheight"></div>（原题为《特朗普前私人律师科亨被判3年监禁》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = 'http://cloudvideo.thepaper.cn/video/e922897329724031b347d12e8fdd5ba8/hd/e57be79e-6980-4bf9-ae68-936fcff32a02-a666086e-79c6-8cb6-4e57-5ae6f23a9de3.mp4',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'//image1.thepaper.cn/image/cover/20181130/9a223ccea47b4135baeb013514664b28-20181130085139438-6894757435415535019-1f952b5d-4f6d-4b21-b691-e7213dc874ef.jpg',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王建亮<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 特朗普,迈克尔·科亨,通俄门,竞选丑闻</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2732671">
+<div class="nbgbox">
+<a class="zan" contid="2732671" href="javascript:;" onclick="voteCont(this)" praisetimes="164">
+                           163</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 特朗普前律师被判刑</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2732671&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2732671&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（34）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25423">人事风向</a>
+</div>
+<h1 class="news_title">54岁杨万明就任驻巴西大使</h1>
+<div class="news_about">
+<p>澎湃新闻记者 蒋子文</p>
+<p>
+							2018-12-27 13:24<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新任中国驻巴西大使已于近日正式公开亮相。<br/><div class="contheight"></div>据中国驻巴西大使馆消息，12月26日，新任驻巴西联邦共和国特命全权大使杨万明和夫人卢燕柳参赞抵达巴西利亚履新。驻巴西使馆主要外交官、中文媒体、中资企业、华侨华人代表及巴外交部高级官员等到机场迎接。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="402" src="http://image.thepaper.cn/www/image/13/550/700.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">杨万明大使和夫人还亲切会见了驻巴西使馆工作人员。<br/><div class="contheight"></div></span>这意味着，<strong>在卸任驻阿根廷大使一职后，现年54岁的杨万明已出任驻巴西大使。</strong><br/><div class="contheight"></div>1964年3月出生的杨万明1989年进入外交部拉丁美洲和加勒比司工作，此后曾在驻阿根廷大使馆、驻墨西哥大使馆工作，还曾短暂出任贵州省黔东南苗族侗族自治州凯里市委副书记、副市长。杨万明于2012年出任驻智利大使，两年后调任驻阿根廷大使。<br/><div class="contheight"></div>2018年12月，阿根廷外长福列在外交部圣马丁宫代表马克里总统为即将离任的中国驻阿根廷大使杨万明授予解放者圣马丁大十字级勋章。该勋章以阿根廷国父圣马丁将军命名，是阿政府授予外国驻阿使节的最高级别勋章。<br/><div class="contheight"></div><strong>杨万明也是中巴两国1974年正式建交以来，第12任驻巴西大使。</strong>2012年，中巴两国将两国关系提升为全面战略伙伴关系。<br/><div class="contheight"></div>此前担任驻巴西大使的李金章在卸任后已结束外交生涯。<br/><div class="contheight"></div>现年64岁的李金章出生于1954年11月，河北省人，大学毕业。李金章曾先后担任过驻古巴大使馆职员，外交部美大司三秘、副处长，驻尼加拉瓜大使馆一秘，驻古巴大使馆参赞，外交部拉美司副司长、司长。<br/><div class="contheight"></div>2001年，李金章获委派墨西哥，出任其首个驻外大使职务。2003年，李金章重回外交部，担任部长助理，并于2006年起担任副部长，跻身副部级干部。2012年1月，李金章履新驻巴西大使一职。<br/><div class="contheight"></div>2018年11月23日，驻巴西大使李金章夫妇出席由巴西外交部常务副外长加尔旺主持的授勋仪式和饯行午宴。李金章被巴西政府授予外国驻巴使节的最高级别勋章——“南大十字国家勋章”。<br/><div class="contheight"></div>在授勋仪式上，李金章发表答辞称，“在我即将结束外交生涯与巴西道别之际，衷心感谢加尔旺大使在水晶宫为我颁发‘南大十字勋章’，并携夫人为我和夫人黄敏慧举行离任午宴。这不仅是对中国使馆和我个人工作的肯定，更饱含了巴西政府和人民对中国政府和人民的深情厚谊。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王俊<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 外交人事，巴西，杨万明</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2779997">
+<div class="nbgbox">
+<a class="zan" contid="2779997" href="javascript:;" onclick="voteCont(this)" praisetimes="20">
+                           19</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 外交人事</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2779997&caid=25423",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2779997&amp;caid=25423" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

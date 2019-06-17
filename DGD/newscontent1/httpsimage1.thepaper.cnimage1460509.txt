@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="javascript:;">澎湃问政</a>
+</div>
+<h1 class="news_title">网传中国培育青花瓷锦鲤，价值330万元？记者揭秘造假玄机</h1>
+<div class="news_about">
+<p>上海网络辟谣</p>
+<p>
+                            2019-01-09 07:53<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard">近日，有网友发布视频称拍摄到一条全身蓝白相间的锦鲤。与视频一同转发的文字称：“这条青花瓷錦锂鱼是我国水蔟（族）科研单位工作者，数十年中付出了大量心血培育而成的。国内外爱好者均赞叹不已，号称举世极品。日本行家出资330万想买断……不卖。我们通过视频饱饱眼福吧！”视频在不少微信群中流传，引发网友关注。青花瓷锦鲤真的存在？<br/><div class="contheight"></div>网传视频片段<br/><div class="contheight"></div>解放日报·上观新闻记者求证发现，网传视频极有可能是特效。<br/><div class="contheight"></div>有热爱摄影的网友指出，视频中，锦鲤在靠近橘色水盆边缘时，头上的蓝色纹理边缘会出现淡淡的紫色。<div style="text-align:center;"><span style="color: rgb(128, 128, 128);"><img alt="" height="225" src="http://image.thepaper.cn/www/image/14/44/26.jpg" width="333"/></span></div><span style="color: rgb(128, 128, 128);">视频截图</span><br/><div class="contheight"></div>橘黄色与蓝色相配应该会映出绿色，绝对没有可能是紫色。出现这种紫色的可能性基本只有一个：视频的色相在后期特效软件中被人为调整过。<br/><div class="contheight"></div>一位有鱼类饲养经验的网友观看视频后也告诉记者，视频中的水盆是有专门的名字，被称作量鱼盆或尺度盆。它还有专门的生产规格，其材质是玻璃纤维；颜色一般为蓝色；在量鱼盆的侧壁和底部还有专门的度量尺，单位以“部”和“厘米”计；量鱼盆底部还设计了一个白色排水孔。记者按照网友的线索，在某宝中找到了视频中的同款量鱼盆。从商品截图中可以看到，除了颜色橘蓝不同，其他细节几乎一致。商家向记者表示，这类量鱼盆一般只生产蓝色，几乎不会生产橘黄色的量鱼盆。<div style="text-align:center;"><span style="color: rgb(128, 128, 128);"><img alt="" height="425" src="http://image.thepaper.cn/www/image/14/44/31.jpg" width="1079"/></span></div><span style="color: rgb(128, 128, 128);">商品截图</span><br/><div class="contheight"></div>为了证实“色相调整”的猜想，记者将视频截图在后期制作软件中修改了其图像色相，果然得到了如下图样：<div style="text-align:center;"><span style="color: rgb(128, 128, 128);"><img alt="" height="652" src="http://image.thepaper.cn/www/image/14/44/32.jpg" width="800"/></span></div><span style="color: rgb(128, 128, 128);">上图为视频截图；下图为还原色相图</span><br/><div class="contheight"></div>从图中可以看出，“还原色相”之后的蓝色量鱼盆和红白相间的锦鲤才比较符合现实情况。基本可以确定，网传视频系后期特效制作。<br/><div class="contheight"></div><strong>【小科普】</strong><br/><div class="contheight"></div>其实，自然界中真正意义上蓝色的动物相当稀少。北京市科学技术协会旗下微信公众号“蝌蚪五线谱”曾撰文称，植物有花青素，所以能够产生蓝色素，但是动物王国中的大部分物种并不能制造蓝色素。人们看到的蓝色动物，都是源于它们特殊的身体结构。以冠蓝鸦为例，这种小鸟体内会制造黑色素，所以严格意义上讲，它的羽毛应该是全黑的。但是，阳光在经由冠蓝鸦羽毛中的气穴而产生散射后，最终在人眼中呈现出蓝色。这种现象叫做瑞利散射，与彩虹、选择反射的原理相同，它同样可以解释“为什么天是蓝的”。<div style="text-align:center;"><span style="color: rgb(128, 128, 128);"><img alt="" height="358" src="http://image.thepaper.cn/www/image/14/44/34.jpg" width="586"/></span></div><span style="color: rgb(128, 128, 128);">冠蓝鸦，图片来自蝌蚪五线谱</span><br/><div class="contheight"></div> 微信编辑：李布言<br/><div class="contheight"></div>题图来源：视觉中国<br/><div class="contheight"></div>本文原标题：《网传中国培育出青花瓷锦鲤，价值330万元？记者揭秘造假玄机》</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2828706">
+<div class="nbgbox ">
+<a class="zan" contid="2828706" href="javascript:;" onclick="voteCont(this)" praisetimes="96">
+                                    95</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

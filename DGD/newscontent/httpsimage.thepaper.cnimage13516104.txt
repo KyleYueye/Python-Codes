@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25491">长三角政商</a>
+</div>
+<h1 class="news_title">杭州亚运会市场开发计划启动，公开征集首批五类官方合作伙伴</h1>
+<div class="news_about">
+<p>澎湃新闻记者 姚似璐</p>
+<p>
+							2018-12-26 11:54<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="305" src="http://image.thepaper.cn/www/image/13/516/111.jpg" width="600"/></div>12月26日上午，2022年第19届亚运会市场开发计划正式启动。 <br/><div class="contheight"></div> 澎湃新闻（www.thepaper.cn）从杭州亚组委获悉，杭州亚运会市场开发体系包括赞助、特许经营（包括特许商品、纪念币纪念钞及纪念邮票）、市场运营、票务四大板块，其中赞助将分为官方合作伙伴（8~10个类别）、官方赞助商（15~20个类别）、官方供应商(包括独家供应商和非独家供应商）三个层级，每个层级设定基准价位，将根据企业对杭州亚运会的贡献和投入，给予市场营销权、接待权、产品和服务提供权及优先谈判权等权益回报。 <br/><div class="contheight"></div> 据悉，杭州亚运官方合作伙伴的市场营销期为4年左右，官方赞助商的营销期为3年左右，官方供应商的营销期为2年左右，各层级间的征集间隔约为半年。26日，首批五个类别官方合作伙伴征集正式启动，分别是信息技术集成和云服务、金融科技服务、通信服务、银行服务、航空服务。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="267" src="http://image.thepaper.cn/www/image/13/516/69.jpg" width="600"/></div> 第19届亚洲运动会将于2022年9月在中国杭州举行。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：谢春雷<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 杭州亚运会，市场开发计划，启动</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2775923">
+<div class="nbgbox">
+<a class="zan" contid="2775923" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 杭州亚运会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2775923&caid=25491",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2775923&amp;caid=25491" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

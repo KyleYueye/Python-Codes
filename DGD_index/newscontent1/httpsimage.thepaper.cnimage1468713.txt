@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">江西打掉涉黑组织91个，取消9557人村“两委”参选资格</h1>
+<div class="news_about">
+<p>江西政法微信公众号</p>
+<p>
+							2019-01-09 11:51<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">2018年，扫黑除恶成为群众最关注的话题之一。记者1月7日从省扫黑办获悉，自扫黑除恶专项斗争开展以来，全省各地各有关部门下重手、出重拳，向黑恶势力发起一轮又一轮凌厉攻势。截至2018年12月底，全省已打掉黑社会性质组织91个、恶势力犯罪集团305个，刑事拘留涉黑涉恶犯罪嫌疑人15055人，查封扣押涉案资产8.3亿余元。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/68/710.jpg" width="100%"/></div><span style="color: rgb(128, 128, 128);">全省扫黑除恶专项斗争推进会<br/><div class="contheight"></div></span>一年来，全省以“7+X”清单管理机制为抓手，层层压实工作责任，督促各地党政机关主要领导靠前指挥，深化、细化、实化扫黑除恶的目标任务、工作措施，强力推动各地专项斗争向纵深发展。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/68/709.jpg" width="100%"/></div><span style="color: rgb(128, 128, 128);">被摧毁的砂霸团伙成员</span><br/><div class="contheight"></div>全省各级政法机关聚焦涉黑涉恶问题突出的重点地区、重点行业、重点领域，把打击锋芒始终对准群众反映最强烈、最深恶痛绝的各类黑恶势力。宜黄县陈辉民、陈辉发为首黑社会性质组织案等一批大要案被“撕开口子”“揭开盖子”，一大批人民群众深恶痛绝的“市霸”“菜霸”“砂霸”黑恶势力团伙被打掉。<br/><div class="contheight"></div>全省以治理体系和治理能力建设为抓手，坚决打好扫黑除恶持久战。针对部分基层组织软弱涣散的情况，组织部门排查整顿软弱涣散村党组织1397个，联审取消9557人村“两委”参选资格，并将扫黑除恶内容纳入换届后新任村“两委”干部教育培训必修课；针对源头监管落实不够有力、部门齐抓共管机制不够健全的情况，组织省、市、县三级组建522个调研督导组，对全省矿产资源、工程建设、交通运输等行业在采矿、采砂、建筑工地、农村客运等领域中存在的涉黑涉恶违法犯罪开展调研督导，梳理涉黑涉恶问题线索196条；针对重点行业、领域整治不够有力的情况，组织开展打击串标违法犯罪专项行动、侵占公有资产资源专项整治，最大限度挤压黑恶势力滋生空间。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/68/708.jpg" width="100%"/></div><span style="color: rgb(128, 128, 128);">省高院依法对胡静雨等21人涉黑案作出二审判决</span><br/><div class="contheight"></div>为调动人民群众参与扫黑除恶专项斗争的积极性、主动性，我省在全国率先将扫黑除恶知晓率、满意度纳入全省公众安全感、政法满意度测评范围，同时，将扫黑除恶宣传发动贯穿专项斗争始终，建立有奖举报、举报人保护等工作机制。目前，全省督促、规劝454名涉黑涉恶人员投案自首，发放群众举报涉黑涉恶线索奖励金55.4万元。<br/><div class="contheight"></div>2018年，全省刑事警情下降15.3%，治安警情下降5.7%。全省公众安全感、满意度达96.64%、96.91%，均创历史新高，扫黑除恶专项斗争交出了一份人民满意的答卷。<br/><div class="contheight"></div>（ 原标题：江西打掉黑社会性质组织91个、恶势力犯罪集团305个）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李寿康<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 江西 打黑 村民</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831266">
+<div class="nbgbox">
+<a class="zan" contid="2831266" href="javascript:;" onclick="voteCont(this)" praisetimes="32">
+                           31</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 涉黑</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831266&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831266&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

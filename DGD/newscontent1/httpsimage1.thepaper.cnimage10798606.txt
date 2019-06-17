@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">灯罩掉落！宜家宣布召回部分批次吸顶灯产品</h1>
+<div class="news_about">
+<p>刘嘉郦</p>
+<p>
+							2018-09-26 15:06<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>宜家（中国）投资有限公司9月26日宣布召回批次为1625至1744（前两位数字表示年份，后两位数字表示星期）的克里普索吸顶灯。召回原因是有顾客在实际使用中发现该吸顶灯灯罩掉落。</u><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="138" src="http://image.thepaper.cn/www/image/10/798/552.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">宜家此次宣布召回的克里普索吸顶灯。<br/><div class="contheight"></div></span>据悉，批次为1625至1744的克里普索吸顶灯的玻璃灯罩卡扣设计可能导致灯罩发生意外破裂并脱落。在2016年8月1日之后购买了该款吸顶灯的消费者可以将产品带至就近的宜家商场，更换全新的克里普索吸顶灯，或者获得全额退款。需要提醒的是，更换产品或获得退款时，消费者不需要提供购买凭证。<br/><div class="contheight"></div>这是10天之内宜家第二次宣布召回灯具产品。一周之前，宜家（中国）投资有限公司向上海质量技术监督局报备，宣布召回斯米拉斯加纳、斯米拉马奈和斯米拉布洛玛壁灯，并在中国市场全线下架这三款产品。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="233" src="http://image.thepaper.cn/www/image/10/798/554.jpg" width="600"/></div><div><span style="color: rgb(153, 153, 153);">之前宣布召回的斯米拉斯加纳、斯米拉马奈和斯米拉布洛玛壁灯</span></div>克里普索吸顶灯的生产批次信息在玻璃灯罩中，消费者如需确定需打开玻璃灯罩。打开时应小心掰开可移动卡扣，并注意在不松开可移动卡扣的同时取下灯罩，以确保安全。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="295" src="http://image.thepaper.cn/www/image/10/798/551.jpg" width="400"/></div><span style="color: rgb(153, 153, 153);">图中1744即为产品批次，表示为2017年第44周生产。</span></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李淑平<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2475863">
+<div class="nbgbox">
+<a class="zan" contid="2475863" href="javascript:;" onclick="voteCont(this)" praisetimes="63">
+                           62</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 宜家</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2475863&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2475863&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

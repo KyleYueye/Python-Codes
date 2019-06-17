@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美加等46国反对！联合国大会否决俄中导条约提案</h1>
+<div class="news_about">
+<p>朱箫/海外网</p>
+<p>
+							2018-12-22 06:33<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><span style="color: rgb(128, 128, 128);"><div style="text-align:center;"><img alt="" height="408" src="http://image.thepaper.cn/www/image/13/391/585.png" width="600"/></div>俄罗斯总统普京与美国总统特朗普。视觉中国 图</span><br/><div class="contheight"></div>海外网12月22日消息，当地时间12月21日，联合国大会未通过俄罗斯提交的有关保留《中程导弹条约》的决议草案。其中有43个国家支持，46个国家反对，还有78个国家弃权。据悉，美国、加拿大、土耳其、乌克兰和所有欧盟成员国均投了反对票。<br/><div class="contheight"></div>据俄罗斯卫星通讯社12月21日消息，决议草案呼吁美俄继续就遵守《中导条约》进行双边磋商，并就战略问题重新进行建设性对话，以便在核裁军和巩固国际稳定方面取得进一步进展。决议草案还指出，联合国大会应考虑将破坏《中导条约》的行动视为妨碍全球战略稳定和地区安全的行动，并呼吁所有联合国会员国努力维护该协定。<br/><div class="contheight"></div>俄罗斯《消息报》报道称，俄罗斯常驻联合国代表处发言人斯特日若夫斯基15日表示，美国擅自启动暂停履行《中导条约》进程，俄方于14日向联合国大会就保留《中导条约》递交决议草案。<br/><div class="contheight"></div><span style="color: rgb(128, 128, 128);"><div style="text-align:center;"><img alt="" height="384" src="http://image.thepaper.cn/www/image/13/391/586.jpg" width="600"/></div>普京</span><br/><div class="contheight"></div>美国和俄罗斯近年来一再指责对方违反了《中导条约》。10月20日，特朗普以俄罗斯长期违反《中导条约》以及该条约限制美方研发新武器为由，宣布美将退出该条约。美国国务卿蓬佩奥12月4日称，如果俄不恢复遵守《中导条约》，美国将在60天后暂停履行条约义务。 美国认为，俄罗斯9М729（SSC-8）巡航导弹的射程违反《中导条约》。负责军备控制和国际安全事务的美国副国务卿汤普森12月6日表示，华盛顿呼吁俄罗斯销毁该型号导弹，也不要生产其改造类型。<br/><div class="contheight"></div>据美联社报道，12月20日，俄罗斯总统普京在年度新闻发布会上向美国发出警告，称核战争的威胁正在上升，并表示“美国的核武政策可能导致整个地球毁灭。”普京说，美国有意退出《中导条约》，如果美向欧洲部署中程导弹，俄罗斯将被迫采取对策。而普京11月在与俄罗斯国防部高级官员的会议中直言：“如果美国退出《中导条约》，我们不可能无动于衷，一定会采取报复行动。”俄罗斯政府官员12月4日表示，如果美国退出该条约，俄将发展“独特类型的武器”。<br/><div class="contheight"></div>《中导条约》全称为《苏联和美国消除两国中程和中短程导弹条约》，1987年12月8日由美苏两国领导人签署。条约规定两国不再保有、生产或试验射程在500公里至5500公里的陆基巡航导弹和弹道导弹。<br/><div class="contheight"></div>（原题为《美加等46国反对！联合国大会否决俄中导条约提案》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中导条约,联合国大会</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2762410">
+<div class="nbgbox">
+<a class="zan" contid="2762410" href="javascript:;" onclick="voteCont(this)" praisetimes="124">
+                           123</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中导条约</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2762410&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2762410&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（50）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

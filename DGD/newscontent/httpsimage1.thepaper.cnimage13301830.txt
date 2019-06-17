@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">世贸组织审议美国贸易政策，中欧等批评美保护主义措施</h1>
+<div class="news_about">
+<p>凌馨/新华社</p>
+<p>
+							2018-12-19 13:15<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社日内瓦12月18日消息，世界贸易组织（WTO）17日对美国进行贸易政策审议。在当天的会议上，包括中国、欧盟等在内的多个WTO成员对美国一年以来实施的钢铝关税等单边主义和保护主义政策，以及美国阻挠上诉机构成员遴选的做法提出批评。<br/><div class="contheight"></div>中国常驻世界贸易组织代表、特命全权大使张向晨表示，WTO规则体系的建立和多边贸易体制的发展离不开美国的贡献，但令人遗憾的是，自上次审议之后，特别是这一年来，在贸易政策领域，我们看到了一个力量和责任严重不匹配的美国。<br/><div class="contheight"></div>张向晨指出，美国不仅通过“232措施”限制钢铁和铝产品贸易，使贸易保护主义在“国家安全”的幌子下大行其道；通过“301措施”大面积提高关税，令沉寂多年的单边主义怪兽再次肆虐；还通过持续阻挠上诉机构成员遴选，让多边贸易体制的王冠明珠黯然失色。<br/><div class="contheight"></div>张向晨说，不久前，中国和欧盟等成员共同提出了改革WTO上诉机构的提案，中国也就WTO的整体性改革提出了三项原则和五点主张。中国希望与包括美国在内的所有成员一起，通过平等协商，推动WTO与时俱进，进行必要改革，适应经济全球化的发展，回应国际工商界的期待。<br/><div class="contheight"></div>欧盟常驻WTO代表马克·范霍伊克伦表示，美国的保护主义言论不幸转化成了实际行动，包括关税等在内的限制措施所带来的影响不仅可以在WTO内部感受到，也更广泛地体现在了全球增长预期中。<br/><div class="contheight"></div>范霍伊克伦表示，多边贸易体制正身陷危机，而美国则处在危机中心。作为很多WTO成员最重要的贸易伙伴，美国对自己曾经坚守的WTO规则的摇摆态度为未来投下了阴影。<br/><div class="contheight"></div>范霍伊克伦对上诉机构目前所处的危机表示遗憾。他表示，损害上诉机构大法官裁决的独立性不仅不会让WTO改革成功，反而会导致各方共同从中受益的多边贸易体制的崩溃。<br/><div class="contheight"></div>日本代表对美国的“232措施”表示“十分遗憾”，认为该措施扰乱了全球市场，并给多边贸易体制带来负面影响。日本担心美国以“国家安全”为借口采取的贸易限制措施未来可能进一步扩大，并强调“以牙还牙”的贸易限制措施对任何国家都没有好处。<br/><div class="contheight"></div>世贸组织贸易政策审议是与谈判、争端解决并列的世贸组织三大功能之一，目的是增加各成员的贸易政策透明度，评议被审议成员经贸政策动向，并就有关贸易政策和措施表达关注。上一次对美国的审议是在2016年12月。<br/><div class="contheight"></div>（原题为《综述：世贸组织审议美国贸易政策　中欧等批评美保护主义措施》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 欧盟,美国,贸易</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2752217">
+<div class="nbgbox">
+<a class="zan" contid="2752217" href="javascript:;" onclick="voteCont(this)" praisetimes="14">
+                           13</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 欧盟</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2752217&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2752217&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

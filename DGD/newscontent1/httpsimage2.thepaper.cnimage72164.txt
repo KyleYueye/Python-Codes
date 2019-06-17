@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">洲际酒店集团收购丽晶酒店及度假村51%股份</h1>
+<div class="news_about">
+<p>刘玉侠</p>
+<p>
+							2018-03-15 14:10<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">3月14日，洲际酒店集团宣布，以3900万美元现金收购丽晶酒店及度假村（以下称“丽晶”）51%的股份，且拥有在2026年以后分期收购剩余49%股份的权利。洲际方面表示，要将丽晶定位于旗下豪华酒店板块中最顶级的位置，并且将会大力推进其在全球的发展，计划将目前的六家丽晶酒店，在未来发展至40余家，遍布世界各门户城市和度假胜地。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="194" src="http://image.thepaper.cn/www/image/7/2/169.jpg" width="600"/></div>此次洲际收购丽晶，按照华美酒店顾问机构首席知识官、高级经济师赵焕焱的说法，“可以在洲际品牌已经布局的地区发展丽晶品牌，品牌资源将更加丰富”。从洲际的财报和之前的计划来看，收购丽晶是其不断扩张市场的进程中，努力扩大其在豪华酒店领域优势的重要策略。<br/><div class="contheight"></div>据了解，洲际酒店集团旗下拥有多家高端酒店品牌，其中包含奢华酒店品牌的洲际酒店及度假村，华人专属定制豪华酒店品牌的HUALUXE华邑酒店及度假村，高档酒店品牌的皇冠假日酒店及度假村，精品酒店的英迪格酒店等酒店品牌。事实上，虽然洲际酒店集团品牌种类较多，但奢华酒店只有洲际酒店及度假村。<br/><div class="contheight"></div>业内人士指出，相对于其他国际酒店集团来说，洲际酒店集团在超高端酒店品牌的竞争力方面确有不足。据全球酒店行业权威媒体美国《HOTELS》杂志公布的全球酒店集团排名，排名第一的万豪酒店集团旗下除了拥有若干高端酒店品牌，还拥有奢华酒店品牌丽思卡尔顿，而排名第二的希尔顿集团旗下则拥有华尔道夫酒店。相比之下，洲际酒店集团在超高端酒店品牌并无与之媲美的酒店品牌。<br/><div class="contheight"></div>而豪华酒店是增长快速、价值高达600亿美元的版块，面对如此巨大市场。此前，洲际酒店集团在公布2017财年的财务数据时曾透露，计划收购一家奢华酒店品牌，以增强洲际酒店集团在高端酒店市场的竞争力。<br/><div class="contheight"></div>2月20日，洲际酒店集团发布2017年财报中曾提及，专门成立了一个“豪华酒店版块”的团队，专注于进一步提升在该领域的竞争力。<br/><div class="contheight"></div>洲际首席执行官柏思远表示，作为奢华酒店的先锋，丽晶的加入极大强化了洲际的品牌组合。新创立的豪华酒店业务板块将由业界最富经验的专业人士组成，以推动洲际在豪华酒店领域的发展，确保已有的豪华酒店品牌持续升级，并引入更多新品牌，夯实品牌组合。<br/><div class="contheight"></div>值得注意的是，几乎与洲际酒店集团同时，另一家国际酒店雅高酒店集团也表示，未来将会通过收购的方式增强集团竞争力，并重点提到了“奢华酒店”这一领域。<br/><div class="contheight"></div>业内人士表示，高端酒店品牌的发展不仅仅是收购那么简单，酒店品牌尤其是高端品牌的建立需要长时间培育，洲际酒店集团在扩张高端品牌之路还有很多工作要做。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李淑平<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2029704">
+<div class="nbgbox">
+<a class="zan" contid="2029704" href="javascript:;" onclick="voteCont(this)" praisetimes="7">
+                           6</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 洲际酒店</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2029704&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2029704&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

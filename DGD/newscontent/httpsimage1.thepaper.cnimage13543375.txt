@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">90后女博士私企工作两年就任副市长，官方：系社会实践挂职</h1>
+<div class="news_about">
+<p>澎湃新闻记者 韩雨亭 蒋子文</p>
+<p>
+							2018-12-27 09:09<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2774908" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">福建福清任命一名90后女副市长：北大光华管理学院在读博士</span></a></img></p></div>
+<div class="news_txt" data-size="standard">2018年12月25日，福建省福清市十七届人大常委会第十八次会议经过审议，决定任命“90后”北京大学女博士研究生袁琳为福清市副市长。此消息一出，引发社会舆论广泛关注。<br/><div class="contheight"></div>公开简历显示，出生于1990年3月的袁琳是河北平乡人，2008年6月起在美国莱斯大学社会科学学院经济系经济学、管理学专业攻读本科，2012年8月至2013年5月在该校乔治布朗工程学院统计系继续攻读统计学硕士，在私企工作两年后于2015年9月进入北京大学光华管理学院金融系攻读博士。<br/><div class="contheight"></div>对此，有舆论质疑仅有两年私企工作经历、目前仍是在读博士的袁琳被任命为福清市副市长是否符合组织流程？<br/><div class="contheight"></div>福清市是福州市代管的福建省县级市。针对外界质疑，福州市委宣传部门12月27日向澎湃新闻（www.thepaper.cn）解释称，此次袁琳担任福清市政府科技副市长为短期挂职锻炼，而非引进生。<br/><div class="contheight"></div>根据福建省与北京大学校地合作协议，北京大学选派在读研究生骨干赴福建省短期挂职锻炼，属于社会实践。挂职时间根据在读研究生骨干学业（工作）情况、学校安排和地方实际确定，最长不超过1年。挂职期间应完成调研报告，为地方建言献策，挂职期满返校继续完成学业。<br/><div class="contheight"></div>今年以来，北京大学已推荐3名优秀博士研究生骨干到福建省相关部门和基层一线挂职锻炼，参加社会实践。其中，袁琳挂职担任福清市政府科技副市长，挂职时间10个月，挂职期满职务自然免除。<br/><div class="contheight"></div>此外，福州市委宣传部门还强调称，袁琳挂职福清市副市长无行政级别，不是引进生，其短期挂职锻炼属于社会实践。<br/><div class="contheight"></div>另据北京时间12月27日报道，福州市委组织部人才办介绍，袁琳虽然挂职担任副市长，但是人事关系和档案仍在北京大学，并没有成为公务员，福州市也不给她发工资，仅仅提供必要的食宿安排的通勤费用。</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王俊<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 90后干部，福建福清，女博士，挂职</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2779060">
+<div class="nbgbox">
+<a class="zan" contid="2779060" href="javascript:;" onclick="voteCont(this)" praisetimes="1387">
+                           1386</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 90后干部</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2779060&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2779060&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（2.5k）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

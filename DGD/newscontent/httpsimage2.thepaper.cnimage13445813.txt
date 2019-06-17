@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25464">澎湃质量报告</a>
+</div>
+<h1 class="news_title">顾客投诉外卖里吃出烟头，商家回复：估计还能吃出一包香烟</h1>
+<div class="news_about">
+<p>楚天都市报</p>
+<p>
+							2018-12-24 09:06<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="535" src="http://image.thepaper.cn/www/image/13/445/811.jpg" width="400"/></div><span style="color: rgb(128, 128, 128);">吃出的烟头</span><br/><div class="contheight"></div>点的外卖里吃出烟头，在网上投诉此事，不想商家却直接回复，“估计再吃下去能吃出一包香烟。”昨日，顾客刘先生说，他对商家的回复感到气愤。<br/><div class="contheight"></div> 刘先生介绍，他在洪山区珞狮南路附近工作，21日中午因为工作忙错过了饭点，他通过外卖平台点了一份午餐。外卖送达后，刘先生没吃一两分钟就觉得菜的味道有点不对，吐出一看竟然是一枚烟头。他非常气愤，于是向外卖平台投诉，并打开外卖APP在该店铺页面下点评。次日，他发现商家对点评进行了回复，但回复让他更加气愤。<br/><div class="contheight"></div> 楚天都市报记者看到，刘先生在点评中称：“这家绝对不要吃了，我今天吃出了烟头，还有我的牙齿印，我忽然觉得味道不对，吐出来一看，真的脏。”而对于投诉，商家在回复中表示：“不好意思了，估计在（再）吃下去能吃出一包香烟。”<br/><div class="contheight"></div> 刘先生说，他发表评论后，还想着内容对商家的生意可能有影响，如果商家打电话给他道歉，他会考虑删除评价。让他没想到的是，商家非但没认识到自己的错误，还回怼投诉的顾客，面对商家如此回复，他更加生气了。<br/><div class="contheight"></div> 昨日下午，记者在珞狮南路上找到刘先生投诉的这家店，该店名叫铁匠炉火锅牛肉馆，店铺面积不大，厨师正在炒饭，一旁的餐台上还摆放着很多已经打包好的菜品。<br/><div class="contheight"></div> 店铺内多名工作人员称，他们在此新开店不久，当日刘先生点了一份胡萝卜烧鸭肉，优惠后价格不到10元钱。他们平时很注意菜品卫生，烟头不可能是厨师在做菜过程中掉入菜里的。刘先生称在菜里吃出烟头，他们感觉很奇怪，猜测是有人在捣鬼，故而一气之下才对刘先生的点评做了上述回复。不过现在回想觉得，如此回复确实不妥，不是正确对待顾客投诉的方式。这件事也给了他们一个教训，以后再面对顾客投诉会更加理性。接到投诉后，卖家退了菜钱，还赔了十几元钱。<br/><div class="contheight"></div> 刘先生表示，自己确实从菜品里吃出烟头，自己给商家差评并非无理取闹或者故意陷害店家。目前，刘先生已经通过微博向武汉市食品药品监管部门和外卖平台反映此事。<br/><div class="contheight"></div>（原标题《图文：顾客网上投诉外卖里吃出一枚烟头 不料竟遭商家回怼：再吃下去能吃出一包香烟》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：段彦超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 外卖,差评,烟头</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2767775">
+<div class="nbgbox">
+<a class="zan" contid="2767775" href="javascript:;" onclick="voteCont(this)" praisetimes="63">
+                           62</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 订餐外卖</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767775&caid=25464",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767775&amp;caid=25464" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（405）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

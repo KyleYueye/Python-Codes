@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜蔬菜之乡寿光受灾，对菜价传导也要未雨绸缪</h1>
+<div class="news_about">
+<p>澎湃特约评论员 远山</p>
+<p>
+							2018-08-24 17:41<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2376556" target="_blank">
+<span class="p_time">直播录像</span>
+<img alt="马上评｜蔬菜之乡寿光受灾，对菜价传导也要未雨绸缪" src="//image2.thepaper.cn/image/9/866/936.jpg"/>
+</a>
+<div class="atlas_360_txt">直播录像丨山东寿光20万个蔬菜大棚被淹，蔬菜价格飙涨<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">受洪水影响，山东寿光20万个蔬菜大棚被淹，导致蔬菜价格大幅上升。其中叶菜类的价格尤其明显，白菜、芹菜、茄子等菜的涨幅高的达到25%，有网友晒出8月23日寿光香菜价格：39.90元/斤。一斤香菜能买三四斤猪肉。<br/><div class="contheight"></div>肉蛋菜都是民众生活必需品，购买频次高，因此一旦出现较大幅度的增长，就会直接影响到民众的“菜篮子”。山东是蔬菜大省，寿光更被称为蔬菜之乡，华北很多大城市，蔬菜供应都离不开山东，离不开寿光。<br/><div class="contheight"></div>这次山东遭遇大范围暴雨洪灾，寿光尤其严重：蔬菜大棚被淹，大批牲畜死亡，种养植户损失惨重，很多人辛辛苦苦一年的收成泡了汤。外地人不设身处地，可能很难体会到灾情的严重，但没想到暴雨洪灾带来的“蝴蝶效应”，令包括北京在内的很多城市菜价波动，菜篮子告急。很多人这才意识到，灾害影响的，并不只是山东人。<br/><div class="contheight"></div>从经济学的角度看，供求关系是价格的重要决定因素。洪灾过后，由于鲜菜、肉蛋等产品供给减少，加之道路运输成本上升，菜价上涨也是难免的。涨价能在一定程度上弥补农户损失，也能刺激农户加快生产、商贩从外地进货，从而增加供给。<br/><div class="contheight"></div>不过也要看到，既然鲜菜、肉蛋是生活必需品，是经济问题，也是民生问题，就不能将之简单地交给市场自行调节。民间已经真切感受到了菜价不断上涨，所承受的生活成本压力与日俱增。如果仅仅把问题交给市场，过于放大“无形的手”的作用，带来的后果必然是民众负担加重。如果菜价进一步暴涨，还可能推高CPI，影响经济正常运行。<br/><div class="contheight"></div>无论是从灾后恢复，还是稳定经济运行的角度，菜价的普遍上涨都值得政府部门警惕，并及时应对。农业、商务、物价等部门可以协同起来，及时调研摸底，做好市场监控，全面掌握菜价上涨情况，并采取针对性措施。<br/><div class="contheight"></div>对产地来说，最重要的是尽快排涝除险、恢复生产，政府部门和金融机构给予必要的政策帮扶和资金支持。对消费地来说，相关部门应加大从不同地区采购的力度，如果是运力不足导致蔬菜输入量下降、价格上涨，有关部门不妨积极协调，组织更多运力投放到蔬菜运输环节，开辟绿色通道，降低物流成本。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 寿光洪灾</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2377453">
+<div class="nbgbox">
+<a class="zan" contid="2377453" href="javascript:;" onclick="voteCont(this)" praisetimes="97">
+                           96</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 寿光洪灾</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2377453&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2377453&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（34）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

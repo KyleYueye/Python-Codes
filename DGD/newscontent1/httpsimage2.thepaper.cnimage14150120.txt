@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">微信“监控”隐私？腾讯：均已匿名脱敏</h1>
+<div class="news_about">
+<p>温婧/北京青年报</p>
+<p>
+							2019-01-11 06:21<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">北京青年报1月11日消息，在2018微信公开课上，腾讯发布了一份微信数据报告，其中包括网友常用的表情、睡眠时间和视频通话习惯。有网友质疑微信“监控”了聊天数据。<br/><div class="contheight"></div>腾讯对此表示，微信年度数据报告严格遵守相关法律法规的要求，所有数据均已匿名及脱敏化处理，不涉及具体用户的隐私内容；并表示表情数据根据点击频次统计，视频通话的亲子关系则是依据年龄的一种推测。<br/><div class="contheight"></div><strong>事件<br/><div class="contheight"></div>00后爱“捂脸”<br/><div class="contheight"></div>微信报告被指“监控”隐私</strong><br/><div class="contheight"></div>在1月9日腾讯发布的微信大数据报告中，对各年龄层用户特征进行了画像描述，比如00后爱晚睡早起，睡眠时间最短以及偏爱冷饮和甜品。90后公共交通出行最频繁，每个月25次。80后无论早晚都热爱阅读，日间精力主要用来工作。70后休闲时刻爱刷朋友圈，每天23：30左右睡去。<br/><div class="contheight"></div>此外，报告还支出，55岁以上人群爱早睡早起，与太阳同步作息。日间线上娱乐丰富：刷圈、阅读、购物，晚餐后习惯与子女视频通话。<br/><div class="contheight"></div>该报告还归纳了各个年龄层最爱用的表情包，比如00后爱“捂脸”、90后爱“笑哭”、80后爱“龇牙笑”、70后爱“捂嘴笑”、55岁以上人群喜欢“大拇指”。<br/><div class="contheight"></div>看到如此详细的数据，网友纷纷表示“原来我们的个人身份信息和活动轨迹都掌握在腾讯手里”，“微信不读取聊天内容，怎么统计表情使用画像？”不少网友留言指出微信“监控”了聊天数据。而针对“55岁以上用户喜欢在晚餐后与子女视频通话聊天”的结论，网友也提出质疑：“微信怎么知晓他们的关系？”<br/><div class="contheight"></div><strong>回应<br/><div class="contheight"></div>亲子关系仅为猜测<br/><div class="contheight"></div>所有数据已匿名脱敏处理</strong><br/><div class="contheight"></div>针对网友质疑，微信方面昨天回应北京青年报记者表示，尊重和保护用户隐私，是微信一直坚守的原则。微信年度数据报告严格遵守相关法律法规的要求，所有数据均已匿名及脱敏化处理。<br/><div class="contheight"></div>其中关于表情数据的统计方法，微信表示，是根据表情面板内不同表情的点击频次所得，不涉及任何具体用户隐私行为和内容。<br/><div class="contheight"></div>针对视频通话中的亲子关系统计，腾讯表示仅是猜测：“通过数据，我们发现在特定时间段内年龄较长用户与年轻用户视频通话比较多，由此推测是亲子之间的行为”。微信并不能判断两个用户之间的真实关系情况。<br/><div class="contheight"></div>微信的隐私安全问题一直被关注，有企业家谈到“隐私保护和信息安全”问题时特别提到微信，认为微信可以看到用户的聊天记录。<br/><div class="contheight"></div>对此，微信当时表示，微信不留存任何用户的聊天记录，聊天内容只存储在用户的手机、电脑等终端设备上。<br/><div class="contheight"></div>北青报记者注意到，就在前不久腾讯发布的《腾讯隐私保护白皮书》称，在安全机制上，腾讯运用数据加密、数据脱敏、去识别化等多种安全技术，研发多款内部安全工具和用户终端安全产品，保障数据安全。<br/><div class="contheight"></div>腾讯还表示，已搭建跨部门、跨业务、跨系统的数据和隐私保护团队，将数据保护策略制度化、数据管理流程规范化。<br/><div class="contheight"></div>（原题为《微信“监控”隐私？腾讯：均已匿名脱敏》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 微信数据报告</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2839842">
+<div class="nbgbox">
+<a class="zan" contid="2839842" href="javascript:;" onclick="voteCont(this)" praisetimes="93">
+                           92</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 微信数据报告</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2839842&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2839842&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（109）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,76 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25490">打虎记</a>
+</div>
+<h1 class="news_title">甘肃武威市原副市长姜保红被双开：搞政治攀附，参与团团伙伙</h1>
+<div class="news_about">
+<p>中央纪委国家监委网站</p>
+<p>
+							2019-01-10 10:56<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中央纪委国家监委网站1月10日消息，据甘肃省纪委监委消息：日前，经甘肃省委批准立案的武威市政府原副市长姜保红严重违纪违法案，甘肃省纪委监委已审查调查终结。<br/><div class="contheight"></div>经查，姜保红在任武威市招商局局长、发改委主任、副市长期间，严重违反政治纪律和政治规矩，搞政治攀附，参与团团伙伙，捞取政治资本和经济利益，严重破坏了任职地方的政治生态；对抗组织审查，伪造证据，转移隐匿违纪违法所得。违反中央八项规定精神，多次参与超标准接待；多次出入私人会所，接受高档宴请。违反组织纪律，不按规定报告个人有关事项；不如实报告个人外出去向；利用职务便利为请托人职务晋升提供帮助。违反廉洁纪律，收受可能影响公正执行公务的礼金；搞权色交易，谋求职务晋升等不当利益。违反生活纪律。利用职务上的便利为他人谋取利益，非法收受他人财物，数额巨大，涉嫌受贿犯罪。<br/><div class="contheight"></div>姜保红身为党员领导干部，理想信念丧失，宗旨意识泯灭，价值观念扭曲，政治蜕变，经济贪婪，生活堕落。严重违反党的纪律，并涉嫌违法犯罪，且在党的十八大后不收敛、不收手，性质恶劣，情节严重。依据《中国共产党纪律处分条例》和《行政机关公务员处分条例》等有关规定，经甘肃省纪委常委会会议暨省监委委务会审议并报甘肃省委批准，决定给予姜保红开除党籍、开除公职处分；收缴其违纪违法所得；将其涉嫌犯罪问题移送司法机关依法处理。<br/><div class="contheight"></div><strong>姜保红简历</strong><br/><div class="contheight"></div>姜保红，女，汉族，1974年4月15日出生，黑龙江省哈尔滨市呼兰区人，在职研究生学历，法学博士，1997年7月参加工作，2003年9月加入中国共产党。<br/><div class="contheight"></div>2008年12月任甘肃省维护社会稳定工作领导小组办公室二处副处长；<br/><div class="contheight"></div>2012年1月任武威市招商局党组书记、局长；<br/><div class="contheight"></div>2012年4月任武威市招商局党组书记、局长，市政府副秘书长（兼）、市政府办公室党组成员；<br/><div class="contheight"></div>2013年10月任武威市发展和改革委员会党组书记、主任，市政府副秘书长（兼）、市政府办公室党组成员；<br/><div class="contheight"></div>2014年5月任武威市发展和改革委员会党组书记、主任，天祝藏族自治县县委副书记（兼）、县委常委、县委委员；<br/><div class="contheight"></div>2015年7月任武威市发展和改革委员会党组书记、主任；<br/><div class="contheight"></div>2016年11月至2018年9月任武威市人民政府党组成员、副市长；<br/><div class="contheight"></div>原系武威市第四届人大代表。（甘肃省纪委监委）<br/><div class="contheight"></div>（原题为《甘肃省武威市原副市长姜保红被开除党籍和公职》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2337017" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">“70后”武威女副市长被查，曾共事5年的市委书记上月落马</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2336708" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">甘肃省武威市副市长姜保红接受纪律审查和监察调查</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 甘肃,姜保红</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835711">
+<div class="nbgbox">
+<a class="zan" contid="2835711" href="javascript:;" onclick="voteCont(this)" praisetimes="161">
+                           160</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 甘肃打虎</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835711&caid=25490",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835711&amp;caid=25490" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（103）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

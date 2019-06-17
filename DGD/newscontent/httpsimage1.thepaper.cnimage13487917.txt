@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25436">能见度</a>
+</div>
+<h1 class="news_title">印度首都遇今年最严重雾霾，去年全国124万人死于空气污染</h1>
+<div class="news_about">
+<p>王宏彬/新华社</p>
+<p>
+							2018-12-25 15:34<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="377" src="http://image.thepaper.cn/www/image/13/487/922.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">当地时间2018年12月24日，印度新德里，车辆在浓雾中行驶。 视觉中国 图</span><br/><div class="contheight"></div>印度首都新德里最近两天空气有害颗粒物指数连连破表，遭遇今年以来最严重雾霾，当地政府部门将预警级别由“严重”上调到“紧急”。<br/><div class="contheight"></div>印度政府先前指认一些地区焚烧秸秆的陋习仍未革除，是造成雾霾的主要原因。<br/><div class="contheight"></div><strong>连日雾霾</strong><br/><div class="contheight"></div>印度中央污染控制委员会发布的数字显示，新德里23日直径小于等于2.5微米颗粒物(PM2.5)平均浓度为每立方米450微克，这一数值24日是449微克。<br/><div class="contheight"></div>新德里上一轮重雾霾发生在今年6月15日，那天PM2.5指数是447，由沙尘暴所致。<br/><div class="contheight"></div>印度中央污染控制委员会官员说，首都这一轮雾霾天气预计将持续到本月26日下午。雾霾长久不散的原因是空气缺乏流动。<br/><div class="contheight"></div>包含新德里在内的德里地区，空气污染指数更高，某些区域24日PM2.5指数达到654，能见度为200米。<br/><div class="contheight"></div>印度中央污染控制委员会宣布多项应急措施，包括关闭一些重污染区的工厂和建筑工地，要求柴油车不得上路。<br/><div class="contheight"></div><strong>呼吁整治</strong><br/><div class="contheight"></div>环境保护专家认为，印度空气污染状况迟迟得不到改善，需要政府部门协同努力才能有效治理雾霾。<br/><div class="contheight"></div>只是，印度联邦政府、新德里市政府和新德里周围邦政府对雾霾状况持不同意见，给问责和整治增添难度。<br/><div class="contheight"></div>联邦政府今年10月和11月说，新德里周边的几个邦没有杜绝焚烧秸秆的陋习，使首都空气污染严重。印度中央污染控制委员会发布的数据显示，新德里今年12月的PM2.5平均指数比前两个月更高。<br/><div class="contheight"></div>新德里首席部长阿尔温德·凯杰里瓦尔多次在公开场合谈及雾霾状况，呼吁加大整治力度。<br/><div class="contheight"></div>世界卫生组织今年5月发布的空气污染数据显示，去年全球空气污染最严重的15座城市中14座是印度城市；其中坎普尔排名第一，新德里排名第六。<br/><div class="contheight"></div>英国《柳叶刀·星球健康》杂志本月发表的一份研究报告显示，印度124万人2017年死于空气污染，占死亡总数的12.5%。<br/><div class="contheight"></div>（原标题：印度首都遇今年最严重雾霾）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772701">
+<div class="nbgbox">
+<a class="zan" contid="2772701" href="javascript:;" onclick="voteCont(this)" praisetimes="11">
+                           10</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 印度雾霾</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772701&caid=25436",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772701&amp;caid=25436" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

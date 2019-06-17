@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">农业农村部：稳定土地承包经营权，推全国性土地流转合同文本</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林平</p>
+<p>
+							2018-12-29 19:39<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">在推进土地制度改革过程中，如何通过修法打消农民“没了土地，就觉得失去了一切”的后顾之忧？<br/><div class="contheight"></div>12月29日，十三届全国人大常委会第七次会议表决通过了关于修改农村土地承包法的决定。澎湃新闻（www.thepaper.cn）注意到，在随后召开的关于新修改的农村土地承包法专题新闻发布会上，农业农村部政策与改革司副巡视员孙邦群表示，此次修法目的就是让农民能够拿到稳定的承包经营权，农民在土地流转过程中不存在“流转了土地就失去”的问题，将推出全国标准的土地经营权流转合同进行规范。<br/><div class="contheight"></div>孙邦群指出，从土地流转来说，中央制度安排叫落实所有权，稳定承包权，放活经营权。这个制度创新已经体现在这次修法上。从农民角度来说，不存在流转了之后土地就失去了的问题。<br/><div class="contheight"></div>2017年11月，澎湃新闻曾刊发报道《广西贫困县土地流转样本：三年登记10万余亩》，调研了有关土地流转改革的成果和现状，并指出了土地流转之难：“土地情结”导致很多村民仍对土地流转存在疑虑：“没了土地，就觉得什么都没有了”。<br/><div class="contheight"></div>孙邦群说，从中央要求到法律规定，包括我们在实践过程中用了五年时间在全国对农民承包经营权做了确权登记颁证，目的就是让农民能够拿到稳定的承包经营权。承包经营权是农民的，是物权。之后，农民可以按照自己的意愿来进行有计划地流转，也可以入股、退出、互换。<br/><div class="contheight"></div>澎湃新闻观察到，农村土地承包法第26条和第27条（修改后是第27条、第28条）是此次修法两大核心条款。其中，承包期内不得随意调整农民的承包地，不得随意收回农民的承包地，是修法的核心。<br/><div class="contheight"></div>“这是中央所要求的，在保护所有权和承包权的前提下，平等保护农民的土地经营权。”孙邦群还表示，为了平等保护经营权，相关部门还推出了一系列的措施，包括流转市场规范化建设，这次根据新法相关精神，将进一步完善流转市场管理办法。<br/><div class="contheight"></div>另一方面，农民的顾虑还与对流转合同的条款规定不是太清楚有关，“下一步还准备推出全国标准的土地经营权流转合同文本，进一步规范。”孙邦群说。<br/><div class="contheight"></div>此外，此次修法还专门增加了一项规定，“国家保护进城农户的土地承包经营权，不得以退出土地承包经营权作为农户进城落户的条件”。<br/><div class="contheight"></div>全国人大农业与农村委员会办公室主任何宝玉表示，稳定农村土地承包关系，很重要的一点，就是发包方在承包期内不得随意收回承包地，使广大农民真正地感到土地承包经营权是有切实保障的。否则，稳定的土地承包关系就无从谈起。<br/><div class="contheight"></div>何宝玉表示，对进城农民来说，承包地和宅基地的权益是他们在农村的最后一点财产和利益。“如果农户一进城，就收回承包地，反而造成有些农户不愿意进城，对部分农户在进城后一段时间内，既有城镇居民的身份同时又保留土地承包权益，整体上讲不妨宽容一点、大度一点，不要一看到农户进城，就急急忙忙把承包地收回来”。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陈绪厚<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 农业农村部 土地经营权 流转</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2792891">
+<div class="nbgbox">
+<a class="zan" contid="2792891" href="javascript:;" onclick="voteCont(this)" praisetimes="39">
+                           38</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 土地流转</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2792891&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2792891&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

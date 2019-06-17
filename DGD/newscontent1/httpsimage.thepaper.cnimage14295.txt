@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">奥地利阿尔卑斯山区发生雪崩2人死亡，超万名游客滞留度假村</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2019-01-07 15:24<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社维也纳1月6日报道，据当地媒体6日报道，奥地利阿尔卑斯山区两天来多次发生雪崩，导致2名滑雪者丧生。与此同时，厚重的积雪阻塞交通，迫使一万余名游客滞留当地度假村。<br/><div class="contheight"></div>据报道，自当地时间5日上午以来，阿尔卑斯北部山区降落的大雪已超过半米。厚重的积雪压垮树木，阻塞道路，雪崩事故多发。<br/><div class="contheight"></div>在奥地利福尔贝格州山区发生的两次雪崩事故中，两名德国年轻男性滑雪者遇难。当时他们都装备齐全，穿着可充气、有助于在雪崩时浮于雪层表面的防护背心。<br/><div class="contheight"></div>此外，一名瑞士女子6日在福尔贝格州山区进行单板滑雪运动过程中，不慎在转弯时滑出雪道从一处陡坡摔下，重伤头部后不幸遇难。<br/><div class="contheight"></div>厚重的积雪还导致约1.2万名旅游者受困于奥地利上陶恩等多个度假村。直到当地时间6日下午，才有部分游客在救援者帮助下撤离。<br/><div class="contheight"></div>雪崩危险程度通常分作5级。奥地利阿尔卑斯山区雪崩危害等级往往仅次于顶级。然而一些滑雪者常无视专业机构的警告，到规定雪道以外的区域“自由行”，从而导致人身伤亡的悲剧发生。<br/><div class="contheight"></div>（原题为《奥地利阿尔卑斯山区发生雪崩2人死亡》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 奥地利,阿尔卑斯山区,雪崩,死亡</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2823814">
+<div class="nbgbox">
+<a class="zan" contid="2823814" href="javascript:;" onclick="voteCont(this)" praisetimes="20">
+                           19</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 阿尔卑斯山雪崩</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2823814&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2823814&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

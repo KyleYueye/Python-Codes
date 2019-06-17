@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25438">财经上下游</a>
+</div>
+<h1 class="news_title">减税红包引发房东租客博弈，法制日报：相关政策应及时跟进</h1>
+<div class="news_about">
+<p>吴学安/人民日报</p>
+<p>
+							2019-01-09 06:55<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">法制日报1月9日消息，1月1日，个人所得税专项附加扣除政策正式实施，子女教育、继续教育、大病医疗、住房贷款利息或者住房租金、赡养老人等六项专项附加扣除成了新年的第一个大礼包。然而，专项附加扣除信息填报功能正式上线使用仅一周、真金白银的获得感还没进袋，不少租房人在填报时就遇到了阻碍。要享受租金抵扣一项，需要填写相关住房租金信息。但以目前租房市场的情形来看，房主势必转嫁纳税成本，最终租客很可能陷入“个税抵扣几十元、房租却上涨几百元”的尴尬(1月8日《中国青年报》)。<br/><div class="contheight"></div>长期以来，国内大部分房东从未收了房租去报税，“不缴税”基本成了租房市场的现状，但这并不意味着不需要缴税。从长远看，个人房屋出租缴税规范化是必然的，这不仅仅是由于本次“专项扣除”所带来的信息披露，还包括税务部门对金融、不动产管理等单位越来越多的信息整合。在现阶段，减税降费才是大方向，房租抵扣个税也是降低个人税负的一部分，但要让减税红包真正惠及纳税人，考验的是执政者的智慧和耐心。<br/><div class="contheight"></div>个人所得税体系的完善是一个大方向，不管是从征收还是抵扣的角度，都是朝着综合征缴的方向不断改进，但短期内引起不同纳税主体的不同反应在所难免。目前，多数城市租赁市场是供方市场，房屋租住是刚需且租赁房源短缺，买卖双方话语权不对等。<br/><div class="contheight"></div>在房东占有话语权的情况下，倘若诸多房东因为担心追缴税费而通过涨房租的形式来弥补，势必会把税费的损失转嫁到租金里面，这样租客不仅享受不到福利，反而会承担更多的生活与经济压力，此与减轻民生负担、让利于民的个税改革目标相背离。<br/><div class="contheight"></div>有鉴于此，税务部门应采取一些过渡性措施，以保证这种抵扣能够比较平稳地进行，使纳税人、尤其是中低收入群体能够有切实的获得感。要避免房东转嫁税负到租客身上，税务部门进行澄清，打消房东增加税费的忧虑。<br/><div class="contheight"></div>一方面，房租的专项扣除金额是定额的，纳税人不必填报具体租金金额，税务机关不会借此掌握房东具体的租金收入情况，更不可能以此为据，向房东征收应当按比例缴纳的租赁税；另一方面，在坚持税法原则性的同时，灵活执行政策，留有缓冲空间，正确认识之前存在的客观事实，在积极推动个人出租房屋缴税规范化的前提下不能激进执法，不搞“运动式清算”，考虑出租方税收增加与承租方税收扣除的政策对冲效应，妥善处理衔接问题。<br/><div class="contheight"></div>减税红包意外增加了租客和房东之间的博弈，引发了房东的焦虑，也成了可能推涨房租的暗手……这一系列问题的解决，需要政府将好事做到底，既要严格征税，避免房东偷税漏税，又要适当减轻房东的压力，给予一些优惠措施，这样也才能让激励房东积极配合，让出租房交税不再落空，也让租金抵扣个税的善政不至于遭遇落地难。<br/><div class="contheight"></div>从长远看，政府要考虑将新个税抵扣办法与正在推进的房地产税立法进行衔接，找到有效、有力的破解点，出台细化配套措施并得到有力执行，以鼓励各方参与新个税抵扣法的积极性，从而释放更多政策红利，真正给居民减负，惠及更多民众。<br/><div class="contheight"></div>（原题为《房租抵扣个税要有政策跟进》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 个税,房租</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2830180">
+<div class="nbgbox">
+<a class="zan" contid="2830180" href="javascript:;" onclick="voteCont(this)" praisetimes="18">
+                           17</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 个税</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2830180&caid=25438",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2830180&amp;caid=25438" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（40）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

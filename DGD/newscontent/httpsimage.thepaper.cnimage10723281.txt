@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">我国首次法律职业资格考试参考人数达47万余人</h1>
+<div class="news_about">
+<p>王茜/新华社</p>
+<p>
+							2018-09-23 07:29<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社9月22日消息，我国首次国家统一法律职业资格考试报名总人数60.4万余人，47万余人参加考试，与2017年的国家司法考试“收官”之考相比，法考首场考试参考率上升了2.54%。这是记者22日从司法部了解到的。<br/><div class="contheight"></div>据介绍，首次“法考”分为客观题考试和主观题考试两阶段，22日开考的客观题考试是首次在全国实行计算机化考试。全国考点总数为916个，全国考场总数为10748个。首场考试参考率为77.89%，比去年上升了2.54%。<br/><div class="contheight"></div>分析原因，司法部司法考试司司长贾丽群认为，今年“法考”应取得法律职业资格的人员范围从原来的四类扩大到九类。在初任法官、初任检察官，申请律师执业和担任公证员的基础上，国家统一法律职业资格考试将初次担任法律类仲裁员以及行政机关中初次从事行政处罚决定审核、行政复议、行政裁决、法律顾问的公务员纳入到应取得法律职业资格的范围。所以，报名考生更多，参考的意识也更强。<br/><div class="contheight"></div>“首次举行国家统一法律职业资格考试，大家对考试充满新鲜感，想进一步了解考试的具体变化；且全国大约有650所法学院校系，每年毕业的学生人数越来越多，每年本科生就可达20万人左右，还没算研究生、博士生等。这些学生如果要从事法律职业，也要通过考试来获取资格。”贾丽群说。<br/><div class="contheight"></div>同时，为让有视障的考生能参加考试，司法部会同技术服务公司研发了一种语音考试辅助系统，今年已有8名视障考生报名参加考试。<br/><div class="contheight"></div>据悉，今年10月20日第二阶段的主观题考试，只有通过客观题考试的考生，才可参加。<br/><div class="contheight"></div>（原题为《我国首次法律职业资格考试参考人数达47万余人》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：黎凡<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 司法考试</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2468778">
+<div class="nbgbox">
+<a class="zan" contid="2468778" href="javascript:;" onclick="voteCont(this)" praisetimes="37">
+                           36</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 司法考试</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2468778&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2468778&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

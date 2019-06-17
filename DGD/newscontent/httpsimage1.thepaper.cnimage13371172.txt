@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜“长江口倾倒垃圾案”宣判，要堵住非法倾倒的源头</h1>
+<div class="news_about">
+<p>澎湃特约评论员 于平</p>
+<p>
+							2018-12-21 16:12<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="403" src="http://image.thepaper.cn/www/image/13/371/177.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">庭审现场 @常熟市人民法院 图</span><br/><div class="contheight"></div>今天上午，江苏省常熟市人民法院对“长江口倾倒垃圾案”进行一审公开宣判，案涉污染环境罪的被告人均被判处实刑。三名主犯倪某、周某、张某分别获刑有期徒刑六年六个月、五年、四年三个月，并处一百万元至四十万元罚金不等。被告人成某等从犯分别获刑有期徒刑一年六个月至二年，并处五万元至六万元罚金不等。<br/><div class="contheight"></div>把母亲河长江当成垃圾倾倒场，相关责任人终于受到法律严惩，这让公众感到宽慰。不过，倒入长江的垃圾虽然大多被打捞出来，但大量有毒的污染物却留在长江里，对于长江的生态环境，造成了难以估量的伤害。虽然违法者也被处以罚金，但几十上百万的罚金，恐怕连付两万多吨垃圾清运打捞的钱都不够，更不用说覆盖环境修复的成本。<br/><div class="contheight"></div>对于异地偷倒垃圾，危害环境安全的违法行为，法律当然应严惩。网络上，许多人觉得“长江口倾倒垃圾案”判轻了，对于类似的恶劣行为，确实有进一步修改法律，提升惩治力度的空间，给违法者以最大的震慑。然而，也要看到，对于异地偷倒垃圾再怎么重罚、重判，也终究是“亡羊补牢”，难以避免事后庞大的经济和环境代价。更为明智，也是代价最小的办法，是未雨绸缪，堵住垃圾非法倾倒的源头。<br/><div class="contheight"></div>在“长江口倾倒垃圾案”一案中，就暴露出不少源头管理的漏洞。包括，所有垃圾接收证明事后都被查出造假，有的接收公司根本就不存在。对于这些并不难核实的事情，环卫部门却基本不过问。垃圾外运从移出到运输、从接收到处理，缺乏透明、衔接顺畅的闭环机制。移出方往往抱着以邻为壑的心态，对运出的垃圾睁一只眼闭一只眼。<br/><div class="contheight"></div>在其他异地偷倒垃圾的案件中，同样暴露出固废底数不清，有合法资质企业“空手套白狼”等深层次问题。如今年10月底，中央环保督察组直指，广东危险废物非法转移倾倒十分猖獗。许多企业在排放固废尤其是危废、排放了多少、如何处置的，这些情况监管部门掌握得不全面、不清楚。有正规的固废处理企业，将近5万吨危险废物倒卖给4家无资质公司处置。由于源头管理松弛，2015年以来，广东全省非法跨界倾倒垃圾总量达数十万吨。<br/><div class="contheight"></div>可见，垃圾跨地区倾倒的泛滥，不仅有非法利益的驱使，更源于垃圾监管的粗放，源于以邻为壑的管理思维。要想改变这样的现状，也必须从源头抓起，建立垃圾监管的“明白账”，接受外界监督，强化考核问责，倒逼监管的改善和升级。<br/><div class="contheight"></div>消除监管盲点，让垃圾的管理实现源头把控、过程跟踪、结果反馈、全程透明，私自转卖、跨省偷倒等类似乱象，自然可以最大程度杜绝。从这意义上说，“长江口倾倒垃圾案”的宣判，并不意味着画上句号，把垃圾收运监管改革提上正式日程，才是接下来的重头戏。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2759226" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">“长江口倾倒垃圾案” 一审公开宣判，主犯最高被判刑6年半</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 长江口倾倒垃圾案</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2760127">
+<div class="nbgbox">
+<a class="zan" contid="2760127" href="javascript:;" onclick="voteCont(this)" praisetimes="48">
+                           47</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 非法倾倒垃圾</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2760127&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2760127&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

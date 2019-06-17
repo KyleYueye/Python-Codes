@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美公布新非洲战略，强调“美国优先”</h1>
+<div class="news_about">
+<p>刘晨、朱东阳/新华社</p>
+<p>
+							2018-12-14 16:17<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="420" src="http://image.thepaper.cn/www/image/13/191/610.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">博尔顿 视觉中国 图<br/><div class="contheight"></div></span>美国白宫13日公布新非洲战略，强调美国利益优先，称将加强与非洲经贸合作，并会“有选择性”地提供对外资金援助。<br/><div class="contheight"></div>美国总统国家安全事务助理博尔顿当日在华盛顿表示，为满足美国在非的核心利益诉求，新战略将重点关注三个领域，包括加强与非洲国家经贸合作，以应对其他大国在该地区日益增强的影响力；继续打击“伊斯兰国”等极端组织在非活动；更加有效利用美国援非资金。<br/><div class="contheight"></div>博尔顿说，美国将推出“繁荣非洲”计划，推动与非洲国家签订更为广泛的双边经贸协议，并支持美国企业对非投资。他表示，该计划在帮助非洲国家实现可持续发展的同时，也有助于提升美国就业及扩大美国出口市场。<br/><div class="contheight"></div>在谈及对外援助时，博尔顿表示，美国将不会再“无选择性”地进行对非援助，而将设定“优先”国家。他同时透露，美国正在制定一项适用于全球范围的对外援助战略，以确保每一笔援助资金都能强化美国利益。<br/><div class="contheight"></div>博尔顿说，那些在国际场合不断投票反对美国的国家，或是在行动上违背美国利益的国家，“都不应该获得美国慷慨的援助”。<br/><div class="contheight"></div>博尔顿还表示，美国将重新评估对联合国维和部队在非洲行动的支持。他表示，今后美国只支持“高效”的维和行动，将精简甚至终止那些“无法达成使命”的行动。<br/><div class="contheight"></div>过去两年，美国政府对非洲事务关注度有限，并有意大幅削减对非援助。美国防部日前表示，计划在未来数年削减在非打击极端组织的美军人数。<br/><div class="contheight"></div>(原题为《美推新非洲战略　强调美国优先》)</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国,非洲战略</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2739469">
+<div class="nbgbox">
+<a class="zan" contid="2739469" href="javascript:;" onclick="voteCont(this)" praisetimes="66">
+                           65</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 非洲战略</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2739469&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2739469&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

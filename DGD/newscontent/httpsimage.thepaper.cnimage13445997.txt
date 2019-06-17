@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25433">地产界</a>
+</div>
+<h1 class="news_title">年底卖房忙，上海一银行6190万底价卖14套房</h1>
+<div class="news_about">
+<p>胡飞军/证券时报</p>
+<p>
+							2018-12-24 09:32<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="298" src="http://image.thepaper.cn/www/image/13/446/53.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">临近年末金融机构、多家券商开始积极卖房。</span><br/><div class="contheight"></div>临近年末，积极卖房子的除了中介，还有一大波金融机构。<br/><div class="contheight"></div>近日，上海联合产权交易所披露，上海某银行一口气挂牌转让14套房产，包含13套住宅和1套商铺，合计挂牌底价6190万元。<br/><div class="contheight"></div>证券时报记者注意到，为提高资产使用效率，盘活固定资产，优化资产结构，除了银行，包括华西证券、国元证券等券商及其他上市公司也加入了“卖房团”，积极将房产变现。<br/><div class="contheight"></div>同时，地产业内人士认为，中央重申房住不炒的定位，这对于大批持有住宅类房产的企业来说，未来市场风险可能增加。<br/><div class="contheight"></div><strong>银行6190万卖14套房</strong><br/><div class="contheight"></div>12月20日，上海联合产权交易所官网显示，上海某银行及旗下闵行支行、虹口支行出售旗下所属不动产。<br/><div class="contheight"></div>其中，出售最多的是该行闵行支行在上海市闵行区的房产，多达10套，其中8套位于闵行区水清三村45号，且所属房产为连号的房产，剩余2套位于闵行区虹梅路2套连号的房产。<br/><div class="contheight"></div>该行表示，由于标的为国有资产，转让过程中较其他转让方式有所不同，除不可抗力因素外，整个转让过程约270天左右，房产转让不接受以贷款方式支付交易价款。<br/><div class="contheight"></div>“从价格来说，比正常物业房产价格来说下调了约30%比例，性价比较高。但是从约束条件来说较为严格，需要全款支付房产，对于自然人来说有一些压力。”易居研究院智库中心研究总监严跃进表示。<br/><div class="contheight"></div><strong>券商及上市公司也密集卖房</strong><br/><div class="contheight"></div>事实上，临近年底集中出售房产的还包括多家券商，甚至还有数十家其他类型的上市公司。<br/><div class="contheight"></div>12月14日，华西证券公告，根据协议公司分得华西证券总部办公楼B区项目2号写字楼1-22层，3号楼裙楼1-5层，3号楼主楼1-13层，地下室1层全部车位以及地下室3层车位139个。公司拟自持部分商业、公寓房屋和地下停车位，项下B区项目其余房屋资产拟按对应资产评估价格分批公开挂牌出售，挂牌价格不低于评估值8.17亿元。<br/><div class="contheight"></div>12月3日至7日，上海联合产权交易所披露，国元证券相继挂牌出售5处房产，转让底价合计5112.02万元。<br/><div class="contheight"></div>记者根据巨潮资讯公告不完全统计，10月1日以来，就有至少23家上市公司发布过出售房产的公告，第四季度成为上市公司卖房高峰期。<br/><div class="contheight"></div>“包括银行、券商及很多上市公司年底抛售房地产，可能是认为部分物业价格到了顶部，抛售房产可以尽快回笼资金、盘活资产。”严跃进表示。<br/><div class="contheight"></div>与此同时，近日，中央经济工作会议重申“坚持房子是用来住的、不是用来炒”的定位，“企业持有商业办公地产没有问题，但是从企业持有住宅房产的角度来说，后续不排除2019年出台一些监管政策进行调整，因此，企业持有大批住宅类房产来说风险是有所增加的。”严跃进表示。<br/><div class="contheight"></div>（原文标题为《年底卖房忙 一银行6190万底价卖14套房）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陶宁宁<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 机构卖房</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2767807">
+<div class="nbgbox">
+<a class="zan" contid="2767807" href="javascript:;" onclick="voteCont(this)" praisetimes="78">
+                           77</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 机构卖房</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767807&caid=25433",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767807&amp;caid=25433" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

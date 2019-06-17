@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">熊猫把玩饲养员遗忘的菜刀，大熊猫繁育研究基地：已通报批评</h1>
+<div class="news_about">
+<p>郭琳琳/北京青年报客户端</p>
+<p>
+							2018-12-27 16:06<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="323" src="http://image.thepaper.cn/www/image/13/554/538.jpg" width="600"/></div>北京青年报客户端12月27日消息，12月26日，有网友上传一段熊猫把玩菜刀的视频。视频中，熊猫“萌萌”双手拿住一把菜刀并放到脸上，有游客看到后对着熊猫喊，“太危险了，扔掉，扔掉”，随后“萌萌”将菜刀扔开。视频在网上引发了不少关注。<br/><div class="contheight"></div>12月27日，成都大熊猫繁育研究基地对此事回应表示，12月26日早上9时，当值饲养员在“萌萌”运动场为其更换新的丰容物件并添加竹子，因一时大意将用于割原丰容物件绳索的菜刀遗忘在活动场内。进入活动场的“萌萌”发现此菜刀后将其放在手里把玩，该活动场旁值班保安很快发现并通知饲养员，饲养员马上将“萌萌”收回兽舍，拿走菜刀，并对“萌萌”做了详细检查，确认她未受到任何伤害后又将其放回活动场。<br/><div class="contheight"></div>基地称，该饲养员平日工作一向认真谨慎，对每一只大熊猫都充满深厚的感情，对于此次的疏忽感到万分懊恼自责。为深刻吸取此次教训，严肃工作纪律，基地对当事饲养员做出以下处理：1、召开全体饲养员大会，对该饲养员进行严肃批评、教育，要求全体饲养员引以为戒；2、本人提交书面检讨，基地内部通报批评；3、取消该饲养员本年度优秀员工的评选资格；4、扣除该饲养员绩效工资；5、扣除相关管理人员绩效工资。此次意外暴露了基地管理存在的不足之处，基地深刻自省并将全面检查工作漏洞，举一反三，对发现问题尽快整改。<br/><div class="contheight"></div>（原题为《熊猫把玩饲养员遗忘的菜刀 大熊猫繁育研究基地：已对饲养员通报批评》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 大熊猫</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780450">
+<div class="nbgbox">
+<a class="zan" contid="2780450" href="javascript:;" onclick="voteCont(this)" praisetimes="59">
+                           58</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 大熊猫</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780450&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780450&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（326）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

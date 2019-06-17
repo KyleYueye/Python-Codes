@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜高层次人才优先就诊，看病还分三六九等？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 马青</p>
+<p>
+							2018-11-21 16:23<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="337" src="http://image.thepaper.cn/www/image/12/452/972.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">网友“@大琪琪琪琪玺宝”拍摄的医院挂号窗口的告示</span><br/><div class="contheight"></div>在医院就医时看到“老人优先”“军人优先”“残障人士优先”不奇怪，但西安一家医院贴出了“高层次人才优先就诊”的告示，遭到不少网友吐槽。都说生命面前人人平等，为什么看病还分三六九等？　<br/><div class="contheight"></div>争议来自它触碰到了社会最敏感的神经：公平。公共医疗领域，不少人都有过看病排长队的郁闷经历，此时突然发现，有一小部分人比其他人“更平等”，当然会产生强烈的“被剥夺感”。　　<br/><div class="contheight"></div>为什么我们可以接受老人优惠、军人优先、残障人士优先，却不能接受高层次人才优先呢？<br/><div class="contheight"></div>首先，高层次人才欠缺广泛共识，标准随机而动。相比于军人、老人、残障人士这类具备明确规定或法律标准的名词，高层次人才是各地根据自身需求而下的定义。比如，西安规定的高层次人才，是“获得世界级或国家级荣誉称号的；国家级重点学科带头人；著名高校、科研院所教授、副教授……”，还要通过递交材料申报审核等程序，才能拿到相关凭证。而沈阳把人才分成顶尖人才、杰出人才、领军人才、拔尖人才和高级人才5个层次，诺贝尔奖获得者、中国科学院院士可以被认定为“顶尖人才”。一些网友评论“什么是高层次人才？我住30层算吗？”“我1米8算吗？”虽是调侃，背后却是对含糊不一标准的吐槽。　　<br/><div class="contheight"></div>其次，“军人优先、老人优惠”皆有法律依据，而且这种优先体现的不是特权，而是公平。军人看病优先，一是对军人这种特殊奉献职业的补偿，二是军人的职业特殊性，他们外出有严格的时间限制，排队优先是为了照顾这种特殊性。老人和残障人士优先，体现了对身体不便者的照顾。急重病患者优先，更不用说了，体现的是生命至上原则。然而，高层次人才有什么特殊情况，需要特别照顾？他们的身体更羸弱？时间更宝贵？职业更危险？说好的职业无贵贱呢？　　　　　　　　<br/><div class="contheight"></div>其实，优先就诊对高层次人才来说，到底有多大吸引力呢？我很怀疑这是地方在“乱抛媚眼”。真正有吸引力的，是科研创新上的支持，是创业税收的减免、创业环境的优化，哪怕是安居政策中的租房补贴和买房优惠，都更“真金白银”。想想看，一个高层次人才就为了挂号不排队，享受几块钱的挂号免费，就要在看病时带好证明材料，还要忍受诸多病患的白眼与议论，是有多坚强的神经才愿意去享受这种“优惠”？难怪沈阳在遭受舆论批评后，当地卫计委解释说，这只是一种姿态。　　<br/><div class="contheight"></div>同样占据的是公共资源，为什么安居政府中的补贴、税收上的减免就使得，公共医疗资源就不行？因为不同的公共资源配置有不同的分配原则，医疗资源公平分配是医学伦理的基本原则，每个人都有平等、公平、合理地享受卫生资源的权利，这个权利并不因职业、学历或所谓贡献大小为区分。公共医疗资源不能被地方政府拿来当成招揽人才的资本。 <br/><div class="contheight"></div>在“抢人大战”中，地方政府做出吸引高层次人才的姿态可以理解。但是，如果真的想吸引优质人才，真正该琢磨的恰恰是“公平”二字。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 高层次人才优先就诊</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2657013">
+<div class="nbgbox">
+<a class="zan" contid="2657013" href="javascript:;" onclick="voteCont(this)" praisetimes="126">
+                           125</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 高层次人才</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2657013&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2657013&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（78）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

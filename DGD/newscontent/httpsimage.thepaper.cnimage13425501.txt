@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">52岁四川蓬溪县委原书记邓斌逝世，刚卸任不到一个月</h1>
+<div class="news_about">
+<p>澎湃新闻记者 岳怀让</p>
+<p>
+							2018-12-23 10:02<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="382" src="http://image.thepaper.cn/www/image/13/425/499.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">邓斌</span><br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）从邓斌同志治丧委员会以及遂宁新闻网方面获悉，四川遂宁蓬溪县委原书记邓斌同志因病医治无效，于2018年12月21日3时23分逝世，享年52岁。<br/><div class="contheight"></div>邓斌的追悼会将于2018年12月24日上午9时在遂宁殡仪馆举行。<br/><div class="contheight"></div>公开简历显示，邓斌，男，生于1967年7月，四川安居人，1985年7月参加工作，1988年11月加入中国共产党。邓斌曾先后任大英县委常委、政法委书记、副书记，遂宁市政府副秘书长、市委群工局（市政府信访局）局长、市信访局党组书记，遂宁市国资委主任，遂宁市发改委主任，蓬溪县委书记。<br/><div class="contheight"></div>另据川报观察客户端消息，今年11月27日，遂宁市蓬溪县召开全县领导干部大会，宣布蓬溪县委主要领导调整的决定。经四川省委同意，张智勇同志任中共蓬溪县委书记，免去邓斌同志中共蓬溪县委书记职务。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 遂宁,逝世</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2765819">
+<div class="nbgbox">
+<a class="zan" contid="2765819" href="javascript:;" onclick="voteCont(this)" praisetimes="101">
+                           100</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 干部逝世</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2765819&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2765819&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

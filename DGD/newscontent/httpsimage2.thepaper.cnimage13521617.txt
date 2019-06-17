@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">湖北一客运班车司机关监控一路超速，狡辩称是为了“省电”</h1>
+<div class="news_about">
+<p>楚天都市报</p>
+<p>
+							2018-12-26 16:45<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">客运班车里的24小时GPS监控，被人私设开关，司机上路就关掉监控，一路超速。被乘客举报后司机百般抵赖，警方及运管顺藤摸瓜终于查出背后猫腻，对GPS做手脚的客运公司竟狡辩此举是为“省电”。昨日，恩施运管及交管部门重罚该企业，司机被开除。而这家客运公司的司机，10月份曾因开车打手机被严厉处罚。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="467" src="http://image.thepaper.cn/www/image/13/521/612.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">楚天都市报 图<br/><div class="contheight"></div></span>12月14日，一辆从恩施市开往巴东野三关的客运班车上，一名乘客李先生（化名）觉得车开得很快，“山区高速限速80公里/小时，但这辆客车一路超车明显有超速行为。”李先生悄悄记下车牌号，向警方举报。接到举报后，恩施交管及运管部门立即联合展开调查，发现被举报的鄂Q16877客车属于恩施市顺安公路运输有限公司，当日司机是王某，对于超速行为司机始终不承认。正当警方和运管部门准备调取当日该车辆的卫星定位装置（GPS）数据进行调查时，却发现该车的GPS设备未正常运行，无法在系统中调取相关数据。再一看，原来车载GPS里竟然私自安装了一个开关，司机可以随时关掉设备躲避监控。<br/><div class="contheight"></div>马脚此时终于露出，王某也承认了对监控设备做手脚的行为。警方及运管部门再到顺安公司进行全面调查，发现更大的漏洞，原来不仅王某将车辆的卫星定位装置信号予以屏蔽，而且该公司多台客运车辆均存在违规为卫星定位装置加装电源开关屏蔽信号的行为。<br/><div class="contheight"></div>同时，公司内部GPS及视频监控后台24小时值守不到位，有时只值守8小时就下班，还有多辆客运车辆存在超员、部分司机驾车过程中玩手机和不系安全带、公司对进出站的车辆监管不力等大量违法行为和安全隐患。面对执法部门质询，公司负责人狡辩称，车载GPS设备耗电，冬天车辆经常点不着火，为了省电所以才装了开关。<br/><div class="contheight"></div>今年9月30日，一名客车司机在沪渝高速驾车过程中21次玩手机，累计使用25分钟，涉事司机也是顺安公司的。针对该公司对交通安全的漠视和管理的混乱，恩施交管、运管部门连日来展开全面的调查，昨日，警方及运管部门通报，恩施市运管局对顺安公司罚款4000元，并责令整改。司机王某被罚款5000元，公司对其开除。<br/><div class="contheight"></div>警方表示，顺安公司拥有客运车辆共141辆，共有驾驶员158名，2013年至2018年期间，顺安公司共产生道路交通违法记录222条，其中有超员39起、超速36起、闯红灯4起、未系安全带7起。下一步，将继续深挖该公司乱象，严肃处理。<br/><div class="contheight"></div>（原标题为《 又是顺安！又是顺安！》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王选辉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 湖北,客运,超速</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776636">
+<div class="nbgbox">
+<a class="zan" contid="2776636" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 超速</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776636&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776636&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

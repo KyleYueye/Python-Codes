@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">检察日报：“两高”司法解释对假药等法律定性应写入法律</h1>
+<div class="news_about">
+<p>谢文英/检察日报</p>
+<p>
+							2018-10-29 09:29<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">检察日报10月29日讯，十三届全国人大常委会第六次会议近日审议了药品管理法修正草案。于志刚等常委会委员建议，“两高”司法解释对于假药的认定，以及对伪造数据等行为进行的法律定性，应该在药品管理法中加以确认，并固定下来。<br/><div class="contheight"></div>于志刚委员说，“过去对于利用骗取的药品生产文号生产的药品不认定为假药，后来最高法和最高检以刑事司法解释的形式认定为假药；对于伪造数据的药检机构等，司法解释认定为共犯责任或者单独的犯罪责任。当年费很大力气对这些行为进行了法律定性，在这次修法中却没有体现出来，是个缺憾”，建议再考虑一下。<br/><div class="contheight"></div>丛斌委员认为，修正草案没有涉及药品价格体系管控问题，也是一个缺憾。<br/><div class="contheight"></div>“<strong>最严的管理制度应当体现在价格管理上</strong>。”丛斌委员说，“这么多年在药品流通领域出现的问题，如腐败问题、回扣问题、开大处方问题等，归根到底就是药品零售价格空间太大，从出厂价到患者使用时的价格，有些药品价格翻了几十倍甚至上百倍。药品价格管控应该纳入到这次修改。”<br/><div class="contheight"></div>而在如何对待药品的问题上，丛斌委员认为草案还是没表述清楚。“药品不是完全意义上的商品。这么多年我们把药品当作商品对待，因此在价格管控方面出现了很多问题。如果这个问题搞不清楚，药品管理法修改也是推磨式的修改，触及不到根本问题。”从斌委员说。<br/><div class="contheight"></div>10月25日，国家卫生健康委公布了2018年版国家基本药物目录，基药品种数量由原来的520种增加到685种。新版目录的实施，将能够覆盖临床主要疾病病种，进一步满足人民群众疾病防治基本用药需求。<br/><div class="contheight"></div>对此，陈竺副委员长坦言：“近年来，一些被长期临床应用证明能治病、治好病的廉价基本药物断供问题时有发生，成为影响人民群众健康的重大隐患，必须引起高度重视。”<br/><div class="contheight"></div>陈竺副委员长建议，<strong>对临床必需、用量小、市场供应短缺的药品，不能单纯低价取胜，而是要以需定产，由国家统一定点生产、统一招标采购、统一配送、统一储备，从根本上保证供应的可持续。</strong>同时，药品管理法应将国家基本药物制度这一深化医药卫生体制改革的重要成果予以载入，确保基本药物的供应安全、质量安全和公平可及。<br/><div class="contheight"></div>“药品管理法修正草案强调把‘四个最严’落到实处。但是，最严不等于最繁杂，不是说行政手段多就是最严，关键是谁负什么责要清楚。”朱明春委员说。<br/><div class="contheight"></div>朱明春委员表示，修正草案中最核心的内容是强化主体责任，要求药品上市许可持有人、生产经营企业的法定代表人或主要负责人对药品的质量和生产经营活动负全责。但是，修正草案对此规定不明确。比如，<strong>药品上市许可持有人、药品生产企业必须对药品进行质量检验、审核，但究竟谁负责并没有明确。</strong>朱明春委员说：“核心是谁的责任谁担，只要明确了就可以把好这个关。”<br/><div class="contheight"></div>（原题为《“两高”司法解释对假药等法律定性应写入法律》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张珺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 司法解释,假药</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2574488">
+<div class="nbgbox">
+<a class="zan" contid="2574488" href="javascript:;" onclick="voteCont(this)" praisetimes="47">
+                           46</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 药品管理</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2574488&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2574488&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

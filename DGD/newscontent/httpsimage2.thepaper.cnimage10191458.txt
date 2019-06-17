@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">最高检邀专家建言改革，学者：捕诉合一改革要考虑如何监督</h1>
+<div class="news_about">
+<p>澎湃新闻记者 庄岸 实习生 孙小咪</p>
+<p>
+							2018-09-05 22:25<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">9月5日，最高人民检察院邀请9位法学专家座谈，讨论《2018-2022检察改革工作规划（征求意见稿）》。澎湃新闻（www.thepaper.cn）注意到，有专家建言称，在实行捕诉合一改革中，要充分考虑如何加强监督制约，确保办案质效同步提升。<br/><div class="contheight"></div>最高检检察长张军表示，检察工作发展离不开广大专家学者的关心和支持，深化检察改革需要集纳多方智慧，希望法学专家积极为检察改革“精装修”出谋划策，共同为推进全面依法治国贡献力量。<br/><div class="contheight"></div>“新一届最高检党组承继检察机关的好传统，在检察工作尤其是检察改革中尊重、倚重专家学者的特殊作用，完善检察体制机制，着力为新时代人民群众新需求提供更优质的法治产品、检察产品。”张军说。<br/><div class="contheight"></div>专家们认为，要紧紧围绕检察机关的宪法定位，突出法律监督主线，围绕刑事检察、民事检察、行政检察和公益诉讼检察健全检察机关法律监督体系，使各项法律监督职权全面、协调、充分履行。要把双赢多赢共赢的监督理念贯穿检察工作始终，加强协商、协调、沟通等能力建设，促进有关部门依法履职。要充分发挥检察官在认罪认罚从宽制度中的作用。要把检察建议的柔性监督方式做成刚性。在构建专业化办案模式、实行捕诉合一改革中，要充分考虑如何加强监督制约，确保办案质量和办案效率同步提升。<br/><div class="contheight"></div>专家们表示，检察改革规划要有预见性，体现一定的超前性。就检察机关在宪法实施中发挥更大作用、加强对侦查活动的监督、推进公益诉讼工作、巡回检察与派驻检察相结合、完善审查逮捕听证制度、健全考核机制等众多具体问题，专家们也提出了很多有益建议。<br/><div class="contheight"></div>张军为此表示，检察工作在适应新时代新要求方面还有很多弱项和短板，需要在改革中不断补强、完善。深化检察改革必须在巩固中深化、在深化中巩固。最高检将广泛吸纳各方意见，让检察改革工作规划更加科学，更加符合实际，更加适应新时代全面依法治国要求。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：马世鹏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 最高检 专家 监督 捕诉合一</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2412584">
+<div class="nbgbox">
+<a class="zan" contid="2412584" href="javascript:;" onclick="voteCont(this)" praisetimes="68">
+                           67</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 最高检</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2412584&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2412584&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">十堰打掉家族制假酒团伙：给五粮液、茅台空瓶打点滴注入劣酒</h1>
+<div class="news_about">
+<p>楚天都市报</p>
+<p>
+							2019-01-11 10:44<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="358" src="http://image.thepaper.cn/www/image/14/158/804.jpg" width="530"/></div><span style="color: rgb(128, 128, 128);">假名酒制作现场 </span><br/><div class="contheight"></div>高价买来茅台、五粮液等名酒的空瓶，然后用打点滴的方式，灌装进劣质白酒来冒充高档白酒。近日，湖北省十堰市茅箭区公安分局打掉了一家族式制贩假酒团伙，捣毁了十堰、郑州两地5个制假窝点、4个储酒仓库，扣押市值200余万元的假冒茅台、五粮液、国窖等名酒830余箱。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="362" src="http://image.thepaper.cn/www/image/14/158/805.jpg" width="530"/></div><span style="color: rgb(128, 128, 128);">警方查获大量五粮液等真酒的空瓶</span><br/><div class="contheight"></div> 2018年9月，十堰茅箭区公安分局武当路派出所民警在工作中发现一个奇怪的现象：一些酒店将客人喝过的高档白酒酒瓶和酒盒，专门收集放在一个房间，不把它们当废品卖掉，而是高价卖给收购茅台、五粮液等高档白酒酒瓶和包装盒的小贩。<br/><div class="contheight"></div> 高价售卖、高价收购，这些名牌酒瓶到底去了哪里呢？民警通过暗中侦查，很快摸清了一个以刘某和张某等为首的家族式制贩假酒的团伙。经过梳理后，茅箭区公安分局立即成立了联合专案组，在河南郑州和十堰周边通过3个多月的不懈侦查，终于将刘某和张某的违法事实和违法网络锁定。<br/><div class="contheight"></div> 本月7日，茅箭区公安分局抽调40余名民警，分别在河南郑州和十堰两地同时开展收网行动。9日上午，楚天都市报记者跟随其中一路民警，在十堰市东城开发区胡枧村一处偏僻的民房里找到了一处加工窝点。在民房一楼的一个房间，民警发现屋内堆放了大量的假冒茅台、五粮液、国窖、剑南春等名酒。在另一个房间，记者看到了一个自制的简易灌装工具，原来这就是违法分子用来炮制假名酒的地方。他们用医院的输液管和一个大塑料桶等工具，通过打点滴的方式，往收购来的名酒空瓶子里注入劣质白酒。<br/><div class="contheight"></div> 而在民房的厕所里，有一个放满了水的池子，池子里还泡着一些茅台王子酒的空酒瓶。据涉案嫌疑人供述，这批空酒瓶是他们后面收购回来的，准备清洗干净再去灌装。<br/><div class="contheight"></div> 经过持续3昼夜的奋战，专案组分别在十堰和河南郑州两地捣毁制售和放置假酒的窝点9个，抓获10名涉案人员，扣押市值200余万元的假冒茅台、五粮液、国窖1573等名酒830余箱和一批灌装设备及假冒包装。<br/><div class="contheight"></div> 经查实，50多岁的湖北武穴人刘某和其侄儿张某都因制假售假被司法机关处理过，但两人并没有悔改。他们联系家族内部人员，通过废品收购点购买高档酒的酒瓶和包装，然后在偏僻地方租用民房进行制假，将劣质白酒通过打点滴的工具灌装到茅台、五粮液等高端白酒空瓶里，再贴上从网上订购的假冒商标和防伪标签等伺机谋利，并形成了一条完整的产业链条。<br/><div class="contheight"></div> 案件查实后，工商、食药监等部门也立即介入，并对该市酒类市场进行检查，暂未发现流入市场。目前，涉案的3名嫌疑人已被刑事拘留，3人被列网追逃，案件还在进一步侦办之中。 <br/><div class="contheight"></div>（ 原标题：有人给五粮液空瓶打点滴注入劣酒 ）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李寿康<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 湖北 十堰 假酒</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2840649">
+<div class="nbgbox">
+<a class="zan" contid="2840649" href="javascript:;" onclick="voteCont(this)" praisetimes="51">
+                           50</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 制假售假</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2840649&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2840649&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（34）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

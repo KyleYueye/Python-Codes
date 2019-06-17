@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜抖音“直播死妈”，短视频平台须防止局部堕落</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-08-26 15:11<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="791" src="http://image.thepaper.cn/www/image/9/915/63.jpg" width="450"/></div><span style="color: rgb(128, 128, 128);">截屏图。<br/><div class="contheight"></div></span>“我妈妈死了，能给我一个赞吗（？）”据多位网友反映，日前，抖音上出现了这种违反人伦的视频。8月24日，抖音回应称，相关视频被发现后，已第一时间下架处理。<br/><div class="contheight"></div>多位网友表示，他们曾在抖音平台上看过“直播死妈”视频。<br/><div class="contheight"></div>抖音等短视频平台上已不是第一次出现这等毁三观的视频。比如近日的一些新闻就有：“90后逃犯发抖音叫嚣警察，过完生日就被抓”“儿童沉迷抖音调查：9岁浓妆艳抹引关注，狂加30个群网聊”等。<br/><div class="contheight"></div>不得不承认，这些风头正劲的短视频平台每日的播放量以亿计，这些引发正常人不适的视频只是其中一小部分。相比分母，分子是很小的。但这并不是平台推卸责任的理由。因为这些视频一旦对青少年造成危害，对其家庭来说，这就是100%。<br/><div class="contheight"></div>更重要的是，这些在公众看来属于“奇葩”“不可理喻”的短视频博主，其实都在遵循短视频平台的游戏规则——不择手段求赞。<br/><div class="contheight"></div>短视频是注意力经济的极致，点赞与被赞则是平台上最重要的互动规则。在这个虚拟空间，赞意味着存在感、成就感，到了一定数量级甚至可以转化为金钱，赞几乎等于一切。<br/><div class="contheight"></div>短视频软件从设计上就有使人成瘾的特性，因为播放量、用户时长与平台的经济效益直接挂钩。成年人尚且一刷成瘾难以自拔，心智欠成熟的未成年人如果沉溺其中，很容易混淆虚拟与现实的边界。<br/><div class="contheight"></div>再加上短视频平台普遍使用算法推荐内容，你看过什么、喜欢什么，它就会给你推荐更多类似内容，而不关心内容所体现的价值观。一名青少年长期观看三观扭曲的视频，就会误以为这就是正常的世界。堕落于是在局部发生，而这些局部自成一体，在求赞与点赞的互动中野蛮生长。<br/><div class="contheight"></div>算法没有价值观，但人有。短视频平台不在真空中，而是现实社会的一环。当短视频吞噬掉越来越多的“国民总时间”时，平台方不能对这些局部堕落坐视不管。除了对不良内容迅速下架、迅速处理之外，还应该鼓励、扶植符合主流价值观的优质短视频。而无论是短视频创作者还是大小平台，都要时刻绷着价值观这根弦。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 抖音 短视频</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2381685">
+<div class="nbgbox">
+<a class="zan" contid="2381685" href="javascript:;" onclick="voteCont(this)" praisetimes="360">
+                           359</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 抖音</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2381685&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2381685&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（169）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

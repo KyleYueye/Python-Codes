@@ -1,0 +1,80 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">天津武清区卫计委已关注到权健相关报道，市场监管局正在核实</h1>
+<div class="news_about">
+<p>澎湃新闻记者 陈宇曦</p>
+<p>
+							2018-12-26 16:56<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月26日下午，澎湃新闻（www.thepaper.cn）记者致电天津武清区市场监管局，相关承办科室工作人员称，关于“丁香医生”发布的 《百亿保健帝国权健，和它阴影下的中国家庭》一文，武清区市场监管局正在核实文章中反映的情况，有消息将作出回复。<br/><div class="contheight"></div>稍早些时候，澎湃新闻记者致电武清区卫计委，相关工作人员介绍，已经关注到了网络上对权健的报道。<br/><div class="contheight"></div>12月25日，“丁香医生”发布题为《百亿保健帝国权健，和它阴影下的中国家庭》的文章，令权健陷入舆论漩涡。<br/><div class="contheight"></div>权健集团官网显示，权健集团坐落于天津市武清区，创始于2004年，是一家立足于健康产业的集团型民族企业，横跨医疗行业、中医药行业、保健品行业、中医药化妆品行业、金融行业、机械行业、体育行业等诸多领域。下设医疗结构、药材公司、饮料销售有限公司、医学教育研究院、商业教育研究院、足球俱乐部、华东生命科技产业园等一系列机构。自2015年起，权健连续三年蝉联中国直销企业业绩排行榜内资企业第一名。</div>
+<div class="go_to_topic">
+<p style="line-height: 20px; margin-bottom:5px">
+<img alt="" src="//file.thepaper.cn/www/v3/img/topic.gif" style="float:left">
+<a href="newsDetail_forward_64937" target="_blank">
+<span class="news_topic">
+                              【专题】专题｜权健帝国漩涡</span>
+</a>
+</img></p></div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙扶<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 权健</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776755">
+<div class="nbgbox">
+<a class="zan" contid="2776755" href="javascript:;" onclick="voteCont(this)" praisetimes="305">
+                           304</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 权健集团</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776755&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776755&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（113）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

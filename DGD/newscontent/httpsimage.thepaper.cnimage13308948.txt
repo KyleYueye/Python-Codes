@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25444">社论</a>
+</div>
+<h1 class="news_title">【社论】“农业部不吃转基因”：当用公信回应质疑</h1>
+<div class="news_about">
+<p></p>
+<p>
+							2018-12-19 17:27<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="250" src="http://image.thepaper.cn/www/image/13/308/684.jpg" width="600"/></div>12月19日，农业农村部副部长张桃林在回应“农业部食堂不吃转基因”等言论时明确表态：“转基因问题大家都很关注。关于我们食堂吃不吃转基因，或者我们食堂是不是有特供问题？就我了解我们没有专门的特殊供应渠道，我们所吃的东西跟大家一样，都是从市场上购买的。”<br/><div class="contheight"></div>其实，“农业部食堂不吃转基因”等说法的流传，已经有些年头了，相关部门也非首次对此作出正面表态。譬如2013年，时任农业部新闻发言人毕美家就曾回应：“据我所知，农业部的幼儿园也好、食堂也好，所采购的原料都是来自普通的超市和农产品批发市场。”<br/><div class="contheight"></div>农业部5年内的两次回应，口径是一致的，都对“农业部食堂不吃转基因”之说进行了否认。但是，一个在数年前已被官方“辟谣”的说法，至今仍有市场，以至于主管部门不得不再次专门回应、澄清，说明传言背后的社会疑问，并没有得到根本消除。这是真正值得正视的地方。<br/><div class="contheight"></div>在近几年的公共舆论场中，转基因可能是关注度最高，同时也可能是争议最大、真相少而谬误多的公共议题之一。这样一种透明度低、共识少的话题景观，除了因为公众对于食品安全的核心关切，也与主管部门对相关信息披露的透明度和公信力不足，有着直接关系。如这次这般直面焦点疑问的做法，就应该更及时、更常态化。<br/><div class="contheight"></div>近年官方对于转基因的态度是较为明确的。如2008年，国务院批准设立了转基因重大专项，支持农业转基因技术研发；2016年的中央1号文件强调，要“加强农业转基因技术研发和监管，在确保安全的基础上慎重推广”.<br/><div class="contheight"></div>但是，对于公众而言，转基因到底安全与否，它具体发展到哪一步了，仅仅有主管部门的立场式表态是不够的，它需要更多细节的支撑。如新的《食品安全法》明确规定，转基因食品应当显著标示转基因字样。但据此前媒体调查反馈，对于转基因食品到底应如何标示，还有待实施细则的规范；另外，近年多次曝出的转基因作物违规种植事件，也加剧了公众的疑虑。在这些方面，落实“严格依法监管”的原则，并推动相关信息披露的更充分、更科学，必不可少。<br/><div class="contheight"></div>大众舆论场中的转基因议题，其实包含了多个层次，既有安全与否这一元问题，也有研究、种植的程序是否合规，市场销售信息的公布是否规范等衍生问题。这些议题从科学、法律角度，主管部门需要有针对性的回应。<br/><div class="contheight"></div>总之，回应及时，信息披露丰富，不仅可以缓解公众对于转基因的焦灼感，也利于提升围绕转基因的大众讨论的质量，而不是单纯停留在“反”与“挺”的站队式口水仗层面。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 转基因 农业农村部</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2753047">
+<div class="nbgbox">
+<a class="zan" contid="2753047" href="javascript:;" onclick="voteCont(this)" praisetimes="154">
+                           153</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 转基因</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2753047&caid=25444",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2753047&amp;caid=25444" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（185）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

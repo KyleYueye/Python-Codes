@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">王毅谈澜湄合作未来发展六大方向</h1>
+<div class="news_about">
+<p>外交部网站</p>
+<p>
+							2018-12-17 16:50<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="335" src="http://image.thepaper.cn/www/image/13/257/154.jpg" width="500"/></div>当地时间2018年12月17日，国务委员兼外长王毅在老挝琅勃拉邦出席澜沧江-湄公河合作第四次外长会后向中外记者表示，澜湄六国一致认为，要以打造澜湄流域经济发展带为重点，开展产能、创新、民生、环保等领域合作，不断加强机制建设，推动澜湄合作与次区域其他机制优势互补、相互促进，为次区域经济社会发展做出更大贡献。<br/><div class="contheight"></div>一是共同打造澜湄流域经济发展带。六国要以澜沧江-湄公河黄金水道为依托，以产业发展重镇和重大基础设施为枢纽，辐射带动整个流域腹地发展，推动全流域经济体质增效升级。<br/><div class="contheight"></div>二是强化产能合作，推动澜湄合作从“又快又好”向“更高质量”提升。探讨建立产能合作联盟、设立合作基金、推动建设产能合作园区，构建更完善的次区域产业链和价值链。<br/><div class="contheight"></div>三是加强创新合作，实现跨越式发展。分享新技术新业态新模式，提高数字基础设施和创新能力，提升网络联通水平，加快跨境电商发展，让老百姓更快捷便利地买到其他国家商品。<br/><div class="contheight"></div>四是坚持民生为本，推动澜湄合作更接地气。在教育、减贫、医疗卫生、大坝安全等领域实施一批新项目，让更多民众受益。<br/><div class="contheight"></div>五是深化环保合作。共同实施“绿色澜湄计划”，在环境治理、生物多样性保护等方面开展务实合作，实现绿色循环低碳发展。<br/><div class="contheight"></div>六是坚持开放包容。澜湄合作愿与次区域其他机制加强交流，相互补充，协调发展。中方愿同日本、韩国、新加坡等国在湄公河次区域开展三方或四方合作，共同促进次区域发展。<br/><div class="contheight"></div>归纳起来，就是要建设产能澜湄、创新澜湄、民生澜湄、绿色澜湄和开放澜湄的目标。为实现这些目标，我们同意持续打造“3+5+X合作框架”，加强六国地方合作，使澜湄合作更深入、更高效。<br/><div class="contheight"></div>王毅强调，澜湄六国三年前播下的合作种子，不仅破土而出、生根发芽，而且茁壮成长、日新月异。我们要继续发扬“澜湄精神”，保持“澜湄速度”，释放“澜湄活力”，推动澜湄合作不断迈上新台阶，让合作得人心、结硕果，让民众有盼头、有甜头。 <br/><div class="contheight"></div>（原标题为《王毅谈澜湄合作未来发展六大方向》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：汪伦宇<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 周边外交 中老关系 “澜湄六国”</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2746662">
+<div class="nbgbox">
+<a class="zan" contid="2746662" href="javascript:;" onclick="voteCont(this)" praisetimes="30">
+                           29</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 王毅出访</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2746662&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2746662&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

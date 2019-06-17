@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">美国研究人员称开发一实验性药物：可对抗所有已知埃博拉病毒</h1>
+<div class="news_about">
+<p>刘海英/科技日报</p>
+<p>
+							2019-01-11 10:51<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">美国研究人员9日在《细胞·宿主与微生物》杂志线上版发表了两篇配套论文，称他们开发出一种实验性药物MBP134，由两种人体单克隆抗体组合而成，可对抗包括最近在蝙蝠体内发现的邦巴利病毒在内的所有已知埃博拉病毒。<br/><div class="contheight"></div>自1976年以来，埃博拉病毒就不断侵扰着人类，刚果民主共和国东部地区至今还处于疫情阴影中。科学家正在加紧研究相关疫苗和治疗手段，基于单克隆抗体的治疗药物则是重点研究方向。但目前多数在研抗体药物都只针对扎伊尔病毒，对另外两种引起疫情暴发的苏丹病毒和本迪布焦病毒无效。要更有效地应对埃博拉疫情，需要尽早开发出能预防或治疗所有埃博拉病毒感染的单一疗法。<br/><div class="contheight"></div>组成MBP134的两种单克隆抗体源自2013年至2016年西非埃博拉疫情中的幸存者，且都针对埃博拉病毒共有的关键脆弱位点。在第一篇论文中，研究人员介绍了MBP134的研发过程。他们对一种抗苏丹病毒的单克隆抗体进行修饰，增强其活性，并使其可以与第二种天然单克隆抗体一起发挥作用，阻断所有埃博拉病毒感染；在第二篇论文中，研究人员介绍了MBP134的效果验证情况。大型动物模型研究显示，单一低剂量的MBP134可以保护猴子免受与人类疾病相关的所有三种埃博拉病毒——扎伊尔病毒、苏丹病毒和本迪布焦病毒的侵害，即使在其感染4—7天后开始治疗也有效。<br/><div class="contheight"></div>研究人员指出，新研究为对抗目前尚无任何针对性疫苗或药物的苏丹病毒和本迪布焦病毒，甚至是可能出现的新型埃博拉病毒，提供了潜在的治疗手段。MBP134这一“鸡尾酒式”药物的出现，是埃博拉病毒研究领域的一个重要进步。<br/><div class="contheight"></div>MBP134是美国马普生物医药公司与美国生物医学高级研究与发展管理局合作的成果，此前该公司还开发出了针对埃博拉病毒的人鼠嵌合单克隆抗体的混合物Z-mapp。<br/><div class="contheight"></div><strong>总编辑圈点</strong><br/><div class="contheight"></div>去年7月，世卫组织才宣布刚果（金）埃博拉疫情正式结束，6天后，《柳叶刀》子刊就发表最新研究表明，埃博拉病毒可以潜伏一年以上才出现症状。综合流行病学跟踪、血液检测和病毒遗传数据分析可以发现，埃博拉即使短时间内消失，也难保它不会随时卷土重来。因此，一种能阻断所有埃博拉病毒感染的药物才一直备受期待。对抗“人命的黑板擦”，研发一直在路上，而现在我们距离最终的成功又近了一点点。<br/><div class="contheight"></div>（原题为：《“鸡尾酒式”新药可对抗所有已知埃博拉病毒》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 埃博拉,新药,病毒,抗体,“鸡尾酒式”药物</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2840746">
+<div class="nbgbox">
+<a class="zan" contid="2840746" href="javascript:;" onclick="voteCont(this)" praisetimes="82">
+                           81</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 埃博拉</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2840746&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2840746&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

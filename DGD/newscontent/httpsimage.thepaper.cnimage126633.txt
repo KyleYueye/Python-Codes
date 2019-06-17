@@ -1,0 +1,77 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">辽宁开展打击医保诈骗专项行动，不让百姓“救命钱”跑冒滴漏</h1>
+<div class="news_about">
+<p>彭卓/新华社</p>
+<p>
+							2018-11-28 15:27<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社沈阳11月28日消息，记者从辽宁省卫健委了解到，辽宁将在全省范围内开展打击医疗保险欺诈骗保专项行动，为期一个半月，重点检查骗取、套取医保基金等违法违规行为，让老百姓的兜底“救命钱”不再跑冒滴漏。<br/><div class="contheight"></div>为打击医疗保险欺诈骗保违法犯罪行为，治理医药服务领域违规乱象，辽宁省医保局与省卫生健康委、省公安厅、省审计厅、省药监局联合组成专项行动督导组。辽宁将在全省范围开展为期一个半月的打击医疗保险欺诈骗保专项行动，严惩欺诈骗保的组织者和参与者，规范定点医药机构管理和医疗服务行为。<br/><div class="contheight"></div>此次专项行动包括辽宁全省城镇医保和新农合全部定点医疗机构，对其服务行为和医保基金支付使用开展检查，重点检查骗取、套取医保基金的行为，包括通过虚假宣传、诱导参保人员住院等行为；留存、盗刷、冒用参保人员社会保障卡等行为；人证不符、恶意挂床住院、虚构医疗服务、伪造医疗文书或票据行为；协助参保人员开具药品用于变现；虚记、多记药品、耗材、诊疗项目等行为；串换药品、器械、诊疗项目等行为；分解收费、超标收费、重复收费、套用项目收费等违规收费行为；不合理诊疗和其他违法违规及欺诈骗保等行为；医疗服务行为和医保基金支付使用存在的问题和漏洞等行为。<br/><div class="contheight"></div>此外，辽宁省卫健委要求全省卫生健康系统压实行业责任和属地责任，形成打击医疗保障领域欺诈骗保的高压态势，实现辖区内医保定点机构检查广覆盖，不断提升医疗服务监管能力，严格规范各项诊疗行为。同时，各级卫生机构要加强行业作风建设，建立防范和查处医疗保险欺诈骗保长效机制，严格执行医疗机构内部管理制度，严肃查处“术中加价”等违法违规行为，从源头上积极防范医疗保险欺诈骗保案件的发生。<br/><div class="contheight"></div>（原标题《辽宁开展打击骗保专项行动 不让百姓“救命钱”跑冒滴漏》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2656019" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">国家医保局首次公布骗保举报电话，还将开辟微信、信箱等渠道</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2652282" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">沈阳市彻查民营医院骗保案，37名涉案人被刑拘</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2636148" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">沈阳多家医院雇人住院骗取医保：病人是演的，病房是空的</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 医保基金</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2680660">
+<div class="nbgbox">
+<a class="zan" contid="2680660" href="javascript:;" onclick="voteCont(this)" praisetimes="15">
+                           14</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 医保基金</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2680660&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2680660&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">“杀妻骗保案”续：泰警方将以蓄意谋杀等两项罪名正式控告</h1>
+<div class="news_about">
+<p>澎湃新闻记者 卫佳铭</p>
+<p>
+							2018-12-26 13:43<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/518/26.jpg" width="600"/></div>“天津男子泰国杀妻”一案又有新进展。12月26日下午，澎湃新闻（www.thepaper.cn）从受害人方代理律师助理章红媛处了解到，根据最新证人口供记录和相关证据，警方将以泰国刑法第289（4、5）蓄意谋杀、残忍伤害他人致死罪状正式控告该案嫌疑犯张某凡。<br/><div class="contheight"></div>章红媛此前接受澎湃新闻采访时称，依据泰国刑法第289条，蓄意谋杀罪的起刑为死刑；而普通谋杀罪的量刑则为15年监禁至死刑不等。<br/><div class="contheight"></div>章红媛告诉澎湃新闻，12月26日泰国警方在律师和翻译陪同下，进监狱正式通知张某凡被控告之新罪状。章红媛表示，警方通知嫌疑犯后，无论张某凡是否接受或否认此罪状，警方将在2019年1月1日后将该案移交给检方。经审核后，检方将在2019年1月25日之前向普吉府法院申请刑事立案，正式起诉张某凡。<br/><div class="contheight"></div>澎湃新闻此前报道，29岁的天津女子张洁今年10月在泰国普吉岛一酒店泳池里被发现死亡，与其同行的丈夫张某凡被泰国警方认定为凶嫌。案发前数月，张某凡陆续为妻子购入总保额将达三千万元的保险。张洁家属据此指控张某凡“杀妻”的动机是为了骗取高额的保费。<br/><div class="contheight"></div>案发后，张某凡被泰国普吉岛卡马拉警局控制，并在口供环节向警方承认了在酒店泳池内将妻子杀害的事实。12月11日，天津警方也已对张某凡涉嫌保险诈骗立案侦查。张洁家属曾对澎湃新闻表示，希望能将嫌疑人引渡回国，接受中国刑法的惩罚。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 泰国普吉岛,杀妻骗保,警方控告</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776152">
+<div class="nbgbox">
+<a class="zan" contid="2776152" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 杀妻骗保</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776152&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776152&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">这个地方承包了上海人菜篮子的一半</h1>
+<div class="news_about">
+<p>李淑平</p>
+<p>
+							2018-04-09 17:29<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>第六届兰陵（苍山）蔬菜产业博览会将于4月12日在山东临沂兰陵开幕。</u><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="333" src="http://image.thepaper.cn/www/image/7/174/990.jpg" width="500"/></div><span style="color: rgb(153, 153, 153);">兰陵菜博会即将开幕</span><br/><div class="contheight"></div>上海人对兰陵（苍山）并不陌生，目前约有20多万兰陵人在上海从事蔬菜经营，营销份额占了上海大约60%以上的蔬菜供应。据兰陵县副县长刘志军介绍，来自兰陵的蔬菜更是占上海市场的40%以上份额。可以说，上海人菜篮子的一半被兰陵承包了。<br/><div class="contheight"></div>兰陵县位于山东省南部，总面积1724平方公里，耕地面积161.7万亩，自然条件优越，农产品资源丰富，被誉为“中国蔬菜之乡”，获得“全国无公害蔬菜生产示范基地县”“全国蔬菜标准化生产示范区”“全国出口蔬菜生产基地示范县”等荣誉称号。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="257" src="http://image.thepaper.cn/www/image/7/174/992.jpg" width="500"/></div>在2016年，兰陵县成为上海市首批全国性外延基地，当地共有两处1万多亩的蔬菜外延基地挂牌。这些基地提升对接标准，并且以大数据分析为依据实现市场与基地在食品安全、田间管理、食品追溯等方面的共建共享。<br/><div class="contheight"></div>据刘志军介绍，自菜博会开办以来，上海与兰陵的蔬菜合作越来越紧密。2018年，兰陵还要加大与上海各大市场的合作力度，再争取两处蔬菜基地挂牌。<br/><div class="contheight"></div>据悉，兰陵（苍山）菜博会由山东省农业厅、山东省商务厅、山东省科技厅、山东省旅发委、山东省供销社、山东省质量技术监督局、临沂市人民政府主办，已连续成功举办了5届，共有50多个国家、地区和31个省、市、自治区的2600多万人次参展参会，在国内外蔬菜及相关产业领域产生了广泛影响。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="375" src="http://image.thepaper.cn/www/image/7/174/991.jpg" width="500"/></div>第六届兰陵（苍山）菜博会将于4月12日在山东兰陵开幕。本届菜博会内容更加丰富，其间主要活动有菜博会开幕式、中国旅游协会休闲农业与乡村旅游分会第二次会员代表大会暨全国休闲农业和乡村旅游管理人员培训班、花海菜乡•醉美兰陵旅游推介会、第六届菜博会招商引资推介会暨重点项目集中签约仪式、百家知名企业家看兰陵活动、国家大宗蔬菜产业发展论坛、知青俱乐部成立大会、临沂市“美丽乡村”迷你马拉松赛暨兰陵县第八届全民健身运动会等16项主题活动。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈关哲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2057019">
+<div class="nbgbox">
+<a class="zan" contid="2057019" href="javascript:;" onclick="voteCont(this)" praisetimes="24">
+                           23</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 蔬菜博览会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2057019&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2057019&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

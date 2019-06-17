@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">印媒：中印边防军人在边界数个地点共庆新年，互致良好祝愿</h1>
+<div class="news_about">
+<p>环球网</p>
+<p>
+							2019-01-04 10:59<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="349" src="http://image.thepaper.cn/www/image/13/882/450.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">中印边防军人在乃堆拉山口会面。环球网 图<br/><div class="contheight"></div></span>据印度新德里电视台1月1日报道，印度陆军和中国解放军1日在中印边界的多个地点举行了会晤，共同庆祝新年。<br/><div class="contheight"></div>据报道，双方会晤的地点之一位于锡金邦的乃堆拉山口。印度陆军东部司令部在一则推特中说：“为了增进印度军队和中国人民解放军之间的互信，双方于1月1日在乃堆拉山口共同庆祝新年，互致良好祝愿。”据报道，印度上校级别军官参加了本次会晤。<br/><div class="contheight"></div>此外，当天在东拉达克地区一个中方“边界人员会晤临时营房”中，双方还举行了一场礼节性的边界人员会议，共同庆祝新年。印方发言人称：“双方代表团在自由、友好和亲切的环境中进行了交流。两国代表团在友善和致力于加强当前和善关系并维护边界和平的气氛中结束了会晤。双方都寻求建立互信，维护边界地区的和平与安宁。”<br/><div class="contheight"></div>除了上述两个会议之外，据印度一份防务公报报道，中印士兵当天还在达旺地区的棒拉山口中方一侧共同庆祝了新年。报道称，棒拉山口距达旺约32公里，是五个边防人员会晤场地之一。该国防公报还说，在过去28年里中印边防人员会晤机制已发展成为解决地方问题、增进互信边界地区和平安宁的重要平台。<br/><div class="contheight"></div>(原文标题：《 印媒：中印边防军人在边界数个地点共庆新年》)</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中印关系</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2812175">
+<div class="nbgbox">
+<a class="zan" contid="2812175" href="javascript:;" onclick="voteCont(this)" praisetimes="96">
+                           95</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中印关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2812175&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2812175&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

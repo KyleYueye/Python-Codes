@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25430">澎湃防务</a>
+</div>
+<h1 class="news_title">国防部回应“越南捞到训练鱼雷”：经过沟通，越南会尽快归还</h1>
+<div class="news_about">
+<p>澎湃新闻记者 谢瑞强</p>
+<p>
+							2018-12-27 16:18<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月27日下午，国防部举行例行记者会，国防部新闻局局长、国防部新闻发言人吴谦大校答记者问。<br/><div class="contheight"></div>针对媒体关于越南渔民捞到中国训练鱼雷的提问，吴谦表示，经过沟通协调，越方已积极表示，将尽快归还该枚训练鱼雷。<br/><div class="contheight"></div>据越南媒体早先报道，该国一名渔民18日在中部富延省的海岸“捕获”一个新奇的“渔获”——一枚疑似中国鱼雷。这枚“鱼雷”长约6米，直径略大于53厘米。美国媒体根据它的大小和形状以及外部的中国标记，分析这是一枚中国海军的“鱼-6”鱼雷。<br/><div class="contheight"></div>中国海军21日回应称，12月初，中国海军在海南岛东部附近海域组织海上训练时丢失一枚鱼雷，可能是受海流影响漂向越方近海。该鱼雷仅为一般训练用雷，没有任何针对目标。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李怡清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 快讯</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780532">
+<div class="nbgbox">
+<a class="zan" contid="2780532" href="javascript:;" onclick="voteCont(this)" praisetimes="98">
+                           97</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 快讯</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780532&caid=25430",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780532&amp;caid=25430" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

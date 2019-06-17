@@ -1,0 +1,82 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">SIHH2018|名士：突破界限的强劲之“芯”</h1>
+<div class="news_about">
+<p>钟天阳</p>
+<p>
+							2018-01-29 09:03<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+<p style="line-height: 20px; margin-bottom:5px">
+<img alt="" src="//file.thepaper.cn/www/v3/img/topic.gif" style="float:left">
+<a href="newsDetail_forward_30413" target="_blank">
+<span class="news_topic">
+                              【专题】专题｜聚焦2018SIHH日内瓦高级钟表沙龙</span>
+</a>
+</img></p></div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard"><u>在此次第28届日内瓦表展上，在历峰集团的技术支持下，名士腕表推出了具有品牌发展里程碑意义的第一款自主研制的机械机芯。这款机芯叫做“Baumatic”，硅材质的成熟运用，使得这款机芯获得极佳的抗磁性，足以抵抗1500高斯的磁场干扰，日常生活的所有磁场几乎都不在话下。<br/><div class="contheight"></div></u><div style="text-align:center;"><img alt="" height="518" src="http://image.thepaper.cn/www/image/6/760/349.jpg" width="600"/></div><br/><div class="contheight"></div><span style="color: rgb(153, 153, 153);">克里顿Baumatic™腕表，简约的表盘设计下，是一颗技术突破的强劲机芯。<br/><div class="contheight"></div></span>拥有“陶瓷质感”的表面处理展现出晶莹剔透又精致细腻的样貌，名士以此次推出的五款全新克里顿Baumatic™腕表。盘面上拥有简约低调且清晰易读的显示设计，纤细的铆钉式表刻、修长的柳叶刀型指针相互呼应、设于3点钟位置的放大型日期显示窗。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="389" src="http://image.thepaper.cn/www/image/6/760/347.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">全新的Baumatic™ BM12-1975A机芯<br/><div class="contheight"></div></span>防水性能高达50米的表壳配备透明底盖，显露出全新的Baumatic™ BM12-1975A机芯。这系列搭配鳄鱼皮表带及针扣，表带经过巧妙设计，不需借助任何工具便能轻松更换，且提供暗蓝色、深黑色及暖棕色（双色表壳款式）的选择。<br/><div class="contheight"></div>除了技术层面，名士也在腕表中呈现了充满激情的运动精神。今年，名士腕表与印第安摩托——美国第一家摩托车公司缔结独家伙伴关系，将两个品牌共同的精神注入一系列三款全新名士克里顿俱乐部印第安传奇纪念版腕表中。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="483" src="http://image.thepaper.cn/www/image/6/760/348.jpg" width="300"/></div><span style="color: rgb(153, 153, 153);">克里顿俱乐部印第安®伯特芒罗纪念版，限量发行1967枚。</span><br/><div class="contheight"></div>这款限量版自动上链计时码表拥有众多特殊的细节设计，以纪念传奇车手伯特·芒罗的成就。让人一眼即可明显看见的是表盘上那硕大的黄底黑色数字“35”，这是芒罗的幸运号码，显现在位于9点钟位置的秒钟计时小表盘上。而表盘本身是采用银色，盘面施以喷砂润饰，影射芒罗创下纪录的邦威尔盐滩的地表质感。<br/><div class="contheight"></div>直径44毫米的抛光精钢表壳在表圈上配备测速仪刻度，并显明强调出芒罗“184 mph”的时速纪录。再来就是“印第安红”小牛皮表带，唤起印第安摩托公司标志性的深朱红色及芒罗的“Munro Special”特殊色。搭载自动上链Valjoux 7750机芯的表壳，底盖上镌刻着印第安摩托公司著名的印第安头饰标志，还有限量发行的“one out of 1967”编号标示。</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<!-- 审稿人字段 -->
+<!-- 空格分隔后的作者列表-->
+<div class="news_editor">责任编辑：张颖<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="1966183">
+<div class="nbgbox">
+<a class="zan" contid="1966183" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日内瓦表展</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=1966183&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=1966183&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

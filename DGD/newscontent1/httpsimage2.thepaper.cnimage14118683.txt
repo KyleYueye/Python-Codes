@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">外媒：太空深处无线电信号剧烈爆炸，或来自外星文明</h1>
+<div class="news_about">
+<p>澎湃新闻记者 李佩</p>
+<p>
+							2019-01-10 16:39<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">科学家们近期再次发现了来自太空深处的快速无线电信号爆炸。<br/><div class="contheight"></div>据英国《独立报》1月10日报道，这是科学家们第二次看到如此规模的无线电信号爆炸。这不仅进一步增添了科学家们对此类无线电信号爆炸的好奇心，也为科学家了解其成因提供了一个潜在的机会，使得科学家们能从这些来自数十亿光年远的星系爆发的信号中获得对宇宙的进一步认识。<br/><div class="contheight"></div>据推测，快速无线电爆发是从爆炸的恒星传输到外星人过程中产生的。这些无线电信号爆炸的时间往往只持续一毫秒，但与此同时它们爆发的能量，太阳需要12个月才能产生出来。目前，这些爆炸对人类来说仍然完全是神秘的，几乎没有证据可以证明它们来自哪里。<br/><div class="contheight"></div>而最令科学家激动的是，他们此次发现一些爆炸重复了六次，这显示它们显然来自同一地点。在此前检测到的60多次快速无线电信号爆炸中，只有其中一次曾经重复过。<br/><div class="contheight"></div>相关研究人员在《自然》杂志上发表的论文中写道，观测到两个重复信号意味着人类可能会找到这些重复发出信号的来源地。此外，观测到两组重复的无线电信号爆发，也可以让科学家了解它们与单次爆发的区别，从而帮助他们更多地探索无线电信号爆炸的来源，也有助于观察未来可能还会出现的无线电信号爆炸。<br/><div class="contheight"></div>报道称，所有研究人员在近期短短的三周内共发现了大约13次的无限电信号爆炸，这为科学家寻找其来源提供了大量新的数据。这些证据可以证明这些爆炸是来自太空深处极端的环境，又或者是由一些神秘的技术引发；还有科学家声称，外星文明可能会将这些无线电信号带入太空。<br/><div class="contheight"></div>“无论这些无线电波的来源是什么，有趣的是看它的频率范围有多大。”来自麦吉尔大学的团队成员Arun Naidu指出。<br/><div class="contheight"></div>“（我们现在知道）这些电信号可以产生低频无线电波，而那些低频波可以逃离它们本来的环境，并且在到达地球时也不会太分散而无法被检测到。这个特点可以告诉我们一些关于它们来源的信息，但目前我们还没有解决这个问题。”来自加拿大国家研究委员会CHIME团队的成员Tom Landecker补充说道。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：吴挺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 太空,无线电信号,爆炸</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836493">
+<div class="nbgbox">
+<a class="zan" contid="2836493" href="javascript:;" onclick="voteCont(this)" praisetimes="229">
+                           228</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 太空探索</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836493&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836493&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（810）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

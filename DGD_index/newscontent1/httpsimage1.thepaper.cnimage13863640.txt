@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">印度国产最快速列车将投入运营，最高时速160公里</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-03 19:36<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="363" src="http://image.thepaper.cn/www/image/13/863/633.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">印度国产列车——18号列车（Train 18）  视觉中国 资料图<br/><div class="contheight"></div></span>印度最新的国产快速列车很快将投入正式运行。<br/><div class="contheight"></div>据《印度斯坦时报》1月3日报道，印度铁路部长戈亚尔（Piyush Goyal）周三表示，印度有史以来最快的国产列车——18号列车（Train 18）将于下周正式投入商业运行，该型号列车将首先在印度首都新德里和北方邦历史古城瓦拉纳西之间的铁路线上运行，整个行程耗时8个小时左右，速度比现有这条线路上的最快列车快一倍半之多。<br/><div class="contheight"></div>戈亚尔表示，“最后的准备手续正在进行之中，我们希望莫迪总理会亲自乘坐18号列车的首班列车，这也是印度铁路行业一项了不起的成就。”<br/><div class="contheight"></div>目前印度国内运行中的列车速度最高者为“世纪特快”（Shatabdi Express），该款列车1988年投入使用，最高时速130公里。戈亚尔表示，18号列车的最快速度目前设定为每小时160公里，而实际上这型号列车还可以更快。<br/><div class="contheight"></div>据印度新德里电视台（NDTV）此前报道，18号列车由印度ICF列车工厂（Integral Coach Factory）承担建设，研发投入超过100亿卢比。该车为印度首个自行设计和建造的快速列车，拥有时尚的外观，约80%部件为印度自主生产，少数部件依赖进口，其中包括法国制造的座椅、刹车和德国制造的耦合器等。<br/><div class="contheight"></div>据《印度斯坦时报》3日报道，18号列车的命名源自于建造它的年份，现在还有最后的一些安全许可尚待有关部门审批，预计正式投入运行之后其票价要略高于现有印度快速列车的票价。该款火车除了配备旋转座椅外，还配有带生物信息识别和真空处理的高科技马桶以及车载无线网等一系列高科技产品。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 印度火车</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2809876">
+<div class="nbgbox">
+<a class="zan" contid="2809876" href="javascript:;" onclick="voteCont(this)" praisetimes="83">
+                           82</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 印度火车</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2809876&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2809876&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（56）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

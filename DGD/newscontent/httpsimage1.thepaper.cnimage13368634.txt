@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美韩商定：美方对朝韩跨境铁路和公路对接项目豁免制裁</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2018-12-21 15:21<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align: center;"><img alt="" height="403" src="http://image.thepaper.cn/www/image/13/368/529.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">韩国外交部和平交涉本部长李度勋（右）和美国对朝政策特别代表比根</span></div><div>海外网12月21日消息，据韩联社报道，韩美21日举行涉朝工作组第二次会议。双方在会后的记者会上宣布，韩美商定对原定于26日举行的韩朝跨境铁路和公路对接项目开工仪式（简称仪式）豁免制裁，由此，该仪式将如期顺利举行。</div>会议于当地时间上午10点在韩国外交部举行，韩国外交部和平交涉本部长李度勋和美国对朝政策特别代表比根出席会议。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="362" src="http://image.thepaper.cn/www/image/13/368/530.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">朝韩人员共同考察朝鲜境内的铁路</span></div>事实上，朝韩早前商定在11月底或12月初举行开工仪式。不过，期间遭到美国主导“联合国军司令部”的阻扰。有分析说，美方干涉，是因为在朝核谈判僵持不下的情况下，朝韩经济合作提速引起美方不满。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="359" src="http://image.thepaper.cn/www/image/13/368/532.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">10月25日，韩国军人在非军事区内的铁路边执勤<br/><div class="contheight"></div></span>前不久，韩朝跨境铁路和公路对接项目开工仪式，最终定在本月26日举行。不过，为举行仪式而运往朝鲜的各种物资有可能属于制裁对象，因此需要韩美事先沟通。韩国政府认为，要想如期顺利举行开工仪式，韩美需在21日的会议上得出结论，搬掉这块绊脚石。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="343" src="http://image.thepaper.cn/www/image/13/368/531.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">韩国军人在三八线附近发掘遗骸<br/><div class="contheight"></div></span>除了开工仪式，韩国外交部和平交涉本部长李度勋还表示，朝韩共同发掘遗骸工作也将顺利举行。此外，向朝鲜民众提供达菲（抗流感药物）的问题一并得到解决。<br/><div class="contheight"></div>美国对朝政策特别代表比根表示，“我们热切希望与朝方进行下一个阶段的会谈。会谈期间，可就美朝首脑会晤的部分具体细节进行商讨。”不过，对于美方是否会缓和制裁以推进美朝谈判进展的问题，他予以否认，“未考虑过缓和双边或单边制裁”。<br/><div class="contheight"></div>（原题为《开绿灯！美韩商定：对这个朝韩合作项目豁免制裁》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美韩关系,朝韩关系</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2759805">
+<div class="nbgbox">
+<a class="zan" contid="2759805" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美韩关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2759805&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2759805&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

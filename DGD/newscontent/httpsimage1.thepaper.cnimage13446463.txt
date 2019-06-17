@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">这个“翡翠文化创意节”在上海持续一个月，展品类型多元化</h1>
+<div class="news_about">
+<p>澎湃新闻</p>
+<p>
+							2018-12-24 11:20<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="399" src="http://image.thepaper.cn/www/image/13/446/469.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">东华美钻“翡翠文化创意节”在上海城隍庙东华美钻•上海玉苑举行。 主办方 供图</span><br/><div class="contheight"></div>首届东华美钻“翡翠文化创意节”，将于2018年12月20日至2019年1月20日，在上海城隍庙东华美钻•上海玉苑举行。<br/><div class="contheight"></div>文化创意节展品分为收藏系列、文创系列、热销系列，满足消费者等多元化消费需求。同时创意节力邀翡翠名家携手实力新人，国际品牌联袂本土创意品牌，以名作新品，见证改革开放四十年传统文化的弘扬、翡翠艺术上千年民族工艺的发展。<br/><div class="contheight"></div>创意节展品精选佳达、泰源丰、老洪祥、翠海堂、吉祥翡翠、传玉堂、东华美钻等翡翠高端品牌，如老洪祥的中国玉雕“百花奖”金奖作品《连年有鱼》、泰源丰的翡翠紫色葫芦、翠海堂的翡翠笑佛、吉祥翡翠的冰种多子多福挂件等展品，都代表着悠远流长的中华文化不朽之美。<br/><div class="contheight"></div>今年正值改革开放40年，东华美钻•上海玉雕大师俱乐部迎风借力，推出“宝玉石创意设计制作推广中心”文创项目。今年以来，东华美钻已经先后推出大师俱乐部精品展、“猪王”熊明星个人作品展、文创先行当代玉石雕刻展等多个文化创意活动。<br/><div class="contheight"></div>以新创意引领，俱乐部在活动期间还将请来翡翠设计、工艺、营销方面的行业翘楚，举行“翡翠文化名人讲坛”，并与沪上翠友们现场互动交流，共话翡翠玉雕技艺、翡翠的祥瑞文化、翡翠投资、翡翠人的心路历程。<br/><div class="contheight"></div>主办方上海东华美钻股份有限公司诚信承诺，创意节上所有翡翠商品由专业机构出具“宝石鉴定证书”，符合退货要求的，实行七天“无理由、有条件”退货，保证货品未损坏，证书和包装齐全，不影响二次销售的情况下进行复称，如符合退货条件的即可在期限内进行退货。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑浩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 上海购物,文化创意节,收藏</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2767909">
+<div class="nbgbox">
+<a class="zan" contid="2767909" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 上海购物</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767909&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767909&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27234">科技湃</a>
+</div>
+<h1 class="news_title">146家单位建天基物联网产业联盟：80颗商业通信卫星组网</h1>
+<div class="news_about">
+<p>胡喆、冯国栋/新华社</p>
+<p>
+							2018-12-26 18:00<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/523/290.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">湖北日报 图</span><br/><div class="contheight"></div>由中国航天科工集团有限公司所属的航天行云科技有限公司发起、国内146家相关单位共同组建的天基物联网产业联盟，12月26日在湖北武汉成立。联盟将从科研、制造、运营、服务、应用和金融资本等多个方面推动低轨窄带商业通信卫星产业发展，加速推进天基物联网在电力、石油、金融等国民经济领域的规模化应用。<br/><div class="contheight"></div>据联盟发起单位中国航天三江集团有限公司副总经理、行云科技有限公司董事长张镝介绍，天基物联网产业联盟是国内低轨窄带商业通信卫星产业成立的首个联盟。联盟由146家单位组成，设有专家委员会、标准委员会和应用委员会。<br/><div class="contheight"></div>据介绍，专家委员会由业内高级技术人员、知名专家和学者组成，为推动创新项目研究提供技术支持；标准委员会由国内外知识产权和标准领域专家组成，主要任务是推动产业相关标准的建设；应用委员会将致力于推进我国低轨窄带商业通信卫星技术的应用与服务创新。<br/><div class="contheight"></div>据张镝介绍，物联网离不开通信基础设施，但全球仅有5%的海洋面积和20%的陆地面积覆盖了地面通信基站，制约着物联网产业发展。天基物联网产业联盟的成立，有利于做大做强卫星及应用产业，加速卫星应用与基础设施融合发展，推动我国天基物联网核心技术的研究及标准的制定。<br/><div class="contheight"></div>天基物联网又称“行云工程”，是我国在建的首个低轨窄带通信卫星星座。工程2018年正式启动，计划利用80颗低轨窄带通信卫星，构建一个自主可控、覆盖全球的卫星通信网络，以卫星为基站，与地面通信设施形成互补，为海洋渔政、水利防汛、应急救灾、野外科考等领域提供更加完善的物联信息服务。首批两颗卫星“行云二号”01星与02星计划2019年上半年完成发射。<br/><div class="contheight"></div>（原标题：146家单位组建商业卫星物联网产业联盟  加速推进卫星应用）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：虞涵棋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776609">
+<div class="nbgbox">
+<a class="zan" contid="2776609" href="javascript:;" onclick="voteCont(this)" praisetimes="41">
+                           40</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 商业卫星</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776609&caid=27234",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776609&amp;caid=27234" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

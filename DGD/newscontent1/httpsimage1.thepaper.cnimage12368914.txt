@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">最高检向教育部发出检察建议：健全完善预防校园性侵害机制</h1>
+<div class="news_about">
+<p>董凡超/@法制日报</p>
+<p>
+							2018-11-18 15:12<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">@法制日报 11月18日消息，记者11月18日从最高人民检察院获悉，日前，最高检向教育部发出《中华人民共和国最高人民检察院检察建议书》，建议<strong>有针对性地加强顶层设计，进一步健全完善预防性侵害幼儿园儿童和中小学学生的制度机制，加强对校园预防性侵害相关制度落实情况的监督检查，依法严肃处理有关违法违纪人员</strong>。这份检察建议得到了教育部高度重视。<br/><div class="contheight"></div>据介绍，最高检向教育部发出检察建议后，各省级检察院也将这份检察建议书抄送本省教育主管部门及主管省（区、市）领导，同时报送了本省检察机关开展未成年人保护工作情况。多个检察院很快收到了本省（区、市）领导重要批示及教育部门的落实反馈意见。11月9日，贵州省政府有关负责人收到检察建议后明确表示，要加大工作力度，确保本省幼儿园、中小学校校园安全。贵州省教育厅负责人也明确表示，将以此次检察建议的办理为契机，从提高认识、建章立制、强化人防技防等综合防控、强化师德师风教育、严格责任追究和加强警示教育等方面全力抓好校园安全管理。<br/><div class="contheight"></div>11月6日，四川省政府有关负责人明确指示本省教育厅认真落实好最高检的检察建议，全面排查校园安全存在的问题，主动对接公检法等部门，严格执行法律制度，压紧压实安全责任，确保校园安全稳定。重庆市委、市政府也表示要对侵害学生的教职工员工从严处理、坚决清除，加强市教委和检察院信息沟通与合作，共同做好未成年人保护和综合治理工作。<br/><div class="contheight"></div>最高检有关负责人表示，未成年人司法保护之路任重道远，检察机关将立足监督职责，继续与社会各界携手，不断加大惩治和预防侵害未成年人犯罪力度，努力保护未成年人合法权益，全力呵护未成年人健康成长。<br/><div class="contheight"></div> （原题为《最高检向教育部发出检察建议推动校园安全建设》 ）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 最高检,校园安全</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2647070">
+<div class="nbgbox">
+<a class="zan" contid="2647070" href="javascript:;" onclick="voteCont(this)" praisetimes="294">
+                           293</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 校园安全</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2647070&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2647070&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（222）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

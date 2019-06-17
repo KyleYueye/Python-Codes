@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">韩国高官首次明确表态：金正恩年内恐难访问首尔</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-12 16:47<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">年关将至，青瓦台在盼了良久之后，首次有高官表态朝鲜最高领导人金正恩年内难以回访韩国。<br/><div class="contheight"></div>据韩联社12月12日报道，韩国青瓦台高官12日在接受电话采访时表示，青瓦台内部认定朝鲜国务委员会委员长金正恩年内恐难访问首尔。这是青瓦台官员首次明确表示金正恩年内难以回访。<br/><div class="contheight"></div>此前，青瓦台一直争取金正恩能在年内访问首尔，并暗示韩国政府已经就此事和朝鲜进行了沟通，但朝鲜至今没有做出肯定答复。日前，韩国国内已有观点提出金正恩年内访韩或无法实现，有可能推迟至明年。<br/><div class="contheight"></div>在谈及朝鲜未做回复的原因时，韩联社报道称，在首尔举行文金会对安保工作提出了巨大的挑战，加上朝美谈判进展不太顺利，因此朝方未就回访日程做出明确答复。然而青瓦台部分人士认为，仍不排除金正恩年内回访的可能性。此前韩联社也报道称，考虑到金正恩是个信守诺言的人，他有可能闪电访韩。但是即便如此，随着年关将至，韩方为接待金正恩也至少需要10天左右的准备时间，而考虑到12月17日是朝鲜已故领导人金正日的祭日，鉴于此，金正恩年内访问首尔的可能性甚微。<br/><div class="contheight"></div>综合以上因素，韩国国内目前将注意力转向金正恩能否在第二次朝美首脑会谈之前访问首尔。但有观点指出，金正恩在第二次金特会前访问首尔未必更好，因为金正恩如果在第二次金特会上取得对朝制裁松绑等一定成果后再访问韩国，朝韩进一步推进关系或许有更大的空间。对此，青瓦台高官表示，青瓦台也不排除金正恩明年初回访的可能性，但具体时间仍是未知数。 <br/><div class="contheight"></div>今年9月，文在寅和金正恩在平壤举行峰会的时候，金正恩承诺“早日”对首尔作首次访问。文在寅当时说，这意味着金正恩会在今年年内访问首尔。今年年初以来，朝鲜半岛南北方关系发生了戏剧性变化，双方在短短几个月内举行了多次首脑峰会，半岛长期以来的紧张局势明显缓和。<br/><div class="contheight"></div>美国与朝鲜也在今年6月举行了首次首脑峰会，为半岛去核化制定了目标。白宫称在新年到来的几个月内，美朝领导人将举行第二次峰会，推动朝鲜半岛的无核化谈判。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 朝鲜半岛,南北关系,美朝关系</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2731006">
+<div class="nbgbox">
+<a class="zan" contid="2731006" href="javascript:;" onclick="voteCont(this)" praisetimes="14">
+                           13</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 朝韩关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2731006&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2731006&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

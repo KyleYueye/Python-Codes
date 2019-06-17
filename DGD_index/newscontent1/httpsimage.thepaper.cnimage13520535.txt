@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">俄驻华大使：中俄两国将为建交70周年举办一系列庆祝活动</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-26 15:36<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="405" src="http://image.thepaper.cn/www/image/13/520/564.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">俄罗斯驻华大使安德烈∙杰尼索夫 视觉中国 资料图</span><br/><div class="contheight"></div>明年，中俄将迎来建交70周年。<br/><div class="contheight"></div>据俄罗斯卫星通讯社12月26日报道，俄罗斯驻华大使安德烈∙杰尼索夫对俄罗斯记者表示，为了庆祝俄中建交70周年计划举行音乐会和历史文献展览活动。<br/><div class="contheight"></div>杰尼索夫表示：“对于我们来说，新的一年将迎来两个70周年，10月1日中华人民共和国成立70周年和两国建交70周年。严格地说，这不是俄中关系，而是苏中关系。但因为俄罗斯是苏联的合法继承人，因此我们认为这是两国建交70周年。”<br/><div class="contheight"></div>目前，双方已讨论了可能举行的活动清单。大使说：“例如，主要音乐团体的联合音乐会，可能在莫斯科大剧院的舞台上，也可能在克里姆林宫大礼堂的舞台上举行。”<br/><div class="contheight"></div>此前，中国驻俄罗斯大使李辉也在驻俄罗斯使馆与俄罗斯国际事务委员会联合举办“中国改革开放40周年视角下中俄关系发展成果与展望”研讨会上发言表示，“明年将迎来中俄建交70周年。中方愿同俄方一道，以建交70周年为契机，进一步巩固中俄关系，深化各领域务实合作，让中俄关系更好造福两国和两国人民。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中俄关系</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776459">
+<div class="nbgbox">
+<a class="zan" contid="2776459" href="javascript:;" onclick="voteCont(this)" praisetimes="43">
+                           42</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中俄关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776459&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776459&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

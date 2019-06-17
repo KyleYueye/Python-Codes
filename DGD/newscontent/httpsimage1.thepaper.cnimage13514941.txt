@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25463">港台来信</a>
+</div>
+<h1 class="news_title">国台办：民进党当局称大陆隐匿非洲猪瘟疫情，是故意炒作</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2018-12-26 11:04<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网12月26日消息，当日上午，国务院台湾事务办公室举行例行新闻发布会，国台办发言人马晓光就近期两岸热点问题回答记者提问。<br/><div class="contheight"></div>有记者提问，今年8月以来，大陆出现“大规模非洲猪瘟疫情”，台陆委会表示，曾经三度发文给大陆了解疫情发展，但是未获回应，陆方也没有依照《海峡两岸农产品检疫检验合作协议》规定向台湾方面通报非洲猪瘟疫情。请问发言人，这件事情是真的吗？<br/><div class="contheight"></div>马晓光表示，首先我纠正一下，不是大规模疫情。自今年8月大陆发生非洲猪瘟疫以来，相关部门和地区采取了有效措施，严格开展疫情的处置，目前疫情趋于平稳，总体可控。中国政府防控疫情的措施和成效，得到了联合国粮农组织的肯定。<br/><div class="contheight"></div>两岸签有《海峡两岸农产品检疫检验合作协议》，用以解决涉及两岸贸易的农产品和食品安全信息的通报问题。台湾方面长期以来没有进口大陆猪肉，所以非洲猪瘟疫疫情通报并不适用上述协议。尽管如此，2004年，海峡两岸发生禽流感疫情之后，两岸双方经过沟通，确定以海峡两岸农业交流协会和台湾财团法人农村发展基金会作为两岸非贸易农产品疫情信息交换和防控交流的民间渠道。我想强调一下，这是指非贸易农产品。该渠道一直保持了常态化的沟通。但是2017年台湾相关基金会人员被改换、业务被转型，导致双方联系中断。<br/><div class="contheight"></div>非洲猪瘟疫疫情发生后，大陆有关方面始终按照及时、公开、透明的原则进行疫情发布，及时向世界动物卫生组织等国际/区域组织、相关国家和地区进行通报。台湾作为世界动物卫生组织的成员，可以及时获得动物疫情的信息。至于说国台办和陆委会、海协会和台海基会之间的渠道为什么中断，我想原因是众所周知的。<br/><div class="contheight"></div>在这里，我还要强调指出，疫情发生以来，大陆的海关通过进手机、进客舱、进车厢等等方式，加强口岸防控的宣传，提示旅客遵守入境地的相关规定，迄今已经发放了3.5万册宣传单，6000万条提示信息。<br/><div class="contheight"></div>在这里我还要指出，民进党当局近一个时期炮制一些不实说法，称大陆隐匿疫情、防疫失控，这完全是不实指责，是故意炒作，是借题发挥，意图煽动台湾民众对大陆的不满情绪。<br/><div class="contheight"></div>（原题为《民进党当局妄称大陆隐匿非洲猪瘟疫情 国台办回应》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 国台办,非洲猪瘟疫情</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2775771">
+<div class="nbgbox">
+<a class="zan" contid="2775771" href="javascript:;" onclick="voteCont(this)" praisetimes="61">
+                           60</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国台办</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2775771&caid=25463",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2775771&amp;caid=25463" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,82 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="channel_36079">湃客</a>
+                    &gt; <a href="list_35570">镜相</a>
+</div>
+<h1 class="news_title">数据标注员：隐身于人工智能背后的工兵</h1>
+<div class="news_about">
+<p>
+                            2019-01-08 12:24<span> 来源：澎湃新闻 湃客</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_paike_author clearfix">
+<a href="sparker_3540767" target="_blank">
+<div class="thum">
+<img src="//image.thepaper.cn/publish/interaction/image/2/959/999.jpg"/>
+</div>
+<div class="name">新青年非虚构写作集市</div>
+</a>
+<div class="line"></div>
+<div class="link" data-userid="3540767" onclick="followUser(this)">+关注</div>
+</div>
+<div class="news_txt" data-size="standard"><span style="color: rgb(128, 128, 128);">编者按：人工智能本身并不会识别物体，为了帮助AI建立认识世界的能力，需要大量数据资料来“教会”AI识别。因此，这就需要数据标注员<span style='font-family: "Hiragino Sans GB", "Microsoft Yahei", sans-serif; letter-spacing: 0.5px;'>提供数据信息：他们做着原始、单调、又有极高精度要求的工作——一张图一张图地拉框、标记，让计算机懂得哪里是人的眼睛、鼻子、嘴唇，又或什么是垃圾桶、红灯、斑马线。本文原题《智能之下的人工——数据标注员探访报告》</span></span><br/><div class="contheight"></div>采访、撰文 | 蓝泽齐  李奕霏  小俣幸代<br/><div class="contheight"></div>指导老师 | 张慧瑜<br/><div class="contheight"></div>当你划动网页推荐界面，在谈笑风生中走过门口的人脸识别仪时，你会注意到，人工智能已经渗透入我们生活的角角落落，成为不可或缺的便利存在。<br/><div class="contheight"></div>而在高效的智能服务下，是庞大到不可思议的数据训练库堆砌起的坚实基石，以及隐身于智能背后数量庞大、层次不齐的“人工”。他们站在时代风口、却做着民工般枯燥的机械性工作；他们让每条数据与我们亲密接触、却又让我们无法触及他们的存在。<br/><div class="contheight"></div>他们究竟过着怎样的生活？他们的人生规划是什么？他们对人工智能态度又如何？以及，随着科技迅速发展，他们会有一天沦为人工智能的垫脚石与时代的牺牲品吗？<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/888/203.jpg" width="100%"/></div><strong>“这一下可就是五毛钱”</strong><br/><div class="contheight"></div>孙帅心里默念着，盯着25英寸1080P的屏幕，但映入眼帘的图像，仿佛是上个世代的超糊马赛克图一般，巨大屏幕的对比下，清晰可见的是图片里的每一个像素，这种感觉仿佛是，电影院里3D巨幕打小霸王、北大课堂听传销课一样，让人本能地产生一种不适感。<br/><div class="contheight"></div>他刚来时，同一个组的伙伴告诉他，“人体特征点虽然单价最高，但也是最辛苦的”，那时，他倒也是初生牛犊不怕虎，直接应下了这个任务。<br/><div class="contheight"></div>但任务刚一上手，但便理解了“最辛苦”三个字的含义，不仅做得慢，而且稍有不慎，整个包就需要重新去做，而每个包里有100张图，每张图里少则4个人像，每个人像都有17个重要特征点，每个特征点都分为遮挡与不遮挡两类，而至于遮挡不遮挡的条件，那更是十几页的pdf才能详细说明的。<br/><div class="contheight"></div>为了这样一个包，孙帅需要指关节连续敲击小一万次，虽然过程十分琐碎而无聊，但心里念想着，工作嘛，哪有轻松的。便一个点，又一个点，一张图，又一张图，偶尔去抽一根又一根的烟，花了接近一上午时间才算完成，他算了下，一上午才拿20元，北京市最低工资时薪21元，他一上午时薪8元，远远低于这个数。<br/><div class="contheight"></div>但现在的孙帅，早已不是当时那个新手了，作为组长的他，做标注任务时，仅仅需要盯住身前的屏幕，无需重复地打开那个新手说明，熟练地拖动鼠标，轻巧地在电脑上标下几个点，啪啪几个快捷键下去，这一张图就算是完成了，一套动作行云流水，一气呵成。<br/><div class="contheight"></div>孙帅偶尔也会想，像他这样没学历，没背景，仅仅因为年少常常出入网吧，对于电脑稍微熟悉了点，便可以找个正经工作。如今作为组长的他，偶尔还能收获新来姑娘的赞美，想想与上份工作相比，倒是多了不少尊严。<br/><div class="contheight"></div><strong>“小伙子，你大学毕业了吗？”</strong><br/><div class="contheight"></div>孙帅注意到新来的同事，标准的学生打扮。<br/><div class="contheight"></div>年轻男孩停下工作，看了孙帅一眼。<br/><div class="contheight"></div>他是张振，其实已经26岁了，不过因为深居简出，不喜好与他人打交道，所以经常被误认为初出茅庐的懵懂大学生。<br/><div class="contheight"></div>张振没怎么关注孙帅，他的心思全都在人体拉框上——这件事非常需要耐心与投入。张振毕业于天津铁道职业技术学校，毕业后便进入铁道部门，端起了人人羡慕的国企金饭碗。他老家在天津，父母做一些小生意，虽然不怎么红火却从来也没有少过他的花销，小康家庭，偏安一隅，张振从小也很少为钱财发过愁，而进入铁道部门后生活更是安逸平和。他住在公司提供的北京丰台区一套房子，每天上班时间并不长，平时有大把时间花费在玩电脑上。<br/><div class="contheight"></div>但是张振内心有着强烈的挣钱决心也早就开始了对未来的规划。他已经早早购买了天津的两套房产，得了同龄人的羡慕与称赞，但只有他自己清楚两套房产每个月房贷压力之大，虽然作为单身汉开销不多，但是他也感受到了极大的经济压力。<br/><div class="contheight"></div>张振不太清楚互联网相关行业，因此也一直没怎么找过兼职，但后来一个了解了他情况的好友邀请他来到了数据标注公司，顿时被打开了新世界——竟然有这么好的工作？不怎么需要坐班，工作时间自由，按件计费，几乎是他最梦寐以求的兼职。张振本职是铁道部门技术相关工作，平时比较清闲，有大把时间不知如何花费，而这份兼职简直是瞌睡时递枕头，能够帮助他大幅降低经济压力，获得更多可支配的零花钱。<br/><div class="contheight"></div><strong>“老骥伏枥，志在千里；烈士暮年，壮心不已”</strong><br/><div class="contheight"></div>六个月前，赵伟遇见了命中注定的那份工作。同学在他面前洋洋洒洒介绍数据标注这份工作时，赵伟眼中涌动着从未有过的复杂情绪。<br/><div class="contheight"></div>他感觉内心深处那无时无刻不折磨着他的狂躁与忧郁逐渐熄灭了，随之而来的是从所未有的欣喜。<br/><div class="contheight"></div>他敏锐地感觉到，同学介绍数据标注时话语中提及的“人工智能”这个名词代表着科技的方向，也指引着自己未来事业的方向。原本只能在读各种科技类公号与财经报纸上那个高深莫测的词眼，突然变成了自己目前可触可感甚至能直接工作服务的领域，这让他暗自下定决心，一定要抓住这个时代的方向。<br/><div class="contheight"></div>赵伟内心的焦虑，源于对无法跟上时代步伐的担忧。他想看清迷雾中的方向，在跌跌撞撞中换了无数工作，却始终无法心安。而自从正式从事人工智能相关的数据标注工作后，他整个人精神面貌焕然一新，连许久未见的好友看到后都连声称赞。虽然他不太懂电脑，他也从来没有学过互联网相关技术，但凭借着向往与毅力，他硬是用两个月熟悉了电脑操作，最终啃下了对于年轻人来说比较友好的数据标注工作。<br/><div class="contheight"></div>虽然赵伟已不再那么年轻，他一无房产二无成家立业，但注视着电脑里那神色各异的有趣面孔，他便看到了未来的一切希望。他想，他终于抓住了时代的脉搏，接触到了大多数人都不了解的最前端科技。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/888/202.jpg" width="100%"/></div><span style="color: rgb(128, 128, 128);">图 视觉中国</span><br/><div class="contheight"></div><strong>“我比较喜欢坐在电脑前面，默默干活——这样让我感觉很安心。”</strong><br/><div class="contheight"></div>孙帅正职是一名网络公司的技术员，毕业于黄淮学院土木工程学院，毕业后在社会的一系列打拼，都已令他感觉，离曾经大学里学习的专业知识渐行渐远。兜兜转转，他反而选择了当年被家里人认为是“洪水猛兽”的互联网方向的岗位，成为了一名网络公司的技术员。<br/><div class="contheight"></div>孙帅也不知道，自己为什么就突然选择了数据标注这个兼职。可能因为上手容易，而熟练后工资确实可观吧，而且公司里很多同事都在做这份兼职，大家因此有了不少共同语言，偶尔还会一起聊聊对人工智能行业未来发展前途的想法。而孙帅也因为从事兼职而大幅缩减了以前下班后“不务正业”的时间，父母都因此欣慰了不少。<br/><div class="contheight"></div>成为一名兼职数据标注员后，他后知后觉意识到，整个办公室大部分人都已经或多或少与这个行业有所牵扯。数据标注这个行业，仿佛突然间就异军突起、占据了互联网兼职的半壁江山。<br/><div class="contheight"></div>而自从彻底投身互联网行业后，孙帅也逐渐了解到更多互联网相关职业的信息，这些光怪陆离、闻所未闻的奇妙职业层出不穷，在同事的口口相传中进入他的视野，令他感受到互联网别样的魅力，以及一种从未有过的澎湃与激动，一种与这种大时代与有荣焉共进退的骄傲与自豪感。<br/><div class="contheight"></div><strong>“这些清华出来的就是不一样，太厉害了，和他们完全没法比。”</strong><br/><div class="contheight"></div>前几天，孙帅在一个中关村的全国科技创新展上，他看到几个清华学生拿着他们自主设计的智能自行车产品进行项目展示，他忍不住感叹了一句。<br/><div class="contheight"></div>没法比！<br/><div class="contheight"></div>或许不止那个科技展上，清华学子留给他的光彩夺目的一面。在公司里，他偶而也会很羡慕地看着坐在更大更舒适的办公室里的科研技术人员，他们基本来自离公司最近的几大高校，也是全中国最有名最优秀的几所大学——清华北大人大等名校，月薪轻松几万以上。<br/><div class="contheight"></div>“他们才是真正搞人工智能产品技术的。”孙帅羡慕地说，转而又流露出一丝惆怅的情绪，“说实话，数据标注员这个工作虽然表面上属于人工智能行业，但实际上我们顶多就沾了一点边，和那些真正的人工智能产品的科研技术人员完全不同，他们可能要弄清楚人工智能产品的设计原理，怎么运作的。而我们做的只是最基础的，给公司收集来的那些图片，标注好数据的工作而已。你只要认识你要标注的是什么、标在哪里，基本就没什么问题了。剩下的可能就是熟练度的差别了。”<br/><div class="contheight"></div>他盯着屏幕上一张张图片，麻木地点击标注。尽管他已经有一定熟练度，也足够细心了，但还是会有几张图片不合格。<br/><div class="contheight"></div>“有的时候，会觉得数据标注员被机器取代是很正常的事情，人其实很容易出错，效率还低，特别是疲劳的时候。机器就不同了，效率高，而且基本不会出错，更没有精力旺不旺盛、累不累这种说法。”他有些沮丧，“而且这个行业现在也不如我刚开始干的时候了，我们公司的数据标注员基本都回家自己用电脑标注了，到时候上传就可以了，因为公司的办公桌资源有限，但是标注员却越来越多，而且标注完一个数据包的价格也比一开始降低了。我感觉这个行业已经过了巅峰期了，正在慢慢在走下坡。”<br/><div class="contheight"></div>不过，好在这个职业不是他的全部，只是一份兼职，只是一份为他赚一些零花钱的工作。他想，好在我也还年轻，还有后路，还可以继续在这个行业里待到我们将来会被取代的一天。 <strong><br/><div class="contheight"></div>“我们这个数据标注行业的未来肯定是有前途的，它拥有很大的扩张力。”</strong><br/><div class="contheight"></div>赵伟已过而立，却对在一个陌生领域从零开始工作充满信心，“我们这个行业属于人工智能行业，属于高科技产业，行业发展潜力特别大，而且人工智能行业在近几年发展越来越快，人工智能行业的市场也越来越吃香……”<br/><div class="contheight"></div>33岁的他此前毕业于财务会计专业，做了一段时间会计后，发现会计不是自己所喜欢的工作，便选择了转行。“现在的中国市场行情，工作与专业不对口的人多了去了，再说学历也不能证明一切。”辞掉会计工作后，他也陆陆续续地做过一些工作，有的是正职，但更多的是兼职，这样的不稳定的工作生活一直到今年年初，他被一位朋友带进这个行业里才有所改变。数据标注员是他目前的正职工作，也是为数不多的几份较稳定的工作之一。而半年多的时间，他对数据标注员工作的热情也并没有随着入行时间消退，反而因为工作待遇好和工作福利多，他更珍惜并看好这份工作。<br/><div class="contheight"></div>“成为数据标注员之后，我觉得我了解了很多以前不知道的事，比如无人驾驶领域的汽车……包括我现在会更关注人工智能领域的新闻，也对这方面越来越感兴趣，比如我看很多科技新闻，觉得日本的人工智能行业其实比中国更加成熟，他们的智能机器人技术比中国更加先进，还有我了解到中国现在的人工智能行业发展也特别快，比如百度现在也在做无人驾驶的开源项目……”<br/><div class="contheight"></div>赵伟谈起人工智能时眼睛里仿佛含着光，嘴巴上挂着笑。这也是他极少数打开话匣子的时候，似乎是终于找到一条和外界相连接的通道，想要趁着大好时机，一股脑将自己的想法倾诉出去。<br/><div class="contheight"></div>他从不向任何人谈那些重新开始一个新领域的工作所遇到的困难，又或者是身体上因为长时间在电脑桌前静坐有多么疲劳，在听到周围同事在抱怨做太长时间标注工作，身体有点吃不消的时候，也不肯轻易地向身体开口认输。他不习惯将自己在逐渐适应这个行业的前两个月的过程中所受到的挫折与人诉说，也不善于将自己工作中的苦处展现出来，仅仅轻描淡写地一句话带过，“其实适应了就好，刚开始谁都会不习惯，适应了你标注完一个数据包就特别快，效率高，很有成就感。”<br/><div class="contheight"></div>在大多数时候他脸上都保持着自信的微笑，举止稳重。<br/><div class="contheight"></div>“我知道人工智能产品可能逐渐会取代人力，包括数据标注行业，它在将来某一天肯定会削减掉很多标注员，因为用机器就可以办到了。但我暂时也没有转业的打算，走一步看一步吧，至少等到真的不需要我们的那一天再说，就目前看的话，人工智能它还是需要像我们这些标注员来帮助它积累数据、深度学习的。”<br/><div class="contheight"></div><strong>“老赵，你来啦！”</strong><br/><div class="contheight"></div>办公室的同事朝他热情地招呼。<br/><div class="contheight"></div>赵伟不得不承认，在这个正职数据标注员办公室里，他居然算年龄较大的。不过这个发现反而让他坚定了自己当初选择这条道路的决心。都是年轻人，说明数据标注有前途，人工智能有前途，他赶上了大好时代。<br/><div class="contheight"></div>今天做些什么呢？赵伟习惯性拿起手机，上面显示是周三——哦，已经周中了，那便没什么特别要紧的事务。<br/><div class="contheight"></div>作为正式员工，赵伟他们反而工作量少些，毕竟已经有了稳定工资，而平日里也就一周工作日开始和结束时比较忙碌，毕竟周一周五会议之类比较多。赵伟心态平和，从来不会因为标注速度或者公司事务而烦躁，在他看来，融入这种人工智能环境、跟随着公司一起学习进步才是最要紧的事情。<br/><div class="contheight"></div>赵伟放下茶杯，从包里拿出一本大学英语教材，端起来聚精会神地学起来。赵伟在打算未来从事人工智能方向时，就意识到英语在互联网时代具有关键性作用。可惜他年轻时没有将精力投入外语方面，现在必须要尽快补齐这块短板，跟上时代的步伐。看了一阵，赵伟抬起头来揉揉眼睛，然后转向电脑，正式开始一天的工作。任务不重，一小时后赵伟便完成了大半，从电脑前抬起头来，缓缓伸了个懒腰：“小吴，最近公司自动驾驶那块有什么新的突破吗？”<br/><div class="contheight"></div>赵伟旁边的青年笑起来：“这我怎么可能知道，不过老赵你看最新新闻，好像另一家无人驾驶公司上头条了呢。”<br/><div class="contheight"></div>赵伟慢慢活动了一下身体，疏通经脉：“早看咯，咱们啊，一定要紧跟时代步伐，最快了解人工智能方面消息，这样才能不断进步。看来小吴你最近也很用功啊，值得表扬。”<br/><div class="contheight"></div>赵伟的手机里是各种新闻时事app，微信里关注了一大堆科技大V，他每天都如同一条不知疲倦的鱼，疯狂游览着这个神秘而宽阔海洋的各种景色。<br/><div class="contheight"></div>他感觉每天的生活虽然是重复的，但是却有希望与盼头。每天都有全新的互联网与人工智能知识等待自己去探索与钻研，每天都有全新的人工智能新闻拓展他的眼界，这样的生活简单而充实。<br/><div class="contheight"></div>虽然目前公司专门负责无人驾驶的高端技术部门自己是无缘涉足吧……但赵伟相信自己的眼界目前和他们是在同一个高度的，他坚信，自己不久之后一定不再是一个普通的数据标注员，而是人工智能领域运筹帷幄的存在。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_keyword">关键词 &gt;&gt; 湃客</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                本文为自媒体、作者等湃客在澎湃新闻上传并发布，仅代表作者观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love sparker_news_love" style="width: 446px;">
+<input id="hidden_contid" type="hidden" value="2812849">
+<div class="nbgbox">
+<a class="zan" contid="2812849" href="javascript:;" onclick="voteCont(this)" praisetimes="528">
+<span></span>527</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang"><span></span>收藏</a></div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2812849&caid=35570",".news_imgad")</script>
+</div>
+<div class="news_txtad">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2812849&amp;caid=35570" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（34）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

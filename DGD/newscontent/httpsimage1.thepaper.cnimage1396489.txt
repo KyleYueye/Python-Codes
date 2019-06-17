@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">一日本间谍在华被判12年，外交部：中国有关部门依法办案</h1>
+<div class="news_about">
+<p>环球网</p>
+<p>
+							2018-12-11 21:34<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="318" src="http://image.thepaper.cn/www/image/13/96/485.jpg" width="500"/></div><span style="color: rgb(128, 128, 128);">外交部网站 图<br/><div class="contheight"></div></span>日本共同社11日报道称，日中消息人士当日透露，对于2015年6月在中国北京被拘的札幌市一名70多岁的日本男性，北京市法院10日以进行间谍活动为由做出有期徒刑12年并没收个人财产20万元的判决。对此，外交部发言人陆慷11日在例行记者会上对此事作出回应称，中国有关部门依法办案。<br/><div class="contheight"></div>陆慷表示，关于具体案件，可以向中国主管部门去了解。“我只能告诉你，中国有关部门依法办案。”<br/><div class="contheight"></div>日媒称，2015年以来至少有8名日本人被指涉嫌从事间谍活动等被中方拘留、起诉，这是其中被宣判的第4人。<br/><div class="contheight"></div>共同社称，据上述消息人士透露，此案审判闭门进行，具体被控行为不清楚。有消息称该男性曾在航空公司工作，以顾问身份频繁往来于日中两国。<br/><div class="contheight"></div>（原题为《日本一男子因间谍罪在华被判12年 外交部：中国有关部门依法办案》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中日关系 间谍</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2728494">
+<div class="nbgbox">
+<a class="zan" contid="2728494" href="javascript:;" onclick="voteCont(this)" praisetimes="414">
+                           413</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中日关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2728494&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2728494&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（47）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

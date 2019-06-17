@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">武汉“地铁上点燃奶茶杯扔乘客”女子被刑拘：涉危害公共安全</h1>
+<div class="news_about">
+<p>澎湃新闻记者 周琦 通讯员 张祖华 黄浩</p>
+<p>
+							2018-12-26 10:31<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="735" src="http://image.thepaper.cn/www/image/13/514/433.jpg" width="422"/></div><span style="color: rgb(128, 128, 128);">女子在地铁上点燃奶茶杯 警方供图</span><br/><div class="contheight"></div>12月24日，武汉地铁4号线列车上一女子点燃奶茶杯的视频在网上引发社会关注。26日，澎湃新闻（www.thepaper.cn)从武汉市公安局轨道交通管理分局获悉，25日下午警方在某小区将嫌疑人韩某某抓获，韩某某因涉嫌危险方法危害公共安全罪已被刑事拘留。<br/><div class="contheight"></div>经警方调查，12月24日上午10时许，韩某某（女，36岁）在地铁4号线楚河汉街站上车时，与一女乘客因擦碰发生争吵。韩某某和那名女乘客上车后继续争吵后找了个空位坐下。大约过了几分钟，列车行驶至青鱼嘴地铁站附近，韩某某突然掏出打火机，将手中的空奶茶杯点燃。坐在对面的一名男乘客看到韩某某点燃了纸杯子，当即出言制止称:“你怎么在地铁车厢里点火啊？”该男乘客要求韩某某立即将火熄灭，但韩某某拿着烧着的杯子却反问男乘客“你教我怎么灭？”男乘客生气地对韩某说:”将杯子放在地上用脚把火踩灭！”话音刚落，意想不到的一幕发生了，韩某某一边称“那你来吧”，一边把燃着的奶茶杯扔向劝阻她的男乘客身上，险将男乘客的衣服引燃，男乘客果断用脚将火踩灭，幸未造成大碍，周围乘客纷纷躲闪。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="736" src="http://image.thepaper.cn/www/image/13/514/435.jpg" width="424"/></div>该事件引发大量网友对公共交通安全的关注和担忧，对韩某某在地铁车厢内点燃奶茶杯并扔向其他乘客的行为表示强烈谴责，对社会产生较坏影响。<br/><div class="contheight"></div>案发后，轨道警方高度关注，迅速组织警力侦查。通过视频追踪、调查取证，于12月25日15时左右在武昌某小区内将在地铁列车内点火的嫌疑人韩某某抓获。调查讯问期间，韩某某拒不配合，虽对涉嫌犯罪的事实供认不讳，但对其所造成的危害性后果“避重就轻”，甚至表示没有点燃其他乘客衣服就不算发生危害。<br/><div class="contheight"></div>12月25日23点，韩某某因涉嫌危险方法危害公共安全罪被武汉市公安局轨道交通管理分局刑事拘留，案件细节正在进一步审理中。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李闻莺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 地铁 点燃 刑事拘留</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2775675">
+<div class="nbgbox">
+<a class="zan" contid="2775675" href="javascript:;" onclick="voteCont(this)" praisetimes="173">
+                           172</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 地铁案件</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2775675&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2775675&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（389）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

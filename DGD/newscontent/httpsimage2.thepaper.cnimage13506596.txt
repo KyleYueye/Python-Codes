@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">新华国际时评：自欺欺人的又一闹剧</h1>
+<div class="news_about">
+<p>林小春/新华社</p>
+<p>
+							2018-12-25 22:22<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社12月25日评论，日前，美方以所谓“网络窃密”为由“起诉”两名中方人员，诬称中方“长期破坏”美国网络安全。美国是公认的“黑客大本营”，却捏造事实、倒打一耙，将自己描绘成网络攻击的受害者，在网络安全问题上对中方无端指责，再次上演了一出自欺欺人的闹剧。<br/><div class="contheight"></div>与此前相比，这次美方的栽赃套路有了新变化，强调“中国黑客”不仅“入侵”美国而且“入侵”全球，并列举一些公司、拉上几个盟国，以显示其“言之有据”。<br/><div class="contheight"></div>然而，遍寻美方公布的材料，找不到任何所谓“中国黑客”的确凿证据。另据外媒报道，美方列举的“受害公司”中，国际商用机器公司（IBM）已经表示，没有证据显示该公司或客户的敏感数据被窃取。由此可见，套路不管如何翻新都不会变成真理，谎言无论重复多少遍也不可能成为事实。<br/><div class="contheight"></div>美国在网络问题上劣迹斑斑，却习惯性地对别国横加指责，多次以匿名消息源散播所谓“中国黑客”的假新闻，而且频频被事实“打脸”。此前，《纽约时报》报道称蓝翔技校为“中国黑客大本营”，沦为笑柄。就在两个月前，《彭博商业周刊》报道中国在美国公司产品中植入恶意芯片，结果从苹果到亚马逊，无不第一时间予以否认。<br/><div class="contheight"></div>长期以来，美国有关部门对外国政府、企业和个人进行大规模、有组织的网络窃密和监听、监控活动，这早已是公开的秘密。美国官方和一些媒体却连篇累牍指责中国“网络窃密”。这一次，美方官员试图将“中国黑客”与窃取商业机密的指控联系在一起，既转移视线，又将中国“污名化”，其用心昭然若揭。<br/><div class="contheight"></div>中国是网络安全的坚定维护者，一贯坚决反对并打击任何形式的网络窃密。美方对中方进行无端指责，中方绝不接受。美方此举严重违反国际关系基本准则，严重损害中美合作。须知，以莫须有的罪名给他国“泼脏水”“贴标签”，既无助于解决网络安全问题，更会给世人留下笑柄。<br/><div class="contheight"></div>（原题为《自欺欺人的又一闹剧》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王建亮<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 网络窃密,黑客,美中关系</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2774721">
+<div class="nbgbox">
+<a class="zan" contid="2774721" href="javascript:;" onclick="voteCont(this)" praisetimes="154">
+                           153</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 网络安全</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2774721&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2774721&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（59）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

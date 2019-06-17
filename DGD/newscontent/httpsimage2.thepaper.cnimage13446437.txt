@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25599">运动家</a>
+</div>
+<h1 class="news_title">中国女足澳洲冬训五连胜，贾秀全：实战模拟世界杯对手</h1>
+<div class="news_about">
+<p>岳东兴/新华社</p>
+<p>
+							2018-12-24 09:36<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="398" src="http://image.thepaper.cn/www/image/13/446/433.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">12月23日，中国队球员王珊珊（中）在比赛中带球。 新华社 图</span><br/><div class="contheight"></div>为了备战明年的法国世界杯，中国女足正在澳大利亚进行为期一个月左右的冬训，并在已结束的五场练习赛中保持全胜，全队的默契度也在高强度集训下获得提升。<br/><div class="contheight"></div>23日上午，中国女足在练习赛中以5:0横扫澳女超球队纽卡斯尔喷气机。前锋李影两度建功，其中一脚禁区前沿的内切破门成为亮点。主力射手王珊珊、右前卫娄佳惠以及替补登场的金坤各入一球。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="411" src="http://image.thepaper.cn/www/image/13/446/434.jpeg" width="600"/></div><span style="color: rgb(153, 153, 153);">主帅贾秀全。</span><br/><div class="contheight"></div>对于比赛以及对手的选择，中国女足主教练贾秀全对记者说：<br/><div class="contheight"></div><strong>“这个对手里面有三到四名是澳大利亚国脚，技战术素养比较高。第一场交手时她们也给我们制造很大麻烦。而实际上本次集训选择在澳大利亚，就是要针对世界杯上的欧洲球队。”</strong><br/><div class="contheight"></div>算上之前击败过的堪培拉联等队，中国女足在集训的五场比赛中保持全胜。<br/><div class="contheight"></div><strong>“目前看，通过比赛还是达到了目的（和欧洲对手的身体对抗）。我们力争把在澳大利亚练的东西发挥出来，这是最重要的。而且队里的年轻球员我们都给一定时间上场，包括U20的国青球员，希望她们能够快点顶上来，把中国女足综合力量提升上去。”</strong><br/><div class="contheight"></div>中国女足是本月7日抵达澳大利亚开始冬训的。全队每天基本上是一天两练，并计划将在一个多月里与当地女足俱乐部进行10场比赛。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="398" src="http://image.thepaper.cn/www/image/13/446/432.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">12月23日，中国队队长吴海燕（前左）在比赛中与对手拼抢。</span><br/><div class="contheight"></div>对于集训的主要目的，贾秀全总结说，要提高整体在攻防中再一次选位和接应的能力，以及加强位置执行的训练。而且，要打造中国女足的“团队足球”理念。<br/><div class="contheight"></div><strong>“10场比赛，可能（后面的比赛）面对澳大利亚国脚越来越多，希望通过对她们的比赛，找到类似欧洲球员对抗能力强、冲撞强的特点，找出我们自己优势和不足，在世界杯上对欧洲球队提早准备。”</strong><br/><div class="contheight"></div>在明年6月揭幕的世界杯上，中国队与两届冠军德国队、欧洲新贵西班牙队以及首次晋级决赛圈的南非队分在一组。<br/><div class="contheight"></div>谈到世界杯上的前景，执教球队半年来已带来明显改观的贾秀全说，他将与这支新老结合的球队，作为“先遣部队”，为中国女足的复兴奠定基础，并争取“冲到最好的位置和水平”。<br/><div class="contheight"></div>同时，在男足领域也是本土教练中佼佼者的贾秀全指出，中国女足的崛起和复兴，需要几代人和许多教练员共同的努力才能达到，毕竟从时间和基础上看，困难是存在的。<br/><div class="contheight"></div>“因为全世界女足发展非常快，特别是欧洲女足水平提高非常快。我们不是一流强队，但我们有自己特点，把握住自己特点是最关键的。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：腾飞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中国女足</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2759107">
+<div class="nbgbox">
+<a class="zan" contid="2759107" href="javascript:;" onclick="voteCont(this)" praisetimes="50">
+                           49</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中国女足</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2759107&caid=25599",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2759107&amp;caid=25599" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

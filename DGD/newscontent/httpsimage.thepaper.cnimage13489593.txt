@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">北京监狱管理局（戒毒管理局）揭牌，是深化机构改革重要内容</h1>
+<div class="news_about">
+<p>北京市司法局官方公众号“ 京司观澜”</p>
+<p>
+							2018-12-25 16:36<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="353" src="http://image.thepaper.cn/www/image/13/489/489.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">本文图均为 京司观澜微信公众号 图<br/><div class="contheight"></div></span></div><div style="text-align: center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/489/490.jpg" width="600"/></div><div>25日上午，北京市监狱管理局（北京市戒毒管理局）举行揭牌仪式，北京市委副秘书长张铁军、北京市政府副秘书长孟钧、北京市司法局党委书记、北京市监狱管理局第一政委苗林、北京市委政法委副巡视员徐振刚、北京市司法局党委委员、北京市监狱管理局（北京市戒毒管理局）党委书记、局长刘亚东出席仪式。仪式由北京市司法局党委委员、北京市监狱管理局（北京市戒毒管理局）党委副书记、政委戴建海主持。</div>张铁军副秘书长代表市委市政府对北京市监狱管理局（北京市戒毒管理局）的成立表示祝贺，并提出要求。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="580" src="http://image.thepaper.cn/www/image/13/489/492.jpg" width="600"/></div>成立北京市监狱管理局（北京市戒毒管理局），是全市深化党和国家机构改革的重要内容，是市委市政府落实党中央决策部署、立足北京市实际作出的重大决策，对提高全市监狱（戒毒）管理水平、全面深化监狱（戒毒）工作改革发展，具有十分重要的意义。<br/><div class="contheight"></div>新成立的北京市监狱管理局（北京市戒毒管理局）主要承担指导、监督管理本市监狱刑罚执行、狱政管理、教育改造，指导监督管理所属强制隔离戒毒场所、戒毒康复场所强制隔离戒毒措施的执行和戒毒康复工作，对社区戒毒、社区康复工作提供指导和帮助等职责。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="322" src="http://image.thepaper.cn/www/image/13/489/493.jpg" width="600"/></div>仪式上，北京市监狱管理局（北京市戒毒管理局）所有人员进行宪法宣誓。<br/><div class="contheight"></div>（原标题：《刚刚 | 北京市监狱管理局（北京市戒毒管理局）揭牌》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周琦<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 监狱管理局 深化机构改革</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772909">
+<div class="nbgbox">
+<a class="zan" contid="2772909" href="javascript:;" onclick="voteCont(this)" praisetimes="12">
+                           11</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 北京机构改革</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772909&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772909&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

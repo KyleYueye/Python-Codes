@@ -1,0 +1,76 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">韩方欢迎金正恩新年表态，文在寅：努力实现不可逆转的和平</h1>
+<div class="news_about">
+<p>央视新闻客户端</p>
+<p>
+							2019-01-02 16:18<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">央视新闻客户端1月2日消息，1月1日，韩国总统府青瓦台以及统一部等方面对于此前朝鲜最高领导人金正恩在新年贺词中强调半岛完全无核化，构建半岛永久和平以及推进北南关系等表态表示欢迎。<br/><div class="contheight"></div><strong>青瓦台及统一部均表示欢迎</strong><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="402" src="http://image.thepaper.cn/www/image/13/807/770.jpg" width="560"/></div>据韩联社报道，韩国总统府青瓦台发言人金宜谦1日表示，金正恩在新年贺词中，体现出了朝方希望发展韩朝关系，改善朝美关系的意志。金宜谦说，期待在新的一年里，朝方这一坚定意志能推动半岛局势向积极方向发展。<br/><div class="contheight"></div>当天，韩国统一部也发表声明，欢迎金正恩在新年贺词中作出的构建半岛永久和平等表态。声明说，韩国政府今后将与韩国人民共同努力，推动韩朝之间的和解与合作，推动韩朝关系不断向前发展。<br/><div class="contheight"></div><strong>文在寅：努力实现不可逆转的和平</strong><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="402" src="http://image.thepaper.cn/www/image/13/807/769.jpg" width="559"/></div>韩国总统文在寅1日也在个人社交网站上发文，称将尽最大努力让和平红利惠及民众，实现不可逆转的和平。<br/><div class="contheight"></div>（原题为《韩方欢迎金正恩新年贺词表态》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2801484" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">金正恩新年贺词强调实现朝鲜半岛无核化意志</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2801428" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">金正恩新年贺词：愿随时与特朗普会面，有意重启开城工业园区</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 朝韩关系</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2804288">
+<div class="nbgbox">
+<a class="zan" contid="2804288" href="javascript:;" onclick="voteCont(this)" praisetimes="47">
+                           46</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 朝韩关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2804288&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2804288&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

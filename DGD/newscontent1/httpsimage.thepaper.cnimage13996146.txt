@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">日本大阪、福冈公立高中申请表将废除性别栏：照顾跨性别者</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2019-01-07 11:33<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="640" src="http://image.thepaper.cn/www/image/13/996/142.jpg" width="480"/></div><span style="color: rgb(128, 128, 128);">大阪府公立高中入学考试申请表（《朝日新闻》）</span><br/><div class="contheight"></div>海外网1月7日消息，日本大阪府和福冈县近日宣布决定，从2019年春开始公立高中入学考试申请表中将取消性别栏，包括神奈川县和熊本县在内的14个县也正考虑在2020年春开始实行。大阪府和福冈县教育委员会表示，出于对性别认同少数群体的尊重，例如对自己的性别感到困惑的跨性别者，他们做出以上决策。<br/><div class="contheight"></div>据日本朝日新闻网报道，在大阪府和福冈县教育委员会宣布取消公立高中入学考试申请表中性别栏后，其他都道府县也开始准备着手取消性别栏。目的是为照顾跨性别者等性少数群体的情绪，他们因身和心的性别不一致，填写“性别”时会产生心理负担。各地教育委员会还认为入学申请书上写性别在入学和考试中没有必要。<br/><div class="contheight"></div>目前，日本公立高中入学申请书的性别栏一般分为选择式和填空式。目前的废除方式也分为两种，一种是直接取消性别栏，另一种是保留填空式性别栏，不再要求必填。<br/><div class="contheight"></div>与日本公立高中推动“去性别化”相比，日本几所医科大学在录取时却发生了性别歧视。据日媒报道，2018年12月，日本政府调查发现，包括东京医科大学（TMU）等九所医学院为了排除女学生而操纵了入学录取考试成绩。东京医科大学一位不愿透露姓名的消息人士对《读卖新闻》表示，由于担心女生毕业后不愿意从事医务工作，该大学心照不宣地减少了女学生的录取数量。<br/><div class="contheight"></div>（本文原题为《日本公立高中申请表将废除性别栏：照顾跨性别者》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 日本,性别,跨性别者</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2823183">
+<div class="nbgbox">
+<a class="zan" contid="2823183" href="javascript:;" onclick="voteCont(this)" praisetimes="36">
+                           35</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 跨性别者</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2823183&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2823183&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">7岁娃吃燕窝用口红骨龄9岁，医生：不良吃穿用度或致性早熟</h1>
+<div class="news_about">
+<p>李琪 谭晶晶 刘艳萍/三湘都市报</p>
+<p>
+							2018-12-25 13:44<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">给孩子用自己的护肤品和口红？担心营养不够吃燕窝？这些“后天”的吃穿用度，有可能导致孩子性早熟。小女孩蕊蕊（化名）就是因为这样，被诊断为性早熟，7岁的身体骨龄已经到了9岁，还出现了提早发育的情况。<br/><div class="contheight"></div> 蕊蕊身高从小比同龄的孩子都要高很多，但因父母身高不矮，家人没有在意。蕊蕊现在7岁了，前几天她怯生生地跟妈妈说，“乳房痛”，妈妈以为孩子开玩笑。直到给蕊蕊洗澡的时候，妈妈摸到一个小包块，结合孩子的“过人”身高，才意识到女儿身体出问题了。<br/><div class="contheight"></div>妈妈带着蕊蕊来到湖南省妇幼保健院儿童保健科，完善相关检查后被诊断为性早熟，骨龄已经到了9岁，因为发育过早，会比原本的成年身高少长8-10cm。妈妈当场傻眼，自己平时很注意，怎么会性早熟呢？<br/><div class="contheight"></div>医生询问孩子的生活习惯：蕊蕊不爱运动，平时很喜欢吃炸鸡、巧克力、冰淇淋、奶茶，最大的兴趣爱好就是看电视，偶尔玩玩手机；妈妈担心她营养不够有时会给她吃燕窝，还给她用自己的护肤品和口红。“如果不是先天激素水平存在问题，后天的吃穿用度都有可能导致孩子性早熟。”妈妈听到医生这些话，非常自责和后悔。<br/><div class="contheight"></div>（原题为：《吃燕窝用口红，七岁女孩被诊性早熟》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 燕窝,口红,性早熟,发育</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772488">
+<div class="nbgbox">
+<a class="zan" contid="2772488" href="javascript:;" onclick="voteCont(this)" praisetimes="36">
+                           35</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 性早熟</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772488&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772488&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

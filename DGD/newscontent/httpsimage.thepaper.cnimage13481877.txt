@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">达美航空一北京至西雅图航班紧急降阿拉斯加，疑因发动机故障</h1>
+<div class="news_about">
+<p>吴晓凌/新华社</p>
+<p>
+							2018-12-25 10:51<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社旧金山12月24日消息，达美航空公司从北京飞往西雅图的DL128航班当日疑因发动机故障紧急降落在美国阿拉斯加州阿留申群岛谢米亚岛。<br/><div class="contheight"></div>达美航空公司发表声明说，该航班“由于潜在的发动机问题”降落在谢米亚岛埃雷克森航空站。航班机型为波音767-300ER。<br/><div class="contheight"></div>据阿拉斯加当地媒体报道，达美航空公司已派遣一架飞机前往谢米亚岛接滞留的194名乘客继续前往西雅图，预计该飞机将于西雅图当地时间12月24日21时15分（北京时间12月25日13时15分）飞抵西雅图。<br/><div class="contheight"></div>据悉，作为美国空军的加油中心和民用飞机的中转及紧急降落机场，谢米亚岛埃雷克森航空站拥有一条长约3000米的跑道。<br/><div class="contheight"></div>（原题为《达美航空一北京至西雅图航班紧急降落在阿留申群岛》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 达美航空,北京,西雅图</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772004">
+<div class="nbgbox">
+<a class="zan" contid="2772004" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 达美航空</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772004&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772004&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

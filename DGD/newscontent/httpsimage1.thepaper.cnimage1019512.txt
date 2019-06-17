@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">民法典各分编草案5日公布，开始向社会公开征求意见</h1>
+<div class="news_about">
+<p>新华网</p>
+<p>
+							2018-09-05 23:47<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="360" src="http://image.thepaper.cn/www/image/10/195/10.jpg" width="600"/></div>新华网北京9月5日消息，民法典各分编草案9月5日在中国人大网公布，向社会公开征求意见。征求意见截止日期为2018年11月3日。<br/><div class="contheight"></div>“夫妻共同债务问题近年来引发不少争议，这次草案中暂未对现行婚姻法关于夫妻共同债务的规定作出实质性修改。最高法今年1月出台了关于夫妻债务问题的司法解释，实践中效果不错。”复旦大学法学院教授李世刚说，“建议将这个司法解释的经验纳入民法典草案，完善夫妻共同债务制度。”<br/><div class="contheight"></div>近期举行的十三届全国人大常委会第五次会议，对民法典各分编草案进行了审议。在分组审议时，不少常委会组成人员同样建议将最高法相关司法解释纳入草案，明确夫妻债务“共债共签”原则。<br/><div class="contheight"></div>“‘共债共签’符合我国家庭、夫妻关系平等和互相尊重的基本原则。家庭日常生活以外的大额举债，应该夫妻之间互相商量，经过双方共同同意，才能被认为是共同债务。”列席会议的全国人大环境与资源保护委员会委员谭琳说。<br/><div class="contheight"></div>公开征求意见的民法典各分编草案总共包括六编，即物权编、合同编、人格权编、婚姻家庭编、继承编、侵权责任编，共1034条，对我国现行民法通则、物权法、婚姻法等民事法律规范进行全面系统编订纂修。民法典各分编草案提交全国人大常委会审议，标志着我国民法典编纂迈出“第二步”。<br/><div class="contheight"></div>据悉，社会公众可以直接登录中国人大网（www.npc.gov.cn）提出意见，也可以将意见寄送全国人大常委会法制工作委员会（北京市西城区前门西大街1号，邮编：100805），并在信封上注明民法典各分编草案征求意见。<br/><div class="contheight"></div>此外，综合性消防救援队伍消防救援衔条例草案、车辆购置税法草案、刑事诉讼法修正草案二次审议稿、耕地占用税法草案也于5日起在中国人大网公布并征求意见，这四部草案征求意见截止日期为2018年10月4日。<br/><div class="contheight"></div>（原题为《民法典各分编草案征求意见　专家建议完善夫妻共同债务制度》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王建亮<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 民法典,立法</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2412946">
+<div class="nbgbox">
+<a class="zan" contid="2412946" href="javascript:;" onclick="voteCont(this)" praisetimes="122">
+                           121</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 民法典</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2412946&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2412946&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

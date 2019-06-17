@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">普京严批“涉毒”说唱音乐：使国家走向堕落之路</h1>
+<div class="news_about">
+<p>张新 萧达 青木 柳直 汪析/环球时报</p>
+<p>
+							2018-12-17 09:21<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">环球时报12月17日消息，“正如你所说，说唱音乐的三个根基是：性、毒品和抗议。其中最大的问题是毒品，这是很明显的事情。这使国家走向堕落之路。”15日，俄罗斯总统普京在圣彼得堡举行的文化艺术委员会会议上如此表示。今年以来，尤其是最近一段时间，俄多场说唱音乐会被取消，还有歌手被拘，西方媒体称，音乐成为俄罗斯的最新战场。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="405" src="http://image.thepaper.cn/www/image/13/247/641.jpg" width="550"/></div><span style="color: rgb(128, 128, 128);">资料图：俄罗斯总统普京。</span><br/><div class="contheight"></div>说唱音乐之所以变得敏感，一方面是因为它天生带有的反叛基因，同时也与它成为俄罗斯年轻人当中最受欢迎的音乐形式有关。它越来越多地牵涉政治、社会问题，同时也关系到对象征俄罗斯未来的年轻人的争夺上。俄最出名的反对派人物纳瓦利内屡屡发声支持遭政府打击的说唱音乐人，西方媒体也紧盯俄国内这股崭新的力量，寻找撬动俄罗斯的新支点。<br/><div class="contheight"></div>“如果某些事情无法阻止，那么就必须引导它、修正它的方向”，《俄罗斯报》引述普京15日的讲话称，应谨慎对待禁止说唱音乐会。“如果是外国人——上帝帮助他们，他们可以随心所欲。这里是俄罗斯，我们要组织工作，阻止那样的事发生”。普京还谈到说唱音乐中说脏话的问题，他开玩笑称，“我们身体有多个部位，不管天气是炎热还是寒冷，我们都不太可能将所有部位展示出来”。<br/><div class="contheight"></div>英国《卫报》16日称，普京讲话之前，俄罗斯多场说唱音乐会被取消，流行说唱歌手哈斯基被短暂逮捕，这名歌手以演绎贫穷、腐败和警察残忍等内容而知名。“镇压事件在这几个月引发大量讨论，尤其是在俄年轻人当中”。俄新网称，10月，下诺夫哥罗德检察院要求取消部分说唱音乐歌手举行的音乐会，因为歌曲中有脏话、宣传酗酒等内容。11月俄执法部门还阻止了哈斯基数场音乐会，因为在演唱内容中发现有极端主义部分，甚至鼓动同类相食。而在克拉斯诺达尔一场表演后，当地法院曾判处哈斯基行政拘留12天，但后来这一拘留决定被取消。这些事件引发俄社会的广泛争论，也引起克里姆林宫的关注。<br/><div class="contheight"></div>“说唱音乐在俄罗斯日益流行——它让普京不安”，加拿大全球新闻网迅速发表评论。美国axios网站则称，“普京敦促文化顾问镇压说唱音乐”。《纽约邮报》15日强调“普京对说唱音乐宣战”。报道称，面临贫穷、抗议和被认定攻击美国选举等挑战的普京又增加了新难题。报道引述出生于纽约布朗克斯的说唱先锋布洛的话称，普京应“重新考虑自己的政策”，因为这将“在他的国家点燃反抗之火”。德国新闻电视台16日称，对克里姆林宫来说，说唱音乐这种西方舶来品，正在危害俄罗斯的社会和文化。这可能不及西方政治侵略那么快，那么显著，但它可以潜移默化地影响俄罗斯青少年。“对普京来说，这是一场艰难的文化战争”。<br/><div class="contheight"></div>（原题为《普京严批“涉毒”说唱音乐：是国家走向堕落之路》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：顾亚敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 说唱音乐</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2745527">
+<div class="nbgbox">
+<a class="zan" contid="2745527" href="javascript:;" onclick="voteCont(this)" praisetimes="269">
+                           268</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 说唱音乐</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2745527&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2745527&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（53）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

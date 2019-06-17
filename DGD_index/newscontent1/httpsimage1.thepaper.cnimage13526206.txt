@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国政府关门数十万员工被拖欠薪水，有人变卖家产应急</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-26 20:32<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">美国政府关门造成数十万名联邦员工被迫放无薪假和欠薪，鉴于政府停摆不知何时才能落幕，部分员工计划变卖家产。<br/><div class="contheight"></div>新加坡《联合早报》报道，代表美国财政部员工的“美国财政部雇员工会”周一（24日）表示，美国政府部门局部关闭，全美各地的联邦员工现正缩紧开支，并改变与家人的度假计划。<br/><div class="contheight"></div>该机构主管里尔登（Tony Reardon）在声明中表示：“如果有人认为在假期期间政府局部关闭无伤大雅，请再多想一想。你在美国各地为联邦政府工作的朋友和邻居，已经开始面临财务压力。”<br/><div class="contheight"></div>田纳西州的富特治（Taylor Futch）表示，美国政府部分停摆已经加重她的家庭压力。她表示一家四口只依靠丈夫一份薪水，他在州内的“大烟山国家公园”担任野生生物学家。两夫妇有一笔800美元的土地供款1月初要偿还，还有房车贷款及日常支出。她说：“我们尝试把一些值钱的东西拿出来，以便在需要时拿到Facebook或eBay拍卖。”<br/><div class="contheight"></div>美国政府自上周六（22日）开始局部关门，约80万联邦员工遭政府拖欠薪水，其中逾半数岗位属于必要业务，这意味着尽管政府停摆，他们仍需工作，例如美国特勤局和美国运输安全管理局的机场业务等。另外有3.8万名联邦员工放无薪假。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：辛恩波<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国,政府关门,特朗普</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2777128">
+<div class="nbgbox">
+<a class="zan" contid="2777128" href="javascript:;" onclick="voteCont(this)" praisetimes="47">
+                           46</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美国政府关门</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2777128&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2777128&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（34）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

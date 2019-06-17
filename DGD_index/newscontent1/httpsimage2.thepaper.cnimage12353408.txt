@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">重庆武隆警方启动百日专项行动，组建公安劳模创新工作室</h1>
+<div class="news_about">
+<p>澎湃新闻记者 王鑫 通讯员 代晓容</p>
+<p>
+							2018-11-17 18:05<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="398" src="http://image.thepaper.cn/www/image/12/353/413.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">启动仪式现场开展的反恐防暴处置演练。武隆警方 供图</span><br/><div class="contheight"></div>11月16日，重庆市武隆区举行“严防范、强打击、保安全”暨公安机关“忠诚护核心、党建促业务、警务为人民”百日专项行动启动仪式。<br/><div class="contheight"></div>据武隆区公安局相关负责人介绍，“忠诚护核心、党建促业务、警务为人民”主题活动是武隆公安强化政法机关队伍建设的重要举措。通过全方位、全覆盖开展主题活动，让全体民警、辅警在学习中受教育、提升政治站位、强化执行力、严明工作作风、激发队伍活力，为岁末年终开展快节奏高效率专项行动、扎实做好便民措施促进民生警务落地生效提供强有力的组织保障，打下坚实的基础。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）从武隆区公安局了解到，武隆警方近期开展“学英模、见行动”活动，掀起了学习杨雪峰同志先进事迹的热潮，广泛传承时代楷模崇高精神，同时创立“罗旦华劳模创新工作室”。工作室以该局交巡警支队秩序大队大队长罗旦华的名字命名，7名成员均是市级或区级公安劳模。该工作室将以实际行动带动该局形成奉献为乐、积极向上的警营氛围。<br/><div class="contheight"></div>在筑牢旅游安全防线方面，武隆警方最大限度将警力部署到案件和纠纷易发多发的景点，扎实开展好仙女山景区综合整治。坚决打击强买强卖、恶性垄断经营等违法行为，最大限度减少游客纠纷投诉。本月以来，武隆警方联合工商、食药监等部门依法清除贩卖保健食品、石斛、天麻、玛咖等中药材经营户2家。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：邵克<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 武隆,劳模,公安</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2645654">
+<div class="nbgbox">
+<a class="zan" contid="2645654" href="javascript:;" onclick="voteCont(this)" praisetimes="11">
+                           10</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 重庆警方</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2645654&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2645654&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">英媒：亚马逊高管游说美国政府建新网站，意图掌控政府采购</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-26 20:45<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">美国科技巨头亚马逊一名高官被曝曾私下建议特朗普政府创建一个新的门户网站，这将帮助亚马逊获得利润丰厚的政府合同，并在美国政府采购中占据支配地位。<br/><div class="contheight"></div>英国《卫报》独家获取并披露了亚马逊公司高管安妮·荣（Anne Rung）与美国政府服务管理局（GSA）高级官员玛丽·黛菲（Mary Davie）的邮件通信。<br/><div class="contheight"></div>《卫报》26日报道称，这些邮件显示，早在去年被称为“亚马逊修正案”的美国国防授权法案801条款决定设立这样一个网站之前，安妮·荣就与玛丽·黛菲在讨论这件事。<br/><div class="contheight"></div>安妮·荣在进入亚马逊之前曾是奥巴马政府中负责政府采购监管的高级官员，进入亚马逊之后负责政府业务。<br/><div class="contheight"></div>《卫报》评论说，安妮·荣与玛丽·黛菲2017年的这些邮件通信，让人们看到了亚马逊是如何利用重要的前政府官员获取对政府的影响力，以谋求利润丰厚的政府合同。<br/><div class="contheight"></div>美国总统特朗普对亚马逊一向不满，他抨击这家互联网巨头税缴得不够多、占美国邮政系统的便宜，而且害小型零售商倒闭。另外，亚马逊的创始人贝佐斯还拥有《华盛顿邮报》，特朗普指责《华盛顿邮报》是亚马逊公司“昂贵的游说者”。<br/><div class="contheight"></div>不过《卫报》指出，在这一切的背后，亚马逊公司的高管们却通过低调的游说活动，悄无声息地在美国政府中积累起巨大影响力。<br/><div class="contheight"></div>据悉，目前还不确定将由哪些公司来承担新网站的创建工作。但是《卫报》指出，亚马逊预计将发挥主导作用，使其在美国政府553亿美元的政府采购中占据重要地位。<br/><div class="contheight"></div>今年早些时候，五角大楼宣布了联合企业防御基础设施(JEDI)项目，要求供应商为其打造一个云计算平台以支持其武器系统和机密数据储存。这一项目受到亚马逊、微软、IBM以及甲骨文等几家技术巨头的争夺。<br/><div class="contheight"></div>《卫报》称，在这一合同的竞争中，亚马逊也是领跑者。报道称，亚马逊已经在为美国情报机构提供云服务，包括中情局（CIA）。而亚马逊在美国情报机构和国防部门中的业务能力，很大程度上要归功于史蒂芬·斯潘诺（Steven Spano），他在2011年加入亚马逊之前曾是美国空军准将。<br/><div class="contheight"></div>去年，亚马逊还赢得了一个价值55亿美元的合同，使其成为数以万计美国地方政府机构办公文具和书籍的主要供应商。<br/><div class="contheight"></div>贝佐斯上个月宣布，将亚马逊的第二总部分别设在长岛市和弗吉尼亚州北部阿灵顿的水晶城。《卫报》援引美国“地方自力更生研究所”副主任斯黛茜·米歇尔（Stacy Mitchell）的评论说，亚马逊将其中一个新总部设在弗吉尼亚州北部阿灵顿，反映出这家公司将华盛顿视作其利润最丰厚的客户。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：辛恩波<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 亚马逊,贝佐斯,采购,游说</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2777184">
+<div class="nbgbox">
+<a class="zan" contid="2777184" href="javascript:;" onclick="voteCont(this)" praisetimes="27">
+                           26</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 亚马逊</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2777184&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2777184&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

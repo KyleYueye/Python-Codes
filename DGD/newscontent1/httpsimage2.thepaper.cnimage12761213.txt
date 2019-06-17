@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">业内：3天内浙江17名艺人被约谈，12月15日前完成补税</h1>
+<div class="news_about">
+<p>徐颢哲/北京日报微信公众号</p>
+<p>
+							2018-11-30 15:29<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">北京日报微信公众号11月30日消息，自从明星范冰冰因偷税漏税被罚款8.8亿之后，税务问题在影视行业的波及范围越来越广。从29日开始，一份《横店工作室会议内容》文件在影视圈内疯传，有业内人士透露，在3天内，浙江已有17名艺人被约谈，补税工作需要在12月15日前完成。<br/><div class="contheight"></div>值得一提的是，由于这份《横店工作室会议内容》涉及到各领域的影视从业者，包括艺人、导演、编剧、服化道、后期等各个环节的从业人员都陷入一片焦虑中。因为整体来看，影视行业的利益分配悬殊，明星等天价收入群体仅是少数，大部分从业人员的收入不可与之相提并论。按照之前的核定征收模式，影视从业者缴税比例在3%-7%之间，而按照网上流传的补税政策，影视从业者除了之前已经交过的税款，还需要补缴20%。<br/><div class="contheight"></div>29日下午，中国电视剧编剧委员会会长、著名编剧刘和平发布了一条朋友圈透露，昨天上午，部分编剧委员会会员和国家税务总局领导进行了沟通，“国家对影视行业扶持政策不会变，只会更好。关于三年补缴应纳未纳税款对编剧行业已明确回复：按2002年国税字52号文件缴纳16%税款，未足16%补足即可。”<br/><div class="contheight"></div>随后，中国电视剧编剧委员会官博截图刘和平朋友圈，补充表示：查账征收的工作编剧工作委员会一直在积极与上级主管部门沟通，后续我们还会继续与有关部门沟通联系。<br/><div class="contheight"></div>其实从今年下半年开始，影视公司、个人工作室等行业上下游公司均收到税务部门自查自纠的补税通知。而从这份被刷屏的《横店工作室会议内容》来看，补税工作共分为四个阶段：自查自纠、约谈补税、税务上门辅导、检查以及重点检查（税务抽查）。而工作室需要按照2016年至2018年三年总收入的70%（最少）按个人劳务计算税款，需补缴费用和滞纳金。<br/><div class="contheight"></div>根据网传的补缴方案，如果总收入100万元，100万×70%为个人补交劳务费用的计税依据（按最高40%劳务税率计算），同时扣除之前已经缴纳的个税款项，最终补缴税款为192500元。若此消息属实，与此相关的影视工作室需要补缴的税款大约在工作室总收入的20%左右。但是，对于这种补缴方案，有税务人士表示可信度并不高，或者说是不符合规范的，企业收入缴税与个人劳务收入缴税不能被混为一谈。<br/><div class="contheight"></div>这几年影视行业的一条潜规则是，把部分地区赋予影视行业的税收优惠政策，当成理所当然，甚至成为偷税漏税的借口，这在某种程度上成为这场全行业税务风波的导火索。此前，由于霍尔果斯、喀什、无锡等地区有税收优惠政策，不少影视公司纷纷前往开设子公司以降低生产成本。然而，范冰冰事件之后，霍尔果斯等地区的税收优惠政策也开始缩减，影视公司上演“避税天堂大逃亡”。<br/><div class="contheight"></div>在制片人谢晓虎看来，此前的明星工作室制度在一定程度上和《公司法》是相违背的，影视行业的酬劳制度一直很不规范，所以出现波及全行业的税务风波，并不偶然。他也认为，在税收上进行规范，也是提高行业门槛的一种方式，“倒逼整个行业的各个环节越来越规范，从长远看一定是件好事。”<br/><div class="contheight"></div>（原题为《补税通知来了！范冰冰被罚8.8亿后，又有17名艺人被约谈》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：顾亚敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 补税</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2691582">
+<div class="nbgbox">
+<a class="zan" contid="2691582" href="javascript:;" onclick="voteCont(this)" praisetimes="139">
+                           138</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 补税</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2691582&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2691582&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（40）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25490">打虎记</a>
+</div>
+<h1 class="news_title">中纪委机关报评秦岭违建整治：将两个维护真正落实到行动上</h1>
+<div class="news_about">
+<p>栗剑/中国纪检监察报</p>
+<p>
+							2019-01-10 09:01<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">地方上的违法建筑为何惊动中央？习近平总书记为何四年里就同一问题作出六次重要指示批示？秦岭违建别墅顽疾迟迟得不到解决的背后，反映了怎样的政治问题？1月9日晚，央视播出的新闻专题片《一抓到底正风纪——秦岭违建整治始末》，全景式披露了备受社会关注的秦岭违建别墅事件的来龙去脉，对有关地方党委政府存在的违反政治纪律、政治规矩以及形式主义走过场、官僚主义不作为等问题进行了深入剖析。<br/><div class="contheight"></div>透过现象看本质，秦岭北麓西安境内违建别墅问题，既是近年来严重破坏生态环境的典型，也是有关党组织和党员领导干部严重违反政治纪律、政治规矩的典型，教训十分深刻。各地区各部门党组织和党员领导干部务必把自己摆进去，举一反三、引为镜鉴，切实提高政治站位和政治觉悟，牢固树立“四个意识”，始终把严守政治纪律、政治规矩摆在首位，坚决维护习近平总书记党中央的核心、全党的核心地位，坚决维护党中央权威和集中统一领导，以实际行动践行对党忠诚。<br/><div class="contheight"></div>事实证明，政治纪律作为最重要、最根本、最关键的纪律，如果不能立起来、严起来、执行到位，必然会导致其他纪律全面失守，产生形式主义、官僚主义等诸多问题，最终对党和国家事业造成重大损害。秦岭北麓西安境内违建别墅问题，看似拆除违建别墅工作不作为、不到位，实质是有关党组织和党员领导干部对贯彻落实习近平总书记重要指示批示精神和党中央重大决策部署不作为、不到位，归根结底是，没有把“两个维护”作为最根本的政治纪律和政治规矩，不严肃、不认真、不担当，对党中央的要求只传达不研究、只学习不落实、只表态不行动，讲政治停留在口头上会议上表面文章上，没有真正落实到实际工作中，导致“整而未治、阳奉阴违、禁而不绝”的严重后果。<br/><div class="contheight"></div>政治纪律是具体的而不是抽象的，都是与具体的人和事紧密相连的，一旦割裂开来，就会让责任“空转”、工作“空转”，使“两个维护”沦为一句空话。对秦岭北麓西安境内违建别墅问题，习近平总书记多次作出重要指示批示，整治要求和责任落实指向不可谓不明确、不清晰。批示是批给党政主要负责同志的，那主要负责同志就要亲力亲为，承担起调查情况、解决问题的政治责任以及领导责任、工作责任。但陕西省、西安市时任党政主要负责同志，没有深刻理解习近平总书记重要指示批示的政治内涵，头脑不清醒、认识跟不上，把落实工作等同于批文件、报材料，甘当甩手掌柜，胸中无数、失管失控，犯了典型的形式主义、官僚主义毛病。西安市、区两级干部上行下效，在2014年的整治和后来的历次“回头看”中，弄虚作假、敷衍应付，使本该由陕西省委领导、西安市负责的整治工作乱象丛生、腐败横行，形成破窗效应，造成了极为恶劣的社会影响。各级党员领导干部特别是主要负责同志，应当牢记有权必有责、有责要担当，把严守政治纪律与履行自身职责紧密联系起来，抓具体、具体抓，敢于动真碰硬、敢于拍板负责，决不能大而化之、稀里糊涂，决不能把层层负责变成层层推卸责任，坚决防止和遏制问题滋生蔓延，以具体行动把“两个维护”落到实处。<br/><div class="contheight"></div>严明政治纪律、强化政治监督是纪检监察机关践行“两个维护”的必然要求。要增强政治敏感性和鉴别力，善于从政治的高度发现、审视问题，坚持从政治纪律查起，及时纠正、督促整改，确保党的路线方针政策和中央决策部署得到不折不扣的贯彻落实，确保令行禁止、政令畅通。<br/><div class="contheight"></div>（原题为《将“两个维护”真正落实到行动上》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：顾亚敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 秦岭违建整治</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2834943">
+<div class="nbgbox">
+<a class="zan" contid="2834943" href="javascript:;" onclick="voteCont(this)" praisetimes="62">
+                           61</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 秦岭违建整治</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2834943&caid=25490",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2834943&amp;caid=25490" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

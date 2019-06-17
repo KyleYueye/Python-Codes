@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">金正恩贺词38次提到经济，涉军部分也同经济建设联系起来</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2019-01-02 19:54<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="367" src="http://image.thepaper.cn/www/image/13/814/896.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">当地时间2019年1月1日，朝鲜最高领导人金正恩发表新年贺词。视觉中国 图</span><br/><div class="contheight"></div>海外网1月2日报道，昨天（1日），朝鲜最高领导人金正恩发表新年贺词，他回顾了去年朝鲜经济社会发展取得的成就，并就今年各行业领域的建设发展提出目标和要求。对外关系方面，也释放一系列积极信号，引发国际社会普遍关注。<br/><div class="contheight"></div>韩国媒体《京乡新闻》1日点评说，金正恩“从头到尾都在大谈发展经济”。他的贺词里，使用最多的词语是“经济”，先后提到38次，较去年的21次增加81%。此外，“国防”仅提到4次，“军队”提到3次，而去年贺词中关于“核武力”的表述则没有出现。<br/><div class="contheight"></div>值得关注的是，贺词中就连涉军的部分，也同“经济建设”的话题联系起来。比如，金正恩强调，“军工部门要加紧国防工业的主体化、现代化，并积极支援经济建设。”<br/><div class="contheight"></div>报道分析认为，朝鲜2016年起推动实施国家经济发展五年战略，2019年，正值五年战略的第四个年头，朝鲜有意动员全国力量，集中发展经济。<br/><div class="contheight"></div>而且，去年朝鲜宣布经济与核力量建设并举的战略路线已经完成，并提出集中一切力量进行社会主义经济建设的战略路线。金正恩的表述，也是顺势之举。<br/><div class="contheight"></div>由于对朝制裁短时间难以缓和，所以贺词中也多次强调“自立经济”和“自力更生”。比如，金正恩提到，“要进一步加强社会主义自立经济的威力。”他还在贺词结尾说，“过去一年里，我们在严酷的经济封锁和制裁中，相信自己的力量，用自己的双手，开拓自己的前途，获得飞跃发展。”<br/><div class="contheight"></div>《京乡新闻》还指出，贺词在对2019年经济建设的规划中，各行业领域均有所提及，其中电力短缺问题依然突出，金正恩将其定义为经济建设中“最重要、最迫切的问题之一”。<br/><div class="contheight"></div>此外，“保障企业灵活进行经营活动”的表述，在朝鲜新年贺词中也是首次提出。分析人士称，目前朝鲜正在推动向企业移交自主经营权，上面的表述，展示朝鲜有意进一步强化企业的自律性。<br/><div class="contheight"></div>（原题为《比去年增八成！金正恩新年贺词38次提到“经济”》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 朝鲜,金正恩,新年贺词</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2805086">
+<div class="nbgbox">
+<a class="zan" contid="2805086" href="javascript:;" onclick="voteCont(this)" praisetimes="81">
+                           80</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 新年贺词</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2805086&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2805086&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜除了要求道歉，就对“平文涛”没办法了吗？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 李勤余</p>
+<p>
+							2018-10-08 17:13<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="716" src="http://image.thepaper.cn/www/image/11/122/782.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">10月1日，石碑上被涂上了七个红字 图片由市民钱先生提供</span><br/><div class="contheight"></div>国庆长假第一天，西湖边一块网红石碑惨遭“毒手”，左上角被涂鸦了“平文涛”“无砂之禅”七个字。此事引发网友愤怒，“平文涛，你欠杭州一个道歉！”迅速登上热搜。戏剧性的是，“平文涛”没得意多久，就因在钱王祠门口的石碑上画字，被辖区警方带走。 <br/><div class="contheight"></div>据扬子晚报报道，目前平文涛对自己的行为表示认罪。鉴于其多次实施破坏行为，社会影响恶劣，景区公安以寻衅滋事罪对其依法刑拘。<br/><div class="contheight"></div>看似圆满的结局，却不能让人心情舒畅。这位游客缺乏公德心不假，网友的批评也很到位，但问题是，道德的谴责并不能让某些游客的陋习彻底消除。“平文涛”在短短数日内流窜“作案”，似乎以此为乐，并没有把网友们的愤怒当回事。 <br/><div class="contheight"></div>提高游客的整体素质，当然是杜绝出游不文明行为的治本之策。可眼下，还得从实际出发，寻找一些治标的好办法。 <br/><div class="contheight"></div>《旅游法》早已明确提出，旅游者在旅游活动中应当“遵守社会公共秩序和社会公德，爱护旅游资源，保护生态环境，遵守旅游文明行为规范”；导游和领队应“向旅游者告知和解释旅游文明行为规范，引导旅游者健康、文明旅游，劝阻旅游者违反社会公德的行为”。依照《治安管理处罚法》规定，刻画、涂污或者以其他方式故意损坏国家保护的文物、名胜古迹的，“处警告或者200元以下罚款；情节较重的，处5日以上10日以下拘留，并处200元以上500元以下罚款。” <br/><div class="contheight"></div>可这些规定能完全阻挡“平文涛”们闲不住的双手吗？首先，被涂鸦的石碑未必属于国家保护文物，破坏者所受的惩罚或许不会严重到哪里去，是否能起到惩戒和震慑的作用要打个问号。再者，《旅游法》对游客行为的规定，除了警示作用外，并无多少强制约束力。指望导游紧盯每一名游客，也是不现实的。 <br/><div class="contheight"></div>头疼的还有景区。景区并无执法权，只能通过广播等途径宣传和提醒游客，但对于“平文涛”们，这种方式注定无力。要让景区人员在人头攒动的游客中，发觉不文明行为，锁定证据并及时告知警方，同样难度太大。 <br/><div class="contheight"></div>这么看，“平文涛”真成了一道无解的难题？其实也不尽然，进一步细化针对不文明行为的相关规定，明确执法主体，可以在一定程度上改善局面。比如，游客乱写乱刻破坏文物的行为，可以通过《文物保护法》进行约束。恶意破坏景区设施的违法行为应该如何处罚、由谁来处罚，也应在《旅游法》中得到更清晰的体现。 <br/><div class="contheight"></div>此外，“平文涛”的现形，还有一个很大的启示。该游客这么快被发现，是因为一位早锻炼的阿姨，向巡逻的民警说出了“平文涛”的踪迹。可见，要制止游客不文明行为，不妨发动群众共同监督。对于能够提供切实证据的举报者，景区及执法部门可给予适当的奖励和表彰。 <br/><div class="contheight"></div>当然，如何在实践中更好地施行相关规定，还需要执法部门和景区管理者一起开动脑筋。总之，游客陋习绝非不治之症。游客加强自律是一方面，另一边，对于不文明现象，舆论谴责不可少，但依法惩治更不应缺席。对症下药，才能疗效自现。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 平文涛</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2507836">
+<div class="nbgbox">
+<a class="zan" contid="2507836" href="javascript:;" onclick="voteCont(this)" praisetimes="78">
+                           77</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 破坏文物</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2507836&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2507836&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（50）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

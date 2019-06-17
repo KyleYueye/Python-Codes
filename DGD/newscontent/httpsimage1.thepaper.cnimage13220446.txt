@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25482">逝者</a>
+</div>
+<h1 class="news_title">纪念｜《雍正皇帝》编辑：他在历史小说的写作上是划时代的</h1>
+<div class="news_about">
+<p>澎湃新闻记者 杨宝宝</p>
+<p>
+							2018-12-15 16:20<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">【编者按】<u>@河南日报 12月15日消息，#权威豫报# 文坛泰斗二月河(凌解放)于15日凌晨在北京逝世。另据微信公号“大河报”消息，记者刚刚获悉，著名作家二月河于今日凌晨病逝于北京，享年73岁。</u><br/><div class="contheight"></div>长江文艺出版社原社长周百义和二月河有30多年的交情，是二月河最著名小说《雍正皇帝》的编辑。<br/><div class="contheight"></div>周百义认识二月河是1987年8月10日，当时他才33岁，是做编辑后第一次外出去河南组稿。二月河当时以一部《康熙大帝》一举成名，周百义邀请他把正在写作的《雍正皇帝》放到长江文艺出版社出版。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="840" src="http://image.thepaper.cn/www/image/13/220/489.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">《雍正皇帝》套装全三册，长江文艺出版社</span><br/><div class="contheight"></div>二月河曾在《我与两个责任编辑》回忆这段往事，说周百义非常瘦弱，是个只有初审权的小编辑，向他约稿。二月河拒绝了他，但周百义十分坚持，“我就住在南阳,你写一章我带走一章。”最后，二月河许诺，“雍正的书给你。”<br/><div class="contheight"></div>这部小说的出版获得了极大的成功，入围了第四届茅盾文学奖，评委丁临一认为,这是“自红楼梦以来五十年不遇甚至百年不遇的好作品”。根据其改编的电视剧《雍正皇帝》在中央一套播出后，火遍了全国。<br/><div class="contheight"></div>周百义和二月河保持了30年的友谊，二月河的全集后来也放在长江文艺出版社，一出就是15年。今年8月22日，他还去北京看望过卧病在床的二月河。<br/><div class="contheight"></div>“他在历史小说的写作上是划时代的。有人说他的小说是自《红楼梦》来近百年来难得一遇的历史小说。这个观点不是所有人都认可，但他的小说还是有鲜明的美学特色，是不可取代的。”周百义认为，二月河小说最大的创新点在于他对于清代历史的认识和教科书上的不一样，“比如雍正，过去我们评价他就是一个坏人。但在二月河的描写里，他是一个勤政的皇帝，也有丰富感情。”<br/><div class="contheight"></div>“过去的历史小说，要么拘泥于史实，写得比较呆板，要么写得生动但是农民起义者等故事，二月河的突破在于他把帝王将相也当普通人对待，把他们的故事写得引人入胜。”周百义说。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张喆<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 逝者</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2742600">
+<div class="nbgbox">
+<a class="zan" contid="2742600" href="javascript:;" onclick="voteCont(this)" praisetimes="127">
+                           126</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 逝者</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2742600&caid=25482",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2742600&amp;caid=25482" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（43）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

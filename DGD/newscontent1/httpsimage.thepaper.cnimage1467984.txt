@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">因女儿盗窃商店被判刑，哈尔滨男子持斧砍死店家婆媳后自首</h1>
+<div class="news_about">
+<p>时继凯/“生活报”微博</p>
+<p>
+							2019-01-09 10:55<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="421" src="http://image.thepaper.cn/www/image/14/67/979.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">事发现场。视频截图<br/><div class="contheight"></div></span>生活报微博1月9日消息，7日，在哈尔滨巴彦县居民热传一条视频，两名女子倒在血泊中。8日，记者从当地县委宣传部获悉，7日7时20分，巴彦县西集镇常兴村前房家屯居民张某国，在西集镇向荣街万家乐商店内用斧头将徐某兰砍死。之后，凶手又到孙家超市门口将徐某兰的婆婆刘某芬砍死。案发后，张某国到辖区派出所投案自首。经初查，案件因2011年张某国的女儿张某萍盗窃被害人刘某芬家商店被判刑而引发，目前，张某国已被公安机关刑事拘留，案件在进一步侦办中。<br/><div class="contheight"></div>（原题为《丧心病狂！因女儿盗窃商店被判刑 男子持斧砍死店家婆媳！已投案自首》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 故意杀人</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831150">
+<div class="nbgbox">
+<a class="zan" contid="2831150" href="javascript:;" onclick="voteCont(this)" praisetimes="78">
+                           77</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 故意杀人</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831150&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831150&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（1.2k）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

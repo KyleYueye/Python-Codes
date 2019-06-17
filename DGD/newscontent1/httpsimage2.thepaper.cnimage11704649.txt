@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评丨少林子弟KO留学生业余拳手，是怎样一种极致尴尬？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 然玉</p>
+<p>
+							2018-10-28 16:31<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">10月19日，一场“六国拳王争霸赛”在河南登封举行。据赛事主办方事先宣传，当天的重头戏将在51岁的少林弟子释延孜和30岁的坦桑尼亚籍“搏击悍将”盖博瑞间展开。然而原本应该十分精彩的大战只进行了43秒就以盖博瑞举手告饶结束。<br/><div class="contheight"></div>不久，沈阳一家拳馆馆长在朋友圈爆料称，盖博瑞实际身份是沈阳某高校的一名留学生，其实际水平在业余选手中都属于中下游，更谈不上“搏击悍将”之称。事件引发众多网友关注。<br/><div class="contheight"></div>少林弟子KO外国猛男的热血大戏，如今正一步步滑向荒诞喜剧的桥段。所谓坦桑尼亚籍“搏击悍将”竟是外国留学生，其为数不多的出场几乎全败，可说是“相当不能打”。此等水准的业余玩家，居然被主办方吹得天花乱坠，并生生将之安排成压轴大战的主角，如此赶鸭子上架，其结果当然只有对不起观众了。<br/><div class="contheight"></div>民间搏击圈子就那么大，骗骗围观群众还行，内行人却是心知肚明。此番，沈阳某拳馆馆长的爆料，不仅揭了盖博瑞的老底，更是牵出了相关赛事的种种乱象。<br/><div class="contheight"></div>诸如盖博瑞之类“水淋淋”的外国拳手，在内地竟是颇受欢迎，供不应求之下，其行情一路水涨船高，如今身价已远超国内选手。在民间搏击市场，这种“只看出身不看实力”的定价模式，实则耐人寻味。<br/><div class="contheight"></div>之所以如此，一则是出于赛事“国际化”的自我包装需要，如今不凑够欧美亚非拉各路拳手，简直不好意思办赛收门票；再者，招募外国拳手参赛，也是为了迎合那种由来已久的“灭洋人威风，长国人志气”的世俗心态，这是一种煽动式叙事的老套路了。<br/><div class="contheight"></div>此前，网络曾传言，主办方刻意安排水平较低的外籍选手与中方选手对战。这一说法虽然遭到了主办者的矢口否认，想必也不是空穴来风。需要说明的是，许多民间搏击比赛，其赛事组织水平，以及观众观赛专业程度都并不高，后者要的就是“看赛一时爽”，前者求的就是攒人气赚钱：千方百计确保本国拳手战胜外籍拳手，合乎所有人的利益。这与其说是比赛，不如说是走剧本，这与国际正规拳赛是存在根本区别的。<br/><div class="contheight"></div>一场民间搏击赛，也许不能提供高水准的拳手和精彩的交手，但是它至少能让观赛者打鸡血般心潮澎湃。就如同听相声但求一乐，看类似比赛也是只求一爽，较真你就输了。只不过，如今有人跳出来揭开了那心照不宣的默契，让种种尬赛尬演一下子暴露在公共视野之内，这就很难收场了。<br/><div class="contheight"></div>少林弟子KO外国悍将着实振奋人心，但要是打的是留学生，就有点蒙事欺负人了。有必要追问的是，在这场山寨甚至“伪劣”的拳赛中，主办方还有多少幕后操作？释延孜到底知道多少、又扮演了何种角色？<br/><div class="contheight"></div>江湖行走，靠的就是自觉自律自重，什么比赛都参加，什么人都打，什么钱都赚，如此不爱惜羽翼，最终尴尬的还是自己。51岁少林弟子43秒KO留学生，这等神剧情，算是把民间搏击的戏彻底玩砸了。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2572717" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">搏击悍将竟是留学生！51岁少林弟子43秒KO对手成闹剧</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 少林子弟,拳击</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2573217">
+<div class="nbgbox">
+<a class="zan" contid="2573217" href="javascript:;" onclick="voteCont(this)" praisetimes="129">
+                           128</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 拳击</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2573217&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2573217&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（106）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

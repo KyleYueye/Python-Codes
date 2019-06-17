@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国被曝又抓了一俄罗斯人，还将其告上法庭</h1>
+<div class="news_about">
+<p>姚凯红/海外网</p>
+<p>
+							2019-01-05 08:43<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网1月5日消息，据俄罗斯卫星通讯社5日报道，有法庭文件显示，美国联邦调查局（FBI）在关岛逮捕了一名俄罗斯公民，并指控其非法出口国防材料。<br/><div class="contheight"></div>报道称，这份文件是向美国北部马里亚纳群岛地方法院提交的，文件签署日期显示的是去年12月31日，但直到周五（4日）才公开发布。文件上说，被告迪米特里·马卡伦科（Dimitrii Makarenko）于去年12月29日被捕，他被控于2017年6月在没有许可证的情况下秘密出口国防用品。<br/><div class="contheight"></div>报道指出，法官在听取了各方意见后，批准了政府的转移申请……并要求将被告带到佛罗里达州南部地区。<br/><div class="contheight"></div>就在马卡伦科被捕的前一天，俄罗斯联邦安全局于去年12月28日以从事间谍活动为由，逮捕了美国公民保罗·惠兰（Paul Whelan），并随后针对惠兰进行刑事调查。如罪名成立，惠兰将面临10到20年监禁。<br/><div class="contheight"></div>根据惠兰家人提供的信息，惠兰赴莫斯科是为了参加在海军陆战队期间战友的婚礼，对方娶了一名俄罗斯女子。婚礼的地点就在莫斯科大都会酒店，靠近克里姆林宫。惠兰的家人认为，对他的间谍指控是“错误的”，他是“无辜的”。<br/><div class="contheight"></div>美国国务卿蓬佩奥于1月2日表示，美国要求俄罗斯立刻释放前美国海军陆战队队员惠兰。他也要求俄方对逮捕惠兰的行动作出解释。<br/><div class="contheight"></div>事实上，早在俄罗斯逮捕惠兰之前，美国也抓捕了俄罗斯公民布蒂娜（Maria V.Butina），并被指控其为俄罗斯“特工”，称其潜入全美步枪协会（NRA）并游说协会成员，进而影响美国对俄罗斯的外交政策。<br/><div class="contheight"></div>去年12月13日，布蒂娜意外承认自己在美国境内从事间谍活动，影响美国对俄政策。克里姆林宫随后对此愤怒回应称，美国对布蒂娜实施了“酷刑”。翌日，俄罗斯外长拉夫罗夫（Sergei Lavrov）再次针对此事表态，称会继续支持布蒂娜。<br/><div class="contheight"></div>（原标题《刚刚！美国被曝又抓了一俄罗斯人 还将其告上法庭》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国抓俄罗斯人</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2816824">
+<div class="nbgbox">
+<a class="zan" contid="2816824" href="javascript:;" onclick="voteCont(this)" praisetimes="48">
+                           47</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美国抓俄罗斯人</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2816824&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2816824&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

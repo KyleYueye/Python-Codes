@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜一个大厅两种温度，办事大厅到底是谁的主场</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-08-09 11:18<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2332037" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">郑州一派出所大厅没空调没水喝、厕所不给用，办事员称管不了</span></a></img></p></div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/9/477/948.jpg" width="600"/></div>据媒体报道，郑州市公安局经开分局航海东路派出所办事大厅内冷热有别，工作人员在玻璃窗口内吹着空调，但排队的办事群众却在大厅内冒热汗，因为大厅内等候办事的区域没有装空调。<br/><div class="contheight"></div>工作人员享受着冷风，办事群众“享受”着热浪，真是一副“冰火两重天”的景象。这还没完，该办事大厅不提供饮用水，连厕所都不给用。记者问有没有想过安装空调，工作人员回答：“那不是我们能管的事。”记者再问，为何派出所工作人员能吹空调，对方称，“那是我们工作的地方”。<br/><div class="contheight"></div>“那不是我们能管的事”，“那是我们工作的地方”，脱口而出的两个“我们”颇能说明问题。工作人员跟办事群众截然分成了“我们”和“他们”，所以一个大厅两种待遇才能理所当然，办事群众热的满头大汗也没谁感到羞愧。如果工作人员把办事群众也当成“我们”，就不会对这种局面无动于衷了。<br/><div class="contheight"></div>相信经过媒体报道和舆论批评，这个派出所的办事大厅很快就会加装空调，饮用水和厕所问题也会解决。毕竟这些都不需要太多的投入，也没有技术难度。但是此事暴露出的作风问题才是最值得反思的，而这种把办事群众当“外人”的心态很有普遍性。<br/><div class="contheight"></div>在此之前，难道就没有一个工作人员意识到办事群众也会热，也会渴，也会有三急？我们先不必说“心系群众”“转变作风”，我们就说人之常情，自己吹着空调看着别人冒汗，不觉得难为情吗？这是最起码的共情能力吧。<br/><div class="contheight"></div>一道玻璃墙，将炎热挡在外边，冷气留在里边，却不知寒了多少人心。<br/><div class="contheight"></div>从多地出现的“孙连城式”半蹲窗口，到“冰火两重天”的办事大厅，反映的都是同一种冷漠与隔膜。办事大厅到底是谁的主场，谁的地盘？<br/><div class="contheight"></div>很多人都有过同样不友好的体验，进了办事大厅好像贸然闯入了别人家里，问个厕所半天没人搭理，喝口水更成了奢望。<br/><div class="contheight"></div>这些不友好的办事大厅在起初设计时就出了问题。比如饮水机、厕所应该对工作人员和办事人员同等开放，还要有明显标识。玻璃墙更是一个错误而多余的设计。除了银行柜台等个别地方，办事大厅的玻璃墙早就应该全面拆除了。如果没有玻璃墙，也不会出现“一个大厅两种温度”的荒唐一幕。<br/><div class="contheight"></div>千万不要觉得办事群众吹个空调、喝口水、上个厕所就是占了便宜，因为不管办事大厅还是工作人员都是为了他们而存在，而不是反过来。拆掉办事大厅的玻璃墙，更要拆掉心中的玻璃墙。<audio controls="controls" style="display: none;"></audio></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 工作作风 办事大厅</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2332523">
+<div class="nbgbox">
+<a class="zan" contid="2332523" href="javascript:;" onclick="voteCont(this)" praisetimes="1802">
+                           1801</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 工作作风</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2332523&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2332523&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（577）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

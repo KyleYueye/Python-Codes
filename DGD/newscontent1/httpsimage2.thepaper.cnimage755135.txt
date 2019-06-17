@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">看展的同时去体验个妆容，这个在人民公园里的展览最近很热门</h1>
+<div class="news_about">
+<p>刘嘉郦</p>
+<p>
+							2018-03-23 17:25<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>不管是博物馆还是艺术馆，一场能将互动和体验作为内容呈现方式之一的展览都很容易获得人们的青睐，最近在MOCA上海当代艺术馆里举行的“DIOR, THE ART OF COLOR”艺术展就做到了这一点。在这个展览上，你不仅可以近距离接触到多幅视觉艺术作品，还能亲自体验5款以“红、金、绿、黑、蓝”为主题的妆容。这个周末，不如去逛一逛这个展览吧。<br/><div class="contheight"></div></u><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/7/55/126.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">色彩在妆容的塑造方面有着非常重要的地位。图为Dior迪奥彩妆创意与形象总监Peter Philips的作品，能看到其对于色彩运用的大胆。<br/><div class="contheight"></div></span>色彩之于视觉艺术，总是有着相当重要的地位，在妆容设计方面，更是如此。对于擅长妆容的化妆师、妆容总监等人来说，人脸是一个不可替代的画布，而彩妆就是一个工具，它能帮助人们去传达各种各样的信息和信号，比如邀约，抑或是警示。在彩妆造型中，原始的红色、白色和黑色是每个妆容的起点——白色像文艺复兴时期的绘画中使用的方解石或铅颜料一样，可以反射光线，增亮肤色；黑色是通过明暗对比形成的神秘阴影，为面部增加细节或突出光感；而红色则似逝去岁月里的赭石色复兴于此，通过反差使其跃然面庞之上，当然，也有人从另一个角度来进行解读，那便是红色亦有着血液的象征意味，将其运用于嘴唇之上，能让人感觉到充沛的身体能量，是健康的另一种表现。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/7/55/127.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">这组照片中，彩妆师对于红色的运用融合了明显的作画理念，夸张而富有力量感。<br/><div class="contheight"></div></span>在“DIOR, THE ART OF COLOR”艺术展上，你可以看到诸多妆容效果图。对于熟悉时装发展史的人来说，这些图片中的某几张很容易就让你联想到某个时刻。不管是对于颜色的运用，还是某些妆容细节的表现方法，你会发现，就算是现在，也依旧流行——如果你是个忠实的时尚杂志发烧友的话，更容易发现这些经典作品总是出现在杂志之上。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="326" src="http://image.thepaper.cn/www/image/7/55/77.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">刚刚开幕的这个展览已经吸引到了许多人的关注。<br/><div class="contheight"></div></span>别不承认，很多女性在看完和妆容有关的展览之后都会萌发出想要尝试的欲望。在此次展览上，观展的你完全有机会感受到不同妆容带给自己的变化。以“红、金、绿、黑、蓝”为主题的妆容各有不同，如果你只是想要和朋友聚会，那么建议你尝试一下红色妆容和金色妆容，如果你看完展览的计划是去派对，那么黑色和蓝色妆容会是比较合适的选择。当然，在化妆师为你打造妆容的同时，你也可以与其进行沟通，使其能够进行适度改造，以便呈现出更好的效果来。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/7/55/78.jpg" width="600"/></div>你可以选择5款主题妆容中的任何一种进行体验，也可以与化妆师交流，以创造出更适合自己的妆容。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="427" src="http://image.thepaper.cn/www/image/7/55/125.jpg" width="600"/></div>现场陈列的单品，女生可以体验一下。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李淑平<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2039995">
+<div class="nbgbox">
+<a class="zan" contid="2039995" href="javascript:;" onclick="voteCont(this)" praisetimes="6">
+                           5</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 看展览</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2039995&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2039995&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=28052">陕西生态环境</a>
+</div>
+<h1 class="news_title">汾渭平原大气污染防治协作办致函三省政府：做好重污染应对</h1>
+<div class="news_about">
+<p>陕西生态环境</p>
+<p>
+                            2019-01-11 07:58<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard">汾渭平原大气污染防治协作小组办公室<br/><div class="contheight"></div>致函山西、河南、陕西省政府提示<br/><div class="contheight"></div>做好近期重污染天气应对工作<br/><div class="contheight"></div>经汾渭平原环境空气质量预测预报中心与山西、河南省环境空气质量预测部门会商研判。<br/><div class="contheight"></div> 10日至12日受区域近地面湿度增大、逆温、静稳等不利气象条件影响。预计，陕西关中西安、咸阳、宝鸡、渭南市，河南省洛阳、三门峡市可能出现连续中至重度污染天气。<br/><div class="contheight"></div>13日至14日，区域整体风速进一步减小，扩散条件持续不利。预计，陕西关中西安、咸阳、渭南市，河南省洛阳、三门峡市以重度污染为主，部分城市可能出现严重污染。<br/><div class="contheight"></div> 15日，受冷空气影响，整体扩散条件好转。预计，区域整体空气质量以轻度到中度污染为主。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="536" src="http://image.thepaper.cn/www/image/14/151/245.jpg" width="600"/></div> 1月9日，汾渭平原大气污染防治协作小组办公室致函山西、河南、陕西省人民政府提示做好近期重污染天气应对工作。<br/><div class="contheight"></div> 要求各省相关市（区）根据当地空气质量具体预测预报情况，按照区域应急联动要求，及时调整相应级别重污染天气预警，提前采取应急减排措施，有效减轻重污染天气影响。<br/><div class="contheight"></div> 同时组织力量强化监督检查，确保各项应急减排措施落实到位。生态环境部强化督察组将根据各地新修订的重污染天气应急减排清单，重点督促落实应急减排措施。<br/><div class="contheight"></div> 汾渭平原协作小组办公室将对各市（区）落实应急减排措施情况进行调度，对不作为、慢作为和虚假调度、敷衍调度的市（区）上报生态环境部。<br/><div class="contheight"></div> 调整重污染天气预警级别和应急响应等级的市（区）按照相关规定及时报送重污染天气预警和响应信息。<br/><div class="contheight"></div>（原标题：《汾渭平原大气污染防治协作小组办公室致函山西、河南、陕西省政府提示做好近期重污染天气应对工作》）<br/><div class="contheight"></div></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2839973">
+<div class="nbgbox ">
+<a class="zan" contid="2839973" href="javascript:;" onclick="voteCont(this)" praisetimes="20">
+                                    19</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

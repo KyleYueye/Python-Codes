@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜农药残留超标罚菜贩5万，然后呢？</h1>
+<div class="news_about">
+<p>澎湃评论员 甘琼芳</p>
+<p>
+							2018-09-12 18:35<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2431327" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜农药残留超标罚菜贩5万，然后呢？" src="//image1.thepaper.cn/image/10/369/969.jpg"/>
+</a>
+<div class="atlas_360_txt">长豆角农药残留超标，河南新郑一菜贩卖20余斤被罚5万元<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">据大河客户端9月11日消息，因所卖的长豆角农药残留超标，河南新郑市龙湖镇一菜贩杨传有被罚51000元，没收违法所得120元。新郑市食品药品监督管理局责令其整改。<br/><div class="contheight"></div>食品安全话题，向来牵动公众神经。对于挑战底线者依法严惩，也一直是主流声音。不过，对于此次监管部门的处理，一些网友表达了不同声音。<br/><div class="contheight"></div>首先，被罚者是蔬菜经销商，也就是菜贩，而非种植者，在整个蔬菜流通环节属于末端。监管部门仅处罚经销商，而不追究农药残留超标的根源，对于杜绝市场上出现农药残留超标的蔬菜，有多大震慑力？<br/><div class="contheight"></div>第二，罚款之前，是否弄清了超标农药残留的来源？究竟是蔬菜种植者所为，还是经营者的问题。如果能证明并非菜贩的动作，却对其处罚，不仅不公平，也放跑了真正的违法者。一个卖菜的小商贩，有能力鉴定蔬菜是否农药残留超标吗？<br/><div class="contheight"></div>不是说对卖农药残留超标蔬菜的老板不该罚，而是说不能止步于罚。弄清农药残留超标是在哪一环节产生的，明确责任主体，应该是走在处罚前面的步骤。<br/><div class="contheight"></div>另外，有人质疑卖了20余斤、价值120元的豆角，却被罚51000元，是否过重？虽然依据《食品安全法》和《行政处罚法》的相关规定，这一罚款数额并不出格，但是行政处罚也应当遵循比例原则，做到罚当其过。处罚结果应当与违法行为的事实、性质、情节以及社会危害程度相当。且《行政处罚法》也规定，当事人主动消除或者减轻违法行为危害后果的，应当依法从轻或者减轻行政处罚。从报道看，目前未有买菜者投诉，涉事商行也能积极配合监管部门的调查，并积极整改。这些，是否符合从轻或减轻行政处罚的条件？<br/><div class="contheight"></div>这绝不是说网友同情卖菜老板——从以往公众对威胁食品安全者的态度看，也不可能同情——关键是要罚当其过，经得起舆论检验。当然，如果监管部门能够拿出更多证据，证明就是菜贩明知故犯，为了给蔬菜保鲜而喷洒的农药，那也需进一步披露清楚。<br/><div class="contheight"></div>要从根本上杜绝蔬菜农药残留超标，不能仅靠打击销售端，更不能把执法简化为罚款。根本的，在于常抓不懈的监管，从源头、流通到终端，把好“全产业链”监管关。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李鹏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 农药残留超标</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2433850">
+<div class="nbgbox">
+<a class="zan" contid="2433850" href="javascript:;" onclick="voteCont(this)" praisetimes="431">
+                           430</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 农药残留超标</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2433850&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2433850&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（147）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

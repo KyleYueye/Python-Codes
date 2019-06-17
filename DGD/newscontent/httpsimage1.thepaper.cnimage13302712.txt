@@ -1,0 +1,79 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">普吉沉船“凤凰号”最新调查结果：设计建造多方面不合格</h1>
+<div class="news_about">
+<p>@第一时间</p>
+<p>
+							2018-12-19 13:36<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">CCTV2《第一时间》栏目官方微博12月19日消息，7月5日，载有中国游客的“凤凰”号游船在普吉岛附近海域突遇特大暴风雨，导致船只倾覆，造成47人死亡。当地时间12月17日晚间，泰国警方公布了对沉船“凤凰号”的最新调查结果。结果显示，凤凰号船体在设计、建造等多方面“不合格”。按照标准，“凤凰号”本应有四扇水密门，但实际上只有一扇；此外，窗户本应该使用船用窗，游客遇到紧急情况可以击碎玻璃逃生。由于“凤凰号”在这些方面都不达标，导致遇难者被困船舱。<br/><div class="contheight"></div>（原题为《泰国警方公布“凤凰号”最新调查结果：设计建造不合格！》）<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="387" src="http://image.thepaper.cn/www/image/13/302/698.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">当地时间2018年11月17日16：00分，沉睡海底长达4月的“7.5”普吉海难沉船“凤凰号”船体已经成功被1200吨巨型起重船打捞出海面。东方IC 资料图</span></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2660250" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">致47名中国人遇难的普吉沉船曝光：船底有3吨违规配重水泥</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2645925" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">普吉沉船“凤凰”号打捞出水，此前事故致47名中国游客遇难</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2258664" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">暗访丨“凤凰”号造价之谜：被夸大的船宽与背后的造船潜规则</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2274678" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">泰国警方：“凤凰”号少装三个抽水泵，安全检查疑被大幅缩水</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2264282" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">泰官方确认“凤凰”号造船厂违法经营，批捕船主、造船工程师</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 泰国沉船事故,普吉岛</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2752280">
+<div class="nbgbox">
+<a class="zan" contid="2752280" href="javascript:;" onclick="voteCont(this)" praisetimes="6">
+                           5</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 泰国沉船事故</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2752280&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2752280&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

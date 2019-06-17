@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25491">长三角政商</a>
+</div>
+<h1 class="news_title">杭州数百人通宵排队预约宫颈疫苗，一社区医生帮朋友“加塞”</h1>
+<div class="news_about">
+<p>澎湃新闻记者 陆玫</p>
+<p>
+							2019-01-10 20:24<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月9日8时，杭州上城区湖滨街道社区卫生服务中心门外已排起近五百人的长队，等待预约注射预防宫颈癌的“九价HPV（人乳头瘤病毒）疫苗”，其中通宵排队的有200多人。<br/><div class="contheight"></div> 她们注意到，负责现场预约登记和电话预约登记的一位女医生不顾排队人群，还搁起预约电话，边看手机边在预约本上填写，怀疑是为朋友“插队”登记——这一幕还被拍下视频发在微博、论坛上。<br/><div class="contheight"></div> 澎湃新闻（www.thepaper.cn）10日从湖滨街道社区卫生服务中心了解到，中心当天已接到投诉，立即对医生进行询问，她承认私自帮朋友预约。<br/><div class="contheight"></div> “目前确定登记了一个朋友的信息，已做无效处理，还将进一步核查电话、现场预约，确认是否有别的私填行为。”中心副主任倪明告诉澎湃新闻，涉事医生是退休返聘人员，已暂停工作。<br/><div class="contheight"></div> 自上市以来，九价HPV疫苗“一针难求”。2018年8月起，杭州部分社区卫生服务中心可以预约接种，预约形式由各中心制定，包括现场登记、电话预约、微信预约、摇号等。其中，杭州萧山区采取公证摇号方式，最近一次的中签率为3%。<br/><div class="contheight"></div> 8日，湖滨街道社区卫生服务中心的微信公众号发布消息，称9日开放九价HPV疫苗注射预约，可现场报名或电话预约，限号300人。当晚，中心门口出现排队的情况。<br/><div class="contheight"></div> “我是8日21时开始排队的，排在第38号，排在第二个的说自己20点就到了。到23时，已经有100多人排队，凌晨2点时有200多人。”杭州姑娘小罗表示。<br/><div class="contheight"></div> 9日8时，预约登记开始。排在前面的一位姑娘发现，负责登记的女医生把预约电话搁起，也不管排队人员，顾自边看手机，边在预约本上填写信息。<br/><div class="contheight"></div> “当天9点多，有排队市民反映医生私填登记信息，中心负责人马上了解，涉事医生说，接了几个预约电话后现场排队的人有意见，认为自己排了十几个小时的队却被电话预约的抢先，不公平，所以她暂时搁起电话。她承认帮一个朋友填了预约信息，我们马上把那条信息作废了。”倪明告诉澎湃新闻。<br/><div class="contheight"></div> 倪明表示，这是该中心第一次采取现场、电话集中预约的方式，“没有经验，也没想到市民的热情这么高，在方式方法上考虑得不成熟，会吸取教训。”<br/><div class="contheight"></div> 他说，当天有近500人完成预约登记，现场排队的都登记了，“前100号的可以当天打疫苗，在后面的，只要疫苗到货就按照顺序通知来打。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张军<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 杭州,宫颈疫苗,医生,加塞</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837491">
+<div class="nbgbox">
+<a class="zan" contid="2837491" href="javascript:;" onclick="voteCont(this)" praisetimes="69">
+                           68</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 九价宫颈癌疫苗</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837491&caid=25491",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837491&amp;caid=25491" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（417）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

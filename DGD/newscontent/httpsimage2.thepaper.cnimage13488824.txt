@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">全国首例：陕西一景区因拒收现金，被银行行政警告</h1>
+<div class="news_about">
+<p>微信公号“第一新闻”</p>
+<p>
+							2018-12-25 15:50<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">移动支付已成为当下生活日常<br/><div class="contheight"></div>从上街买菜到过年发红包<br/><div class="contheight"></div>我们似乎已经不再需要现金<br/><div class="contheight"></div>然而<br/><div class="contheight"></div>不需要现金不等于商家可以拒收现金<br/><div class="contheight"></div>这不<br/><div class="contheight"></div>西安蓝田县一景区就因不收现金<br/><div class="contheight"></div>收到了一张罚单<br/><div class="contheight"></div>而这张罚单 <br/><div class="contheight"></div>不仅是陕西首例<br/><div class="contheight"></div>更是全国首例<br/><div class="contheight"></div>日前，中国人民银行蓝田县支行接到群众举报， 西安市蓝田县辖内一影视基地景区在经营场所张贴景区消费不收取现金的误导性违法宣传内容， 该支行立即启动行政执法程序， 依法对该旅游企业违法行为进行了调查取证和行政警告处罚。<br/><div class="contheight"></div>这是全国首例因“拒收现金”误导性违法宣传开出的罚单。<br/><div class="contheight"></div>根据游客举报线索，人民银行蓝田县支行行政执法检查组严格按照《中国人民银行执法检查程序规定》，向该违法旅游企业出示《检查通知书》和《执法证》，组织被检查单位有关人员学习了《中华人民共和国中国人民银行法》《中华人民共和国消费者权益保护法》和《中华人民共和国人民币管理条例》，并通过调查取证、问询谈话等方式固定了证据。经宣传引导和依法取证，该旅游企业对其”拒收现金”误导性宣传的违法事实没有任何异议。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="722" src="http://image.thepaper.cn/www/image/13/488/818.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">本文图均为 第一新闻微信公众号 图<br/><div class="contheight"></div></span>最终人民银行蓝田县支行依法给予该旅游企业行政警告处罚，并责成其立即撤销不当违法宣传，消除不良社会影响。<br/><div class="contheight"></div>该旅游企业负责人表示， 人民银行的执法检查为其上了一堂实实在在的依法经营课，人民币是我国的法定货币，在中华人民共和国境内任何人不得以任何方式拒收人民币现金。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/488/817.jpg" width="600"/></div>今后，旅游景区保证为游客在消费过程中提供包括现金和非现金支付在内的多种支付方式，采用合法的宣传方式和宣传语言，确保广大游客的合法权益。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/488/816.jpg" width="600"/></div>目前，该旅游企业已通过官方微博就“拒收现金”误导性宣传违法行为的整改情况，向举报游客进行了正式回复和致歉。<br/><div class="contheight"></div>今年7月份以来，中国人民银行在全国范围内集中整治拒收现金行为，规范旅游、餐饮、零售、交通运输等行业以及行政事业、公共服务等领域的现金收付行为，以维护人民币流通秩序，保护消费者合法权益。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="849" src="http://image.thepaper.cn/www/image/13/488/815.jpg" width="600"/></div>（原标题为《 全国首例｜陕西一景区因为拒收现金，收到罚单！》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：钟煜豪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 陕西，拒收现金</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772765">
+<div class="nbgbox">
+<a class="zan" contid="2772765" href="javascript:;" onclick="voteCont(this)" praisetimes="47">
+                           46</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 拒收现金</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772765&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772765&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">字节跳动一员工涉嫌受贿数百万元被刑拘，已被录入招聘黑名单</h1>
+<div class="news_about">
+<p>澎湃新闻记者 杨鑫倢</p>
+<p>
+							2018-12-25 18:22<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月25日，澎湃新闻记者从今日头条母公司字节跳动了解到，近日，该公司员工汪某及一名代理商工作人员，分别因涉嫌非国家工作人员受贿罪及对非国家工作人员行贿罪，被北京海淀警方刑事拘留。<br/><div class="contheight"></div>字节跳动相关负责人称，2017年下半年至2018年中，汪某作为某业务线的商务拓展负责人，利用负责代理商引入、管理的职务便利，收受代理商相关负责人给予的财物。<br/><div class="contheight"></div>该公司称，汪某除了收受代理商给予的好处费数百万元，还收受了豪华轿车、名表及购物卡等财物。作为回报，汪某在工作中为代理商的违规行为提供帮助。在初步掌握犯罪线索后，字节跳动公司向北京海淀警方报案。<br/><div class="contheight"></div>目前字节跳动已将汪某开除，并扣罚了其全部期权。同时，汪某也已被录入行业失信人员信息库，进入了几乎所有知名互联网企业的招聘“黑名单”。<br/><div class="contheight"></div>“行贿的代理商被加入字节跳动黑名单，今后字节跳动将不再与他们合作。”上述负责人表示。<br/><div class="contheight"></div>字节跳动相关负责人表示，该公司设立了独立的部门进行廉洁反腐工作。“字节跳动十分重视阳光职场建设，对于破坏廉洁文化、违反职业道德的行为始终保持零容忍的态度。”<br/><div class="contheight"></div>此前，字节跳动曾多次将涉嫌触犯法律的员工移送司法机关。“对于涉嫌违法犯罪的行为，公司一定会积极配合司法机关，依法追究到底。”<br/><div class="contheight"></div>目前，本案正在进一步侦查中。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙扶<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 字节跳动</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2773061">
+<div class="nbgbox">
+<a class="zan" contid="2773061" href="javascript:;" onclick="voteCont(this)" praisetimes="60">
+                           59</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 今日头条</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2773061&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2773061&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

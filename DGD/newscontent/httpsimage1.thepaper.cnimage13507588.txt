@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜爱心“汹涌”，大熊猫保护研究中心要有底气和底线</h1>
+<div class="news_about">
+<p>澎湃特约评论员 宋金波</p>
+<p>
+							2018-12-26 07:51<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2773067" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜爱心“汹涌”，大熊猫保护研究中心要有底气和底线" src="//image1.thepaper.cn/image/13/490/614.jpg"/>
+</a>
+<div class="atlas_360_txt">中国大熊猫保护研究中心：对存不当行为饲养员停职整改<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">日前有网友反映，在中国大熊猫保护研究中心都江堰基地看到，有员工喂养大熊猫“暖暖”时，存在大力拍打采血架、化妆，以及不戴手套靠近熊猫喂食等不当行为。12月25日，保护中心回应称，已针对饲养员存在的不当饲养行为进行批评，饲养员也已认识到错误，表态将改正。<br/><div class="contheight"></div>不少网友对这个结果还是不满意，他们继续通过转发、评论和“@”各相关单位等方式，表达不满。有的诉求是让涉事饲养员离职，甚至还有要求其“终身不得进入饲养行业”的。整体上，这是一次相当不错的互动。网友积极踊跃找问题、提意见，相关单位至少做到了及时介入、回应。<br/><div class="contheight"></div>此事孤立地看，是个提升动物福利的问题。中国的动物福利观念，比较晚近才在民间发展起来。在相当长的时间里，包括动物园（含野生动物园）、各种科研类驯养繁殖场乃至产业饲养场，动物养殖中的问题是很多的。最典型的莫过于曾经造成很大负面影响的“活熊取胆事件”。<br/><div class="contheight"></div>近些年，动物福利观念较之以往有了很大进步。但是，这种观念进步，或者说，得到社会关注的程度，在不同领域，对不同的物种，“贫富不均”也很明显。在动物福利的保障上，中国大熊猫研究中心其实一直算做得相当好的。很多动物园，特别是一些“民间动物园”，动物福利所受关注是极低的，甚至有虐待现象。<br/><div class="contheight"></div>大熊猫个体数量已经不少，但由于多方面原因，仍旧万千宠爱在一身。从此事网友的留言可以明显感受到，网友对事件中大熊猫的关注，不仅是动物福利呼吁，已有动物园动物宠物化和网友粉丝化的倾向。这也影响到了网络诉求目标和表达。<br/><div class="contheight"></div>更大视角来看，就不仅是动物福利问题，也是社会正义和爱心的流向问题。民间对正义的需求日趋强烈，民众关注需要有出口。目前来看，宠物以及泛化了宠物，算最受关注的对象之一。以往新闻可见，诉求可谓大胆，得到回应也大都不错。<br/><div class="contheight"></div>反过来说，同样的需求与关注，如果放在别的领域，比如对其他动物福利的争取上，是不是还有类似效果，其实是不好说的。这样说来，社会爱心与正义的注意力需求最终集中到以宠物为代表的动物福利上，而不是其他领域，也是自然。然而，很多其他物种和领域，同样需要关注，需要感受到民间对爱心与正义的追求。<br/><div class="contheight"></div>从新闻来看，涉事饲养员所为并没有特别出格之处，也没有造成严重后果。对于不当饲养行为，相关单位有内部规定，也有行业规范，哪些行为要批评，哪些需要更严重的处罚，大熊猫保护研究中心应该有底气、有底线，能处理、该处理的要处理，不能处理的不必处理，也不妨跟网友讲清楚。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王建亮<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 大熊猫保护研究中心,动物福利</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2774864">
+<div class="nbgbox">
+<a class="zan" contid="2774864" href="javascript:;" onclick="voteCont(this)" praisetimes="21">
+                           20</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 动物保护</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2774864&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2774864&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

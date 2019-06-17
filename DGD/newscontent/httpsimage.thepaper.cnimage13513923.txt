@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25435">金改实验室</a>
+</div>
+<h1 class="news_title">金融委研究多渠道支持银行补充资本，推动尽快启动永续债发行</h1>
+<div class="news_about">
+<p>澎湃新闻</p>
+<p>
+							2018-12-26 09:31<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据央行网站12月26日消息，国务院金融稳定发展委员会办公室于12月25日召开专题会议，研究多渠道支持商业银行补充资本有关问题，推动尽快启动永续债发行。<br/><div class="contheight"></div>一位大行研究人士告诉澎湃新闻，资本金不足是货币政策传导的一个制约因素。过去一段时间，表外资产回表需要占用资本，不良的核销也对有限资本形成压力，进而导致新增融资的资本支持不足。<br/><div class="contheight"></div>另据Wind数据显示，截至12月19日，A股上市银行有超8000亿“补血计划”，其中已获批的包括优先股、二级资本债、可转债及定增在内再融资金额超3840亿元。<br/><div class="contheight"></div>此前多有房地产企业通过发行永续债来“补血”。永续债券，又称无期债券、债券中的股票，是指没有明确的到期时间或者期限非常长（一般超过30年）的债券。永续债券一般以3或5年为一个计价周期，在一个计价周期内该债券的利率锁定为一固定水平，发行人按该利率水平向投资者支付利息，在债券的每个计价周期末，发行人有权选择是否将债券赎回。即通过无固定期限实现“永续”效果，通过约定还本付息义务成为“债券”产品。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑景昕<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2775563">
+<div class="nbgbox">
+<a class="zan" contid="2775563" href="javascript:;" onclick="voteCont(this)" praisetimes="157">
+                           156</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 央行加息</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2775563&caid=25435",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2775563&amp;caid=25435" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（53）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

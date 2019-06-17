@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜治老赖有公示，治“高铁占座”的无赖呢？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 与归</p>
+<p>
+							2018-08-22 13:53<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/wd_relation_video_blue_icon.png" style="float:left;padding:5px 0 0 0"><a href="newsDetail_forward_2367163" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">男子“葛优躺”高铁霸座：帮我找个轮椅</span></a></img></p></div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="393" src="http://image.thepaper.cn/www/image/9/806/782.jpg" width="550"/></div>这两天，一段“女乘客在G334次列车上遇座霸”的视频热传：一男子在女乘客上车前先坐其座，等女乘客要座时据不相让，称“谁规定一定要按号入座？要么你自己站着，要么去坐我那个座位，要么自己去餐车坐”；在列车员沟通下，男子依然“卧座不起”，称自己有病，起不来了。<br/><div class="contheight"></div>看来这位“不仁”兄，真的病得不轻。以前的绿皮车也好，现在的高铁也好，不都是对号入座吗？什么时候规定可以随意占座了？占别人的座，让别人去餐车，不用鉴定，这是无赖本人，没错了。有位网友说得好，拥有健全的身体，但包裹着一副残废的心灵。<br/><div class="contheight"></div>据报道，后来女乘客被安排到商务车厢，列车长和乘警让其稍等一会，但直到终点站，这位“座霸”男子依然是无动于衷。也就是说，这位无赖得逞了，顺利地鸠占鹊巢到了终点。<br/><div class="contheight"></div>对这样一赖到底的无赖，就完全没辙了吗？<br/><div class="contheight"></div>其实，列车长和乘警在劝说无效后，大可以采取强制措施，强行把这位无赖“请”起来。如遇反抗或者拒不服从，也大可以按照《治安管理处罚法》的相关规定，对其进行罚款、拘留等处罚。对于这种已经完全不讲道理的无赖，除了让其付出应有的代价，没有更好的办法。<br/><div class="contheight"></div>此外，铁路方面也可以对于类似的不文明乘客，适当限制乘车权，列入“黑名单”。一句话，像治老赖一样治无赖，未尝不可。目前，济南铁路局已经介入调查，我们期待一个“无赖有治”的结果。<br/><div class="contheight"></div>而从个人来讲，女孩的正当权益毫无疑问遭受了侵犯，不仅自己花钱购买的座位没有坐成，还付出了时间成本、精力，女孩完全有正当理由向这位无赖索赔，补偿其物质上和精神上的损耗。只是这样的抗议方式，恐怕会耗时费力，得不偿失。<br/><div class="contheight"></div>生活中类似的无赖并不少。“我是无赖我怕谁”的思想之所以泛滥，固然与无赖的素质低有关，恐怕也与执法者的弱势、旁观者的冷漠有很大关系。试想，如果列车员、乘警再硬气一点，周边的乘客也站出来帮腔，这位还敢这么无赖吗？<br/><div class="contheight"></div>对于这样的无赖，最有效的方式不是比其更无赖，而是比其更硬气、更无畏、更较真。<br/><div class="contheight"></div>当然，曝光也是另一种有效的抗议方式。视频上网后，网友纷纷指责，甚至有人对其进行人肉搜索——虽然我们不提倡这种私力教训。此外，尽管视频中男子脸上被打了马赛克，但其身边的熟人，估计还是能够通过视频认出，他少不了被指指点点，也少不了来自生活周边的白眼。这种道德上的软处罚及其带来的压力，同样是一种代价。<br/><div class="contheight"></div>所以，最后还是要善意提醒，在“有视频有真相”“人人都有麦克风”的移动互联网时代，类似不守规则、不讲道理的不文明行为，还是收敛一些好。<audio controls="controls" style="display: none;"></audio></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 高铁占座</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2369852">
+<div class="nbgbox">
+<a class="zan" contid="2369852" href="javascript:;" onclick="voteCont(this)" praisetimes="204">
+                           203</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 高铁管理</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2369852&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2369852&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（103）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

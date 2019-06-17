@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">长沙迈入万亿GDP俱乐部第二年：预计GDP增长8.5%</h1>
+<div class="news_about">
+<p>澎湃新闻记者 王俊</p>
+<p>
+							2019-01-08 12:21<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">2017年GDP突破万亿大关的湖南省长沙市，2018年又取得了新的好成绩。<br/><div class="contheight"></div>2019年1月8日上午，长沙市第十五届人民代表大会第四次会议开幕。<br/><div class="contheight"></div>据长沙当地官方媒体星辰在线（长沙新闻网）提供的开幕会直播，长沙市市长胡忠雄作市政府工作报告时透露，2018年，预计全市地区生产总值增长8.5%，规模以上工业增加值增长7.6%，固定资产投资增长11.5%，社会消费品零售总额增长10%，一般公共预算收入增长10.09%，全体居民人均可支配收入增长8.6%。<br/><div class="contheight"></div>长沙市是万亿GDP俱乐部的新成员。2017年，长沙全市实现地区生产总值10535.51亿元，比上年增长9%，成为中部第二个、中西部第四个GDP突破万亿大关的城市。<br/><div class="contheight"></div>另外，胡忠雄在政府工作报告中指出，2019年长沙全市经济社会发展主要预期目标是：地区生产总值增长8%；固定资产投资增长10%；社会消费品零售总额增长10%；地方一般公共预算收入增长8%；研究与试验发展经费支出占地区生产总值比重2.8%以上；产业项目投资占固定资产投资比重45%以上，制造业（含高技术服务业）投资占固定资产投资比重达35%；单位地区生产总值能耗下降2%，税收占财政收入比重、减排任务完成省定指标；全体居民人均可支配收入增长8%，城镇登记失业率控制在4%以内，居民消费价格指数103左右。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; gdp,长沙</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827053">
+<div class="nbgbox">
+<a class="zan" contid="2827053" href="javascript:;" onclick="voteCont(this)" praisetimes="114">
+                           113</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: GDP</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827053&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827053&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

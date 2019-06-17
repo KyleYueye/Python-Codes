@@ -1,0 +1,76 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">红网：道路命名更名，听取民意才能越走越宽</h1>
+<div class="news_about">
+<p>余人月/红网</p>
+<p>
+							2018-12-24 14:37<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2767784" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">恩施公示城区60个新路名引热议，市民质疑还未定名路牌已挂</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2764395" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">恩施回应“道路更名公示引争议”： 将认真汇总广大网民意见</span></a></img></p></div>
+<div class="news_txt" data-size="standard">12月22日，湖北日报官微发布《恩施市一次拟命名、更名60条街道，网民：一头雾水》消息，报道了恩施市拟命名、更名城区60条街道，引发网友争议一事。22日当天，恩施市民政局发布情况说明称，对网友的关注表示感谢，汇总意见后将组织各方论证，形成方案再次公示。<br/><div class="contheight"></div>这个表态值得肯定。公示本来就是为了听取公共意见，但公示变成公布，流于形式走过场也多了去了，外界有无意见，意见有没有得到重视，往往没有下文。恩施这次面对公示期间的不同声音，不塞听，不掩饰，而是正面直视，准备再公示一次，既虚怀若谷，又让公示变得名副其实，如此作派，甚好。<br/><div class="contheight"></div>城市道路命名的原则，就是尊重传统与现实，照顾群众的习惯，便于群众生活。命名过程中听取群众意见，也就是题中之意，这样才能越走越宽广，不怕群众有意见，怕是的对群众意见置若罔闻，一意孤行。这次恩施市拟命名、更名的60条街道，有的涉及一些老地名的变动，有的则直接套用了恩施州的8个下辖市县名，虽然是为体现恩施生态文化旅游特色，却显得生搬硬套、顾此失彼，既没有尊重传统习惯，也没有考虑到实际出行。有网友就表示，拟命名的道路与市县政府所在地的道路重命，导航都要乱了，“我在恩施的建始大道，没在建始的建始大道！”这不是绕口令，而是真会让人犯迷糊。<br/><div class="contheight"></div>城市道路命名起争议并不奇怪，这缘于一些地方在命名时掺杂了不恰当的功利因素，或为知名度，或为经济，或为旅游，或为政绩，乃至个别官员的个人好恶，以致偏离了方便群众的本来原则。2018年5月，安徽宣城市拟以“文房四宝”命名（更名）四条城市道路，诸如将宝城路拟更名为墨香大道，薰化路拟更名为宣纸大道，响山路拟更名为宣砚大道，也引来不少质疑，一项调查显示，75%的参与者不赞同更名。原因是将传统记忆改丢了，新路名不伦不类，没有弘扬传统文化，反倒是损害了历史感。<br/><div class="contheight"></div>大美恩施，无论自然风光还是文化传承，都有得天独厚的资源，也不乏名传四方的好地名。2017年湖北“寻找最美地名”评选活动中，恩施有11个地名入围，诸如最传统地名百福司、最诗意地名五花寨、最生态地名神农溪、最乡情地名陪嫁垭、舍米湖，等等，这都是生态文化旅游的特色啊。愿这种历史流传下来的好地名能照进现实，为恩施的道路命名、更名提供一点启示与借鉴，愿60条街道的新地名在汇集各方意见后，能一“名”惊人，成为大美恩施的新名片。<br/><div class="contheight"></div>（原题为《道路命名更名，听取民意才能越走越宽》）</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋子文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 道路更名，湖北恩施</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768612">
+<div class="nbgbox">
+<a class="zan" contid="2768612" href="javascript:;" onclick="voteCont(this)" praisetimes="17">
+                           16</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 道路更名</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768612&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768612&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

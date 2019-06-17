@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">维克勒马辛哈宣誓就任斯里兰卡总理</h1>
+<div class="news_about">
+<p>朱瑞卿、唐璐/新华社</p>
+<p>
+							2018-12-16 20:27<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="364" src="http://image.thepaper.cn/www/image/13/243/82.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">当地时间12月16日，斯里兰卡科隆坡，拉尼尔-维克勒马辛哈再次就职斯里兰卡总理。东方IC 图<br/><div class="contheight"></div></span>斯里兰卡前总理、统一国民党领袖维克勒马辛哈16日宣誓就任新一届政府总理。舆论认为，随着维克勒马辛哈出任总理，持续近两个月的斯里兰卡政局动荡有望告一段落。<br/><div class="contheight"></div>维克勒马辛哈当天在位于首都科伦坡的总统秘书处向总统西里塞纳宣誓出任总理。他在宣誓仪式结束后表示，新一届政府将致力于改善民生。<br/><div class="contheight"></div>2015年，统一国民党与西里塞纳领导的统一人民自由联盟组成联合政府，维克勒马辛哈出任总理。今年10月底，统一人民自由联盟退出政府，西里塞纳随后解除维克勒马辛哈总理职务，并任命前总统拉贾帕克萨为总理。<br/><div class="contheight"></div>维克勒马辛哈拒绝卸任，强调总理变更必须经议会投票通过。<br/><div class="contheight"></div>11月9日，西里塞纳签署公报，宣布解散议会，并于明年年初提前举行议会选举。一些政治党派质疑西里塞纳解散议会的合法性，并就此上诉至斯最高法院。<br/><div class="contheight"></div>11月13日，斯里兰卡最高法院颁布临时命令，中止执行西里塞纳政令。本月13日，最高法院裁定，西里塞纳解散议会并提前举行议会选举的决定违宪。<br/><div class="contheight"></div>斯里兰卡议会复会后已经两次通过对拉贾帕克萨及其政府的不信任案，还通过对维克勒马辛哈的信任案。拉贾帕克萨日前签署辞职文件，宣布辞去总理职务。 （原标题为《维克勒马辛哈宣誓就任斯里兰卡总理》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：汪伦宇<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 斯里兰卡 一带一路 南亚地缘政治</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2745012">
+<div class="nbgbox">
+<a class="zan" contid="2745012" href="javascript:;" onclick="voteCont(this)" praisetimes="92">
+                           91</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 斯里兰卡政局</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2745012&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2745012&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

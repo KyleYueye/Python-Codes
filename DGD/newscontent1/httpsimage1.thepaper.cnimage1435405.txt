@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">张扣扣自述曾在外打工多次被骗，“如果有钱了也不会杀人”</h1>
+<div class="news_about">
+<p>澎湃新闻记者 宋蒋萱</p>
+<p>
+							2019-01-08 15:28<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">因22年前目睹母亲被邻居打死，2018年2月，陕西汉中的张扣扣将邻居一家三口杀害。1月8日上午，张扣扣故意杀人、故意毁坏财物一案在陕西汉中市中院开庭审理。<br/><div class="contheight"></div>张扣扣供述了自己的经历，他称1999年7月初中毕业，半年后在新疆打了一年工，年底回家，之后至2014年他因找工作、学挖掘机被骗，还多次被骗入传销组织。他是一个有仇必报的人，当时就想以后要碰到骗他学挖掘机的人，他非要整死那人。<br/><div class="contheight"></div>2010年10月后他到广东找工作也不顺利，2011年至2016年底又到浙江绍兴、杭州工厂打工。<br/><div class="contheight"></div>2017年5月到8月他在太平洋斐济岛国打工3个月，在国外条件差，吃的也不好，工资也不高，公司领导还爱骂人，于是他又回到了老家。2017年8月后，他一直在老家新集镇待着，之后再也没有外出。<br/><div class="contheight"></div>张扣扣供述称，这些年他在外打工多次被骗，生活、工作也不太顺利，从他被骗后，他不相信任何人，只相信钱，但是他这些年来也没有挣到钱，手头上也没有多少存款，平时也是勒紧裤腰带生活。思想上压力非常大，腊月十几号为了安装电表的事情和他父亲大吵了一架，吵完架心里火很大，心想过了年不知道到底该干啥，出去打工也挣不到钱，现在生活不如意，打工也看不到啥希望。<br/><div class="contheight"></div>2017年腊月三十这一天，邻居王正军、王校军、王自新都在家，本来想等另一人王某军回来一起动手，但是王某军一直没有回来，他就动手杀人。<br/><div class="contheight"></div>张扣扣供述称，如果这些年他生活好了，有钱了，娶妻生子了，也不会发生杀人的事。<br/><div class="contheight"></div>张扣扣姐姐称，张扣扣性格有点内向，不说真心话。<br/><div class="contheight"></div>张扣扣堂妹称，张扣扣在外地打工，活的不如意，太累了。<br/><div class="contheight"></div>张扣扣的一位海外务工的工友称，张扣扣在海外打工时，曾因琐事和渔船上的工友吵架，拿菜刀被劝阻。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="2650" src="http://image.thepaper.cn/www/image/14/35/378.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);"><span style='font-family: "Hiragino Sans GB", "Microsoft Yahei", sans-serif; letter-spacing: 0.5px;'>微博@汉中中院 图</span></span></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周喜丰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 张扣扣 故意杀人 损毁财物</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827614">
+<div class="nbgbox">
+<a class="zan" contid="2827614" href="javascript:;" onclick="voteCont(this)" praisetimes="29">
+                           28</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 张扣扣案</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827614&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827614&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（59）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

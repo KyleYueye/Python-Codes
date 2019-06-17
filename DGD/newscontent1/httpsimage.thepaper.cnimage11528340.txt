@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">国家药品监管局：从重处罚疫苗违法行为，明确要“处罚到人”</h1>
+<div class="news_about">
+<p>澎湃新闻记者 庄岸</p>
+<p>
+							2018-10-22 19:23<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">长生问题疫苗发生后，药品监管制度拟进一步收紧。10月22日，国家药品监督管理局局长焦红在十三届全国人大常委会第六次会议上作了关于《药品管理法(修正草案)》的说明：全面实施药品上市许可持有人制度，强化对疫苗等特殊药品的监管，从重处罚违法行为。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）注意到，上述草案围绕问题疫苗案件暴露的突出问题、实施药品上市许可持有人制度和推进审批制度改革等方面进行修改并加强事中事后监管。<br/><div class="contheight"></div><strong>实施药品上市许可持有人制度，强化疫苗监管</strong><br/><div class="contheight"></div>“全面实施药品上市许可持有人制度，明确上市许可持有人对药品的安全、有效负责，对药品的研制、生产、经营、使用全过程依法承担责任。”焦红表示，草案要求药品上市许可持有人对已上市药品的安全性、有效性开展再评价；制定风险管控计划，定期报告药品生产销售、上市后研究、风险管理等情况。<br/><div class="contheight"></div>在药品监管制度上，草案强化了企业主体责任。“要求药品上市许可持有人、生产经营企业的法定代表人或者主要负责人对药品的质量和生产经营活动全面负责。”<br/><div class="contheight"></div>草案还补充规定了药品召回制度以及质量安全追溯要求：药品存在质量问题或者其他安全隐患的，应当立即停止生产、经营、使用并召回。药品上市许可持有人、生产经营企业、医疗机构应当建立、实施严格的追溯制度，保证全过程数据真实、准确、完整和可追溯。<br/><div class="contheight"></div>此外，草案还强化了对疫苗等特殊药品的监管。草案明确规定，除药品监管部门规定的情形外，疫苗等特殊药品不得委托生产；实行疫苗责任强制保险制度；要求采用信息化手段采集、留存疫苗追溯信息。<br/><div class="contheight"></div><strong>从重处罚疫苗违法行为，提高罚款上下限</strong><br/><div class="contheight"></div>在药品监管职责、措施上，草案要求药品监管部门对药品上市许可持有人、生产经营企业实施药品生产经营质量管理规范的情况进行检查，监督其持续符合要求；必要时可以对为药品研制、生产、经营、使用提供产品或者服务的单位和个人进行延伸检查；对疫苗等生物制品实施重点监督检查。<br/><div class="contheight"></div>“对有不良信用记录的单位增加监督检查频次，对违法行为情节严重的单位实施联合惩戒。”草案还要求建立并公布药品安全信用档案并增设了责任约谈制度：药品监管部门未及时发现药品安全系统性风险或者未及时消除隐患的，地方政府未履行药品安全职责或者未及时消除重大隐患的，可以对其主要负责人进行责任约谈。<br/><div class="contheight"></div>在处罚力度上，草案提高了对违法行为罚款的下限或者上限，例如，规定对未经许可生产经营药品的，罚款的幅度从货值金额的二倍至五倍提高到五倍至三十倍；对生产销售假药等违法行为增设停产停业等处罚；明确对生产销售属于假药、劣药的疫苗等6类违法行为，在法定幅度内从重处罚。<br/><div class="contheight"></div>草案还落实了“处罚到人”要求，对严重违法行为的责任人进行处罚。有生产销售假劣药、违反质量管理规范等行为的，对单位的法定代表人或者主要负责人、直接负责的主管人员和其他直接责任人员处以没收收入、罚款、十年直至终身禁业的处罚。<br/><div class="contheight"></div>此外，草案还细化并加重对地方政府负责人和监管人员的处分，对隐瞒、谎报、缓报药品安全事故等行为规定了严格的处分。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：朱远祥<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 药品监管 疫苗 处罚 药品管理法</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2553041">
+<div class="nbgbox">
+<a class="zan" contid="2553041" href="javascript:;" onclick="voteCont(this)" praisetimes="35">
+                           34</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 药品管理</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2553041&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2553041&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

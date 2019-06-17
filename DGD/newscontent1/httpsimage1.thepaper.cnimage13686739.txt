@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">安倍开始新年休假，享受在宾馆看电影、打高尔夫乐趣</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2018-12-29 21:25<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网12月29日电 据日媒29日报道，日本首相安倍晋三将在东京都内的宾馆度过岁末年初的假期。他享受看电影和打高尔夫球的乐趣，为迎接1月开幕的例行国会与外交活动而放松。<br/><div class="contheight"></div>安倍29日在千叶县内的高尔夫球场与胞弟众议员岸信夫等人一同打球。30日之后也计划打高尔夫和看电影。元旦将在皇宫出席新年祝贺之仪。<br/><div class="contheight"></div>1月4日，安倍计划在三重县伊势市例行参拜伊势神宫并召开新年记者会，5、6两天将回老家山口县为其父前外相安倍晋太郎扫墓等。<br/><div class="contheight"></div>其他朝野各党党首也将在都内或老家跨年。立宪民主党党首枝野幸男将在NHK红白歌会上为喜欢的偶像加油，转换心情。<br/><div class="contheight"></div>国民民主党党首玉木雄一郎将在老家香川县激励夜间警备活动等度过。同时也为例行国会的代表质询做准备。枝野、玉木两人4日也将参拜伊势神宫，分别召开新年记者会。<br/><div class="contheight"></div>公明党党首山口那津男将在都内家中大扫除。他干劲十足地称“想更换(日式)纸拉门的纸并清扫天花板上的灰尘”。1月2日将在JR新宿站进行例行的新春街头演说。<br/><div class="contheight"></div>共产党党首志位和夫将在千叶县船桥市的家中欣赏古典音乐。自由党联合党首小泽一郎元旦将在都内的家中邀请议员等举办新年活动。<br/><div class="contheight"></div>（原文标题：《 安倍开始新年休假 享受看电影与打高尔夫的乐趣》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 安倍,日本,新年</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2793767">
+<div class="nbgbox">
+<a class="zan" contid="2793767" href="javascript:;" onclick="voteCont(this)" praisetimes="63">
+                           62</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 安倍</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2793767&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2793767&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

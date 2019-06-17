@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25433">地产界</a>
+</div>
+<h1 class="news_title">平安50亿长租公寓REITs获批，将建200万间长租公寓</h1>
+<div class="news_about">
+<p>澎湃新闻记者 计思敏</p>
+<p>
+							2018-12-25 20:28<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="234" src="http://image.thepaper.cn/www/image/13/500/879.jpg" width="600"/></div>12月24日，上海证券交易所信息显示，“平安汇通-平安不动产朗诗租赁住房系列资产支持专项计划”获得通过，拟发行金额为50亿元。这也意味着国内首单合作型长租公寓储架REITs（房地产信托基金）正式获得通过。<br/><div class="contheight"></div>资料显示，该专项计划为REITs产品，由平安不动产有限公司联合深圳平安大华汇通财富管理有限公司共同实施，平安不动产担任原始权益人及増信安排人，平安汇通担任专项计划管理人，朗诗集团担任増信协调人。<br/><div class="contheight"></div>平安不动产表示，该产品采用储架发行机制，储架规模达50亿元，可在无异议函有效期内分期发行。其中，首期产品发行规模为10.68亿元，期限18年，每3年设置开放期，优先级证券获得了3A最高信用评级，底层资产为位于上海市浦东新区外高桥板块的朗诗寓森兰项目。<br/><div class="contheight"></div>业内人士指出，所谓储架发行是指，相当于“一次审核多次发行”的概念。发行人可拟定发行的证券规模，但不用立即发行有关证券，在指定期内等到合适的市场环境后再发行，对发行人而言操作更有弹性。<br/><div class="contheight"></div>朗诗寓森兰项目也是平安不动产涉足长租公寓的首个项目。该项目总建筑面积达4.35万平方米，由朗诗旗下品牌“朗诗寓”进行运营管理，房间共计752间，产品类型为白领公寓和精品公寓。<br/><div class="contheight"></div>2017年11月，平安不动产与朗诗旗下青杉资本签订协议，双方共同收购了上海森兰项目，拟将其改造为长租公寓进行长期运营。<br/><div class="contheight"></div>彼时，朗诗在公告中表示，将委托旗下长租公寓运营品牌进行运营管理及设计、改造等，合作基金将在项目稳定运营后寻求REITs（房地产信托基金）等方式退出。<br/><div class="contheight"></div>据悉，此次获批的合作型长租公寓REITs产品，入池资产全部为平安不动产和朗诗绿色集团共同投资运营的优质长租公寓项目，由平安不动产对专项计划进行增信，朗诗旗下长租公寓品牌“朗诗寓”进行运营管理。<br/><div class="contheight"></div>业内人士指出，金融工具已成为长租公寓发展的重要手段，资产证券化作为一种创新型融资方式越来越受到市场青睐，通过资产证券化，长租公寓的存量资产将得到有效盘活。作为最受期待的一类资产证券化产品，REITs是全产业链上的核心闭环，被视为长租公寓最重要的退出机制。<br/><div class="contheight"></div>市场机构报告显示，随着租赁市场利好通知密集出台，长租公寓资产证券化发展速度加快。2018年初至今，国内首单长租公寓及商办综合业态存量改造ABS、全国首单公共人才租赁住房类REITs、全国首单住房租赁储架式租金ABS项目、全国首单民企长租公寓储架式权益类REITs发行……各类长租公寓ABS如雨后春笋般奔涌而出。<br/><div class="contheight"></div>目前，长租公寓包括“集中式”和“分散式”两种运营模式，运营主体主要为国企、房企、品牌运营商、中介和酒店。而开发商进入长租公寓领域主要有两种方式，一种是单独成立长租公寓品牌，即自营长租公寓品牌；另一种是和专业的长租公寓运营公司合作。<br/><div class="contheight"></div>目前涉足长租公寓的开发商包括万科集团（000002.SZ）、碧桂园（02007.HK）、龙湖地产（00960.HK）、旭辉控股集团（00884.HK）、金地集团（600383.SH）、远洋集团（03377.HK）、华润置地（01109.HK）、保利地产（600048.SH）等等。<br/><div class="contheight"></div>平安不动产方面表示，未来十年内，平安不动产计划于北京、上海、广州、深圳、南京、杭州、成都、武汉及其它重点二线城市与省会城市，发展200万间、总面积约8000万平米的长租公寓，总资产管理规模达到2000亿元。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘秀浩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 房地产,楼市,平安不动产,长租公寓</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2774192">
+<div class="nbgbox">
+<a class="zan" contid="2774192" href="javascript:;" onclick="voteCont(this)" praisetimes="40">
+                           39</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 房地产市场</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2774192&caid=25433",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2774192&amp;caid=25433" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

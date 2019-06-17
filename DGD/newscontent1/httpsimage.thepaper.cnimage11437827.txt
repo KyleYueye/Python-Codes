@@ -1,0 +1,77 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评丨“权”莫以“特”为荣</h1>
+<div class="news_about">
+<p>澎湃特约评论员 陈曦</p>
+<p>
+							2018-10-19 08:21<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">湖南株洲县渌口镇派出所几个警察将该县育红小学三年级某班27岁何姓女教师直接从教室带走，并将其关押于审讯室长达七个多小时。事情起因于班里一个女孩的迟到，该老师让她在教室前面站了几分钟。而带警察到学校带走教师的派出所副所长正是被罚站女孩的父亲。<br/><div class="contheight"></div>隐匿在事件背后的不仅仅是警权边界明析与否的问题，还有潜移默化、深远持久的观念问题。这次事件中，折射出的则是特权意识对服务意识的遮蔽、异化与解构。<br/><div class="contheight"></div>在此事件中，派出所副所长显然没有分辨清自己的双重身份。作为公权力的执行者，他是人民警察，而作为女孩的父亲，他又是学生的家长。作为学生家长，赵某本应对教导其子女的老师心怀感激并予以尊重，但是他却因老师对自己的女儿几乎算不上体罚的“体罚”，利用自己的职业身份之便调动警力，将行政的特权施于何姓老师身上。<br/><div class="contheight"></div>特权是一种身份、背景和权力的象征。作为治安行政和刑事执法机关的公安机关，其武装性质在一定程度上赋予了警察某种专权。然而可以有专权，却不应有特权思想。“任何组织和个人都不得有超越宪法和法律的特权，绝对不允许以言代法、以权压法、徇私枉法。”行政法的程序正义性要求法无授权不可为，老师让学生罚站几分钟的行为本无太大过错，亦没有违反《治安管理处罚法》，派出所副所长赵某的行为，则是将公权力挪为私用，并使其凌驾于公民的自由权之上，以彰显其特权的“威武”与“荣耀”。<br/><div class="contheight"></div>在行使公权力的过程中更应注重对公民私权利的保障，审慎行使自己的职权，而不是在特权思维的主导下，将“别人做不到的我能做到，别人抓不了的人我能抓”贯彻到底，这种特权思想则是对其应承担的义务的否定。<br/><div class="contheight"></div>此外，特权思想的触手向学校的渗透与插足，亦会给教育事业带来负面影响，不利于老师在教学的过程中做到公平公正，一视同仁地对待每一个同学，而是或多或少地被这种权力关系干预。如老师在对某个同学做出褒奖或批评时，奖惩的轻重程度首先考虑到的不是学生的自身因素，而是其父母的身份地位和背景。而学生在意识到这些外在的隐性优势或者劣势后，也会产生一种自然而生的优越感或自卑感，使得或明显或模糊的等级链条就此形成。而这种特权主导下的排序思维，将会催熟学生，不利于形成学生健康成长的环境。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2543073" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">马上评丨还老师以公道，明警权以边界</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2542850" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">株洲县纪委监委调查“女教师被带至派出所”，19日公布结果</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2542815" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">株洲公安通报“教师罚站学生被关”：涉事副所长停止执行职务</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 警权边界,女教师</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2543239">
+<div class="nbgbox">
+<a class="zan" contid="2543239" href="javascript:;" onclick="voteCont(this)" praisetimes="252">
+                           251</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 警权边界</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2543239&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2543239&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

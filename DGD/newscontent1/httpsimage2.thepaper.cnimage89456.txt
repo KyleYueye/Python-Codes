@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜出国审批“逼疯”大学青椒，说好的“最多跑一次”呢</h1>
+<div class="news_about">
+<p>澎湃特约评论员 肖余恨</p>
+<p>
+							2018-07-18 13:44<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">《大学青椒：我快被学校的因公出国审批逼疯了……》一文，近日被刷屏。读罢十分茫然，不知道是该心疼这位青椒（高校青年教师），还是心疼“认真负责”的审批者们。油然想到国家正在力推的放管服改革，“只进一扇门、最多跑一次”。<br/><div class="contheight"></div>出国确实不是一件小事，自然涉及到种种规定，必须完成必要的程序，遵循最基本的原则，这个不难理解。因公出国可能因为原因不一样，事由不一样，因此需要的相关条件也不一样。但完全可以根据公费、自费、对方付费等分为几类，分别给出几种不同的格式以供选择。申请人可以按图索骥，对号入座、填表报批即可。<br/><div class="contheight"></div>但从当事人的叙述来看，远不是如此简单，整个过程堪称浩繁无比，多次反复堪称折腾。比如，明明是参加学术会议，怎么要对方出具“邀请单位的企业营业执照复印件”？这根本就是无厘头嘛。结果自然是没有，最后不也无碍审批吗？至于邀请信原件，在远程、电子函件已经越来越普遍的情况下，还拘泥于以往的旧规定，只能让当事人有苦难言。<br/><div class="contheight"></div>如此种种，都还不算什么！在已经完成了上述的审批要件的情况下，又多次因为无关宏旨的细节性问题，来回拉锯，这就说不过去了。要么，你给出一个规范文本，在容易出错的地方，加以特别提示和说明，如果因为申请者不细心，自然可以打回重来。在没有规范文本可以仿效的情况下，你也可以一次性将“当且仅当”的细节部分，标注出来，让申请人对照修改。这也没有，一次次反复，一次次打回，一次次修改。这已经不是苛刻，而是机械到令人发指了。且不说耗费大力的人力和时间，就这种貌似认真实则近乎无聊的技术性折腾，就很难不让人冒火。<br/><div class="contheight"></div>原则性当然需要坚持，但灵活性哪去了？灵活绝不是随意变通、钻政策空子，但在一些无关宏旨的细节方面，真的有必要这样“咬定青山不放松”吗？<br/><div class="contheight"></div>说到灵活性，讲一个小故事。这是不少人都可能遇到的问题。某人因公出差，买了单程票，办完公事之后，因故绕道去了另一个地方，回来报销遇阻。财务因为有要求，不予报销，理由是必须要有往返票。不知道这样的规定，想得到什么效果？难道给单位省一半差旅费也不行吗？为什么一定要有往返的双程票才能报销？在一些僵化的规定面前，类似这样的细节，你是一点脾气也没有。<br/><div class="contheight"></div>从主观上来说，我并不以为审批者是故意刁难，但这种刻舟求剑的态度，让人一点也不敢恭维。世界上凡事就怕认真二字，看来要有两种解释了，一种是只要认真，什么事都能办成。另一种认真，是要打个引号的，就像本文用的“他们”的态度，人基本上是要被逼疯了。这种“认真”，是要搞死人的！<br/><div class="contheight"></div>都说活人不会被尿憋死，我看是没有遇到“他们”。“他们”并不孤单，在高校中，刻舟求剑的管理何止存在于出国审批？科研经费报销，哪个过来人不是被扒了一身皮？在今年两院院士大会上，习近平总书记专门强调：不能让繁文缛节把科学家的手脚捆死了，不能让无穷的报表和审批把科学家的精力耽误了。<br/><div class="contheight"></div>需要解放的，不只是院士。是时候借“只进一扇门、最多跑一次”的东风，在高校、科研机构来一场放管服改革，系统清理过时的、不合理的管理规定了。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 出国审批</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2272817">
+<div class="nbgbox">
+<a class="zan" contid="2272817" href="javascript:;" onclick="voteCont(this)" praisetimes="36">
+                           35</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 审批</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2272817&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2272817&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（75）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

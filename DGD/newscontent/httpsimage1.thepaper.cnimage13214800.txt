@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">奥地利前总统菲舍尔：相信中国将继续推行改革开放政策</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-15 10:37<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">奥地利前总统、奥中友协主席菲舍尔近日表示，改革开放40年,“中国发生了令人难以置信的变化”，相信中国将继续很好地推行改革开放政策。<br/><div class="contheight"></div>1974年，菲舍尔作为奥地利国民议会年轻议员，第一次踏上中国土地，访问了北京、上海和广州。迄今他已经10次到访中国。菲舍尔在接受新华社记者书面采访时说：“前后40多年，从历史上讲，时间很短，然而中国发生了令人难以置信的变化。”<br/><div class="contheight"></div>1974年，中国与拉美、北非地区一些国家处于同一发展水平，技术设备短缺，医疗保健水平低，农民生活困难，劳动主要靠人力或者最简单的机器。菲舍尔回忆说，在北京和上海，主要是一两层高的建筑，北京饭店是当时北京最高的建筑之一。<br/><div class="contheight"></div>“而过去40年，中国经济保持高速增长，今天的中国正在与世界领先的工业化国家展开竞争。”<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="404" src="http://image.thepaper.cn/www/image/13/214/798.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">奥地利前总统菲舍尔。视觉中国 资料图<br/><div class="contheight"></div></span>2016年卸任奥地利总统后，菲舍尔担任了奥中友协主席，继续关注并推动奥中关系发展。作为一名法学家，他特别关注中国在法治建设上的努力。今年6月，奥中友协与中国人权研究会代表团在维也纳举行研讨会，讨论中国人权发展。2019年双方还将在维也纳举行相关研讨会。<br/><div class="contheight"></div>菲舍尔说，随着中国国力的上升，中国在国际舞台上也发挥着重要作用。<br/><div class="contheight"></div>“在一个动荡的世界里，孔子所宣扬的爱好和平，以及他对一个大而和谐的、至于当代应再加上平等的国际社会的想法，非常重要。”他说：“中国领导人对中国先哲的成就感到骄傲，这是有道理的。”<br/><div class="contheight"></div>菲舍尔说，中西方文化应相互补充，各方不能仅局限于单一的文化理论观点。当下，在某些国家民族主义潮流有所抬头。如果所有国家都按照“本国第一”的原则行事，那世界可能会重新回到民族主义占主导地位的状况。<br/><div class="contheight"></div>菲舍尔表示，相信中国将继续推行改革开放政策。中国致力于国际团结，欧盟对中方这一立场表示欢迎。“中国在互惠的基础上进一步开放，对所有参与者都是有利的。”<br/><div class="contheight"></div>（原标题 《专访：相信中国将继续推行改革开放政策——访奥地利前总统菲舍尔》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 改革开放40年</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2742028">
+<div class="nbgbox">
+<a class="zan" contid="2742028" href="javascript:;" onclick="voteCont(this)" praisetimes="44">
+                           43</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 改革开放40年</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2742028&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2742028&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

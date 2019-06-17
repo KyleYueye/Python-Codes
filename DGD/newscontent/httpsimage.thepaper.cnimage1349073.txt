@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">“民警偷拍副局长通奸案”续：副局长因受贿罪获刑五年三个月</h1>
+<div class="news_about">
+<p>徐慧兴/都市快报</p>
+<p>
+							2018-12-25 17:15<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">昨天（24日）上午8:30，台州黄岩公安分局刑侦大队原民警池文涉嫌侵犯公民个人信息罪一案在临海市人民法院第二审判庭公开开庭审理。<br/><div class="contheight"></div>自2017年3月起，池文在得知其上司，时任台州市黄岩公安分局党委副书记、副局长周祥辉与一女子有婚外情后，对周进行了长达半年的跟踪偷拍。<br/><div class="contheight"></div>通过在一别墅地下车库安装摄像头，池多次拍到周与一女子在地下车库发生性关系的视频影像。他将音、视频资料刻盘寄送黄岩区纪委和台州市公安局，举报周涉嫌违法违纪。<br/><div class="contheight"></div>2017年7月，周察觉自己被偷拍后，向警方报案，称其私家车保险杠的底部被人安装了GPS定位跟踪器。池因侵犯隐私先后被黄岩公安分局处以禁闭7日，行政拘留6日。<br/><div class="contheight"></div>作为被举报人的周则因“未造成不良影响”未获处分，之后，被调离至另一单位担任副局长。<br/><div class="contheight"></div>2018年4月，池不服处罚，将黄岩公安分局告上法庭。<br/><div class="contheight"></div>2018年5月14日，黄岩区纪委决定对周的违纪问题予以党纪立案审查，周的职务被暂停。<br/><div class="contheight"></div>5月21日，黄岩区再发通报，黄岩区综合行政执法局（城市管理局）党委委员、副局长周祥辉因涉嫌严重违纪违法，接受纪律审查和监察调查。<br/><div class="contheight"></div>同天，台州玉环市人民法院对池文提起的行政诉讼案作出一审行政判决，认为黄岩警方适用法律、法规正确，符合法定程序，驳回其诉讼请求。<br/><div class="contheight"></div>5月25日，池文因涉嫌侵犯公民个人信息罪，被临海警方采取刑事强制措施。<br/><div class="contheight"></div><strong>周祥辉因受贿罪被判有期徒刑五年三个月</strong><br/><div class="contheight"></div>12月17日，黄岩区人民法院对周祥辉受贿案进行一审公开开庭审理并当庭宣判，对被告人周祥辉以受贿罪判处有期徒刑五年三个月，并处罚金人民币三十万元，对其退缴的违法所得予以没收，上缴国库。<br/><div class="contheight"></div>黄岩区人民法院经审理查明：2002年至2017年期间，被告人周祥辉利用担任台州市公安局黄岩分局城关派出所所长、黄岩分局副局长等职务便利，为他人在处理工程纠纷、追回赔偿款等方面提供帮助，索取或多次收受他人财物，共计人民币218.2万元。案发后，被告人周祥辉退缴了全部赃款。<br/><div class="contheight"></div>黄岩区人民法院认为，被告人周祥辉身为国家工作人员，利用职务上的便利，索取或非法收受他人财物，为他人谋取利益，数额巨大，其行为已构成受贿罪。鉴于被告人周祥辉到案后如实供述办案机关已掌握的索贿事实外，又主动交代办案机关尚未掌握的受贿事实，具有坦白情节，且已退缴全部赃款,认罪、悔罪态度较好，黄岩区人民法院依法并酌情予以从轻处罚，遂作出上述判决。<br/><div class="contheight"></div>此前，经黄岩区委批准，黄岩区纪委、区监委已决定给予周祥辉开除党籍、开除公职处分。<br/><div class="contheight"></div>（原标题：《民警涉嫌侵犯个人信息罪昨天开庭 副局长已被判刑，罪名是受贿》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周琦<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 偷拍 通奸 副局长</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772983">
+<div class="nbgbox">
+<a class="zan" contid="2772983" href="javascript:;" onclick="voteCont(this)" praisetimes="146">
+                           145</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 偷拍上司通奸</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772983&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772983&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（81）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

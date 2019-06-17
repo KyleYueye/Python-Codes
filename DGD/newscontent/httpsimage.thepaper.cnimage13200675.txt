@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">外交部：加拿大两名公民被拘押与孟晚舟案是两件事</h1>
+<div class="news_about">
+<p>外交部网站</p>
+<p>
+							2018-12-14 19:19<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">外交部网站消息，2018年12月14日，外交部发言人陆慷主持例行记者会 。以下为部分实录。<br/><div class="contheight"></div><strong>问：中国政府和加拿大政府就两名加公民被拘押一事及孟晚舟案的沟通有无最新进展？<br/><div class="contheight"></div>答：</strong>这是两件事情。关于孟晚舟女士被错误拘押的事件，中方一直要求加拿大政府立即纠正错误，立即释放孟晚舟女士。关于你提到的两个加拿大公民在中国被依法采取强制措施的事情，我可以告诉你的是，中加双方保持着正常的领事沟通。<br/><div class="contheight"></div><strong>问：中方是否允许加拿大方面对两名被拘押的加公民进行领事探视？<br/><div class="contheight"></div>答：</strong>我昨天说过，他们的合法权益得到了保障。<br/><div class="contheight"></div><strong>问：我注意到，昨天晚上，中方在加拿大驻华使馆外增派了警力，这是否是由于考虑到社交媒体上有抵制加拿大商品的呼声、中国民众反加情绪高涨？<br/><div class="contheight"></div>答：</strong>第一，我没听说你讲的情况。第二，你的联想可能有一定的道理。加拿大政府根据美国意愿拘押中国公民孟晚舟女士的错误行径确实在中国社会引起了广泛的愤怒。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 加拿大公民被拘捕,孟晚舟案</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2740503">
+<div class="nbgbox">
+<a class="zan" contid="2740503" href="javascript:;" onclick="voteCont(this)" praisetimes="976">
+                           975</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 外交部例行记者会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2740503&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2740503&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（166）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

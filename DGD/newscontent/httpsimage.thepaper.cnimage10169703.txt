@@ -1,0 +1,87 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">中国法律服务网上线百天，18省份可在线办理法律援助、公证</h1>
+<div class="news_about">
+<p>澎湃新闻记者 邵克 实习生 苏琦</p>
+<p>
+							2018-09-05 11:59<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<script src="//file.thepaper.cn/www/v3/js/jwplayer7.1.4.js" type="text/javascript"></script>
+<script type="text/javascript">jwplayer.key="JYFbHxc36sStM1VSc1vvyI42CCrHFlTZcWEYUA==";</script>
+<div class="news_video_name">
+<style type="text/css">
+							#player_wrapper{width:669px;height:377px;}
+							#player_wrapper .player_err_tip{width:669px;height:377px;display: none;vertical-align: middle;background-color: black;color: white; text-align: center;}
+							.jw-tab-focus:focus{outline:none;}
+						</style>
+<div id="player_wrapper">
+<div class="player_err_tip" id="Text">抱歉!<br/>您的浏览器可能不支持此视频播放器，请用更高版本的浏览器试试！</div>
+</div>12348 老百姓贴身的免费法律顾问 宣传片 来源： 司法部政府网(04:21)
+					</div>
+<div class="news_txt" data-size="standard">从5月20日正式上线至今，中国法律服务网已经运行100天。9月5日在司法部举行的新闻发布会上，司法部部长傅政华介绍，中国法律服务网以及各省法律服务网已经累积访问4500万人次，注册用户130万人，法律咨询170万余次，在线办事21万件。其中湖南、江西、上海等18个省级法网已经与法律援助、公证、调解等多个业务系统完成对接，社会公众可在线办理法律援助、公证服务、律师服务等服务事项。<br/><div class="contheight"></div>傅政华介绍，其中司法部部级法律服务网已累计访问已经达到381万人次, 注册社会公众67万余人，法律咨询总量达31万余次，出具法律咨询意见书近10万份，用户满意度达到92.5%。<br/><div class="contheight"></div>傅政华介绍，上线以来，中国法律服务网，咨询功能从原来的离婚纠纷、继承纠纷、交通事故、借贷纠纷、劳动纠纷、工伤赔偿六类业务，现在从类型上扩充到十种，新增了购房纠纷、物业纠纷、产品质量、分期购买电子产品这四种纠纷类型，基本覆盖了群众身边的民生法律事务。<br/><div class="contheight"></div>在加强运营管理，提升服务质量方面，司法部建立留言咨询首答负责制和质检机制，制定了公众投诉处理办法和法律服务人员评优、奖励和退出办法。<br/><div class="contheight"></div>司法部介绍，2017年以来，司法部提出将“互联网+”全面应用于公共法律服务领域，建设中国法律服务网，并将中国法律服务网作为公共法律服务体系建设中最主要、最直接的一项工作大力推进。<br/><div class="contheight"></div>中国法律服务网的体系架构纵向由部、省两级平台组成，横向由门户网站、“掌上12348”微信公众号、移动客户端组成。截至2018年3月底，全国31个省（区、市）和新疆生产建设兵团共32个省级平台全部建成上线并与部级平台实现互联互通。至此，全系统上下一体、协同联动的“互联网+法律服务”体系基本建成。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2141133" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">司法部中国法律服务网上线，建设群众喜爱的“法律淘宝网”</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = 'http://cloudvideo.thepaper.cn/video/ddae61f73c004d29812727a9d908349c/hd/b8382a0e-c2d4-4ca5-b18c-3f46be86895e-7c8b7a02-67ec-6162-9be8-45a92491ef04.mp4',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'//image1.thepaper.cn/image/10/169/737.jpg',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：胥辉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 法律援助 法律服务 法律服务网</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2410358">
+<div class="nbgbox">
+<a class="zan" contid="2410358" href="javascript:;" onclick="voteCont(this)" praisetimes="120">
+                           119</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 司法部中国法律服务网</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2410358&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2410358&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

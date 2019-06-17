@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜无论支教还是公益，为什么女生总容易受伤害？</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-07-24 16:21<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日有两桩事情对善良的人们伤害很大，尤其是对善良的女生。<br/><div class="contheight"></div>第一桩，南京大学支教类社团“彩云协会”发布声明，称在云南省镇雄县尖山乡尾坝村山顶小学支教时，出现多起女队员被当地游民骚扰的事件，包括言语骚扰、行为骚扰、偷看换衣、偷内衣裤等。还有当地人偷拍女队员洗澡，并将偷拍视频传播。支教活动因此被迫提前结束。<br/><div class="contheight"></div>第二桩，公益圈接连曝出性侵和性骚扰事件。有女生发长文指控知名公益人、“亿友公益”创始人雷闯曾性侵自己。雷闯发声明承认性侵指控，表示考虑向警方自首。之后，袁天鹏、冯永锋等公益人士也被指控性骚扰。<br/><div class="contheight"></div>支教、公益本来是多么明媚的字眼，却曝出这么阴暗的丑闻。女生们参加这些活动，都是出于帮助他人的美好初衷，结果自己却成为他人觊觎的“猎物”，这是怎样一种欺骗与伤害？<br/><div class="contheight"></div>女大学生去山村支教被骚扰，很多人说“穷山恶水出刁民”。可是将保护女生的责任推给山和水欠缺说服力。可能确实存在一些地方民风不正。这需要组织者提前做好了解，有针对性地进行安排，也需要当地政府做好安全保障。<br/><div class="contheight"></div>但女生们面临的风险不仅来自部分地方的恶劣民风。那些有头有脸的公益人士跟“穷山恶水”有关系吗？<br/><div class="contheight"></div>这些事情只能说明，当今世界的女性生存环境仍然很不如人意。当她们需要保护的时候，她们在独自承受伤害与苦痛。社交媒体给了她们发声的机会，也使人们看到了她们的脆弱与孤独。<br/><div class="contheight"></div>而公益圈曝出的性侵、性骚扰事件，无疑更加使人“三观尽碎”。公益最需要的是信任，人们不求公益人士都是圣人，但公益人士不能是侵犯、伤害弱者的坏人。这是最起码的职业要求。<br/><div class="contheight"></div>然而令人愤怒的是，有公益圈人士公然为性侵者辩护，甚至侮辱、咒骂不甘沉默的受害者。同样堪称荒诞的一幕是，冯永锋承认性骚扰的文章“不小心”开通了赞赏功能，已有数十人赞赏打钱。<br/><div class="contheight"></div>这些人或许以为性侵的恶可以拿从事公益的好来抵消，私德与公益可以分开，但这只是无耻的狡辩。那些无辜而善良的女生，凭什么要遭受伤害？<br/><div class="contheight"></div>这些形象崩塌的公益名人及其三观不正的伙伴、追随者，虽然不能代表整个公益界，但他们已经对公益事业造成了巨大的伤害。他们的存在是公益事业进步的障碍，因为他们伤害了民间公益的公信力和感召力。这些歪风邪气要杀一杀了。<br/><div class="contheight"></div>有些地方不安全，有些圈子很肮脏，这使我们对那些心存美好的女生感到很惭愧。当她们揣着梦想出发的时候，得到的不应该只有“注意保护自己”的忠告，而应该是一个能够兑现的安全许诺。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 性骚扰 公益 支教</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2288736">
+<div class="nbgbox">
+<a class="zan" contid="2288736" href="javascript:;" onclick="voteCont(this)" praisetimes="257">
+                           256</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 性骚扰</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2288736&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2288736&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（62）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

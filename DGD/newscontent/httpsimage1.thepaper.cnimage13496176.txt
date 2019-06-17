@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">重庆一60岁醉酒男子抓扯公交车方向盘被刑拘</h1>
+<div class="news_about">
+<p>夏祥洲/上游新闻</p>
+<p>
+							2018-12-25 18:44<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">上游新闻12月25日消息，上游新闻·重庆晚报慢新闻记者25日从永川区公安局获悉，本月19日，九龙坡一醉酒男子乘坐永川一公交车时，抓扯方向盘，目前该男子已被刑拘。<br/><div class="contheight"></div>19日晚上9点左右，永川一辆公交车上发生惊险一幕：一名男乘客与公交车驾驶员发生争执后，竟动手拖拽驾驶员手中的方向盘，好在驾驶员反应敏捷，紧急制动把车停了下来，未发生严重后果。<br/><div class="contheight"></div>原来当天晚上8点过，喝醉酒的这名男乘客在永川中学公交车站上车，准备坐车到兴龙苑。坐到君临棠城时，男子感觉自己坐过站了，要求公交车司机李师傅将自己拉回兴隆苑。李师傅解释，还没到兴龙苑，让其回去坐好。男子直接从包里掏出10块钱，说：“我有的是钱，快把我拉回去。”话音刚落，便把钱扔给李师傅，李师傅知道他喝多了酒，便劝说他赶紧回到座位上坐好，男子骂骂咧咧回到座位上。<br/><div class="contheight"></div>过了一会，男子总觉得自己离要下车的地方越来越远，感觉李师傅是故意为难他，情绪激动，将车上一个塑料桶扔向李师傅，还走到驾驶室推搡李师傅，紧接着拖拽方向盘。这一举动让李师傅和车上其他乘客受到惊吓，李师傅赶紧刹车，好在车辆刚起步，车速不快，未造成严重后果。<br/><div class="contheight"></div>车上乘客见状，纷纷怒怼男乘客的不文明言行，李师傅也连忙报了警。报警后，男子说要下车买烟，李师傅怕男子逃走，便将车门关闭。此时，醉酒男子更是火冒三丈，对李师傅又打又骂，后来派出所民警赶到现场，将该名男子带回派出所做进一步调查。<br/><div class="contheight"></div>酒醒后，男子合某（男，60岁，九龙坡区人）对自己的行为后悔不已，承认了自己的错误。目前，合某已被依法刑事拘留。案件正在进一步办理中。<br/><div class="contheight"></div>（原题为《醉酒男子抓扯公交车方向盘，刑拘了》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 抢夺公交车方向盘,醉酒</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2773673">
+<div class="nbgbox">
+<a class="zan" contid="2773673" href="javascript:;" onclick="voteCont(this)" praisetimes="28">
+                           27</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 抢夺公交车方向盘</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2773673&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2773673&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

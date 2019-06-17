@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">优酷将起诉自媒体传播“优酷被收购”谣言，索赔1000万</h1>
+<div class="news_about">
+<p>卢扬 胡晓钰/北京商报</p>
+<p>
+							2019-01-10 15:44<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">北京商报1月10日报道，当日，优酷对外宣布将起诉网络自媒体“BiaNews（鞭牛士）”传播不实信息，侵犯优酷商誉，索赔1000万元，并要求对方在官方渠道公开道歉。<br/><div class="contheight"></div>事件源于“鞭牛士”在1月9日晚间通过其官方网站发文《消息称今日头条已达成对优酷收购》，文章称“有知情人士向BiaNews透露，今日头条已达成对优酷的收购，正在与西瓜视频对接业务。”截止1月10日中午，“鞭牛士”尚未删除此条消息。<br/><div class="contheight"></div>事实上，关于优酷“被收购”的消息从去年12月至今一直被多方传播。12月下旬，曾有媒体引用未经官方证实的消息称，“今日头条母公司字节跳动正在与阿里巴巴集团洽谈收购优酷和阿里音乐相关业务，据称，洽购金额高达 50 亿美元”。对此，优酷、今日头条双方均第一时间辟谣为不实消息。阿里巴巴合伙人、阿里大文娱轮值总裁、优酷总裁樊路远回应称“胡说八道”，证实收购一事纯属谣言。早在12月6日，樊路远在以“投入不变、决心不变、信心不变、耐心不变”为题在给优酷全员信中表示：阿里对大文娱、对优酷、对内容产业投入的决心、信心、耐心都不会改变。这也是2016年大文娱成立之初阿里巴巴一直以来的态度。“大文娱是阿里进入数字化时代面向未来发展非常重要的战略选择。文娱产业再难做，阿里也会不断的探索创新做到底。”樊路远强调，在“优质”、“健康”的基础上，优酷的投入力度还会加大，而不是收缩。<br/><div class="contheight"></div>在此背景下，优酷方面表示，鞭牛士在未向优酷和今日头条双方求证的情况下，进一步传播今日头条已完成收购优酷的不实信息，在优酷公开辟谣后仍未及时修改、删除相关不实信息，对优酷的商誉造成恶劣影响。对此，优酷将就此起诉索赔1000万，并要求鞭牛士在其官方渠道公开道歉，以消除其传播不实信息带来的负面影响。 <br/><div class="contheight"></div>（原题为《优酷将起诉自媒体鞭牛士传播“被收购”谣言》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 优酷,起诉自媒体,谣言</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836668">
+<div class="nbgbox">
+<a class="zan" contid="2836668" href="javascript:;" onclick="voteCont(this)" praisetimes="26">
+                           25</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 优酷</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836668&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836668&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25464">澎湃质量报告</a>
+</div>
+<h1 class="news_title">韩国民官联合调查组：宝马隐瞒车辆缺陷并推迟召回 </h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2018-12-24 17:05<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网12月24日电 据韩联社报道，韩国国土交通部和宝马起火事件民官联合调查组24日发布关于宝马起火事件的最终调查报告。报告指出，宝马公司隐瞒车辆自身缺陷，并蓄意推迟召回。韩国政府将基于报告结果追究宝马公司的刑事责任，并处以112亿韩元的罚款等。<br/><div class="contheight"></div>据报道，调查组表示，宝马起火事故的原因是废气再循环系统的冷却器设计存在缺陷导致冷却剂泄露。宝马公司曾表示，公司在今年7月才发现系统安全隐患。但调查指出，这种说法并不属实。据调查，宝马公司在起火事故发生前已发现车辆缺陷。宝马总部曾于2015年10月和2016月11月成立特别工作组，并采取变更发动机设计等应对措施。<br/><div class="contheight"></div>此外，调查组还认定宝马懈怠对待召回。今年7月，韩国宝马公司针对10.6万辆问题柴油车进行召回，但部分车型不在召回范围内。调查组就此提出质疑后，宝马才于今年9月追加召回6.5万辆汽车。<br/><div class="contheight"></div>韩国国土部相关人士表示，将根据此次调查结果尽快采取相关应对措施，包括针对宝马公司提起刑事诉讼、罚款并要求追加召回等。韩国国土部还将呼吁国会尽早通过召回制度改革相关法律修订案，保障国民安全。<br/><div class="contheight"></div>韩国宝马公司24日回应联合调查组的报告，否认贻误召回时机造成火灾频发，并反驳了报告中关于“设计有缺陷”的最终结论。<br/><div class="contheight"></div>宝马称，该公司在确认车辆行驶自燃原因后立即启动车辆召回，酿成火灾的冷却器开裂漏水并不是废气再循环系统的设计缺陷造成的。<br/><div class="contheight"></div>（原题为《韩民官联合调查组：宝马隐瞒车辆缺陷并推迟召回》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：崔烜<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 宝马 韩国</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2769237">
+<div class="nbgbox">
+<a class="zan" contid="2769237" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 宝马</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2769237&caid=25464",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2769237&amp;caid=25464" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

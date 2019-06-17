@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜小伙扶人反被讹，这一次“好人必须有好报”</h1>
+<div class="news_about">
+<p>澎湃特约评论员 西蒙</p>
+<p>
+							2018-09-14 18:25<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2439984" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜小伙扶人反被讹，这一次“好人必须有好报”" src="//image.thepaper.cn/image/10/444/566.jpg"/>
+</a>
+<div class="atlas_360_txt">浙江“扶人被讹”男子已获立案：要求被告登报道歉并赔偿1元<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">做好事反被讹，类似的新闻记不清有多少回了。让好人有好报，让讹人者付出法律的代价，社会才不会纠结“扶不扶”。<br/><div class="contheight"></div>浙江金华的滕先生好心扶起身后骑车摔倒的男子，却被对方说成是被自己撞倒，幸亏交警通过附近监控查清了真相。据澎湃新闻报道，今天上午，金华市婺城区法院受理了滕先生的诉讼请求，原告请求法院判令被告在当地媒体刊登致歉声明，赔偿精神损害抚慰金1元。 <br/><div class="contheight"></div>如果做好事都要冒着道德和法律上的风险，谁还愿意“路见不平一声吼”呢？也正因此，每当类似事件发生后，舆论都要把“彭宇案”以来的各种令人心寒的案件历数一遍，控诉讹人者没有良心，缺乏底线，同时也只能对被讹者报以同情。 <br/><div class="contheight"></div>但发生在金华的这起事件，却让我们看到在道德谴责之外法律维权的可能性。正如滕先生所说，“起诉并非为了赔偿，希望为自己讨个公道”。 <br/><div class="contheight"></div>不少讹人者之所以敢突破底线，反咬一口，就是因为他们自以为这样做没有风险，即使真相大白，最多也就是言语上的批评，而多数人也有一套“自辩”的方法，起码能让自己不被追究更多责任。既然突破底线的成本这么低，那些缺乏道德观的人就很容易作出讹人的事。<br/><div class="contheight"></div>从道德谴责到法律惩处，不仅是一个惩戒量度的变化，也是案件关注度、重要性的巨大差异。从某种意义上说，正是因为过去类似事件太多了，但讹人者却很少被追究法律责任，才纵容很多人毫无底线、继续为恶。此案最终判决结果不论如何，必将起到警醒世人、匡正世风的意义。 <br/><div class="contheight"></div>滕先生起诉讹人者，绝大多数网友表示支持。在我看来，这是对此前多起做好事反被讹事件情绪的集中宣泄，是舆论对“好人必须有好报”最朴素的情感表达。<br/><div class="contheight"></div>从法院受理情况看，被告将面临登报道歉和赔偿精神损害抚慰金两重处罚。这小小的1元钱，主要是法律惩处意义上的赔偿。按照法律精神，精神损害抚慰针对的是客体精神利益的损害，但可能不涉及更大的权益损害，因而在赔偿金额上较低。不过这却明确了案件的性质：涉及赔偿金额，就意味着侵犯了他人的合法权益，就要进入法律程序，而不仅是道德上的谴责。 <br/><div class="contheight"></div>目前针对见义勇为反被讹的问题，还没有专项法律来应对，但随着舆论对类似案件关注度上升，以及被讹者维权意识的不断提升，司法介入的情况会越来越多。期待法院作出公正的裁决。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 扶人被讹</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2441946">
+<div class="nbgbox">
+<a class="zan" contid="2441946" href="javascript:;" onclick="voteCont(this)" praisetimes="359">
+                           358</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 扶人被讹</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2441946&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2441946&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（697）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">日本推《防卫计划大纲》之际，俄在争议岛屿建军营引日方抗议</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-18 18:13<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">在日本出台新版《防卫计划大纲》之际，俄罗斯国防部证实俄军正在日俄争议的南千岛群岛（日方称“北方四岛”）上修建新的军营建筑，此举引发日本政府的抗议。<br/><div class="contheight"></div>据路透社周一报道，俄罗斯国防部当日表示，俄罗斯已在南千岛群岛中的国后岛和择捉岛上完成了四处驻军营房的扩建，俄军部队将于下周入驻。<br/><div class="contheight"></div>日本防卫省当日就此事回应称，已经注意到俄方在国后岛和择捉岛上部署了3500名军人。日本外相河野太郎在新闻发布会上评论称，日本将对此事进行严肃的抗议。日本政府曾在今年七月要求俄方减少在南千岛群岛区域的军事活动，但没有得到克里姆林宫的积极回应。<br/><div class="contheight"></div>“我们将对（俄军的部署）提出抗议。”河野太郎表示。<br/><div class="contheight"></div>路透社报道称，此前克里姆林宫已经宣布将在明年1月21日接待日本首相安倍晋三来访。两国首脑届时将探讨如何解决两国之间关于南千岛群岛地位的争议。<br/><div class="contheight"></div>上个月14日的俄日首脑会谈举行后，多家日媒报道称会谈在南千岛群岛问题上取得了重大突破。安倍在会谈后公开表示，俄罗斯已基本答应尽快同日本签署和平条约，并可能按照1956年《日苏共同宣言》，在和平条约签署后，将北方四岛中的齿舞群岛和色丹岛移交给日本。<br/><div class="contheight"></div>二战后，因南千岛群岛归属问题，俄日争议严重，双方至今未缔结和平条约。二战结束以来，南千岛群岛一直由俄方实际控制。俄方认为，日本要求归还南千岛群岛，即是要求重新定义二战战败结果。日本一直主张将齿舞、色丹、国后、择捉四岛全部还给日本，导致和平条约谈判陷入僵局。此前新加坡日俄首脑会谈后安倍调整交涉方向，转而寻求先行返还二岛的方针，但是并未取得实质性进展。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：汪伦宇<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 俄日关系 北方四岛 南千岛群岛</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2749940">
+<div class="nbgbox">
+<a class="zan" contid="2749940" href="javascript:;" onclick="voteCont(this)" praisetimes="37">
+                           36</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 南千岛群岛</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2749940&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2749940&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

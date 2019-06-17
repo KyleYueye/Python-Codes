@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25574">翻书党</a>
+</div>
+<h1 class="news_title">《汪曾祺全集》出版，收入其迄今为止全部作品和日常文书</h1>
+<div class="news_about">
+<p>史竞男/新华社</p>
+<p>
+							2019-01-10 18:21<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社1月10日报道，由人民文学出版社推出的《汪曾祺全集》日前出版。该全集收入迄今为止发现的汪曾祺全部文学作品以及书信、题跋等日常文书，共400多万字。<br/><div class="contheight"></div>汪曾祺(1920—1997)，江苏高邮人，中国现当代著名作家。他从1940年开始发表作品，其创作生涯历经半个世纪，跨越两个时代。他前承五四新文化传统、师从沈从文，后启寻根文学回归民族传统的思潮。他的创作小说、散文、戏剧、文论、新旧体诗等诸体兼备，皆取得很高艺术成就。<br/><div class="contheight"></div>据人民文学出版社有关负责人介绍，汪曾祺的作品深受中外读者喜爱，也是文学研究者普遍关注的对象。为此，人民文学出版社发动社会力量、组织专家学者，钩沉辑佚、考辨真伪、校勘注释，以8年时间编辑出版了这部《汪曾祺全集》。全集共分12卷：小说3卷，散文3卷，戏剧2卷，谈艺2卷，诗歌及杂著1卷，书信1卷，并附年表。<br/><div class="contheight"></div>全集新收佚文数量如下：小说28篇，其中25篇创作于民国时期；散文卷、谈艺卷新收文章合计100多篇；剧作7部；诗歌卷收录汪曾祺诗歌257首；书信卷收293封。从文类看，不仅收入汪曾祺创作的文学作品，也收入了他整理的民间文学作品；不仅收入迄今发现的全部书信，还收入了书封小传、题词、书画题跋等日常文书。<br/><div class="contheight"></div>（原题为《&lt;汪曾祺全集&gt;出版》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 《汪曾祺全集》出版,人民文学出版社</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837248">
+<div class="nbgbox">
+<a class="zan" contid="2837248" href="javascript:;" onclick="voteCont(this)" praisetimes="27">
+                           26</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 汪曾祺</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837248&caid=25574",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837248&amp;caid=25574" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

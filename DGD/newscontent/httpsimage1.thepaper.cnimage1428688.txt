@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">北京媒体披露：北大医学部迁至怀柔科学城东区</h1>
+<div class="news_about">
+<p>北京日报客户端</p>
+<p>
+							2019-01-08 12:00<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月8日上午，记者从正在召开的北京市密云区二届人大五次会议上获悉，今年怀柔科学城东区即密云地块将积极推进北京大学密云分校的建设，未来北大医学部将转移至密云。紧挨教学区域还将由北大医学部主导建设一所三甲级研究型医院。<br/><div class="contheight"></div>与此同时，一所由北京大学全权管理的十二年一贯制学校和幼儿园正在优化选址方案，将紧挨北大医学部地块，初步设计招生规模84个班，力争在今年三月开工。<br/><div class="contheight"></div>据怀柔科学城密云筹备办副主任曹文秀介绍，在怀柔科学城东区周边，密云将加快布局配套产业基地，重点推进经济开发区、生态商务区、科学城拓展区等产业园区的建设，主动承接科学城重大创新成果在密云落地转化和就地产业化。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="760" src="http://image.thepaper.cn/www/image/14/28/707.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">北京大学医学部。视觉中国 资料图<br/><div class="contheight"></div></span>经济开发区将加大腾笼换鸟力度，清理“僵尸企业”，以土地亩均财政贡献率和楼宇财政贡献率为重要标准，提高入园企业质量和效益，推进园区优化升级。同时大力发展医药健康、智能制造、节能环保等产业，支持传统优势产业绿色化、智能化改造，发展壮大实体经济，引进、培育更多的“独角兽”企业。生态商务区将稳步南扩，在加快地块开发建设的同时，推动建设云谷京津冀创新生态产业园，按照“一核两带”的空间布局，规划建设地下综合管廊、空中轨道交通、地面生态廊道贯通的生态交通和城市运行保障体系。重点培育未来网络、绿色金融、创意设计、中高端商业服务业，加速推进长江商学院、网库总部基地等重点项目建设，着力引进国内外知名企业和具有成长性的创新型企业总部，将生态商务区建设成充满活力的经济功能区。<br/><div class="contheight"></div>此外，密云区在人才住房、医疗、教育等方面，也将做好服务保障。目前密云城区东北部的共有产权房项目已预留了200套房源，面向中关村密云园和怀柔科学城东区非京籍人才、京籍教育卫生人才家庭进行配售。正在建设中的王各庄棚改工程，也将为科研人才提供一部分商品性住房，还将配套建设人才公寓、公租房等。密云区中医医院新址已开工建设，妇幼保健院也将迁至城区西北部，新建一处更为宽敞的院区，密云医疗资源布局更趋合理。教育方面将继续推进清水湾幼儿园、第八中学等学校新建工程及汇佳幼儿园、新城子中学改扩建工程，年内完成密云区第二中学改造二期的主体工程。<br/><div class="contheight"></div>不仅如此，交通方面也将继续加快西统路北延二期建设，密切与科学城及周边重点区域的路网联系。推进通怀路密云段工程建设，促进密云与城市副中心和科学城之间的互联互通。<br/><div class="contheight"></div>（原题为《北大医学部迁至怀柔科学城东区》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 北京大学,密云</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2826902">
+<div class="nbgbox">
+<a class="zan" contid="2826902" href="javascript:;" onclick="voteCont(this)" praisetimes="27">
+                           26</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 北京大学</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2826902&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2826902&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

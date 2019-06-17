@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">司法部：明确六项要求，推动环境损害司法鉴定机构加快准入</h1>
+<div class="news_about">
+<p>“司法部”微信公众号</p>
+<p>
+							2018-09-27 10:28<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">为切实解决全国范围内环境损害司法鉴定机构数量偏少，分布不均这些问题，近日，司法部办公厅下发《关于进一步做好环境损害司法鉴定机构和司法鉴定人准入登记有关工作的通知》（以下简称《通知》），明确提出六项要求，推动各地加快准入一批环境损害司法鉴定机构，为打击环境违法犯罪提供有力技术支撑。<br/><div class="contheight"></div><strong>《通知》要求</strong><br/><div class="contheight"></div>一要充分认识加强环境损害司法鉴定工作的重大意义，进一步提高政治站位，切实把环境损害司法鉴定作为落实中央关于坚决打好污染防治攻坚战的具体举措，作为全面加强生态环境保护的具体实践，努力在新时代生态文明建设中有新作为。<br/><div class="contheight"></div>二要科学统筹本省份生态环境、自然资源、农业农村、水利、林业草原等不同部门及大学院校、社会机构等科研力量，各省份特别是长三角、珠三角、长江经济带、京津塘等重点区域，加快准入一批诉讼急需、社会关注的鉴定机构，如大气、水、土壤、野生动植物物种识别等，鼓励和引导优质科研机构、大学院校申请准入登记，在2018年年底前确保达到全国环境损害司法鉴定机构省域全覆盖。<br/><div class="contheight"></div>三要坚持“凡登记必评审”原则，按照司法鉴定相关规章和规范性文件特别是《评审细则》规定的条件和程序，认真做好拟申请准入环境损害司法鉴定机构的专家评审工作，为准入登记提供明确依据和参考。<br/><div class="contheight"></div>四要加快完成已登记机构的重新审核登记和能力评估工作，确保已登记鉴定机构和鉴定人与新准入机构和鉴定人执业范围相统一。<br/><div class="contheight"></div>五要认真组织开展环境损害司法鉴定执业培训和考核，积极为拟执业环境损害司法鉴定人提供教育培训渠道和交流提高平台，更好地适应环境损害司法鉴定工作需要。<br/><div class="contheight"></div>六要切实加强组织领导，各省（区、市）司法厅（局）一把手要亲自抓，亲自牵头负责，建立准入登记工作台账，明确时限、要求、责任人等，确保按进度、按计划准入登记一批环境损害司法鉴定机构。<br/><div class="contheight"></div>据悉，自本月起，司法部将建立环境损害司法鉴定准入登记工作月报告制度，要求各地将准入登记工作动态及落实本通知情况及时报告。司法部将及时跟进督导各地环境损害司法鉴定准入登记工作，对于落实不力、推诿塞责的有关单位和人员，将严肃追责。<br/><div class="contheight"></div>（原题为《司法部明确六项要求！推动环境损害司法鉴定机构加快准入》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：卫佳铭<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 司法部 环境损害司法鉴定机构</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2478749">
+<div class="nbgbox">
+<a class="zan" contid="2478749" href="javascript:;" onclick="voteCont(this)" praisetimes="6">
+                           5</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 环境损害司法鉴定</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2478749&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2478749&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

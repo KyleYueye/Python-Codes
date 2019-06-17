@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25432">自贸区连线</a>
+</div>
+<h1 class="news_title">海关总署、税务总局等多部门联合印发意见促进综合保税区发展</h1>
+<div class="news_about">
+<p>央视新闻客户端</p>
+<p>
+							2019-01-10 15:11<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">央视新闻客户端1月10日消息，记者从国务院新闻办今天（10日）上午的例行吹风会上了解到，海关总署日前会同税务总局等14个部门起草的《促进综合保税区高水平开放和高质量发展的若干意见》将于近日正式印发，推出21项具体举措，打造五大中心，全方位多角度促进我国综合保税区发展。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/117/425.jpg" width="100%"/></div>综合保税区作为海关特殊监管区域是我国开放型经济发展的先行区、加工贸易转型升级的集聚区，为承接国际产业转移、推进区域经济协调发展、促进对外贸易和扩大就业等发挥了重要作用。将出台的《促进综合保税区高水平开放和高质量发展的若干意见》明确提出：我国综保区建设目标就是打造加工制造、研发设计、物流分拨、检测维修和销售服务5个中心，同时推出21项具体措施，全方位、多角度促进我国综合保税区升级发展。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/117/420.jpg" width="100%"/></div>该《意见》明确了免除手机、汽车零部件等产品内销环节自动进口许可证等多项海关手续的简化。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/117/419.jpg" width="100%"/></div><strong>海关总署副署长 李国：</strong>支持汽车整车进口口岸的综合保税区开展进口汽车保税存储、展示业务，优化文物及文化艺术品境外入区管理，促进文物回流。<br/><div class="contheight"></div>同时《意见》明确将跨境电商零售进口税收政策逐步扩大到所有的综合保税区，并对综合保税区内的创新型企业予以扶持。<br/><div class="contheight"></div><strong>海关总署副署长 李国：</strong>对研发进口货物、物品免于提交许可证，鼓励创新中心等研发机构入区发展；对研发、加工企业符合标准的直接赋予最高信用等级。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/117/417.jpg" width="100%"/></div><strong>国家税务总局货物和劳务税司司长 王道树：</strong>在政策设计方面有两个创新，一是区内企业向境内区外销售产品，可以直接向对方开具增值税专用发票；二是区内企业从境内区外购买原材料或者承接区外委托加工的业务，可以向对方索取增值税专用发票，这样他就可以用于抵扣。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/117/416.jpg" width="100%"/></div>据了解，截至2018年底，我国已拥有海关特殊监管区140个，其中综合保税区96个。2018年1-11月，全国海关特殊监管区域实现进出口值4.7万亿元人民币，同比增长12.3%，占同期我国外贸进出口总额的16.8%，以占全国二万分之一的土地面积，实现了约六分之一的外贸总量。<br/><div class="contheight"></div>（原题为《海关总署、税务总局等14个部门联合印发&lt;意见&gt;促进综合保税区发展》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 保税区</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836628">
+<div class="nbgbox">
+<a class="zan" contid="2836628" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 综合保税区</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836628&caid=25432",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836628&amp;caid=25432" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

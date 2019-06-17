@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25444">社论</a>
+</div>
+<h1 class="news_title">【社论】张扣扣一审死刑：唯有公正才能化解积怨</h1>
+<div class="news_about">
+<p></p>
+<p>
+							2019-01-08 18:49<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="250" src="http://image.thepaper.cn/www/image/14/40/662.jpg" width="600"/></div>1月8日，“张扣扣故意杀人案”在陕西汉中中院公开审理。对于这起公众关注的案件，审理法院通过微博及时公布了案件法庭辩论内容。当天傍晚，法院做出了一审判决：张扣扣死刑。<br/><div class="contheight"></div>在去年的除夕之夜，张扣扣持刀杀害三人，从案发伊始，所谓“替母报仇案”一直扰动着舆论的漩涡。一些网络自媒体就把这则案件说成了“孝子报仇”的故事：孝子在隐忍22年后，决定大年三十为母杀凶报仇。<br/><div class="contheight"></div>判决是为了实现正义，而不是简单的同态复仇。张扣扣案正义的全部内容，既包括追究去年除夕之夜杀人案的刑事责任，也当厘清23年前张扣扣之母被杀，行凶者王正军仅获刑7年的判决是否正当。<br/><div class="contheight"></div>公正的运行不能够建立在想象和口水之上，更不能对暴力行为涂脂抹粉，不能拿极端的个案来浇心中的块垒。现代法治是禁止同态复仇的，只有在国家力量不逮的紧急场景之下，公民才可以私力救济（比如正当防卫）。围观此案，网友也当站稳现代法治的立场，不能用情绪代替法律。<br/><div class="contheight"></div>2018年11月，张家向陕西省高级人民法院提出申诉，法院在立案之后，组成合议庭进行审查，重点调查了当时的被告人王正军是否为未成年、是否存在“顶包”问题，原始户口登记簿记载王正军出生于1979年4月23日，案发时系未成年人；原判采信的死者丈夫、女儿的证言等，证明行凶系一人所为，不存在“顶包”事件。所谓王家是“村霸欺负民女”的故事套路已经被证伪，当时的那个“轻判”并不是枉法判决。<br/><div class="contheight"></div>另一方面，被告人张扣扣应当享受《刑事诉讼法》所规定的正当的诉讼权利、受辩护权，其罪责轻重、主观恶性大小、犯罪手段恶劣程度，应该在法庭上通过证据证明，并经过严格的举证质证程序。用公正的审判平息民间的质疑，用严格的证据锁定正义的执行，使本案经得起历史的考验，不再成为下一场悲剧的开端。<br/><div class="contheight"></div>在这次张扣扣案的审判过程中，汉中中院通过微博及时公布法庭的辩论记录，也印证了之前媒体报道过的张母当年是露天验尸；张扣扣本人之前被骗、陷入过传销陷阱等信息，这是以阳光司法回应民间关切。<br/><div class="contheight"></div>最终，法院认定：张扣扣不能理智对待内心仇恨，在工作、生活又长期不如意的巨大压力下，心理逐渐失衡，迁怒于王正军及其家人，蓄意报复杀人，犯罪手段特别残忍，情节特别恶劣，决定适用死刑。不过，死刑判决还没有生效，张扣扣还有上诉的权利。<br/><div class="contheight"></div>公众关注此案，不是要对故意杀人涂抹上“孝道”“侠义”的油彩，而是希望以公正司法、阳光司法消解仇怨和矛盾，也希望此案的审判能够成为一堂普法课。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 张扣扣</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828331">
+<div class="nbgbox">
+<a class="zan" contid="2828331" href="javascript:;" onclick="voteCont(this)" praisetimes="235">
+                           234</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 张扣扣案</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828331&caid=25444",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828331&amp;caid=25444" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（219）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

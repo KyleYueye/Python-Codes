@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜这些“爆款”论文理应接受更严苛挑刺</h1>
+<div class="news_about">
+<p>澎湃评论员 阳柳</p>
+<p>
+							2018-11-29 17:43<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2680062" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜这些“爆款”论文理应接受更严苛挑刺" src="//image2.thepaper.cn/image/12/658/820.jpg"/>
+</a>
+<div class="atlas_360_txt">浙大硕士毕业论文写“云吸猫”称其为“精神鸦片”，网友炸锅<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">这几天，有几篇论文在朋友圈流传：《行长的面部宽高比影响银行绩效的路径研究》《乌有之猫：云吸猫迷群的认同与幻想》《中国传统文化对蟋蟀身体与战斗力关系的认识》，引发热议。 <br/><div class="contheight"></div>这样的论文，自带“热搜”体质，因为它们颠覆了传统论文严肃、高冷的画风，让人惊叹“还可以这么玩”。但引发质疑乃至嘲讽，也在意料之中，不少网友在问：这样的研究、论文有啥价值？<br/><div class="contheight"></div>具体来看，三篇的论文的争议点还是有所差异的。《行长》一文，受质疑的是选题，即“行长的面部宽高比”与“银行绩效”真有关系吗？确定不是强行研究、搞相面术那一套？《蟋蟀》一文在于，“蟋蟀是一种负载中华文化的民族昆虫”这种论述，是否超出了学术研究的边界，属于过度解读、盲目拔高？《云吸猫》争议点在论文结论：云吸猫是“精神鸦片”。 <br/><div class="contheight"></div>这三篇论文，有发在专业学术期刊杂志上的，有作为硕士毕业论文的。严格说来，它们仍是专业严肃的学术论文，其产生过程、评审路径、发表渠道也完全遵循一般学术论文的操作规范。所以，对于以上争议，首先应该听听业内专家与学术期刊的看法；如果这些论文确实是哗众取宠、言之无物，审稿人也是脱不了干系的。 <br/><div class="contheight"></div>只要在学术研究规范内，做到不背离科学研究与学术论文的底线，就应当鼓励创新。没有谁规定论文一定要关注宏大、阳春白雪式的选题，而小众话题就毫无学术价值。论文的观点也不一定要人人满意，能引发关注、启发思考，也是论文的价值之一。<br/><div class="contheight"></div>实际上，随着年轻一代逐渐进入学术圈，关注身边事、热点社会现象的论文就渐次涌现，这对于学术研究与社会发展都不算坏事，也一定程度上拉近了学术界与大众的距离，对于普及科学知识、营造鼓励创新与尊重人才的社会氛围，是有益处的。 <br/><div class="contheight"></div>但这不是说网友的质疑毫无意义。网络时代，原本在学术圈流传与接受检验的论文，开始向公众开放，接受公众评判是必然趋势。而公众的认知是参差不齐的，有人质疑实属正常。论文作者应当有这一意识与心理准备。 <br/><div class="contheight"></div>其实，多数人清楚自己无专业能力评判一篇论文。人们之所以关注“奇葩论文”，出于感性直觉作出判断，是内心一股朴素的正义感的驱使。我们都看过不少这样的案例：有人因一篇太“水”或抄袭的论文评上职称，享受到本不属于自己的对待。人们担心有人效仿而为，随意炮制文字垃圾，作为实现个人诉求的道具。<br/><div class="contheight"></div>所以，每有“爆款”论文流传，人们习惯以严苛与批判的眼光挑刺、找茬。这是互联网时代公众对学术圈弄虚作假与考核体系的监督，客观上能倒逼学术从业者更自律。<br/><div class="contheight"></div>这几年，类似“奇葩论文”并不少见，可见公众的监督从未离场。如果说有什么遗憾，那就是这种本该是学界与大众的互动，目前更多是公众主动而学界“不动”，后者面对质疑多选择沉默。如果论文作者与学界人士能在研究与创新之余，也听听网友们的心声，对一些关切较高的声音给予回应，也许就会少一些争议。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 奇葩论文</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2686771">
+<div class="nbgbox">
+<a class="zan" contid="2686771" href="javascript:;" onclick="voteCont(this)" praisetimes="146">
+                           145</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 学术论文</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2686771&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2686771&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">公诉机关：张扣扣打着“为母报仇”旗号，为宣泄情绪寻找出口</h1>
+<div class="news_about">
+<p>澎湃新闻记者 宋蒋萱</p>
+<p>
+							2019-01-08 16:09<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">因22年前目睹母亲被邻居打死，2018年2月，陕西汉中的张扣扣将邻居一家三口杀害。1月8日上午，张扣扣故意杀人、故意毁坏财物一案在陕西汉中市中院开庭审理。<br/><div class="contheight"></div>根据汉中中院官方微博直播，在庭审辩论阶段，公诉人发表公诉意见。<br/><div class="contheight"></div>公诉人称，张扣扣犯罪手段特别残忍、后果极其严重，社会危害性极大。尸检表明，被害人王正军身中24刀，王校军身中9刀，王自新身中16刀；这49刀主要围绕被害人的胸、腹、颈部等要害部位，足见其杀人意志坚决，作案手段残忍。<br/><div class="contheight"></div>公诉人称，纵观张扣扣工作生活经历，其对自身能力认识不清，遇到挫折后不从自身寻找原因，反省自身的短板和不足，没有通过改变和提高自我来适应当下的竞争环境，反而好高骛远，遇到挫折不能正确面对，张扣扣已经因其工作生活的不如意，陷入了金钱至上的错误观念，因为无法自我排解而将负面情绪完全归结于他人，陷入了更大的逻辑错误中，选择了被害人一家作为宣泄对象。<br/><div class="contheight"></div>公诉人称，张扣扣其实是打着“为母报仇”的旗号，掩盖其宣泄生活不如意之实；其杀人动机的产生并非是由1996年案件引起，而是因为其自身原因，对生活现状不满，对未来失去信心，为宣泄其情绪寻找出口。法院及检察机关均对1996年案件进行了审查，均未发现任何不当之处。<br/><div class="contheight"></div>公诉人还称，极端自私的个人“恩仇”，绝不是凌驾于法律之上的借口和理由。以牙还牙，以暴制暴，只是让社会处于混乱和无序的状态，必须坚决杜绝。<br/><div class="contheight"></div>公诉人称，在试图去了解、探寻真相的同时，除了好奇心、同情心，更需要平和的心态、理性的认识、严谨的思考和对未知的敬畏。<br/><div class="contheight"></div>对此，张扣扣坚持其个人观点，他称：“如果我妈不死我的命运也不会因此改变，所有的一切都是王家造成的，并不是我对社会不满，对工作不满。”<br/><div class="contheight"></div>张扣扣的辩护人认为，张扣扣在此前没有任何违法犯罪前科，该案有着极其的特殊性，具备民间法的某些争议元素，张扣扣应该能有生的希望，“张扣扣本质上并不是坏人，恳求法庭留给张扣扣一条生路”。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周喜丰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 张扣扣 故意杀人 汉中</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827707">
+<div class="nbgbox">
+<a class="zan" contid="2827707" href="javascript:;" onclick="voteCont(this)" praisetimes="210">
+                           209</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 张扣扣案</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827707&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827707&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（351）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

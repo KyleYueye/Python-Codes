@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">宁夏检察院：判处10年以上有期徒刑的涉黑涉恶罪犯不得假释</h1>
+<div class="news_about">
+<p>宁夏检察院官方微信号</p>
+<p>
+							2018-10-30 17:27<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">日前，银川市上前城地区检察院先后与银川监狱、银川市看守所召开扫黑除恶专项斗争工作联席会议，梳理分析当前监管场所扫黑除恶专项斗争工作中存在的问题，深入推进专项斗争工作。<br/><div class="contheight"></div>联席会议明确，要全面梳理涉黑涉恶罪犯基本情况，做到“一人一档”，指定责任民警，确保底数清楚、责任到人。要做好涉黑涉恶罪犯的分管分押工作，严格对涉黑涉恶罪犯提讯会见的监督管理，严防跑风漏气。要加强教育引导和宣传动员工作，敦促涉黑涉恶罪犯积极检举揭发、交代余漏罪，争取主动；鼓励在押人员检举揭发涉黑涉恶犯罪，深挖涉黑涉恶案件线索。开展好教育引导工作，要加强对涉黑涉恶罪犯的管理，严格狱内消费，杜绝超标准消费现象发生；对涉黑涉恶人员一律不启动羁押必要性审查程序；严格涉黑涉恶罪犯的减刑、假释、暂予监外执行案件审查，减刑要从严掌握，暂予监外执行依照法律规定的条件和程序严格审批，对判处十年以上有期徒刑的涉黑涉恶罪犯不得假释。要坚持公平、公正、公开的原则，对涉黑涉恶罪犯进行考核、奖励，既要防止涉黑涉恶罪犯在监狱改造中出现“保护伞”，又要防止出现刑讯逼供等违法违规办案情形，确保每起涉黑涉恶案件都“零”瑕疵。<br/><div class="contheight"></div>（原标题为：《扫黑除恶 | 判处10年以上有期徒刑的涉黑涉恶罪犯不得假释》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：宋蒋萱<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 宁夏 检察 涉黑涉恶</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2580644">
+<div class="nbgbox">
+<a class="zan" contid="2580644" href="javascript:;" onclick="voteCont(this)" praisetimes="66">
+                           65</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 涉黑涉恶</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2580644&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2580644&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

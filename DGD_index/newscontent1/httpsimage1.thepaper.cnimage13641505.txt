@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">韩日“雷达照射”事件硝烟再起：日本公布视频，韩方表示遗憾</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-28 21:04<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日，韩国和日本就此前韩军舰使用火控雷达STIR180照射日本自卫队巡逻机一事僵持不下。28日下午，日本防卫省公布了当时巡逻机所拍摄的视频，韩国国防部随即指责东京方面提供误导性事实。<br/><div class="contheight"></div>据韩联社消息，这段长达13分钟的视频片段记录了海上自卫队P-1巡逻机的操作情况，其字幕显示巡逻机曾连续多次被火控雷达照射，并与韩军舰保持了国际法规定的距离飞行。<br/><div class="contheight"></div>12月20日，韩国海军“广开土大王”号驱逐舰在距离独岛东北部200公里的大和堆渔场搜救漂流中的朝鲜小型渔船，日本海上自卫队P-1海上巡逻机在军舰附近飞行，为识别巡逻机身份，韩国驱逐舰启动了附着在火控雷达STIR 180上的电子光学追踪设备（EOTS）。日本防卫大臣岩野毅将这一事件描述为“极其危险的行为”，可能触发“意料之外的事态转变”，并要求韩方防止类似事件再次发生。<br/><div class="contheight"></div>火控雷达是引导舰炮和导弹进行射击瞄准的关键设备，舰机一旦遭火控雷达瞄准，则意味着身处非常危险的境地，因此可能做出激烈反应。<br/><div class="contheight"></div>韩国国防部发言人崔贤洙(Choi Hyu-soo)28日对记者表示：“就在一天前，韩日双方刚刚举行了视频会议，探讨如何消除误解，发展防务领域合作，我们对日方公布录像深表遗憾。”<br/><div class="contheight"></div>崔贤洙补充说：“正如我们所强调的，“广开土大王”号驱逐舰执行的是正常的救援任务，没有对日本巡逻机进行雷达照射，这一事实不会改变。”<br/><div class="contheight"></div>崔贤洙还表示，该视频不能作为“客观”证据。<br/><div class="contheight"></div>不过，日本公布的视频显示，在巡逻机被火控雷达照射后，机组成员曾3次呼叫韩军舰，确认雷达照射的意图，但没有得到回应。<br/><div class="contheight"></div>机组成员用英语说道：“韩国舰艇，韩国舰艇，舰艇号971，舰艇号971，这里是日本海上自卫队，这里是日本海上自卫队。我们观察到你们的火控雷达(FC)正在指向我们，你们的行动目的是什么？完毕。”<br/><div class="contheight"></div>韩联社援引一位不愿透露姓名的韩国军方官员称，日本巡逻机当时在驱逐舰500米处低空飞行，这一距离可以被视为威胁，但韩方仍然把重点放在救援行动上。<br/><div class="contheight"></div>该官员还指出，日本没有拿出确凿证据，即对火控雷达频率进行分析，证明雷达曾对准日本巡逻机发出电波。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙语双<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 韩国,日本,火控雷达</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2788746">
+<div class="nbgbox">
+<a class="zan" contid="2788746" href="javascript:;" onclick="voteCont(this)" praisetimes="150">
+                           149</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日韩关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2788746&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2788746&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（59）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

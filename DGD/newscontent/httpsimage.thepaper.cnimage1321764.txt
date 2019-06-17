@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">俄罗斯驻华大使：改革开放在中国从未止步</h1>
+<div class="news_about">
+<p>央视新闻移动网</p>
+<p>
+							2018-12-15 12:41<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">央视新闻移动网消息：改革开放40年，不仅改变了中国的发展轨迹与经济地位，也对世界产生了深远影响。1973年，作为一名翻译员，安德烈·杰尼索夫第一次来到中国。40年后的2013年，他正式出任俄罗斯驻华大使。杰尼索夫形容自己是“中国改革开放的见证者”。40年间，他不仅亲眼目睹中国社会发生的巨大变化，更切身感受中国改革为世界发展带来的积极影响。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="347" src="http://image.thepaper.cn/www/image/13/217/55.jpg" width="548"/></div><strong>俄罗斯驻华大使 安德烈·杰尼索夫</strong>：“我是俄罗斯驻华大使。很幸运我能够在1978年的夏天来到中国。在那年的5月11日，《光明日报》发表了一篇文章，《实践是检验真理的唯一标准》，应该说正是这篇文章开启了中国改革开放的序幕。”<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="351" src="http://image.thepaper.cn/www/image/13/217/56.jpg" width="545"/></div>有幸见证中国伟大变革的开启，成为杰尼索夫难忘的中国记忆。随后的几年间，作为外交官，他多次来到中国。每一次的到访，都让他感受到改革开放为中国带来的巨大变化。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="325" src="http://image.thepaper.cn/www/image/13/217/57.jpg" width="552"/></div><strong>俄罗斯驻华大使 安德烈·杰尼索夫</strong>：“可以说改革开放是现代世界人类史中最重要的事件之一。不仅因为中国发展成为了世界经济大国，成为对世界有着重要影响力的政治大国以及全球贸易的领导者，更是因为人民的生活水平发生了巨大的变化。”<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="325" src="http://image.thepaper.cn/www/image/13/217/58.jpg" width="541"/></div>大学时期主修经济学和中文的杰尼索夫，对中国有着深入的了解和独特的感情。2013年，杰尼索夫正式出任俄罗斯驻华大使，这让他有机会更全面感受中国的改革步伐。<br/><div class="contheight"></div>他认为，中国人民的勤劳智慧、正确和符合国情的经济政策，以及坚定果断的政治领导，是中国改革开放取得成功的关键。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="319" src="http://image.thepaper.cn/www/image/13/217/59.jpg" width="530"/></div><strong>俄罗斯驻华大使 安德烈·杰尼索夫</strong>：“我国的一些经济学家也说，俄罗斯经济的帆，需要中国改革开放的风来吹动。这也说明了中国的改革开放不仅对中国，对全人类都具有意义。”<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="315" src="http://image.thepaper.cn/www/image/13/217/60.jpg" width="548"/></div>在杰尼索夫看来，这五年，不断出台的新举措，为中国改革注入强劲动力。改革开放在中国，从未止步。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="317" src="http://image.thepaper.cn/www/image/13/217/61.jpg" width="548"/></div><strong>俄罗斯驻华大使 安德烈·杰尼索夫</strong>：“十九大报告中提到的人类命运共同体等理念，就像聚光灯一样，为世界未来发展照亮了前进的道路。特别是‘一带一路’倡议，包含了政治、经济、人道主义等各个领域的合作。可以说这是当今世界的一种哲学观。我们的世界并不大，大家相互之间紧密相连。因此人类继续生存下去就要意识到，我们是一个命运共同体。 ”<br/><div class="contheight"></div>（原题为《见证中国发展 感受改革力量·俄罗斯驻华大使：改革开放在中国从未止步》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 改革开放</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2742278">
+<div class="nbgbox">
+<a class="zan" contid="2742278" href="javascript:;" onclick="voteCont(this)" praisetimes="63">
+                           62</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 改革开放</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2742278&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2742278&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

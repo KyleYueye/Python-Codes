@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">中国主题公园“星空奖”评委会聘书颁发仪式暨评审会议举行</h1>
+<div class="news_about">
+<p>刘玉侠</p>
+<p>
+							2018-04-28 12:14<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>2018年4月23日下午，“2017年度主题公园行业评选”评审委员会聘书颁发仪式暨评审会议在上海交通大学徐汇校区举行。在聘书颁发仪式上，上海交通大学海外教育学院党支书记姚奕依次为林焕杰、楼嘉军、谷来丰、方宝庆、崔劲松等评审委员颁发聘书。此外，到场评审委员依次对“最受游客欢迎的主题公园”进行了评审并现场进行评分统计，并纳入最终评选结果。</u><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="232" src="http://image.thepaper.cn/www/image/7/488/767.jpg" width="600"/></div><div><span style="color: rgb(153, 153, 153);">评审委员会聘书颁发合影</span></div>姚奕代表上海交通大学海外教育学院感谢评审委员会每一位辛勤委员的辛劳付出。他表示，学院大力支持主题公园行业评选活动，希望各位专家秉承公平公正的态度认真做好评审的各项工作。未能到场的评审委员在网上进行同步评审，评审会议持续两个小时。<br/><div class="contheight"></div>会议由上海交大教育学院主题公园研究所常务副所长谷来丰主持，所长林焕杰阐述本次主题公园评选活动的意义和宗旨。林焕杰表示，目前，中国的主题公园快速发展，数量增多，但行业缺少对主题公园的客观评价体系和标准，没有正确引导中国主题公园健康发展的机制。面对这种现状，上海交通大学海外主题公园研究所决定承担起这个行业责任，以学术机构和第三方立场每年评选、发布一期全国主题公园排行榜。以公平、公正、公开的原则，评选出中国优秀主题公园，构筑驱动中国主题公园行业可持续发展的原动力。<br/><div class="contheight"></div>为了保证此次评选活动过程的科学性和权威性，上海交大海外教育学院主题公园研究所聘请了业内资深的专家学者，成立了标准委员会和评审委员会。两个委员会的组成人员都是国内外知名学者、研究专家以及行业权威人士，其中包括作曲家、大学教授、研究机构研究员、工程师等非主题公园企业工作人士。<br/><div class="contheight"></div>作为主题公园评选的系列活动项目，其主办方主题公园研究所，是一家具有权威学术背景的专业机构，在国内建立了一个主题公园行业的评选标准，评选首创“客观数据+申报内容+专家矫正”的运作模式，采用OTA平台数据以及互联网大数据的技术分析，利用先进算法进行数据分析与整合，对于线上资源不够丰富的主题公园，通过免费申报的形式，填写申报的素材作为补充资料，最终专家根据12个奖项设置的一系列指标综合客观数据进行一一矫正和点评，经过层层把关，依据主题公园行业评判的专业指标，秉承评选的公平公正科学专业的原则，最终将揭晓主题公园榜单。<br/><div class="contheight"></div>参加本次会议的领导有上海交通大学海外教育学院党支书记姚奕，上海交通大学海外教育学院主题公园研究所所长、中国主题公园研究院院长、评审委员林焕杰，上海交通大学海外教育学院主题公园研究所常务副所长、评审委员谷来丰，评审委员会成员楼嘉军、方宝庆、崔劲松，以及主题公园研究所秘书长惠晓丹，所长助理李君，高级分析师金坤，副秘书长刘泓等。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李淑平<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2100241">
+<div class="nbgbox">
+<a class="zan" contid="2100241" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 主题公园</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2100241&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2100241&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

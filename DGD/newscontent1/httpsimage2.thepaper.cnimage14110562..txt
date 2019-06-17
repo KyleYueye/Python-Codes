@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美官员：若联邦政府继续停摆，特朗普或缺席达沃斯论坛</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-10 11:50<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">当地时间2019年1月8日晚，为了获得对修建美墨边境墙的支持，美国总统特朗普发表了自己就任以来的首次电视讲话，来自国会的代表也回应了特朗普的讲话，目前，府会双方没有任何妥协的迹象，而这或将影响特朗普在今年1月的达沃斯之行。<br/><div class="contheight"></div>《华尔街日报》1月10日报道，美国政府官员表示，如果在1月22日达沃斯年度世界经济论坛(World Economic Forum)开幕之前，政府部分停摆问题还未得到解决的话，总统特朗普的团队正考虑取消特朗普本月稍晚的达沃斯之行。目前，美国政府停摆已经进入第19天，即便在今年的达沃斯论坛前，美国内部能够解决政府关门的问题，预计特朗普也只会短暂到访瑞士达沃斯。官员们表示，如果届时政府恢复运作，特朗普可能只会访问达沃斯约12个小时。官员们还表示，如果政府继续停摆，财长姆努钦(Steven Mnuchin)可能仍会出席达沃斯活动，但美国代表团的规模很可能将大幅缩水。<br/><div class="contheight"></div>在昨天的电视讲话中，特朗普坚持要求为在南部边境修建边境墙提供56亿美元资金。众议院议长南希·佩洛西(Nancy Pelosi)则表示，民主党议员不会批准边境墙拨款。随后，特朗普突然暂停与国会领导人的会谈，这再次打破了政府关门的问题可以尽快得到解决的希望。<br/><div class="contheight"></div>由于特朗普政府和议会在美墨边界墙预算问题上存有分歧，美国联邦政府被迫于2018年12月22日部分关门。根据现行规定，美国历史上最长的政府停摆发生在1995年，持续了21天。如果美政府不能在周六(12日)重新开门，这次关门将成为史上时间持续最长的一次。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 达沃斯,特朗普,美墨边境墙</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835709">
+<div class="nbgbox">
+<a class="zan" contid="2835709" href="javascript:;" onclick="voteCont(this)" praisetimes="50">
+                           49</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 达沃斯论坛</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835709&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835709&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

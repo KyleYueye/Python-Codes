@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜电动车上牌之争：公共治理莫为私利背锅，嫌疑也不行</h1>
+<div class="news_about">
+<p>澎湃特约评论员 王彬</p>
+<p>
+							2018-07-10 18:33<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2250008" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜电动车上牌之争：公共治理莫为私利背锅，嫌疑也不行" src="//image1.thepaper.cn/image/8/749/111.jpg"/>
+</a>
+<div class="atlas_360_txt">江苏泗洪回应电动车上牌背后利益等疑问：50元是防盗装置费<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">6月20日起，江苏宿迁泗洪县公安局组织给全县范围内20多万辆电动自行车上牌，却引发当地居民不满。<br/><div class="contheight"></div>争议点主要有三。一是上牌需交费50元。当地官方解释称，这笔钱并非安装车牌的费用，而是用来安装防盗装置，是为了解决“每年发生600多起电动车被盗、但破案率很低”的难题。但一些居民仍倾向于认为，将上牌与安装防盗装置捆绑在一起，有强制收费之嫌。即使官方解释称捆绑是因为拍照与防盗装置是一个整体，不能分开，但居民并不信服。<br/><div class="contheight"></div>其二，当地有官方人员表示，上牌自愿，老百姓可以在现阶段选择不上牌，等过一段时间，再选择单独的不防盗的免费牌照。但在当地居民出示的一张落款日期为6月20日，“泗洪县公安局关于加强电动自行车管理的通告”中，没有任何一句话表明，未来也许会有“单独上牌，免费上牌”这一选项，而是明确了8月20日起，将对上路行驶的电动自行车进行检查，“未登记的，不得上道路行驶”。一位负责上牌的派出所工作人员也坦言，现在算是“强制上牌，必须得上”。 <br/><div class="contheight"></div>另外，充话费免费安装防盗装置只针对移动用户。负责提供防盗装置的公司工作人员称，与三大运营商沟通时，只有移动公司同意参与。但全国企业公示信用信息系统显示，该公司的股东单位曾因工商部门通过登记的住所或经营场所无法取得联系被列入“经营异常名录”。要问一句，当地进行政府合作项目，经过公开招标了吗？ <br/><div class="contheight"></div>这三点不澄清，只怕质疑声就不会消失。以收费为例，根据江苏省政府2015年《关于取消和暂停征收部分行政事业型经营服务性收费以及降低部分收费标准的通知》的要求，各地和有关部门不得继续征收电动车号牌费。目前江苏省其他地区均已取消此项收费。 <br/><div class="contheight"></div>如果真如当地官方所说，安上防盗装置对于侦破电动车被盗案件效果显著，那么安装确有必要。只是，初衷成立，并不代表具体操作过程中就不会出问题。 <br/><div class="contheight"></div>整治电动车被盗，说到底是一个社会公共治理的问题，其基本原则就是要服务民众，便利民众，而不得违背民众意愿，为其添堵。当地公安作为电动车上牌的管理方和执行者，首先要保障的就是公众的知情权和自主选择权。即便防盗装置成本，公安确实不可控，但民众自愿和选择的权利不容挑战。 <br/><div class="contheight"></div>那问题来了，当地公安进行强制要求，意欲何为？是否急于出治理效果而采取了简单粗暴的管理方式？而针对“充话费免费安装防盗设置”仅针对移动用户，与安装防盗装置企业是否通过招投标等质疑，也难免引人遐想：这里面是否存在利益纠葛？不管哪样，出现目前的负面效应与舆论反弹，代价终究是大了点。当地有关部门有必要再紧一紧这根弦：公共治理不能为私利背锅，连嫌疑也不能有。 <br/><div class="contheight"></div>据报道，江苏盐城建湖县也曾受到居民类似投诉。当地公安局治安大队随即回应，上牌系自愿，100元为防盗车牌费用，居民也可以选择安装免费的铁皮车牌。这样符合社会公共治理原则的疏解思路，值得泗洪县借鉴。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 电动车上牌</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2253739">
+<div class="nbgbox">
+<a class="zan" contid="2253739" href="javascript:;" onclick="voteCont(this)" praisetimes="14">
+                           13</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 电动车上牌</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2253739&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2253739&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

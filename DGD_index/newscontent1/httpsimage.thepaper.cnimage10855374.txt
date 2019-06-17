@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">广州辖区内基层法院受理11类一审案件，将由互联网法院办理</h1>
+<div class="news_about">
+<p>澎湃新闻记者 庄岸</p>
+<p>
+							2018-09-28 08:37<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">2018年9月28日起，广州互联网法院将集中管辖广州市辖区内应当由基层法院受理的11类一审案件。<br/><div class="contheight"></div>9月27日，广东高院通过官方微信公号发布上述消息。当天，广东高院正式发布《关于广州互联网法院案件管辖的规定》（以下简称“规定”）。<br/><div class="contheight"></div>根据规定，2018年9月28日起，广州互联网法院将集中管辖广州市辖区内应当由基层法院受理的11类一审案件。当事人不用到法院，便可实现起诉、调解、立案、送达、庭审、宣判、执行等全部或部分诉讼环节的网络化办理。<br/><div class="contheight"></div>这11类一审案件具体类型有——<br/><div class="contheight"></div>① 通过电子商务平台签订或者履行网络购物合同而产生的纠纷；<br/><div class="contheight"></div>② 签订、履行行为均在互联网上完成的网络服务合同纠纷；<br/><div class="contheight"></div>③ 签订、履行行为均在互联网上完成的金融借款合同纠纷、小额借款合同纠纷；<br/><div class="contheight"></div>④ 在互联网上首次发表作品的著作权或者邻接权权属纠纷；<br/><div class="contheight"></div>⑤ 在互联网上侵害在线发表或者传播作品的著作权或者邻接权而产生的纠纷；<br/><div class="contheight"></div>⑥ 互联网域名权属、侵权及合同纠纷；<br/><div class="contheight"></div>⑦ 在互联网上侵害他人人身权、财产权等民事权益而产生的纠纷；<br/><div class="contheight"></div>⑧ 通过电子商务平台购买的产品，因存在产品缺陷，侵害他人人身、财产权益而产生的产品责任纠纷；<br/><div class="contheight"></div>⑨ 检察机关提起的互联网公益诉讼案件；<br/><div class="contheight"></div>⑩ 因行政机关作出互联网信息服务管理、互联网商品交易及有关服务管理等行政行为而产生的行政纠纷；<br/><div class="contheight"></div>⑪ 上级法院指定管辖的其他互联网民事、行政案件。<br/><div class="contheight"></div>广东高院立案庭庭长李忠铭就上述规定进行了解读。<br/><div class="contheight"></div>关于网购纠纷案件，李忠铭说，网购是通过在电子商务平台，即人们通常所说的“购物网站”“网上商城”，如淘宝、京东、网易考拉、唯品会等购物平台进行交易的行为。从司法实践来看，因网购引发的纠纷占比最大，统计表明，以广州法院为例，2014年-2017年，广州两级法院共受理互联网购物、网络服务合同案件27887件，而网购纠纷案件又远超服务合同类纠纷。买家在通过此类平台购物过程中，与平台经营者或卖家产生的纠纷，相关当事人可向互联网法院起诉。没有通过电子商务平台进行的网络购物行为产生的相关纠纷，互联网法院不受理。<br/><div class="contheight"></div>关于互联网金融借款和小额借款合同纠纷等案件的受理，李忠铭说，关于此需要特别明确两点：一是“互联网金融借款、小额借款合同”特指与金融机构、小额贷款公司订立的借款合同。值得注意的是，非金融机构或小额贷款公司作为借贷主体，或自然人之间的借贷，即便交易全程在网，也不属于互联网法院管辖范围。二是这里所说的互联网金融借款和小额借款合同纠纷，指的是签订、履行行为均在互联网上完成的合同纠纷。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：马世鹏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 互联网法院 广州</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2481963">
+<div class="nbgbox">
+<a class="zan" contid="2481963" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 互联网法院</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2481963&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2481963&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

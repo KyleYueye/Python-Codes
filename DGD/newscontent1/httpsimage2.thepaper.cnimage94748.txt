@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜成功防台又能快速恢复如常，靠的正是城市精细化管理</h1>
+<div class="news_about">
+<p>澎湃特约评论员 李勤余</p>
+<p>
+							2018-07-22 20:00<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2283999" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜成功防台又能快速恢复如常，靠的正是城市精细化管理" src="//image.thepaper.cn/image/9/45/924.jpg"/>
+</a>
+<div class="atlas_360_txt">为了群众生命财产安全——上海防战台风“安比”侧记<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">台风“安比”如期而至，12时30分在崇明东部登陆，成为1949年以来直接登陆上海的第三个台风。此刻风住雨歇，城市运行平稳有序，市民正常工作和生活秩序逐渐恢复。上海交出了一份应对台风“安比”的满意答卷。<br/><div class="contheight"></div>城市管理是一项极其复杂、极其精细的工作，尤其是面对台风这种“测不准”的自然灾害，更需要精细化管理。此次面对“安比”，上海充分准备、沉着应对。正在国外访问的市委书记李强多次电话询问台风“安比”的最新动向及对上海的影响，21日傍晚又专门致电市防汛指挥部，询问了解全市防汛防台工作和责任落实情况；市长应勇多次主持召开全市防汛工作会议，并赴地铁站、泵站、建筑工地现场检查。<br/><div class="contheight"></div>一分部署，九分落实。各单位、各部门相继发布防汛防台部署和应急措施，确保防御措施落实到位、责任到人，如提前对撤离方案和转移人员进行部署，全面取消大型户外活动，采取停工、停赛、闭园、闭市措施。气象、防汛部门及时发布动态，新闻媒体不间断追踪报道、释疑解惑。满意答卷的背后，是全市上下各司其职、通力合作。<br/><div class="contheight"></div>遇到台风天，个人的最佳应对之策大概是安居家中，可对一座超大型城市而言，管理的难度和广度都超出常人的想象。以登陆点崇明为例，抗击台风期间，全区共转移15615人，出动巡查10272人次、抢险3989人次。这些看似枯燥的数据背后，体现出的是管理系统的良性运转和各部门的协同合作，是精细化管理的最好注脚。<br/><div class="contheight"></div>有人可能要问，前期动用那么多人力物力，转移、安置那么多人员，会不会小题大做，最后虚惊一场？恰恰相反，不怕“兴师动众”、不怕“劳民伤财”、不怕“十防九空”，以万无一失的重视程度应对台风，才能避免百密一疏，确保城市安全平稳运行和人民群众生命财产安全。<br/><div class="contheight"></div>早在今年年初的城市管理精细化工作推进大会上，李强就掷地有声地指出，要以绣花般的细心、耐心和卓越心提高上海城市管理精细化水平。正如应勇所言，台风“安比”，无疑是对上海城市精细化管理、城市能级和核心竞争力提升的一次考验。<br/><div class="contheight"></div>细节决定成败，城市管理就应该在细微处下功夫。有不少细节容易让人习以为常，甚至不在视野范围，但又往往和市民的生活与安全息息相关。以地铁为例，能不停运应当尽量不停运，而事实上，对线路声屏障的维护，对排水泵、排水渠、隧道出入洞口等处的防汛设施的加固，才是决定地铁线路是否安全的关键。将这些细节落到实处，才能让每一位市民感受到切实的出行安全。<br/><div class="contheight"></div>防汛防台是一场硬仗，打好这一仗，就是对人民群众负责，对上海这座城市负责。打好这一仗，考验的不仅是“急时”的周密应对，更是“平时”的精细管理。努力把精细化的要求贯穿于在城市管理的方方面面，上海就能成功应对各种风险挑战。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：黎凡<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 台风“安比”</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2284117">
+<div class="nbgbox">
+<a class="zan" contid="2284117" href="javascript:;" onclick="voteCont(this)" praisetimes="89">
+                           88</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 台风“安比”</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2284117&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2284117&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

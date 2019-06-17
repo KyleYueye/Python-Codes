@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">武汉高中生突发疾病面临休学，师生录课在其家中“复原”课堂</h1>
+<div class="news_about">
+<p>杨枫 李步敏 周莉莉/武汉晚报</p>
+<p>
+							2018-12-24 10:20<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="254" src="http://image.thepaper.cn/www/image/13/447/26.jpg" width="240"/></div><span style="color: rgb(128, 128, 128);">张晓在病床前给程永旭补课  通讯员周莉莉 摄</span><br/><div class="contheight"></div>一块黑板改变命运的故事，眼下正在武汉市第十四中学高二（3）班上演。程永旭是该班一名普通学生，11月初突发疾病，手术后须卧床3个月，长时间掉课让他面临休学。高二（3）班全体师生齐心协力将黑板“搬”到了程永旭的病床前……<br/><div class="contheight"></div><strong>突发疾病面临休学<br/><div class="contheight"></div></strong>今年11月初，程永旭因先天性腰椎椎管狭窄发作，剧烈的腰疼让他必须马上手术治疗，完全治愈需要至少100天，医生嘱咐100天内尽量卧床。这一突如其来的打击，让程永旭陷入了绝望。因为恰逢湖北新高考改革，他已是传统高考的最后一届，如果休学他就要从高一重新学习，这意味着，他的高中生涯要延长两年。<br/><div class="contheight"></div>“孩子当时知道可能会休学，情绪马上就崩溃了，在家里大哭，然后吃不下睡不着，家里人也非常着急。”程永旭的爸爸程军说。这时候班主任张晓站出来给了孩子一颗“定心丸”——不论付出多少努力，决不让程永旭休学。<br/><div class="contheight"></div><strong>家里“复原”课堂</strong><br/><div class="contheight"></div>在程永旭病休后的一个月里，张晓至少往返医院10趟，给他做“心理按摩”，同时给他在病床前补课。“我们班的孩子也特别暖心，他们专门为程永旭成立了笔记小组，每天轮流给他整理非常详尽的学习笔记。”张老师说。<br/><div class="contheight"></div>为了让程永旭不掉课，张晓先是拿出了自己家的相机，给他录课，但相机容量太小，程军随即买来了录像机方便师生们录课。<br/><div class="contheight"></div>“程永旭你好，我们开始录课咯！你做好准备了吗？”每个老师在高二（3）班上课前，都会有这么一段特别的“开场白”，已持续1个多月了。<br/><div class="contheight"></div>该班师生为程永旭成立“录课小组”和“笔记小组”，每周学生们都将录像课和笔记整理好，交给程军带给程永旭。老师们也为程永旭成立了“答疑群”，他有不懂的随时可以得到老师一对一的解答。程永旭就算在家里也不会掉一节课。<br/><div class="contheight"></div>12月21日，程永旭的爸爸程军到学校给该班的全体师生送去感谢信和锦旗，感谢师生们的倾心付出。“老师和同学们对孩子不抛弃不放弃，这种一家人的感觉让我们感觉太温暖了！”程军说。<br/><div class="contheight"></div>（原题为：《师生同步录课将教室“搬”到病床前》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 高二,手术,武汉,录课</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768000">
+<div class="nbgbox">
+<a class="zan" contid="2768000" href="javascript:;" onclick="voteCont(this)" praisetimes="119">
+                           118</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 休学</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768000&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768000&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

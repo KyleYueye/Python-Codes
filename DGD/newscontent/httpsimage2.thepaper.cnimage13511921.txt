@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">九万里风鹏正举</h1>
+<div class="news_about">
+<p>本报评论员/人民日报</p>
+<p>
+							2018-12-26 06:19<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">历史总是要前进的，历史从不等待一切犹豫者、观望者、懈怠者、软弱者。只有与历史同步伐、与时代共命运的人，才能赢得光明的未来。<br/><div class="contheight"></div>“四十载惊涛拍岸，九万里风鹏正举。”在庆祝改革开放40周年大会上，习近平总书记饱含激情地回顾40年改革开放伟大历程，并从中华民族伟大复兴的历史大视野中，指出改革开放作为重要法宝、必由之路、关键一招的深远意义，号召“将改革开放进行到底”。这既是把握历史大势的深刻洞见，更是引领时代发展的豪迈宣言。<br/><div class="contheight"></div>从历史大势来看，在近代以来漫长的历史进程中，中国人民经历了太多太多的磨难，付出了太多太多的牺牲，进行了太多太多的拼搏。“江河之所以能冲开绝壁夺隘而出，是因其积聚了千里奔涌、万壑归流的洪荒伟力。”正是40年来的改革开放，使中国人民在富起来、强起来的征程上迈出了决定性的步伐，让中华民族实现了从“赶上时代”到“引领时代”的伟大跨越。今天，中国人民和中华民族在历史进程中积累的强大能量已经充分爆发出来了，为实现中华民族伟大复兴提供了势不可挡的磅礴力量。正因如此，习近平总书记才把推进改革开放和中国特色社会主义事业，与建立中国共产党、成立中华人民共和国，并称为五四运动以来我国发生的三大历史性事件，并列为近代以来实现中华民族伟大复兴的三大里程碑。<br/><div class="contheight"></div>从时代发展来看，世界面临百年未有之大变局，这给中华民族伟大复兴带来重大机遇。当然也要看到，世界变局中危和机同生并存，克服了危即是机，失去了机即是危。抓住机遇、迎接挑战，关键在于高举新时代改革开放旗帜，继续全面深化改革、全面扩大开放。40年来，我们靠什么来振奋民心、统一思想、凝聚力量？靠什么来激发全体人民的创造精神和创造活力？靠什么来实现我国经济社会快速发展、在与资本主义竞争中赢得比较优势？靠的就是改革开放。今天，越是环境复杂，我们越是要以更坚定的信心、更有力的措施，把改革之路走得更快、开放之门开得更大。正如习近平总书记深刻指出的，“改革开放已走过千山万水，但仍需跋山涉水，摆在全党全国各族人民面前的使命更光荣、任务更艰巨、挑战更严峻、工作更伟大。”<br/><div class="contheight"></div>没有改革开放，就没有中国的今天；离开改革开放，也没有中国的明天。实现中华民族伟大复兴，必须合乎时代潮流、顺应人民意愿，勇于改革开放，让党和人民的事业始终充满奋勇前进的强大动力。从开启新时期到跨入新世纪，从站上新起点到进入新时代，改革开放40年来取得的伟大成就，不是天上掉下来的，更不是别人恩赐施舍的，而是全党全国各族人民用勤劳、智慧、勇气干出来的。建成社会主义现代化强国，实现中华民族伟大复兴，是一场接力跑，我们要一棒接着一棒跑下去，每一代人都要为下一代人跑出一个好成绩。今天，以更大决心、更大勇气、更大力度把改革开放推向深入，既当改革促进派，又当改革实干家，这正是我们这一代人的历史使命和无上光荣。<br/><div class="contheight"></div>40年大潮激荡，每一天都是新的起点。让我们更加紧密地团结在以习近平同志为核心的党中央周围，高举中国特色社会主义伟大旗帜，不忘初心，牢记使命，将改革开放进行到底，不断实现人民对美好生活的向往，在新时代创造中华民族新的更大奇迹！创造让世界刮目相看的新的更大奇迹！<br/><div class="contheight"></div>（原题为《九万里风鹏正举——论学习贯彻习近平总书记在庆祝改革开放四十周年大会重要讲话》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张珺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 改革开放</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2775291">
+<div class="nbgbox">
+<a class="zan" contid="2775291" href="javascript:;" onclick="voteCont(this)" praisetimes="347">
+                           346</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 改革开放40年</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2775291&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2775291&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

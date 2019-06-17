@@ -1,0 +1,90 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜面子里子要一个样！五星酒店的回应别又变成“公关”</h1>
+<div class="news_about">
+<p>澎湃特约评论员 吴佳珅</p>
+<p>
+							2018-11-15 17:18<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">揭露五星酒店卫生乱象的视频引发关注后，被点名的14家酒店陆续回应。最新进展是，6家道歉了，8家还在查。上海旅游局、卫健委回应称已介入核查。 <br/><div class="contheight"></div>但我也在这些涉事酒店及行业协会、主管部门的回应中，看到了一些耐人寻味的东西。<br/><div class="contheight"></div>比如，北京柏悦酒店发布的声明除了“深表歉意”，同时又表示这是一个单一事件，并不代表酒店卫生标准。 <br/><div class="contheight"></div>比如，售价高达约4500元一晚的上海宝格丽酒店前台称“对此事件不清楚，不了解”，并称公关部“可能在开会”。 <br/><div class="contheight"></div>比如，福州市旅游局称，曾接到过对福州香格里拉酒店的卫生投诉。 <br/><div class="contheight"></div>比如，中国饭店协会一副秘书长称，“整个行业的标准以及企业的操作规范都是有的，曝光的是个案问题，具体是酒店操作中哪个环节出现的问题，还要等待各家酒店调查的结果。” <br/><div class="contheight"></div>综合以上信息，人们有理由质疑，如果真如有酒店所说的是“单一事件”，为何核查结果至今没全部出来？核查真的如此困难，还要多久？曾被投诉的酒店，为何又栽在同一问题上？依靠酒店的自查自纠，究竟能否起到作用？ <br/><div class="contheight"></div>更让人警惕的是，这些酒店真的了解了公众的焦虑和愤怒，正抱着负责和严谨的态度在不枉不纵地调查，而不是正忙着开会研究对策，绞尽脑汁地想向媒体和公众来一次“危机公关”？ <br/><div class="contheight"></div>不要怪人们苛刻。因为态度决定行为，不端正的态度容易异化成套路化的行为，也因为这绝非五星酒店第一次被爆卫生乱象了。如果仔细对照网友的爆料，估计没有多少人敢保证自己住过的酒店不会有同样的景象。我有一次去某地出差，订了一家星级酒店，打开房间门便闻一股霉味。更奇葩的是，一位同事发现房间地上，赫然躺着一只穿过的袜子。 <br/><div class="contheight"></div>可以预见的是，这也不是五星酒店卫生乱象被爆的最后一次。因为乱象背后，是各方利益与责任、道德与现实的长期博弈。一则，酒店无底线压缩成本，出了问题甩锅给服务保洁人员又太容易，比如此次被曝光的北京柏悦就称卫生乱象“是单一事件，不代表酒店管理标准”；二则，卫生状况有别于重大安全问题，使用不干净的水杯、毛巾，在一些人看来，顶多就是恶心了点，不至于造成严重后果；三则，来自酒店行业心照不宣的约定，大家都是这么做的，我也可以这样做，“法不责众”。外部监管不到位、内部自律几近全无，酒店的卫生状况就一而再再而三地发生。 <br/><div class="contheight"></div>但要重申的是，不管是星级酒店还是普通酒店，不管各家有着怎样的管理制度与卫生标准，消费者对于干净卫生的诉求都是不容挑衅的底线。星级酒店作为走高端路线的服务行业风向标，更应该严格要求自身，做到面子和里子一样光鲜。金玉其外败絮其中，砸了自己的品牌不说，也是对行业规则与相关法律法规的漠视。如再不提高危机意识，知耻后勇地整改，却抱着侥幸、麻木与甩锅心理，就别怪最终被消费者抛弃。 <br/><div class="contheight"></div>几千一晚的房费换不来一个干净的杯子、一条卫生的毛巾，是房客的“杯具”，也是五星级酒店的耻辱。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_asktopic">
+<div class="news_askuser" onclick="window.open('asktopic_detail_10014311');"><span class="verticalAlign_topic"></span>
+<div class="news_askuser_bd">
+<div class="news_askuser_sort">圆桌</div>
+<div class="news_askuser_profile">星级酒店存在的卫生问题您怎么看？如何规避？</div>
+</div> <div class="news_askuser_trbs"><span class="trbs">
+<div class="userleft_hdimg">
+<img src="http://image.thepaper.cn/html/image/def_head.jpg"/><div class="hdimg_bg30"><img src="//file.thepaper.cn/www/v3/img/headerimg_ctbg30.png"/></div>
+</div>
+<a class="u_sname"></a>
+<span>2018-11-15</span>
+<span class="trbs_zan" id="10014311" times="304">304</span>
+<span>提问征集中</span>
+</span></div>
+</div>
+</div>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 五星酒店卫生乱象</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2637031">
+<div class="nbgbox">
+<a class="zan" contid="2637031" href="javascript:;" onclick="voteCont(this)" praisetimes="83">
+                           82</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 高档酒店卫生乱象</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2637031&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2637031&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

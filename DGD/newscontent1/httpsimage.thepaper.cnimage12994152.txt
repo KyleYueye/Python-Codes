@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜网游道德委员会成立，游戏分级还要多久？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 余寒</p>
+<p>
+							2018-12-07 18:02<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2716062" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜网游道德委员会成立，游戏分级还要多久？" src="//image1.thepaper.cn/image/12/987/7.jpg"/>
+</a>
+<div class="atlas_360_txt">网络游戏道德委员会对20款游戏作出评议：其中9款不予批准<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">据央视报道，网络游戏道德委员会于近期成立，并对首批20款存在道德风险的网络游戏进行了评议。经对评议结果进行认真研究，网络游戏主管部门对11款游戏责成相关出版运营单位认真修改，消除道德风险；对9款游戏作出不予批准的决定。 <br/><div class="contheight"></div>这个新闻很短，但对整个游戏行业来说，无疑是件大事。前不久，国家暂停了游戏版号的发放，游戏行业迎来寒冬，近半数的公司利润下滑。随着道德风险评议常态化，会有相当一批之前没拿到版号的游戏，面临着“不予批准”的命运。 <br/><div class="contheight"></div>网络游戏道德委员会，顾名思义，是对游戏进行道德审查。从此次的审查结果看，20款存在相关问题的游戏，有9款没通过，问题率可见一斑。这也正是过去游戏产业乱象的缩影。<br/><div class="contheight"></div>未成年群体一直都是游戏公司收割流量的重点对象，网游的低俗、血腥、暴力等问题，让家长们颇为头疼。一些极端的家长，甚至将沉迷游戏的青少年送往不正规的网瘾戒除中心“治疗”，引发出系列社会悲剧。 <br/><div class="contheight"></div>今年上半年，媒体连续发文批评时下火热的“王者荣耀”，随后王者荣耀推出防沉迷系统。可见针对青少年的绿色防火墙的建立，依靠的还是媒体和舆论的外力推动。它更加说明，靠企业自己的良心很难形成道德自觉，履行社会责任。 <br/><div class="contheight"></div>面对游戏公司的逐利冲动，一种常态化的审核评议机制，自然显得有必要。这是对青少年的成长负责，其实也有利于游戏公司的长远发展，倒逼它们精耕细作，而非依靠低俗、血腥或者暴力元素等旁门左道来挣快钱。 <br/><div class="contheight"></div>不过用道德委员会规范游戏产业时，也得看到，道德本身是相当模糊且标准不一的概念。十年前，对网络游戏的流行看法，还是将其视作电子海洛因，道德贬义色彩相当重。今天，它实现了一定程度的去污名化，游戏产业延伸出的电子竞技，更是被纳入了亚运会竞赛项目。<br/><div class="contheight"></div>可见，围绕网络游戏的道德视角，一直在变化中。而且，对不同年龄的群体来说，对游戏中道德风险的理解，可能会截然不同。那么，如何避免道德审查不会干涉他人的法律自由？ <br/><div class="contheight"></div>目前，网络游戏道德委员会的成员名单，以及道德评议的标准，都还没有公布。鉴于道德审查是一种极具主观色彩的行为，不管是从满足公众知情权，还是从防止道德审查权力扩大化方面考虑，都有必要向社会公开，让游戏领域的道德审查权在阳光下运行。<br/><div class="contheight"></div>另一方面，在新成立的网络游戏道德委员会之外，游戏产业的健康发展，最终还是得靠健全的分级体系。对此，历届两会上不乏有代表委员呼吁，但目前为止依旧缺少实质性进展。随着青少年触网越来越便利，游戏玩家群体数越来越多，分级制度显然需要提速。<br/><div class="contheight"></div>从停发版号到成立网络游戏道德委员会，今年以来，游戏政策逐渐收紧，过去粗放的管理体制正在改变。对一些游戏公司而言这是寒冬，对青少年来群体说，却是应有的归位。所以，希望道德委员会能够让游戏公司落实对社会负责的主体责任。当然作为一种新兴权力，游戏领域的道德审查权，也需要公开透明，接受公众的审视与监督。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 网游道德委员会</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2716854">
+<div class="nbgbox">
+<a class="zan" contid="2716854" href="javascript:;" onclick="voteCont(this)" praisetimes="336">
+                           335</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 防网游沉溺</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2716854&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2716854&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（348）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">日本明仁天皇发表最后一次新年致辞，为日本和世界和平祈福</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-02 19:53<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="398" src="http://image.thepaper.cn/www/image/13/811/258.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">当地时间2019年1月2日，日本东京，日本皇室举行新年朝贺活动，明仁天皇发表任内最后一次新年致辞，吸引大批民众前来观看。东方IC 图<br/><div class="contheight"></div></span>日本明仁天皇(Emperor Akihito)2日参加了<span style="color: rgb(51, 51, 51); font-family: arial; text-align: justify;">在位30年期间最后一次新年参贺</span><span style="color: rgb(51, 51, 51); font-family: arial; text-align: justify;">，他向数万名到场民众</span>表示，自己在祈祷和平。<br/><div class="contheight"></div>据朝日新闻报道，为了一睹这位85岁高龄天皇的最后一次传统新年问候，截至2日下午早些时候，已有超过11.46万人涌入皇宫。许多人挥舞着日本国旗，高喊着“万岁”的口号。<br/><div class="contheight"></div>明仁天皇将于4月30日退位，成为日本近两个世纪以来首位退位的君主，今年58岁的皇太子德仁将于5月1日即位。<br/><div class="contheight"></div><span style="color: rgb(51, 51, 51); font-family: arial; text-align: justify;">当地时间2日上午10点，天皇夫妇、皇太子夫妇和秋荻宫夫妇等皇室成员来到了宫殿的阳台上。</span><br/><div class="contheight"></div>身穿深色西装的明仁天皇微笑着<span style="color: rgb(51, 51, 51); font-family: arial; text-align: justify;">向民众挥手致意</span>，<span style="color: rgb(51, 51, 51); font-family: arial; text-align: justify;">并通过话筒发表了讲话，</span>“新年快乐！<span style="color: rgb(51, 51, 51); font-family: arial; text-align: justify;">一年起始之际，祈愿我国和世界的人民安宁和幸福。</span>”<br/><div class="contheight"></div>天皇夫妇每年都会向民众致以简短的新年祝福，今年天皇<span style="color: rgb(51, 51, 51); font-family: arial; text-align: justify;">在阳台上出现数次</span>，向尽可能多的民众致辞。<br/><div class="contheight"></div>“我和我的母亲来到这里是想告诉他，我们感谢他为国家做出的努力，”大学生西村育美(Yume Nishimura)告诉法新社。<br/><div class="contheight"></div>68岁的退休老人岩崎和夫说：“我希望他和美智子皇后能健康放松地度过退休后的时光。”<br/><div class="contheight"></div>明仁天皇在2016年以年龄和健康问题为由，表达了退居二线的意愿。他在最后几次对外发声中，都强调了和平主义的观点。上月，明仁天皇在生日记者会上表示，以“这个时代（日本）没有战争”而感到满足与欣慰，要求日本人民不要忘却历史。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙语双<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 日本,日本天皇,新年致辞</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2804477">
+<div class="nbgbox">
+<a class="zan" contid="2804477" href="javascript:;" onclick="voteCont(this)" praisetimes="93">
+                           92</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日本天皇退位</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2804477&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2804477&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

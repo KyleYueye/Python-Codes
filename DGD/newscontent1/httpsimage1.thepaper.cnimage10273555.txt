@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜拒绝校园贷、高消费，也该纳入大学第一课</h1>
+<div class="news_about">
+<p>澎湃特约评论员 朱四倍</p>
+<p>
+							2018-09-08 14:31<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2420535" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜拒绝校园贷、高消费，也该纳入大学第一课" src="//image1.thepaper.cn/image/10/267/57.jpg"/>
+</a>
+<div class="atlas_360_txt">媒体调查大学生超前消费：阔绰的生活如毒品，开始就停不下来<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">教育部日前下发通知，要求各地各高校引导学生树立金融理财和金融安全观念，及时纠正学生超前消费、过度消费和从众消费等错误观念，引导学生培养勤俭节约意识。<br/><div class="contheight"></div>这是一则例行通知，但意义不可小视，因为它直指当下部分大学生的消费病灶：超前消费、过度消费和从众消费。<br/><div class="contheight"></div>讨论大学生消费，一个回避不了的关键词，就是校园贷。自2014年各类校园贷平台兴起后，由于手续简便、放款快，并且在商家的营销刺激下，迅速风靡全国各大校园。社会经验不足的大学生很容易深陷其中，甚至背上巨额债务，引发生命悲剧。<br/><div class="contheight"></div>有了校园贷之后，不少学生热衷分期、借贷，部分人更是借此过上了这个年纪本不该有的奢侈生活：新款苹果手机要买，明星演唱会要看；三天一趟KTV，五天一桌下酒菜；父母给的生活费没了，打开手机就借；“这个月潇洒，下个月紧巴”……这在70后、80后一代看来，是不可想象的。<br/><div class="contheight"></div>上世纪九十年代，我们上大学时，除了吃饭消费外，最主要就是书籍和报纸支出，大学周边书店众多，也是学生最愿意光顾的地方。现在的大学周围书店几乎不见踪迹，餐厅、歌厅、宾馆多了起来，看似微不足道的变化，却折射着大学生消费状况的变迁。当花呗、借呗、校园贷等消费方式刺激着年轻人不断买买买时，已经陷入了消费主义的泥淖而不自知。<br/><div class="contheight"></div>学者凡勃伦在《炫耀性消费》中指出，“一个人要使他日常生活中遇到的那些漠不关心的观察者，对他的金钱力量留下印象，惟一可行的办法是不断地显示他的支付能力。”种种现象观之，大学生的人情消费、贷款消费、奢侈消费就是对“金钱力量”的困惑所致，被消费主义所“迷”。<br/><div class="contheight"></div>超前消费、借贷消费，对多数人来说不仅不足取，而且是有害的。道理很简单，天上不会掉馅饼，羊毛出在羊身上，商家不会是活雷锋。作为大学生，弄明白这些常识并不难。<br/><div class="contheight"></div>正因为如此，习惯于重视学生知识获取、技能习得的大学，也应该重视大学生消费能力的养成。高校应及时纠正学生超前消费、过度消费和从众消费等错误观念，恰当处理金钱和欲望的关系，确立合理的消费期望值，避免消费欲望的膨胀超越自身经济能力，使消费保持在家庭和社会、个体身份相一致的水平上。<br/><div class="contheight"></div>“谁的钱也不是大风吹来的”。大学生的消费主要靠父母提供，能够靠自己挣钱自己花的人，可以说寥寥无几。因此大学生在消费时，应多想想父母的辛苦，轻易不要借贷。更不要说，不法“校园贷”，甚至所谓的“裸条贷”，已经制造了太多悲剧。<br/><div class="contheight"></div>趁这几天开学，做好校园不良网贷风险警示教育，帮助大学生树立正确的消费观，拒绝校园贷、高消费，不妨也纳入“大学第一课”。（<strong>作者系大学教师</strong>）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 大学第一课</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2421238">
+<div class="nbgbox">
+<a class="zan" contid="2421238" href="javascript:;" onclick="voteCont(this)" praisetimes="132">
+                           131</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 大学第一课</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2421238&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2421238&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（81）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

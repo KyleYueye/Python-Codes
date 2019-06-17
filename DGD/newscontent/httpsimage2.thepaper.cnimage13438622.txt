@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25678">唐人街</a>
+</div>
+<h1 class="news_title">中国使馆提醒赴芬兰自由行中国游客：看北极光不要轻信宣传</h1>
+<div class="news_about">
+<p>李骥志/新华社</p>
+<p>
+							2018-12-23 22:21<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社赫尔辛基12月23日消息，圣诞节即将到来，“圣诞老人村”所在地芬兰北部的拉普兰地区迎来旅游高峰。针对近期中国游客在当地自由行遇到的问题，中国驻芬兰大使馆领事部日前在使馆微信公众号上发文提出多项建议。<br/><div class="contheight"></div>文章说，<strong>游客在网上订房后要记得核实入住时间，如提前到达酒店很可能没有房住。如出现类似情况，游客应理性对待，与酒店方交涉，保留必要证据，先在别处暂时住下。</strong><br/><div class="contheight"></div>对于喜好民宿的游客，使馆建议不要去敲邻居的门或在公共区域停留，“这样并不受欢迎”。如不能及时抵达，请务必委托朋友代取钥匙，或者通过电话、邮件沟通，以免房主等不到人。<br/><div class="contheight"></div>芬兰已允许持中国驾照者在芬短期驾车。使馆提醒，芬兰冬季因冰雪造成路滑需小心驾驶；租车要配备冬季轮胎，遇暴风雪不宜出门，且需学习冰雪路面驾驶和急救防冻知识。尤其注意不要疲劳驾驶。<br/><div class="contheight"></div>使馆提醒，<strong>北极光是吸引游客的一大景观，但因各种原因，不是每个夜晚都能用肉眼看到极光，有些公司的“过度宣传不足为信”。</strong>比极光指数更重要的是天气，如果碰上阴天或下雪，“再强的极光也无法观测到，请做好心理准备”。<br/><div class="contheight"></div>中国驻芬兰大使馆领事部告诉记者，近年来，越来越多的中国公民到芬兰北部旅游，冬季游客数量猛增，酒店一房难求。中国目前已成为拉普兰地区最大的游客来源国之一，中国游客中采取自由行方式的占比过半，使馆方面希望通过上述提醒能帮助中国游客在芬兰期间减少安全隐患。<br/><div class="contheight"></div>（原题为《中国使馆提醒中国游客到芬兰自由行注意事项》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王建亮<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 海外游,北欧,芬兰,中国游客</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2767053">
+<div class="nbgbox">
+<a class="zan" contid="2767053" href="javascript:;" onclick="voteCont(this)" praisetimes="311">
+                           310</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 海外安全</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767053&caid=25678",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767053&amp;caid=25678" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

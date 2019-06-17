@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">长江委探索建立流域综合控制断面智能告警平台</h1>
+<div class="news_about">
+<p>黄艳/新华社</p>
+<p>
+							2019-01-08 21:23<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社武汉1月8日电 某个断面出现过低水位或过高水位，某个断面水质没有达标……这些紧急情况一旦出现，平台就会实时发出相应级别的告警，随后启动处置措施或者监管程序。<br/><div class="contheight"></div>在8日长江水利委员会举行的新闻发布会上，长江委新闻发言人、办公室主任王辉介绍，长江流域控制断面监督管理告警平台已经上线试运行，这是长江委探索建立流域综合监控断面智能告警平台的新举措，可实现防汛抗旱、水资源管理、水资源保护等多方面监控信息的实时告警，为长江治理和保护提供智能化的技术支撑。<br/><div class="contheight"></div>据长江委规划计划局副局长罗小勇表示，该平台试运行半年以来，已经累计有267个断面发出过告警。目前的智能告警主要集中在水位、流量、水质等监测指标上，服务于防汛抗旱、水资源管理、水资源保护等，未来还将扩展到水土保持、采砂管理、水生态保护等多个监督管理领域。<br/><div class="contheight"></div>在监控手段方面，告警平台现阶段主要依托断面的站网监测和视频监视。目前，长江委系统内已有488个断面，203个视频终端接入到告警平台。接下来还将增加遥感监测和无人机监测等技术，力争打造“天空地”多位一体的智能监测体系。<br/><div class="contheight"></div>推动长江大保护，贵在流域统筹协调，其中信息共建共享机制亟待建立。长江委正在建设的流域综合监控断面智能告警平台，旨在通过集约化、智能化手段实现信息互通和共享，为长江经济带高质量发展、长江大保护的推进提供“一盘棋”的技术支撑。<br/><div class="contheight"></div>按照长江委的计划，告警平台将分步骤实施，“先行业内后行业外”“先常规后智能”逐步推动监测体系、技术和信息的集成与共享。罗小勇表示，下一步还将制定监督告警处置办法，形成一套完善的监督告警机制，推动治江监管工作落到实处。<br/><div class="contheight"></div>（原题为《长江委探索建立流域综合控制断面智能告警平台 》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：崔烜<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 长江委 水质</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828894">
+<div class="nbgbox">
+<a class="zan" contid="2828894" href="javascript:;" onclick="voteCont(this)" praisetimes="37">
+                           36</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 长江委</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828894&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828894&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

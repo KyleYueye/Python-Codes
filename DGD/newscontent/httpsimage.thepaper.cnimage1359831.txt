@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25450">文化课</a>
+</div>
+<h1 class="news_title">与改革开放同行，东方出版中心成立40年</h1>
+<div class="news_about">
+<p>澎湃讯</p>
+<p>
+							2018-12-10 20:01<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月10日上午，东方出版中心成立四十周年暨优秀出版物表彰大会在上海举行。<br/><div class="contheight"></div>东方出版中心前身是中国大百科全书出版社上海分社，成立于1978年11月18日。2002年组建中国出版集团时，东方出版中心成为集团唯一在沪成员单位。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/59/565.jpg" width="600"/></div>为纪念东方出版中心成立四十年，东方出版中心成立了一个由三代出版人组成的评审小组，对建社四十年以来出版的优秀图书进行评审，最后选出了40种（套）优秀图书。在这些获奖作品中，最具代表性的是《中国大百科全书》。1978年中央决定成立中国大百科全书出版社，同时批准在上海成立分社，主要承担大百科全书的编撰、出版和发行工作。这次评选的《中国大百科全书》，其中六卷（中国文学卷、农业卷、纺织卷、中国地理卷、世界地理卷、宗教卷）就是由上海分社主持编纂的。在本次会议上，中国出版集团公司副总裁刘伯根表示：“东方人”从根子上讲是“百科人”，东方走过的40年，是我国百科事业取得辉煌成就的40年。《中国大百科全书》的出版，开启了中国现代意义上的百科全书事业，圆了国人的“百科梦”。<br/><div class="contheight"></div>此外，文学、经管、学术及百科知识、年鉴等方面的图书都广受欢迎，比如《文化苦旅》、“现代化知识文库”、“中国学术丛书”、“当代中国作家随笔丛书”、解密档案系列、 李希凡文集系列（七卷）、 河合隼雄作品系列、中华民族道德生活史（8卷）《四世同堂》、简·莫里斯系列丛书等。<br/><div class="contheight"></div>东方出版中心在人文历史领域有自己的优势和特长。在获奖图书中，“世界历史文库”前后出版70多种，是目前国内最大的一套世界国别史。虽然目前还没有出完全世界所有国家和地区的历史，但出版的这70多种已有很大的覆盖面，预计再有六七年时间，就可以出版一整套齐全的世界国别史、地区史。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="358" src="http://image.thepaper.cn/www/image/13/59/567.jpg" width="600"/></div>开拓文学新领域的“文化大散文系列”是东方出版中心建社四十年来影响最大、评价最高、持续销售的一套丛书。其中余秋雨先生的《文化苦旅》既是发轫之作，又是代表作。《文化苦旅》是非常具有开拓性的散文作品，它把文化和文学融合在一起，打通了文化和散文的界限，把个人游历、知识考古乃至家国情怀都与文化覃思糅合在一起。在《文化苦旅》获得成功之后，东方出版中心相继还出版了王充闾的《沧桑无语》、梁衡的《把栏杆拍遍》、夏坚勇的《湮没的辉煌》、鲍鹏山的《寂寞圣哲》等优秀作品。<br/><div class="contheight"></div>东方出版中心四十年，除了选出40种代表出版物外，还策划了40周年社庆主题展。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陈诗怀<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2722719">
+<div class="nbgbox">
+<a class="zan" contid="2722719" href="javascript:;" onclick="voteCont(this)" praisetimes="6">
+                           5</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 出版业</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2722719&caid=25450",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2722719&amp;caid=25450" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

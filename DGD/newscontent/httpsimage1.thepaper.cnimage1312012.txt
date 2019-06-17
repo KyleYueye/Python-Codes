@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">英国首相特蕾莎·梅就不信任投票发表讲话：将尽全力争取选票</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2018-12-12 17:43<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="328" src="http://image.thepaper.cn/www/image/13/120/35.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">英国首相特蕾莎-梅就不信任投票发表讲话<br/><div class="contheight"></div></span>海外网12月12日消息，当地时间12日上午，在英国保守党议员宣布当天晚上启动对英国首相特蕾莎·梅的不信任投票后，特蕾莎·梅在唐宁街10号发表声明。据法新社报道，特蕾莎·梅在声明中表示，将尽全力争取选票。<br/><div class="contheight"></div>根据英国《卫报》报道，当地时间12月12日，英国保守党宣布启动针对首相特雷莎·梅的不信任投票。保守党称，由于目前脱欧的进程进入混乱，他们已经不再相信首相可以完成这一协议。<br/><div class="contheight"></div>英国保守党1922委员会的主席布雷迪（Graham Brady）收到了48封要求对特雷莎梅发起不信任投票的信函。据保守党的规定，若党首辞职或者15%的保守党议员（即48人）要求发起不信任投票，就会启动新党首竞选。若首相下台，则至少三个月后才能举行议会选举。<br/><div class="contheight"></div>布雷迪称，不信任投票将在当地时间12月12日晚6-8点进行，而结果将会尽快公布。<br/><div class="contheight"></div>特雷莎·梅于10日宣布，推迟就“脱欧”协议问题进行的议会投票。此前特蕾莎∙梅表示，议会下院将于11日就英国“脱欧”协议草案进行表决。<br/><div class="contheight"></div>（原题为《英国首相特蕾莎·梅：将尽全力争取选票》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2730907" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">外媒：英国保守党宣布启动针对特雷莎·梅的不信任投票</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 不信任投票,特蕾莎·梅,英国脱欧</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2731229">
+<div class="nbgbox">
+<a class="zan" contid="2731229" href="javascript:;" onclick="voteCont(this)" praisetimes="45">
+                           44</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 特蕾莎·梅</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2731229&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2731229&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

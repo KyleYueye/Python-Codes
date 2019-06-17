@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">青岛网红女主播遭男友囚禁：拿不出60万分手费就同归于尽</h1>
+<div class="news_about">
+<p>刘玉凡、李旭东/“半岛都市报”微信公号</p>
+<p>
+							2018-12-24 16:06<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="800" src="http://image.thepaper.cn/www/image/13/453/662.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">半岛都市报微信公众号 图<br/><div class="contheight"></div></span>“半岛都市报”微信公号12月24日消息，“外甥女给我发短信求助，现在被男朋友囚禁在家里。”12月20日10点20分，赵女士跑到青岛海伦路派出所报警……<br/><div class="contheight"></div><strong>男友对她一见钟情，不惜花重金多次打赏</strong><br/><div class="contheight"></div>接警后，民警立即赶到清江路某小区。<br/><div class="contheight"></div>考虑到受害人的人身安全，民警身穿便服，分批来到现场，与在楼下等候的赵女士见面，迅速了解了楼上的情况。<br/><div class="contheight"></div>为了不打草惊蛇，民警悄悄用的赵女士提供的备用钥匙，打开门进入现场。<br/><div class="contheight"></div>对于民警的突然到来，犯罪嫌疑人杨某还没缓过神来，就被迅速控制。<br/><div class="contheight"></div>受害人朱女士是一位网红女主播，今年年初，她通过网络与人杨某相识，杨某对朱女士一见倾心，花重金多次打赏，见面后并确定恋爱关系。<br/><div class="contheight"></div><strong>女主播提出分手，男友说恋爱期间花费大必须给60万补偿</strong><br/><div class="contheight"></div>因种种原因，半个月前，朱女士向杨某提出分手。<br/><div class="contheight"></div>杨某先是不同意，后来又提出恋爱期间花费较大，要求朱女士给予补偿，两人不欢而散。<br/><div class="contheight"></div>12月19日下午两点左右，杨某来到朱女士家中，利用提前配好的钥匙，进了屋内躲好。<br/><div class="contheight"></div>等朱女士回家后，杨某将房门反锁，限制了朱女士的进出，并提出索要60万补偿款。<br/><div class="contheight"></div>朱女士称，暂时拿不出这么多钱，杨某就要与朱女士同归于尽。<br/><div class="contheight"></div>12月20日10点，已经过去二十个小时，杨某筋疲力尽，朱女士趁杨某不注意时，发短信向赵女士求助。<br/><div class="contheight"></div>目前，犯罪嫌疑人杨某已被刑事拘留，案件正在进一步审理中。<br/><div class="contheight"></div>（原题为《青岛网红女主播遭男友囚禁！“拿不出60万分手费，就同归于尽…”》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 青岛,女主播,男友,囚禁</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768767">
+<div class="nbgbox">
+<a class="zan" contid="2768767" href="javascript:;" onclick="voteCont(this)" praisetimes="8">
+                           7</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 网红主播</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768767&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768767&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（81）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

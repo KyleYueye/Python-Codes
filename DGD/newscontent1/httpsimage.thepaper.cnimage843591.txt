@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">法国总理夫人在上海体验中国传统手工艺</h1>
+<div class="news_about">
+<p>李淑平</p>
+<p>
+							2018-06-23 16:34<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>6月23日，法国总理夫人Edith Philippe参观了位于上海淮海路的「上下」之家，并与「上下」CEO兼艺术总监蒋琼耳闲聊品茗，亲手体验羊绒毡工艺。<br/><div class="contheight"></div></u>中国外交部发言人耿爽6月15日在例行记者会上说，应中国国务院总理李克强邀请，法兰西共和国总理爱德华·菲利普将于6月22日至25日对中国进行正式访问。访华期间，菲利普总理除了北京还将赴深圳和上海参访。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/8/435/87.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">法国总理夫人Edith Philippe与「上下」CEO兼艺术总监蒋琼耳</span><br/><div class="contheight"></div> 据介绍，当天下午法国总理夫人Edith Philippe着针织衫、格子长裤搭配凉鞋，非常休闲。他们一行人到达后，「上下」之家像往常一样并没有关闭店门。<br/><div class="contheight"></div>「上下」CEO兼艺术总监蒋琼耳先邀请Edith Philippe夫人品茗，准备的茶叶有两种，一是浓蜜幽兰特韵、滋味醇厚回甘的广东单丛蜜兰香。二是云南千家寨千年古树茶叶制作的红茶，其茶汤蕴含整个原始森林的气息，又如舌底鸣泉，鲜爽宽厚。<br/><div class="contheight"></div>Edith Philippe夫人手捧香茗，先闻再品，赞不绝口。再佐以精心搭配的花与糕点，伴着丝丝古琴音韵入耳，感受中国传统文化与当代设计的写意轮廓。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/8/435/89.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">法国总理夫人Edith Philippe欣赏中国传统竹丝镶嵌工艺。</span><br/><div class="contheight"></div>离开茶席，Edith Philippe夫人又欣赏了中国传统竹丝镶嵌工艺与羊绒毡工艺的制作过程。这两种传统手工艺在「上下」与匠人共同研究下，已被运用到了「上下」的当代设计之中。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/8/435/88.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">法国总理夫人Edith Philippe体验羊毛毡工艺。</span><br/><div class="contheight"></div>观赏之余，Edith Philippe夫人更兴趣盎然地亲自尝试了两样手工艺的制作，对中国传统手工艺表达了由衷的欣赏。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈关哲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2214207">
+<div class="nbgbox">
+<a class="zan" contid="2214207" href="javascript:;" onclick="voteCont(this)" praisetimes="16">
+                           15</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 法国总理访华</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2214207&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2214207&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

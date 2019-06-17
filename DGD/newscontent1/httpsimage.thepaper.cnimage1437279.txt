@@ -1,0 +1,86 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">上海警方地铁口伏击围堵一克隆出租车，曾撞断停车场栏杆逃逸</h1>
+<div class="news_about">
+<p>澎湃新闻记者 朱奕奕</p>
+<p>
+							2019-01-08 17:56<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<script src="//file.thepaper.cn/www/v3/js/jwplayer7.1.4.js" type="text/javascript"></script>
+<script type="text/javascript">jwplayer.key="JYFbHxc36sStM1VSc1vvyI42CCrHFlTZcWEYUA==";</script>
+<div class="news_video_name">
+<style type="text/css">
+							#player_wrapper{width:669px;height:377px;}
+							#player_wrapper .player_err_tip{width:669px;height:377px;display: none;vertical-align: middle;background-color: black;color: white; text-align: center;}
+							.jw-tab-focus:focus{outline:none;}
+						</style>
+<div id="player_wrapper">
+<div class="player_err_tip" id="Text">抱歉!<br/>您的浏览器可能不支持此视频播放器，请用更高版本的浏览器试试！</div>
+</div>躲避执法克隆车撞断停车场栏杆，上海警方多线寻踪将司机抓获。来源：上海松江警方(00:33)
+					</div>
+<div class="news_txt" data-size="standard">为躲避民警执法，克隆出租车司机竟然冲破停车场栏杆加速逃离。松江警方布线追踪，最终将其抓获。<br/><div class="contheight"></div>1月8日，澎湃新闻（www.thepaper.cn）记者从上海松江警方获悉，目前，犯罪嫌疑人李某因妨碍公务，掉包交通卡，使用其他车辆号牌等行为被依法刑事拘留，并处以扣36分，罚款7500元的处罚。<br/><div class="contheight"></div>据警方介绍，2018年11月中旬，某出租车公司向上海市松江区公安分局报警称，其公司所属某辆沪F牌照车辆违法信息不正常，怀疑遭套牌。<br/><div class="contheight"></div>接报后，松江警方立即开展侦破工作。经调查，逐步摸清了该车辆的驾驶员信息及行动轨迹。于是，松江警方对该车活动范围进行重点关注，并在近期一次巡逻昆港公路时，发现了车辆行踪。<br/><div class="contheight"></div>正当民警驾驶警车试图靠近时，该克隆车突然加速向辰塔路方向逃窜。随后，民警一路紧追将其逼进一停车场。当民警下车欲将其拦获时，走投无路的司机竟再次开车撞断停车场栏杆后逃逸。<br/><div class="contheight"></div>12月24日13时许，经守候伏击，民警在9号线地铁口开展围堵，成功将犯罪嫌疑人李某抓获，并从其驾驶的克隆车上查获21张空交通卡，伪造车牌2张。<br/><div class="contheight"></div>经查，李某使用伪造的机动车号牌，假冒出租车进行营运，并通过调换交通卡非法牟利。目前，案件正在进一步审理中。<br/><div class="contheight"></div>警方提示，广大乘客搭乘出租汽车出行时，应注意观察车辆所属公司、车辆运营证、监督服务卡等是否对应；下车时注意清点随身物品，谨防手机、钱包、交通卡等物件被掉包，如发现可疑情况，请及时拨打110报警。<br/><div class="contheight"></div>此外，警方将持续对此类违法犯罪行为采取高压打击态势，保障市民的出行安全。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = 'http://cloudvideo.thepaper.cn/video/0227a94d72c0439e8cbabce4b6706fea/hd/1b4bc6e9-1381-42ba-b314-2f3a26b0c7ec-869f14ab-ecb2-2ed9-39ae-c404477c5150.mp4',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'//image.thepaper.cn/image/14/37/300.jpg',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：高文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 克隆出租车,套牌,掉包交通卡</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827632">
+<div class="nbgbox">
+<a class="zan" contid="2827632" href="javascript:;" onclick="voteCont(this)" praisetimes="45">
+                           44</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 克隆出租车</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827632&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827632&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

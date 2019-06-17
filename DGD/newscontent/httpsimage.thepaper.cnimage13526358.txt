@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">“我不是药神原型案”等入选全国十佳检察新媒体应用案例</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林平</p>
+<p>
+							2018-12-26 18:16<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="393" src="http://image.thepaper.cn/www/image/13/526/296.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">我不是药神原型陆勇<br/><div class="contheight"></div></span>12月26日，2018年度政法新媒体峰会在北京召开，“法律读库”等公众号获评全国检察自媒体20强，“‘我不是药神’原型案”等案例入选十佳检察新媒体建设应用案例。<br/><div class="contheight"></div>会上，主办方正义网发布了2018年度全国检察新媒体建设运营100强和全国检察新媒体阵地建设奖名单。“评选活动是由最高检新闻办公室指导，历时两个月，根据影响力、活跃度、吸引力、认可度、传播力等五个方面指标，最终评选出相关奖项。”主办方负责人说。<br/><div class="contheight"></div>据新媒体百强名单显示：@广东检察、@安徽检察、@山东省人民检察院等获评全国检察微博20强；@内蒙古检察、@江苏检察在线、@重庆检察事儿等获评全国检察微信20强；@龙江检察、@七台河检察、@陕西检察等获评全国检察头条号20强；北京市丰台区人民检察院、河南省平顶山市卫东区人民检察院、广西自治区人民检察院等获评全国检察新媒体作品20强；@法律读库、@哏儿都员外郎、@沂蒙地三鲜等获评全国检察自媒体20强。<br/><div class="contheight"></div>与此同时，因在阵地建设方面发展均衡、成效显著，北京市检察院、湖北省检察院、贵州省检察院等20个检察机关，获评全国检察机关新媒体阵地建设奖。<br/><div class="contheight"></div>澎湃新闻注意到，今年的评选还增设了“2018年度十佳检察新媒体建设应用案例”奖项。其中，“我不是药神”原型案主动释法聚共识、线下网上联动打响“疫苗安全保卫战”、微信“随手拍”助力公益诉讼案件办理、“微博讨薪”打造检察为民服务新模式等案例入选十佳检察新媒体建设应用案例。<br/><div class="contheight"></div>“增设该奖项是为了突出检察新媒体的司法职能作用，希望能更好地以典型案例引领新媒体的发展。”主办方负责人介绍，年度政法新媒体峰会迄今举办八届，旨在通过交流分享不断增强政法新媒体的传播力，推动政法事业持续全面发展，进而为法治中国建设贡献力量。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王选辉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 检察,我不是药神,新媒体</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2777178">
+<div class="nbgbox">
+<a class="zan" contid="2777178" href="javascript:;" onclick="voteCont(this)" praisetimes="43">
+                           42</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 我不是药神</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2777178&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2777178&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=29666">湖州发布</a>
+</div>
+<h1 class="news_title">央视点赞湖州“跨省公交”：车票价仅1元，支持移动支付</h1>
+<div class="news_about">
+<p>湖州发布</p>
+<p>
+                            2019-01-09 08:50<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard">近日，央视新闻频道播出了元旦特别节目《2018自信的中国永远在这儿》。其中，湖州南浔与吴江震泽八都间对开的7616公交线路，登上了央视的荧幕，与全国人民见面！<br/><div class="contheight"></div><strong>为何值得央视点赞</strong><br/><div class="contheight"></div>公交7616路跨省公交线路起点站为江苏省苏州市吴江区震泽镇八都小学站，终点则在浙江省湖州市南浔区泰安路公交换乘中心，全程10公里，共设站12个，其中江苏境内9个，浙江境内3个，单程车程耗时大约20分钟。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="413" src="http://image.thepaper.cn/www/image/14/62/594.jpg" width="600"/></div>央视记者准备前往南浔<br/><div class="contheight"></div>在吴江区震泽镇的曹村公交站<br/><div class="contheight"></div>跟随乘客一同登上公交车<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="196" src="http://image.thepaper.cn/www/image/14/62/595.gif" width="350"/></div><div>使用了移动支付方式支付车费<br/><div class="contheight"></div>虽然是跨省公交<br/><div class="contheight"></div>但是费用却和普通公交一样<br/><div class="contheight"></div>只需要1元</div><div style="text-align:center;"><img alt="" height="240" src="http://image.thepaper.cn/www/image/14/62/597.gif" width="400"/></div>线路开通后，<br/><div class="contheight"></div>极大地方便了往来两地的居民。<br/><div class="contheight"></div>在7616路公交车上<br/><div class="contheight"></div>从南浔前来吴江看望女儿的朱阿姨这样说.....<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="170" src="http://image.thepaper.cn/www/image/14/62/606.gif" width="270"/></div>我家住在浙江，女儿在吴江工作，以前跨省公交没有开通的时候，因为不方便，我从来没来吴江看过女儿。有了这个7616公交线路，我今年已经来吴江看女儿三次了。<br/><div class="contheight"></div><strong>为何引起央视注意<br/><div class="contheight"></div>跨省零换乘 惠民<br/><div class="contheight"></div></strong>跟一般的省际接轨公交不同，7616路是不再需要在省际交界换乘，是真正直接点对点到达的零换乘跨省公交。浙江境内站点下车步行便可达南浔古镇旅游景区，终点站南浔泰安路公交换乘中心则毗邻区中医院，方便附近居民就医。<br/><div class="contheight"></div><strong>移动支付 方便</strong><strong><br type="_moz"/></strong>与大部分公交车一样，7616路跨省公交也开通了手机扫码支付功能，可以通过手机支付车费，扫乘车码就能便捷支付，可谓十分便利。<br/><div class="contheight"></div>来源：南浔发布<br/><div class="contheight"></div>编辑：黄雅娟<br/><div class="contheight"></div>（原标题：《1元跨省零换乘！湖州这条公交被央视点赞》）<br/><div class="contheight"></div></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2830518">
+<div class="nbgbox ">
+<a class="zan" contid="2830518" href="javascript:;" onclick="voteCont(this)" praisetimes="232">
+                                    231</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

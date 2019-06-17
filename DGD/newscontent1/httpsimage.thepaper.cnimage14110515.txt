@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25482">逝者</a>
+</div>
+<h1 class="news_title">国医大师邓铁涛今晨逝世，享年104岁 </h1>
+<div class="news_about">
+<p>翁淑贤/广州日报</p>
+<p>
+							2019-01-10 10:53<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据广州日报客户端1月10日消息，广州日报全媒体记者从广州中医药大学第一附属医院获悉，首届国医大师、104岁的邓铁涛教授于今晨6：06去世。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="401" src="http://image.thepaper.cn/www/image/14/110/502.jpg" width="600"/></div>邓老在百岁生日前，曾为广州日报名医大讲堂题字，并接受广州日报记者独家专访。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="806" src="http://image.thepaper.cn/www/image/14/110/504.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="156" src="http://image.thepaper.cn/www/image/14/110/506.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">本文图片均来自广州日报<br/><div class="contheight"></div></span>讲起养生之道，邓老特别赞同“大德者方得其寿”的观点，第一要诀是“养心”——养生先养心，养心先养德，吃什么、煲什么汤倒在其次。以下是采访实录：<br/><div class="contheight"></div>广州日报：您提倡养生保健治未病，还示范打八段锦，现在到处都有人学。有关养生，最重要的是什么？<br/><div class="contheight"></div>邓老：现在很多人一提到养生，只关注吃什么、煲什么汤。其实，在我看来，养生第一条要先养心，养心要先养德，道德是做人的底线，关系到整个社会的和谐。社会和谐了，你自己是最先受益的一个。<br/><div class="contheight"></div>再有，做人不要老是向上看，有时也要向下看，观上不足、观下有余，心安乐了，人也会健康些。有句话说“知足者贫亦乐，不知足者富亦忧”，你说餐餐白菜豆腐无忧无愁的人，跟千万身家但天天提心吊胆的人相比，哪个更长命呢？如果老计较别人比自己多得了些什么好处，总想着“他为什么‘捞’得到，我为什么就‘捞’不到”，常生闷气又怎么能长寿？<br/><div class="contheight"></div>另外，不要成天想占便宜怕吃亏，占不到便宜、吃了点亏就心里难受，更莫为了占人便宜干缺德事。像前段时间爆出的电话诈骗案，作案的人本身就心术不正，我看不会长寿。“大德者方得其寿”，缺德者不会长寿，也不应长寿。<br/><div class="contheight"></div>儒家提“德者寿”、“仁者寿”，“仁者爱人”，老吾老以及人之老，幼吾幼以及人之幼，这些都是精神层面的养生。<br/><div class="contheight"></div><strong>每天练习“八段锦”<br/><div class="contheight"></div>冷热水交替冲凉</strong><br/><div class="contheight"></div>广州日报：除了精神层面的养心、养德，您日常生活还有哪些心得可跟读者分享？<br/><div class="contheight"></div>邓老：养心、养德是基础，在精神养生这个基础上，平时还要注意饮食起居，坚持运动。我每天早上都打八段锦，只需十几分钟就练完。我年少时在南武中学读书学过拳。当时“北方五虎下江南”，来自北方的著名拳师教我学八卦掌、太极拳。后来，我觉得八段锦最简单易学，又不受场地、天气的限制，很方便，所以就一直坚持下来。<br/><div class="contheight"></div>除了散步、打八段锦，我还长年用冷热水交替冲凉。我现在的皮肤还光滑，脸上的老人斑比起过去不是多了而是少了，就是常年用冷热水交替冲凉，做“血管操”。不过，水温的冷热是相对的，如果觉得太冷了温度可以调高点，要自己能接受才行。<br/><div class="contheight"></div>（原题为《国医大师邓铁涛今晨逝世》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 国医大师,逝者</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835714">
+<div class="nbgbox">
+<a class="zan" contid="2835714" href="javascript:;" onclick="voteCont(this)" praisetimes="309">
+                           308</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国医大师</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835714&caid=25482",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835714&amp;caid=25482" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（34）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

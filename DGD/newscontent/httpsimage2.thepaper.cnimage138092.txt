@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25450">文化课</a>
+</div>
+<h1 class="news_title">定了！上海少年儿童图书馆新馆下周二开工</h1>
+<div class="news_about">
+<p>上海发布</p>
+<p>
+							2018-12-11 11:29<span> 来源：上海发布</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">小朋友们及家长们注意啦！上海少年儿童图书馆新馆将于12月18日正式开工。它的总建筑面积16000平方米，坐落于普陀区长风商务区的长风一号绿地内，北邻长风公园，南接苏州河畔，仿佛置身于一个巨大的城市公园之内。其设计灵感来自于莫奈的传世名画《桥》，馆内将有大小不同、高低起伏的圆形书架，结合通高中庭、螺旋楼梯等形成一阅读的森林、书籍的海洋。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="482" src="http://image.thepaper.cn/www/image/13/80/23.jpg" width="600"/></div><strong>一个巨大而五彩缤纷的花园</strong><br/><div class="contheight"></div>新少儿图书馆总建筑面积 16000 平方米，坐落于普陀区长风商务区大渡河路以南、古北路桥以东长风一号绿地内，北邻长风公园、南接苏州河畔，置身于一个巨大的城市公园之内。除了有优越的周边景观，项目周边现有众多的博物馆、图书馆、展览馆、亲子文娱及中小学校等少儿文化资源。设计将项目所在一号绿地与沿河绿地及周边公园绿化进行整合设计，将各类公共文化休闲娱乐场所与公园绿化融合在一起，使得原有城市公园升级为一个文化公园，为市民儿童创造出一座巨大而五彩缤纷的城市花园！<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="333" src="http://image.thepaper.cn/www/image/13/80/26.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);"><div style="text-align:center;"><img alt="" height="524" src="http://image.thepaper.cn/www/image/13/80/45.jpg" width="600"/></div>滨湖透视图</span><br/><div class="contheight"></div><strong>设计灵感来自于莫奈的《桥》</strong><br/><div class="contheight"></div>面对一座巨大而五彩缤纷的公园，一片安静的水面，不禁使人联想到一百年前莫奈的传世名画《桥》，有着自然、热烈而烂漫的色彩环境。此外，图书馆作为人类追求知识、成长自我、健全人格的场所，也正是一座联系着人类的童年与成熟未来的桥梁。所以，设计师选择一个“桥”的形体作为图书馆的基本形象，创造出一个充满诗意与艺术气质的公共文化场所及视觉形象。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="541" src="http://image.thepaper.cn/www/image/13/80/46.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">莫奈《桥》</span><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="468" src="http://image.thepaper.cn/www/image/13/80/47.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">主入口广场透视图</span><br/><div class="contheight"></div><strong>一座从大地走向天空的图书馆</strong><br/><div class="contheight"></div>上海少儿图书馆新馆内部分布有大小不同、高低起伏的圆形书架，结合通高中庭、螺旋楼梯等形成一阅读的森林、书籍的海洋，呈现出一种与博尔赫斯设想的巴别图书馆一致的空间效果。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="479" src="http://image.thepaper.cn/www/image/13/80/48.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">图书馆面向南侧湖面中庭</span></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张喆<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 上海少年儿童图书馆</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2726540">
+<div class="nbgbox">
+<a class="zan" contid="2726540" href="javascript:;" onclick="voteCont(this)" praisetimes="72">
+                           71</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 上海少年儿童图书馆</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2726540&caid=25450",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2726540&amp;caid=25450" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

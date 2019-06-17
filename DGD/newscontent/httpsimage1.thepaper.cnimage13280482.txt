@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25450">文化课</a>
+</div>
+<h1 class="news_title">上海举办庆祝改革开放40周年主题书展，十家实体书店展销</h1>
+<div class="news_about">
+<p>澎湃讯</p>
+<p>
+							2018-12-18 15:47<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中国改革开放40周年之际，出版界推出了众多反映我国40年来经济、文化、教育、科技等各方面辉煌成就的图书。为了庆祝中国改革开放40周年，回顾我国改革开放40年来波澜壮阔的伟大历史进程，上海市书刊发行行业协会特别推出了“上海庆祝改革开放40周年主题书展”，12月19日起在上海书城福州路店、东方书城、上海书城长宁店、上海书城五角场店、光的空间新华书店、新华书店徐汇日月光店、上海古籍书店、博库书城宜山店、钟书阁徐汇店、大众书局美罗店等全市十家主要实体书店展销，展销将持续至12月31日。<br/><div class="contheight"></div>“上海庆祝改革开放40周年主题书展”专柜和展台均设置在书店店堂显要位置，陈列展销庆祝改革开放40周年的重点图书近百种，包括《习近平新时代中国特色社会主义思想三十讲》、《习近平谈治国理政 第二卷》（中文版）、《习近平改革开放思想研究》、《习近平用典 第二辑》、《中国改革开放全景录（中央卷）》、《中国对外开放40年》、《中国农村改革40年》、《实施乡村振兴战略五十题》、《回首1978——历史在这里转折》、《上海改革开放40年大事研究（全12卷）》、《上海改革开放40年——那些年，我们的故事》、《文明型国家》、《改革开放成就上海》、《再造中国——领导型国家的文明担当》、《全球城市——演化原理与上海2050》、《改革中国——十六位学者论改革开放四十年》、《中国传奇——浦东开发史》、《浦东史诗》等，力求多维度展现中国改革开放40年所取得的成就。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="480" src="http://image.thepaper.cn/www/image/13/280/489.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">上海古籍书店内的展台</span><br/><div class="contheight"></div>据了解，本次主题书展所展销图书均为各书店常备图书，如《习近平新时代中国特色社会主义思想三十讲》，上海新华传媒连锁有限公司目前已销售一百余万册，位列全国同业第三名；《新时代面对面——理论热点面对面2018》销售26万册。<br/><div class="contheight"></div>上海书城福州路店店长介绍，近一个月内，《上海改革开放40年——那些年，我们的故事》销售300册，《中国传奇——浦东开发史》销售上百册；东方书城销售较好的有上海人民出版社《上海改革开放40年大事研究（全12卷）》、《上海改革开放40年——那些年，我们的故事》，上海文艺出版社《浦东史诗》，天地出版社《大浦东》等；上海书城长宁店销售较好的有《40年改变中国：经济学大家谈改革开放》(全2册)、《习近平改革开放思想研究》、《改革开放改变中国——中国改革的成功密码》、《巨变:改革开放40年中国记忆》、《上海改革开放40年——那些年，我们的故事》。新华书店徐汇日月光店销售最好的有《强国时代》和“中国改革开放40年回顾与展望丛书”。<br/><div class="contheight"></div>光的空间新华书店在书店入口处设立主题展台作为展区，《大国起航》、《习近平改革开放思想研究》等图书销量最佳，与该店所在地息息相关的《口述闵行改革开放》也成为读者关注的新书。<br/><div class="contheight"></div>钟书阁徐汇店近一个月销售庆祝改革开放40周年主题书展的品种有62种，码洋近10万元，其中《改革开放成就上海》、《激荡十年》、《40年改变中国》、《1978—2018口述徐汇改革开放》都是上榜新书。该店介绍，“主题书展我们准备了100种左右，其实这类书全年都卖得很不错，《改革开放成就上海》最近订单很多。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陈诗怀<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2749574">
+<div class="nbgbox">
+<a class="zan" contid="2749574" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 改革开放40周年</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2749574&caid=25450",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2749574&amp;caid=25450" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

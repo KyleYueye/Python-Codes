@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">王毅谈中美关系：不必人为制造对手，避免自我预言实现</h1>
+<div class="news_about">
+<p>澎湃讯</p>
+<p>
+							2018-12-11 13:28<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/83/284.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">国务委员兼外交部长王毅。视觉中国 资料</span><br/><div class="contheight"></div>12月11日，国务委员兼外交部长王毅出席2018年国际形势与中国外交研讨会开幕式并发表演讲。<br/><div class="contheight"></div>王毅表示，中美关系牵动世界目光，关乎各国利益。面对美方挑起贸易摩擦等消极动向，中方坚定捍卫国家利益、民族尊严和发展权利，坚定维护以规则为基础的多边贸易体系，坚定奉行互相尊重、平等诚信的对话解决方式。不久前，习近平主席同特朗普总统在二十国集团领导人峰会期间举行会晤，双方进行了深入战略沟通，同意共同推进以协调、合作、稳定为基调的中美关系，为解决中美间存在的问题，推动中美关系健康发展作出了规划，双方就经贸问题的讨论负富有建设性，有效阻止了经贸摩擦进一步扩大升级，推动重回对话协商解决问题的轨道，确立了谋求合作共赢的共同目标，对外释放了积极和正面预期。<br/><div class="contheight"></div>当然，中美作为社会制度、历史文化、发展水平不同的两个大国，相互间难免出现这样那样的分歧，现在的问题也不可能在一夜之间解决。同时，由于双方交往日益密切，利益高度融合，中美之间也不可能完全“脱钩”，彼此隔绝。今年是中美发表建交公报40年，也是中国启动改革开放40年。这两大历史进程都对世界产生了重要影响。中国改革开放取得的巨大成就远远超越了世人的想象；中美关系获得的巨大发展也远远超越了当年的预期。中国古代圣贤孔子说：“四十而不惑”。中美交往40年来的风雨坎坷已经给了我们足够的教训和启示，集中到一点就是：合则两利，斗则俱伤。中美如合作，则造福两国，惠及世界；中美如对抗，则没有赢家，还将殃及全球。今天，中美两国的有识之士应该穿透迷雾，确立这一宝贵的共识；应该不受干扰，具备这一不惑的定力。中国将坚持走中国特色社会主义道路，坚持自身的和平发展，坚持与各国实现合作共赢。美国应摆脱零和博弈困扰，更为积极正面地看待中国的发展，不断拓展互利双赢的空间和前景。不必人为制造新的对手，更要避免自我预言的实现。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘惠<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中美关系,王毅,中国外交</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2726892">
+<div class="nbgbox">
+<a class="zan" contid="2726892" href="javascript:;" onclick="voteCont(this)" praisetimes="201">
+                           200</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 王毅</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2726892&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2726892&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

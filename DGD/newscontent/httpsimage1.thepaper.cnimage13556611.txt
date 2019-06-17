@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">管道突发故障，河北晋州要求3家燃气公司暂停向工业企业供气</h1>
+<div class="news_about">
+<p>澎湃新闻记者 王哿</p>
+<p>
+							2018-12-27 17:56<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">针对河北省晋州市辖区内3家燃气公司被曝收到通知12月27日零时起停止向工业企业供应燃气一事，河北晋州市委宣传部27日上午向澎湃新闻（www.thepaper.cn）发来题为《晋州市人民政府办公室&lt;关于启动天然气供应Ⅰ级预警的说明&gt;》。<br/><div class="contheight"></div>澎湃新闻了解到，河北晋州市政府办公室向晋州市建投燃气有限公司、晋州市华油天然气有限公司、昆仑新奥燃气有限公司等3家公司下达了《关于停止向工业企业供应燃气的通知》。该《通知》称，为保障民生用燃气供应，自2018年12月27日零时起，停止向工业企业供应燃气，请立即遵照执行。<br/><div class="contheight"></div>对此，《晋州市人民政府办公室&lt;关于启动天然气供应Ⅰ级预警的说明&gt;》解释称，12月26日下午4时，晋州市华油天然气公司主要输气管道河石线因管道、阀门结冰，突发故障，管道压力骤然下降，至晚上10时许，河石线燃气管道停供燃气。<br/><div class="contheight"></div>晋州市按照《晋州市天然气迎峰度冬应急预案（2018-2019年度）》的要求，紧急启动燃气供应Ⅰ级预警，于27日零时通知华油天然气公司、建投燃气公司、新奥燃气公司暂时停止向工业企业供气，责成华油天然气公司启动LNG调峰储备燃气，全力保障城乡民生供气，待河石线上游管道故障排除、正常供气后，再恢复工业企业燃气供应。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋子文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 天然气供应，河北晋州</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780703">
+<div class="nbgbox">
+<a class="zan" contid="2780703" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 天然气供应</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780703&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780703&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

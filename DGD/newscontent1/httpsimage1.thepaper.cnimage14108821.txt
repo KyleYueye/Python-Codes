@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">“通俄门”有了实锤？特朗普前竞选经理被爆透露大选民调数据</h1>
+<div class="news_about">
+<p>杜海川 王臻/环球时报</p>
+<p>
+							2019-01-10 10:32<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="360" src="http://image.thepaper.cn/www/image/14/108/819.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">特朗普和马纳福特。视觉中国 资料图<br/><div class="contheight"></div></span>美国法庭已有证据证明美国总统特朗普前竞选经理马纳福特“通俄”？据美国《华盛顿邮报》8日报道，当天曝光的一份法庭文件显示，马纳福特曾向一名与俄罗斯情报机构有关联的商业伙伴透露过2016年美国总统大选的民调数据。分析认为，这份文件是迄今为止“特朗普竞选团队曾经通俄”的最有力证据。<br/><div class="contheight"></div>《今日美国报》8日称，负责“通俄门”调查的特别检察官穆勒去年11月撤销了马纳福特的认罪协议，理由是后者在调查期间曾多次撒谎。马纳福特的代理律师此后向法庭提交文件，对这一指控作出反驳。但由于其律师团队本周二上传的一份文件出现格式错误，有关内容被媒体得到。报道称，这份法庭文件显示，马纳福特被控与一位名叫基里姆尼克的俄罗斯人分享民调数据，并隐瞒他们在马德里会面、讨论“乌克兰和平计划”等细节。不过马纳福特的律师辩称，自己的当事人并非故意撒谎，而是因忙于竞选活动忘记提及有关事实。律师还称，马纳福特之所以很难回忆起某些细节，部分原因是被单独囚禁于弗吉尼亚州亚历山大监狱“对其身心健康造成了影响”。<br/><div class="contheight"></div>根据此前的法庭文件，美国联邦调查局曾怀疑基里姆尼克与俄情报部门保持联系。有消息称，基里姆尼克隶属于俄军事情报总局。《华盛顿邮报》称，马纳福特与基里姆尼克的多次接触均发生在俄罗斯被怀疑积极干预美国大选的时间段，虽然目前尚不清楚特朗普是否了解有关事宜，但鉴于马纳福特2016年3月至8月为特朗普竞选团队工作期间，俄罗斯被怀疑利用社交媒体、窃取的电子邮件和其他策略来支持特朗普、攻击希拉里，因而马纳福特提供的民调数据很可能帮助俄罗斯完善信息，锁定目标受众，把选票推向特朗普。<br/><div class="contheight"></div>除对马纳福特的调查外，美国8日还以妨碍司法公正罪对俄罗斯女律师韦谢利尼茨卡娅提出指控。据俄新社9日报道，此次指控与一宗洗钱案有关，虽与“通俄门”调查无关，但因韦谢利尼茨卡娅被指曾于2016年6月与特朗普长子小特朗普及其他特朗普竞选团队成员会面而备受瞩目。此前有媒体报道称，韦谢利尼茨卡娅疑似与俄罗斯政府有联系，特朗普团队希望从她那里获得破坏希拉里名声的材料，但这一说法遭白宫和克里姆林宫否认。俄媒报道认为，针对韦谢利尼茨卡娅的指控是臆造，是美方迫害俄罗斯公民的又一专横行为。这一指控令西方媒体感到兴奋，并刻意与“通俄门”联系起来。目前，美国还在起诉俄公民布京娜。美国这些起诉俄罗斯公民的不合理行为，将导致俄美关系进一步恶化。<br/><div class="contheight"></div>（原题为《“通俄”的最有力证据？马纳福特被爆向俄透露大选数据》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 通俄门,美国,俄罗斯</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835526">
+<div class="nbgbox">
+<a class="zan" contid="2835526" href="javascript:;" onclick="voteCont(this)" praisetimes="4">
+                           3</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: “通俄门”调查</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835526&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835526&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

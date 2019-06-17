@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜嘲笑罗振宇可以，但别把罗振宇与权健划等号</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2019-01-03 15:48<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><span style="color: rgb(128, 128, 128);"><div style="text-align:center;"><img alt="" height="360" src="http://image.thepaper.cn/www/image/13/855/224.jpg" width="540"/></div>2018年12月31日晚，得到App创始人罗振宇在深圳完成了他的倒数第17届《时间的朋友》跨年演讲。</span><br/><div class="contheight"></div>在今年罗振宇的跨年演讲之后，网上出现了一波不大不小的“倒罗”风潮。有人写《罗振宇的骗局》，有人说罗振宇“翻车”了，传播最广的似乎是这样一个段子——<br/><div class="contheight"></div>“中年人听罗胖的跨年演讲与老年人买权健的营养保健品，本质上是没有任何差别的。”<br/><div class="contheight"></div>对于这种动辄上升到“本质上”的说法，我们是应该有点警惕的。权健已经因涉嫌传销犯罪和涉嫌虚假广告犯罪被公安机关立案侦查了，罗振宇再不堪，也不能与权健相提并论吧。那不光是对罗振宇的苛责，更是对权健的过度宽容。<br/><div class="contheight"></div>对于罗振宇和他的罗辑思维，我一贯是不太感冒的。不仅因为在求知这条路上，我不喜欢吃别人嚼过的馍，还因为罗辑思维曾未经允许转载过我的一篇文章。虽然我与他们联系之后，他们补上了转载稿费，但这桩小事给我留下了很不好的印象。尊重知识产权的觉悟都没有，做哪门子的知识布道者呢？<br/><div class="contheight"></div>虽然如此，我却觉得把罗振宇以及他所代表的知识付费潮流一概斥之为“骗局”有失偏颇。比如罗振宇推介的《人类简史》《未来简史》《今日简史》，虽然不是神乎其神，但也不失为能开拓视野、启迪思维的读物。<br/><div class="contheight"></div>“知识”是一个定义繁多的词，它既可以是人类追求真理的工具，也可以某种实用性的技能，还可以是进行动员激励的话语体系。知识付费的卖家和买家，谈论的往往并不是真理这个层面的东西。如果交易双方所认定的事物是一致的，那么就谈不上欺骗。<br/><div class="contheight"></div>知识付费的热门产品，注定是碎片化的、短平快的，也难以避免鸡汤味。假如一个人试图通过在网上买一些专栏，就成为某个领域的专家，那注定是痴心妄想。但是把小白培养成专家不是罗振宇们的使命，而是大学的使命。<br/><div class="contheight"></div>有些卖保健品的之所以可恶，是因为他们忽悠一些家庭拿救命钱买只是“吃不死人”的保健品。假如罗振宇对高中生说，你每天早上听我唠60秒的嗑就不用上大学了，那确实要声讨他，但他并没有这么做。如果熬夜听罗振宇跨年演讲的人，本来只是准备出去喝个酒、打个牌，那么这种你情我愿的生意有什么好谴责的呢？<br/><div class="contheight"></div>我更愿意把罗振宇等知识商人的胜利，看做一场大型的千金买马骨般的社会实验。面对一个充满不确定的未来，人们试图通过跟随一些“先知”，来减少内心的迷雾。受众们或许没有做出最好的选择，但也不应该遭受嘲笑，毕竟没有人教他们该如何鉴别知识。<br/><div class="contheight"></div>希望人们能够早日明白，求知的路上没有捷径，也没有万能的“先知”。也希望知识付费的热潮不要在钞票声中留下一地鸡毛，而是能真正为开启学习型社会提供动力。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 知识付费 罗振宇</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2808289">
+<div class="nbgbox">
+<a class="zan" contid="2808289" href="javascript:;" onclick="voteCont(this)" praisetimes="477">
+                           476</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 知识付费</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2808289&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2808289&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（106）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,90 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25464">澎湃质量报告</a>
+</div>
+<h1 class="news_title">权健称“百亿保健帝国阴影”文涉诽谤，作者：所写均有证据</h1>
+<div class="news_about">
+<p>澎湃新闻记者 吴跃伟 胡丹萍 实习生 桑涵蕴</p>
+<p>
+							2018-12-25 16:14<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">拥有一支中超足球队、总部位于天津的权健集团有限公司（简称“权健公司”）再次陷入舆论漩涡。<br/><div class="contheight"></div>当天，在朋友圈刷屏的自媒体文章《百亿保健帝国权健，和它阴影下的中国家庭》，矛头直指权健公司。<br/><div class="contheight"></div>12月25日下午，权健公司品牌宣传部贾姓工作人员向澎湃新闻（www.thepaper.cn）回应称，权健公司已注意到前述网络文章，“正在处理。”“这篇（文章）根本就没有符合真实的信息，是诽谤。”“他们说的有很多东西都是假的。”<br/><div class="contheight"></div>澎湃新闻多次追问具体哪些内容不实，该工作人员表示，权健公司对这一事件将统一发声，“我现在不太方便说。” <br/><div class="contheight"></div>而撰写上述文章的主笔之一曾鼎告诉澎湃新闻：“我们所写的都有证据、录音或书面材料，甚至做了公证。”<br/><div class="contheight"></div>12月25日中午，微信公众号“偶尔治愈”发布网络文章《百亿保健帝国权健，和它阴影下的中国家庭》，该文迅速刷屏。“偶尔治愈”微信公号隶属于丁香园旗下，是丁香园的原创深度团队。丁香园是面向医疗共同体的一个专业性社会化网络。<br/><div class="contheight"></div>该文主要提及的事情发生于3年前，内蒙古七岁患癌女童周洋放弃医院化疗，改而服用权健公司的产品，最后病情恶化后不治身亡。<br/><div class="contheight"></div>该文的主笔之一曾鼎称，“一年前，我有个在湖南湘雅医院做急诊科医生的同学跟我说他家人做权健的事，发过来一堆火疗和保健品的照片。他是医生，就提醒家人做这个事儿的风险，但怎么劝都劝不住。”曾鼎说，之前因为自己不是权健的受众，所以没注意过这家公司，这次通过查询资料，发现该公司的影响和渗透力超出了他们的想象。<br/><div class="contheight"></div>除了去内蒙古赤峰采访周洋父亲，曾鼎还去了权健公司在天津的总部，参加了他们的招商会。“这次去参加培训，也是经销商带着去的。如果没有经销商带着，连会场都进不去。”谈及参加权健招商会后的感受时，曾鼎用一个词评价：魔幻。“整个体系非常严密，会场禁止录像，全程都有人盯。培训的时候，我找借口上个厕所，超过10分钟带我培训的经销商就打电话来了。”曾鼎回忆，一定程度上是希望把人束缚在那个小环境里，从头到尾洗脑。<br/><div class="contheight"></div>《百亿保健帝国权健，和它阴影下的中国家庭》一文还提到了权健公司的负离子卫生巾、1000多元一双的天价保健鞋垫等新奇产品和遭人质疑的火疗技术，称这些一同构筑了权健公司每年近200 亿元的保健帝国。 “在（权健）帝国的食物链里，参与者不仅搭上钱财，更有人烧伤、致残，甚至丢了性命。”原文这样写道。<br/><div class="contheight"></div>12月25日下午，澎湃新闻致电位于权健公司品牌宣传部，相关工作人员请澎湃新闻通过邮件发送采访问题。除了前述电话中的简单回应外，截至发稿前，澎湃新闻的邮件采访尚未获得回复。<br/><div class="contheight"></div>据澎湃新闻此前报道，2016年10月13日，国家中医药管理局发布《关于2016年虚假违法中医医疗广告（报纸第三批）监测情况的通报 》，涉及天津权健肿瘤医院。<br/><div class="contheight"></div>公开资料显示，天津权健肿瘤医院是位于天津市的二级肿瘤专科医院， 权健公司董事长束昱辉被列为排名第一的医院领导班子成员。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_asktopic">
+<div class="news_askuser" onclick="window.open('asktopic_detail_10014679');"><span class="verticalAlign_topic"></span>
+<div class="news_askuser_bd">
+<div class="news_askuser_sort">圆桌</div>
+<div class="news_askuser_profile">你买过哪些保健品？入过何种“坑”？</div>
+</div> <div class="news_askuser_trbs"><span class="trbs">
+<div class="userleft_hdimg">
+<img src="http://image.thepaper.cn/html/image/def_head.jpg"/><div class="hdimg_bg30"><img src="//file.thepaper.cn/www/v3/img/headerimg_ctbg30.png"/></div>
+</div>
+<a class="u_sname"></a>
+<span>19小时前</span>
+<span class="trbs_zan" id="10014679" times="100">100</span>
+<span>提问征集中</span>
+</span></div>
+</div>
+</div>
+<div class="news_editor">责任编辑：李云芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 快讯</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772941">
+<div class="nbgbox">
+<a class="zan" contid="2772941" href="javascript:;" onclick="voteCont(this)" praisetimes="1647">
+                           1646</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 快讯</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772941&caid=25464",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772941&amp;caid=25464" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（1.1k）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

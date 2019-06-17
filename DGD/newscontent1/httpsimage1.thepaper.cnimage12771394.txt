@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">广东铁路安全新法规12月1日起生效：禁止高铁霸座</h1>
+<div class="news_about">
+<p>吴涛/新华社</p>
+<p>
+							2018-11-30 20:01<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社广州11月30日消息，记者30日从铁路部门了解到，《广东省铁路安全管理条例》将于12月1日起施行。记者了解到，这一新法规对当前铁路运行安全中存在的一些问题进行了针对性规定，高铁霸座、在铁路沿线500米内飞无人机和放风筝等行为均被禁止。<br/><div class="contheight"></div>据广铁集团介绍，近年来，广东省路网规模持续扩大，高铁里程快速增长，客货运量不断增加，在社会经济发展中的影响力不断提升。截至2017年底，省内铁路营业里程达到4206公里。目前从广东乘坐高铁可直达全国19个省区市，每天开行动车组列车683对。2017年，广东铁路发送旅客2.82亿人。<br/><div class="contheight"></div>在铁路快速发展的同时，各种安全问题也不断出现。铁路沿线尤其是高铁桥梁下方乱搭乱建，违法施工，非法阻断铁路线路，风筝、气球、塑料薄膜等轻质漂浮物吹袭接触网造成供电故障等现象时有发生，严重危及铁路安全。<br/><div class="contheight"></div>即将施行的《广东省铁路安全管理条例》对广东铁路安全问题进行了系统规定，尤其是一些社会关注的焦点问题。<br/><div class="contheight"></div>近一段时间，不少高铁霸座行为被曝光。对此，条例规定，<strong>旅客应当按照车票载明的座位乘车，不得强占他人座位，规定为铁路部门的管理提供了明确的法律依据。</strong><br/><div class="contheight"></div>条例还规定，<strong>禁止在铁路电力线路导线两侧各五百米范围内放飞鸟类、升放无人驾驶航空器或者风筝、气球、孔明灯等低空漂浮物体。</strong>确因需要的，应当按照规定获得批准，采取必要的安全防范措施。<br/><div class="contheight"></div>今年8月，杭州东开往北京南的G40次车在京沪高铁廊坊至北京南间，受到大风刮起的彩钢板撞击发生故障，造成大量列车晚点。条例规定，在铁路线路安全保护区的邻近区域采用彩钢瓦、铁皮、塑料薄膜等轻质材料搭建板房、彩钢棚、塑料大棚或者悬挂广告牌（匾）的，其产权人或者管理人应当加强管理，采取必要的安全防护措施，防止因掉落、脱落影响铁路运输安全。<br/><div class="contheight"></div>（原题为《广东铁路安全新法规1日起生效：禁止高铁霸座 禁止保护区内飞无人机》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 广东,铁路安全新法规,高铁霸座</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2692929">
+<div class="nbgbox">
+<a class="zan" contid="2692929" href="javascript:;" onclick="voteCont(this)" praisetimes="28">
+                           27</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 霸座</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2692929&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2692929&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

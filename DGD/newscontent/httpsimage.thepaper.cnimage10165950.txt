@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">傅政华：动员组织全系统力量投身扫黑除恶专项斗争</h1>
+<div class="news_about">
+<p>新华网</p>
+<p>
+							2018-09-04 23:08<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/10/165/948.jpg" width="100%"/></div><span style="color: rgb(128, 128, 128);">全国司法系统参与扫黑除恶专项斗争推进会议现场。  司法部网站 图<br/><div class="contheight"></div></span>新华网北京9月4日消息，扫黑除恶是当前和今后一个时期司法系统的一项重大政治任务,要坚决履行职责，推动扫黑除恶专项斗争向纵深发展。司法部部长傅政华4日在全国司法系统参与扫黑除恶专项斗争推进会上这样表示。<br/><div class="contheight"></div>傅政华提出，要在前期参与扫黑除恶专项斗争取得阶段性成效的基础上，进一步提升政治站位，动员组织全系统力量投身扫黑除恶专项斗争。<br/><div class="contheight"></div>傅政华要求，要进一步发挥职能作用，全力以赴做好监狱系统扫黑除恶各项工作。对涉黑涉恶罪犯依法严格管理，开展危险性评估，落实各项监管制度。坚持惩罚与改造相结合，<strong>以政治改造为统领，</strong><strong>统筹推进“五大改造”，促进涉黑涉恶罪犯树立正确的历史观、民族观、国家观、文化观，努力将其改造成为守法公民。</strong><br/><div class="contheight"></div>同时傅政华还强调，要进一步加强指导，切实做好律师参与扫黑除恶专项斗争工作，依法开展涉嫌黑恶势力犯罪案件辩护代理，把每一起案件都办成铁案，使扫黑除恶案件经得起历史的检验、人民的检验、社会的检验。<br/><div class="contheight"></div>（原题为《傅政华：推动扫黑除恶专项斗争向纵深发展》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王建亮<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 扫黑除恶,五大改造,涉黑罪犯,司法,傅政华</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2409870">
+<div class="nbgbox">
+<a class="zan" contid="2409870" href="javascript:;" onclick="voteCont(this)" praisetimes="280">
+                           279</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 扫黑除恶</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2409870&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2409870&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（62）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

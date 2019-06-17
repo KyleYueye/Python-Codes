@@ -1,0 +1,86 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">意大利驻华大使：改革开放让世界看见中国贡献</h1>
+<div class="news_about">
+<p>中国网</p>
+<p>
+							2018-12-17 12:39<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<script src="//file.thepaper.cn/www/v3/js/jwplayer7.1.4.js" type="text/javascript"></script>
+<script type="text/javascript">jwplayer.key="JYFbHxc36sStM1VSc1vvyI42CCrHFlTZcWEYUA==";</script>
+<div class="news_video_name">
+<style type="text/css">
+							#player_wrapper{width:669px;height:377px;}
+							#player_wrapper .player_err_tip{width:669px;height:377px;display: none;vertical-align: middle;background-color: black;color: white; text-align: center;}
+							.jw-tab-focus:focus{outline:none;}
+						</style>
+<div id="player_wrapper">
+<div class="player_err_tip" id="Text">抱歉!<br/>您的浏览器可能不支持此视频播放器，请用更高版本的浏览器试试！</div>
+</div>意大利驻华大使：改革开放让世界看见中国贡献。视频来源：中国网(04:40)
+					</div>
+<div class="news_txt" data-size="standard"><strong>时间：2018年12月17日<br/><div class="contheight"></div>嘉宾：意大利驻华大使 谢国谊<br/><div class="contheight"></div>谢国谊：</strong>我认为2018年是个非常重要的年份，实际上是一个具有历史意义的年份。改革开放始于1978年，同样是具有重大意义的一年。我认为，改革开放无疑是中国成功的基础。改革开放为中国带来了繁荣，也为世界带来了有益的影响。我认为改革开放所取得的成果是显而易见的。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="399" src="http://image.thepaper.cn/www/image/13/250/911.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">意大利驻华大使谢国谊接受中国网《中国访谈》专访。（郑亮/摄影）</span><br/><div class="contheight"></div>中国是当今世界第二大经济体，成功让8亿人摆脱了贫困，这一成果令人赞叹。改革开放推动了全球化，而中国自身既是全球化进程的推动者，也是受益者。我认为，中国的改革开放吸引了全球对于中国角色的关注。改革开放让人们充分认识到中国在世界经济增长过程中所发挥的关键作用。中国对全球GDP增长的贡献率高达30％。这是非常了不起的。<br/><div class="contheight"></div>我认为，还有另一个重要的原因：中国已成为自由贸易体系的支持者。目前，不管是在全球层面，还是在经济层面，形势都错综复杂。中国所做的贡献，向世界发出了一个明确的信息，那就是在全球化的世界中，我们需要自由贸易，这是为了所有经济体的利益和发展。走向全球是必要的，我们明白，这是我们的必由之路。<br/><div class="contheight"></div>因此，我认为改革开放的重要性，不仅在于推动中国经济升级，通过自由贸易，改革开放还促进了世界经济升级。显然，所有这一切得以实现，都得益于中国对质量、经济增长质量和创新的重要性越来越关注。我认为这是我们庆祝改革开放40周年时要传递的信息。<br/><div class="contheight"></div><strong>中国网：</strong>那么，您对于新时期中意全面战略伙伴关系有着怎样的期待呢？<br/><div class="contheight"></div><strong>谢国谊：</strong>习近平主席对新时代中国的愿景让我们印象深刻。从这个角度出发，我们认为中意两国是理想的合作伙伴。习近平主席要将中国建设成为一个富强、文明、和谐、美丽的现代化国家。我们非常渴望与中国一同分享我们国家具体的，或者说理想的资源，并整合我们国家所拥有的举世闻名的能力，实现共同发展。难道你不觉得在中国正在计划并且已经开始的新时代，我们两国是理想的合作伙伴吗？<br/><div class="contheight"></div>我们常说，当变革之风吹来，有人建起高墙抵御它，而有些人则建造风车利用它。我们就是想要成为建造风车的人。<br/><div class="contheight"></div>（原题为《国际VIP点赞改革开放——意大利驻华大使：改革开放让世界看见中国贡献》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = 'http://cloudvideo.thepaper.cn/video/2a5dd22168c64075a125e5ecea63e4e4/hd/80d49005-1a35-4561-9fc1-a628f9daa9b6-c9e601bf-eff5-5bcb-8d3d-658b4f243d56.mp4',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'//image1.thepaper.cn/image/13/250/923.jpg',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：顾亚敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 改革开放</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2745982">
+<div class="nbgbox">
+<a class="zan" contid="2745982" href="javascript:;" onclick="voteCont(this)" praisetimes="96">
+                           95</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 改革开放</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2745982&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2745982&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

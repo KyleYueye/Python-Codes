@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">深观察丨该反思“课题”制度了</h1>
+<div class="news_about">
+<p>澎湃特约评论员 朱曦</p>
+<p>
+							2018-12-20 10:50<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">陈平原教授是为数不多敢于和大学排行榜分庭抗礼的学者。前不久，在一次教育论坛上，他直言：“大学排名害惨了教学，也害惨了人文学”。进而他提到了一个有意思的现象：北大的很多文科教授，不申请课题，成果的质量反而胜于手握经费的团队。<br/><div class="contheight"></div>课题与经费的数量，却被用来评价一所大学的优劣。不仅学术界如此，政府的决策咨询，同样被课题主导。是时候重新审视一下“课题”这种知识产出的模式了！<br/><div class="contheight"></div>课题的优点，在于权责分明，易于管理。这个模式，深受现代管理思维的影响。课题的运作好比项目管理——在一定的预算和时间内，产出相应的成果。而科研基金或政府研究部门的责任，是组合管理——将有限的预算分配给不同课题。随之而来的，则是这种管理模式的弊端。在19世纪的英国，工程师忙于设计大量的项目，不得不把工地上的建造活交给承包商。前期规划与实际建设的脱节，到今天仍是导致项目延期完工和预算不足的一个重要原因。而不少大学里，教授忙于申请课题，研究交由学生团队完成。这样的研究，自然不能和那些从灵感、假设、研究到结论一气呵成的成果相比。<br/><div class="contheight"></div>同时，用项目管理的方式进行科研，就需要产出可计量的成果。这不仅忽略了科学研究失败的可能性——没有成果的研究经常是值得的——以此来要求政策性的课题，也和决策咨询的初衷格格不入。不论是期刊论文，还是智库报告，都很难说是政策建议的理想形式。期刊的文章面向学者，智库的报告虽然更容易消化，却仍是基于一定前提条件的静态研判，不能引起和政策制定者之间有效的讨论。<br/><div class="contheight"></div>那么，什么样的制度能取代课题呢？在学术界，取消文科的课题经费，可以让教授安于教学。在保证教学——尤其是本科教学——这个本职工作的前提下，可以对优秀的学术成果给予奖励。由此节省的经费，用来提高科研单位的薪资，扭转当下的人才流失。比起期刊文章，潜心攻坚的一线科研人员，对国家的科技进步贡献更大，待遇却不成正比。<br/><div class="contheight"></div>决策咨询摈弃分配课题的模式，则可以让政府的研究部门从课题管理者的角色，回归智库的本职。这种智库，可以立即回应决策部门的调研需求，而没有课题的周期性。善于利用它的机动性，就有可能对政策做出及时调整，降低误判的风险。决策部门与智库的频繁接触，不仅有利于决策本身，也能够帮助智库熟悉政策制定的环境，以提出有的放矢的建议。美国智库外交关系协会所以成功，正在于它对决策的深度参与。另一方面，媒体的调研能力尚未得到决策部门的充分利用。优秀的新闻调查，堪比顶尖的学术成果。思想家韦伯就曾说，记者的才能与责任，至少和学者相当。媒体拥有和政府直属智库一样的机动性；比智库报告更精炼的语言，也能让决策者一目了然。<br/><div class="contheight"></div>专家的意见，一直是决策咨询的重要部分。一些地方的国际企业家咨询会议，同时也是外交上的创举。然而，跨国企业的总裁，需要为各自股东的利益服务。在参考其需求的同时，也要兼顾他们的意见是否有利于国家的长远利益。论坛是目前专家咨询的一个主要形式。这种形式有很好的能见度，却始终与决策部门存在一臂之隔。<br/><div class="contheight"></div>更为理想的形式，或许是由决策部门牵头，经常与专家们座谈。这些专家，不应局限于学科带头人，以免造成意见的同化，而应该包括各种相关行业的从业者：有学者，也要有记者；有行业协会负责人，也要有一线职工。<br/><div class="contheight"></div>（作者为牛津大学硕士）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 课题 大学</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2755344">
+<div class="nbgbox">
+<a class="zan" contid="2755344" href="javascript:;" onclick="voteCont(this)" praisetimes="149">
+                           148</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 课题研究</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2755344&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2755344&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

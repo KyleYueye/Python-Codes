@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜“安比”要来，把困难估计得充分些工作落实得细致些</h1>
+<div class="news_about">
+<p>澎湃特约评论员 远山</p>
+<p>
+							2018-07-20 13:37<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="457" src="http://image.thepaper.cn/www/image/8/998/27.jpg" width="600"/></div>今年第10号台风“安比”正在逼近华东沿海地区，上海对此高度重视、严阵以待。李强书记、应勇市长分别提出明确要求，做出具体部署。在昨日召开的防汛指挥部会议上，应勇指出要立足最不利的情况，着眼最恶劣的天气，防范最极端的事件，做好最充分的准备。<br/><div class="contheight"></div>上海是一座国际化大都市，也是较易受台风天气影响的城市，过去多年来积累了丰富的防汛防台经验。2005年的“麦莎”、2012年“海葵”、2014年的“凤凰”……上海都做到了充分准备、沉着应对，确保了人民群众生命财产安全和城市平稳有序运行。<br/><div class="contheight"></div>毫无疑问，每一次极端天气都是对城市公共应急能力的检验。面对台风“安比”，再高的应急措施都是必须的。而从上海的部署来看，相比于日常的应急举措细化，更强调以城市安全的公共属性为核心，一方面突出其公共服务指向，将城市安全与经济发展、社会建设高度关联在一起，防灾也是民生；另一方面突出其公共责任构成，强调政府、部门、企事业单位、市民四元主体协同，履行责任不可缺失、不容推卸、不能怠慢。<br/><div class="contheight"></div>这几年来，上海在防御台风的公共应急演练和实践中不断积累经验，从人力、资金等资源投入，到各单位从制定应急方案到防汛避险过程的具体执行，再到职能部门通过网站、短信、微博、微信公众号等新媒体及时发布服务信息，确保广大市民及时做好各种防范，以及各类公共应急场所的完善建设，均可圈可点。各级部门、社会组织以及每个市民行动更迅速，谋划更周到，就能更加有效地抵御自然灾害，这已经形成了社会共识。<br/><div class="contheight"></div>然而也要看到，经验只是过去的行为总结，防汛防台更不能有丝毫“挂万漏一”，不能因为近几年上海多次出现台风形势严峻但最终未出现严重汛情和灾情而产生侥幸麻痹思想。<br/><div class="contheight"></div>“防灾抗灾，要不怕兴师动众、不怕‘劳民伤财’、不怕十防九空，把人民群众的生命财产安全放在首位。”自然灾害本就瞬息万变，台风的行踪更是“飘忽不定”，一些看似“兴师动众”的举措，都是为了将灾害带来的损失降到最低，因此宁可“十防九空”，不可“失防万一”。<br/><div class="contheight"></div>面对台风逼近，对上海各级各部门来说，首先要增强忧患意识，树立底线思维，把困难估计得充分一些，把措施安排得周密一些，把工作落实得细致一些。其次要迅速采取有效行动，全面落实各项防范措施，强化应急值守、加强隐患排查、做好人员避险转移等。<br/><div class="contheight"></div>“安比”要来，但上海不慌。当各责任主体将防汛防台工作内化为本能，每一条街道、每一个小区、每一家老少，都能内生出参与应急的自觉性、提升认知度和参与度，就一定能打好这场防御“安比”的硬仗。<audio controls="controls" style="display: none;"></audio></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 台风“安比”</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2278884">
+<div class="nbgbox">
+<a class="zan" contid="2278884" href="javascript:;" onclick="voteCont(this)" praisetimes="56">
+                           55</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 台风“安比”</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2278884&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2278884&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

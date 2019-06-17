@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">​中国女性在印疑遭性侵，我使馆：已联系当事人，案件在调查</h1>
+<div class="news_about">
+<p>孔令晗/北京青年报“北京头条”客户端</p>
+<p>
+							2019-01-04 09:23<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/880/425.png" width="100%"/></div><span style="color: rgb(128, 128, 128);">印度当地警方接到该女子报警（视频截图）</span><br/><div class="contheight"></div>北京头条客户端1月4日消息，近日，有印度媒体报道称，当地时间2018年12月31日，印度警方接到一名25岁中国女性报警，称自己独身一人旅行至印度中央邦时，被一伙当地人在茶里下药，后失去意识，疑似遭到性侵。1月4日凌晨，北京青年报记者从中国驻印度大使馆了解到，目前大使馆已获悉此事，并与当事人及办案警方取得联系，目前案件正在调查中。领事部赵主任介绍，前几天大使馆通过印媒报道获知此事，遂立即联系了当事人和案发地警方，以了解情况，并敦促印度警方迅速调查破案，确保我国公民正当合法权益，“和当事人还有印度警方一直在保持密切联系，案件还在调查中。”<br/><div class="contheight"></div>（原标题《​中国女性在印度疑遭性侵 我使馆与当事人取得联系》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; ​中国女性在印度疑遭性侵</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2811822">
+<div class="nbgbox">
+<a class="zan" contid="2811822" href="javascript:;" onclick="voteCont(this)" praisetimes="90">
+                           89</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: ​中国女性在印度疑遭性侵</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2811822&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2811822&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（797）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

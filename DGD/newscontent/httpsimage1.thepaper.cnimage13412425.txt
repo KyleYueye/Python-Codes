@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">新华社评论员 ：通过改革开放破解前进中的问题</h1>
+<div class="news_about">
+<p>新华社评论员</p>
+<p>
+							2018-12-22 22:39<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“坚持向改革要动力”“加快经济体制改革”“推动全方位对外开放”……日前闭幕的中央经济工作会，对明年经济工作作出一系列重要部署安排，其中贯穿着一条鲜明主线：坚定不移深化改革、扩大开放。这是我们做好经济工作、不断开创发展新局面的根本所在。<br/><div class="contheight"></div>40年风雨砥砺，改革开放不仅造就了中国奇迹，更为经济社会持续健康发展积累了宝贵经验。今年以来，面对错综复杂的国际环境和艰巨繁重的国内改革发展稳定任务，我国经济之所以能迎难而上、取得来之不易的成绩，得益于以习近平同志为核心的党中央不断加大改革开放力度，为各项事业发展注入澎湃动力。<br/><div class="contheight"></div>当前，我国经济运行在稳中有进的同时稳中有变、变中有忧，外部环境复杂严峻，经济面临下行压力。这些问题既有短期的也有长期的，既有周期性的也有结构性的，是前进中的问题。发展中的问题要用发展来解决，前进中的问题要靠改革来破解。面对纷繁复杂的问题矛盾，唯有继续深化改革、扩大开放，才能化危为机、转危为安，把握主动权、增创新优势，推动高质量发展。<br/><div class="contheight"></div>推进改革开放，破解发展难题，要抓住主要矛盾，找准突破口和着力点。当前，我国经济运行的主要矛盾仍然是供给侧结构性的，供给体系不适应需求结构变化，导致经济循环不畅。这就要求我们必须从供给侧、结构性改革上想办法，主攻方向是提高供给质量，根本途径是深化改革。要更多运用市场化、法治化手段，在“巩固、增强、提升、畅通”上下功夫。这八字方针是当前和今后一个时期深化供给侧结构性改革、推动经济高质量发展管总的要求。要巩固“三去一降一补”成果，增强微观主体活力，提升产业链水平，畅通国民经济循环，形成国内市场和生产主体、经济增长和就业扩大、金融和实体经济良性循环。要坚持向改革要动力，不断破除体制机制障碍，为经济社会发展提供推动力。<br/><div class="contheight"></div>推进改革开放，破解发展难题，必须以更大力度抓落实、务实效。要深化四梁八柱性质的改革，推动相关改革走深走实。深化财税金融、国资国企等重点领域改革，坚决破除民营企业发展障碍，营造法治化制度环境，保护民营企业家人身安全和财产安全，激发各类市场主体活力，切实增强发展内生动力。通过深化改革，打造规范、透明、开放、有活力、有韧性的资本市场。切实转变政府职能，强化事中事后监管，凡是市场能自主调节的就让市场来调节，凡是企业能干的就让企业干，更好地理顺政府与市场的关系。<br/><div class="contheight"></div>开放带来进步，封闭必然落后。适应新形势、把握新特点，推动由商品和要素流动型开放向规则等制度型开放转变，是新时代我国对外开放面临的新课题。要放宽市场准入，全面实施准入前国民待遇加负面清单管理制度，保护外商在华合法权益特别是知识产权，允许更多领域实行独资经营；推动出口市场多元化，削减进口环节制度性成本，以更高水平对外开放，与各国共享机遇、共同发展，开创更加美好的发展前景。<br/><div class="contheight"></div>（原题为《新华社评论员：通过改革开放破解前进中的问题——二论贯彻落实中央经济工作会议精神》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 改革开放,中央经济工作会议</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2764766">
+<div class="nbgbox">
+<a class="zan" contid="2764766" href="javascript:;" onclick="voteCont(this)" praisetimes="88">
+                           87</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中央经济工作会议</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2764766&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2764766&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

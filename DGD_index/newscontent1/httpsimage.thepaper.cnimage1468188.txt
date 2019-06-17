@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">朝中社披露金正恩和夫人乘专列赴中国访问，随行人员曝光</h1>
+<div class="news_about">
+<p>赵萌/“北京青年报”微博</p>
+<p>
+							2019-01-09 11:14<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="378" src="http://image.thepaper.cn/www/image/14/68/208.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">当地时间2019年1月7日，朝鲜平壤，朝鲜国务委员会委员长金正恩启程赴华访问。 视觉中国 图<br/><div class="contheight"></div></span>北京青年报微博1月9日消息，中共中央对外联络部新闻发言人1月8日在北京宣布：应中共中央总书记、国家主席习近平邀请，朝鲜劳动党委员长、国务委员会委员长金正恩1月7日至10日对中国进行访问。<br/><div class="contheight"></div>据朝中社1月8日最新消息，金正恩和李雪主于7日下午离开平壤出访中国，并乘坐专列启程。<br/><div class="contheight"></div>朝中社报道还披露了陪同金正恩访华的随行人员。报道称，金英哲、李洙墉、朴泰成、李容浩（李勇浩）和努光铁等同志陪同访华。<br/><div class="contheight"></div>金英哲2018年参加了金正恩与韩国总统文在寅的会晤，并以朝方特使身份参加了韩国平昌冬奥会。2018年6月，金英哲陪同金正恩出席了在新加坡举行的首次朝美领导人会晤。李洙墉是朝鲜外交领域的高级官员，曾担任朝鲜外长。李勇浩曾是李洙墉在朝鲜外交部的副手，目前任朝鲜外相。努光铁是名军人，职务为 “人民武力相”，相当于“防长”一职。除了努光铁，金英哲、李洙墉、李勇浩都是朝鲜外交团队的核心人物。<br/><div class="contheight"></div>《环球时报》援引日本《产经新闻》称，金正恩去年3月访华是乘专列，后两次都是专机。据悉，金正恩在5月7日访问中国大连时，乘坐的是朝鲜“空军1号”——“苍鹰1号”。<br/><div class="contheight"></div>在1月8日外交部例行记者会上，有媒体问及金正恩此次访问地点除了北京还有其他地方吗？发言人陆慷表示， 关于金正恩委员长对中国进行的访问是不是还有什么其他的安排，更多消息我们会及时发布。2018年6月访华时，金正恩参观了中国农业科学院国家农业科技创新园和北京市轨道交通指挥中心。<br/><div class="contheight"></div>（原题为《朝中社披露金正恩和夫人乘专列赴中国访问，随行人员曝光》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 金正恩访华</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831186">
+<div class="nbgbox">
+<a class="zan" contid="2831186" href="javascript:;" onclick="voteCont(this)" praisetimes="62">
+                           61</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 金正恩访华</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831186&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831186&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

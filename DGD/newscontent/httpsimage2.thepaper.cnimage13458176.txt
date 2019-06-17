@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25463">港台来信</a>
+</div>
+<h1 class="news_title">历时一年，台湾教育部门终同意管中闵担任台大校长</h1>
+<div class="news_about">
+<p>澎湃新闻记者 蒋子文</p>
+<p>
+							2018-12-24 17:02<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="470" src="http://image.thepaper.cn/www/image/13/458/196.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">管中闵<br/><div class="contheight"></div></span>“拔管”风波持续一年后，台湾教育部门终于同意管中闵担任台湾大学（以下简称“台大”）校长。<br/><div class="contheight"></div><strong>据台湾“中央社”报道，台湾教育部门负责人叶俊荣12月24日宣布，“勉予同意”管中闵担任台大校长，但要求台大在3个月内针对此次校长遴选过程中的瑕疵和争议全盘检讨。</strong><br/><div class="contheight"></div>2017年6月，由于卷入台大教授郭明良论文抄袭风波，台大原校长杨泮池卸任。然而，台大新校长的遴选、任命却遭遇一波三折。<br/><div class="contheight"></div>2018年1月5日，台湾经济学者、“中研院院士”管中闵经台大校长遴选委员会投票，当选新任台大校长。原定管中闵2月1日正式上任，但台湾教育部门以管中闵担任企业独立董事、曾赴厦门大学兼职、涉嫌论文抄袭等争议为由，迟迟未核定该高校人事案。4月27日，台湾教育部门宣布驳回人事案并要求台大重启遴选，但台大方面予以拒绝并提出司法诉愿。<br/><div class="contheight"></div>因此，加上校长遴选前的6个月，有台湾岛内“第一学府”之称的台大在长达超过一年多时间没有正式校长。其间，台湾教育部门也历经了两任负责人潘文忠、吴茂昆的先后请辞，现任负责人叶俊荣于2018年7月就职。<br/><div class="contheight"></div>对此，有台湾舆论指出，由于管中闵在马英九执政期间曾担任发展规划主管部门负责人，被民进党等绿营人士认为“颜色不对”，因而遭到“绿营”持续“质疑”、“追打”和“抹黑”，百般阻挠其上任。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王俊<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 台湾大学，管中闵</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2769257">
+<div class="nbgbox">
+<a class="zan" contid="2769257" href="javascript:;" onclick="voteCont(this)" praisetimes="9">
+                           8</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 台湾大学</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2769257&caid=25463",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2769257&amp;caid=25463" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

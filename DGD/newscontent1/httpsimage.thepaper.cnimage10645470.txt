@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜即便消防员是万能的，动辄叫消防也是万万不能的 </h1>
+<div class="news_about">
+<p>澎湃特约评论员 与归</p>
+<p>
+							2018-09-20 19:06<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="336" src="http://image.thepaper.cn/www/image/10/645/309.jpg" width="522"/></div><span style="color: rgb(128, 128, 128);">微博@中国消防 回应截图<br/><div class="contheight"></div></span>近日，有网友发微博称，自己忘带钥匙，想请消防员从阳台进入房间开门，却得到“进入高楼层危险”的回绝。该网友本是想吐槽消防“拿纳税人的钱，不帮纳税人的忙”，结果引发一边倒的批评和嘲讽。<br/><div class="contheight"></div>随后，@中国消防 回应，消防承担重大灾害事故和以抢救人员生命为主的应急救援工作，非紧急情况下建议找开锁公司。<br/><div class="contheight"></div>曾经，确实有一些人忘带钥匙时，首先想到找消防。不管成功还是被拒，他们都会遭到公众批评。经过多年的普法和公共讨论，“忘带钥匙找开锁公司，不要麻烦消防员”，已成为全社会共识。现在又出现奇葩言论，吐槽反被怼实在太正常。<br/><div class="contheight"></div>忘带钥匙找消防，缺乏常识。“竟然让我花钱撬锁”，这种不忿是天下人皆欠我的公主病；“拿纳税人的钱不帮纳税人的忙”，是对纳税和纳税人的深深误解。<br/><div class="contheight"></div>三个月前，我因为出门拿外卖，不小心把自己锁在外面。幸好拿了手机，就叫了开锁公司，花了130元。有人可能觉得，130元好贵，但是消防执行一次任务，哪怕只是“从阳台进去开门”，所付出的成本，也远不只130元，更何况还附加不必要的危险。<br/><div class="contheight"></div>有意思的是，这位网友把消防救急行动称为“活儿”，好像消防是一家到处揽活的盈利性服务企业，好像自己会买单似的。不找开锁公司找消防，瞅准的不就是后者“免费服务”吗？<br/><div class="contheight"></div>公共消防机构，拿的确实是纳税人的钱，但钱不是这么个花法。消防承担的是救急救险的职责，从法定义务上说，没有“跳阳台开门”的义务；哪怕是本着人道主义，也有高射炮打蚊子之嫌。这世间，还有太多更重要的人事、更危险的场合、更迫切的求助等着他们。不顾公共利益，动辄就叫消防，是非常自私的表现。 <br/><div class="contheight"></div>纳税也的确是光荣的，是你对社会的贡献，但这不并代表纳税人高人一等，就可以随意占用公共资源。事实上，@中国消防 的回答已经足够详实和体面，“如钥匙落在家里，有儿童老人被困或煮饭烧水等有可能发生危险时，消防会到场救助。”<br/><div class="contheight"></div>所以，我劝这位网友，以及还有“忘带钥匙找消防”想法的人，认真学习消防部门的回应，多听听一些网友理性的批评。要知道，如果消防为你开了先例，下次可能就是“下雨了，我家衣服忘收了，你架个天梯到阳台帮我收”“我上厕所忘带纸了，请消防从阳台给我扔一卷过来”……消防力量再富余，小伙子们体力再好，也得被这样的“纳税人”，活活累死。<br/><div class="contheight"></div>看到这条新闻的时候，窗外大雨磅礴，一辆消防车疾驰而过。我知道，他们正在奔赴可能存在危险的第一线。但这个第一线，不该是去给某个人开一个非紧急的锁。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 忘带钥匙找消防</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2461215">
+<div class="nbgbox">
+<a class="zan" contid="2461215" href="javascript:;" onclick="voteCont(this)" praisetimes="171">
+                           170</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 取钥匙找消防</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2461215&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2461215&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

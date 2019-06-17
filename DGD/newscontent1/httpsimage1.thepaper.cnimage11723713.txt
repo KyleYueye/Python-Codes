@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜李咏突破的，也是我们怀念的</h1>
+<div class="news_about">
+<p>澎湃特约评论员 王石川</p>
+<p>
+							2018-10-29 13:45<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2574980" target="_blank">
+<span class="p_time">02:58</span>
+<img alt="马上评｜李咏突破的，也是我们怀念的" src="//image1.thepaper.cn/image/11/722/423.jpg"/>
+</a>
+<div class="atlas_360_txt">纪念｜“异类”李咏<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard"> “永失我爱……”10月29日，哈文在微博中称：在美国，经过17个月的抗癌治疗，2018年10月25日凌晨5点20分，永失我爱……<br/><div class="contheight"></div>“黯然销魂者，惟别而已”。对于哈文来说，这样的生死离别未免残酷。而对于不少网友来说，面对李咏去世消息，第一反应是难以置信。尽管李咏淡出公共视野已有一段时间，这样的突发“状况”，不能不让人错愕。<br/><div class="contheight"></div>看电视综艺长大的一代人，认识李咏，多是从非常6+1和幸运52中认识的，还有从咏乐汇、从央视春晚认识的，乃至后来的超级演说家认识的……无论潇洒扔手卡，还是笑吟吟看人砸金蛋……李咏的主持细节都有张力，令人难忘。一定程度上说，在节目并不丰富的综艺年代，李咏以充满特色的主持风格，让人心生好感，也丰富了观众对主持人的想象。<br/><div class="contheight"></div>在中国电视综艺界，李咏是一个“别致”的存在。如果说在体育界，黄健翔是对宋世雄的突破，那么在综艺界，李咏就是对赵忠祥的突破。无论非同一般的长发，还是略显夸张的表达，乃至不走寻常路的台风，李咏在综艺节目中都很有存在感，不仅让人一下子记住，更因敢于超越、善于突破而“打出”了属于自己的一片天地。<br/><div class="contheight"></div>“张嘴之前，须脑先明白”。对于备受瞩目的央视主持人来说，尤是如此。李咏不是没有口误过，但在舞台上，他侃侃而谈，语速惊人，却能收放自如，保持亦庄亦谐的风格，实属不易。特别是，主持风格前卫而又节制，时尚却不踩线，在拿捏住分寸的同时，又有所发挥，做到让上下满意、台内外认可，更见功力。<br/><div class="contheight"></div>让我对李咏刮目相看的，是他主持《向幸福出发》。这个节目相对来说比较主流，不是那么充满卖点，但李咏主持起来仍能轻松驾驭，且力求使充满看点，这足以说明李咏是可塑的，主持风格是多变的。<br/><div class="contheight"></div>在娱乐圈，李咏罕有负面新闻，在舆论场，李咏的口碑也颇佳。李咏经营事业，经营家庭，与哈文一道，夫唱妇随，妇唱夫随，互相成全，也都有所建树。特别是李咏时不时“示弱”，以及在女儿面前展现出的慈父形象，广受世人赞誉。网友对其调侃，抑或略有揶揄，也充满善意。<br/><div class="contheight"></div>一名网友的感慨，让人共鸣之余而生戚戚然：我可以砸个金蛋嘛？！如果冒金花了，请实现我的愿望，我希望咏哥回来继续陪着我们，陪着家人……由此可见网友李咏的喜爱。<br/><div class="contheight"></div>“再见了，李咏！怀念荧屏中帅气潇洒的你；怀念节目中欢声笑语的你；感谢你把欢乐和笑声留给了观众愿你一路走好 ​。​”如果说来自“央视新闻”的哀悼，代表了央视的声音，那么曾与李咏合作多年的央视前同事的声音，更让人唏嘘：我为咏哥写了十年的主持词儿，从没想过告别竟是如此突兀的一个结尾……感觉此时的自己，像个文字能力归零的傻瓜，不知该如何安慰哈姐……我愿天堂里从此多了一个亦庄亦谐的声音：我是主持人李咏，下期节目再见！<br/><div class="contheight"></div>告别李咏，告别一名拥有鲜明主持风格的主持人。惟愿这样的主持人再多一些，敢于突破、保持特色，当主持生态越多元，观众就会越受益。（作者系央视评论员）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 李咏去世</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2575239">
+<div class="nbgbox">
+<a class="zan" contid="2575239" href="javascript:;" onclick="voteCont(this)" praisetimes="345">
+                           344</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 央视主持人</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2575239&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2575239&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

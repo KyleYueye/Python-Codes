@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25433">地产界</a>
+</div>
+<h1 class="news_title">深圳写字楼现“捂盘”，业内：低迷期推出会造成空置率高印象</h1>
+<div class="news_about">
+<p>吴家明/证券时报</p>
+<p>
+							2019-01-08 16:18<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">证券时报1月8日报道，近段时间以来，深圳写字楼的空置与降租现象成为市场热议的话题。不仅如此，曾经广泛见于住宅市场的“捂盘”现象开始出现在写字楼市场。<br/><div class="contheight"></div>记者在罗湖区笋岗片区、南山后海片区调查时发现，有大量结构封顶达到预售标准或是已经在进行内部装修的写字楼项目，这些项目迟迟没有推出市场，或者是仍没有推出市场的时间表。有现场的项目经理告诉记者，以前开发商对市场有信心，结构封顶达到预售标准仍不急于上市套现，而是等待项目内外部装修基本完成才高价入市，但最近的市场情况有些不同，市场需求量并不算大，导致本来开发商计划在2018年推出市场，但现在都在往后推。<br/><div class="contheight"></div>高力国际最新发布的数据显示，截至2018年底深圳甲级写字楼总体量达到580万平方米，同比增长12.6%，自2016年以来新增供应年增长率首次低于20%。值得注意的是，去年第四季度无新增供应入市，这是自2016年以来的第一次，相比较来看该季度的吸纳需求量也非常低。2018年下半年，深圳甲级写字楼入市新增供应明显减缓，原计划入市超过200万平方米的项目实际入市面积减半。<br/><div class="contheight"></div>高力国际深圳办公楼服务部董事周之惠表示，除了成本因素，一些新写字楼项目在市场较好的情况下才推出市场，以此获得更好的出租或销售表现，而在市场低迷时期推出市场容易造成空置率高等不好“印象”。周之惠预计，2018年至2022年深圳将有大量新增甲级写字楼入市，2019年新增供应会拉升整体空置率，从2018年底的16%增加到2019年底的30%。<br/><div class="contheight"></div>高力国际华南区董事总经理冯文光表示，截至2018年底深圳写字楼平均租金按季度环比下降1.9%，同比下降0.6%至每平方米每月237元，预计2019年全市平均租金将进一步下降4%，全年净吸纳量低于2018年。<br/><div class="contheight"></div>受经济环境和金融市场表现低迷的影响，深圳写字楼市场出现了一些包括金融企业在内的退租现象。有消息指出，深圳一地标性建筑的高层区间写字楼租金从过去每平方米每月500至600元降至460元左右。此外，一些写字楼虽被自持，但还是会被一些二房东承租下来，再进行出租，一旦市场环境发生改变，就会有大量写字楼压在手上，这些二房东也只好通过降租金、提供更多如增加免租期及租金折扣等优惠政策，以换取更高的出租率。不过，截至2018年11月，深圳市场共录得16个大宗交易记录。其中，写字楼仍是深圳物业投资市场最活跃的板块，共录得9个投资大宗交易，总交易额约80亿元。<br/><div class="contheight"></div>（原题为《深圳写字楼现“捂盘”现象》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 深圳地产,写字楼,捂盘</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827622">
+<div class="nbgbox">
+<a class="zan" contid="2827622" href="javascript:;" onclick="voteCont(this)" praisetimes="53">
+                           52</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 写字楼</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827622&caid=25433",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827622&amp;caid=25433" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

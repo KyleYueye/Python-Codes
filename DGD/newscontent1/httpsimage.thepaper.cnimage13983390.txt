@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">马来西亚国家元首宣布辞职</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-06 20:09<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">马来西亚国家元首宣布辞职。<br/><div class="contheight"></div>据马来西亚国家通讯社1月6日消息，马来西亚国家元首穆罕默德五世于今日宣布辞职。<br/><div class="contheight"></div>据海外网1月6日报道，马来西亚王宫6日发布声明称，穆罕默德五世宣布辞去国家元首职务，具体原因未做说明。<br/><div class="contheight"></div>综合法新社、马来西亚《星报》消息，当地时间6日，马来西亚王宫事务主管万·艾哈迈德发布声明表示，穆罕默德五世按联邦宪法第32（3）条辞去第15任国家元首的职务，声明于1月6日生效。这是马来西亚首位在任内宣布辞职的国家元首。<br/><div class="contheight"></div>据了解，穆罕默德五世现年49岁，同时担任吉兰丹州苏丹。早前曾有谣言称他即将退位，但吉兰丹州副州务大臣表示，该州政府未收到相关信息，并呼吁民众勿信谣言。<br/><div class="contheight"></div>去年11月2日至12月31日，穆罕默德五世曾因健康问题请假2个月，期间由霹雳州苏丹纳兹林沙出任代国家元首。<br/><div class="contheight"></div>而据《海峡时报》1月6日报道，穆罕默德五世在位的最后两个月之中充满争议。尤其是11月22日他在病假中却迎娶了2015年莫斯科小姐奥克萨纳·沃耶沃金娜，二人年龄相差24岁，引发颇多关注。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 马来西亚</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2821783">
+<div class="nbgbox">
+<a class="zan" contid="2821783" href="javascript:;" onclick="voteCont(this)" praisetimes="824">
+                           823</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 马来西亚</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2821783&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2821783&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（84）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

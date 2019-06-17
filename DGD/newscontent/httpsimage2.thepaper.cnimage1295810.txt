@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜贫困县摘帽不得庆祝，这本该是常识</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-12-06 15:48<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">国务院扶贫办近日印发通知，要求规范贫困县脱贫摘帽有关工作。通知明确，贫困县脱贫摘帽后一律不搞摘帽庆祝活动，不拍摄摘帽专题宣传片，不开展以摘帽为主题的相关活动。<br/><div class="contheight"></div>据了解，脱贫攻坚战以来，已有153个贫困县脱贫摘帽。而根据预先部署，今明两年，将进入贫困县脱贫摘帽高峰期。<br/><div class="contheight"></div>贫困县摘帽不得庆祝，这本该是常识。在脱贫摘帽高峰期来临之前下发这个通知，有打预防针的意味。<br/><div class="contheight"></div>道理不难明白。其一，脱贫摘帽的过程中，当地虽然付出了艰苦的努力，但也离不开上级财政和社会各界的支持；其二，摘帽之后，这些前贫困县与发达地区仍有很大差距，艰苦奋斗的作风不能变；其三，若大肆庆祝脱贫摘帽，会挑战公众认知，造成不良影响。<br/><div class="contheight"></div>贫困县摘帽尤其应该吸取当初戴帽时的教训，不能在一个坑里栽倒两次。因为贫困县会享受资金和政策上的扶持，所以过去一些县在评为贫困县时会抑制不住喜色。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="391" src="http://image.thepaper.cn/www/image/12/958/7.jpg" width="600"/></div>最典型的一个例子是，2012年湖南省某县在政府网站上发布“特大喜讯”，祝贺自己成为贫困县。该县还做了LED广告牌：“热烈庆祝：XX县成功纳入国家集中连片特困地区，成为新时期国家扶贫攻坚的主战场。”这种不以为耻反以为荣的姿态，在当时饱受诟病。<br/><div class="contheight"></div>贫困县无论戴帽还是摘帽，都不是与荣耀有关的事。地方政府当认清自己的本职，摘帽是责任所在，不摘帽当自我反思。当然，对于在扶贫攻坚战中表现卓越的个人，该表彰的还是要表彰。<br/><div class="contheight"></div>更重要的是，脱贫摘帽之后，地方政府该如何开展工作。排在第一位的应该是再接再厉，不断缩小与发达地区的差距，防止再度“返贫”。<br/><div class="contheight"></div>扶贫办的通知还表示，“摘帽不摘责任，摘帽不摘政策，摘帽不摘帮扶，摘帽不摘监管”，这是扶上马再送一程的意思。而长期来看，贫困地区只有充分利用市场手段，形成造血机制，才能摆脱对外部输血的依赖。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 贫困县</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2712734">
+<div class="nbgbox">
+<a class="zan" contid="2712734" href="javascript:;" onclick="voteCont(this)" praisetimes="163">
+                           162</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 贫困县</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2712734&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2712734&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

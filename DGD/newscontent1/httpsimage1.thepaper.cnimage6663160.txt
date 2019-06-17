@@ -1,0 +1,92 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">问吧直播｜王恺、毛尖对谈老上海的美食与爱</h1>
+<div class="news_about">
+<p>澎湃问吧</p>
+<p>
+							2018-01-07 13:57<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">《良友》画报、弄堂、十里洋场、外滩、张爱玲、本帮菜……在这些藏着“老上海”的诸多符号以及事与物中，本帮菜或许是最能鲜活起我们对于上海之城市印象的，烟火气中的饮食男女，终归是一座城市的主角；而一方食物，在某种意义上，塑造出了城市的性情。响油鳝糊、油爆河虾、红烧划水、腌笃鲜、烤麸……这些典型的老上海吃食，或因为做法，或因为食材，或因为食客的宠爱，也逐渐有了“海派”的范儿。<br/><div class="contheight"></div>与数十年前的单调相比，如今人们对于食物的选择已经多到难以想象。走在上海的某一条街巷中，一次性依次“偶遇”八大菜系的馆子，也绝非不可能。如此，我们何以能寻到老上海的纯粹味道？是在老式的弄堂里，还是在高档的会所中？在各种味觉文化的碰撞下，讲究浓油赤酱的本帮菜，又如何保持它的风韵，在多元中不失本位？<br/><div class="contheight"></div><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="984" src="http://image.thepaper.cn/www/image/6/663/155.jpg" width="600"/></div><br/><div class="contheight"></div>1月7日下午2点，请跟着澎湃问吧直播厅走进半层书店，听听对于老上海菜，王恺、毛尖两位嘉宾如何聊开——王恺曾在上海求学、工作多年，对老上海菜自是有一番个人独特评点；而毛尖定居上海，更是大有料可聊。让我们于侃侃而谈间，一起在食物中探寻老上海。<br/><div class="contheight"></div><br/><div class="contheight"></div><strong>对谈嘉宾：<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/6/663/150.jpg" width="600"/></div></strong><strong>王恺</strong>  作家、《三联生活周刊》前资深主笔、“活字文化”新媒体总监。著有《文艺犯》。专研饮食文化，雅擅茶道、花道等生活方式。<br/><div class="contheight"></div><strong><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="674" src="http://image.thepaper.cn/www/image/6/663/153.jpg" width="600"/></div>毛尖</strong>  毛尖，作家、华东师范大学教授。著有《非常罪，非常美》《当世界向右的时候》《慢慢微笑》《没有你不行、有你也不行》《乱来》《这些年》《有一只老虎在浴室》《例外》《一直不松手》等作品。<br/><div class="contheight"></div><br/><div class="contheight"></div><strong>点击下方链接观看直播，一起探寻老上海的美食与爱。</strong></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_asktopic">
+<div class="news_askuser" onclick="window.open('asktopic_detail_10010268');"><span class="verticalAlign_topic"></span>
+<div class="news_askuser_bd">
+<div class="news_askuser_sort">品位</div>
+<div class="news_askuser_profile">我是王恺,关于美食及食物背后的人情世相,问我吧!</div>
+</div> <div class="news_askuser_trbs"><span class="trbs">
+<div class="userleft_hdimg">
+<img src="//image.thepaper.cn/publish/interaction/image/0/910/248.jpg"/><div class="hdimg_bg30"><img src="//file.thepaper.cn/www/v3/img/headerimg_ctbg30.png"/><span></span></div>
+</div>
+<a class="u_sname">王恺</a>
+<span>2017-12-08</span>
+<span class="trbs_zan" id="10010268" times="322">322</span>
+<span>进行中...</span>
+</span></div>
+</div>
+</div>
+<!-- 审稿人字段 -->
+<!-- 空格分隔后的作者列表-->
+<div class="news_editor">责任编辑：李淑平<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="1939088">
+<div class="nbgbox">
+<a class="zan" contid="1939088" href="javascript:;" onclick="voteCont(this)" praisetimes="24">
+                           23</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美食</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=1939088&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=1939088&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（87）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

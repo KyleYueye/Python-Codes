@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">加拿大商界人士驳斥在华不安全谣言：没看到啥危险</h1>
+<div class="news_about">
+<p>张霓/海外网</p>
+<p>
+							2018-12-15 12:41<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网12月15日电，在中国宣布对2名涉嫌从事危害中国国家安全活动的加拿大公民依法审查后，一些外媒开始造谣中国“是在就华为事件展开报复行动”，甚至加拿大联邦政府的高官也在添油加醋，警告在华和打算前往中国的加拿大人“保持高度警惕”。不过，这些无端指责并未影响加拿大大型企业和组织的判断，他们近日就站出来直言“并没有看到在华加拿大人有什么危险”。<br/><div class="contheight"></div>综合路透社、彭博社等媒体报道，加拿大养老基金投资公司（CPPIB）总裁兼CEO马克·马辛近日表示，虽然当下加拿大与中国的关系紧张，但这并没有改变他们对中国的投资决策。这家国有企业是加拿大最大的养老基金公司，也是世界上最大的养老基金公司之一。其8%的资金投资在中国，并在早前曾表示计划在未来几年内大幅增加在华资金。<br/><div class="contheight"></div>“我们在中国有着很多长期的合作关系，”马辛这样表示，并补充称，并没有看到任何加拿大人在中国会面临什么危险。<br/><div class="contheight"></div>不仅是加拿大养老基金投资公司，该国领先的农业集团加拿大农业食品贸易联盟（CAFTA）也喊话政府别再加戏演什么“政治秀”。<br/><div class="contheight"></div>就在13日，有记者在中国外交部例行发布会上提问称，有在华经商的加拿大人士表示在与部分中国公司进行商业往来过程中遇到困难，并就此提问中方是否指示中国公司推迟、暂停和取消与加方的商业往来。外交部发言人陆慷明确否认，“第一，我没有听说过有这样的指示。第二，这也不太像是中国人的行为方式。”<br/><div class="contheight"></div>加拿大农业食品贸易联盟总裁的说法也进一步证实了陆慷的回答。该联盟总裁布莱恩·英纳斯13日表示，到目前为止，联盟成员们在中国并未受到任何新的贸易限制，联盟也不会提醒人们避免前往中国。<br/><div class="contheight"></div>针对有记者称现在一些在中国居住的加拿大人表示很不安，担心自己也被拘捕时，外交部发言人陆慷表示，中方一贯对与外界交往持积极开放的态度，中国是不是安全，加拿大老百姓心中自有一杆秤。“我们欢迎外国游客、外国公民到中国来旅行，来开展正常的友好交往活动，包括经商、游学，都没有问题。”他说，“只要是遵守中国的法律法规，实际上没有什么可担心的。”<br/><div class="contheight"></div>（原题为《加拿大商界人士驳斥在华不安全谣言：没看到啥危险》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 加拿大</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2742243">
+<div class="nbgbox">
+<a class="zan" contid="2742243" href="javascript:;" onclick="voteCont(this)" praisetimes="279">
+                           278</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 加拿大</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2742243&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2742243&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（34）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">药品管理法拟围绕疫苗事件暴露问题等进行修改：从四方面重罚</h1>
+<div class="news_about">
+<p>梁晓辉 马海燕 张素/中新网</p>
+<p>
+							2018-10-22 16:43<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网北京10月22日消息，药品管理法修正草案22日下午提请十三届全国人大常委会第六次会议初审。草案围绕问题疫苗案件暴露的突出问题、实施药品上市许可持有人制度和推进审批制度改革等进行了修改，及时回应社会关切。<br/><div class="contheight"></div>草案拟从四方面加大对违法行为的处罚力度，解决违法成本低、处罚力度弱的问题。一是全面加大对违法行为的行政处罚力度。二是落实“处罚到人”要求，对严重违法行为的责任人进行处罚。三是结合本次修法相应补充了药品上市许可持有人的法律责任以及违法报告、召回等新设义务的法律责任。四是细化并加重对地方政府负责人和监管人员的处分，对隐瞒、谎报、缓报药品安全事故等行为规定了严格的处分。<br/><div class="contheight"></div>（原题为《我国拟修改药品管理法 围绕问题疫苗暴露问题作出修改》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：黎凡<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 药品管理法</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2552379">
+<div class="nbgbox">
+<a class="zan" contid="2552379" href="javascript:;" onclick="voteCont(this)" praisetimes="408">
+                           407</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 药品管理法</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2552379&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2552379&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（125）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

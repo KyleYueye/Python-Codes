@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">杭州余杭检察：批捕量做减法，出台轻微刑案不批捕标准指引</h1>
+<div class="news_about">
+<p>范跃红/检察日报</p>
+<p>
+							2018-09-18 12:17<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日，一起盗窃案件的犯罪嫌疑人杨某来到浙江省杭州市余杭区检察院，接受该院侦查监督部员额检察官邬云霞的讯问，被不批准逮捕的他再次向检察官保证，自己会随传随到，保证诉讼顺利进行。<br/><div class="contheight"></div>今年8月初，杭州市余杭区检察院首次在杭州市范围内出台了《常见轻微刑事案件不批捕标准指引》（下称《指引》），对于轻微刑事案件的“捕与不捕”作出明确规定。《指引》对轻微刑事案件不批准逮捕的基本定义、适用条件、禁止适用条件、适用范围、适用标准、处理程序、公开听证、案件评查等八个方面的内容作了明确规定。特别是对交通肇事、故意伤害（轻伤）、掩饰隐瞒犯罪所得等11个常见罪名，分条分点对不批准逮捕的条件作了具体规定。如对盗窃、故意毁坏财物等侵财类犯罪，明确区分不同的行为性质、退赃退赔、被害人谅解等情节，总结计算出犯罪嫌疑人不会被判处六个月以上有期徒刑的犯罪数额，并将该具体数额确定为不批捕的适用标准。<br/><div class="contheight"></div>8月10日，邬云霞承办了一起盗窃案。在仔细审查该案后，她发现犯罪嫌疑人杨某小额盗窃4次，涉案数额1500元，财物均已被追回或退赔，涉嫌盗窃罪。根据《指引》要求，邬云霞结合该起案件中杨某的盗窃手段、次数、退赃退赔及认罪认罚等情况，对杨某涉嫌盗窃罪的量刑预判约五个月。同时杨某系初犯，已如实供述犯罪事实，并已得到被害人的谅解。根据《指引》规定，盗窃罪可能被判处六个月以下拘役或缓刑，可以认为无逮捕必要，员额检察官可以直接作出不批捕决定。据此，邬云霞在与侦查机关承办人确认杨某有取保候审条件后，对犯罪嫌疑人杨某作出无社会危险性、犯罪情节轻微的不批捕决定。<br/><div class="contheight"></div>“我们积极探索新时代‘捕人少、治安好’的司法实践，努力在批捕量上做减法，在办案质效上做加法，为社会关系的自我修复留出足够空间。”该院副检察长陈利明说。据介绍，今年以来，该院积极探索对审查逮捕案件开展量刑分析预判，以预判结果倒逼批捕质量提升。截至目前，该院审查逮捕案件捕后轻刑率为2.6%，审前羁押率控制在58.2%，通过积极探索降低轻刑案件的逮捕率，办案质效有了明显提升。<br/><div class="contheight"></div>（<strong>原标题：</strong>批捕量做减法　办案质效做加法）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：卫佳铭<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 检察院,批捕,预审</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2451293">
+<div class="nbgbox">
+<a class="zan" contid="2451293" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 批捕</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2451293&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2451293&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

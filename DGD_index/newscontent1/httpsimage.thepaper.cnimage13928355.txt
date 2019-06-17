@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">特朗普：政府“停摆”可能持续数月甚至数年</h1>
+<div class="news_about">
+<p>王冠/央视新闻客户端</p>
+<p>
+							2019-01-05 08:44<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="444" src="http://image.thepaper.cn/www/image/13/928/353.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">一座关闭的华盛顿特区的政府大楼。视觉中国 资料图<br/><div class="contheight"></div></span>当地时间1月4日周五，美国政府部分“停摆”进入第14天，总统特朗普再次召集国会两党领导人进行磋商，但双方依然没有达成协议。特朗普威胁称，他已经做好让政府关门持续数月甚至数年的准备。<br/><div class="contheight"></div>在周五的会谈中，国会参众两院民主党领导人舒默和佩洛西均表示，以特朗普为首的共和党人应尽快对众院周四通过的最新版政府预算案进行表决，以结束联邦政府部分“停摆”的僵局，之后再探讨美墨“边境墙”拨款问题。而特朗普和共和党人则坚持认为，民主党必须把“边境墙”拨款写入预算案中，之后共和党控制的参议院才会对结束“停摆”的预算案进行投票表决。<br/><div class="contheight"></div>1月3日周四晚，新一届美国众议院投票通过了新一轮政府预算案，但该议案未包含向美墨边境墙拨款的内容。<br/><div class="contheight"></div>本周末，特朗普团队同国会民主党领导人将再次就政府“停摆”及边境墙问题进行磋商。<br/><div class="contheight"></div>分析认为，2019年下半年将拉开2020美国总统大选序幕。修建边境墙是特朗普上任时的最主要竞选承诺之一。为获得核心选民支持，特朗普很难在这一问题上做出大幅让步。<br/><div class="contheight"></div>周五，美国政府部分“停摆”进入第14天，包括国土安全部、司法部、农业部在内的多个美国联邦政府部门处于暂时关门状态，位于首都华盛顿的史密森尼国家博物馆等公共设施也停止对外开放，80万政府雇员被迫无薪工作或赋闲在家。<br/><div class="contheight"></div>（原题为《特朗普：政府“停摆”可能持续数月甚至数年》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国政府停摆</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2816789">
+<div class="nbgbox">
+<a class="zan" contid="2816789" href="javascript:;" onclick="voteCont(this)" praisetimes="138">
+                           137</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美国政府停摆</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2816789&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2816789&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（43）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

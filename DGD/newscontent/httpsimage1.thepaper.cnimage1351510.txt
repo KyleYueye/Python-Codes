@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">《中国市场监管报》正式创刊，系由《中国工商报》更名而来</h1>
+<div class="news_about">
+<p>澎湃新闻记者 王俊</p>
+<p>
+							2018-12-26 11:33<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="800" src="http://image.thepaper.cn/www/image/13/515/7.jpg" width="560"/></div><span style="color: rgb(128, 128, 128);">《中国工商报》创刊号 。<br/><div class="contheight"></div></span>伴随市场监管机构改革的步伐，由《中国工商报》更名而来的《中国市场监管报》正式创刊。<br/><div class="contheight"></div>12月26日，正式创刊的《中国市场监管报》在头版发布了文章《初心坚如磐 改革再出发——&lt;中国市场监管报&gt;创刊致读者》（以下简称“《致读者》”）。<br/><div class="contheight"></div>《致读者》称，“6478期见字如面，31圈年轮旋转，《中国工商报》与您共同见证了市场繁荣、交易规范、消费升级、接轨世界的神州变迁，一起经历了工商行政管理和市场监管的改革创新发展，今天开始更名换装，继续前行，走进新时代，迎接新使命。”<br/><div class="contheight"></div>“历史翻过一页，我们为一段行程画上句号。这告别的时刻，亦是奋进的开始。昨日之日不可留，明日之日志踌躇。不说再见，转身相逢，今天，崭新的《中国市场监管报》接续使命，整装重发。”《致读者》称，新创刊的《中国市场监管报》将自觉承担起在市场监管领域“举旗帜、聚民心、育新人、兴文化、展形象”的使命任务，坚持“立足系统，面向社会”的办报方针，创新宣传方式、手段和技术，依靠大家建好、用好这块舆论阵地，努力成为“市场监管喉舌、工作交流窗口、系统精神家园、企业发展参谋、社会共治桥梁、消费维权帮手”。<br/><div class="contheight"></div>《中国工商报》由原国家工商行政管理总局主管，前身是1984年创办的《中国广告报》，1987年7月创刊更名为《中国工商报》，是一张面向全国工商行政管理和市场监管部门系统、广大工商企业和消费者读者的经济法制类报纸，是宣传工商行政管理工作、诠释工商行政管理法律法规的权威媒体。<br/><div class="contheight"></div>在党和国家机构改革中，今年3月的十三届全国人大一次会议表决通过了关于国务院机构改革方案的决定，将国家工商行政管理总局的职责，国家质量监督检验检疫总局的职责，国家食品药品监督管理总局的职责，国家发展和改革委员会的价格监督检查与反垄断执法职责，商务部的经营者集中反垄断执法以及国务院反垄断委员会办公室等职责整合，组建国家市场监督管理总局，作为国务院直属机构。<br/><div class="contheight"></div>国家市场监督管理总局组建之后，《中国工商报》主管单位变更为国家市场监督管理总局。今年12月25日出版的最后一期《中国工商报》曾发布《敬告读者》称，“为适应市场监管机构改革要求，进一步做好全系统宣传服务工作，经国家市场监督管理总局同意，国家新闻出版署批准，《中国工商报》将更名为《中国市场监管报》，邮发代号1-92不变。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 更名,市场监管</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2775795">
+<div class="nbgbox">
+<a class="zan" contid="2775795" href="javascript:;" onclick="voteCont(this)" praisetimes="9">
+                           8</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 报纸更名</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2775795&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2775795&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

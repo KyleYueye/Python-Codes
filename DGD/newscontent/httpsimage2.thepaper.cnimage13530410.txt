@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=27721">兰州公安</a>
+</div>
+<h1 class="news_title">兰州一女子为私欲报假警称被抢10万元，被处行政拘留5日</h1>
+<div class="news_about">
+<p>兰州公安</p>
+<p>
+                            2018-12-26 19:11<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard">日前，兰州市公安局城关分局雁西路派出所依法查处一起编造事实，谎报被抢10万元现金的假警情案件，并经分局批准对违法行为人陈某做出行政拘留5日处罚。<div style="text-align:center;"><img alt="" height="339" src="http://image.thepaper.cn/www/image/13/522/967.jpg" width="497"/></div>事情是这样的：<br/><div class="contheight"></div>12月24日下午4时24分，雁西路派出所接到市局指挥中心处警指令，一名中年女子陈某在雁北路西段一公交车站旁被一名男子抢走现金10万元。接到指令后，该所迅速组织民警赶赴现场开展工作，同时上报相关业务大队，经过多警种数小时的现场勘验、走访排查以及视频查询，发现案情有很多疑点，在将报案人陈某带回所里做详细询问后，陈某最终承认自己编造了被抢10万元的虚假案情，其目的是不愿将自己此前卖掉的一处房产收入与家人共同分享。<br/><div class="contheight"></div>12月25日，城关警方依据《中华人民共和国治安管理处罚法》第25条之规定，对谎报警情的违法行为人陈某做出行政拘留5日处罚。在此，兰州警方告诫大家，请不要谎报警情，浪费公共资源，否则会因为涉嫌违法受到法律制裁。<br/><div class="contheight"></div><strong>警方提示</strong><br/><div class="contheight"></div>按照《中华人民共和国治安管理处罚法》<br/><div class="contheight"></div>第二十五条第（一）项规定：<br/><div class="contheight"></div>散布谣言，谎报险情、疫情、警情或者以其他方法故意扰乱公共秩序的，处五日以上十日以下拘留，可以并处五百元以下罚款；情节较轻的，处五日以下拘留或者五百元以下罚款；<br/><div class="contheight"></div>第六十条第（二）项规定：<br/><div class="contheight"></div>伪造、隐匿、毁灭证据或者提供虚假证言、谎报案情，影响行政执法机关依法办案的，处五日以上十日以下拘留，并处二百元以上五百元以下罚款。<div style="text-align:center;"><img alt="" height="276" src="http://image.thepaper.cn/www/image/13/522/968.jpg" width="450"/></div>来源 兰州市公安局城关分局<br/><div class="contheight"></div>发布 兰州市公安局新闻办<br/><div class="contheight"></div>编辑 FN 小陶<br/><div class="contheight"></div>（原标题《为私欲报假警“被抢10万”  报警人被处行政拘留》）</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2776856">
+<div class="nbgbox ">
+<a class="zan" contid="2776856" href="javascript:;" onclick="voteCont(this)" praisetimes="19">
+                                    18</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

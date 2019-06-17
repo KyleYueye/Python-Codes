@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25430">澎湃防务</a>
+</div>
+<h1 class="news_title">俄研制新巡航导弹射程超四千公里，海军远程打击力将大幅提升</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-09 11:24<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/68/167.jpg" width="100%"/></div><span style="color: rgb(128, 128, 128);">发射中的“口径”-HK巡航导弹。</span><br/><div class="contheight"></div>俄罗斯海军现役的“口径”巡航导弹射程约2000公里，已在叙利亚战场上进行了实战使用，摧毁了大量高价值目标。而新研制的“口径”-M巡航导弹射程将超过4500公里，可以对更远的纵深目标发动打击。<br/><div class="contheight"></div>据俄罗斯塔斯社1月8日报道，俄罗斯军事工业部门正在研制新的“口径”-M巡航导弹，这种导弹将装备俄罗斯海军。“该导弹还处于研制阶段，国防部已经划拨了相关研制费用，预计导弹在2027年之前完成研制。”消息人士指出。<br/><div class="contheight"></div><strong>新的“口径”-M巡航导弹采用了新的发动机，射程比上一代巡航导弹“口径”大幅提升，战斗部重量也将从不到500千克增至1吨。</strong><br/><div class="contheight"></div>2015年10月7日，俄罗斯海军里海舰队一艘11661型护卫舰和3艘21631型导弹舰共发射了26枚“口径”-HK巡航导弹，导弹飞行1500公里，以不超过3米的精度准确命中叙境内的极端组织IS据点和弹药库等11个重要目标。<br/><div class="contheight"></div>低调且神秘的“口径”巡航导弹首次实战引发了极大的关注。俄《独立报》当时刊文认为，这是俄罗斯第一次实战使用最新式巡航导弹这种非核战略武器，具有历史意义。这意味着必要时俄从里海水域可以对中东和中亚大部分地区实施导弹打击。几艘小型导弹舰有能力锁定中东地区的广大目标，迫使对手以另一种方式看待俄海军的战斗力。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）统计发现，从2015年至今，俄罗斯海军通过水面舰艇和潜艇向叙利亚战场发射了至少99枚“口径”系列巡航导弹（水面舰艇发射型号为“口径-HK”，潜艇发射的型号为“口径”-PL）。<br/><div class="contheight"></div>塔斯社报道指出，<strong>新的“口径”-M巡航导弹不仅可以装备驱逐舰、护卫舰、小型导弹舰等水面舰艇，还可以装备于核潜艇，适装性好。</strong><br/><div class="contheight"></div>其实，现役的“口径”系列巡航导弹也采用通用设计，满足装备驱逐舰、护卫舰、小型导弹舰、常规潜艇和核潜艇不同平台的需求。最先装备“口径”巡航导弹是俄罗斯海军里海舰队的11661型护卫舰和21631型导弹舰。目前，新建造22800型导弹舰、20350护卫舰等新型战舰也装备了“口径”-HK巡航导弹。 <br/><div class="contheight"></div>在潜艇方面，除了装备“基洛”级潜艇，“口径”巡航导弹还将装备于最新式的攻击型核潜艇“亚森”级，以及经过现代化改装的“阿库拉”级攻击型核潜艇。潜艇发射的“口径”-PL巡航导弹首次实战发生在2015年12月8日，“顿河畔罗斯托夫”号潜艇从地中海向叙利亚境内的极端组织IS发射了4枚巡航导弹。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：谢瑞强<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 巡航导弹,俄罗斯军队,海军</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831177">
+<div class="nbgbox">
+<a class="zan" contid="2831177" href="javascript:;" onclick="voteCont(this)" praisetimes="18">
+                           17</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 俄罗斯海军</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831177&caid=25430",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831177&amp;caid=25430" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

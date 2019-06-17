@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜什么限制了人们对绍兴文理学院的想象力</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-09-18 11:27<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">9月17日，中国投资有限责任公司在其官网公布的《2018年度拟接收境内院校应届毕业生情况公示》，引发网友广泛关注。<br/><div class="contheight"></div>中投是一家注册资本金2000亿美元的国有独资公司，这次校招的含金量毋庸赘言。这份公示列出了11位优胜者的姓名、学历、毕业院校、专业等。其中10名是清华大学、北京大学和中国人民大学的硕博研究生，以及1名叫王昕哲的绍兴文理学院的本科生。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="907" src="http://image.thepaper.cn/www/image/10/550/686.jpg" width="600"/></div>此外，其他人的专业是经济学、金融、法学等热门专业，王昕哲的专业却是英语语言文学。绍兴文理学院的英文专业这么厉害，还是另有玄机？<br/><div class="contheight"></div>网友纷纷对王昕哲的家庭关系展开联想，仿佛已经认定其中必有内幕。其实除了公开的院校专业之外，并无其他信息可以佐证这一猜测。<br/><div class="contheight"></div>从理论上来说，这种猜测对绍兴文理学院和王昕哲同学是不公平的。<br/><div class="contheight"></div>人们平时说“要打破985、211的身份壁垒”“努力不分三六九等”“英雄不问出处”，怎么这时候又大惊小怪，难道不是叶公好龙吗？绍兴文理学院就不能出人才吗？别忘了，马云是杭州师范学院外语系毕业的。<br/><div class="contheight"></div>当然，只从理论上来说并不能服人。绍兴文理学院在这里之所以显得突兀，是因为其他人的反衬。如果这次招聘果真是看能力不看学历，那么其他人清一色的名校出身又该作何解释？<br/><div class="contheight"></div>作为国企的中投理应就招聘的公平性给社会一个解释。招聘者决定录取王昕哲时，或许发现了她身上的闪光点，才决定忽略其毕业院校的短板。那么不妨将这位“励志典型”的超凡之处说与公众听听。<br/><div class="contheight"></div>不过在我看来，绍兴文理学院引发的遐想更加耐人寻味。<br/><div class="contheight"></div>有人说，“真有关系的会是这学校毕业吗?”还有人说，“前边那些名校毕业的就没有鬼吗？兴许人家在升学时就发力了。”<br/><div class="contheight"></div>虽说这些议论都是空对空，但许多人都能举出身边的例子佐证自己的猜测。人们对公平的诉求是真实的。<br/><div class="contheight"></div>这个例子也映射出，教育公平与就业公平是环环相扣的。底层孩子考上好大学的几率本来就低，如果考上好大学之后在就业时还是拼不过普通学校毕业的“神秘候选人”，无疑更加挫伤人们对社会公平的信心。<br/><div class="contheight"></div>是什么限制了人们对绍兴文理学院的想象力？这是见仁见智的问题，但答案肯定不是歧视普通高校毕业生这么简单。<br/><div class="contheight"></div>实情应该是，与难以把握的“高规格”公平相比，人们更接受可以把握的“低规格公平”。<br/><div class="contheight"></div>比如自主招生在理论上符合“不拘一格降人才”，但论文作假等丑闻的出现使人们更信任传统高考。企业招聘不问出身在理论上是好的，但身边的故事使人们更愿意接受“名校学生入名企”的局面。<br/><div class="contheight"></div>“破山中贼易，破心中贼难。”公平事业任重而道远。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 就业公平</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2451224">
+<div class="nbgbox">
+<a class="zan" contid="2451224" href="javascript:;" onclick="voteCont(this)" praisetimes="272">
+                           271</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 就业歧视</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2451224&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2451224&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（65）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

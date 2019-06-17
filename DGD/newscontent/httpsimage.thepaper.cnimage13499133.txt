@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25423">人事风向</a>
+</div>
+<h1 class="news_title">陈扬勇出任中共中央机关刊《求是》杂志社总编辑</h1>
+<div class="news_about">
+<p>澎湃新闻记者 钟煜豪</p>
+<p>
+							2018-12-25 20:15<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="292" src="http://image.thepaper.cn/www/image/13/499/51.png" width="600"/></div>根据近期公布的大型政论专题片《必由之路》第六集《兴国之魂》，陈扬勇已出任中共中央机关刊《求是》杂志社总编辑一职，此前担任该职务的是陶骅。<br/><div class="contheight"></div>官方简历显示，现年55岁的陈扬勇（1963.12）是复旦大学历史学博士，研究员，享受国务院颁发的政府特殊津贴。他曾任中央文献研究室副主任等职务，机构改革后，陈扬勇出任中央党史和文献研究院副院长。<br/><div class="contheight"></div>此外，陈扬勇长期从事党和国家主要领导人思想生平研究和著作编辑工作，曾参加《江泽民文选》、江泽民《论中国信息技术产业发展》、《毛泽东邓小平江泽民论科学发展》、《李鹏论科教兴国》等著作的编辑，参加《江泽民思想年编（1989－2008）》、《周恩来年谱（1949—1976）》等著作的编撰。<br/><div class="contheight"></div>陈扬勇还著有《苦撑危局——周恩来在1967》、《重拳出击——周恩来在九一三事件之后》，其学术论文主要有《深刻而辩证的文艺思想——纪念周恩来诞辰100周年》、《周恩来对新中国文艺事业的理论贡献》、《周恩来对“文化大革命”的认识与态度》等。<br/><div class="contheight"></div>至此，《求是》杂志社长、总编辑均在2018年出现更迭。澎湃新闻此前报道提到，至晚于今年8月下旬，夏伟东已接替1955年出生的李捷担任《求是》杂志社社长。<br/><div class="contheight"></div>《求是》杂志是中共中央主办的机关刊，其前身是《红旗》杂志。《求是》杂志为半月刊，目前国内发行量154万册，读者对象主要是各级党政军领导干部、广大宣传思想理论工作者、教育工作者和全体党员。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王俊<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 陈扬勇，求是杂志</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2773937">
+<div class="nbgbox">
+<a class="zan" contid="2773937" href="javascript:;" onclick="voteCont(this)" praisetimes="93">
+                           92</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 求是</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2773937&caid=25423",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2773937&amp;caid=25423" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

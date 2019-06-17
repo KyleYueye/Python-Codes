@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27234">科技湃</a>
+</div>
+<h1 class="news_title">中国科学家发现菊花基因库核心种质资源，创离体缓慢生长技术</h1>
+<div class="news_about">
+<p>眭黎曦/新华社</p>
+<p>
+							2019-01-09 10:16<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社南京1月9日电 记者从南京农业大学获悉，由长江学者特聘教授陈发棣领衔的研究团队，在菊花基因库中发现核心种质资源，率先创建了菊花离体缓慢生长保存技术，获得2018年度国家技术发明二等奖。<br/><div class="contheight"></div>陈发棣介绍，研究团队经过20多年的积淀，先后收集保存了菊花及其近缘种属植物5109份，其中400多个新品种都是南京农业大学自主培育的。目前，南京农业大学湖熟花卉基地是中国菊花种质资源保存中心。<br/><div class="contheight"></div>在基因库中，陈发棣鉴定出了78种具有抗蚜、耐寒等优异抗性的菊花近缘种质，并首次发现了黄金艾蒿和细裂亚菊分别是菊花抗蚜与耐寒育种的最优种质，为我国菊花高效育种和品质更新做出了重要贡献。<br/><div class="contheight"></div>陈发棣在研究中还发现，5摄氏度至10摄氏度的低温环境能将菊花种质一次继代保存的时间拉长，“最高能到12个月，这就很好地解决了圃地保存种质易混杂、丢失和感病等难题。”<br/><div class="contheight"></div>近年来，陈发棣团队不仅深耕菊花的基础研究，还积极面向产业经济，开展精准扶贫，激活农村庭院经济。其团队创建的“菊花园”模式在全国20多个省市推广复制，带动当地旅游业和农村经济联动升级。<br/><div class="contheight"></div>“一朵菊花虽小，也能拉动产业兴旺，帮助农民致富。”陈发棣说，接下来团队还将进一步研究菊花优异种质创制和新品种培育，用技术服务三农，用科技支撑乡村振兴。<br/><div class="contheight"></div>（原标题 我国科学家发现菊花基因库核心种质资源）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张唯<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831093">
+<div class="nbgbox">
+<a class="zan" contid="2831093" href="javascript:;" onclick="voteCont(this)" praisetimes="39">
+                           38</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 菊花基因库</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831093&caid=27234",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831093&amp;caid=27234" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

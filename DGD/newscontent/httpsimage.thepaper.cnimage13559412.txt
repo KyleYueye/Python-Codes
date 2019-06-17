@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">上海机场（集团）有限公司原董事长吴建融被提起公诉</h1>
+<div class="news_about">
+<p>微信公众号“上海检察一分院”</p>
+<p>
+							2018-12-27 17:03<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">日前，上海机场（集团）有限公司原党委副书记、董事长吴建融（正局级）涉嫌受贿罪、隐瞒境外存款罪一案，由上海市人民检察院第一分院依法向上海市第一中级人民法院提起公诉。<br/><div class="contheight"></div>检察机关在审查起诉阶段依法告知了被告人吴建融享有的诉讼权利，并依法讯问了被告人，听取了其辩护人的意见。上海市人民检察院第一分院起诉书指控：2006年至2017年，被告人吴建融利用担任中共上海市金融工作委员会副书记、上海市人民政府副秘书长、上海机场（集团）有限公司党委副书记、董事长的职务便利及职权或者地位形成的便利条件，为他人谋取利益，非法收受他人钱款，数额特别巨大；隐瞒不报境外存款，数额较大，依法应当以受贿罪、隐瞒境外存款罪追究其刑事责任。<br/><div class="contheight"></div>（原标题：上海市人民检察院第一分院依法对上海机场（集团）有限公司原董事长吴建融提起公诉）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：高文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 上海反腐,吴建融</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780752">
+<div class="nbgbox">
+<a class="zan" contid="2780752" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 上海反腐</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780752&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780752&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

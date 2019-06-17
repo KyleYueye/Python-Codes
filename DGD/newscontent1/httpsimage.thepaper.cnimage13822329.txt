@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">索马里政府元旦驱逐联合国高官，称其干涉该国内政</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-02 22:16<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">索马里政府采取激进措施，元旦晚间宣布驱逐联合国驻索马里最高官员。<br/><div class="contheight"></div>据英国广播公司（BBC）报道，索马里政府1日谴责联合国索马里问题特别代表尼古拉斯·海索姆（Nicholas Haysom）违反国际外交准则，“故意干涉”索马里国家内政，是一个“不受欢迎的人”，并要求这位66岁的资深外交官离开该国。<br/><div class="contheight"></div>2018年12月31日，海索姆曾给索马里政府写信，质疑政府逮捕前索马里伊斯兰激进组织青年党副领袖罗博（Mukhtar Robow）的法律依据，并呼吁调查索马里政府对其支持者在示威活动中的暴力镇压。<br/><div class="contheight"></div>据悉，镇压行动造成约15名抗议者死亡，包括未成年人在内的300人被捕。<br/><div class="contheight"></div>罗博于2017年脱离青年党，并在2018年10月宣布竞选西南索马里自治地区的总统。然而，索马里政府安全部队在12月初将其逮捕，称其没有完全“放弃极端主义意识形态”。<br/><div class="contheight"></div>就在索马里政府宣布驱逐海索姆前几个小时，索马里首都摩加迪沙发生炮击事件，有七枚迫击炮落入联合国大院内，造成两名联合国工作人员和一名承包商受伤。据报道，极端组织青年党声称对这次袭击事件负责。<br/><div class="contheight"></div>索马里政府严重依赖外国援助。目前，联合国为索马里政府军提供训练、制服和津贴，以对抗青年党。<br/><div class="contheight"></div>出生于南非的海索姆曾任南非总统曼德拉的法律顾问，此后陆续担任联合国驻阿富汗、苏丹和南苏丹特使。他于2018年9月被联合国秘书长古特雷斯任命为索马里问题特别代表兼联合国索马里援助团（联索援助团）团长，负责推动索马里和平进程。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙语双<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 索马里,联合国,青年党,抗议活动</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2805531">
+<div class="nbgbox">
+<a class="zan" contid="2805531" href="javascript:;" onclick="voteCont(this)" praisetimes="112">
+                           111</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 索马里</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2805531&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2805531&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

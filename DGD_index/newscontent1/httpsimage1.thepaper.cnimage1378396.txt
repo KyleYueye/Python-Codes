@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">马克龙新年致辞：改革不能妥协，警惕假新闻</h1>
+<div class="news_about">
+<p>澎湃新闻记者 廖婧雯</p>
+<p>
+							2019-01-01 13:14<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="419" src="http://image.thepaper.cn/www/image/13/783/104.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">当地时间2018年12月31日，法国巴黎，马克龙在发表新年贺词后，接受媒体记者采访、拍照。 东方IC 图</span><br/><div class="contheight"></div>法国总统马克龙在新年前夜通过电视录制了2019年新年致辞。<br/><div class="contheight"></div>据法国国际广播电台（RFI）12月31日报道，在黄背心运动和前任保镖涉嫌滥用职权的风波冲击之下，马克龙的新年夜致辞将如何重新赢得那些失去的信心，备受关注。马克龙在总统府爱丽舍宫录制的新年愿景的演讲中，强调“无法即刻就兑现他竞选时期许下的承诺”，但呼吁民众相信他的改革是为了“人们更好地生活”。<br/><div class="contheight"></div>马克龙的本次演说持续了15分钟左右，他呼吁共和国回到有序状态，结束2018年以来持续不断的暴力现象。他还呼吁法国民众不要再逃避现实，因为“不可能在减少工作量的同时，赚更多的钱，或者在减少税收的同时，增加支出”，他呼吁人们接受改变，因为“对现状不满，却又不愿意做出改变，就会什么都改变不了”。<br/><div class="contheight"></div>据英国广播公司（BBC）2019年1月1日报道，在讲话内容中，马克龙不点名地继续谴责那些试图“以人民的名义”发言的极端分子。”“事实上，他们只是仇恨暴徒的代言人，他们的目标是已当选的政治家、安全部队、记者、犹太人、外国人和同性恋者。”马克龙总统说。 “这完全是对法国的否定。”马克龙还警告法国公民要警惕假新闻，提醒他们“不要忘记你可以在谎言上建立任何东西”。<br/><div class="contheight"></div>RFI报道，马可龙表示过去的一年充满了令人动容的时刻。同时他回顾了对劳动法的改革和对法国国营铁路公司的改革。他表示原本以为这些事都做不成，但最后还是迎来了很好的结局。他呼吁人们要有耐心，称“改革的结果不是一下子就能显现出来的，虽然人们非常希望早日看到，但改革还是要一步一步来”。马克龙同时提到了众多今后要展开的改革，例如退休，失业保险，公营部门的组织方式等等。<br/><div class="contheight"></div>马克龙没有直接提到黄背心运动，但表示看到了“从很深很远的地方发出的怒火，这一怒火的源头是对法国社会的质问”，但“法国不能妥协，要为了更好的未来，改革下去”。面对即将到来的2019年欧盟选举，马克龙对其欧洲计划做了简单的勾勒，其中提到，“西方世界目前面临一种窘境”，法国需要“重建民主信任，重建聆听和对话的体系”。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李闻莺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 马克龙，新年致辞，黄背心</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2801871">
+<div class="nbgbox">
+<a class="zan" contid="2801871" href="javascript:;" onclick="voteCont(this)" praisetimes="218">
+                           217</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 新年致辞</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2801871&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2801871&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（188）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

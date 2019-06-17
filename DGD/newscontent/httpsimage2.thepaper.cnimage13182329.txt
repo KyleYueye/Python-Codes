@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美媒：特朗普取消了为媒体举办的白宫圣诞派对</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-14 10:56<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="405" src="http://image.thepaper.cn/www/image/13/182/327.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">特朗普取消了为媒体举办的白宫圣诞派对。视觉中国 图<br/><div class="contheight"></div></span>美国福克斯（Fox）新闻网周四（13日）独家消息称，美国总统特朗普取消了为媒体举办的白宫年度圣诞派对。白宫尚未就此事对外发布消息。<br/><div class="contheight"></div>福克斯新闻网在其报道中写道，一年一度的圣诞派对对于白宫记者以及其他在华盛顿的记者，主播和评论员来说是一个重要的好处（significant perk ），纽约的媒体高管通常也会赶来参加此次活动。 在鼎盛时期，因为受邀人员的规模太过庞大，以至于会有两个“背靠背”的活动，其中一个办给广播类媒体，另一个邀请纸媒人士。<br/><div class="contheight"></div>此外，与白宫主人合照是派对上最受欢迎的项目。总统和第一夫人按惯例会耐心地与客人摆姿势，并在圣诞树前与他们短暂聊天，之后再由白宫向每位记者发出照片。往年记者们会为了合照大排长队，总统则会为了配合拍照花费数个小时。<br/><div class="contheight"></div>福克斯新闻网指出，考虑到特朗普对“假新闻”的厌恶，取消媒体圣诞派对的这一决定并不令人震惊。几周前，白宫撤销了美国有线电视新闻网（CNN）记者吉姆•阿科斯塔的通行证，在双方打了官司后才恢复。不仅如此，特朗普总统夫妇去年就没有与记者合照互动，两人仅在派对上短暂露面并致欢迎词。特朗普还曾连续两次拒绝参加白宫记者晚宴。 <br/><div class="contheight"></div>在取消媒体圣诞派对的同时，福克斯新闻网报道称，白宫正在为组织圣诞季的其他派对大忙特忙。一些有利于特朗普的媒体人士，包括福克斯新闻主持人在内，已被列入宾客名单。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘惠<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 白宫,圣诞,特朗普</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2738204">
+<div class="nbgbox">
+<a class="zan" contid="2738204" href="javascript:;" onclick="voteCont(this)" praisetimes="93">
+                           92</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 白宫风云</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2738204&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2738204&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

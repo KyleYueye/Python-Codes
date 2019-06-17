@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25432">自贸区连线</a>
+</div>
+<h1 class="news_title">我国2018年进口额有望突破2万亿美元，创下历史新高</h1>
+<div class="news_about">
+<p>于佳欣/新华社</p>
+<p>
+							2018-12-22 22:30<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京12月22日消息，记者22日从2018年全国商务工作会议上获悉，我国2018年进口额有望突破2万亿美元，创下历史新高，下一步商务部还会采取多种措施进一步扩大进口。<br/><div class="contheight"></div>商务部外贸司副司长宋先茂在全国商务工作会议期间作出上述表示。<br/><div class="contheight"></div>今年以来，我国降低了包括药品、汽车、日用品等在内的进口关税，关税总水平从9.8％降至7.5％，此外，进口博览会的举办也促进了进口扩大。<br/><div class="contheight"></div>海关总署数据显示，今年前11个月，我国进口增长14.6%，对进出口增长的贡献率为60.8%，成为今年拉动外贸增长的重要动力。今年我国外贸表现亦超出预期，前11个月，外贸规模已超过去年全年。<br/><div class="contheight"></div>商务部表示，2019年，将着力提升外贸发展质量，加快经贸强国建设。<br/><div class="contheight"></div>为进一步扩大进口，宋先茂说，2019年，商务部将精心筹备第二届进口博览会，为国内企业创造更多进口机会；继续优化进口商品结构，扩大先进技术、关键零部件进口；增加农产品、资源性产品进口，保障市场供应；增加日用消费品、养老康复护理等产品进口；促进建筑设计、商贸物流、研发设计、节能环保等生产性服务业进口，提高产业竞争力等。<br/><div class="contheight"></div>据介绍，商务部还将进一步推动降低进口关税总水平，提升通关便利化水平，并进一步完善汽车平行进口政策等。<br/><div class="contheight"></div>（原题为《我国2018年进口额有望突破2万亿美元》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 进口,扩大进口,进口博览会</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2764737">
+<div class="nbgbox">
+<a class="zan" contid="2764737" href="javascript:;" onclick="voteCont(this)" praisetimes="83">
+                           82</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 扩大进口</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2764737&caid=25432",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2764737&amp;caid=25432" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

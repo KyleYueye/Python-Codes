@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25491">长三角政商</a>
+</div>
+<h1 class="news_title">男子南京翻越铁轨被挤压致死，家属告上海铁路局等索赔遭驳回</h1>
+<div class="news_about">
+<p>澎湃新闻记者 邱海鸿</p>
+<p>
+							2019-01-10 16:36<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">一名男子在南京南站乘车时，跳下站台翻越铁轨，抢在一列动车之前爬上站台未果，腰部以下被挤压致死。事发后，其父母将上海铁路局及南京站告上法院，要求铁路部门赔偿的诉请遭到驳回。<br/><div class="contheight"></div>1月10日上午，江苏省高院公布了2018年度十大典型案例。澎湃新闻（www.thepaper.cn）记者注意到，备受关注的“旅客穿越铁道被挤压致死案”位列十大典型案例之首。<br/><div class="contheight"></div>法院披露的案情显示，2017年3月26日，旅客杨某乘高铁由苏州至南京南站，于15时22分到站，杨某下车后到换乘电梯及出站口周围徘徊。十一分钟后，D3026次列车进站。杨某在列车驶近时，由站台跃下，在动车车头前翻越轨道，向对面站台方向奔跑。站台值班的车站工作人员发现后向杨某大声示警，列车值乘司机发现有人跃下站台，立即采取紧急制动措施并鸣笛示警，列车速度急速下降。<br/><div class="contheight"></div>不过，杨某横穿轨道，努力向站台攀爬未果。最终，动车将杨某腰部以下挤压在车体与站台之间，并以惯性裹挟杨某辗转向前跑了35米后才停下。<br/><div class="contheight"></div>与此同时，车站工作人员向南京市急救中心呼救，医务人员很快到达现场。南京南站派出所接到车站工作人员报警，民警到达现场处警，并电话通知消防人员到达现场。<br/><div class="contheight"></div>遗憾的是，参与现场施救的急救中心医务人员随即宣布杨某死亡，后经对站台破拆将杨某遗体移出站台。事故发生后，当日D3026次动车组停运。<br/><div class="contheight"></div>后来，杨某父母将上海铁路局、南京站告上法院，以列车司机没有及时采取紧急处置措施，铁路部门未尽安全防护、警示义务为由，要求被告承担80%的赔偿责任。<br/><div class="contheight"></div>南京铁路运输法院一审审理认为，本案中，杨某在站台滞留时没有任何异常举动，也未向铁路工作人员求助，其跃下站台，事发突然，并无前兆。站台值班人员在发现有人横穿线路后，奔跑过去并进行喝止。在地面有警示标识、站台有广播提示、站台侧面有提示、站台有人值班的情况下，车站已充分履行了安全保障与警示的义务。在发现杨某穿越轨道的第一时间，列车及时采取了刹车（紧急制动）措施。<br/><div class="contheight"></div>事发后，从南京南站事故处理经过来看，其已尽其所能，所采取的应急救助措施并无不当。而杨某作为受过高等教育的完全民事行为能力人，具备预测损害发生和防范控制损害结果的能力，其不顾警示擅自闯入危险区域，是对自身生命健康受到损害的漠视和放任。<br/><div class="contheight"></div>因此，南京铁路运输法院作出民事判决，驳回两原告的诉讼请求。一审宣判后，双方当事人均未上诉，一审判决已经发生法律效力。<br/><div class="contheight"></div>之所以将该案列为江苏法院的十大典型案例，江苏省高院表示，该案的裁判，旗帜鲜明地对漠视规则、破坏秩序的行为给予否定评价，向全社会传递了尊重规则、信仰法律、崇尚法治的正能量，充分发挥了司法规范、指导、评价、引领社会价值的积极作用，对于推动社会主义核心价值观建设具有积极意义。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李克诚<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 江苏省高院，典型案例</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836869">
+<div class="nbgbox">
+<a class="zan" contid="2836869" href="javascript:;" onclick="voteCont(this)" praisetimes="189">
+                           188</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 通报典型案例</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836869&caid=25491",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836869&amp;caid=25491" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（719）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

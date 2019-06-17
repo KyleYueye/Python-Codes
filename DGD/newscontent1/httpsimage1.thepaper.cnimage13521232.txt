@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美媒：财长姆努钦稳定市场不力，特朗普不满与日俱增</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-26 16:19<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="406" src="http://image.thepaper.cn/www/image/13/521/230.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">美国财政部长姆努钦  新华网 资料图<br/><div class="contheight"></div></span>接近白宫的消息人士透露，由于美国财政部长姆努钦未能有力地稳定市场，特朗普对这位财长的不满与日俱增。<br/><div class="contheight"></div>由于美国政府部分机构“停摆”等不确定因素打击了投资者情绪，美国股票市场延续前一周的跌势在圣诞节当天继续大幅下挫。<br/><div class="contheight"></div>据美国有线电视新闻网（CNN）12月26日报道，尽管美国财政部长姆努钦采取措施试图安抚市场，但是并没有阻止股市的颓势。<br/><div class="contheight"></div>消息人士告诉CNN，目前姆努钦和特朗普的关系可能因此存在“严重危险”，特朗普常常会对他认为犯了错的内阁成员大发雷霆。<br/><div class="contheight"></div>在公开层面，特朗普目前仍在支持姆努钦。特朗普周二还称赞姆努钦是一个“非常有天赋，很聪明的人”。但是消息人士说，事实上，姆努钦目前处境艰难。这位消息人士形容，“姆努钦在枪口下”。<br/><div class="contheight"></div>姆努钦的助手一直在收集经济数据，帮助姆努钦让特朗普冷静下来。但是据这位消息人士称，特朗普对姆努钦说给他的一套很不高兴。<br/><div class="contheight"></div>特朗普将美股下跌和其他一些经济问题归咎于美联储。特朗普星期一在推特上说，美国唯一的经济问题是利率上升。他指责美联储加息损害了经济。美联储上周决定将短期利率再次上调0.25个百分点。<br/><div class="contheight"></div>上周，有美国媒体报道，特朗普在考虑将姆努钦撤掉，但是一名官员驳斥了有关姆努钦任期可能到头的传言，称这些传言为“荒谬之辞”。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：辛恩波<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 特朗普,姆努钦,股市</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776582">
+<div class="nbgbox">
+<a class="zan" contid="2776582" href="javascript:;" onclick="voteCont(this)" praisetimes="30">
+                           29</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 白宫风云</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776582&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776582&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

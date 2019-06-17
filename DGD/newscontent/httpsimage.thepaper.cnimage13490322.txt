@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25435">金改实验室</a>
+</div>
+<h1 class="news_title">山西榆次农商行不良贷款率骤升至6.6%，原行长遭终身禁业</h1>
+<div class="news_about">
+<p>澎湃新闻见习记者 郭钰</p>
+<p>
+							2018-12-25 18:45<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">又一家农商行的不良贷款率出现了飙升。<br/><div class="contheight"></div>澎湃新闻记者查阅山西榆次农村商业银行（下文简称“榆次农商行”）三季报发现，截至2018年9月末，榆次农商行不良贷款余额为6.37亿元，比2017年末骤增4.41亿元；不良贷款率升至6.60%，比2017年末增加4.37个百分点；拨备覆盖率减至90.96%，比2017年末下降145.38%；资本充足率为9.81%，比2017年末下降0.95个百分点。2019年前三季度净利润为0.93亿元，同比大幅下降42.12%。<br/><div class="contheight"></div>从年报来看，榆次农商行2015年、2016年、2017年的净利润分别为1.21亿元、1.66亿元、2.03亿元，不良贷款率分别为2.27%、1.82%、2.23%，拨备覆盖率分别为236.52%、311.72%、236.34%，资本充足率分别为16.65%、11.32%、10.76%。<br/><div class="contheight"></div>值得注意的是，今年前三季度，该行占比较高的利息净收入和投资收益均出现上升。其中利息净收入为1.84亿元，同比增长17.89%；实现投资收益2.71亿元，同比增长35%。在二者的推动下，榆次农商行今年前9个月实现营业收入4.57亿元，比去年同期3.52亿元上升增长29.68%。与此同时，前三季度净利润为0.93亿元，同比大幅下降42.12%。<br/><div class="contheight"></div>为何营业收入大幅增加净利润却骤降？或与三季度的不良贷款有关。从营业支出看，该行前三季度营业支出3.32亿元，是去年同期1.58亿元的近两倍。具体来看，在营业支出中，税金及附加和业务及管理费有少量增加外，该行的资产减值损失或呆账损失达1.9亿元，同比暴增390%。而从半年报看，今年上半年该行贷款减值及呆账损失为1.06亿元。也就是说，三季度该行的贷款减值及呆账的损失达到了0.84亿元。<br/><div class="contheight"></div>榆次农商行的违规发放贷款、违规核销贷款问题也引起了监管部门的关注。<br/><div class="contheight"></div>澎湃新闻记者查阅银保监会官网发现，11月13日，榆次农商行因违规发放贷款、违规核销贷款遭到了山西银监局的重罚，除了榆次农商行被罚款50万元之外，还有包括原行长在内的16名相关责任人被罚。具体涉及人士为：原总行行长赵钰终身禁止从事银行业工作，原经纬路支行行长贾继东取消高管任职资格终身及终身禁止从事银行业工作，原经纬路支行客户经理温海军、续喜鹏禁止从事银行业工作5年的处罚；原贷审会成员张永兴、李晓刚、原总行调查人李文慧取消高管任职资格3年的处罚。给予原董事长曹双马、原监事长王建军，原贷审会成员张晋义、胡建林、张志红，原总行审查人员李一清，原总行调查人胡勇斌，原支行审议人员张星星、郝兆琴警告。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/490/280.jpg" width="100%"/></div><span style="color: rgb(128, 128, 128);">中国银行业监督管理委员会官网 截图</span><br/><div class="contheight"></div>榆次农商行成立于2012年5月，是在原晋中市榆次区农村信用合作联社基础上，由企业法人和自然人共同发起成立的地方性农村中小金融机构，目前注册资本8亿元，股东共有197户，前五大股东分别为晋中市永通物流有限责任公司、和柚实业有限公司、晋中榆次晋江香叶实业有限公司、山西中宝富源煤炭运销有限公司、天津岳泰国际贸易有限公司，持股比例分别为6.62%、6.25%、5%、5%、5%。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑景昕<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772912">
+<div class="nbgbox">
+<a class="zan" contid="2772912" href="javascript:;" onclick="voteCont(this)" praisetimes="74">
+                           73</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 农商行</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772912&caid=25435",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772912&amp;caid=25435" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

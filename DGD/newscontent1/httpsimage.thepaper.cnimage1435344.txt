@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25435">金改实验室</a>
+</div>
+<h1 class="news_title">支付宝要改名叫“瀚宝”了？支付宝辟谣了</h1>
+<div class="news_about">
+<p>澎湃新闻记者 陈月石</p>
+<p>
+							2019-01-08 15:38<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">你熟悉的支付宝要改名了？<br/><div class="contheight"></div>国家企业信用信息公示系统显示，蚂蚁金服旗下几家公司的名称、法定代表人或执行董事发生变更，比如，支付宝（中国）信息技术有限公司更名为瀚宝（上海）信息技术有限公司，支付宝（上海）信息技术有限公司更名为上海艺宝信息技术有限公司。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/35/271.jpg" width="100%"/></div><strong>不过，这并不意味着支付宝要改名叫“瀚宝”或者“艺宝”了。支付宝方面表示，这些变更和用户熟悉的支付宝没有一点关系。</strong><br/><div class="contheight"></div>用户熟悉的支付宝，其公司名称其实是支付宝（中国）网络技术有限公司，并不是上面改名的那两家公司。<br/><div class="contheight"></div>从中国人民银行“支付业务许可证”公示看，支付宝的运营主体一直是支付宝（中国）网络技术有限公司。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="304" src="http://image.thepaper.cn/www/image/14/35/273.jpg" width="600"/></div>成立于2004年12月的支付宝（中国）网络技术有限公司，早在2014年就将公司的法定代表人从马云变更为彭蕾，股东只有一个，是蚂蚁金服。<br/><div class="contheight"></div>而更名为瀚宝（上海）信息技术有限公司的支付宝（中国）信息技术有限公司，成立于2008年，经营范围是计算机软件的开发、设计、制作，销售自产产品；网络技术、多媒体技术的研发；软件系统集成的设计、调试和维护；提供相关技术咨询和技术服务。而本次另一个更名为上海艺宝信息技术有限公司的支付宝（上海）信息技术有限公司，是其全资子公司。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/35/274.jpg" width="100%"/></div>这已经不是第一次乌龙了。去年8月，支付宝（中国）信息技术有限公司法人发生变更，由马云变更为叶郁青，有消息将这一变动视为“支付宝法人变更”。<br/><div class="contheight"></div>据悉，很多公司都会为自己注册很多家名字类似的公司，有时是为了响应相关政策，有时是为了争取税收优惠等，有时候是为了防止被其他公司抢注。越大的公司，往往注册的公司就越多。<br/><div class="contheight"></div>业内人士表示，上面这两家公司的变更，都是属于常规的公司内部治理，在大公司非常常见，只要不是核心主体公司的变化，就和大家没有什么关系了。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑景昕<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 快讯</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827618">
+<div class="nbgbox">
+<a class="zan" contid="2827618" href="javascript:;" onclick="voteCont(this)" praisetimes="57">
+                           56</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 支付宝</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827618&caid=25435",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827618&amp;caid=25435" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

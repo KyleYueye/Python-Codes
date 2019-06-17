@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">郭声琨：涉黑涉恶案件证据标准等问题要研究出台司法解释 </h1>
+<div class="news_about">
+<p>澎湃新闻记者 邵克</p>
+<p>
+							2018-10-18 11:01<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="462" src="http://image.thepaper.cn/www/image/11/412/719.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">郭声琨</span><br/><div class="contheight"></div>针对涉黑涉恶案件证据标准、恶势力违法犯罪认定、涉案财产处置等问题，中央政治局委员、中央政法委书记郭声琨10月17日在全国扫黑除恶专项斗争推进会上要求，中央政法单位要研究出台更加明确细化、操作性强的司法解释、指导意见。<br/><div class="contheight"></div>郭声琨表示，针对涉黑涉恶案件执法办案中遇到的法律适用、证据标准等突出问题，各级政法机关要进一步统一执法办案思想，明确执法办案标准，确保专项斗争始终在法治轨道上向前推进。<br/><div class="contheight"></div>郭声琨说，要加强法律政策研究。各地要充分发挥主观能动性，就打击“套路贷”、“软暴力”等问题因地制宜出台地方性指导意见。<br/><div class="contheight"></div>郭声琨说，要加强案例指导工作。由全国扫黑办牵头，以已经查处的新类型涉黑涉恶案例为重点，编印执法办案指导手册，分批推出指导性案例，为基层依法精准办案提供参考。<br/><div class="contheight"></div>同时，郭声琨要求，法定办案程序、办案期限等规范，是保证办案质量的制度性要求，必须认真遵循。要在保证办案质量的前提下，提高办案效率。要借鉴一些地方制定涉黑涉恶案件证据收集指引的做法，严把案件事实关、证据关、程序关、法律适用关，推动依法办案、规范办案，确保经得起法律和历史的检验。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：胥辉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 涉黑，郭声琨</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2540222">
+<div class="nbgbox">
+<a class="zan" contid="2540222" href="javascript:;" onclick="voteCont(this)" praisetimes="99">
+                           98</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 涉黑</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2540222&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2540222&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

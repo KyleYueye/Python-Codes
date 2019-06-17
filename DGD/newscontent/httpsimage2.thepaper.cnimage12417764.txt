@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_26878">上海书评</a>
+</div>
+<h1 class="news_title">俞晓群︱五行占：僭咎之君王乐忧</h1>
+<div class="news_about">
+<p>俞晓群</p>
+<p>
+							2018-12-07 15:23<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">班固汉志，有言之不从一章，其下有僭咎一项，为六咎之一。如《洪范五行传》曰：“言之不从，是谓不乂。厥咎僭，厥罚常暘，厥极忧。……”又曰：“僭，差也。”《汉书》列举九段僭咎的故事，前文已述六段，此处列三段：<br/><div class="contheight"></div>其一，昭公元年，楚公子围会盟，设服离卫。鲁叔孙穆子曰：“楚公子美矣君哉！”伯州犁曰：“此行也，辞也假之寡君。”郑行人子羽曰：“假不反矣。”伯州犁曰：“子姑忧予子晢之欲背诞也。”子羽曰：“假而不反，子其无忧乎？”齐国子曰：“吾代二子闵矣。”陈公子招曰：“不忧何成？二子乐矣！”卫齐子曰：“苟或知之，虽忧不害。”退会，子羽告人曰：“齐、卫、陈大夫其不免乎！国子代人忧，子招乐忧，齐子虽忧费害。夫弗及而忧，与可忧而乐，与忧而弗害，皆取忧之道也。《太誓》曰：‘民之所欲，天必从之’。三大夫兆忧矣，能无至乎？言以知物，其是之谓矣。”<br/><div class="contheight"></div>其二，昭公十五年，晋籍谈如周葬穆后。既除丧而燕，王曰：“诸侯皆有以填抚王室，晋独无有，何也？”籍谈对曰：“诸侯之封也，皆受明器于王室，故能荐彝器。晋居深山，戎翟之与邻，拜戎不暇，其何以献器？”王曰：“叔氏其忘诸乎！叔父唐叔，成王之母弟，其反亡分乎？昔而高祖司晋之典籍，以为大正，故曰籍氏。女，司典之后也，何故忘之？”籍谈不能对。宾出，王曰：“籍父其无后乎！数典而忘其祖。”籍谈归，以语叔向。叔向曰：“王其不终乎！吾闻所乐必卒焉。今王乐忧，若卒以忧，不可谓终。王一岁而有三年之丧二焉，于是乎以丧宾燕，又求彝器，乐忧甚矣。三年之丧，虽贵遂服，礼也。王虽弗遂，燕乐已早。礼，王之大经也；一动而失二礼，无大经矣。言以考典，典以志经。忘经而多言举典，将安用之！”<br/><div class="contheight"></div>其三，哀公十六年，孔丘卒，公诔之曰：“旻天不吊，不憗遗一老，俾屏予一人。”子赣曰：“君其不殁于鲁乎？夫子之言曰：‘礼失则昏，名失则愆。’失志为昏，失所为愆。生弗能用，死而诔之，非礼也；称‘予一人’，非名也。君两失之。”二十七年，公孙于邾，遂死于越。<br/><div class="contheight"></div>《后汉书》称僭咎为讹言，有一段例说如下：<br/><div class="contheight"></div>安帝永初元年十一月，民讹言相惊，司隶、并、冀州民人流移。时，邓太皇专政。妇人以顺为道，故《礼》“夫死从子”之命。今专主事，此不从而僭也。<br/><div class="contheight"></div>《晋书》列举僭咎十二段，此处取二段，均来自《宋书》：<br/><div class="contheight"></div>其一，魏齐王嘉平初，东郡有讹言，云白马河出妖马，夜过官牧边鸣呼，众马皆应，明日见其迹，大如斛，行数里，还入河。楚王彪本封白马，兗州刺史令狐愚以彪有智勇，及闻此言，遂与王凌谋共立之。事泄，凌、愚被诛，彪赐死。此言不从之罚也。《诗》云：“人之讹言，宁莫之惩。”<br/><div class="contheight"></div>其二，蜀刘禅嗣位，谯周曰：“先主讳备，其训具也，后主讳禅，其训授也。若言刘已具矣，当授与人，甚于晋穆侯、汉灵帝命子之祥也。”蜀果亡，此言之不从也。刘备卒，刘禅即位，未葬，亦未逾月，而改元为建兴，此言之不从也。礼，国君即位逾年而后改元者，缘臣子之心不忍一年而有二君。今可谓亟而不知礼义矣。后遂降焉。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：彭珊珊<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 阴阳五行</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2646139">
+<div class="nbgbox">
+<a class="zan" contid="2646139" href="javascript:;" onclick="voteCont(this)" praisetimes="43">
+                           42</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 阴阳五行</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2646139&caid=26878",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2646139&amp;caid=26878" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

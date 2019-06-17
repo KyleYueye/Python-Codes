@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">北京公交集团：预计最早在2022年试点运营自动驾驶车辆</h1>
+<div class="news_about">
+<p>刘珜/北京青年报</p>
+<p>
+							2019-01-09 13:52<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/70/825.jpg" width="100%"/></div><span style="color: rgb(128, 128, 128);"><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/70/826.jpg" width="100%"/></div><br/><div class="contheight"></div>北京青年报 图<br/><div class="contheight"></div></span>1月9日，北京公交集团宣布引入Mobileye公司主动安全预警系统和自动驾驶方案。主动安全预警系统可对公交驾驶员违规并线、超速等行为提醒。北京公交集团相关负责人表示，公交集团将继续扩大引入主动安全预警系统，目前部分郊区线路已经配备了该系统，未来将逐步向普通线路上推广。此外，公交集团还将引入自动驾驶方案，首先，率先申请自动驾驶牌照，然后在部分道路上进行路测。预计最早在2022年，北京公交将率先在高新产业园区、旅游观光线上试点运营自动驾驶车辆。<br/><div class="contheight"></div>（原标题：《2022年北京公交将试点运营自动驾驶车辆》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：包雨朦<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 自动驾驶,公交车</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831534">
+<div class="nbgbox">
+<a class="zan" contid="2831534" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 自动驾驶公交</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831534&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831534&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

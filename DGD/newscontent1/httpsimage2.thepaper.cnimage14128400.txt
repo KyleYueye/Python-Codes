@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25438">财经上下游</a>
+</div>
+<h1 class="news_title">上海“银税互动”再升级：以服务中小微民营企业为主</h1>
+<div class="news_about">
+<p>澎湃新闻记者 韩声江</p>
+<p>
+							2019-01-10 20:34<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="334" src="http://image.thepaper.cn/www/image/14/128/398.jpg" width="600"/></div>1月9日，上海市银税互动支持民营企业发展工作推进会暨银税平台直联签约仪式在12366上海（国际）纳税服务中心举行。这标志着新的一年里，上海市“银税互动”工作在助力中小微民营企业方面又出实招。<br/><div class="contheight"></div>升级后的“上海银税互动信息服务平台”以服务中小微民营企业为主，实现了银行和税务之间的数据直联。经企业授权，税务部门可通过该平台将企业基本信息、纳税信用、申报缴税、违法违章等67项涉税信息，实时共享至银行信贷系统，作为银行授信的重要参考，进一步丰富银行信贷决策资源，实现银行在线审贷，使得纳税信用增值转化为融资信用的效率进一步提升。<br/><div class="contheight"></div>在工作推进会现场，上海银行、建设银行上海市分行、招商银行上海分行、江苏银行上海分行在内的10家银行签订了直联试点协议。<br/><div class="contheight"></div>据建设银行上海分行负责人介绍：依托“上海银税互动信息服务平台”共享的税务信息，建行“云税贷PLUS版”得以面世，科创类、文创类等无资产或轻资产的小微民营企业，都能通过诚信纳税获得最高300万元的信用贷款额度。同时，“云税贷”7×24小时全流程线上自助操作、随借随还模式，让贷款不再受时间与空间的限制，效率更高、优惠更高、额度更高，有效解决了中小微民营企业融资慢、融资贵、融资难的问题。<br/><div class="contheight"></div>银税担联手，实惠更多。此次，上海银税互动携手上海市中小微企业政策性融资担保基金管理中心，在全国首创“银税互动+政策性担保贷款”普惠金融新模式。市担保基金将为处于成长期的科技型、创新型、创业型等领域的中小微民营企业提供融资性担保、再担保等服务，进一步降低了企业信贷成本。仪式上，上海银行、中国银行上海市分行在内的6家银行签订了《银税担 征信互认合作试点协议》。<br/><div class="contheight"></div>近年来，上海市“银税互动”工作一直处于全国领先地位。税务局、银保监局、银行同业公会和银行业金融机构积极沟通协作、发挥职能、主动作为，紧紧围绕支持中小微民营企业发展、支持实体经济发展等战略部署，通过建立合作机制、搭建合作平台、共享交换信息、创新融资方式等形式，推动构建“银税互动”新机制。目前，上海银税合作签约银行已达到60家。截至2018年底，在沪银行机构累计发放各类银税合作产品贷款358亿元，银税合作合作项下贷款余额148亿元，为小微企业节省利息成本及抵押、担保等费用约1.75亿元。<br/><div class="contheight"></div>下一步，上海市税务局、上海银保监局、银行同业公会、市担保基金以及银行业金融机构将依据此次签订的协议进一步加强协作，不断创新机制、创新产品、创新服务，为更多依法诚信纳税人提供优质高效的融资服务。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李跃群<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837716">
+<div class="nbgbox">
+<a class="zan" contid="2837716" href="javascript:;" onclick="voteCont(this)" praisetimes="30">
+                           29</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 银税互动</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837716&caid=25438",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837716&amp;caid=25438" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

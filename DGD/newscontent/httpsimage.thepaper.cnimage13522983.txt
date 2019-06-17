@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25464">澎湃质量报告</a>
+</div>
+<h1 class="news_title">市场监管总局：不得宣传保健食品具有疾病预防或治疗功能</h1>
+<div class="news_about">
+<p>市场监管总局网站</p>
+<p>
+							2018-12-26 17:18<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">市场监管总局网站12月26日消息，<strong>市场监管总局关于进一步加强保健食品生产经营企业电话营销行为管理的公告：</strong><br/><div class="contheight"></div>〔2018年 第33号〕<br/><div class="contheight"></div>根据工业和信息化部、国家市场监督管理总局等13部门联合印发的《综合整治骚扰电话专项行动方案》（工信部联信管〔2018〕138号，以下简称《行动方案》），自2018年7月起，在全国范围内组织开展为期一年半的综合整治骚扰电话专项行动。为配合本次行动，现就进一步加强保健食品生产经营企业电话营销行为管理有关事项公告如下：<br/><div class="contheight"></div>一、保健食品生产经营企业要按照《行动方案》要求，认真开展电话营销行为自查自纠。保健食品经营者以电话形式进行保健食品营销和宣传时，应当真实、合法，不得作虚假或者误导性宣传；<strong>不得明示或暗示保健食品具有疾病预防或治疗功能；</strong><strong>不得利用国家机关、医疗单位、学术机构、行业组织的名义，或者以专家、医务人员和消费者的名义为产品功效作证明</strong>；不得虚构保健食品监制、出品、推荐单位信息。电话营销的保健食品应当符合《中华人民共和国食品安全法》的相关要求，<strong>不得在保健食品标签、说明书中夸大功能范围，进行虚假宣传。</strong><br/><div class="contheight"></div>二、各地市场监管部门要把电话营销列入保健食品日常监督管理重要内容，督促企业切实履行主体责任，规范电话营销行为。<strong>重点加强保健食品虚假宣传、明示或暗示疾病预防或治疗功能等行为的监督检查。</strong>加强征信管理，建立信用档案，根据电话营销监测和消费者投诉等情况，把有重大违规行为的保健食品电话营销举办者、品种纳入监管“黑名单”，相关行政处罚信息通过国家企业信用信息公示系统依法向社会公示。<br/><div class="contheight"></div>各地市场监管部门要加强与工业和信息化部门、公安机关的联系沟通，建立综合整治骚扰电话营销工作机制和违法违规行为联合惩戒机制。对涉及违法违规电信呼叫业务的，及时移交工业和信息化部门处理。涉嫌违法犯罪的，及时移送公安机关处理，形成“一处失信、处处受限”的高压态势，着力营造全社会齐抓共管的良好社会氛围。<br/><div class="contheight"></div>三、消费者发现保健食品违法违规电话营销行为的，可拨打12315 进行投诉。鼓励各级保健食品行业协会充分发挥自律作用，促进行业健康发展。<br/><div class="contheight"></div>市场监管总局<br/><div class="contheight"></div>2018年12月20日<br/><div class="contheight"></div>（原题为《市场监管总局关于进一步加强保健食品生产经营企业电话营销行为管理的公告》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 保健食品企业,疾病预防,治疗</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776774">
+<div class="nbgbox">
+<a class="zan" contid="2776774" href="javascript:;" onclick="voteCont(this)" praisetimes="146">
+                           145</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 保健食品</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776774&caid=25464",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776774&amp;caid=25464" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（43）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

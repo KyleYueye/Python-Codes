@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">深观察｜“消费降级”不过是渲染焦虑的话术</h1>
+<div class="news_about">
+<p>澎湃特约评论员 熊志</p>
+<p>
+							2018-08-28 15:39<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"> “消费升级”似乎成了眼下流行词。在不少人看来，吃着涪陵榨菜，喝着二锅头，出门共享单车，购物拼多多……这些自身或身边人的生活细节，映射出的问题无一不是，因为口袋瘪了，老百姓不得不购买和消费那些低价商品，节俭度日。<br/><div class="contheight"></div>支撑消费降级的数据很多，比如涪陵榨菜和生产二锅头的顺鑫农业利润大涨、股价暴增，社会消费品零售总额增速创15年新低，等等。 <br/><div class="contheight"></div>但这些都只是片面的真相，很多例子可以轻松反驳。像进口水果车厘子，早就从奢侈品变成了大众水果。另外，中国牛油果的进口数量，也从2011年的3.18万公斤暴涨到1500万公斤。消费降级的中国人，却越来爱吃价格更高的进口水果了？ <br/><div class="contheight"></div>当然榨菜和牛油果的主要消费群体，未必是同一拨人，所以数据会失真，无法反应出不同阶层的真实消费变化。吃榨菜、喝二锅头，如果这些消费行为更多由中产完成，解读为消费降级还算准确，但是如果行为主体是底层，考虑到涪陵榨菜、二锅头也是知名品牌，说消费降级反而是无视底层开始追求大品牌的事实。 <br/><div class="contheight"></div>实际上随着互联网下沉，很多原来不在主流人群视野内的消费行为，开始被大家关注。就好比在拼多多崛起之前，一个收入尚可的都市白领，可能不会关心比自己低收入者在淘宝上买了什么。但是拼多多崛起后局面不同了，它更多是廉价商品的集散地，而这种集中展示更便于被观察到。同样的例子还有快手，庞大的农村用户量，说明低收入群体同样是主流人群。 <br/><div class="contheight"></div>对这部分人来说，电商下沉导致购物更加便利，当然是消费升级。只是这种升级，在中高收入群体的视野中，会造成一种全社会更爱廉价商品的错觉。所以，所谓消费降级，更多还是一种有阶层隔阂的视障，它源于消费行为的城乡结构差异。 <br/><div class="contheight"></div>或者可以说，掌握话语权的中产群体并没有意识到，中国的阶层结构还是金字塔形，而非橄榄形，如果要对中国人的消费行为进行升降级的宏观归纳，那么考量对象应该是低收入人群，而不能是中产自己的认知。 <br/><div class="contheight"></div>即便对中高收入者来说，追求物美价廉的诉求，未必会随着消费能力提高而过时。买得起豪车的人，未必会在卫生纸消费上挥金如土；这两年优衣库和名创优品的火热，也说明在基础性日用品上，人们还是会追求性价比。如此偏好谈不上降级，别说不同收入阶层，哪怕同一个人，衣食住行不同的消费品类，也会有不同的性价比考虑。 <br/><div class="contheight"></div>当然，整体性的消费降级并非不可能发生。比如比较典型的“口红效应”——经济不景气时，人们购买廉价消费品口红的动力会增加。但目前的证据尚不能证明，中国人正在消费降级。即便存在消费降级，也只是部分消费品类、局部人群的降级。 <br/><div class="contheight"></div>那么为什么大家会将消费降级挂在嘴边？一种解释是，受现实生存压力的挤压。这两年，中产焦虑的说法很火，消费降级其实只是换了个概念而已。在住房、教育、医疗三大项上，哪怕收入殷实的中产，随时可能被打回原形，这意味着消费升级很不稳固。举个例子，前段时间有关长租公寓的讨论，很多人提到中国的租售比低，但中国的租房收入比相当高，这种压顶而至的焦虑感，会驱使人们放大局部性消费降级，把它理解为普遍现象，为压力的释放提供出口。 <br/><div class="contheight"></div>所以，消费降级更多还是种话术，和中产焦虑一样，它有些矫情的成分，但更多还是源于生存挤压和相对剥夺感。要让人们真实感受到消费在随着经济发展而升级，经济红利就得公平地惠及各个群体。比如最近正在调节的个税，就理当向工薪阶层进一步倾斜。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 消费降级</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2387270">
+<div class="nbgbox">
+<a class="zan" contid="2387270" href="javascript:;" onclick="voteCont(this)" praisetimes="167">
+                           166</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 消费降级</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2387270&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2387270&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（81）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">Kate Spade创始人纽约家中去世，生前或受抑郁困扰</h1>
+<div class="news_about">
+<p>汪华</p>
+<p>
+							2018-06-06 11:04<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>据BBC报道，美国著名时装设计师，Kate Spade品牌创始人Kate Spade女士于当地时间6月5日被发现在其纽约家中去世，终年55岁。众多名人在社交网站上表达了自己对于Kate Spade去世的悼念。同时Kate Spade美国官网也发布了对于品牌创始人离世的深切怀念。</u><br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="347" src="http://image.thepaper.cn/www/image/8/111/742.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">Kate Spade美国官网今天首页呈现黑白色，并且发布悼念公告。</span><br/><div class="contheight"></div>Kate Spade，原名Katherine Noel Brosnahan，1962年12月24日出生于美国密苏里州肯萨斯市。1986年大学毕业后，她只身赴纽约，在一本名为“Mademoiselle”的时尚杂志工作。经过六七年的时间，她已成为一名资深的时装编辑，同时深感美国市场中缺乏既有型又实用的手袋。所以她毅然创立了以自己名字命名的时尚品牌，Kate Spade。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="420" src="http://image.thepaper.cn/www/image/8/111/740.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">Kate Spade生前参加时尚活动。</span><br/><div class="contheight"></div>Kate spade成立于1993年，创立初期主打六款手袋，产品设计贯彻了创始人的时尚理想：时髦而且实用。同时利用缤纷多姿的色彩，以令人耳目一新的方式对时尚方式进行解读。这股年轻的清流，对当时的纽约甚至整个时尚界都产生了不小的影响，广受消费者喜爱。<br/><div class="contheight"></div>从1996年在纽约开设第一家专卖店，到1998年在波士顿开设第二家专卖店，Kate Spade的分店数和名气与日俱增。2004年，更是冲出美国，在日本、菲律宾以及中国香港等地开设分店。时至今日，Kate spade已经成长为全球知名生活时尚品牌，精心打造包袋、成衣、珠宝、鞋履、文具、眼镜、童装、香氛和礼品等多个产品系列，旨在传递多姿多彩的生活理念。<br/><div class="contheight"></div>Kate Spade品牌从创世之初到现在已经几经转手。1999年，美国奢侈精品百货尼曼出资3360万美元（约合2.08亿元人民币），认购品牌56%的股份。夫妇两人在2006年Liz Claiborne出手收购后宣布离开，专注养育女儿。2017年5月8日，美国奢侈品牌集团寇驰Coach, Inc.正式宣布收购Kate Spade &amp; Company，总交易金额为24亿美元。虽然品牌持有者一直在改变，但是缤纷明快的色彩，灵动迷人的印花和玩味有趣的精致风格一直是Kate spade的时尚标签。在中国地区，品牌年轻的风格和适中的价格深受消费者欢迎，北京、上海、苏州、无锡、深圳等都开设有专卖店。<br/><div class="contheight"></div>Kate Spade离世后，众多名人都表达了自己的哀悼之情。同时，对于她的死因，伊万卡-特朗普发声，“Kate Spade去世的悲剧提醒了我们，我们永远不会真正了解他人的痛苦和负担。如果你被抑郁困扰，有自杀倾向，请一定要寻求帮助。”<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="715" src="http://image.thepaper.cn/www/image/8/111/744.jpg" width="600"/></div><p class="MsoNormal" style="line-height:150%"><span style="font-size: 12pt; line-height: 150%; font-family: 宋体;"><o:p></o:p></span></p><p class="MsoNormal" style="line-height:150%"><span style="font-size:12.0pt;line-height:150%;font-family:宋体"><span lang="EN-US"><o:p></o:p></span></span></p></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张颖<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2176606">
+<div class="nbgbox">
+<a class="zan" contid="2176606" href="javascript:;" onclick="voteCont(this)" praisetimes="11">
+                           10</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 时尚</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2176606&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2176606&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

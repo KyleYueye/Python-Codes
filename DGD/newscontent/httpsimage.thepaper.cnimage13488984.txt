@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">绵阳老人摆摊31年等儿归：DNA比对成功，儿子暂不愿相认</h1>
+<div class="news_about">
+<p>红星新闻</p>
+<p>
+							2018-12-25 16:17<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">红星新闻12月25日消息，四川绵阳市65岁的大爷韩峰，其儿子五岁半时在自家修表摊前失踪，随后的31年，韩大爷一直在儿子失踪的成绵路摆修表摊，等候儿子归来。<br/><div class="contheight"></div>12月25日，韩大爷告诉红星新闻记者，警方通过DNA比对，已在广东找到了儿子，但儿子目前并不愿意相认。韩大爷表示，他只希望能见儿子一面，能一起吃个年夜饭，不会要求儿子赡养他们。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/488/981.jpg" width="100%"/></div><span style="color: rgb(128, 128, 128);">韩峰在绵阳成绵路摆摊修表<br/><div class="contheight"></div></span>韩大爷介绍，12月4日，绵阳涪城警方打拐办的民警给他采了血，并询问了儿子韩小君当年被拐的详细情况。12月25日上午11时许，民警给韩大爷打来电话，称韩大爷的DNA已和身在广东名叫张毅的人比对成功，但张毅目前并不愿意相认，且不愿意被其他人打扰他家人的生活。<br/><div class="contheight"></div>“今年8月，一人看到媒体报道后，给我打来电话，称其以前在山西打工的一名同事张毅，很有可能是我儿子韩小君，并且将张毅的电话号码发给了我，但我打过去，对方称打错了，后来打了很多次，也发了很多短信，但都没有回音。”韩大爷说。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/488/980.jpg" width="100%"/></div><span style="color: rgb(128, 128, 128);">韩峰在绵阳成绵路摆摊修表<br/><div class="contheight"></div></span>据民警介绍，张毅现在过得很好，养父母对他也很好，他要考虑养父母的感受。同时，张毅也在犹豫，如果相认了，是不是对养父母不忠？如果不相认，是不是对亲生父母不孝？目前，张毅还在犹豫，要等春节后再决定。<br/><div class="contheight"></div>“民警给我打电话说比对成功后，我就给儿子打了电话，但他还是没有接听。”对于儿子的想法，韩峰有些无奈，但也表示理解，他表示，只希望跟儿子见一面，吃了年夜饭，不需要儿子赡养他们老两口，如果儿子有困难，他也可以进行帮助。<br/><div class="contheight"></div>（本文原题为《六旬老人摆修表摊31年等儿归：DNA比对成功，儿子暂不愿相认》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2290069" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">绵阳六旬老人在儿子失踪处摆摊修表30年：只想再见他一面</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 儿子走失,四川</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772773">
+<div class="nbgbox">
+<a class="zan" contid="2772773" href="javascript:;" onclick="voteCont(this)" praisetimes="105">
+                           104</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 小孩走失</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772773&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772773&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3.1k）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

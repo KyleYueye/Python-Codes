@@ -1,0 +1,90 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜狗主人无理打人的“底气”是谁赋予的？</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-11-07 12:42<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="335" src="http://image.thepaper.cn/www/image/12/37/188.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">徐女士护住孩子并用脚驱赶狗，与狗主人金某发生口角，遭金某殴打。 截屏图</span><br/><div class="contheight"></div>又发生一起因不文明养狗引发的市民冲突。不过与其说是冲突，不如说是狗主人无理打人。<br/><div class="contheight"></div>11月3日，浙江余杭。徐女士带两个孩子散步时，孩子被一条没拴绳的狗冲过来追赶。徐女士护住孩子并用脚驱赶狗，与狗主人金某发生口角，遭金某殴打，致手指骨折，全身多处挫伤。<br/><div class="contheight"></div>金某的行为引发公愤，也严重触犯了法律。据报道，金某因涉嫌寻衅滋事罪，已被警方刑事拘留。涉事犬只也被证实未办理过犬证，属于无证犬，已被城管部门扣押。<br/><div class="contheight"></div>回头来看，金某的嚣张跋扈十分不可思议。他无证养狗、遛狗不拴绳、任由狗去扑别人家小孩，多重错误在先，却敢于打人。他虽然最终得到了法律的制裁，但徐女士为了制止不文明养狗，付出的代价不可谓不惨重。<br/><div class="contheight"></div>徐女士面临的是一个普遍的困境。遛狗要拴绳本该是最起码的规范，但是因为太多的狗主人不遵守规范，以至于他们把无绳遛狗当成了自己的权利。对于我们这些不养狗的人来说，遇到拴绳的狗简直想给狗主人点赞。当不文明成为常态，文明就成了美德。<br/><div class="contheight"></div>记者事后去徐女士这个小区了解，住户们反映，小区里养狗的人很多，大型犬一般是有绳的，很多小狗则是不牵的。金某的狗恰恰就是小狗，或许这赋予了他打人的底气，“我一直这样遛狗也没人反对，你凭什么多管闲事？”<br/><div class="contheight"></div>其实许多小区都是这种情况，大狗拴绳小狗不拴绳，成了一种潜规则。然而所谓“小狗不咬人”，只是某些养狗人士的一厢情愿，其他人没有义务迁就他们。<br/><div class="contheight"></div>理论上，有责任心的市民遇到不文明养狗的现象，应该当面制止，这才是对社区安全负责。但徐女士的经历说明了，矫正根深蒂固的养狗陋习，不能依赖市民个人。如果制止恶习的代价是牺牲个人安全，没有多少人会挺身而出。<br/><div class="contheight"></div>狗主人无理打人不是第一回了，之前还有哈尔滨狗主人殴打老人、四川绵阳一位母亲遭狗主一家三口围殴等事件。这些事件的发生轨迹十分相似：小孩被没拴绳的狗吓到，家长找狗主人理论，结果被暴力殴打。<br/><div class="contheight"></div>这种事情每次发生都会引发公愤，但是一波又一波的舆论怒火，似乎并不能纠正狗主人群体的习惯和认知。事已至此，我们不得不承认，网络谴责起不了什么作用，异烟肼毒狗这种极端手段也不足为训。<br/><div class="contheight"></div>“人狗冲突”愈演愈烈，不能按惯例总是归结于“邻里因琐事发生纠纷”，而应该把“狗事”当做城市管理的一个正经事来抓。要就事论事，更是追根溯源。<br/><div class="contheight"></div>狗主人之所以有无理打人的“底气”，是因为长期以来的执法不力、违法不究，导致群己权界不明。普通市民可以发现之后举报，但不能总逼他们挺身而出。如果“狗事”得不到重视，将会对社会秩序造成越来越严重的威胁。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_asktopic">
+<div class="news_askuser" onclick="window.open('asktopic_detail_10014257');"><span class="verticalAlign_topic"></span>
+<div class="news_askuser_bd">
+<div class="news_askuser_sort">焦点</div>
+<div class="news_askuser_profile">我是暨南大学公共管理学院副教授李丹阳,私人养狗行为政府是否要介入,问吧!</div>
+</div> <div class="news_askuser_trbs"><span class="trbs">
+<div class="userleft_hdimg">
+<img src="//image.thepaper.cn/publish/interaction/image/2/862/620.jpg"/><div class="hdimg_bg30"><img src="//file.thepaper.cn/www/v3/img/headerimg_ctbg30.png"/><span></span></div>
+</div>
+<a class="u_sname">李丹阳</a>
+<span>2018-11-06</span>
+<span class="trbs_zan" id="10014257" times="1561">1.5k</span>
+<span>进行中...</span>
+</span></div>
+</div>
+</div>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 文明养狗 狗主人打人</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2610513">
+<div class="nbgbox">
+<a class="zan" contid="2610513" href="javascript:;" onclick="voteCont(this)" praisetimes="469">
+                           468</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 文明养狗</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2610513&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2610513&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（1k）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">法国圣诞集市枪击案致4死11重伤，官方称基本确定恐袭性质</h1>
+<div class="news_about">
+<p>海外网、央视新闻客户端</p>
+<p>
+							2018-12-12 07:11<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="399" src="http://image.thepaper.cn/www/image/13/100/111.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">当地时间2018年12月11日，法国东部城市斯特拉斯堡圣诞集市发生枪击案。 视觉中国 图</span><br/><div class="contheight"></div>海外网12月12日消息，经当地政府证实，法国斯特拉斯堡圣诞集市附近发生枪击事件，目前已造成4人死亡，11人重伤。官方称，可能与“恐怖袭击”有关，法国的反恐部门已开始对此事件展开调查。<br/><div class="contheight"></div>据英国《每日邮报》报道，当地时间12月11日晚，这起事件发生在斯特拉斯堡中心克莱伯广场的一个圣诞集市附近。<br/><div class="contheight"></div>目击者多丽丝·马努告诉BBC：“早些时候我在斯特拉斯堡市中心的圣诞集市闲逛，就在枪击发生前几分钟，我经过了克莱伯广场。接着我继续在圆顶街上走，这时我看见一队10到12人的士兵朝我走来，他们拿着枪指着街道，周围的人都在四散奔逃。”<br/><div class="contheight"></div>目前还不清楚该袭击目标是市场，还是与恐怖主义有关。法国《费加罗报》(Le Figaro)称这名嫌疑人为谢里夫·C (Cherif C)，是一名29岁的男性，多名消息人士认为他是“激进派”人士。本周二（12月11日）上午，警方曾准备前往该嫌疑人家中逮捕他，但警方赶到时他并不在家。<br/><div class="contheight"></div>警方目前表示，他们知道枪手的身份，据悉此人有犯罪记录，在枪战后被圣诞集市附近的一名士兵打伤并逃离现场。<br/><div class="contheight"></div>枪击事件发生后，法国内政部呼吁公众留在室内。安全官员已经封锁了该地区，有轨电车现已停止运行。<br/><div class="contheight"></div>另据央视新闻客户端消息，目前，法国反恐部门已经就此启动了调查，基本可以确定这起枪击的恐袭性质。<br/><div class="contheight"></div>（原题为《法国圣诞集市枪击案致4死，警方称已知枪手身份》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 法国,枪击事件</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2728915">
+<div class="nbgbox">
+<a class="zan" contid="2728915" href="javascript:;" onclick="voteCont(this)" praisetimes="474">
+                           473</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 枪击事件</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2728915&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2728915&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（433）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

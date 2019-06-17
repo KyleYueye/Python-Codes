@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">中国驻美大使崔天凯：中美双方经济团队相关工作正在深化</h1>
+<div class="news_about">
+<p>央视新闻移动网</p>
+<p>
+							2018-12-24 14:42<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">央视新闻移动网12月24日消息，2018年12月21日，中国驻美崔天凯大使接受中国国际电视台（CGTN）专访，就中美关系40年历程、发展现状及未来展望等回答了CGTN主持人刘欣的有关提问。<div style="text-align:center;"><img alt="" height="337" src="http://image.thepaper.cn/www/image/13/453/60.jpg" width="600"/></div><br/><div class="contheight"></div>在被问及中美经贸关系及磋商进展时，崔大使表示，习近平主席和特朗普总统于12月1日在阿根廷布宜诺斯艾利斯成功会晤，就中美关系未来发展方向及如何处理经贸问题等达成重要共识。<strong>当前我们面临的任务是认真落实两国元首共识，及时有效开展经贸磋商等工作。</strong><br/><div class="contheight"></div>崔大使说，在经贸磋商过程中，双方应加强沟通和理解，平衡对待彼此关切。中方充分理解美方关切，希望美方同样理解中方关切，我们<strong>不能苛求一方单独做出妥协。</strong>我相信，只要双方本着相互尊重、平等相待的精神，相向而行，全力以赴推进相关工作，就能找到互利共赢的解决方案，在世界最大两个经济体间构筑起更加牢固、稳定的经济关系。<br/><div class="contheight"></div>崔大使还说，中美贸易摩擦升级损害两国经济，也影响了全球经济增长前景。这就是为何那么多国家、那么多人表达了关切，并真诚希望两国能找到妥善解决问题的办法，从而缓解市场面临的压力。为此，<strong>双方经济团队在中美元首阿根廷会晤后立即展开工作，并不断加大努力，目前相关工作正在深化，期待磋商取得显著进展。</strong><br/><div class="contheight"></div>崔大使还表示，<strong>推动磋商取得进展也需要得到公众特别是两国工商界的理解和支持，驻美使馆工作人员和我本人一直努力利用各种场合加强与各界交流，与公众尤其是两国工商界深入讨论，倾听他们的意见，为双方经贸团队的沟通和协调提供协助。</strong><br/><div class="contheight"></div>在被问及是什么深层次因素导致当前中美关系紧张，以及如何看待对华认知失衡时，崔大使表示，中美两个大国有全面且复杂的关系，我从未幻想两国关系发展会一帆风顺，但从长远看，我始终相信两国人民的共同利益是根基所在，理智的声音会成为主导力量。现在越来越多中国学生到美国留学，也有越来越多美国学生前往中国留学。尽管到中国留学的美国学生仍少于在美国留学的中国学生，但两者的数字都在增长，这令人振奋。<br/><div class="contheight"></div>崔大使说，年轻人是加深两国人民友谊和理解的真正大使，是我们两国沟通交流的桥梁。最近我们听到了一些针对留学生的指控，这些指控毫无根据、十分荒谬，对留学生极不公平。提出这些指控的人应该也经历过满怀热情的青春岁月，如今可能也有了自己的孩子，面对今天的青年，他们怎么会有如此阴暗和卑劣的心态呢？这实在让人感到遗憾。<br/><div class="contheight"></div>（原题为《中国驻美大使崔天凯：中美双方经济团队相关工作正在深化》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 崔天凯,中美经贸磋商</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768701">
+<div class="nbgbox">
+<a class="zan" contid="2768701" href="javascript:;" onclick="voteCont(this)" praisetimes="150">
+                           149</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中美经贸</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768701&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768701&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

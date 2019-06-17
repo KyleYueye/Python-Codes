@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25433">地产界</a>
+</div>
+<h1 class="news_title">深圳罗湖部分学校：临时购房、租房的非深户籍不受理学位申请</h1>
+<div class="news_about">
+<p>澎湃新闻</p>
+<p>
+							2019-01-08 12:29<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月7日，深圳市罗湖区教育局发布“2019年义务教育学位申请预告”。深圳市即将于4月份开启的2019年小一、初一学位申请，罗湖区教育局请类别/积分靠后的适龄儿童做好到民办学校或回户籍地接受义务教育的准备。<br/><div class="contheight"></div>罗湖区教育局表示，由于申请人数还将大幅增加，公办学校学位将出现较大缺口，在根据学位数量，按照类别/积分高低录取的情况下，部分申请儿童有可能被录取到非地段公办学校或民办学校就读。<br/><div class="contheight"></div>2019年开始，罗湖区所有公办小学、初中实行学区住房学位申请锁定。一套住房成功申请公办学校学位后，小学六年、初中三年内其他家庭不得用该住房再次申请公办学校学位（相同父母或监护人的多个孩子不受影响）。同时申请学位的住房必须为申请人实际居住。如果没有实际居住，地段学校将不受理学位申请。<br/><div class="contheight"></div>在罗湖区临时购房、租房，深圳户籍不保证就近入学，非深户籍不受理申请。租房居住的必须在深圳没有住宅类房产（没有实际居住的除外）并在学区实际居住满一年以上，即于2018年4月30日前在房屋租赁管理部门登记、备案（截至2019年4月30日连续满1年以上）。<br/><div class="contheight"></div>此外，罗湖区教育局公告了学位特别紧张的学校，包含23所小学和9所中学。<br/><div class="contheight"></div>小学：凤光小学、红岭小学、笋岗小学、桂园小学、滨河小学、红桂小学、深圳小学、人民小学、洪湖小学、翠北实验小学、锦田小学、螺岭外国语实验小学（含湖贝校区）、翠竹外国语实验小学、翠茵小学、东昌小学、布心小学、东晓小学、淘金山小学、水库小学、北斗小学、罗芳小学、莲南小学、仙桐实验学校（含莲塘校区）。<br/><div class="contheight"></div>初中：笋岗中学、桂园中学、松泉中学、翠园东晓校区、翠园中学初中部、文锦中学、罗湖外语学校初中部、罗湖外语学校初中部实验部、大望学校。<br/><div class="contheight"></div>根据罗湖区教育局官网信息，小学和初中共有约79所。学位紧张的学校并不完全分属翠园教育集团、罗外教育集团、螺岭教育集团、翠竹教育集团、翠北教育集团和锦田教育集团。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/31/732.jpg" width="100%"/></div><div><span style="color: rgb(128, 128, 128);">深圳罗湖区教育局官网截图</span></div>在预告学位特别紧张的学校中，螺岭外国语实验小学（含湖贝校区）在2018年12月4日18时40分曾在官网挂出一则关于学位申请的补充要求告示：从2019年4月30日开始，申请该校学位的家庭，购买的住房面积按30平方米、50平方米划分后，对购买年限和居住年限做出了1年至6年的限制。<br/><div class="contheight"></div>不到30个小时，2018年12月5日23时15分，深圳市螺岭外国语实验学校宣布，“根据罗湖区教育局的意见”，学校决定取消《告示》。<br/><div class="contheight"></div>深圳市螺岭外国语实验学校当时表示，近年地段生源持续增加，学校学位已到极限。为了优先保障学校地段内实际购房居住的户籍适龄儿童就近入学的权利，防止临时择校性申请，挤占地段生学位，人为造成不公平和学位紧张局面<br/><div class="contheight"></div>罗湖区教育局2018年12月6日发布的“情况说明”提及，该区严格落实深圳市义务教育招生政策，坚持就近入学，按照类别和积分录取，所有符合入读条件的孩子，都会妥善安排学位。符合螺岭学校类别和积分条件的安排到该校入读。近几年，为了满足辖区居民有学上、上好学的需求，罗湖区正在通过城市更新和上天入地工程拓展空间，增加学位供给，并通过集团化办学不断扩大优质教育资源覆盖面。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘畅<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 深圳楼市,学区房</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2826922">
+<div class="nbgbox">
+<a class="zan" contid="2826922" href="javascript:;" onclick="voteCont(this)" praisetimes="5">
+                           4</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 深圳楼市</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2826922&caid=25433",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2826922&amp;caid=25433" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

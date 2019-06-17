@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25430">澎湃防务</a>
+</div>
+<h1 class="news_title">2019年征兵工作展开：加大征召毕业生和重点高校学生力度</h1>
+<div class="news_about">
+<p>贾启龙/新华社</p>
+<p>
+							2019-01-09 13:50<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京1月9日消息， 国防部征兵办公室日前下发《关于做好2019年征兵准备工作的通知》，明确全国征兵网（网址：http://www.gfbzb.gov.cn）于1月10日正式开通，受理网上兵役登记、应征报名和政策咨询等工作事项，这标志着2019年度征兵准备工作正式展开。<br/><div class="contheight"></div>通知明确，新年度征兵工作要全面聚焦备战打仗，以兵役法规建设为支撑，以征兵“五率”考评为抓手，以对口精准征集为突破，以确保廉洁征兵为底线，巩固以大学生为主体的征集态势，推动征兵工作转型发展，努力实现新兵综合素质和入伍适应能力显著增强，大学毕业生比例和新兵对口征集率稳步提升的总目标。<br/><div class="contheight"></div>通知要求，各级要强化组织领导，调整充实征兵领导小组和办公室，加强高校征兵工作站建设，建立健全考核上岗制度，提高各级开展征兵工作的能力。要严格落实兵役登记制度，及时发布兵役登记公告，详细明确登记的时间、对象、方法和要求，依法择优确定预征对象。要广泛开展征兵宣传教育，组织“征兵宣传进校园”“征兵宣传月”“政策咨询周”等活动，做到所有高校和大学生“两个全覆盖”。<br/><div class="contheight"></div>通知指出，各地要充分发挥征兵工作量化考评指挥棒作用，构建省市县三级上下一体、衔接配套的征兵量化考评体系，实现征兵各环节全过程管控、全要素覆盖、全系统评价。要加强督导检查，及时发现解决问题，推动征兵工作末端落实，为建设世界一流军队输送更多优质兵员。<br/><div class="contheight"></div>记者从国防部征兵办公室获悉，2019年度征兵工作在稳定现有大学生征集比例基础上，将加大征召大学毕业生和重点高校大学生力度。同时，大力推行“对口精准征集”“预定新兵役前教育训练”“新兵被装精确保障”等试点经验。<br/><div class="contheight"></div>2018年，国防部征兵办公室指导多省兵役机关成功探索“对口精准征集”“预定新兵役前教育训练”“新兵被装精确保障”等经验，根据新兵专业、特长将其分配到对应服役岗位，以提高作战部队主战岗位、急需专业的对口率；对所有预定兵开展为期一周左右的役前教育训练，提升其综合素质和入伍适应能力；新兵入营前，统计新兵本人身高、腰围等多项数据，量身订制并精准发放被装。<br/><div class="contheight"></div>（原题为《2019年征兵准备工作正式展开》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 征兵</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831510">
+<div class="nbgbox">
+<a class="zan" contid="2831510" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 征兵</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831510&caid=25430",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831510&amp;caid=25430" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

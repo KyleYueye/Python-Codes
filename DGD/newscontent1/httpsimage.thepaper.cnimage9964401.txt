@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜滴滴整改应有全国统一方案，不能拘泥“一城一策”</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-08-28 16:11<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">滴滴顺风车事件后，热度一直居高不下。<br/><div class="contheight"></div>在舆论场，人们在讨论事件暴露出的各环节安全风险，也有机构和个人在进行安全常识普及。与此同时，各地政府部门正在密集约谈滴滴及其他网约车公司，提出整改意见。<br/><div class="contheight"></div>所有人努力的方向都是一致的：让公众享受到有安全保障的网约车服务。不过各方的工作应该协调有序，才能发挥最好的效果。<br/><div class="contheight"></div>有两条新闻连着看使人十分困惑：<br/><div class="contheight"></div>前几天，一些警务类官微发帖告知公众，必要时可以进行视频报警，称“多数大城市都开通了视频报警的功能”。相关帖子传播很广。<br/><div class="contheight"></div>8月28日上午，@江苏网警 却进行辟谣，“视频报警、短信报警均不靠谱，正确方法还是拨打110”。其表示，目前在中国大陆，只有山东烟台警方能做到视频报警，而短信报警，也只有部分地区支持。<br/><div class="contheight"></div>一轮普及加一轮辟谣，最后回到了拨打110的起点，而110是所有人都知道的常识。而现在滴滴与警方需要合作解决的问题是，在出现遇害女孩那样的危险状况时，如何让乘客安全、便捷地进行报警。<br/><div class="contheight"></div>贵阳的举措是对症的。据媒体报道，贵阳要求网约车必须安装车载“一键报警”装置。但这只是贵阳一地的做法。<br/><div class="contheight"></div>这引发了我进一步的疑问。滴滴在全国开展业务，不同城市的人用的是同一款APP，这次暴露的问题也是全局性的。可是事后各地对滴滴的约谈、调查、处罚却是各自为政，提出的整改措施也自成体系。<br/><div class="contheight"></div>据不完全统计，已有十多个城市对滴滴展开约谈，浙江、广东的省级监管部门也对滴滴进行了约谈。各地关心的都是安全，但具体诉求则不一致。<br/><div class="contheight"></div>比如广东省交通厅表示，滴滴一家独大，拒绝数据接入接受监管；苏州要求滴滴暂停无证车辆和人员新注册业务，进一步清理存量不合规车辆及驾驶员；武汉要求滴滴官方群要配合公安调查等等。<br/><div class="contheight"></div>之所以出现这种局面，是因为自2016年《网络预约出租汽车经营服务管理暂行办法》施行之后，网约车“一城一策”就成了基本原则。<br/><div class="contheight"></div>但是为了解决网约车安全困境，拘泥“一城一策”显然是不合时宜的，会给消费者带来巨大的认知障碍。试想，同样是打滴滴，在A城应该这样保护自己，在B城又要那样，谁能记得住这么多方案？有的地方出台了安全方案，有的地方没有出台，各地方案的效果又不一样，必然意味着有些消费者会受到歧视。<br/><div class="contheight"></div>滴滴整改理应有一套全国统一的方案，这套方案必须经过专家、消费者、相关部门的共同认可，这套方案也应该对其他网约车公司适用。<br/><div class="contheight"></div>有媒体报道称，广东省交通厅副厅长王富民预计，下一步国家将出台政策，将一键报警机制撇开客服，直接与公安机关系统对接。 希望国家层面的政策早日出台，也不该限于一键报警，这样才能消除认知混乱，还公众以安全信心。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 滴滴命案 网约车</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2387337">
+<div class="nbgbox">
+<a class="zan" contid="2387337" href="javascript:;" onclick="voteCont(this)" praisetimes="109">
+                           108</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 滴滴命案</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2387337&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2387337&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（56）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

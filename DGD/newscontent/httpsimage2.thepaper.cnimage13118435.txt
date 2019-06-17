@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">日本自卫队干部嫖娼被停职，约30名未成年少女受害</h1>
+<div class="news_about">
+<p>王珊宁/海外网</p>
+<p>
+							2018-12-12 16:56<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="363" src="http://image.thepaper.cn/www/image/13/118/444.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">日本海上自卫队队员 视觉中国 资料图<br/><div class="contheight"></div></span>海外网12月12日消息，据日本共同社报道，12日，日本海上自卫队以嫖娼未成年少女为由，对日本海上幕僚监部人事教育部教育课所属的一位三等海佐（相当于少校）给予停职12个月的处分。据悉，此人大约从8年前，对约30名女中学生进行了嫖娼行为。<br/><div class="contheight"></div>据海上自卫队消息称，这名30多岁的三等少佐于2017年6月，在日本北九州市的酒店里，在明知对方女性是未成年的情况下，对其实施猥亵行为。福冈县警方在11月20日，以涉嫌违反《禁止针对儿童的买春和色情法》为由，将其资料交送检方。<br/><div class="contheight"></div>海上幕僚监部的一位负责人户井雄一郎表示：“这是令人极其遗憾的行为。我们将彻底做好自卫队员的指导工作，尽全力防止此类情况再次发生。”<br/><div class="contheight"></div>据日媒称，12日，海上自卫队还给予了另一名三等海曹（相当于海军下士）处分，因为他从2名同事钱包中各偷走1万日元（约合人民币610元）。<br/><div class="contheight"></div>（原题为《日本自卫队干部嫖娼被停职 30名未成年少女受害》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 日本自卫队,嫖娼,停职,未成年</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2731059">
+<div class="nbgbox">
+<a class="zan" contid="2731059" href="javascript:;" onclick="voteCont(this)" praisetimes="88">
+                           87</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日本自卫队</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2731059&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2731059&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（53）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

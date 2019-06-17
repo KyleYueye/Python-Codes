@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜iMessage垃圾信息骚扰，只能靠用户自救？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 远山</p>
+<p>
+							2018-07-30 12:24<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="270" src="http://image.thepaper.cn/www/image/9/218/522.jpg" width="500"/></div><span style="color: rgb(128, 128, 128);">iMessage是苹果推出的即时通信软件。</span><br/><div class="contheight"></div> “嫌去澳门太麻烦，现在在家上网就能玩”“欲知后续章节如何发展？请微信关注公众号”“那些专柜的高价是否让您犹豫”…… 对于大多数苹果手机用户来说，类似的垃圾信息一定不陌生。它们通过苹果手机自带的iMessage渠道塞满用户的手机，删不胜删。 <br/><div class="contheight"></div>iMessage是苹果推出的即时通信软件，不同于运营商短信/彩信业务，苹果用户仅需要通过WiFi或者蜂窝数据网络进行数据支持，就可以完成iMessage通信。 对用户而言，iMessage可以一对一发送信息，也可以群发。群发模式下,每个人的回复大家都会看到。这其实是在通讯功能之外，附带了社交功能。<br/><div class="contheight"></div>苹果打造iMessage，给了用户发送信息更多的自主权。无需经过第三方平台，利用网络就能不受限地群发短信、视频、链接，客观上进一步降低了群发成本。但硬币的另一面就是，权利很容易被滥用，甚至被作为钻空子的工具，推送垃圾信息就是最明显的例子。垃圾信息高发，成为苹果用户最大的烦恼。这是iMessage本身的功能所致。可以接收陌生人信息，鼓励群体性信息交互，使得用户信息一旦泄漏，就很容易扩散为大规模骚扰。 <br/><div class="contheight"></div>但即便真如苹果所顾忌的，拦截垃圾信息可能误伤用户有效信息、给iMessage交互功能带来影响，也不能成为任由垃圾信息高发的不作为理由。 <br/><div class="contheight"></div>从目前反馈的事件进展来看，苹果回复称用户可以在设备上阻止联系人和电话号码，还可以过滤掉未知发件人发来的iMessage信息，并报告疑似垃圾信息的iMessage信息。也有资深用户在网上支招称，在iOS系统中进入设置-通知-信息，把“显示以下人员的iMessage提醒”由“任何人”改为“仅我的通讯录”。从此，只有通讯录内的联系人发来iMessage才会被提醒，其他陌生ID发来的信息都不会提醒。<br/><div class="contheight"></div>但是上述用户的办法存在明显弊端，就是将非通讯录的其他用户正常发送的短信也一律隔绝。而苹果的回复，显然是将屏蔽垃圾短信的责任完全转移给用户，自身不对iMessage可能存在的技术和管理漏洞，进行任何主动改进。 <br/><div class="contheight"></div>这当然有平台监管成本更高的因素，可作为苹果自身的通讯产品，没有任何理由坐视用户被垃圾信息骚扰，必须按照《互联网广告管理暂行办法》第十七条规定，作为互联网广告提供信息服务的互联网信息服务提供者，对其明知或者应知利用其信息服务发布违法广告的，采取更多举措予以制止。<br/><div class="contheight"></div>不过，光靠苹果是不够的。垃圾信息背后，有着庞大的利益链条。某些人为了追求暴利，不惜用侵犯他人权益的方式群发垃圾信息，成为非法之源，这需要有关部门加大打击力度。与此同时，更容易被忽视的是某些网络平台的不受节制。比如被曝光的网上代发iMessage广告的商家，其行为难道不应该被相关网络平台所禁止么？用户隐私信息的随意泄漏，应强化追溯，查到源头，对相关泄密环节责任人进行追责。 <br/><div class="contheight"></div>就此看来，要治本iMessage信息骚扰，苹果自然要承担最为直接的法律责任，但任由交易信息泛滥的网络平台也不能脱责。有关部门要建立更为严格的监管体系，就要从完善责任链条入手，厘清各方在信息管理、交易行为中的相关责任，对相关责任方的追责“一个都不能少”，如此才能真正形成从个体到平台的守法意识，给包括苹果用户在内的大众群体一片安宁。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; iMessage垃圾信息</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2303647">
+<div class="nbgbox">
+<a class="zan" contid="2303647" href="javascript:;" onclick="voteCont(this)" praisetimes="80">
+                           79</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 垃圾短信治理</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2303647&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2303647&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（40）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

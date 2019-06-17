@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">公安部：今起至年底前，集中开展事故多发路段排查整治</h1>
+<div class="news_about">
+<p>新华网</p>
+<p>
+							2018-11-22 06:16<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华网北京11月21日消息，公安部21日发布，针对近期重庆万州“10.28”公交车坠江案件、甘肃兰海高速公路“11.3”重大交通事故以及陕西西安“11.13”重大交通事故暴露出的问题隐患，公安部日前下发紧急通知，部署全国公安交管部门从11月22日起到年底，集中开展一次事故多发路段排查整治行动。<br/><div class="contheight"></div>据介绍，此次排查的事故多发路段主要是，近3年在高速公路和普通公路上一定里程范围内发生3起以上造成人员死亡交通事故或1起以上死亡3人以上较大交通事故的路段。<br/><div class="contheight"></div>公安部要求，各级公安交管部门要在年底前完成排查工作，对排查出的事故多发路段，要按照一路段一方案的原则提出整治建议，专题报告地方党委、政府，通报交通运输、住建等相关部门和责任单位。对问题隐患突出，整治难度大的，要提请党委、政府并联合相关部门分别采取部、省、市三级挂牌督办的方法，加大督促整改力度。对一时无法整改到位的重点事故多发路段，要联合相关部门和公路经营养护企业，加强指挥疏导和秩序管控，并及时向社会发布事故多发路段信息，提醒广大群众注意安全通过。<br/><div class="contheight"></div>同时，公安部提醒广大交通参与者，途经长大下坡、急弯陡坡、临水临崖、团雾结冰等事故多发路段时，务必遵法守规，谨慎驾驶，适当降低车速，加大跟车距离，注意标志标线，遇雨雪等恶劣天气或夜间行车更要加倍小心，确保交通安全。<br/><div class="contheight"></div>（原题为《公安部将集中治理一批严重道路安全隐患》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王建亮<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 道路安全,排查隐患,公安部</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2659301">
+<div class="nbgbox">
+<a class="zan" contid="2659301" href="javascript:;" onclick="voteCont(this)" praisetimes="91">
+                           90</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 隐患排查</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2659301&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2659301&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（62）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

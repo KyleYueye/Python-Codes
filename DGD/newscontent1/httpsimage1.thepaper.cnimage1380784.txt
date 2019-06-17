@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜单身大妈的情感需求，不能只有婚恋骗子知道</h1>
+<div class="news_about">
+<p>澎湃特约评论员 舒圣祥</p>
+<p>
+							2019-01-02 15:36<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2803245" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜单身大妈的情感需求，不能只有婚恋骗子知道" src="//image1.thepaper.cn/image/13/799/704.jpg"/>
+</a>
+<div class="atlas_360_txt">新型婚恋诈骗专挑中老年女性：冒充暖男鼓动“投资”赌博平台<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">8名青年男女在婚恋交友网站上冒充50岁左右成功男士，以谈恋爱为幌子，专门骗取中老年女性信任，得手后再以“内部消息”为由，鼓动被害人“投资”非法赌博游戏平台，5个月内共有10多个省市20余名被害人上当受骗。2018年12月27日，江苏省淮安市洪泽区检察院以涉嫌诈骗罪将余某等人提起公诉。（检察日报，1月1日） <br/><div class="contheight"></div>电信网络诈骗不是新鲜事，以婚恋为伪装的婚姻骗子也很常见，但冒充“暖男”，专挑中老年女性下手，鼓动“投资”赌博平台，再通过吃赌博网站的返利或者盗取被害人账户资金等方式获利，确属之前很少见到的“新型精准”婚恋诈骗。 <br/><div class="contheight"></div>这些年，“中国大妈”作为一个代名词，不仅在广场舞中活力四射，也频频出现在抄底黄金之类的新闻中，一度有过“击败金融巨鳄”的传说。这些传说自然很不靠谱，但是中国大妈手里有钱，显然是被骗子们重点关注到了。 <br/><div class="contheight"></div>很多保健品、医疗器械，包括很多传销组织，都盯上了中国大妈。新型婚恋诈骗，也学会了这一套路。女性相比男性往往更为长寿，有很多丧偶的大妈，加上离异的，确实是个不小的群体。 <br/><div class="contheight"></div>把卖保健品时嘘寒问暖的那一招，直接复制到“谈对象”上来，伪装成大龄单身男子，通过婚恋网站的背书，不仅迷惑性很强，也正中了大妈们现实的情感需求。卖保健品的是伪装成了亲生儿女，婚恋诈骗却伪装成了半路夫妻，后者当然更具“杀伤力”。<br/><div class="contheight"></div>某种意义上，每一个情感需求的空白地带，就是一个骗术的“用武之地”。不能责怪大妈们警惕性不高，更不是什么智商衰退跟不上时代。社会心理学上，要说服一个人，有一种方法叫“外周途径”。你不是防范意识强嘛，那就故意告诉你一些你的准确个人信息。还是不信？再给你一些可以验证的东西——当然，都是提前设计好的。比如新闻中的案例，忽悠大妈搞“投资”，第一次银行账户里确有盈利，等第二次大批量“投资”，就什么都没有了。正如一些网友总结的“你看中了人家的利息，人家看中的是你的本金”。<br/><div class="contheight"></div>电信网络诈骗，从来都是一整套邪恶的产业链，光抓几个具体实施诈骗的还不行，得发力摧毁整套产业链。要有效降低中老年人遭遇婚恋诈骗的风险，除了要加强普法宣传，切实提升大妈们的防范意识能力，更重要的还是要“筑墙”。 <br/><div class="contheight"></div>从信息安全保护到电信运营商管理，从受害者本人警醒到银行防范、司法打击等等，都是一道又一道需要筑好的保护墙。为什么骗子可以轻松伪装成大龄单身男子？婚恋交友网站的实名审核不到位，本身就是大漏洞。要强化监管，落实责任。那些非法的赌博游戏平台，更得重点打击。<br/><div class="contheight"></div>不得不说的是，骗子的嗅觉往往十分灵敏，随着老龄化社会的到来，单身大妈们的情感需求，无疑是个现实的问题。一方面，子女们应该给予更多的理解支持，社会也应该更加宽容以待；另一方面，公安、社区、妇联等机构，需要更好发挥服务职能。不会给骗子们留下可钻的空子。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 婚礼诈骗</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2804195">
+<div class="nbgbox">
+<a class="zan" contid="2804195" href="javascript:;" onclick="voteCont(this)" praisetimes="116">
+                           115</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 婚恋诈骗</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2804195&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2804195&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

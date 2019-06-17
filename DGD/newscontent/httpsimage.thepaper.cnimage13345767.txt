@@ -1,0 +1,79 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">普京年度记者会丨如何评价中国改革开放40年？普京这样说</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2018-12-20 19:19<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="423" src="http://image.thepaper.cn/www/image/13/345/772.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">普京称，俄罗斯积极评价中国发生的变化。<br/><div class="contheight"></div></span>海外网12月20日消息，当地时间20日12点，俄罗斯总统普京在莫斯科国际贸易中心大厅举行新任期首次大型记者会，回答来自俄罗斯及外国媒体的1702名记者提问。<br/><div class="contheight"></div>据俄罗斯卫星通讯社报道，有记者问普京“您对中国改革开放40年作何评价？”普京回答说，俄罗斯积极评价中国发生的变化。他还指出，中俄双边贸易额接近1000亿美元，这是很重要的指标和成就。<br/><div class="contheight"></div>报道称，今年共有来自俄罗斯联邦级媒体、各地方媒体及外国媒体的1702名记者注册参会，这一数字创下历史新高。<br/><div class="contheight"></div>在2001年总统普京的首次大型记者招待会上总共有大约500名记者，那场记者招待会进行了1个半小时。2008年的大型记者招待会是时间最长的一次，总时长为4小时40分钟。<br/><div class="contheight"></div>俄罗斯总统新闻秘书佩斯科夫此前表示，普京为今年这场年度大型记者会留出了三天的准备时间，每天直到深夜都在阅读相关材料。<br/><div class="contheight"></div>（原题为《如何评价中国改革开放40年？普京这样说》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2757242" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">普京年度记者会丨互联网也有规则，歌手不能蛊惑年轻人吸毒</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2757130" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">普京年度记者会丨愿改善俄日关系，但对美国在日反导系统不安</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2757046" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">普京年度记者会丨首位提问外籍记者来自乌克兰，且破例追问</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2757332" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">普京年度记者会丨“作为一个正派的人，我总是会结婚的”</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2757180" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">普京年度记者会丨暂未看到美国撤军征兆，但不排除这一可能性</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 普京年度记者会,改革开放40年</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2757233">
+<div class="nbgbox">
+<a class="zan" contid="2757233" href="javascript:;" onclick="voteCont(this)" praisetimes="155">
+                           154</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 普京年度记者会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2757233&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2757233&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜霸座男这边上黑名单那边成大V？少为网络审丑搭台</h1>
+<div class="news_about">
+<p>澎湃评论员 阳柳</p>
+<p>
+							2018-09-03 19:00<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">高铁“霸座”男剧集又更新了。在国家公共信用信息中心公布的8月份新增失信联合惩戒对象公示名单中，出现了高铁“霸座男”孙某的名字。也就是说，孙某已被列入铁路系统的“黑名单”，被限制乘坐所有火车席别。此前，孙某已经被济南铁路公安处以200元罚款。 <br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="781" src="http://image.thepaper.cn/www/image/10/138/448.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">孙某在今日头条留言截图</span><br/><div class="contheight"></div>按照常理，对于孙某来说，除了道歉，还理应从此次事件中得到惨痛教训，深刻反思，督促自己今后谨言慎行。对于公众而言，理应旗帜鲜明地谴责孙某的言行，并以此为戒，倡导重建文明的高铁乘坐环境。 <br/><div class="contheight"></div>但现在事情貌似有了一些出人意料的走向。先是有网传视频显示，孙某赤裸上身，以办公座椅当轮椅，由朋友推着，他笑着挥手，还喊“龙哥”帮他推车……此举被网友精辟地点评为：无耻到了新高度，也由此掀起了新一轮对“戏精”孙某的批评和嘲讽，有人猜测孙某已经开始享受这种被围观的感觉。 <br/><div class="contheight"></div>如果说孙某的言行还是个体无节操刷存在感的自嗨行为，那么，今天的事情就更让人看不懂了——孙某摇身一变成了“大V”，其新浪微博和今日头条均认证为“高铁‘霸座’事件当事人”，孙某还不忘蹭热点，“支持”涉嫌性侵的企业家。<br/><div class="contheight"></div>一个被全民批判的人物，却由新浪微博、今日头条这样知名平台认证为大V，这是什么操作？大V不应该是在专业领域或社会影响力上有着积极引导能量的人物吗？什么时候高铁“霸座”竟成了骄傲的事，“霸座”当事人还成了值得炫耀的身份了？ <br/><div class="contheight"></div>无非是为了流量。对于一些平台而言，高铁“霸座”男是近期必然是绕不过去的一个热点，此时不蹭更待何时？只是，时至今日，一些网络平台用户体量都以亿计算，除了刷人气、收割流量等商业操作，也必然带有弘扬社会正气、鞭挞丑陋现象的公共利益属性。这样为了博眼球不择手段地“审丑”，混淆是非，迎合低级趣味，委实不该。<br/><div class="contheight"></div>不是没有正面例子。今天，爱奇艺微博发声明称，攀比播放量引发的负面效应日益凸显，从业者以播放量为指标，扭曲了创作的初心，还为吸引眼球而低俗炒作，甚至令行业滋生出刷量等违法行为，为此爱奇艺将关闭显示前台播放量，以综合用户讨论度、互动量、多维度播放类指标的内容热度，在各端逐步代替原有播放量显示。 <br/><div class="contheight"></div>不要以为用户都是毫无分辨能力的、只能坐等被收割的流量携带者。为孙某认证大V与主动关闭前台播放量两则新闻下方的网友评论，就诠释了什么叫“公道自在人心”。一些平台的管理者真该好好看看。 <br/><div class="contheight"></div>不是说要限制谁的发言权，而是希望“霸座男”多一些真诚反省、谨言慎行，不要成为“打不死的小强”；有关网络平台能多一些审慎监管，多为主流声音张目，少为网络审丑搭台。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 高铁霸座男</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2406537">
+<div class="nbgbox">
+<a class="zan" contid="2406537" href="javascript:;" onclick="voteCont(this)" praisetimes="534">
+                           533</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 高铁霸座</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2406537&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2406537&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（194）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,135 @@
+{% include "header.html" %}
+<body>
+<link href="/static/css/result_style.css" rel="stylesheet">
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <nav class="navbar navbar-expand-sm navbar-light bg-light">
+                <button class="navbar-toggler" type="button" data-toggle="collapse"
+                        data-target="#top-navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <a class="navbar-brand" href="/">
+                    <img alt="brand" src="/static/icon/news.svg" height="36"/>
+                    News Crucible
+                </a>
+                <div class="collapse navbar-collapse" id="top-navbar-collapse">
+                    <!--<ul class="navbar-nav">-->
+                    <!--<li class="nav-item active">-->
+                    <!--<a class="nav-link" href="#"><span class="sr-only">(current)</span></a>-->
+                    <!--</li>-->
+                    <!--</ul>-->
+                    <!--<ul class="navbar-nav ml-md-auto">-->
+                    <!--<li class="nav-item active">-->
+                    <!--<a class="nav-link" href="#">打赏<span class="sr-only">(current)</span></a>-->
+                    <!--</li>-->
+                    <!--</ul>-->
+                </div>
+            </nav>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-body">
+                    {% if need_alert %}
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="alert alert-success alert-dismissable">
+                                <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+                                一共找到了<strong>{{ count }}</strong>个结果。
+                            </div>
+                        </div>
+                    </div>
+                    {% end %}
+                    <div class="row">
+                        <div class="col-md-12">
+                            {% for item in items %}
+                            <div class="jumbotron card card-block">
+                                <a href="{{ '/v?handle=' + item['data']['path'] }}">
+                                    <h3>{{ item['data']['title'] }}</h3>
+                                </a>
+                                <p>{{ item['data']['source'] }}</p>
+                                <p style="font-style: italic; color:gray">
+                                    {% raw ' ...... '.join(item['highlight']['contents']) %}
+                                </p>
+                                <p>
+                                    <span style="color:green">{{ item['data']['url'] }}</span>
+                                    <a class="btn btn-primary btn-large" href="{{ item['data']['url'] }}">前往原网页</a>
+                                </p>
+                            </div>
+                            {% end %}
+                        </div>
+                    </div>
+                    <div class="row">
+                        <nav class="mx-auto">
+                            <ul class="pagination">
+                                {% if page == 1 %}
+                                <li class="page-item disabled">
+                                    <a class="page-link">&laquo;</a>
+                                </li>
+                                <li class="page-item disabled">
+                                    <a class="page-link">&lsaquo;</a>
+                                </li>
+                                {% else %}
+                                {% set target = '/s?keyword={}&mode={}&page={}&hits={}'.format(keyword, mode, 1, count)
+                                %}
+                                <li class="page-item">
+                                    <a class="page-link" href="{{ target }}">&laquo;</a>
+                                </li>
+                                {% set target = '/s?keyword={}&mode={}&page={}&hits={}'.format(keyword, mode, page-1,
+                                count) %}
+                                <li class="page-item">
+                                    <a class="page-link" href="{{ target }}">&lsaquo;</a>
+                                </li>
+                                {% end %}
+
+                                {% for c in range(max(page-page_size//2, 1), min(max(page+page_size//2, page_size),
+                                total_page)+1) %}
+                                {% if c == page %}
+                                <li class="page-item active">
+                                    <a class="page-link">{{ c }}</a>
+                                </li>
+                                {% else %}
+                                {% set target = '/s?keyword={}&mode={}&page={}&hits={}'.format(keyword, mode, c, count)
+                                %}
+                                <li class="page-item">
+                                    <a class="page-link" href="{{ target }}">{{ c }}</a>
+                                </li>
+                                {% end %}
+                                {% end %}
+
+                                {% if page == total_page or total_page == 0 %}
+                                <li class="page-item disabled">
+                                    <a class="page-link">&rsaquo;</a>
+                                </li>
+                                <li class="page-item disabled">
+                                    <a class="page-link">&raquo;</a>
+                                </li>
+                                {% else %}
+                                {% set target = '/s?keyword={}&mode={}&search=&page={}&hits={}'.format(keyword, mode,
+                                page+1, count) %}
+                                <li class="page-item">
+                                    <a class="page-link" href="{{ target }}">&rsaquo;</a>
+                                </li>
+                                {% set target = '/s?keyword={}&mode={}&search=&page={}&hits={}'.format(keyword, mode,
+                                total_page, count) %}
+                                <li class="page-item">
+                                    <a class="page-link" href="{{ target }}">&raquo;</a>
+                                </li>
+                                {% end %}
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="/static/node_modules/jquery/dist/jquery.min.js"></script>
+<script src="/static/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/static/js/result_script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜草原非法排污，当地政府不能犯糊涂</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-08-23 16:06<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">在人们心目中，草原总是美丽而浪漫的。但现实中的草原，却在遭遇可怕的破坏。<br/><div class="contheight"></div>据新京报报道，在锡林郭勒大草原的深处，有一家苏尼特碱业公司，其采矿区位于查干诺尔湖盆范围内。在查干诺尔碱矿周边，没有风吹草低见牛羊的景象，目力所及，是一个荒漠化的碱湖及周边包围它们的上百平方公里退化草场。<br/><div class="contheight"></div>当地牧民反映，草原不再长草是因为碱矿将污水直排草场。当地政府经调查后认定，污水直排草场属实，但排放的是生活污水，系因“天气寒冷排污管爆裂”，而生产废水则已实现循环利用。而记者调查发现，被称为“实现循环利用”的工业废水未经处理直接进入生产流程，也未做防渗处理。<br/><div class="contheight"></div>生活污水不小心排到了草场，跟生产废水恶意非法排放，性质是截然不同的。而“废水循环利用”的说辞与现场的污染景象落差极大，也遭到了外部专家的普遍质疑。<br/><div class="contheight"></div>事实上，碱矿污染草原在当地已经成为不公开的秘密。苏尼特碱业公司私底下承认污染给周边牧民造成了损失，也在对牧民进行补偿，条件是让牧民“别往上告了”。但牧民表示，赔偿金额远远不够。<br/><div class="contheight"></div>问题是，草原污染是严重的生态破坏，光有私下的经济补偿是远远不够的。且不说补偿金额不能使受损失的牧民满意，生态损失是无价的。草原一旦退化成荒漠，若再想恢复成草原将难比登天。<br/><div class="contheight"></div>因此当地政府的态度是最关键的，是直面污染、积极作为还是推诿塞责、自欺欺人。从报道中可以看出，碱矿池侵蚀草原的现象已经持续多年，当地一直没有进行有效治理。<br/><div class="contheight"></div>苏尼特右旗环保局长班剑英表示，对于没有防渗处理的碱水池是否存在污染，准备请专家进行检测和评估。这恰恰说明，一直以来当地对污染的实际状况并不掌握，这本身就涉嫌失职。<br/><div class="contheight"></div>在粗放的发展观下，靠山吃山靠水吃水，靠草自然要“吃”草。但这种发展观早就应该摈弃了。大草原人烟稀少，但这不该成为企业肆意排污、地方政府漠视不管的理由。<br/><div class="contheight"></div>污染防治是当今三大攻坚战之一，“绿水青山就是金山银山”早已成为全社会的共识。是短期的经济利益重要，还是长远的生态利益重要，这是大是大非的问题，不容犯糊涂。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 非法排污 草原 环保</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2373699">
+<div class="nbgbox">
+<a class="zan" contid="2373699" href="javascript:;" onclick="voteCont(this)" praisetimes="46">
+                           45</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 非法排污</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2373699&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2373699&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（78）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

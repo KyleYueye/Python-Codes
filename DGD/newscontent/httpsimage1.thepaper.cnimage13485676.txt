@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">16岁男孩酒后持煤气罐欲引爆自杀，被警方采取刑事强制措施</h1>
+<div class="news_about">
+<p>@北京青年报</p>
+<p>
+							2018-12-25 13:37<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">@北京青年报 12月25日消息，12月24日凌晨，温州市鹿城区藤桥镇的一出租房内，一名喝得酩酊大醉的男子刀架脖子，打开煤气罐并点了一根烟，情绪激动地交代后事。面对极有可能发生的爆炸险情，当地民警妥善处置，救下了当事人。目前，当事男子因涉嫌以危险方法危害公共安全，被警方采取刑事强制措施。<br/><div class="contheight"></div><strong>事发：凌晨醉酒男子抱煤气罐扬言自杀</strong><br/><div class="contheight"></div>12月24日凌晨2时09分，鹿城公安分局藤桥派出所接到报警称，在藤桥镇底垟村公园巷一出租房内，一名男子抱着煤气罐要自杀。民警到达现场后，发现出租房内一名男子左手持菜刀架在自己脖子上，右手拿着打火机，坐在床上双腿夹着一个煤气罐，不时开启煤气罐，声称自己活不下去了。<br/><div class="contheight"></div>经初步了解，该名男子因和父亲闹矛盾，当晚喝了不少酒，于是想开煤气罐自杀。由于该男子处于醉酒状态，多次做工作均未果。民警找到该男子的父亲和哥哥做其思想工作。在了解到该男子从小系其姑姑带大的情况后，民警又设法让其哥哥联系到他姑姑，并不断保持通话，分散他的注意力。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="336" src="http://image.thepaper.cn/www/image/13/485/674.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">视频截图</span><br/><div class="contheight"></div><strong>惊险：男子点烟欲引爆被民警制服</strong><br/><div class="contheight"></div>“由于他左手持刀，一直架在脖子上，且煤气罐阀门时关时开，我们没有选择直接上去制止。”现场救援的民警阮金勇和同事们商量着最稳妥的处置方案。经过民警和家属近两个小时的交涉，该男子的态度丝毫没有缓和。<br/><div class="contheight"></div>凌晨3时56分，该男子突然情绪激动，先点了一根烟，并打开了煤气罐阀门。房间内出现了很响的“哧哧”声，在场的所有人看到这紧急的一幕，都倒吸了一口冷气。<br/><div class="contheight"></div>据阮金勇介绍，事发的出租房是一个20平米不到的密闭房间，很快煤气的浓度将达到爆炸的条件。“就在这时，男子右手抖了一下烟灰，我趁他注意力稍微分散，冲了进去将他扑倒，夺下菜刀，同事们也一拥而上将煤气罐阀门关上。”<br/><div class="contheight"></div>在现场指挥的藤桥派出所所长曹志成表示，因为香烟是明火，如果处置不及时很可能发生爆炸。<br/><div class="contheight"></div><strong>原由：系感情纠纷酒后发泄引发险情</strong><br/><div class="contheight"></div>经查，男子高某今年不满17周岁，山东省鄄城县人。一个月前，他因和网上交往的女友分手，心情郁闷，每天借酒浇愁。<br/><div class="contheight"></div>由于是网恋，他的恋情并未得到父亲的允许，而且和女网友在交往的过程中，他花费了1万多元。对于月工资只有2000多元的高某来说，这也是一笔不菲的支出。最后，他听从了父亲的建议，忍痛和女友分了手。事发当晚，心情郁闷的他和朋友在外面喝了一斤半白酒和六瓶啤酒，回家时又和父亲发生口角，一怒之下从隔壁厨房拿来煤气罐和菜刀想要自杀，差点酿成大祸。<br/><div class="contheight"></div>在派出所，酒醒后的高某十分后悔。现高某因涉嫌以危险方法危害公共安全，被警方采取刑事强制措施。（本文原题为《温州一男子酒后持煤气罐扬言自杀获救 已被采取刑事强制措施》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 以危险方法危害公共安全</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772441">
+<div class="nbgbox">
+<a class="zan" contid="2772441" href="javascript:;" onclick="voteCont(this)" praisetimes="19">
+                           18</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 以危险方法危害公共安全罪</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772441&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772441&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

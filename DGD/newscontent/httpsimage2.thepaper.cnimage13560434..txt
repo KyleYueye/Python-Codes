@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">张江高科董事长刘樱：国际视野下的科创企业要保护知识产权</h1>
+<div class="news_about">
+<p>澎湃新闻记者 戴高城</p>
+<p>
+							2018-12-27 18:21<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">上海张江高科技园区开发股份有限公司董事长刘樱12月27日在上海举行的第九届上海国资高峰论坛上表示，打造上海建设科创中心要聚焦科技创新，要体现中心城市的优势和功能。<br/><div class="contheight"></div>刘樱表示，打造上海科创中心一定要具备国际视野。<br/><div class="contheight"></div>刘樱表示，改革开放四十年，特别是中国加入WTO之后，中国是张开怀抱，拥抱这个世界。特别是上海作为全国最早开埠的国际化大都市以及改革开放的前沿阵地，更是主动融入到国际视野当中。从2018年全球竞争力排名来看，上海的城市竞争力的排名和城市综合能力的排名，这里面还是有蛮大落差的，上海跟深圳的位置已经发生了变化。<br/><div class="contheight"></div>“但不管怎么讲，整体中国的创新城市和中国的创新能力在全球还是处于一个比较产业链的中低端。当然，在这个方面，我们去对标国际方面，国家已经高度重视，并且也做了很多的部署，比如说在张江已经投了大量的基础科学装置，都是用于我们的基础研究投入以及产学研的结合等等。”刘樱称。<br/><div class="contheight"></div>怎么才能做到国际视野？刘樱认为，抛开这些科研方面的维度，在国际视野方面，优秀企业非常关注去遵守国际规则，并且保护知识产权。<br/><div class="contheight"></div>刘樱举例称，早在2014年浦东就设立了全国第一个知识产权局，但大量的创新企业对知识产权的保护以及国际惯例专利方面的规则遵守，还是远远不够的。从2017年开始热点发酵的重点事件提醒我们，当我们在参与全球制造和竞争，参与全球创新当中的时候，不得不对国际知识产权的尊重敲响警钟。“我们科技园一家装备制造企业，公司是一个高端制造企业，全公司的员工不超过1000人，但他们有一个部门有专利部，有60多个人，每天都在研究他的专利怎么样对他自己的核心专利进行保护，怎么样把他的核心专利分拆成小的专利去发布。同时还要考虑国内专利和国际专利的对接，以及如何不被国际专利打败等等。这些我认为是我们在国际视野当中可能一定要增补的，或者我们还要继续加强的视野。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王杰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780453">
+<div class="nbgbox">
+<a class="zan" contid="2780453" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 张江高科</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780453&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780453&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

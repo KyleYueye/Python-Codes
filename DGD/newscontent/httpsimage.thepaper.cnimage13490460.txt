@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">个人开网店的门槛是否会提高？市场监管总局：将依法规范发展</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2018-12-25 16:33<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网12月25日消息，近年来电子商务飞速发展，利用朋友圈、网络渠道销售层出不穷，针对“个人开网店的门槛是否会提高”一事，国家市场监管总局副局长马正其在25日下午国新办举行的新闻发布会上表示，《电子商务法》已经正式出台，下一步要按照《电子商务法》的规定，逐步地规范和推动电子商务行业的发展。<br/><div class="contheight"></div>马正其称，电子商务是近些年来快速发展的一个新业态，我们的电子商务现在国际上算是比较领先的，不亚于美国和欧盟。同时，人民群众也比较喜欢这种业态形式，比较方便，成本低，价格相应也低一些。总体来说电子商务的发展是积极健康的。当然由于它的发展速度比较快，进入的时候门槛比较低，也存在着一些问题。<br/><div class="contheight"></div>马正其指出，《电子商务法》已经正式出台，下一步要按照《电子商务法》的规定，逐步地规范和推动电子商务行业的发展。为落实电子商务法，国家市场监管总局也刚刚出台了《关于做好电子商务经营者登记工作的意见》，进一步促进电子商务持续健康发展。<br/><div class="contheight"></div>（原标题《个人开网店的门槛是否会提高？市场监管总局回应》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 个人开网店</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2773041">
+<div class="nbgbox">
+<a class="zan" contid="2773041" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 个人开网店</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2773041&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2773041&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

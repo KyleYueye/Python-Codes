@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">“脸书”涉泄680万用户照片，或面临16亿美元罚款</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2018-12-16 11:06<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="373" src="http://image.thepaper.cn/www/image/13/232/928.jpg" width="600"/></div>中新网12月16日消息，据外媒报道，美国社交网站“脸书”(Facebook)又出现安全漏洞，导致第三方应用软件获取用户未公开的私人照片，初步估计，有多达680万用户受影响。目前，欧洲隐私管制机构爱尔兰数据保护委员会已着手调查，“脸书”或因此被罚款超过16亿美元。<br/><div class="contheight"></div>14日，“脸书”公司发表声明说，“脸书”系统出现程序漏洞，导致大约1500个应用软件在今年9月13日至25日期间，能够获取用户未分享的照片。“脸书”表示，如果用户曾使用“脸书”账号登录第三方应用软件，并授权软件存取照片，那用户的私人照片可能已经外泄，其中包括没有公开分享的照片。<br/><div class="contheight"></div>据“脸书”工程总监巴尔指出，用户使用第三方应用软件上传到“脸书”，但未完成分享程序的照片，其副本被保留在应用内，因此被有关应用取得。<br/><div class="contheight"></div>他为此向“脸书”用户道歉：“我们很抱歉发生了这样的事。下周我们将和应用软件开发商合作，让他们找出受影响的用户，并尽快删除泄露的照片。”<br/><div class="contheight"></div>“脸书”团队则强调，已修补有关漏洞，并表示会通知及提醒可能受影响的用户，建议他们登入曾授权获取其“脸书”照片的应用软件，查看哪些照片被获取。<br/><div class="contheight"></div>（原标题《“脸书”涉泄680万用户照片 或面临16亿美元罚款》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 脸书</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2743977">
+<div class="nbgbox">
+<a class="zan" contid="2743977" href="javascript:;" onclick="voteCont(this)" praisetimes="119">
+                           118</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 脸书</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2743977&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2743977&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（43）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

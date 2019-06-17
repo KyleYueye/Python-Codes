@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">印尼总统佐科哀悼死者，官方提醒远离海岸预防后续海啸</h1>
+<div class="news_about">
+<p>澎湃新闻记者 李佩</p>
+<p>
+							2018-12-23 16:29<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">印尼西部海啸导致的伤亡还在不断上升，与此同时，印尼官方正在密切监控火山活动以预防后续海啸。<br/><div class="contheight"></div>据海外网最新消息，印尼西部海啸死亡人数已上升至168人，另有745人受伤，30人失踪。英国《卫报》23日报道称，目前相关的搜救活动正在展开，但由于海啸突然来袭，当地人们根本没有时间逃离海岸，预计死亡人数还将进一步上升。<br/><div class="contheight"></div>据英国广播公司（BBC）23日报道，印度尼西亚总统佐科表示，他已下令政府官员采取紧急措施，在致命海啸发生后寻找受害者并照顾受伤者。在一封推文中，他还向受害者家属表达了“深切哀悼”。<br/><div class="contheight"></div>在海啸已经造成巨大伤亡的同时，印尼官方还担心会有更多的海啸再次来袭，因此警告人们远离海岸线以保证安全。<br/><div class="contheight"></div>“这次（海啸）与地震造成的海啸不一样。从历史上看，如果是地震造成的海啸，就未曾发生过后续海啸。但这次海啸不同，来自火山的小小震动就可能引发变得更具有杀伤力的海啸。” 印尼国家地震和海啸中心（BMKG）负责人Rahmat Triyono称，目前印尼官方正在密切地关注喀拉喀托火山的活动，如果火山的活动不断变得更加活跃，则需要保持警惕。<br/><div class="contheight"></div>香港《南华早报》23日报道称，印尼官员周日早些时候表示，引发海啸的原因不是地震，而可能是当地喀拉喀托火山的活动，与水下山体滑坡发生后引发的异常潮汐运动有关。<br/><div class="contheight"></div>喀拉喀托火山是一座活火山，也是印尼国内127个活跃火山当中最活跃的一座之一。过去的几个月中，喀拉喀托火山一直呈现出活跃的状态，不断产生火山灰。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：吴挺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 印尼,海啸,火山</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766437">
+<div class="nbgbox">
+<a class="zan" contid="2766437" href="javascript:;" onclick="voteCont(this)" praisetimes="59">
+                           58</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 印尼海啸</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766437&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766437&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

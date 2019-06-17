@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">最高检：涉及学校教师学生案件时，不能就案办案要有价值判断</h1>
+<div class="news_about">
+<p>“检察日报”微信公号</p>
+<p>
+							2018-09-13 16:26<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“检察日报”微信公号9月13日消息，当日，最高人民检察院党组书记、检察长张军主持党组会传达学习全国教育大会精神特别是习近平总书记重要讲话精神。张军强调，要深入学习全国教育大会精神，全面贯彻党的教育方针，充分发挥法律监督职能作用，为加快推进教育现代化、建设教育强国提供有力司法保障。<br/><div class="contheight"></div><strong>会议认为，</strong><br/><div class="contheight"></div>教育是国之大计、党之大计、民族之大计、未来之大计，党中央一直高度重视教育工作。党的十八大以来，习近平总书记就教育改革发展作出了一系列重要论述，是习近平新时代中国特色社会主义思想的重要组成部分，是中国特色社会主义教育理论发展的最新成果，为做好新时代的教育工作指明了方向，提供了根本遵循。<strong>这次全国教育大会是举旗定向的大会，检察机关要切实增强“四个意识”，坚定“四个自信”，认真学习、深刻领会习近平总书记重要讲话精神，结合检察工作实际抓好落实。</strong><br/><div class="contheight"></div><strong>会议强调，</strong><br/><div class="contheight"></div>要充分发挥检察职能作用，为教育工作发展提供优质法治环境。在处理涉及学校、教师、学生的相关案件时，不能就案办案，要有价值判断，注重维护校园安全稳定和正常教学秩序，保障学校权益和教师尊严，保护学生健康安全成长。<br/><div class="contheight"></div>要落实好“谁执法谁普法”要求，做好各级检察院领导干部担任中小学法治副校长工作，促进培养学生的法治意识，推动将法治教育纳入学校教育体系。<br/><div class="contheight"></div><strong>会议指出，</strong><br/><div class="contheight"></div><strong>落实大会精神，关键在抓实。</strong><br/><div class="contheight"></div>要把党的教育方针贯穿检察教育培训工作始终，加强社会主义法治理念教育，打造过硬检察队伍。<br/><div class="contheight"></div>要切实发挥教育培训在落实司法体制改革任务中的重要作用，引导广大检察人员坚定改革信心和决心。<br/><div class="contheight"></div>要落实好“检察官教检察官”等制度，确保检察教育培训的实效。<br/><div class="contheight"></div>要了解、研究新时期检察官应具备哪些能力、发挥哪些作用、有哪些新需求，努力提供更多更优质的教育培训产品。<br/><div class="contheight"></div>要利用好“外脑”，吸纳更多人大代表、政协委员、专家学者、法官、律师等参与检察工作和检察教育培训，努力为新时代检察工作创新发展提供智力支撑。<br/><div class="contheight"></div><strong>会议要求，</strong><br/><div class="contheight"></div>要创新教育培训方式，重视多种方式、不同途径的学习培训，形成新时代检察教育培训体系。<br/><div class="contheight"></div>要会同有关部门，积极探索法官、检察官、律师一体化教育培训，为打造法律职业共同体、树立共同法治理念搭建新平台。<br/><div class="contheight"></div>要以正确的招人用人导向引领落实好党的教育理念，在招录、晋升工作中，不唯校、不唯名，只唯德、只唯才。<br/><div class="contheight"></div>要加强法律实习生锻炼培养工作，注重传播社会主义法治理念、新时代检察精神，影响更多学生把学业和现实结合起来，为全面依法治国储备更多优秀人才。<br/><div class="contheight"></div>最高检党组成员参加会议。<br/><div class="contheight"></div>（原题为《最高检：处理涉及学校教师学生案件时，不能就案办案，要有价值判断》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 全国教育大会,习近平,重要讲话精神</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2437211">
+<div class="nbgbox">
+<a class="zan" contid="2437211" href="javascript:;" onclick="voteCont(this)" praisetimes="88">
+                           87</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 全国教育大会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2437211&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2437211&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜精细设计，让个税专项扣除更加便利可及</h1>
+<div class="news_about">
+<p>澎湃特约评论员 聂日明</p>
+<p>
+							2018-10-21 13:06<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">8月末《个人所得税法》修订以后，专项附加扣除的方法开始向社会公开征求意见，其中赡养老人、子女教育、继续教育、房贷利息和住房租金赡养采用标准定额扣除，大病医疗采用标准限额据实扣除，方案也兼顾了子女数、地区房租差异等因素。<br/><div class="contheight"></div>居民收入综合计征和专项附加扣除，是本次个税法新增的重要内容。将子女抚育、赡养老人和住房纳入到专项附加扣除中，纳税人的应纳税所得额由收入和家庭负担确定，可以对不同负担水平的纳税人差别化对待，降低高负担家庭的税负，专项附加扣除尤其利好大型城市中的高负债中产阶层。<br/><div class="contheight"></div>多数项目采用标准定额扣除（除大病医疗外），是专项附加扣除征求意见稿最大的亮点。新修订的个税法只提到专项附加扣除项目，但具体范围、标准和实施步骤授权给国务院决定（并要求报全国人民代表大会常务委员会备案）。<br/><div class="contheight"></div>专项附加扣除的制度设计非常关键，如果程序复杂，纳税人申报成本过高，可能流于形式，纳税人享受不到实惠，也会使得纳税人、扣缴义务人和税务局之间的关系复杂化。<br/><div class="contheight"></div>一般来说，专项附加扣除有两种方式：一是标准定额扣除，二是标准限额（若有）据实扣除。后一种据实扣除，纳税人需要提供实际产生费用的票据，凭票报销。凭票据据实扣除最大的弊端是会导致票据使用泛滥，税务机关会强监管，审核程序倾向复杂，纳税人可能需要“报税中介”提供服务，或者干脆不申报，这有违该条款减轻纳税人税负的初衷。前一种只数人头（子女、达到退休年龄的老人等）和房数（拥有按揭或租赁的住房），针对人头、房数确定一个标准扣除金额，多不补，少不退，大大降低雇主和雇员的举证责任。<br/><div class="contheight"></div>标准定额扣除还有额外的好处，格外利于低收入家庭。低收入者家庭在子女教育的投入上往往小于高收入者家庭，低收入者住房面积更小、住房贷款和租金也相应更少。若凭票据实扣除，高收入群体会用完限额，而更需要费用减除的低收入者家庭因为不舍得支出，无法充分享受该项税收优惠。<br/><div class="contheight"></div>良好政策重在执行，制定实施步骤时，也宜尽量保持简化税制、尽可能的增加专项附加扣除的可及性。<br/><div class="contheight"></div>例如房贷利息的扣除原则定义为首套房，一个家庭在城市中，因为更换工作、选择学区、解决父母的投靠居住等原因，不得不换房，或者采购二套房。在购房实践中，各地区对首套房定义多有不同，有的只认房或只认贷，也有“认房又认贷”，大城市中只买过一套房而从未更换或再买的人群比例并不高，过严的限制可能会降低优惠政策的可及性。因此，该政策可以按对所有有房家庭按标准定额扣除的方式操作。<br/><div class="contheight"></div>意见稿的另一个亮点是兼顾了地区差异和纳税人的异质性（独生子女），根据主要居住的城市，房租项扣除标准分为800-1200元三档。中国幅员辽阔，地区间的收入和支出水平差距巨大。1000元可以在小城镇租到非常不错的二居室，但在一线城市，恐怕连厕所大的面积都租不到。子女教育也存在同样的现象，根据北大教育财政所的研究，义务教育阶段中国一线、二线和其它城市的家庭教育支出分别为1.68万、1.12万和7037元，其他城市占一线的不到一半。<br/><div class="contheight"></div>考虑到地区差距，赡养老人、子女教育和住房四项专项附加扣除的标准，也不妨充分兼顾地区差距，参照社保缴费基数下限调整的制度，全国层面规定区间和原则，由地方政府因地制宜，这样可以鼓励大城市高负担家庭（往往生育意愿较低）更多的生育，也保证他们父母的生活质量，为社保收支压力造成的养老负担增加缓冲地带。<br/><div class="contheight"></div>（作者系上海金融与法律研究院研究员）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张珺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 个税</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2549640">
+<div class="nbgbox">
+<a class="zan" contid="2549640" href="javascript:;" onclick="voteCont(this)" praisetimes="103">
+                           102</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 个税</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2549640&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2549640&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

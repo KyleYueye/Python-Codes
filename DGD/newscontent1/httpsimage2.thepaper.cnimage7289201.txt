@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">飞机上也要有卧铺了</h1>
+<div class="news_about">
+<p>李淑平</p>
+<p>
+							2018-04-13 10:36<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>乘飞机旅行特别是长途旅行今后或许不需要纠结升舱这件事了，可以直接享受卧铺待遇。目前，飞机制造商和航司已经在研究将卧铺搬上飞机。</u><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="359" src="http://image.thepaper.cn/www/image/7/289/199.jpg" width="600"/></div>在4月12日汉堡举办的2018飞机内饰博览会上，空客与卓达宇航（Zodiac Aerospace）宣布日前开始合作研发和销售带有乘客卧铺的低层模块，这些模块将装在飞机的货舱内，为乘客提供额外服务。<br/><div class="contheight"></div>据悉，乘客模块将直接置于飞机货仓上部，在常规过站期间与正常货运集装箱之间轻松互换。飞机的货舱地板和货物装载系统并不受影响。<br/><div class="contheight"></div>这一模式不仅能大大改善乘客体验，也为航空公司提供差异化商业运营。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="179" src="http://image.thepaper.cn/www/image/7/289/197.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="187" src="http://image.thepaper.cn/www/image/7/289/198.jpg" width="600"/></div><br/><div class="contheight"></div>要实现“飞机卧铺”的时间并不久远，据介绍，最早在2020年之前，航空公司将能在A330飞机上选择认证的解决方案目录，既可适用于全新生产的A330，也可进行改装。目前，在A350XWB宽体飞机上提供卧铺模块也正在研究中。<br/><div class="contheight"></div>空客方面表示，除了卓达宇航，还有几家航空公司对他们首批模型感兴趣。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈关哲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2073717">
+<div class="nbgbox">
+<a class="zan" contid="2073717" href="javascript:;" onclick="voteCont(this)" praisetimes="14">
+                           13</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 飞机</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2073717&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2073717&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_26609">文艺范</a>
+</div>
+<h1 class="news_title">荷花奖评选结果出炉，《醒·狮》《大禹》等五部作品获奖</h1>
+<div class="news_about">
+<p>澎湃讯</p>
+<p>
+							2018-12-27 16:00<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">舞动长宁·第十一届中国舞蹈“荷花奖“舞剧评奖活动在申城陡峭的严寒中落下帷幕。<br/><div class="contheight"></div>经过11月10日-12月9日在上海进行的现场终评演出和现场评选，经过评委会投票及组委会核定、并经过中国文联审核及批复，获得第十一届中国舞蹈“荷花奖”舞剧奖的五部参评剧目分别是：广州歌舞剧院有限公司演出剧目《醒·狮》、内蒙古艺术学院演出剧目《草原英雄小姐妹》、安徽省花鼓灯歌舞剧院有限责任公司演出剧目《大禹》、宁波市演艺集团有限公司演出剧目《花木兰》以及北京舞蹈学院青年舞团演出剧目《井冈·井冈》。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="388" src="http://image.thepaper.cn/www/image/13/554/443.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">《醒·狮》</span><br/><div class="contheight"></div>获奖作品绝大多数选择了观众熟悉的艺术题材进行二次创作，以更新颖的视角及编舞创作带来“老话新说”的观剧体验，有的取材于民间传说、经典名著，有的则是基于民俗风物、地方故事，都具有中国地方文化特色。<br/><div class="contheight"></div>大型民族舞剧《大禹》，让传说中的大禹“走下神坛”，将神话故事进行二度创作，用环环相扣的故事刻画了一个充满济世情怀、有血有肉的大禹形象。<br/><div class="contheight"></div>原创民族舞剧《草原英雄小姐妹》，将蒙古族舞蹈风格与当代舞蹈语言相结合极具感染力，讴歌了集体主义精神。<br/><div class="contheight"></div>兼取南拳、木鱼说唱等诸多南粤非遗项目的舞剧《醒·狮》，巧用舞蹈诠释武术力量。作为极具岭南文化的代表性符号，“醒狮”象征着中华民族的精神气节。<br/><div class="contheight"></div>传承革命精神的原创舞剧《井冈·井冈》汲取了江西采茶戏的动律，讲述了在第一次国内革命战争时期，井冈山红军战士和革命群众在艰苦卓绝的环境中忠于理想艰苦奋斗。<br/><div class="contheight"></div>舞剧《花木兰》打造了一个气势恢宏的战争场面，在震撼人心的激昂旋律中，让观众感受到木兰褪去红装披戎装的家国情怀。<br/><div class="contheight"></div>在荷花奖评奖展演期间，主承办方还举办了一系列舞蹈文化公益活动面向上海市民开放，包括1场高峰论坛、中青年舞蹈理论评论人才研修班（60人）、3场社区讲座、2堂舞蹈公开课、2场舞蹈沙龙和4场顶尖舞蹈人才进校园等活动，让申城市民尽享舞蹈艺术之美。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陈诗怀<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780440">
+<div class="nbgbox">
+<a class="zan" contid="2780440" href="javascript:;" onclick="voteCont(this)" praisetimes="21">
+                           20</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 荷花奖</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780440&caid=26609",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780440&amp;caid=26609" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

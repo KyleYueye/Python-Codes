@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">以色列前内阁部长签认罪协议，承认为伊朗从事间谍活动</h1>
+<div class="news_about">
+<p>陈文仙/新华社</p>
+<p>
+							2019-01-10 06:12<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社耶路撒冷1月9日消息，以色列总检察长办公室9日说，以色列前内阁部长戈嫩·塞格夫已签署认罪协议，承认其为伊朗从事间谍活动。<br/><div class="contheight"></div>该办公室在一份公告中称，塞格夫已签署认罪协议，承认犯有“从事严重间谍活动”和“为敌人提供情报”的罪行。<br/><div class="contheight"></div>以色列媒体《耶路撒冷邮报》报道，检察部门建议法院判处赛格夫11年监禁。判决听证会预计于2月11日举行。<br/><div class="contheight"></div>2018年6月，以色列国家安全总局（辛贝特）和以色列警方表示，塞格夫因涉嫌间谍罪被捕。辛贝特指控塞格夫在此前的6年时间里为伊朗情报机构担任间谍、帮助伊朗获取情报。调查显示，塞格夫向伊朗提供了有关以色列能源、安全方面的信息，包括以色列政治与安全机构有关官员和建筑物等信息。<br/><div class="contheight"></div>塞格夫曾于1995年至1996年出任以色列能源部长。<br/><div class="contheight"></div>（原题为《以色列前内阁部长或将因间谍罪被判11年监禁》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2203169" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">以色列前能源部长涉嫌间谍罪被捕，被指帮助伊朗获取情报</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 以色列,伊朗,间谍</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2834573">
+<div class="nbgbox">
+<a class="zan" contid="2834573" href="javascript:;" onclick="voteCont(this)" praisetimes="181">
+                           180</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 间谍</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2834573&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2834573&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（40）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25437">牛市点线面</a>
+</div>
+<h1 class="news_title">*ST毅达董事长无故失联，上交所督促尽快恢复信披有效来源</h1>
+<div class="news_about">
+<p>孙翔峰/中证网</p>
+<p>
+							2019-01-11 09:31<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">*ST毅达1月11日公告，公司收到上交所督促*ST毅达尽快恢复信息披露有效来源的监管工作函。公告函显示，2019年1月7日，上交所发现不能与公司负责信息披露的具体经办人员建立联系，也未能取得公司新任董事长的联系方式。经联系公司独立董事，其也未能在按照上交所要求促使前述人员与上交所取得联系。上交所要求公司应当尽快恢复与交易所的有效信息披露联系。<br/><div class="contheight"></div><strong>董事长无故“失联”</strong><br/><div class="contheight"></div>从种种迹象来看，上市公司董事长等信披人员失联可能是有意为之，目的在于规避监管，回避义务。<br/><div class="contheight"></div>上交所关于督促*ST毅达尽快恢复信息披露有效来源的监管通报显示，2018年12月27日，信达证券通过司法裁定强制划转股份的方式取得称*ST毅达2.6亿股，按规定应当及时披露相应的权益变动报告书。<br/><div class="contheight"></div>2019年1月3日，信达证券向上交所公司监管部门反映，*ST毅达未配合其办理信息披露事宜。<br/><div class="contheight"></div>上交所公司监管部门即要求公司核实有关情况，配合相关股东履行信息披露义务。2019年1月7日，上交所公司监管部门发现，不能联系到公司负责信息披露具体经办人员，也未能取得公司新任董事长张培的联系方式。此后，经多方努力，上交所公司监管部门联系上公司在任独立董事，要求其尽快督促董事长，确保信息披露联系畅通。但截至2019年1月10日下午17时，相关独立董事仍未联系到公司董事长。迄今，上交所公司监管部门未能取得与公司的有效信息披露联系。<br/><div class="contheight"></div>上交所表示，上市公司信息披露是证券市场稳健运行的重要基础，是广大投资者据以进行投资决策的主要依据。*ST毅达未建立与上交所的有效信息披露联系，不能及时披露可能对公司股价产生重大影响的信息。这一情况性质严重，可能对投资者决策产生重大不利影响。<br/><div class="contheight"></div>基于此，上交所公司监管部门已告知信达证券可自行通过相关指定媒体披露其权益变动报告书。同时，于1月10日向公司发出监管工作函，要求公司及其全体董事、监事和高级管理人员认真履职，在10个交易日内尽快建立与上交所的有效信息披露联系，督促公司如实说明其内部治理和生产经营状况。<br/><div class="contheight"></div><strong>公司处于暂停上市边缘</strong><br/><div class="contheight"></div>目前，*ST毅达因2017年财务会计报告被出具无法表示意见的审计报告，其股票已被实施退市风险警示。如公司2018年财务会计报告继续被出具无法表示意见或者否定意见的审计报告，其股票将在2018年年报披露后暂停上市。<br/><div class="contheight"></div>上交所表示，在此情况下，公司理应积极维护正常生产经营秩序，认真做好年报编制工作，及时向投资者揭示重大风险。但是，*ST毅达未与交易所建立有效信息披露联系，反映出公司管理和内部控制存在重大缺陷，公司全体董事、监事和高级管理人员未能勤勉尽责，无视公司和投资者的根本利益，严重侵害了投资者的知情权，损害了证券市场的正常秩序。<br/><div class="contheight"></div>对此，上交所将坚持依法、全面、从严监管，积极会同有关部门采取各项措施，督促公司、股东等相关各方尽快恢复公司的正常信息披露秩序，切实维护投资者利益。<br/><div class="contheight"></div>根据《股票上市规则》第12.12条规定，如公司未能在前述监管工作函规定的时间内恢复有效信息披露来源，上交所可以对公司股票实施停牌，直至上述情况消除后复牌。对于公司及有关责任人涉嫌的重大违规行为，上交所公司监管部门将启动纪律处分程序，严肃处理，并将提请证监会予以核查。同时，也请投资者关注公司的信息披露失序状况，注意投资风险，谨慎投资。<br/><div class="contheight"></div>（原标题：*ST毅达董事长无故“失联” 上交所督促尽快恢复信息披露有效来源）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王杰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2840527">
+<div class="nbgbox">
+<a class="zan" contid="2840527" href="javascript:;" onclick="voteCont(this)" praisetimes="16">
+                           15</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 信息披露</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2840527&caid=25437",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2840527&amp;caid=25437" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">法国一名副市长向圣诞老人许愿：请带给我们3G网络</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-18 22:43<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">法国西部卢瓦尔大区的一名副市长希望3G信号能覆盖当地，因此向圣诞老人发出求助请求。<br/><div class="contheight"></div>据法国报纸《西部法国》（Ouest France）17日报道，法国西部卢瓦尔大区马耶讷省（Mayenne）的梅拉勒（Meral）市目前仍然未实现3G网络覆盖，该市副市长在社交媒体上发言期盼圣诞老人送来一个信号基站作为今年的圣诞礼物。<br/><div class="contheight"></div>“亲爱的圣诞老人，梅拉勒希望收到一座漂亮的信号基站塔来接收信号。”名叫沙马雷（Richard Chamaret）的副市长在推特上如此许下圣诞心愿，“我希望这座高30米的塔将能接收到3G和4G信号，为什么不再留个位置来测试5G网络呢？”<br/><div class="contheight"></div>在接受法国媒体采访时，沙马雷坦言小城梅拉勒的居民对信号问题诟病已久，实现网络信号的完全覆盖是当务之急。此外，他还称不仅仅是梅拉勒饱受“网速慢”之苦，在整个马耶讷省，信号覆盖都不大好。<br/><div class="contheight"></div>“在梅拉勒和整个马耶讷省，网络信号的覆盖都不太好。”沙马雷表示，“我们已经向中央政府、国民议会和地方议员们抱怨过这事儿，但情况一点儿也没改善。现在或许是求助圣诞老人的时候了。”<br/><div class="contheight"></div>法国政府在今年7月16日正式发布了5G发展路线图。计划在2020年起开始分配首批5G频段，并至少在一个法国大城市提供5G商用服务，到2025年前实现5G网络覆盖法国各主要交通干道。在7月16日当天，法国政府还宣布在首都巴黎所在的法兰西岛大区启动11项关于5G的技术测试。法国发布的5G线路图，与欧盟的路线图基本一致。<br/><div class="contheight"></div>但法国的推进速度被指过慢。美国两大运营商AT&amp;T和Verzion曾宣布2018年下半年正式启动5G商用。韩国已经在之前举办的平昌冬奥会进行5G试商用，日本也宣布2020年东京奥运会上实现5G网络商用。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：汪伦宇<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 5G网络 法国</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2751135">
+<div class="nbgbox">
+<a class="zan" contid="2751135" href="javascript:;" onclick="voteCont(this)" praisetimes="1015">
+                           1014</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 5G网络</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2751135&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2751135&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（125）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

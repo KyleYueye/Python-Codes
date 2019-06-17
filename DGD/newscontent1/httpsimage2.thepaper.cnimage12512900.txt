@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜赋予老师适度惩戒权，让老师敢管“熊学生”</h1>
+<div class="news_about">
+<p>澎湃特约评论员 然玉</p>
+<p>
+							2018-11-23 16:07<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2661968" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜赋予老师适度惩戒权，让老师敢管“熊学生”" src="//image.thepaper.cn/image/12/493/35.jpg"/>
+</a>
+<div class="atlas_360_txt">把“戒尺”还给老师：常州一小学要给老师惩戒权治熊孩子<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">熊孩子在学校调皮捣蛋，老师想管却不敢管，是近年来教育领域的一个尴尬情形。近日，常州局前街小学决定“吃螃蟹”，召开了听证会，探讨把对学生的惩戒权还给老师。该校校长称，知道阻力很大，但此事对孩子有益处，对社会有贡献，“我们就要去做。”<br/><div class="contheight"></div>老师对学生的惩戒权，听着是个新鲜事物，但实际上，校园日常教学一直是有惩戒举措的，只是没明确“惩戒权”一说，简而言之就是“只做不说”。常见的“罚抄作业”“罚站”“罚打扫卫生”等，都属于实质上的惩戒。一些人认为，老师因为没有惩戒权，所以对熊孩子们束手无策，这实在是大大的误解。 <br/><div class="contheight"></div>常州这所小学专门提出“老师惩戒权”，更像是对既有事实的一次概念化提炼和重申。这波操作的最大意义在于，将一种“潜规则”变成明规则。这既是一个事实追认的过程，也是一个正式“赋权”的过程。 <br/><div class="contheight"></div>规范化的惩戒，永远比无规则、静悄悄的暗地惩戒要来得风险可控。把话说开、把规矩严明，等于是给出了正式的“官方”惩戒方案，给各方立了规矩。<br/><div class="contheight"></div>于老师而言，保障了他们无后顾之忧地展开惩罚、训诫，保护其免受家长、学生的无端纠缠和非难，也否定了过去一些老师任性而为、想一出是一出惩罚学生的闹剧。于家长而言，为其划定了行为界限，当老师行使惩戒权时，家长不能横加指责和随意干预；对一些顽劣学生而言，给与其必要的震慑；对于校方而言，惩戒权宣示办学立场，重申了严肃校风校纪的态度。 <br/><div class="contheight"></div>当然，一提惩戒，有人会担心变成体罚，包括一些家长和媒体在转述这一新闻时，也以“戒尺该不该还给老师”为题引导讨论，可实际上，常州这所小学根本没提到戒尺。在其所列出的可能的教育惩戒实施方式中，包括了“批评”“加倍劳动”“没收”“静坐”“诵读”“隔离”等等数种，都和“戒尺”丝毫不沾边。这些被拿来郑重讨论的“惩戒方法”，原本就是老师们的惯用手段，并没有突破人们的常规认知，滑向“体罚”。事实也是如此，不论从初衷、具体实施办法等角度考量，惩戒都不等同于体罚。不能因为强调惩戒，而矫枉过正地为体罚背书。 <br/><div class="contheight"></div>教育教学，自有其内在的规律性和科学性所在，这决定了“若无惩戒则无效果，若乱惩戒则后患无穷”。坦诚而公开的讨论，各相关方充分的博弈，是完善惩戒权的前提。从这个角度讲，常州这所小学在强调老师惩戒权这一初心上，没有通过行政命令自上而下地强制推行，而是召开听证会，让校方、家长与学生各抒己见地讨论，共同参与决定这一关系各方利益的大事，不失为一种值得点赞并推广的工作思路和方法。 <br/><div class="contheight"></div>老师有教育的权利，当然也包括对学生的惩戒权。不是说不提惩戒权就没有惩戒，也不是说有了惩戒权就要加剧惩戒。无论人们愿不愿意承认，老师对学生的惩戒都在那里，与其让它处于一种暧昧模糊的状态，当然不如将之体系化、标准化，从而确保可管可控。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 教师惩戒权</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2664407">
+<div class="nbgbox">
+<a class="zan" contid="2664407" href="javascript:;" onclick="voteCont(this)" praisetimes="329">
+                           328</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 教师惩戒权</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2664407&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2664407&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（119）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25437">牛市点线面</a>
+</div>
+<h1 class="news_title">A股跟进杀跌：行业板块全线飘绿，创业板指跌近3%</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林倩</p>
+<p>
+							2018-12-25 11:56<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月25日上午，受到美股暴跌影响，沪深两市股指集体大幅低开，两市低开后整个早盘一路杀跌，创业板指盘中暴跌逾3%。<br/><div class="contheight"></div>截至上午收盘，上证综指下跌2.4%，报收2466.29点；深成指下跌2.69%，报收7193.57点；创业板指下跌2.93%，报收1246.71点。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/483/611.jpg" width="100%"/></div>受隔夜美股重挫影响，亚太股市全线低开。日股盘初直线跳水，日经225指数跌幅迅速扩大至4%，盘中跌逾5%，续创2017年9月以来新低。日经225指数较10月高点下跌20%，进入熊市。<br/><div class="contheight"></div>12月25日的A股盘面上，申万各行业板块无一上涨，全线飘绿。传媒板块领跌两市，广博股份（002103）、三七互娱（002555）、中文在线（300364）、勤上股份（002638）、广电网络（600831）、拓维信息（002261）等跌幅均超过8%。<br/><div class="contheight"></div>建筑装饰板块也有较大跌幅，铁汉生态（300197）跌停，中设股份（002883）、大丰实业（603081）、中国海诚（002116）、东方园林（002310）、中国铁塔（002887）等跌幅超过7%。<br/><div class="contheight"></div>钢铁板块也表现乏力，万方发展（000638）、中国宝安（000009）、综艺股份（600770）、美都能源（600175）、江泉实业（600212）、鲁银投资（600784）等跌幅居前。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/483/615.jpg" width="100%"/></div>对于后市，海通证券投资顾问陆凯认为，目前投资者在目前政策空窗期以及国外圣诞休市的当口观望情绪仍旧浓厚，较上周并无太大变化。因此虽然近期政府不断通过各项会议释放重磅利好，但投资者依旧担忧全球经济的不断走弱会对国内明年的经济形势产生影响，所以近期在如此低的成交量下，投资者更倾向于将资金投入到那些受政策导向的行业、概念以及次新股当中，而主板的权重股少人问津。<br/><div class="contheight"></div>他指出，操作上近期市场应当会继续维持当前窄幅震荡走势，所以依旧维持上周观点，建议投资者在当前阶段以控制仓位，持币观望为主。<br/><div class="contheight"></div>东兴证券认为，对于绝对收益和中长期投资者，仅从权益资产的角度出发，认为当前A股的估值水平已存在配置价值。但是估值够低很多时候不可能是具备投资价值的充要条件，不跌不代表可买。<br/><div class="contheight"></div>“展望后市，认为经济大概率的托底、央行腾挪空间的放开，以及一系列刺激政策的出台等因素构成了对于权益类资产乐观的更重要的依据，建议从自下而上角度针对优质个股进行积极增配。 ”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙扶<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; A股</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772138">
+<div class="nbgbox">
+<a class="zan" contid="2772138" href="javascript:;" onclick="voteCont(this)" praisetimes="20">
+                           19</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: A股</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772138&caid=25437",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772138&amp;caid=25437" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（34）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

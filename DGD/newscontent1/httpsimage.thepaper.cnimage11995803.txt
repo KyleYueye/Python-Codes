@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜牛奶兑水了，可真的奶被谁喝了？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 方华康</p>
+<p>
+							2018-11-06 15:08<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2603228" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜牛奶兑水了，可真的奶被谁喝了？" src="//image.thepaper.cn/image/11/972/601.jpg"/>
+</a>
+<div class="atlas_360_txt">大理一幼儿园被指给孩子喝兑水牛奶， 官方：园长已被辞退<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">近日，有网友反映：云南大理问古斋国学幼儿园拿兑水的牛奶给孩子喝，饭菜使用劣质食材，还克扣孩子的伙食。之后，云南大理省级旅游度假区管理委员会官方微博“大理旅游度假区”发布调查情况通报称，园方总部已辞退了该幼儿园园长，并立即组织全园幼儿到大理市妇幼保健医院进行体检。<br/><div class="contheight"></div>牛奶兑水看似“微不足道”，然而，一杯兑过水的牛奶却毁坏了人心、触碰了底线。牛奶里多加一瓢水，少加一瓢水，一般人也很难看出来，喝兑水奶的又是幼儿园的孩子，根本不会质疑投诉。如果这次不是家长偶然之间发现孩子喝的奶完全没有奶味，事件还不会东窗事发。这种小事恰恰是考验一个社会良心的地方，也是必须防微杜渐，高度警惕的。<br/><div class="contheight"></div>如果牛奶兑水可以不被重视，奶粉投毒（已然尘封在公众记忆中的三聚氰胺事件）又岂不能容忍？这并非危言耸听，“祸患常积于忽微”，否则付出的必将是让所有人始料不及的沉重代价，幼儿园今天敢往牛奶里兑水，明天会兑什么？<br/><div class="contheight"></div>近年来，幼儿园发生的一系列恶性事件，一再突破我们的道德认知底线。相较于之前个别幼儿园残忍的虐童行径，这位校长的表现似乎要“仁慈”得多。然而他们的所作所为同样是对社会规则的粗暴践踏，在完成自我救赎之前都丝毫不能得到谅解。<br/><div class="contheight"></div>事实上，这已经不是“幼儿园食品安全”领域为我们敲响的第一次警钟了。2018年9月，安徽芜湖童馨幼儿园给学生食用发臭鸡腿、霉变生虫大米，引发广泛关注。<br/><div class="contheight"></div>国家市场监管总局颁布的《餐饮服务食品安全操作规范》规定，食堂要每天对采购来的食品及原料分类进行台账记录，每个环节都要有相关人员的签字、盖章，确保责任到人，一旦食品出现问题都可以追溯。一些学前教育专家表示，我国已经出台的关于学校、托幼机构的食品安全规定可操作性很强，如果严格按照标准做，大多数暴露出的相关问题是可以避免的。<br/><div class="contheight"></div>单纯依靠内部监督当然极易沦为“老猫守鱼摊”式的监守自盗。食药监部门要担负起守土之责，切实监管、整治幼儿园食品安全乱象。<br/><div class="contheight"></div>幼儿园是每个孩子人生的始发站，比监管更重要的是每个管理者的爱心和敬畏心。敬畏规则，更当保有良知。一杯兑过水的牛奶，败坏的是良心，连孩子的食物都要克扣，还何以为人？牛奶兑水了，可真的奶被谁喝了？杜绝这种问题并不轻松。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 幼儿园牛奶兑水</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2605986">
+<div class="nbgbox">
+<a class="zan" contid="2605986" href="javascript:;" onclick="voteCont(this)" praisetimes="212">
+                           211</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 儿童牛奶</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2605986&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2605986&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（631）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

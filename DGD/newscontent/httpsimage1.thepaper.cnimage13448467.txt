@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">《求是》：必须坚持马克思主义指导地位</h1>
+<div class="news_about">
+<p>姜辉/《求是》</p>
+<p>
+							2018-12-24 12:32<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">创新是改革开放的生命，理论创新是实践创新的先导。40年来，改革开放与马克思主义创新发展是相互促进、相辅相成、有机统一的历史进程。马克思主义中国化的创新成果指引改革开放的伟大实践，改革开放的伟大实践推动马克思主义中国化的理论飞跃。<br/><div class="contheight"></div>在坚持和发展的有机统一中推进马克思主义中国化新飞跃。马克思主义是我们立党立国的根本指导思想，背离或放弃马克思主义，我们就会失去灵魂、迷失方向。中国特色社会主义是社会主义，不是别的什么主义。40年来，我们党始终保持清醒坚定，保持强大前进定力，既不走封闭僵化的老路，也不走改旗易帜的邪路，而是坚定不移走中国特色社会主义道路。同时坚持解放思想、实事求是、与时俱进、求真务实，勇于推进理论创新。改革开放以来特别是党的十八大以来，我们党发展马克思主义的最集中体现、最新理论成果，就是形成了习近平新时代中国特色社会主义思想，实现了马克思主义中国化的新飞跃。<br/><div class="contheight"></div>在回答时代新课题中开辟马克思主义发展新境界。改革开放以来，几代中国共产党人接续回答“什么是社会主义、怎样建设社会主义”“建设一个什么样的党、怎样建设党”“实现什么样的发展、怎样发展”等一系列时代课题，形成了中国特色社会主义理论体系。党的十八大以来，以习近平同志为核心的党中央带领全党从理论和实践的结合上系统回答“新时代坚持和发展什么样的中国特色社会主义、怎样坚持和发展中国特色社会主义”这个重大时代课题，形成了习近平新时代中国特色社会主义思想，构建了21世纪马克思主义的最新理论形态。这一伟大思想，科学回答时代之问、人民之问，进一步深化了对共产党执政规律、社会主义建设规律、人类社会发展规律的认识，为发展马克思主义作出了原创性贡献。<br/><div class="contheight"></div>立足中国实际，继续坚持和发展马克思主义。世界每时每刻都在发生变化，中国也每时每刻在发生变化，时代变化和我国发展的广度和深度远远超出了马克思主义经典作家的想象。这就要求我们必须在理论上跟上时代，不断认识规律，不断推进理论创新、实践创新、制度创新、文化创新以及其他各方面创新。习近平总书记指出：“新中国成立以来特别是改革开放以来，中国发生了深刻变革，置身这一历史巨变之中的中国人更有资格、更有能力揭示这其中所蕴含的历史经验和发展规律，为发展马克思主义作出中国的原创性贡献。”我们要坚持用马克思主义基本原理观察时代、解读时代、引领时代，强化问题意识、时代意识、战略意识，及时总结党领导人民创造的新鲜经验，用鲜活丰富的当代中国实践推动马克思主义发展，以更加宽阔的眼界审视马克思主义在当代发展的现实基础和实践需要，继续发展21世纪马克思主义、当代中国马克思主义，使马克思主义放射出更加灿烂的真理光芒。（作者：中国社会科学院马克思主义研究院党委书记、院长，习近平新时代中国特色社会主义思想研究中心执行主任）<br/><div class="contheight"></div>（原题为《必须坚持马克思主义指导地位》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 马克思主义,创新</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768232">
+<div class="nbgbox">
+<a class="zan" contid="2768232" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 马克思主义</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768232&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768232&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

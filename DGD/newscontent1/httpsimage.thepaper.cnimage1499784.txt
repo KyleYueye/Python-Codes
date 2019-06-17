@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">世界首富亚马逊公司CEO贝佐斯决定与妻子离婚</h1>
+<div class="news_about">
+<p>刁世峰/海外网</p>
+<p>
+							2019-01-10 06:13<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><span style="color: rgb(128, 128, 128);"><div style="text-align:center;"><img alt="" height="337" src="http://image.thepaper.cn/www/image/14/99/790.jpg" width="600"/></div>杰夫·贝佐斯（右）与麦肯齐·贝佐斯（左）。本文图片均为 海外网 图</span><br/><div class="contheight"></div>海外网1月9日消息，据CNBC报道，现年54岁亚马逊公司（Amazon）首席执行官杰夫·贝佐斯（Jeff Bezos）1月9日决定与妻子麦肯齐·贝佐斯(MacKenzie Bezos)离婚，结束长达25年的婚姻生活。<br/><div class="contheight"></div>“希望各位能同我们的家人和密友一样，知悉我们生活的新进展。经过很长一段时间分分合合，我们决定离婚并在今后以朋友的身份相处。”杰夫·贝佐斯于9日以双方的名义发布推文，公布离婚消息。声明还称，“我们非常幸运能遇到彼此，并对这段婚姻中的点点滴滴深表感激。即使在25年前便预知这场分离，我们仍会选择在一起。作为夫妻，我们曾共同度过美好的生活；作为父母、朋友和在工作等一些项目上的伙伴，同是热爱冒险的人，我们都曾看到过美好的未来。”CNBC报道中还提到，二人于去年创办的“第一日基金”（Day One Fund）将继续运作。离婚消息公布后，亚马逊公司股价略有下跌。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="600" src="http://image.thepaper.cn/www/image/14/99/791.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">杰夫·贝佐斯以双方的名义发布推文公布离婚消息。</span><br/><div class="contheight"></div>据了解，麦肯齐·贝佐斯现年48岁，是一名小说家，曾是杰夫·贝佐斯离开华尔街、投身互联网事业的坚定支持者，也因此在亚马逊公司的创业发展史中屡有提及。外媒报道称，麦肯齐·贝佐斯从普林斯顿大学毕业后，在投资管理公司D.E.Shaw担任研究助理，贝佐斯当时是该公司的副总裁之一二人相识不到一年便选择结婚。1994年，这对夫妇辞掉了工作，前往西雅图创建亚马逊。麦肯齐是当时亚马逊的会计，也是亚马逊最早的员工之一。<br/><div class="contheight"></div>福布斯实时富豪榜显示，杰夫·贝佐斯目前身家1369亿美元，为世界首富。<br/><div class="contheight"></div>（原题为《世界首富亚马逊公司CEO贝佐斯决定与妻子离婚》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 亚马逊,贝佐斯,离婚</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2834563">
+<div class="nbgbox">
+<a class="zan" contid="2834563" href="javascript:;" onclick="voteCont(this)" praisetimes="187">
+                           186</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 亚马逊</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2834563&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2834563&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（53）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

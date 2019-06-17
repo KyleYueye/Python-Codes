@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">上海部署元旦春节安保工作，力争实现禁放区域“零燃放”</h1>
+<div class="news_about">
+<p>澎湃新闻记者 杨帆 通讯员 郑法玮</p>
+<p>
+							2018-12-26 19:37<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月26日，上海市召开2019年元旦春节平安工作视频会议，部署做好2019年元旦春节期间全市社会面防控、社会稳定、安全生产、烟花爆竹安全管控、城市安全运行等各项工作。上海市委常委、市委政法委书记陈寅出席会议并强调，要齐抓共管，形成合力，全面打好新年度社会平安稳定、城市安全运行“第一仗”。<br/><div class="contheight"></div>陈寅指出，当前上海社会治安稳定、城市安全运行以及反恐工作形势还面临诸多不安定因素。各相关部门要进一步提高认识，切实增强做好元旦春节平安工作的责任感、紧迫感。要突出重点，有的放矢，切实加强预测预警、加强源头治理、加强科技应用，严格落实“谁主管谁负责”和“属地管理”责任，筑牢安全防线，确保社会大局持续稳定。要坚持群防群治，扎实推进烟花爆竹安全管控工作，并结合扫黑除恶专项斗争，严厉打击各类严重违法犯罪活动，净化社会治安环境，让全市人民群众在平安中欢度喜庆祥和的新春佳节。<br/><div class="contheight"></div>上海市副市长、市公安局局长龚道安主持会议。武警上海市总队政委黄德华参加会议。<br/><div class="contheight"></div>记者从会上了解到，2019年烟花爆竹安全管控工作，按照 “专群结合、以专带群”和“属地管理”原则，进一步固化近年来上海烟花爆竹安全管控工作经验，组织发动全市平安志愿者，在公安民警等专业力量指导、带领下，在2019年重点时段，加强居民小区、重点线路巡查巡防；及时制止非法燃放烟花爆竹行为；带头遵守“禁燃令”；积极开展烟花爆竹安全管控社会面宣传。按照“目标不变、标准不变、措施不变”的要求，力争实现禁放区域“零燃放”、烟花爆竹引发“零火灾”，确保城市公共安全。<br/><div class="contheight"></div>按照《上海市烟花爆竹安全管理条例》规定，禁止燃放区域和时段如下：<br/><div class="contheight"></div>（一）禁止在外环线以内区域燃放烟花爆竹<br/><div class="contheight"></div>（二）禁止在外环线以外区域的下列场所燃放烟花爆竹<br/><div class="contheight"></div>1.国家机关驻地<br/><div class="contheight"></div>2.文物保护单位<br/><div class="contheight"></div>3.车站、码头、机场等交通枢纽，轨道交通设施以及铁路线路安全保护区内<br/><div class="contheight"></div>4.易燃易爆危险物品生产、经营、储存单位<br/><div class="contheight"></div>5.输变电、燃气、燃油等能源设施安全保护区内<br/><div class="contheight"></div>6.医疗机构、幼儿园、学校、养老机构<br/><div class="contheight"></div>7.商场、集贸市场、公共文化设施、宗教活动场所等人员密集场所<br/><div class="contheight"></div>8.使用易燃可燃外墙保温材料的高层建筑、耐火等级较低的建筑物<br/><div class="contheight"></div>9.区人民政府划定并公布的其他区城、场所<br/><div class="contheight"></div>（三）重污染天气期间，上海一律禁止燃放烟花爆竹<br/><div class="contheight"></div>根据市烟花爆竹安全管控工作领导小组部署安排，2018年底至2019年平安志愿服务4个重点时段为<br/><div class="contheight"></div>1. 2018年12月31日（元旦前夕）20时至22时<br/><div class="contheight"></div>2. 2019年2月4日（除夕）20时至次日1时<br/><div class="contheight"></div>3. 2019年2月8日（年初四）20时至次日1时<br/><div class="contheight"></div>4. 2019年2月19日（元宵节）20时至24时</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：高文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 元旦,春节,平安工作</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2777253">
+<div class="nbgbox">
+<a class="zan" contid="2777253" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 春节</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2777253&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2777253&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

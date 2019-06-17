@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜携号转网，运营商能否不再打小九九？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 夏熊飞</p>
+<p>
+							2018-12-03 11:48<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2697253" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜携号转网，运营商能否不再打小九九？" src="//image.thepaper.cn/image/12/813/879.jpg"/>
+</a>
+<div class="atlas_360_txt">天津等五省市推携号转网受理新流程，用户可短信查询资格<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">据工业和信息化部消息，天津、海南、江西、湖北、云南五省(市)12月1日起，推出携号转网新业务受理流程，用户可发送短信进行携转资格查询，办理完携转业务后1个小时内(到下一个整点时刻)即可正式携转到新的运营商。<br/><div class="contheight"></div>所谓携号转网，就是手机用户可以在不换号码的情况下更换不同的电信运营商。其实，普通用户对于这一服务可谓望穿秋水。一则，用户可以根据资费优惠程度、网速快慢、服务质量几何等，自行挑选运营商；二则，因为一些运营商只求增量不顾存量，即只注重追求新用户的增长数量，而不照顾老用户的权益，很多优惠活动只针对新用户，老用户完全无法享受，携号转网能让一些老用户变身新用户，享受更多实惠。 <br/><div class="contheight"></div>反过来说，运营商之所以明目张胆地“喜新厌旧”，就是因为用户无法简单自如地携号转网。用户选择其他运营商，就意味着要更改号码，加之实名制的普及，而办理银行业务、手机应用注册等大量的场合，都需要通过手机验证码操作，仅仅变更各种预留的手机号码都是个巨大的繁琐工程。所以很多老用户即使遭到了运营商不公正的对待，碍于变更手机号码带来的麻烦，也只能选择忍气吞声。<br/><div class="contheight"></div>实际上，此次并非工信部首次提出携号转网。据报道，2010年11月，工信部在天津、海南开展携号转网试点工作。两年后，两地成功携号转网的数量越来越少，后来几乎陷入停滞。截至2013年7月，携号转网用户也只有6万左右，累计成功率仅为0.27%。2014年9月，第二批携号转网试点在江西、湖北、云南三省落地实施。但由于手续繁琐，需要到相关运营商指定的营业厅办理携转业务，市场反应同样冷淡。 <br/><div class="contheight"></div>也就是说，携号转网试点已经过去8个年头，但真正成功办理者微乎其微。这其中，固然有牵涉到运营商之间结算及技术方面的问题，但如果仅是这些问题，不可能8年都未能解决。要知道，在日本、欧洲、印度等多个国家或地区，携号转网是常规操作，步骤也非常简单。 <br/><div class="contheight"></div>可见最大难点不在技术层面，而是各大运营商在打着自己的小算盘，担心一旦全面放开，会造成用户数量的减少，损害自己的利益。更重要的是，一旦用户可携号转网，在遭遇资费贵、服务差等问题时，就会用脚投票。这样，运营商在与用户的博弈中就会丧失主动权，这是运营商不愿意看到的。 <br/><div class="contheight"></div>携号转网可以说是一直在试点，但在广大用户认知中，却并不接地气，总是只听见呼喊，却未见真正有效的政策落实。此次五省(市)推出更加便捷的携号转网新流程，能否打破用户心中的固有印象，让携号转网真正惠及用户，亦需要时间与实践来检验。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 携号转网</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2699092">
+<div class="nbgbox">
+<a class="zan" contid="2699092" href="javascript:;" onclick="voteCont(this)" praisetimes="197">
+                           196</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 携号转网</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2699092&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2699092&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（87）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25435">金改实验室</a>
+</div>
+<h1 class="news_title">中国社科院报告：个人经营性融资规模40年增长超1000倍</h1>
+<div class="news_about">
+<p>澎湃新闻记者 蒋梦莹</p>
+<p>
+							2018-12-26 19:38<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月25日，中国社会科学院国家金融与发展实验室联合金融科技公司友信金服在京发布《中国个人融资四十年发展与创新报告（1978-2018）》（以下简称《报告》）。<br/><div class="contheight"></div>《报告》是国内首份剖析改革开放40年间，个人融资在不同时期发展历程的研究报告。本次报告课题组成员、国家金融与发展实验室高级研究员黄国平称，个人融资根据用途的不同主要分为个人消费性融资和个人经营性融资，其对促进消费和小微民营经济发展具有重要作用。<br/><div class="contheight"></div>在个人经营性融资方面，《报告》指出，小微企业是实体经济中最活跃的部分，但由于小微企业缺乏信用历史、可供抵押担保的资产以及规范化的财务信息，致使金融机构在服务小微企业时存在信用难评估、贷款难发放的情况。因此，小微企业在融资过程中经常需要以个人信用为补充才能获得足够的资金，甚至只能依赖于小微企业主的个人信用才能获得融资。中国个人经营性融资发展与创新绝对规模上升很快，从1978年的152.8亿，增长到2017年15.64万亿元，规模增长超过1000倍。<br/><div class="contheight"></div>《报告》中提到，改革开放初期，中国公有制经济尚处于绝对独占地位，随着农村包产到户促进生产力释放以及下乡知青返城就业紧张等问题，政府开始允许自主择业，催生出第一批个体户。至1987年底，中国私营企业达到9万多户，从业人员约164万人。<br/><div class="contheight"></div>《报告》数据显示，中国个人经营性融资在 2009年后开始加快扩张，供给来源多元化，从3.7万亿元一路增长至2017年的13.1万亿。<br/><div class="contheight"></div>《报告》中将个人经营性融资的资金来源以四大类别进行测算：银行业、以P2P网贷为代表的新金融、小额贷款公司和民间金融。根据测算，以2018年数据为例，在总额15.6万亿元的个人经营性融资供给余额中，银行、网贷、小贷公司、民间金融的数据分别为近10万亿元、0.29万亿元、0.34万亿元、5万亿元，其中银行仍然是服务个人经营性融资的主力军，但同时其他多种新兴金融业态也有效提供了补充和支持作用。<br/><div class="contheight"></div>以P2P网贷为例，《报告》测算显示，网贷对个人经营性融资的供给一直在加速，与整体行业发展爆发期同步，至2017年，网贷个人经营性融资余额测算已达0.38万亿元。<br/><div class="contheight"></div>从单一平台数据也可以看出网贷对个人经营性信贷的供给情况。《报告》显示，以个体经营性融资撮合为主要业务的人人贷，年度累计成交金额从2011年的0.4亿元增长至2018 年的745.14亿元（数据截至2018.11.30），其中近80%的借款用途为小微企业的经营性资金周转。<br/><div class="contheight"></div>《报告》也指出，尽管中国目前以银行为主、新兴业态为辅的个人经营性融资供给在过去40年间实现了飞跃式的发展，但融资缺口依旧很大，同时，由于金融结构导致的金融排斥以及信息不对称所带来的金融供给不足都给个人经营性融资带来了发展挑战。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑景昕<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2777390">
+<div class="nbgbox">
+<a class="zan" contid="2777390" href="javascript:;" onclick="voteCont(this)" praisetimes="11">
+                           10</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 民企融资</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2777390&caid=25435",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2777390&amp;caid=25435" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

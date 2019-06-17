@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25423">人事风向</a>
+</div>
+<h1 class="news_title">谢娜担任中国儿童少年基金会“关爱儿童亲善大使”</h1>
+<div class="news_about">
+<p>中国妇女报微信公众号</p>
+<p>
+							2019-01-08 22:33<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月8日，中国儿童少年基金会授予谢娜“关爱儿童亲善大使”荣誉称号。中国儿童少年基金会秘书长朱锡生向谢娜颁发荣誉证书。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/59/554.jpg" width="100%"/></div><span style="color: rgb(128, 128, 128);">本文图片均来自中国妇女报微信公众号</span><br/><div class="contheight"></div>近年来，中国儿童少年基金会在持续推进公益扶贫类项目的同时，扎实推进家庭亲子类公益项目，在服务家庭、家教和家风建设发挥出了积极作用。如“幸福万家·母婴1000天健康行动”为新婚育龄家庭提供教育课堂和知识读本；“恒爱行动——百万家庭亲情一线牵”通过为孤困儿童编织爱心毛衣，促进家庭联谊和民族团结交流；还有关注亲子共读的“阅成长计划”，传承良好家风的“善本阅读计划”，在社区、学校捐建亲子阅读馆，邀请家庭教育专家开展家庭教育巡讲、原创故事分享会等。中国儿童少年基金会希望携手谢娜，号召广大家长做好孩子的“第一任老师”、履行好家庭“第一课堂”的责任。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/59/555.jpg" width="100%"/></div>谢娜在接受、担任中国儿童少年基金会“关爱儿童亲善大使”时认为，家庭是孩子的第一课堂，良好的家风、和谐的家庭氛围，即是人生第一课，也是家长送给孩子最好的礼物。不论是作为一名公众人物，还是一名年轻的妈妈，注重言传身教，呼吁更多的人重视家庭教育是我们义不容辞的义务和责任，期待能有更多爱心人士一起为和谐而美好的家庭氛围共同努力。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/59/556.jpg" width="100%"/></div>近年来，谢娜一直投身公益，2018年为母校四川广播电影电视学院设立“谢娜奖学金”，此前也多次为家乡中江县基层学校和卫生院捐赠教育和医疗物资，还曾探望并捐助儿童复杂性先天性心脏病患儿；在云南香格里拉捐建小学等。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/59/557.jpg" width="100%"/></div>据悉，中国儿童少年基金会将联合谢娜于2019年推出“美好家庭”等公益项目，拟邀请家庭教育专家、演艺明星录制音频、视频，在线上传播家庭教育理念和良好家风。作为“关爱儿童亲善大使”的谢娜表示，将切实承担亲善大使的责任，定期探访孩子们，给他们送去关爱和温暖。<br/><div class="contheight"></div>（原题为《谢娜担任中国儿童少年基金会“关爱儿童亲善大使”》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 谢娜,儿童</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2830115">
+<div class="nbgbox">
+<a class="zan" contid="2830115" href="javascript:;" onclick="voteCont(this)" praisetimes="217">
+                           216</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 谢娜</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2830115&caid=25423",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2830115&amp;caid=25423" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（56）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

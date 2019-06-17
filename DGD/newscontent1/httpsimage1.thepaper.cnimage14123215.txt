@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">中国联通：联通运营公司获准发行不超过500亿元公司债券</h1>
+<div class="news_about">
+<p>澎湃新闻</p>
+<p>
+							2019-01-10 17:54<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月10日晚间，中国联通（600050）发布公告称，收到控股子公司——中国联合网络通信（香港）股份有限公司之全资附属公司中国联合网络通信有限公司通知，证监会核准联通运营公司向合格投资者公开发行面值总额不超过人民币500亿元的公司债券，采用分期发行方式；首期发行自证监会核准发行之日起12个月内完成；其余各期债券发行，自证监会核准发行之日起24个月内完成；批复自核准发行之日起24个月内有效。<strong><br/><div class="contheight"></div>附：中国联合网络通信股份有限公司关于中国联合网络通信有限公司获中国证监会核准发行公司债券的公告</strong><br/><div class="contheight"></div>本公司收到控股子公司-中国联合网络通信（香港）股份有限公司之全资附属公司中国联合网络通信有限公司（以下简称“联通运营公司”）通知，告知其已获得中国证券监督管理委员会（以下简称“证监会”）出具的《关于核准中国联合网络通信有限公司向合格投资者公开发行公司债券的批复》（证监许可〔2019〕17号），就联通运营公司相关事项批复如下：<br/><div class="contheight"></div>核准联通运营公司向合格投资者公开发行面值总额不超过人民币500亿元的公司债券，采用分期发行方式；首期发行自证监会核准发行之日起12个月内完成；其余各期债券发行，自证监会核准发行之日起24个月内完成；批复自核准发行之日起24个月内有效。<br/><div class="contheight"></div>公司将积极推进相关工作，并及时履行信息披露义务。<br/><div class="contheight"></div>特此公告。<br/><div class="contheight"></div>中国联合网络通信股份有限公司<br/><div class="contheight"></div>二〇一九年一月十日</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陈宇曦<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中国联通</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837243">
+<div class="nbgbox">
+<a class="zan" contid="2837243" href="javascript:;" onclick="voteCont(this)" praisetimes="25">
+                           24</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中国联通</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837243&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837243&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

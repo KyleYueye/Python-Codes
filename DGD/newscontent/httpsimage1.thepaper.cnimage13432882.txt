@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">法国“黄背心”示威活动进入第六轮，人数减少但诉求不减</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-23 18:42<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">法国“黄背心”抗议活动进入到第六轮，示威的规模开始变小，人数较之前也有所下降，但示威者诉求依旧不减。<br/><div class="contheight"></div>Europe 1电台援引法国内政部消息称，截至当地时间22日晚18时，当天全法“黄背心”示威者人数超过3.8万人，从上周六（12月15日）的约6.6万人降至38600人。<br/><div class="contheight"></div>巴黎警方表示，当天有2000人在法国首都巴黎示威，而上周六的这一人数是4000人。<br/><div class="contheight"></div>俄罗斯卫星通讯社23日援引法国France Info电台报道，在22日的示威活动中，220人在抗议活动期间被警方拘留，81人被羁押。在当天的抗议活动中，抗议者在香榭丽舍大道与警方发生冲突，致使执法人员使用了催泪瓦斯和水枪。<br/><div class="contheight"></div>11月17日起，为了反对法国政府提高燃油税，身着黄马甲的法国民众开始每周六在全国各地举行大规模抗议活动。此后，抗议活动一发不可收拾，示威抗议逐渐从对上调燃油税的不满扩散至对法国其他经济改革的不满。不少混入抗议队伍的破坏分子破坏建筑文物，燃烧汽车，给法国社会造成了较大的混乱。12月10日，法国总统马克龙同意停止上调燃油税，但是表示将继续推进改革，不过这依旧无法阻挡示威者继续走上街头反对政府。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 法国,马克龙,黄背心</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766553">
+<div class="nbgbox">
+<a class="zan" contid="2766553" href="javascript:;" onclick="voteCont(this)" praisetimes="21">
+                           20</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 巴黎“黄背心”抗议</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766553&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766553&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

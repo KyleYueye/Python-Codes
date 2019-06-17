@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">“俄罗斯女特工”认罪，承认替俄渗透美国政界</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-14 14:33<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="337" src="http://image.thepaper.cn/www/image/13/183/531.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">当地时间2018年12月13日，美国华盛顿，</span><span style="color: rgb(128, 128, 128);">布京娜（Maria Butina）在华盛顿联邦法院承认自己在美国境内从事间谍活动，影响美国对俄政策。 视觉中国 图</span><br/><div class="contheight"></div>当地时间周四（13日）上午，被指控为俄罗斯特工的30岁女子布京娜（Maria Butina）在华盛顿认罪，布京娜承认企图渗入美国共和党政界，并在2016年总统大选前后影响美国与俄罗斯的关系。<br/><div class="contheight"></div>“布京娜试图与有政治影响力的美国人建立非正式沟通渠道，”美国有线电视新闻网（CNN）援引联邦检察官称，布京娜承认受到某俄罗斯官员的“指导”。<br/><div class="contheight"></div>周四庭审现场，当法官问布京娜是否承认2015年初至2018年初曾参与针对美国的阴谋时，她回答“是的”。法官随后问道，她是否明白认罪意味着放弃受审判权和上诉权等权利，她也给出了肯定回答。布京娜在庭上表示，她没有得到“认罪换减刑”的承诺，也没有被施压，是自愿与检方达成认罪协议的。<br/><div class="contheight"></div>法官宣布接受布京娜的认罪，称本案的下一次聆讯将于2019年2月12日举行，届时将讨论宣判日期。法官表示，布京娜最高面临5年监禁或25万美元以下罚款；不排除布京娜可能会在服刑后被遣返，但遣返决定应由其他部门作出。<br/><div class="contheight"></div>俄罗斯卫星社报道称，法官没有定下宣判日期，以便让布京娜有时间与美国当局合作。另据CNN报道，布京娜正在配合检方完成对其“男友”、50多岁的美国保守派政治活动家埃里克森（Paul Erickson）的调查。依据她的认罪协议，布京娜可能被判零到六个月监禁。目前她已入狱5个月，很有可能会在完成刑期后被美国政府驱逐出境。<br/><div class="contheight"></div>CNN此前报道称，布京娜的“合作”将主要体现在告诉调查人员埃里克森的角色以及她与俄方联系人的互动。CNN还分析认为，美国检方口中的俄罗斯官员为65岁的俄罗斯银行家托尔申（Alexander Torshin）。托尔申2018年7月刚从俄罗斯中央银行副行长任上退休，布京娜一度与他关系密切，两人曾一同与特朗普的儿子小特朗普（Donald Trump Jr.）见面。此前，托尔申已因涉嫌干预美国大选被调查，今年4月被美国财政部列为制裁的23名俄罗斯公民之一。<br/><div class="contheight"></div>《卫报》7月援引一对拥枪的俄罗斯夫妇的回忆称，托尔申是布京娜的导师，他们四人曾在2013年莫斯科的一场"持枪权"大会上共进晚餐。<br/><div class="contheight"></div>今年7月15日，美国司法部在华盛顿拘捕俄罗斯女子布京娜，指控她涉嫌合谋渗透包括全国步枪协会（NRA）在内的美国政治机构，并以“自己与俄罗斯政府有联系”为由，屡次试图与美国总统特朗普接触。根据公布的相关法庭文件，这名刚从美利坚大学国际关系学院毕业的女子出生于1988年11月，持学生签证旅居美国，与美国政治活动家埃里克森同居，称其为自己的男朋友。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘惠<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美俄关系,俄罗斯,间谍</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2738302">
+<div class="nbgbox">
+<a class="zan" contid="2738302" href="javascript:;" onclick="voteCont(this)" praisetimes="175">
+                           174</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 俄罗斯特工</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2738302&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2738302&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（43）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

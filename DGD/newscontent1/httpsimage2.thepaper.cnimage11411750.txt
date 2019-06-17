@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">深观察｜极端个案多发，社会心理服务不能总是短板</h1>
+<div class="news_about">
+<p>澎湃特约评论员 林上军</p>
+<p>
+							2018-10-18 08:23<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="385" src="http://image.thepaper.cn/www/image/11/411/766.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">2018年10月10日，北京，市心理健康体验周活动在中国科学技术馆拉开序幕。图为观众体验智能反馈击打宣泄系统。 视觉中国 图</span><br/><div class="contheight"></div>不久前，笔者曾做过一个调查，某市唯一的精神病院门诊人次、住院人次与5年前相比，分别增长58.76%、57.95%。近年来，当地间歇性精神病人犯罪数量呈上升趋势，甚至出现一名男性间歇性精神病患者持刀砍死了自己的亲生父亲，并砍伤自己亲生母亲的惨案。近期一些地方出现的砍人等极端个案，再次敲响加强社会心理服务体系建设的警钟。打开网络页面，各地因戾气造成的恶性事件频繁发生。<br/><div class="contheight"></div>经济越发达、社会越发展、竞争越激烈，社会成员心里问题越多，面越广，这是一个客观规律，是发展中的问题，不值得大惊小怪，何况中国是一个人口大国。社会是由人组成的，而人是受心理支配的。<br/><div class="contheight"></div>如今，人们口头甚至心里上也都知道解决心理问题的重要性，但具体到处理方法、应对措施，被动和消极的居多，没有像样的管用的预备方案和运转机制。所以，对于这一问题，关键是看我们是否提前化解，有效疏导，是否重视并积极落实社会心理服务体系建设。<br/><div class="contheight"></div>据专业人士介绍，目前重性精神障碍（主要指：精神分裂症，双相情感障碍，偏执性精神障碍，分裂情感性精神障碍，癫痫所致精神障碍，严重精神发育迟滞），其在急性发病期，精神症状明显，具有冲动暴力等行为异常者对社会危害相对较大。当然，也不排除因为口角纠纷、挑战道德底线导致相关人员产生冲动之举。<br/><div class="contheight"></div>近年来，从国家层面到各级相关部门，在构建社会心理服务体系方面已做了大量工作，但从实际需要分析，尚有不少短板。如精神卫生资源缺乏，精神卫生专业人员比例严重不足。各地均不同程度存在心理咨询机构少、心理健康服务能力低下、精神科医生难招、工作负荷量大以及居民对心理健康认知度不够等问题。其实有的心理病症只要早发现、早治疗可以显著缓解。还有那些失独、离异家庭成员的心理问题，那些一遇挫折就去跳楼的孩子，他们都需要心理健康辅导教育。<br/><div class="contheight"></div>至于那些歇性精神病人，除了在急性发病期间接受专科医院住院治疗外，其余更多时间还需在家中由监护人配合接受长期的药物康复治疗。有的患者没有亲属监护，平常由社区干部、邻居好心人等接济过日；有的患者由于监护人缺乏护理知识，未能按时规范给患者服药，导致病情多次反复；有的监护人年事已高，自身都无人照顾，无力完成监护责任；有的患者由于长期患病不能康复，监护人失去信心。凡此种种，导致患者病情加重，出现危害社会的严重后果。<br/><div class="contheight"></div>当然，社会心理服务体系建设并不仅指现已确认的精神病患者。<br/><div class="contheight"></div>根据2001年到2005年，一项涵盖中国12%成年人的大型调查显示，成年人群精神障碍总现患率为17.5%。其中心境障碍为6.1%，焦虑障碍5.6%，物质滥用障碍5.9%。按这个17.5%的比例来估算，各地具有心理疾病或可能成为精神障碍患者数量惊人。但现实中，健康心理培育、心理健康咨询、心理疾病诊疗等硬件条件在很多地方都是有欠账的。<br/><div class="contheight"></div>对于社会心理服务体系建设，不能一般应付，必须高度重视，持续强化，措施也可以是多方面的，这不仅仅是医疗卫生一家的事情，涉及到社会治理能力、水平。平时要抓好文明道德教育、法制观念教育、优秀文化熏陶，夯实矛盾纠纷化解机制、平安建设机制，扩大文化阵地，完善法律制度。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 精神卫生生 社会心理服务</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2539864">
+<div class="nbgbox">
+<a class="zan" contid="2539864" href="javascript:;" onclick="voteCont(this)" praisetimes="58">
+                           57</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 社会心理服务</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2539864&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2539864&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

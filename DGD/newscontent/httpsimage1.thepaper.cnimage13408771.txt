@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25438">财经上下游</a>
+</div>
+<h1 class="news_title">定了！个税专项附加扣除政策出炉</h1>
+<div class="news_about">
+<p>郁琼源、王锦萱/新华社</p>
+<p>
+							2018-12-22 20:21<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京12月22日消息，历经多轮广泛征求意见后，12月22日，国务院正式对外发布《个人所得税专项附加扣除暂行办法》，标志着我国个税改革迈出综合征税的关键一步，明年起纳税人将获得更大减税。<br/><div class="contheight"></div>暂行办法将伴随新修订的个税法于2019年1月1日起施行。今后纳税人计算个税应纳税所得额，在5000元基本减除费用扣除和“三险一金”等专项扣除外，还可享受子女教育、继续教育、大病医疗、住房贷款利息或住房租金，以及赡养老人等6项专项附加扣除。<br/><div class="contheight"></div>记者对比发现，与不久前公开征求意见版本相比，专项附加扣除范围、标准等部分做了调整，旨在更好回应民意。<br/><div class="contheight"></div>如子女教育方面，明确纳税人的子女在年满3岁后接受学前教育阶段和从小学到博士研究生的全日制学历教育阶段的相关支出，按每个子女每月1000元标准定额扣除，其中高中阶段教育包含技工教育。<br/><div class="contheight"></div>继续教育方面，纳税人接受学历（学位）继续教育的支出，在规定期间可按每月400元定额扣除，但同一学历继续教育的扣除期限不能超过48个月；接受技能人员和专业技术人员职业资格继续教育的支出，在取得相关证书的当年按3600元定额扣除；<br/><div class="contheight"></div>大病医疗方面，纳税人在一个纳税年度内，与基本医保相关的医药费用扣除医保报销后的个人负担，累计超过1.5万元部分，由纳税人在办理年度汇算清缴时，在8万元限额内据实扣除；<br/><div class="contheight"></div>此外，纳税人本人或配偶发生的首套住房贷款利息支出，可按每月1000元标准定额扣除；符合条件的住房租金根据城市的不同，按每月1500元、1100元和800元标准定额扣除；<br/><div class="contheight"></div>赡养老人方面，纳税人赡养年满60岁父母的支出，按照一定标准定额扣除，其中，独生子女按每人每月2000元标准扣除，非独生子女与其兄弟姐妹分摊每月2000元的扣除额度。<br/><div class="contheight"></div>记者了解到，此次暂行办法在出台过程中充分体现了尊重民意。财政部、税务总局事先通过实地调研并与人大代表和政协委员、专家学者、社会公众、基层财税部门座谈等方式，及时掌握第一手情况；在以无方案征求意见方式广听民声基础上，10月20日至11月4日又向社会公开征求意见，并据此对办法进行了修改完善。<br/><div class="contheight"></div>（原题为《定了！个税专项附加扣除政策出炉》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 个人所得税</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2764402">
+<div class="nbgbox">
+<a class="zan" contid="2764402" href="javascript:;" onclick="voteCont(this)" praisetimes="226">
+                           225</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 个人所得税</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2764402&caid=25438",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2764402&amp;caid=25438" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

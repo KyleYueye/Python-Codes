@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">劳尔·卡斯特罗：古巴已准备好面对美国重新采取的对抗态度</h1>
+<div class="news_about">
+<p>朱婉君/新华社</p>
+<p>
+							2019-01-02 11:41<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="750" src="http://image.thepaper.cn/www/image/13/801/461.jpg" width="500"/></div><span style="color: rgb(128, 128, 128);">劳尔·卡斯特罗1日参加古巴革命胜利60周年纪念活动。视觉中国 图</span><br/><div class="contheight"></div>新华社古巴圣地亚哥1月1日电 古巴共产党中央委员会第一书记劳尔·卡斯特罗1日在参加古巴革命胜利60周年纪念活动时表示，古巴已准备好面对美国重新对古采取的对抗态度。<br/><div class="contheight"></div>2019年1月1日是古巴革命胜利60周年纪念日，主场纪念活动在位于古巴圣地亚哥城北部的圣伊菲热尼亚公墓举行。劳尔·卡斯特罗在演讲中谴责美国政府恢复与古对抗局面，并表示古巴对此已有准备，不会畏惧任何威胁，同时要求古巴人民加强防御，进一步认真做好准备，面对美国可能造成的“最糟糕的情况”。<br/><div class="contheight"></div>劳尔·卡斯特罗重申，尽管古美存在差异，但古巴愿意与美国保持“和平、尊重和互利的”双边关系。<br/><div class="contheight"></div>他还在演讲中回顾革命历程，分析革命胜利以来古巴所面临的种种挑战，并声援拉美左翼政府和领导人。<br/><div class="contheight"></div>这是劳尔·卡斯特罗自2018年4月卸任古巴国务委员会主席后第二次发表公开讲话。2018年7月26日，他在圣地亚哥参加古巴“七·二六”起义65周年纪念活动时发表演讲。<br/><div class="contheight"></div>1959年1月1日，古巴革命取得胜利，美国政府随即对古巴采取敌视政策。1961年，美古断绝外交关系。次年，时任美国总统肯尼迪签署法令，对古巴实施经济、金融封锁和贸易禁运。2014年年末，古美两国启动关系正常化进程。2015年7月，两国正式恢复外交关系。但自特朗普2017年1月就任美国总统以来，美方宣布收紧对古政策，禁止美国公司与古巴公司、部门和其他机构进行商务往来。<br/><div class="contheight"></div>（原文标题：《 劳尔·卡斯特罗说古巴已准备好面对美国的对抗态度》 ）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 古巴</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2803523">
+<div class="nbgbox">
+<a class="zan" contid="2803523" href="javascript:;" onclick="voteCont(this)" praisetimes="67">
+                           66</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 古巴</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2803523&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2803523&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

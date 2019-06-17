@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">媒体评制裁遗弃行为：不能总在惨剧落幕后，应降低追责门槛</h1>
+<div class="news_about">
+<p>史洪举/检察日报</p>
+<p>
+							2018-09-19 09:44<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">2017年5月下旬，四川省绵阳市平武县先锋村村组干部到80岁的贫困户张老太爷家走访时，发现其已死在家中。经当地公安机关查明，因生活琐事，去世的张老太爷独自居住，去世前曾多次因病住院。当地的司法所、村委会等多次联系其四女一子共5名子女，但子女方均未有效履行赡养义务。9月13日，法院认定5名子女犯有遗弃罪，分别判处5名子女有期徒刑二年至有期徒刑一年，缓刑二年不等（9月17日澎湃新闻）。<br/><div class="contheight"></div>众所周知，赡养扶助老人不仅是子女的基本道德义务，更是其不可逃避的法律义务。因而，这5名子女对家中老人不管不顾，任由老人自生自灭，最终被判处刑罚并不冤。而从长远来看，相关部门还是应完善规则体系，强化执法力度，不断形成威慑，避免类似悲剧再次发生。<br/><div class="contheight"></div>可以说，现实中，一些人对家中老人不仅未尽到妥善的赡养扶助义务，反而对其不管不问，使本来应得到贴心呵护、颐养天年的老年人处于被遗弃状态。遗弃罪是指负有扶养义务的人，对年老、年幼、患病或者其他没有独立生活能力的人拒绝扶养、情节恶劣的行为。法律规定清楚明白，虽然一些酿成恶果者最终受到了惩罚，但现实中，由于各种因素，难以对未酿成后果的遗弃行为追责惩戒。譬如，被遗弃者往往是年老、年幼、患病等弱势群体，这些人往往行动不便，甚至没有自主表达能力，需要依靠扶养人的帮助才能生存。他们一旦被遗弃之后，向外界或执法机关求助的概率也相对较低，甚至丧失求助能力。而作为施害者的遗弃人，更不可能自投罗网向执法机关求助，或者自曝家丑向基层组织求助。<br/><div class="contheight"></div>这样一来，被遗弃者便处于“自生自灭”的悲惨状态。作为基层组织，对此往往也是无能为力。而且一般来说，很多人倾向于认为遗弃行为属于家务事，外人不便干预。即便介入干预，由于其没有执法权限，也仅能劝说或者对被遗弃者提供微薄的救助，无法提供有效救助，更无法以强制力要求扶养人履行扶养义务。恶性循环之下，只有当出现被遗弃人死亡或者重伤的严重后果后，方能惩戒扶养人，却无法在事前以刚性的规则要求扶养人尽到相应义务。<br/><div class="contheight"></div>必须强调，扶养老人是每一位公民的道德义务和法律义务，尤其在老龄化社会，更应强调子女等扶养人的责任，着重对老年群体的物质保障和精神呵护。如强调基层组织、老年群体权益保护组织的“巡查”“家访”等责任，以便及时发现问题，报告执法机关妥善解决。<br/><div class="contheight"></div>同时，应该强化对遗弃行为的打击力度，不该再等到出现严重结果后方启动追责，而应降低追责门槛，如只要将没有自理能力的老人置于无人管护境地，且经有关机关责令改正两次或三次后仍不改正的，即追究其行为的责任。这样方能倒逼人们尽到扶养义务，让弱势群体受到妥善、全面的保护，不至于境遇凄惨。<br/><div class="contheight"></div>（原题为《制裁遗弃行为不能总在惨剧落幕后》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：顾亚敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 遗弃</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2454831">
+<div class="nbgbox">
+<a class="zan" contid="2454831" href="javascript:;" onclick="voteCont(this)" praisetimes="9">
+                           8</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 遗弃</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2454831&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2454831&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

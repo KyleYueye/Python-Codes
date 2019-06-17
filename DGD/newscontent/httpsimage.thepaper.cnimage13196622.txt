@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25444">社论</a>
+</div>
+<h1 class="news_title">【社论】提振市场信心，打赢改革攻坚战</h1>
+<div class="news_about">
+<p></p>
+<p>
+							2018-12-14 18:16<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="250" src="http://image.thepaper.cn/www/image/13/196/270.jpg" width="600"/></div>12月13日中共中央政治局召开会议，分析研究2019年经济工作。与历年年底召开的中央政治局会议相比，今年会议首次出现“六个稳”——稳就业、稳金融、稳外贸、稳外资、稳投资、稳预期。就年内来说，在7月的政治局会议首提“六个稳”之后，这“六个稳”已经是第三次出现了。<br/><div class="contheight"></div>此外，今年会议中还出现多个首次提法，其中包括“提振市场信心”、“加快经济体制改革”、增强人民群众“安全感”等引人注目的表述。<br/><div class="contheight"></div>面对错综复杂的国际环境和艰巨繁重的国内改革发展稳定任务，今年的政治局会议不仅仅传递出2019年经济工作的重要信号，首提“提振市场信心”，是在改革攻坚时期的一次预期管理——预期是影响市场主体经济决策的基本要素，也是宏观经济理论和政策需要关注的核心变量，充满信心的乐观预期，将会对未来发展产生积极的助推作用。<br/><div class="contheight"></div>在经济转型升级的新常态环境下，经济增长预期出现了一定变化，并反过来对居民、企业和政府行为带来深刻影响。<br/><div class="contheight"></div>12月14日，国家统计局公布11月份国民经济运行情况，新闻发言人毛盛勇表示：最近一段时间，特别是中央召开民营企业家座谈会以后，相继出台了一些稳定民营企业家发展创业信心的政策，“恢复市场信心、优化市场环境是一个持久的过程，要久久为功”，明年固定资产投资有望平稳增长，甚至稳中略升。<br/><div class="contheight"></div>此外，在12月13日晚上，中国人民银行行长易纲演讲中也特别强调：加强预期引导的重要性，即通过多种渠道及时解读政策精神，在债市、汇市、股市出现较大波动时主动发声，引导和稳定市场预期。<br/><div class="contheight"></div>可以说，从中央政治局会议到国家统计局的数据披露，再到央行负责人的表态，都在强调稳定市场预期，提振信心。<br/><div class="contheight"></div>如果我们复盘世界经济史上的波动，会发现经济体从市场的消极态度中走出来的原因，除了周期本身的调整变化，另一种不可或缺的因素正是政府的预期管理发挥了重要作用。欧美市场实践也表明，高效市场预期管理机制有助于从货币到财政政策目标的达成。<br/><div class="contheight"></div>从中长期看，市场预期变化对经济发展与政策效果的影响不断增大。为避免非理性市场波动冲击经济发展与政策目标的达成，未来亟需的是一套行之有效的预期管理机制。因此，更有针对性地加强和完善我国市场预期管理，对适应国内外新变化具有重要的现实意义。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 提振市场信心 六个稳</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2740019">
+<div class="nbgbox">
+<a class="zan" contid="2740019" href="javascript:;" onclick="voteCont(this)" praisetimes="39">
+                           38</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 提振市场信心</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2740019&caid=25444",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2740019&amp;caid=25444" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

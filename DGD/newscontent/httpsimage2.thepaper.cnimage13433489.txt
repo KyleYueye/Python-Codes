@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">农村土地承包法修正草案三审：鼓励进城农民流转土地经营权</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林平</p>
+<p>
+							2018-12-23 19:48<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月23日，《农村土地承包法（修正草案）》提请十三届全国人大常委会第七次会议三审。全国人大宪法法律委副主任委员胡可明在作修改情况的汇报时指出，承包农户进城落户的，鼓励其自愿有偿流转土地经营权。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）注意到，在维护进城落户农户的合法权益上，草案二次审议稿规定，承包期内，承包方全家迁入城镇落户，纳入城镇住房和社会保障体系，丧失农村集体经济组织成员身份的，支持引导其按照国家有关规定转让土地承包经营权益。<br/><div class="contheight"></div>有的常委委员提出，应当进一步维护进城落户农户的合法权益，删除纳入社会保障体系等内容。不久前印发的中央文件对这个问题已有明确精神。<br/><div class="contheight"></div>据此，宪法和法律委员会拟采纳上述意见，将有关规定修改为：“承包期内，承包农户进城落户的，引导支持其按照自愿有偿原则依法在本集体经济组织内转让土地承包经营权或者将承包地交回发包方，也可以鼓励其流转土地经营权。”<br/><div class="contheight"></div>另外，在关于“承包地经营权流转后承包方单方解除土地经营权流转合同”的问题上，草案二次审议稿规定，受让方连续两年以上未按约定支付价款的，承包方可以单方解除土地经营权流转合同。<br/><div class="contheight"></div>有的常委委员和部门、专家提出，有合同就应当按照合同约定处理，未支付价款的情形也有轻重程度之别，不宜作统一规定。<br/><div class="contheight"></div>宪法和法律委员会经研究，建议采纳上述意见，删除这一规定。<br/><div class="contheight"></div>值得一提的是，有关承包地登记的费用，现行农村土地承包法规定，颁发土地承包经营权证或者林权证等证书，除按规定收取证书工本费外，不得收取其他费用。二次审议稿删除了这一规定。<br/><div class="contheight"></div>有的部门、专家和社会公众提出，这一规定实践中效果很好，建议恢复。宪法和法律委员会经研究，建议采纳上述意见，增加相应规定。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：胥辉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 农村 土地承包 经营权</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766678">
+<div class="nbgbox">
+<a class="zan" contid="2766678" href="javascript:;" onclick="voteCont(this)" praisetimes="93">
+                           92</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 土地经营权</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766678&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766678&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

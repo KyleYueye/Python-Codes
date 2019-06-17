@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">国家文物局：整治法人违法，将编制文物平安工程实施规划</h1>
+<div class="news_about">
+<p>施雨岑/新华网</p>
+<p>
+							2019-01-08 21:38<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华网1月8日报道，文物安全是文物工作的底线、红线和生命线。记者从8日召开的全国文物局长会议上获悉，2019年，国家文物局将完善文物安全长效机制，编制文物平安工程实施规划，推进文物安全监管平台建设。<br/><div class="contheight"></div>“文物安全工作永远零起点，在这个问题上永远不能掉以轻心。”国家文物局局长刘玉珠特别指出，法人违法是危害文物安全的顽疾和首要隐患，近年来国家文物局和各地直接督办的文物违法案件中，法人违法案件占比近80%，违法不究或处罚过轻问题突出，一些重大法人违法案件得不到应有的查处。<br/><div class="contheight"></div>基础工作依然是文物工作的短板。据介绍，划定保护范围和建设控制地带是基础工作的重中之重，但通过文物法人违法专项整治行动和不可移动文物遥感监测发现，个别省份所有的国保单位尚未划定公布。<br/><div class="contheight"></div>“这为法人违法行为的整治带来极大的困难，既助长一些地方政府和部门不作为、不履职行为，又为法人违法行为变相开了绿灯，致使一批破坏文物本体和环境风貌的违法违规建设、法人违法案件得不到应有的处理。”刘玉珠说。<br/><div class="contheight"></div>他表示，要持续开展不可移动文物执法遥感监测，继续加大法人违法整治力度，坚持标本兼治、敢于动硬碰硬。要严打文物犯罪，加强隐患整治，强化技术支撑，完善文物违法举报渠道，织牢织密文物安全保护网。<br/><div class="contheight"></div>（原题为《国家文物局：将编制文物平安工程实施规划》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 国家文物局,编制规划,文物平安工程</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828845">
+<div class="nbgbox">
+<a class="zan" contid="2828845" href="javascript:;" onclick="voteCont(this)" praisetimes="13">
+                           12</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国家文物局</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828845&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828845&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

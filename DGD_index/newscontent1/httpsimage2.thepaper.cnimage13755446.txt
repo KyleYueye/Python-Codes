@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">将释放打破朝美僵局信号？金正恩新年贺词引各方关注</h1>
+<div class="news_about">
+<p>参考消息</p>
+<p>
+							2018-12-31 15:04<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">外媒称，韩国总统府说，朝鲜最高领导人金正恩30日致信韩国总统文在寅，呼吁在新的一年里举行更多领导人之间的和平会谈。据美联社12月30日报道，文在寅办公室称，金正恩还对未能按计划于2018年年底前访问韩国首都表示遗憾。青瓦台没有公开信件的全部内容。<br/><div class="contheight"></div>报道称，通过今年文在寅与金正恩之间的三次会谈，韩国与朝鲜同意采取一系列善意举动，并表示要在可能的时候重启经济合作。<br/><div class="contheight"></div>文在寅的发言人说：“金正恩委员长表示，他将密切关注局势，并且表达了访问首尔的强烈意愿。”<br/><div class="contheight"></div>另据韩联社12月30日报道，韩国总统办公室称，朝鲜最高领导人金正恩30日致信韩国总统文在寅，呼吁双方明年继续努力在朝鲜半岛构建和平与繁荣。<br/><div class="contheight"></div>青瓦台发言人金宜谦称，金正恩还说，朝韩领导人今年已采取务实措施，帮助解决双方边境的长期对峙。<br/><div class="contheight"></div>金宜谦说：“金正恩委员长今天向文在寅总统致信。通过信件，他表达了热情洋溢的问候，并表示打算为了半岛的和平与繁荣采取共同行动。”<br/><div class="contheight"></div>金宜谦还说：“金正恩委员长说，两位领导人一年内举行了三次会晤，由此催生了超越长期对峙的积极务实措施。他还强调，他们已使人民摆脱了军事紧张局势和对战争的恐惧。”<br/><div class="contheight"></div>这名韩方发言人说：“金正恩委员长明确表示，他希望2019年也能与文在寅总统经常会晤，以推进关于和平与繁荣的讨论。他还表示有意共同解决半岛无核化问题。”<br/><div class="contheight"></div>另据日本共同社12月30日报道，日本政府正在关注朝鲜最高领导人金正恩将于明年元旦发表施政方针的“新年贺词”内容。有关朝鲜无核化的美朝首脑再次会谈尚未敲定。有意见认为，朝方将表明某种见解以打破僵局。<br/><div class="contheight"></div>在2018年的新年贺词中，出现了金正恩展示有意与韩国改善关系这一变化。日本外交消息人士回顾说，转向和平姿态，“新年贺词是起点”。在此基础上，此人预测，“是继续与美国谈判，还是重返敌对路线，大概会在年初时下判断”。<br/><div class="contheight"></div>此外据韩联社12月30日报道，专家们当日称，朝鲜最高领导人金正恩很可能会在新年讲话中缓和言论，以避免激怒美国，并试图恢复双方长期僵持的无核化谈判的希望。<br/><div class="contheight"></div>报道指出，金正恩一直通过新年讲话提供政策的大致方向。<br/><div class="contheight"></div>报道认为，此次的新年讲话正值一个特别敏感的时刻，因为自金正恩与美国总统特朗普6月举行历史性峰会以来，朝美无核化谈判一直陷入僵局。<br/><div class="contheight"></div>报道称，2018年1月1日，金正恩说愿意派代表团参加在韩国平昌举行的冬奥会，这似乎是一次和平攻势，后来促成了三次韩朝首脑会晤。<br/><div class="contheight"></div>专家预计，这位朝鲜领导人将避免发表强硬言论，以免在试图寻找无核化谈判僵局的突破口之际激怒美国。<br/><div class="contheight"></div>相反，他们预计金正恩会敦促“分阶段”及“同步”执行其与特朗普在6月峰会上达成的协议，并要求解除制裁，以便为与韩国积极的经济合作创造条件。<br/><div class="contheight"></div>报道称，金正恩曾在峰会上承诺致力于朝鲜半岛完全无核化，以换取安全保证和新的朝美关系。<br/><div class="contheight"></div>（原题为：《将释放打破朝美僵局信号？金正恩新年贺词引各方关注》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：廖婧雯<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 金正恩，新年贺词，美朝，文在寅</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2799721">
+<div class="nbgbox">
+<a class="zan" contid="2799721" href="javascript:;" onclick="voteCont(this)" praisetimes="27">
+                           26</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 金正恩</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2799721&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2799721&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

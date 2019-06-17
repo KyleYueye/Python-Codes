@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=38903">上海统计</a>
+</div>
+<h1 class="news_title">上海市民文化休闲消费选择上网流量费较多，比例为68.8%</h1>
+<div class="news_about">
+<p>上海统计</p>
+<p>
+                            2018-12-26 17:56<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard">导语：近期，上海市统计局社情民意调查中心对上海市民休闲娱乐、体育健身、教育培训、旅游观光等文化休闲的市民消费倾向、满意度等进行了调查。调查利用12340社情民意电话调查专线，采用计算机辅助随机抽样，并结合人口结构配比方式选取样本，成功访问了1628位16周岁及以上的本市常住市民。本文为市民休闲娱乐消费的调查报告。<br/><div class="contheight"></div> <strong>一、市民休闲娱乐消费的分组特征<br/><div class="contheight"></div></strong>分年龄看，16-30岁受访市民选择休闲娱乐消费较多的比例为74.9%，比其他年龄组高20个百分点以上。<br/><div class="contheight"></div>分收入看，月收入在2500元及以下受访市民的选择比例为63.9%，月收入在10001元及以上受访市民的选择比例为53.9%。<br/><div class="contheight"></div><strong>二、市民选择较多的是上网流量费<br/><div class="contheight"></div></strong>休闲娱乐的主要消费类别中，市民选择较多的是上网流量费，比例为68.8%；其次是电影演出会展门票费，比例为41.2%（见图1）。<div style="text-align:center;"><img alt="" height="292" src="http://image.thepaper.cn/www/image/13/522/281.jpg" width="446"/></div><span style="color: rgb(128, 128, 128);">图1受访市民选择较多的休闲娱乐消费类别（多选）</span><br/><div class="contheight"></div>调查显示，50岁及以下不同年龄组受访市民选择上网流量费的比例差别不大，61岁及以上受访者选择上网流量费的比例虽然低于其他年龄组，但也处于较高水平，表明网络在不同年龄受访市民中的“广度”和市民文化休闲消费支出中的“深度”已经达到相当的程度（见下表）。<div style="text-align:center;"><img alt="" height="146" src="http://image.thepaper.cn/www/image/13/522/282.jpg" width="480"/></div><span style="color: rgb(128, 128, 128);">不同年龄受访市民选择较多的休闲娱乐消费类别。单位：%<br/><div class="contheight"></div></span><strong>三、过半市民对休闲娱乐表示满意<br/><div class="contheight"></div></strong>调查显示，53.6%的受访市民对休闲娱乐表示满意（非常满意或比较满意，下同）。其中，12.6%认为非常满意，41.0%认为比较满意，另有2.9%表示不太满意（见图2）。<br/><div class="contheight"></div> <div style="text-align:center;"><img alt="" height="259" src="http://image.thepaper.cn/www/image/13/522/284.jpg" width="456"/></div><span style="color: rgb(128, 128, 128);">图2 受访市民对休闲娱乐的满意度评价</span><br/><div class="contheight"></div>分居住区域看，居住在中环以内的受访市民对休闲娱乐满意的比例为56.4%，高于中环外的52.0%。其中，内环内选择满意的比例更高，为58.3%。<br/><div class="contheight"></div></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2776754">
+<div class="nbgbox ">
+<a class="zan" contid="2776754" href="javascript:;" onclick="voteCont(this)" praisetimes="5">
+                                    4</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

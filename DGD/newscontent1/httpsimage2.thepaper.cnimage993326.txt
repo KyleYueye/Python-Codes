@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜馒头加胶？食品安全的谣言要靠科学来破</h1>
+<div class="news_about">
+<p>澎湃特约评论员 西蒙</p>
+<p>
+							2018-08-27 16:20<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"> “馒头里添加东西，泡水后像海绵”。近日，这一流言在河南郑州、开封等多地疯传。有网友提供试验视频称，馒头里“加了胶”，泡水后反复揉捏，馒头竟然不碎不烂。山东菏泽也流传着类似传言，有网友怀疑是馒头店出了问题。但经过调查发现，相关地区的馒头店并无违规现象，很多人所担心的食品添加剂问题并不存在。 <br/><div class="contheight"></div>经过一番周折，才真相大白：馒头中所谓的胶状物质就是我们所说的“面筋”。按照媒体发布的专业说法，“小麦粉的蛋白质含有特殊的巯基(HS-)，具有亲水的特性，在水和揉搓的作用下会结合成网状”，这才形成了视频中所见的模样。<br/><div class="contheight"></div>虽然这是一起看似不大的小事，却仍值得我们重视。其一，此谣言已经在网上公开传播，想必相关地区已有人对馒头安全产生了恐惧，只是“流言止于智者”，谬论被专业人士及时纠正了，加上媒体的扩散传播，才没有造成更大的问题。其二，如今很多人对食品安全有一种“本能的想象”，只要发生自己不理解、看不懂的现象，就容易想当然地将之归咎于食品安全问题，时间长了，就容易弓杯蛇影，甚至主动加入谣言的制造和传播中。 <br/><div class="contheight"></div>这背后反映的问题是现实的，也是巨大的。攻破食品安全谣言的问题，最好的方式还是用科学思维来引导、应对。这同样包括两个层面的举措。其一，相关部门应该及时做好揭露真相、打击谣言的准备，尤其是在新媒体和自媒体崛起的当下，很多食品安全谣言的源头都来自网络，而适度的监管和引导，就成为政府部门和媒体平台应当做到位的事情。其二，每一个公民都应该学会用科学思维去探寻真相，不要动辄用偏颇的个人经验来臆测事实，更不要刻意制造无中生有的所谓“观点”、“看法”。<br/><div class="contheight"></div>虽然如今国民的科学素养较之前已经有了很大提升，但伪科学谣言的“水平”也越来越高，很多关乎日常生活的谣言就是利用人们科学知识里的漏洞来传播的。而且，很多人喜欢从“阴谋论”的角度看问题，对那些自己不了解的领域，就有一种本能的“贴标签”“打棍子”的思维。比如，网上曾有说法称我国的食盐添加剂亚铁氰化钾“有毒”，在食盐中添加此物是“阴谋”。但实际上，作者连基本的化学常识——亚铁氰化钾和氰化钾完全不是一回事——都没有弄清楚，就忙着下结论，并质疑异议者的动机。很多具备这一常识的网友在澄清了事实后，对原作者的言论进行群嘲，就是因为其显然有悖于现代科学思维。 <br/><div class="contheight"></div>套用一句老话，“没有科学素养就没有正确的安全意识”。让更多人获得科学思维，让相关部门的监管与评估采用科学方式，是攻灭谣言的重要方式。 <br/><div class="contheight"></div>此外，我们也不可忽视个体对谣言的感知因素。美国心理学家奥尔波特在《谣言心理学》中曾提出，感知、记忆和描述是构成谣言的几大要素，放在当下常被热炒的食品安全谣言里，这样的规律依然行得通。很多网友对“馒头加胶”的担心，并不是出自对具体事件的了解，更没有经过科学的测试和实地的调查，而是从既往经验里获取答案。比如，看到媒体曝光的“毒奶粉”，就会联想到“毒馒头”，而一些自媒体发布的具体描述内容，也容易勾起人们的负面联想。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 食品安全辟谣</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2383742">
+<div class="nbgbox">
+<a class="zan" contid="2383742" href="javascript:;" onclick="voteCont(this)" praisetimes="80">
+                           79</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 食品安全辟谣</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2383742&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2383742&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（65）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">宁波创设“法官律师互评互督平台”：律师可匿名评价庭审法官</h1>
+<div class="news_about">
+<p>澎湃新闻记者 邵克</p>
+<p>
+							2018-11-28 13:11<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">宁波市律师协会与宁波市海曙区人民法院联合创设了“法官/律师互评互督电子平台”，以实现法官与律师开展互相评价监督，并互通信息，促使法官律师双方按照各自的庭审职业规范要求履行职责。<br/><div class="contheight"></div>11月28日，宁波市律师协会会长叶明在全国律协例行新闻发布会上介绍了这一试点工作。<br/><div class="contheight"></div>叶明说，试点工作开始于今年8月。以往经常遇到法官与律师在庭审中互相指责对方言行不规范的情况，有时互有投诉，甚至庭上起冲突。这个问题非常困惑法院与律协，因为双方缺乏一个可以互相监督的量化的评价体系和沟通机制，很难让双方改进工作。现在通过这个“法官/律师互评互督电子平台”，法官与律师开展互相评价监督，并互通信息，可以解决这个难题。<br/><div class="contheight"></div>据叶明介绍，电子平台的具体操作方法是：在法院庭审结束后，书记员会提醒参加庭审的法官、律师，通过手机扫描二维码的方式进行互评互督。律师用手机扫描一个专用二维码后，页面会弹出“法官/律师互评互督平台”，并显示的一段内容：“为促进法律职业共同体建设，加强庭审规范，下面将进入互评互督平台，请您对本次庭审中法官的表现情况作出评价（律师可以进行匿名评价，法院对评价的所有内容都将保密）”。该庭主审法官再扫描另外一个二维码，则会出现请该法官“对本次庭审中律师的表现情况作出评价”的字样，法官可以进入开展评价。<br/><div class="contheight"></div>在评价内容上，律师可以从“法官庭审礼仪是否规范”、“法官是否准确使用法言法语”、“法官有无不当言行”、“法官是否平等保障诉讼参与人的合法权益”、“法官的庭前准备工作是否充分”等多个角度对法官进行打分，并可以“对法官的庭审驾驭能力作评价”，律师还可以提出“对法院与法官工作的建议”。法官则可以进入平台从“律师着装等礼仪是否规范”、“律师是否服从法庭指挥”、“律师在庭审过程中是否足够专注”、“律师发表意见有无围绕争议焦点”、“律师是否按照指定期限提交证据”、“律师有无不当言行”、“律师的庭前准备工作是否充分”等7个方面对律师进行评价，并选择填写“对律协与律师有何建议”。<br/><div class="contheight"></div>叶明介绍，宁波市律协在法院提供的后台统计情况中，发现庭审过程律师存问题的，律协将会提醒相关律师或通报给全市律师引起注意，从而推动律师出庭时着装更加规范、庭前准备工作更加认真、庭审时更加专注、提供的法律文书质量也更高，从而更好地维护当事人的合法利益，树立起律师行业良好的职业形象。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李寿康<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 宁波 法官 互评</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2679827">
+<div class="nbgbox">
+<a class="zan" contid="2679827" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 法官律师</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2679827&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2679827&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

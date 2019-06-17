@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">京张高铁的“智能型”复兴号：用云计算、人工智能等技术打造</h1>
+<div class="news_about">
+<p>澎湃新闻记者 李文姬</p>
+<p>
+							2018-12-24 12:26<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/449/15.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">中国铁路科技创新成就展出的京张高铁复兴号实体样车。  人民网 图<br/><div class="contheight"></div></span>12月22日，中国铁路科技创新成就展在北京国家铁道试验中心开幕，时速350公里17辆长编组、时速250公里8辆编组、时速160公里动力集中、京张高铁复兴号实体样车等多款复兴号新型动车组首次公开亮相。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）12月24日记者在现场了解，京张高铁采用的智能动车组定位为复兴号的智能型，以现有“复兴号”CR400BF型动车组为基础，通过运用现代最新科技，力求在智能化、安全舒适、绿色环保、综合节能等方面实现新发展新突破。<br/><div class="contheight"></div>据中国铁道科学研究院研究员张波介绍，为建设好智能京张高铁，铁路部门积极采用云计算、大数据、物联网、移动互联网、人工智能、BIM等先进技术，精心设计、精心组织和精心施工，着力建设精品工程，突破智能建造、智能装备和智能运营关键技术，全面提升铁路安全生产、经营管理、客运服务的现代化水平。<br/><div class="contheight"></div>中国铁路总公司按照“标准配置+奥运配置”的思路，在充分考虑中国元素、奥运精神、百年京张文化传承以及前期众创成果等要素的基础上，组织优化设计形成了“鹰隼”和“旗鱼”头型方案和“龙凤呈祥”“瑞雪迎春”两种外观涂装方案，分别为银红金色和蓝白色。<br/><div class="contheight"></div>目前，冬奥会期间将采取哪种涂装还未最终揭晓，届时将二选一，2019年上半年完成调试及试验验证。<br/><div class="contheight"></div>此外，张波介绍，此次亮相的17辆编组超长版CR400AF-B型和CR400BF-B型复兴号动车组全长439.9米，载客定员1283人，载客能力较16辆编组提升了7.5%，可多承载90人，全部增加在二等坐席。商务座22人、一等座148人、二等座1113人，最高运营速度为350公里/小时，列车总长439.8米，车体材质为铝合金。<br/><div class="contheight"></div>该车型全面适应车站站台长度、检修设施、变电所容量等既有设施条件，其检修维护技术与既有时速350公里复兴号动车组一致，车体、转向架、牵引等系统及部件可实现通用互换。将于2019年1月5日铁路实行新的列车运行图时，安排在京沪高铁上线运营，可进一步提升京沪高铁等繁忙干线的运输能力，缓解春运压力。<br/><div class="contheight"></div>到2018年底，中国高铁营业里程达到2.9万公里，超过世界高铁总里程的三分之二，成为世界上高铁里程最长、运输密度最高、成网运营场景最复杂的国家，中国高铁动车组已累计运输旅客突破90亿人次，成为中国铁路旅客运输的主渠道，中国高铁的安全可靠性和运输效率世界领先。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋子文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 复兴号，动车组，京张高铁</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768272">
+<div class="nbgbox">
+<a class="zan" contid="2768272" href="javascript:;" onclick="voteCont(this)" praisetimes="78">
+                           77</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 复兴号</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768272&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768272&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

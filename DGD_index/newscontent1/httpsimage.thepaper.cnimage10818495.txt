@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">“法考”客观题成绩9月27日公布，合格分数线为180分</h1>
+<div class="news_about">
+<p>“司法部”微信公号</p>
+<p>
+							2018-09-26 22:13<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><strong>中华人民共和国司法部公告<br/><div class="contheight"></div>（第183号）</strong><br/><div class="contheight"></div>依据《国家统一法律职业资格考试实施办法》等有关规定，现就2018年国家统一法律职业资格考试客观题考试成绩公布、合格分数线和主观题考试报名、交费等事项公告如下：<br/><div class="contheight"></div><strong>一、客观题考试成绩公布、查询</strong><br/><div class="contheight"></div>2018年国家统一法律职业资格考试客观题考试成绩于9月27日公布。应试人员可自9月27日0时起，通过司法部网站（http：//www.moj.gov.cn）、中国普法网（http：//www.legalinfo.gov.cn）、司法部微信公众号和中国普法微信公众号查询本人成绩，登录司法部网站自行下载打印成绩通知单。<br/><div class="contheight"></div><strong>二、客观题考试合格分数线</strong><br/><div class="contheight"></div>依据《国家统一法律职业资格考试实施办法》，司法部商最高人民法院、最高人民检察院等部门，确定2018年国家统一法律职业资格考试客观题考试合格分数线。全国合格分数线为180分。放宽合格分数线分为三档，西藏自治区放宽合格分数线为140分；青海、四川、云南、甘肃四省藏区，南疆四地州和四川凉山州、云南怒江州、甘肃临夏州等“三区三州”放宽合格分数线为150分；其他放宽地方合格分数线为160分。<br/><div class="contheight"></div>客观题考试合格成绩在本年度和下一个考试年度内有效。<br/><div class="contheight"></div><strong>三、主观题考试相关事宜</strong><br/><div class="contheight"></div>应试人员达到2018年国家统一法律职业资格考试客观题考试合格分数线的，应于2018年9月27日0时至9月30日24时，登录司法部网站（http://www.moj.gov.cn）确认参加主观题考试并按规定交纳考试费。逾期未确认并交费的，不予补报。<br/><div class="contheight"></div>参加主观题考试的应试人员应当到客观题考试报名地所在的省（区、市）司法厅（局）设置的考区参加考试。<br/><div class="contheight"></div>确认参加主观题考试人员，可于10月15日至10月19日登录司法部网站自行下载打印准考证。主观题考试时间为10月20日8：30-12：30，考试时间240分钟。<br/><div class="contheight"></div>2018年国家统一法律职业资格考试主观题考试采取纸笔考试方式，应试人员应当在答题纸上作答。江苏省苏州市、安徽省黄山市、重庆市、四川省成都市、陕西省西安市5个考区实行计算机化考试试点，选择在试点考区参加考试的应试人员应当在计算机上作答。<br/><div class="contheight"></div>主观题考试设置选作题的，应试人员应选择其一作答。<br/><div class="contheight"></div><strong>四、其他事宜</strong><br/><div class="contheight"></div>应试人员（包括香港、澳门居民和台湾居民）参加2018年国家统一法律职业资格考试主观题考试的其他事宜按照司法部第181号《公告》执行。应试人员参加主观题考试的成绩公布、合格分数线及申请授予法律职业资格事宜由司法部另行公告。<br/><div class="contheight"></div>司法部<br/><div class="contheight"></div> 2018年9月26日 <br/><div class="contheight"></div>（原题为《“法考”客观题考试合格分数线是多少？权威答案来了！》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：马世鹏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 法考 客观题 分数线</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2478103">
+<div class="nbgbox">
+<a class="zan" contid="2478103" href="javascript:;" onclick="voteCont(this)" praisetimes="104">
+                           103</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 法律职业资格考试</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2478103&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2478103&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜“严书记”被双开，“伸手必被捉”的又一鲜活案例</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-11-13 10:54<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2628591" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜“严书记”被双开，“伸手必被捉”的又一鲜活案例" src="//image.thepaper.cn/image/12/205/938.jpeg"/>
+</a>
+<div class="atlas_360_txt">四川广安市委原副书记严春风被开除党籍和公职<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">据四川省纪委监委消息：日前，经四川省委批准，省纪委监委对广安市委原副书记严春风严重违纪违法问题进行了立案审查调查。经过调查，四川省纪委决定给予严春风开除党籍处分；由省监委给予其开除公职处分。<br/><div class="contheight"></div>至此，热闹一时的“严书记”事件算是靴子落地了。不严肃地说，这是“夫人反腐”立下一功。严肃地讲，这就是搞腐败、耍特权必然要付的代价。<br/><div class="contheight"></div>“严书记”事件发端于5月11日，当时微博上一组微信群聊截图广泛流传。“陈某”在群内发言称，“以后严某某放学那会单独坐，或者周围的人给她清空，她单独坐一边，真的是够了。”不久后，群内署名为“严某某妈妈”的人士发言称，“陈老师，你马上在全班当着所有师生给严某某道歉，否则，我通知你们集团领导来给我解释你对严书记的女儿说这话是什么意思！”<br/><div class="contheight"></div>此后，“严某某妈妈”称，学校处理决定已经出来了，对陈老师开除处理。<br/><div class="contheight"></div>在网络的助推下，“严书记”很快与严春风挂上个钩。但是接下来事情很快变得狗血起来。一份内部的《情况报告》在网上传来，称严春风早已离婚，还是因为女方出轨，意图撇开自身嫌疑。<br/><div class="contheight"></div>值得注意的是，最新的官方通报进行了一些“前情回顾”，解开了许多谜团。<br/><div class="contheight"></div>比如通报称，严春风违反政治纪律，擅自授意他人将向组织报告的内容传给无关人员，造成严重不良影响，与涉案人员串供，对抗组织审查；违反组织纪律，不如实报告个人婚姻状况、房产、持有股票等有关事项。<br/><div class="contheight"></div>真相大白了。原来那份蹊跷的文件是严春风有意泄露给外界，有意打一场“舆论反击战”。可谓用生命在表演。然而事实证明，这种低劣的伎俩只会搬起石头砸自己的脚。<br/><div class="contheight"></div>更重要的是，在违规收受礼品、礼金，违规从事营利活动，大肆收受财物这些贪腐事实客观存在的前提下，“夫人反腐”只是一个导火索，弄巧成拙的“舆论反击战”更是徒劳的挣扎。<br/><div class="contheight"></div>归根结底，“严书记”被双开，既是对炫耀权力行为的打击与震慑，也是“伸手必被捉”的又一鲜活案例。由此得到的启示不应该只是做官要低调，而应该是做官要本分、要清廉、要敬畏公众赋予的权力。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; “严书记”被双开</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2628771">
+<div class="nbgbox">
+<a class="zan" contid="2628771" href="javascript:;" onclick="voteCont(this)" praisetimes="217">
+                           216</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 严书记</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2628771&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2628771&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（43）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

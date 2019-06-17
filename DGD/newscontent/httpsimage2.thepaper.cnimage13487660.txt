@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_26506">异次元</a>
+</div>
+<h1 class="news_title">光明日报：爆款作品别只追求“抱款”</h1>
+<div class="news_about">
+<p>王石川/光明日报</p>
+<p>
+							2018-12-25 14:34<span> 来源：光明日报</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“中国有超8亿网民，付费用户增速之快，出人意料。”据报道，2018年，我国互联网相关文化产业继续保持快速增长，其中最突出的是用户付费模式的崛起。有专家认为，我国互联网文化产业已经从传统的“内容免费+广告推广”的方式进化为“内容付费+广告推广”的模式，与发达国家同步了。<br/><div class="contheight"></div>此非虚言，从网络音乐到网络影视，从网络综艺到网络文学……越来越多的用户愿意为好作品付费，与之相对应的数据是，截至2018年第三季度，某视频网站的会员服务收入为29亿元，超过在线广告服务收入24亿元。另一家视频网站日均付费用户增速，已经连续4个季度超过100%。<br/><div class="contheight"></div>付费时代呼啸而至，好内容变现越来越容易，愿意为好作品买单的用户也越来越多。一定程度上说，爆款产品不仅可收割流量，还能黏住用户，培养大批拥趸，乃至增加可量化的付费用户。从这个角度看，从“爆款”到“抱款”——赚个盆满钵满，实是顺理成章之事。<br/><div class="contheight"></div>付费用户多、增速快，为人称道，这是多赢。对用户来说，可获得独特而丰富的精神享受；而对于作者来说，也是一种看得见的回报，正如专家所称，“内容付费+广告推广”的模式给优质作品以尊严，体现了创作的价值，对创作者而言是很大的正向激励。<br/><div class="contheight"></div>但是，打量方兴未艾的内容付费，不能光盯着用户人数和增速，还应该探讨这种模式能不能走得更稳健，如何才能更有生命力？曾有调查称，在付费阅读中，80%的部分都是网络小说，剩下的20%，大部分也是在媒体与自媒体间充斥着以各种名目凸显的“快餐式”消费。这一数据或可推敲，但不争的事实是，一些内容之所以有人买账，不是作品质量高，而是作者名气大，还与平台善于帮衬和忽悠有关。再比如，用户花钱买了阅读资格，但阅读周期多是一年，哪怕质量低下，用户也无法退款，这能够佐证付费作品都是好作品吗？<br/><div class="contheight"></div>“付费阅读，你读到的是信息还是知识？”有人如此感叹。在信息爆炸时代，有人帮用户过滤到大量杂质性信息；在碎片化阅读时代，有人提拎出有效信息点，这当然可满足用户的实际需求。但是，有些作者缺乏真诚，以变现为能事，完全把内容付费市场当成了一笔买卖，这样的内容还值得赞许吗？<br/><div class="contheight"></div>内容付费，不能只输送价值，还应该输送价值观；不能光为了获得真金白银的市场回报，还应该追求真心实意的市场反馈。毕竟，内容付费不是单纯的商业产品，而是带有精神内涵的文化产品，就更需要有底线，有高标准，致力于正向的价值塑造。文艺不能当市场的奴隶，不要沾满了铜臭气。优秀的文艺作品，最好是既能在思想上、艺术上取得成功，又能在市场上受到欢迎。<br/><div class="contheight"></div>内容付费的春天来了，但是还没有到发展的黄金时代。越是众声喧哗，越需坚守文艺的审美理想、保持文艺的独立价值。在追逐财富的热潮中，少一些浊流，多一些清流，别把内容付费做成了一锤子买卖，沦为一种收割用户“智商税”的游戏。一个真正推崇知识的时代，应该为好内容买单，但是也应该建立良币驱逐劣币的正常机制，让那些真正能温润心灵、启迪心智的作品，传得开、留得下。<br/><div class="contheight"></div>（本文刊于《光明日报》2018年12月25日02版，原标题为：爆款作品别只追求“抱款”）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程娱<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 爆款</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772651">
+<div class="nbgbox">
+<a class="zan" contid="2772651" href="javascript:;" onclick="voteCont(this)" praisetimes="35">
+                           34</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: “爆款”</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772651&caid=26506",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772651&amp;caid=26506" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

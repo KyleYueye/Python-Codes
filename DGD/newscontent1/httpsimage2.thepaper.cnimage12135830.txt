@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评丨点赞小叶子，“四叶草”中靓丽的青春名片</h1>
+<div class="news_about">
+<p>澎湃特约评论员 吕京笏</p>
+<p>
+							2018-11-10 17:19<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="378" src="http://image.thepaper.cn/www/image/12/135/835.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">2018年11月7日，上海，首届中国国际进口博览会上，年轻朝气的志愿者们分散在国家会展中心各个角落，为来宾们提供咨询服务。东方IC 图</span><br/><div class="contheight"></div>首届中国国际进口博览会，即将成功落幕。进博会期间，5000余志愿者在国家会展中心，演绎青春最好的模样。他们中的绝大多数是95后。<br/><div class="contheight"></div>进博会主展馆被人们称为“四叶草”，进博会志愿者则有一个响亮鲜活的名字——小叶子。叶子代表奉献，也代表成长，他们活力四射、青春蓬勃、热情洋溢、专业严谨，他们用自信与阳光，擦亮了“四叶草”中靓丽的青春名片。<br/><div class="contheight"></div>在8.1馆志愿者之家，一张记载着每日步数前20名的“步行荣耀榜”天天更新，每天的上榜者，几乎都超过25000步。进博会首日，上海外国语大学国际政治专业大二男生马金虎以56126步夺冠。他的职责是协助青浦公安进行证件验证引导，以及巡查中央广场的各类安全隐患和标识脱落情况。哪里接电线外露、“进宝”手中的四叶草是否松动，诸如此类细枝末节的问题，都逃不过他的火眼金睛。<br/><div class="contheight"></div>“您留意脚下地毯的颜色，就不会找错展馆了”“您直接往前走，拐个弯就到”……在3.1馆和4.1馆的几个主通道旁，上海大学中文系研二女生苏静如和她的70余名小伙伴，从上岗的一刻开始几乎一刻不停。原本只需原地不动的“指路岗”，一天下来就因为这一次次的“小跑几步”，竟然也达到了28000多步。“我们多走几步，观众就能少一些麻烦。对我们来说可能回答了几十遍的问题，对观众来说只是第一次遇到。”<br/><div class="contheight"></div>耐心的引导，仔细的检查，不停歇的脚步……闪亮的荧屏，跃动着微笑与汗水，每一名志愿者，都用匆匆步履书写着敬业与奉献的故事。他们在星眼朦胧时开始忙碌，在拥挤的人潮中往来穿梭，在微茫夜色的灯下继续紧锣密鼓的筹备。<br/><div class="contheight"></div>从交通、餐饮、引导，到环境、安保、医疗，进博会让全世界感受到了“专业、便利、温馨”，而那繁琐细致工作的背后，是一个个为此默默付出的身影，是太多不辞辛苦的幕后英雄。现场瞬息万变，而他们不停歇地在每一个需要的地方颠簸，脚下有泥，心中有光。用“团结、服务、牺牲”的精神，用训练有素的文明礼仪和气度规范，热情奉献，周到服务，让青春在志愿的服务中绽放，为上海添彩，为中国增光。<br/><div class="contheight"></div>“我们都是，年轻的力量；志愿青春，书写新时代的华章；我们在上海，拥抱明天的太阳。”5000多名志愿者，是5000多双紧握在一起的手，用青春蓬勃的姿态，打开了一扇窗，让世界记住了一个集体的名字——小叶子。他们用奋发的昂扬，越过这扇窗，去拥抱世界和更广阔的远方。<br/><div class="contheight"></div>世博会时，绝大部分志愿者只是承担引导性的任务；而进博会的志愿服务方式有了很大的变化，只有约1/3的志愿者负责引导，更多志愿者需要承担团组联络、新闻中心服务、导航测试等职责，对专业素养的要求大大提高，对于“小叶子”们来说，这次志愿活动也是磨砺专业素养，提高工作能力，锤炼优良作风的大好契机。<br/><div class="contheight"></div>青年兴则国家兴。习近平总书记说：“广大青年要敢于有梦、勇于追梦、勤于圆梦。”小叶子，这张青春的名片上，一面是奉献，一面是未来。在向他们表示感谢与敬意的同时，我们相信，经历过进博会洗礼的“小叶子”们，必将更葱翠、更繁茂。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 进博会,志愿者,小叶子</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2621502">
+<div class="nbgbox">
+<a class="zan" contid="2621502" href="javascript:;" onclick="voteCont(this)" praisetimes="179">
+                           178</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 进博会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2621502&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2621502&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

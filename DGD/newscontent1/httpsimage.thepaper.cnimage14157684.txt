@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">统一战线2018年度热词：新的社会阶层篇</h1>
+<div class="news_about">
+<p>统战新语</p>
+<p>
+							2019-01-11 10:43<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“岁月不居，时节如流。”在二〇一九年新年贺词中，习近平总书记一句“我们都在努力奔跑，我们都是追梦人”，让多少心中有梦、努力奋斗的人心潮起伏，感慨万千。<br/><div class="contheight"></div>回望2018年，对统一战线来说，有加强党对统战工作集中统一领导的顶层设计，有习近平总书记对统一战线的殷切关怀，有令每个统战人难以忘怀的重要时间节点，有一系列指导和推动统战工作创新发展的文件法规、会议活动......<br/><div class="contheight"></div>这一年，统一战线勠力同心、砥砺前行；<br/><div class="contheight"></div>这一年，统战成员、统战干部时不我待、只争朝夕......<br/><div class="contheight"></div>令人难忘的2018！即日起，“统战新语”重磅推出“2018统一战线•年度热词”系列盘点，每天一篇，一起来看，哪个词在你心中占据了C位，给你留下了不一样的回忆？<br/><div class="contheight"></div>今天是新的社会阶层篇——<br/><div class="contheight"></div><strong>实践创新</strong><br/><div class="contheight"></div>把新的社会阶层人士统战工作实践创新基地建设作为贯彻落实全国新的社会阶层人士统战工作会议精神的重中之重，指导推动创新试点城市立足实际、大胆探索，有效发挥了典型引路作用。<br/><div class="contheight"></div>11月28日至29日，中央统战部召开新的社会阶层人士统战工作经验交流座谈会暨实践创新基地建设中期推动会，及时总结交流各地各有关部门的创新实践经验做法，明确下一步的努力方向和重点举措，推动新的社会阶层人士统战工作不断向纵深开展。<br/><div class="contheight"></div>会议继2017年确定15个新的社会阶层人士统战工作创新试点城市后，又确定石家庄、太原、呼和浩特、沈阳、长春、哈尔滨、苏州、无锡、扬州、宁波、温州、合肥、厦门、南昌、济南、淄博、洛阳、襄阳、宜昌、长沙、珠海、东莞、佛山、南宁、海口、绵阳、贵阳、昆明、拉萨、咸阳、兰州、西宁、银川、乌鲁木齐等34个城市为创新推广城市。至此，这项工作涵盖了全部省会城市、副省级城市及其他一些新的社会阶层人士统战工作资源丰富、基础较好的城市。<br/><div class="contheight"></div><strong>“网上网下同心圆”</strong><br/><div class="contheight"></div>构建“网上网下同心圆”，是习近平总书记在2018年4月20日召开的全国网络安全和信息化工作会议上，对营造风清气正网络空间，更好地凝聚社会共识和力量，巩固全党全国人民团结奋斗的共同思想基础所提出的具体要求，为做好新时代网络人士统战工作指明了方向。<br/><div class="contheight"></div>构建“网上网下同心圆”，有利于将网络人士思想和行动统一到党中央的决策部署上来，切实增强使命责任担当；有利于利用好互联网这个最大变量，“键对键”“面对面”开展工作，扩大思想引导深度与广度；有利于释放互联网正能量，充分发挥网络人士优势作用，凝聚起同心共筑中国梦的磅礴力量。<br/><div class="contheight"></div>2018年6月11日，中央统战部召开网络人士座谈会，集中学习贯彻全国网络安全和信息化工作会议精神，邀请50余名互联网企业负责人、新媒体和自媒体平台负责人、网络大V、网络作家等，共同学习研讨习近平总书记关于网络强国的重要思想，引导大家紧紧抓住新时代信息化发展历史机遇，进一步坚定政治立场、积极创新创造、勇担社会责任、坚持正面发声，努力在维护国家网络安全、促进信息化建设、弘扬正能量等方面发挥积极作用，共同构建“网上网下同心圆”，开创网络人士统战工作新局面。 <br/><div class="contheight"></div>（原题为《统一战线年度热词：新的社会阶层篇》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 统一战线,社会阶层</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2840599">
+<div class="nbgbox">
+<a class="zan" contid="2840599" href="javascript:;" onclick="voteCont(this)" praisetimes="18">
+                           17</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 统一战线</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2840599&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2840599&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

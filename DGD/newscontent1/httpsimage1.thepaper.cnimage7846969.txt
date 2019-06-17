@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">你以为《复联3》的观众性别都为男？那真是小看女性力量了</h1>
+<div class="news_about">
+<p>刘嘉郦</p>
+<p>
+							2018-05-23 10:26<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>“女生去看《复联3》都是陪男朋友，只要抱着爆米花乖乖吃就好？”这种让人啼笑皆非的言论简直荒谬到家。且不说复仇者联盟的粉丝中女性所占比例并不低，光是普通电影爱好者，能够搞清楚复仇者联盟那错综复杂的关系的人女生就非常多。再加上颇具商业头脑的漫威在周边产品开发方面的努力，女性消费者更是不可能被“放过”的一部分，看看那些在市场上让人着迷的限量版单品，你就会知道，女性力量在复仇者联盟面前是多么重要了！<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="410" src="http://image.thepaper.cn/www/image/7/846/973.jpg" width="600"/></div></u><span style="color: rgb(153, 153, 153);">《妇联3》也有很多女影迷。</span><u><br/><div class="contheight"></div></u><strong>灭霸的宝石好看吗？同款眼影了解一下<br/><div class="contheight"></div></strong><div style="text-align:center;"><img alt="" height="591" src="http://image.thepaper.cn/www/image/7/846/622.jpg" width="600"/></div><div>《复联3》里的反派灭霸竟然会在电影上映后成为人们讨论的话题之一，闪闪发亮的夸张宝石赋予他力量，让人移不开眼睛的同时，也成为了彩妆灵感。Her Universe今年就跟漫威合作，推出了多款彩妆单品，从眼影、唇彩、香水，到指甲贴片、浴球，直击女粉丝的钱包。不过说实话，这几款单品虽然跟电影结合真还挺紧密的，但这颜色放在日常生活中真的颇有些挑战，尤其是在中国人的日常生活中，可能并没有几个人有勇气会把这些精彩的颜色用在脸上。但无论怎么说，买回家收藏起来也是可以的，男同胞们别抱怨，这种心态可能就跟你们玩手办差不多。</div><strong>集齐5种角色，你大概可以召唤一张精致的脸<br/><div class="contheight"></div></strong><div style="text-align:center;"><img alt="" height="415" src="http://image.thepaper.cn/www/image/7/846/620.jpg" width="600"/></div><div>另一个跟漫威紧密合作的品牌要算是The Face Shop。大手笔地一次性将五个热门角色——美国队长、雷神索尔、钢铁人、蜘蛛人与黑寡妇收罗旗下，以其各自不同的标志性配件及颜色作为设计元素，推出了包括气垫粉底、散粉棒、九色眼影盘、单色眼影、睫毛膏、眼线笔、唇膏和唇釉等在内的一系列限量版单品。相比较上面提到的灭霸系列，这一限量版产品明显看上去温和了不少，实际应用程度也要高了不少——至少你买回家，是绝对能放在包里用的，并且还不会出错的。一定要说的是，在男生也逐渐开始使用粉底类产品来打造好气色的今天，如果你看到他们拿出一个漫威限量版的单品，可千万别惊讶。</div><strong>就算是限量版男士产品，也还是女生买单的多</strong><div style="text-align:center;"><img alt="" height="358" src="http://image.thepaper.cn/www/image/7/846/621.jpg" width="600"/></div>男士们越来越讲究，但如果你仔细看看下单购物的情况，就会发现女生还是占据了化妆品类购物的主要部分——当然，这其中也包括着她们给自己男朋友、先生、亲戚等购买的男用产品。<br/><div class="contheight"></div>巴黎欧莱雅男士和漫威合作的这个限量版系列从包装开始就让人眼前一亮，更别说拆开包装之后产品本身的设计了，由内而外全面“复联”的想法很可能会让使用者每天都会对着镜子傻笑起来。从洁面膏、凝露、醒肤露到发泥，覆盖雷神、美国队长、钢铁侠等多个热门角色，要是运气好，还能收获一只钢铁侠无线鼠标。不过此时，我们的问题也来了，你觉得男生会自己主动在线下购买这些产品吗？会，但比例并不高，反倒是女生会控制不住自己的钱包，买下这些有趣的单品作为礼物送给自己的另一半。所以，可千万别小看女生，男女各占半边天从来不是句空话。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李淑平<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2145472">
+<div class="nbgbox">
+<a class="zan" contid="2145472" href="javascript:;" onclick="voteCont(this)" praisetimes="7">
+                           6</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 复仇者联盟</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2145472&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2145472&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

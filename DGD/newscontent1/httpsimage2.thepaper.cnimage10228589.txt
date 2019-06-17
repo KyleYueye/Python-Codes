@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评丨大学第一课：期待00后不再“失重”</h1>
+<div class="news_about">
+<p>澎湃特约评论员 张涛甫</p>
+<p>
+							2018-09-06 23:55<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">每年开学季或毕业季，都会有不同款式的煽情致辞在网上飘红，但真正能击中大家痛点的甚少。近日，复旦新闻学院校友陈先发先生在复旦大学本科生新生开学典礼上的发言，在网上刷屏。作为一位卓越的新闻人和杰出的诗人，他对眼下这个世界的观察与思考极具穿透力。他提醒00后们这些互联网时代出生并成长起来的第一代人，不要做“空心人”，越是在众声喧哗中，越需要一颗真正安静下来的心；越是快速变化的时代，越需要一颗真正慢下来的心；越是有人觉得心里空荡荡的，就越需要另一群人懂得，应该往这种空荡荡中填补些什么。这一席话直击痛点，醍醐灌顶。<br/><div class="contheight"></div>有人把21世纪定义为“当下主义”时代：人们会将重心转到当下这个时刻、现场体验以及当下最值得关注的东西上来……我们的文化就变成了人人都在试图抓住流逝瞬间的嘈杂状态。当下，放眼望去，“空心人”熙熙攘攘，线上线下，人头攒动，交叉感染，形成一张巨大的同化之网，几乎让所有人难以逃脱。<br/><div class="contheight"></div>“空心人”现象有呈年轻化趋势，越年轻，其心就被掏空得越厉害。这些互联网的“原住民”，对互联网有一种本能的偏好和依赖，正如海尔斯所言，信息技术哺育的“媒体一代”具有全新的认知方式，这代人特有的“超级注意力”。“超级注意力”主要表现为的在不同作业中迅速转换焦点，偏爱多样化信息流，寻找高度刺激性的东西，对单调状态的容忍度较低。具有煽动性的真人秀场景、24小时滚动播报的极端新闻场景、实时体验的电子游戏，解构了传统的线性叙述，导致“叙事结构的崩塌”，造就了“一个不再熟悉的世界”。<br/><div class="contheight"></div>对于互联网时代的年轻人，美国文学教授鲍尔莱恩曾做出严厉的批评，在他看来，数码时代正在使美国的年轻一代成为知识最贫乏的一代人。美国的青少年和年轻人正在被数码时代各种娱乐消遣性的工具所淹没。这些工具包括手机、社交网络和信息传送等等。他们通过这些工具传达的却是幼稚浮浅的东西，而且这些东西正在妨碍他们同历史、公民义务、国际事务和美术等成年人的现实世界进行重要的接触。我们想当然地以为，这些善于吸收新技术的美国年轻一代会利用他们对技术的掌握和理解进而成为新的数码时代的弄潮儿。但是事实完全不是这样。<br/><div class="contheight"></div>鲍尔莱恩批评并非是传媒“旧石器”时代“遗民”的悲叹，他与陈先发一样，敏感地捕捉互联网时代无处不在的“失重”问题。世界越喧嚣，内心越空洞，信息越是超载，精神越是“失重”，这种悖论，表面上看，是技术带来的，人作为技术的“人质”，被整体掏空，成为失重的空心人。<br/><div class="contheight"></div>00后这批世纪“宝宝”，他们当中大多数是幸运的：他们没有成为互联网的人质。由于高考制度的刚性制约，他们或主动或被动地远离网络，不得不节制对网络的迷恋和贪欲。但是，当他们从高考的闸口中顺利通关，进入大学的门槛。大学能不能接得住这批“18岁出门远行”的年轻人？我看未必。<br/><div class="contheight"></div>在互联网之轻与大学之重之间，这一代年轻人如何选择？这是互联网给当下大学提出的新挑战。大学不是网络禁欲主义修道院。大学不是不需要互联网，关键是需要怎样的互联网。如何通过驯服互联网之轻，坚守大学之重，实现大学精神与互联网逻辑的互联互通？这是大学“第一课”所面临的现实命题。说白了，不解决好互联网的入侵边界，大学可能一步步退守，甚至会失守。大学课堂上触目惊心的“低头族”景观，无时不在刺痛大学之心。切记不能让大学失守，从第一课开始。<br/><div class="contheight"></div>（作者系复旦大学新闻学院教授）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 00后</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2416462">
+<div class="nbgbox">
+<a class="zan" contid="2416462" href="javascript:;" onclick="voteCont(this)" praisetimes="581">
+                           580</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 00后</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2416462&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2416462&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（116）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

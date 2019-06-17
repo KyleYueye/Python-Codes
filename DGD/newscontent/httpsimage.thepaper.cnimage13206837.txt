@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">特雷莎试图拿到欧盟对退欧协议的保证遭拒，英媒：梅姨被羞辱</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-14 22:00<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">英国首相特雷莎·梅在周三刚挺过党内不信任案的考验，又在试图赢取欧盟对退欧协议的保证时，遭遇了英媒所说的“羞辱”。<br/><div class="contheight"></div>据路透社12月14日报道，当特雷莎在布鲁塞尔召开的欧盟峰会上向欧盟求援，希望修改她的退欧协议时，欧盟领导人一致拒绝在修正退欧协议时加入新的具有法律约束力的条款，尽管他们向特雷莎·梅保证这应该不会让英国永远遵守欧盟规定。一名消息人士称，当特雷莎·梅遭到欧盟领导人拷问时，她对于她想要的内容没有肯定的答案。在这之前，她承认她上月敲定的协议将无法在英国议会通过。<br/><div class="contheight"></div>英国报纸称特雷莎·梅受到了羞辱。《卫报》称，“欧盟领导人拒绝了特雷莎·梅要拯救岌岌可危的退欧协议的想法。”“背后挨一刀：欧盟领导人让首相走开。”太阳报则使用了这样的标题。<br/><div class="contheight"></div>“看来首相想要修改她的退欧协议的努力已经失败，”反对党工党的退欧发言人Keir Starmer表示。“我们不能再这样了。首相应当恢复下周对她的退欧协议的投票，让议会掌握控制权。”他说。<br/><div class="contheight"></div>据《联合早报》14日报道，英国独立党（UKIP）前党魁法拉奇（(Nigel Farage)）当天对媒体说，首相特雷莎·梅没有办法从欧盟领导人那里争取到任何的好处，说明英国外交是全盘的失败。法拉奇接受英国独立电视台（ITV）访问时说：“我认为你们昨晚看到的，是英国谈判立场的彻彻底底的失败。”<br/><div class="contheight"></div>路透社报道称，由于英国政治陷入危机，英国退欧最终结果尚不明朗，从无协议的无序退欧，到再举行一次退欧公投，皆有可能。外交人士称，特雷莎·梅表示她希望用“法律效力”再次回到欧盟来争取退欧协议的“保证”。欧盟一些人士称他们会愿意听取她的意见，并尝试接纳她的说法。但一些欧盟领导人也警告称，欧盟宁愿为英国无协议退欧做好准备，也不会让自身的一体化体系面临解体风险。<br/><div class="contheight"></div>“我们已经推迟了最后摊牌的时间。1月再来（开会）。”欧盟一位外交官称，“在挽救这份协议方面我们实际上能做的很少。如果协议失败，那是因为英国议会不愿意。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 英国脱欧,特雷莎</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2741150">
+<div class="nbgbox">
+<a class="zan" contid="2741150" href="javascript:;" onclick="voteCont(this)" praisetimes="115">
+                           114</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 英国脱欧</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2741150&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2741150&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">韩国“的哥”自杀抗议拼车软件抢生意　</h1>
+<div class="news_about">
+<p>王逸君/新华社</p>
+<p>
+							2019-01-10 19:38<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="700" src="http://image.thepaper.cn/www/image/14/125/629.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">当地时间2019年1月9日，韩国首尔，因抗议韩国国内一款拼车软件，一名韩国出租车司机在靠近美国大使馆的街道自焚身亡。  视觉中国 图<br/><div class="contheight"></div></span>韩国一名出租车司机1月10日凌晨在医院不治身亡，警方推断他前一天在车内自焚，抗议拼车软件抢生意。<br/><div class="contheight"></div>韩联社报道，这名男子姓林，64岁，1月9日晚把车停在首都首尔市中心的美国大使馆附近，出租车随即遭火焰吞没。多名目击者说，林某获救时意识清醒，全身大部分严重烧伤。<br/><div class="contheight"></div>据警方消息，林某被送往附近医院，数小时后身亡。警方在车内发现熔化的燃料瓶和一本烧毁的笔记本，据信是林某的日记。警方提出林某因抗议拼车软件抢生意而自焚的可能性，启动调查，以确定起火确切原因。<br/><div class="contheight"></div>一个出租车工会的管理人员说，这名司机给家人留下一份4页纸遗书，包含反对拼车服务的内容。工会定于10日晚些时候在韩国国会附近就这一事件举行新闻发布会。<br/><div class="contheight"></div>林某抗议的拼车软件名为Kakao T，由韩国信息技术企业Kakao研发，现阶段处于试运营阶段，允许司机每天提供两次拼车服务。出租车行业强烈反对Kakao T发布，指认软件会抢走他们的生意。数以千计“的哥”近几个月三次静坐示威，呼吁政府采取措施，阻止这一软件正式上线。<br/><div class="contheight"></div>一名出租车司机去年12月为抗议这一软件自焚身亡，Kakao公司决定推迟原定同月17日软件正式发布时间。<br/><div class="contheight"></div>去年11月一项民意调查显示，58.2%的韩国人欢迎拼车软件，12.5%反对。法新社报道，拼车软件可以节省交通费用，向乘客提供便利服务，但类似软件在韩国的发展颇为艰难。比如，美国叫车软件企业优步2013年进入韩国市场，因出租车司机普遍反对，2015年停止主要业务。<br/><div class="contheight"></div>（原标题为：韩国“的哥”自杀抗议拼车软件抢生意）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陈宇曦<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 拼车软件</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837682">
+<div class="nbgbox">
+<a class="zan" contid="2837682" href="javascript:;" onclick="voteCont(this)" praisetimes="27">
+                           26</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 拼车软件</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837682&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837682&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（59）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

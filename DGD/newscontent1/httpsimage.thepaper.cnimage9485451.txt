@@ -1,0 +1,82 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜外卖可以不现炒，但不能瞒着消费者</h1>
+<div class="news_about">
+<p>澎湃特约评论员 熊志</p>
+<p>
+							2018-08-09 15:51<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2329229" target="_blank">
+<span class="p_time">00:50</span>
+<img alt="马上评｜外卖可以不现炒，但不能瞒着消费者" src="//image.thepaper.cn/image/9/449/343.jpg"/>
+</a>
+<div class="atlas_360_txt">你点的网红外卖可能是10天前做的：店家直接加热替代现炒<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">很多人可能不知道，你点的外卖，并不是所有的都是现炒，不少是几天前、甚至是几十天前厂家批量生产的“复热食品”。<br/><div class="contheight"></div>近日就有记者走访了成都多家外卖门店，发现很多都没有堂食，而是在使用真空餐包：有的搭配使用，有的则是全部使用。有顾客下单，商家就取出沸水中加热后的菜肴包，搭配上素菜和米饭，这样，一份外卖就出炉了。而点外卖的人不会知道，这份外卖并不是现炒的，菜肴包大多保质期三个月到半年。<br/><div class="contheight"></div>需要说明的是，使用真空餐包，不等于卖剩菜剩饭，只要有有效的食品生产许可证，而且在保质期内销售，商家就谈不上违法违规。像飞机、高铁提供的餐饮，以及很多堂食的店铺，现在都采用“复热食品”，快速出餐，节省时间。<br/><div class="contheight"></div>但对于消费者来说，吃到的网红外卖，可能是十天前做好的，心理上可能难以接受。这里面有个认知预期的问题，在商家没有告知的前提下，会默认为外卖是现做现卖。<br/><div class="contheight"></div>《消费者权益保护法》对食品的生产日期有明确的标识要求，但目前这个信息只掌握在商家手里，消费者直接买餐包倒是可以识别保质期，换成点外卖，却没有了知情权。<br/><div class="contheight"></div>从食品行业的发展趋势来讲，餐包替代商家配厨师现炒，虽然可能牺牲口感，但并不是什么坏事，最大的好处是监管成本极大降低。因为，相对于分散的小作坊，餐包生产通常是有资质的食品加工企业，能够做到标准化，卫生环境和生产流程更加可控。<br/><div class="contheight"></div>但在外卖平台上，商家使用的哪家企业的餐包，餐包是哪天生产的，距过期还有多少天，消费者一概不知情，信息高度不对称。这种不透明，为食品安全留下了巨大隐患。<br/><div class="contheight"></div>使用餐包，不仅出餐更快，还能为商家省去配备厨房、厨师的成本，这是它被广泛使用的原因，也因此涌现出了不少不做堂食、只做外卖的餐馆。但这不意味着不是食品生产者的商家可以只占便宜，而免除告知义务。事实上，相对于现炒，餐包的运输、保存，同样有比较高的环境要求，没有了厨房的配置，外卖的二次加工同样得接受严格的监督。<br/><div class="contheight"></div>现行的《餐饮服务食品安全操作规范》，没有对外卖平台使用餐包，作明确的告知要求。虽说法无禁止即可为，不过考虑到食品安全的重要，以及食品行业餐包的普及，外卖平台理当以消费者知情权为目标，对规则进行调整。<br/><div class="contheight"></div>采访中还有一个细节：生产厂家认为，目前市场对加热餐包认同度不高，“不建议告知点餐人”。这其实是一种短期思维，正是这种信息封闭，导致餐包虽然早已流行，但消费者心理上相当抵制，误以为它不安全。<br/><div class="contheight"></div>外卖行业要长远发展，充分满足消费者的知情权，是基本要求。以没有强制规定为由，使用二次加工的餐包制作外卖，等到消费者发现时，只会徒增受骗感。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2332912" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">“外卖可能是十天前做的”追踪：消协呼吁商家主动告知消费者</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 外卖复热</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2333405">
+<div class="nbgbox">
+<a class="zan" contid="2333405" href="javascript:;" onclick="voteCont(this)" praisetimes="81">
+                           80</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 网红外卖</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2333405&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2333405&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">韩媒：韩朝明年2月将同访国际奥委会，共商联合申奥事宜</h1>
+<div class="news_about">
+<p>中国新闻网</p>
+<p>
+							2018-12-14 20:49<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网12月14日消息，据韩联社报道，14日，韩朝在开城联络办公室举行第二次体育合作小组会谈，并商定明年2月同访国际奥委会(IOC)，共商联合申奥等事宜。<br/><div class="contheight"></div>这是韩朝时隔42天，再次开会商讨体育事宜。当天，双方就共同出战2020年东京奥运会暨残奥会的方案达成一致，并决定继续协商联队出战项目和合训日程等有关事宜。<br/><div class="contheight"></div>据报道，双方一致同意，尽早向国际奥委会提交联合申办2032年夏季奥运会的意向书，并将于明年2月15日赴瑞士洛桑，由韩朝和国际奥委会三方共同讨论联合申奥和组联队参赛等事宜。<br/><div class="contheight"></div>届时，韩国文化体育观光部长官都钟焕、朝鲜体育相金一国、韩朝奥委会人员将同国际奥委会主席巴赫会面。<br/><div class="contheight"></div>11月2日，韩朝举行第一次体育合作小组会谈，商定向国际奥委会(IOC)正式提交联合申办2032年夏季奥运会的意向书。<br/><div class="contheight"></div>（原题为《韩媒：韩朝明年2月将同访国际奥委会，商联合申奥事宜》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 朝韩关系,联合申奥</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2740706">
+<div class="nbgbox">
+<a class="zan" contid="2740706" href="javascript:;" onclick="voteCont(this)" praisetimes="60">
+                           59</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 朝韩申奥</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2740706&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2740706&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

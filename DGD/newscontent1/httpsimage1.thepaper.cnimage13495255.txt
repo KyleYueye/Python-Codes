@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">阿富汗喀布尔一政府办公楼遭袭，安全部队7小时解救357人</h1>
+<div class="news_about">
+<p>杜鹃/新华社</p>
+<p>
+							2018-12-25 18:55<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社12月25日报道，阿富汗安全部队24日攻入首都喀布尔一幢政府办公楼，耗时7小时解救357人，击毙3名武装人员。<br/><div class="contheight"></div>政府办公楼遇袭致使至少43人丧生。<br/><div class="contheight"></div><strong>7小时僵持</strong><br/><div class="contheight"></div>阿富汗内政部发言人纳吉布·达尼什说，一名武装人员24日下午驾车至喀布尔城东一处政府办公区前，引爆车内爆炸物，多名武装人员继而闯入残疾人和烈士家庭管理局办公楼。<br/><div class="contheight"></div>听到枪声和爆炸声，一些政府雇员反锁办公室门，一些人跳窗逃生。<br/><div class="contheight"></div>路透社报道，政府安全部队与身份不明的袭击者僵持7个小时。<br/><div class="contheight"></div>安全部队一名高级官员说，安全部队官兵进入楼内，逐层、逐屋搜索。目击者说，安全部队与武装人员交火，至少传出5次爆炸声。<br/><div class="contheight"></div>多名阿富汗官员告诉美联社，357人获救，3名武装人员遭击毙。<br/><div class="contheight"></div>阿富汗卫生部25日证实，袭击致死至少43人，致伤10人。当天早些时候，官方数字显示，28名平民和1名警察丧生，20多人受伤。<br/><div class="contheight"></div><strong>第22次遇袭</strong><br/><div class="contheight"></div>暂时没有任何组织宣布发动这起袭击。<br/><div class="contheight"></div>德新社报道，这是喀布尔今年第22次遭遇袭击。上一次在11月28日，喀布尔第9警区成为汽车炸弹袭击目标，至少10人死亡，另有19人受伤。<br/><div class="contheight"></div>阿富汗总统阿什拉夫·加尼25日说：“恐怖分子袭击平民，是为掩盖他们战场失利。”<br/><div class="contheight"></div>阿富汗首席执行官阿卜杜拉·阿卜杜拉指认塔利班发动这次袭击，“每次他们针对我们的人民发动袭击，我们清剿他们的决心都更加坚定”。<br/><div class="contheight"></div>目击者和政府官员没有提及驻阿富汗美国军队以及其他北大西洋公约组织部队是否参与应对24日袭击。<br/><div class="contheight"></div>多家媒体20日报道，美国政府打算从阿富汗撤出大批美军。路透社报道，撤军方案涉及超过5000名美军官兵；《华尔街日报》报道，撤军可能最早数周后开始。<br/><div class="contheight"></div><strong>风声牵动局势</strong><br/><div class="contheight"></div>只是，驻阿富汗美军司令、北大西洋公约组织驻阿富汗部队指挥官阿斯科特·米勒23日说，没有收到撤军命令。<br/><div class="contheight"></div>按照法新社的说法，撤军风声已经影响阿富汗局势。<br/><div class="contheight"></div>但是，截至25日，没有人确认前一天喀布尔政府办公楼遇袭与美方撤军传言之间有关联。<br/><div class="contheight"></div>加尼23日撤换国防部长和内政部长，继任人选均为阿富汗情报机构国家安全局的前局长，对阿富汗塔利班持强硬立场。<br/><div class="contheight"></div>美国2001年遭受“9·11”恐怖袭击后发动阿富汗战争，推翻美方认定庇护“基地”组织的塔利班政权。美国总统唐纳德·特朗普不满美国在阿富汗长期驻军，2016年竞选期间多次抱怨阿富汗战争耗费美国人的时间、金钱和生命。<br/><div class="contheight"></div>北约2014年正式结束在阿作战行动，启动代号为“坚定支持”的非作战行动，向阿富汗安全部队提供培训、咨询和协助。大约1.6万名北约军人现在驻扎阿富汗，其中1.4万是美军。<br/><div class="contheight"></div>驻阿富汗美军前司令约翰·艾伦推断，美军是“坚定支持”行动的主力，如果现在撤走，哪怕仅仅宣布回撤，也会给北约战略制造混乱。<br/><div class="contheight"></div>（原题为《政府楼遇袭　阿安全部队救357人》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 阿富汗,政府办公楼遇袭,武装人员</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2773563">
+<div class="nbgbox">
+<a class="zan" contid="2773563" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 阿富汗</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2773563&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2773563&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

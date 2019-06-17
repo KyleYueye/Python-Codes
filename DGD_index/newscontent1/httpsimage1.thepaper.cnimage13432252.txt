@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">民法典合同编草案针对霸座、强抢方向盘作出规定</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林平</p>
+<p>
+							2018-12-23 16:41<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">民法典拟规制旅客霸座、抢方向盘等行为。12月23日，《民法典合同编（草案）》提交十三届全国人大常委会第七次会议二次审议。澎湃新闻（www.thepaper.cn）注意到，草案第十八章第二节专门规定了客运合同，拟就近年来客运领域出现的一些新问题作出针对性规定，涉及霸座行为、变相收取票款等情形。<br/><div class="contheight"></div>全国人大宪法和法律委员会副主任委员沈春耀在作情况汇报时指出，一些意见提出，近年来客运合同领域出现不少新问题，一方面，不时发生旅客霸座、强抢方向盘、不配合承运人采取安全运输措施等严重干扰运输秩序和危害运输安全的恶劣行为；另一方面，也存在因承运人履行安全运输义务不到位导致时常发生安全事故，以及承运人通过收取高额挂失补办费的名义变相再次收取票款等损害旅客合法权益的情形。建议对这些问题作出有针对性的规定。<br/><div class="contheight"></div>宪法和法律委员会经研究认为，为了维护正常的运输秩序，保护旅客在运输过程中的人身、财产安全，建议对草案作如下修改:<br/><div class="contheight"></div>一是明确旅客应当按照有效客票记载的时间、班次和座位号乘运。承运人应当按照有效客票记载的时间、班次和条件运输旅客。<br/><div class="contheight"></div>二是明确实名制客运合同的旅客丢失客票的，可以要求承运人挂失补办，承运人不得再次收取票款和其他不合理费用。<br/><div class="contheight"></div>三是明确承运人应当严格履行安全运输义务，及时告知旅客安全运输应当注意的事项。旅客对承运人为安全运输所作的合理安排应当积极协助和配合。遇有不能正常运输的特殊情形和重要事由，承运人应当及时告知旅客并采取必要的安置措施。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 民法典,霸座,强抢方向盘</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766490">
+<div class="nbgbox">
+<a class="zan" contid="2766490" href="javascript:;" onclick="voteCont(this)" praisetimes="175">
+                           174</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 民法典</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766490&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766490&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

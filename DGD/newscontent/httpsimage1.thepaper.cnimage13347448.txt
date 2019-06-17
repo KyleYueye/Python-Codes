@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">普京年度记者会丨首位提问外籍记者来自乌克兰，且破例追问</h1>
+<div class="news_about">
+<p>澎湃新闻记者 刘惠 朱郑勇</p>
+<p>
+							2018-12-20 18:53<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/347/446.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">12月20日，在俄罗斯首都莫斯科，俄罗斯总统普京举行年度记者会。  新华社 图<br/><div class="contheight"></div></span>莫斯科当地时间12月20日12时，俄总统普京举行年度记者会。<br/><div class="contheight"></div>俄总统新闻秘书佩斯科夫表示，今年的新闻发布会有1702名注册记者，为历年最多。在数家俄罗斯媒体围绕经济建设与社会治理集中提问后，普京把第一个外国记者提问的机会给了俄媒《消息报》的乌克兰籍记者。<br/><div class="contheight"></div>普京点名这位乌克兰记者后，主动向其发问，“我记得你每年都来，你是不是要搞点动静？”这位记者则回答，“但《消息报》是俄罗斯的。”<br/><div class="contheight"></div>这位记者的问题聚焦于俄乌两国因刻赤海峡扣船事件引发的紧张关系。普京回答，基辅在刻赤海峡的挑衅，从提高波罗申科支持率的角度来看或许是成功的，也理解这一作为战术选择的做法。但他反问，“这种做法对乌克兰国家有什么好处？”<br/><div class="contheight"></div>据悉，在刻赤海峡事件发生后，乌克兰现任总统波罗申科的支持率从第五名提升至第二名。乌克兰将于明年春举行总统大选。<br/><div class="contheight"></div>普京还破例允许这位俄媒乌克兰籍记者进行俄乌关系问题的追问，而他在发布会开始之初就强调一人只能问一个问题。<br/><div class="contheight"></div>普京强调，乌克兰仍是俄罗斯重要的贸易合作伙伴，两国贸易量仍在增长，且任何试图用武力解决乌克兰东部问题的努力都是徒劳。但他仍对乌克兰政府提出批评，指责乌东地区与乌克兰其他地区之间的封锁是由乌克兰当局造成的。“由于乌克兰政府暂时还处于反俄中，不正常的局势还将继续。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：杨一帆<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 普京,记者会,俄乌关系</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2757046">
+<div class="nbgbox">
+<a class="zan" contid="2757046" href="javascript:;" onclick="voteCont(this)" praisetimes="43">
+                           42</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 普京年度记者会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2757046&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2757046&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

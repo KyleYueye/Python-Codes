@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">德法要求俄方无条件释放乌克兰水手：“水手们也要回家过年”</h1>
+<div class="news_about">
+<p>任洁/环球网</p>
+<p>
+							2018-12-29 16:01<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">德国总理默克尔和法国总统马克龙28日发表联合声明再次要求俄方确保刻赤海峡自由通行并释放乌克兰水手，理由是水手们应该与家人一起度过新年假期。德国内阁官员乌尔丽克•德默尔28日在柏林的新闻发布会上宣读了这一声明。<br/><div class="contheight"></div>据俄罗斯《观点报》12月28日报道，默克尔和马克龙在该联合声明中表示，“我们要求所有船只都能自由通行刻赤海峡，并要求俄方无条件释放非法拘捕的乌克兰水手。”<br/><div class="contheight"></div>根据默克尔和马克龙的说法，水手们应该与家人一起度过即将到来的新年假期。默克尔和马克龙再次对俄乌刻赤海峡事件中“使用武力”表示担忧。<br/><div class="contheight"></div>此外，克里米亚最高委员会主席弗拉基米尔•康斯坦丁诺夫呼吁乌克兰当局不要再在刻赤海峡组织挑衅，应按照国际社会普遍接受的规则使用该航线。“刻赤海峡仍然开放，请您使用但不要进行挑衅。请您阅读一下当时与俄罗斯联邦签署的文件，至少坚持遵守这些规定，这些规定很简单”，康斯坦丁诺夫说。<br/><div class="contheight"></div>12月26日，乌克兰总统波罗申科宣布终止该国为期30天的“戒严令”，该“戒严令”是在俄乌刻赤海峡冲突后颁布的。俄乌双方于11月25日在刻赤海峡附近发生冲突，因乌克兰闯入俄罗斯领海，俄方向三艘乌海军船只开火，并扣押乌方船只及船员。<br/><div class="contheight"></div>（原文标题：《 德法要求俄方无条件释放乌克兰水手 理由：水手们也要和家人过年啊》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 俄乌关系,乌克兰,水手</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2791828">
+<div class="nbgbox">
+<a class="zan" contid="2791828" href="javascript:;" onclick="voteCont(this)" praisetimes="11">
+                           10</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 俄乌关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2791828&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2791828&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

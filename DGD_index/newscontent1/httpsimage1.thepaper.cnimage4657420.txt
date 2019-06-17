@@ -1,0 +1,88 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25427">澎湃人物</a>
+</div>
+<h1 class="news_title">两度与金马奖失之交臂，王千源：不爱健身的裁缝不是好演员 </h1>
+<div class="news_about">
+<p>澎湃新闻记者 孙丹</p>
+<p>
+							2015-11-21 21:22<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<script src="//file.thepaper.cn/www/v3/js/jwplayer7.1.4.js" type="text/javascript"></script>
+<script type="text/javascript">jwplayer.key="JYFbHxc36sStM1VSc1vvyI42CCrHFlTZcWEYUA==";</script>
+<div class="news_video_name">
+<style type="text/css">
+							#player_wrapper{width:669px;height:377px;}
+							#player_wrapper .player_err_tip{width:669px;height:377px;display: none;vertical-align: middle;background-color: black;color: white; text-align: center;}
+							.jw-tab-focus:focus{outline:none;}
+						</style>
+<div id="player_wrapper">
+<div class="player_err_tip" id="Text">抱歉!<br/>您的浏览器可能不支持此视频播放器，请用更高版本的浏览器试试！</div>
+</div>澎湃人物：我们和王千源聊一聊健身(01:26)
+					</div>
+<div class="news_txt" data-size="standard">也许，你曾折服于《解救吾先生》里浑身都是戏的“逼真”绑匪“华子”；也许，你还记得《绣春刀》里肩负升职压力又兄弟情深的锦衣卫“大哥”；也许，你隐约听说过《钢的琴》里下岗工人“陈桂林”的文艺梦……<br/><div class="contheight"></div>在荧幕上，这些个性鲜明的小人物背后，藏着一个教人陌生却早已影帝加冠的名字——王千源。<br/><div class="contheight"></div>2015年10月，王千源凭借《解救吾先生》中绑匪“华子”一角，入围2015年台湾电影金马奖最佳男配角提名。这是他第二次入围金马奖。<br/><div class="contheight"></div>四年前，《钢的琴》就已令王千源的名字进入“金马”视线，虽然未能摘得最佳男主。但2010年时，他的演技已凭借《钢的琴》得到认可，斩获东京国际电影节影帝头衔，成为此奖项近10年唯一华语影帝——这可是和戛纳、威尼斯、柏林等电影节齐名的、亚洲最大电影节。<br/><div class="contheight"></div>随着演技的点赞数增加，最近，王千源还频繁出现在时尚杂志上，只因那轮廓分明的腹肌和什么线都有的身材。为了准备肌肉杂志秀，提前断油断盐都不在话下，健身也是日常习惯之一。<br/><div class="contheight"></div>别以为王千源只有闷头拼的狠劲，人家可是顾家的巨蟹座，上中戏表演班之前，还曾梦想当“裁缝”。<br/><div class="contheight"></div>1972年出生于沈阳演艺世家的王千源，原名王锦鹏，取义“锦绣前程，鹏程万里”。<br/><div class="contheight"></div>高中时因文化成绩不理想，王千源读的是职高，学服装裁剪。当时的王千源已经学会自己做衣服了，本想着考个服装设计师，谁料，因美术功底弱而两次美院落榜。阴差阳错考上了中戏表演班，只得放弃“裁缝”之路，掀开了银幕之旅。<br/><div class="contheight"></div>当演员并不如想象的轻松，他也经历了默默无闻的岁月。<br/><div class="contheight"></div>王千源还曾在中戏边上开过小饭馆，当时师弟刘烨也曾去吃过饭。后因他东北汉子豪爽、好面子的一面，令小饭馆支撑不下去。一时“分心”的王千源意识到，自己是个演员，还是演戏靠谱。<br/><div class="contheight"></div>在二十多年演艺生涯里，从《赢家》中的残疾人，到电影《空镜子》中的娘娘腔、《三七撞上二十一》中的瞿耀东，再到《太平轮》《黄金时代》……无论角色大小，王千源从不马虎对待。<br/><div class="contheight"></div>至于“红不红”，王千源自己看的很淡，他认为不能把得不得奖划为人生的一个标签，“演员是一辈子的事，演好一部戏不牛，关键是一辈子你都能演好戏。”<br/><div class="contheight"></div>（更详细的专访内容，请关注明天的澎湃人物）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = 'http://video.thepaper.cn/video/0/7/671.mp4',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'//image1.thepaper.cn/image/4/657/423.jpg',$wrapper.width(),$wrapper.height())}
+				</script>
+<!-- 审稿人字段 -->
+<!-- 空格分隔后的作者列表-->
+<div class="news_editor">责任编辑：张维<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 王千源 健身 裁缝</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="1399682">
+<div class="nbgbox">
+<a class="zan" contid="1399682" href="javascript:;" onclick="voteCont(this)" praisetimes="80">
+                           79</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 王千源</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=1399682&caid=25427",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=1399682&amp;caid=25427" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（282）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

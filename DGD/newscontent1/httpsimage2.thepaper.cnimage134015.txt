@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜“拘留烧散煤者”为何一再触发舆论敏感神经</h1>
+<div class="news_about">
+<p>澎湃特约评论员 吴元中</p>
+<p>
+							2018-12-09 18:49<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2719558" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜“拘留烧散煤者”为何一再触发舆论敏感神经" src="//image1.thepaper.cn/image/13/31/869.jpg"/>
+</a>
+<div class="atlas_360_txt">曲阳“拘留烧散煤者”一波三折，环保执法与民生需求如何平衡<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">这两天，河北曲阳县发生了一起一波三折的拘留风波：先是12月7日，该县环保局在其微信公号发布一则通报，称自11月26日开始，查处违规燃用劣质散煤人员34人，其中32人为初次违规燃用劣质散煤，对其本人给予治安训诫处罚，家中散煤全部没收；其中2人不听劝导，二次违规燃用劣质散煤，给予其治安拘留处罚。<br/><div class="contheight"></div>这则标题为《我县拘留2名燃烧散煤用户》的消息，引发了舆论热议。之后该县环保局工作人员称，标题可能“措辞不当”，被拘用户系不听劝阻二次使用劣质煤才被治安拘留。<br/><div class="contheight"></div>昨天傍晚，曲阳县政府发文致歉，称此消息内容有误，系工作人员失误所致。曲阳县没有对燃用劣质散煤用户进行过拘留，只给予了批评教育。文中2张图片实为12月6日因非法排污接受询问的两名当事人照片。<br/><div class="contheight"></div>还记得，去年冬天曲阳县就被曝光多所小学未供暖，学生只能靠晒太阳、跑步取暖的事件；此番又因“拘留烧散煤者”，引来舆论哗然，当地前后不一的通报，更让真相变得扑朔迷离。<br/><div class="contheight"></div>众所周知，不管是《治安管理处罚法》、《大气污染防治法》还是《环境保护法》，都没有“使用劣质散煤就可处以行政拘留”等方面的规定。拘留处罚作为严厉程度仅次于刑事处罚的处罚措施，《立法法》又明确只能由法律规定，法律以下的法规、规章等规范性文件是没权规定拘留处罚的，更别说当地《关于进一步加强劣质散煤管控的通知要求》之类的红头文件了。<br/><div class="contheight"></div>虽然说，《治安管理处罚法》第五十条规定，拒不执行人民政府在紧急状态情况下依法发布的决定、命令情节严重的，处五日以上十日以下拘留。但防治污染，只是一种日常行为而非临时性的紧急状态，并不能成为执法依据。而且，《治安管理处罚法》规定的处罚措施共有警告、罚款、行政拘留和吊销公安机关发放的许可证四种，并没有治安训诫措施。<br/><div class="contheight"></div>舆情发酵后，曲阳县政府显然也认识到“拘留烧散煤者”是有问题的，所以才否认进行过拘留。但联系到之前环保局有图有数据的通报，却又让人不得不存疑，事实真相如何，恐怕还需要进一步调查。<br/><div class="contheight"></div>拘留燃烧散煤者，去年有地方也发生过，这一行为之所以触发舆论的敏感神经，除了于法无据，更在于大家对治污“一刀切”的担忧。地方铁腕治污，本无可厚非，但前提只能是在依法行政的基础上，兼顾环保与民生，不让一家一户挨冻过冬。<br/><div class="contheight"></div>治理劣质散煤，包括多地推行的“煤改气”工程，肯定是大方向，但在具体过程中，却不能操之过急，更不能选择性执法、吃柿子拣软的捏。责任应当与违法行为的危害性相适应，如果居民因为生活所需两次燃用劣质煤就被拘留，售卖劣质煤的以及那些排污大户，多次偷排、超标排污的，更该依法严惩。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 拘留,烧散煤</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2721786">
+<div class="nbgbox">
+<a class="zan" contid="2721786" href="javascript:;" onclick="voteCont(this)" praisetimes="369">
+                           368</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 燃烧散煤用户</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2721786&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2721786&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（153）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

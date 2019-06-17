@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25436">能见度</a>
+</div>
+<h1 class="news_title">国家发改委：土库曼斯坦减供天然气“夸大炒作，已逐步恢复”</h1>
+<div class="news_about">
+<p>国家发改委</p>
+<p>
+							2019-01-09 07:26<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中国改革报记者就网上传言“1月8日，土库曼斯坦康采恩减少天然气供应量约3500万立方米/日，后续液化天然气价格或将上涨”向委经济运行调节局负责同志核实。<br/><div class="contheight"></div>经济运行调节局负责同志向记者介绍了有关情况：该负责同志说，首先，传言并不准确，有夸大炒作之嫌。<br/><div class="contheight"></div>2018年天然气产供储销体系建设扎实推进，并取得积极成效，进入供暖季以来，天然气供应保障各项工作总体平稳有序。供暖季天然气消费量起点较高，11月15日北方地区全面进入供暖季以来一直保持在每天8.3亿立方米以上，11月21日即达到8.64亿立方米，突破去年冬季8.62亿立方米的最高值，截至目前，日供气量超过10亿立方米的天数已达12天，最高时曾连续2天达到10.37亿立方米。期间，土库曼斯坦康采恩供气曾出现过短时间波动，包括这次，出现波动会对天然气供应运行产生影响，但因为每次时间不长、规模不大，因此影响有限。据我们从中石油了解到，8日下午土库曼斯坦康采恩供气已逐步向计划值恢复。<br/><div class="contheight"></div>目前，三大石油公司地下储气库、LNG储罐可采气量90亿立方米左右，且有大量LNG资源正陆续到港，有较为充足的资源调控余地，有准备有能力保障后续天然气稳定供应。<br/><div class="contheight"></div>对于市场上恶意炒作推动LNG价格上涨行为，我委将积极配合市场监管部门加大价格检查和巡查力度，依法严厉查处哄抬价格、串通涨价等违法违规行为，切实维护天然气市场正常秩序。<br/><div class="contheight"></div>（原标题：委经济运行调节局负责同志就土库曼斯坦供气向记者介绍情况）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：海阳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2830161">
+<div class="nbgbox">
+<a class="zan" contid="2830161" href="javascript:;" onclick="voteCont(this)" praisetimes="52">
+                           51</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 天然气进口</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2830161&caid=25436",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2830161&amp;caid=25436" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

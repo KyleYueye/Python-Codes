@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">今年赴泰中国游客人数突破千万创历史新高</h1>
+<div class="news_about">
+<p>陈家宝/新华网</p>
+<p>
+							2018-12-20 11:38<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社曼谷12月20日消息，泰国旅游部门及业界19日举行仪式，欢迎今年到泰的第1000万名中国游客，庆贺赴泰中国游客人数创历史新高。<br/><div class="contheight"></div>来自中国云南的何纬新当天下午抵达曼谷素万那普机场，成为今年第1000万名到访泰国的中国游客，她获得来自旅游机构提供的包括机票、购物券在内的礼品。<br/><div class="contheight"></div>何纬新告诉新华社记者，这是她的第二次泰国之旅。她喜欢泰国美丽的风光、丰富的历史文化，很享受在泰方便顺畅的自由行。<br/><div class="contheight"></div>这是泰国政府首次举行专门针对中国游客的欢迎仪式。泰国旅游和体育部部长威拉萨当天在机场举行的欢迎仪式上说，中国游客是泰国旅游业的最大客源，今年赴泰中国游客首次超过千万人次，是泰中旅游交流的里程碑。<br/><div class="contheight"></div>他说，泰国不应只着眼于中国游客的消费能力，而应注重为游客打造安全、舒适、干净的旅游环境，改善二线城市的旅游设施，提高接待能力和服务质量，为游客带来良好的旅游体验。<br/><div class="contheight"></div>据统计，2017年共有超过3500万人次外国游客赴泰旅游，其中中国游客超过980万人次。<br/><div class="contheight"></div>今年下半年以来，受普吉沉船事故及曼谷机场保安殴打中国游客事件影响，赴泰中国游客人数锐减，泰国政府随后推出了多种面向中国游客的优惠措施。<br/><div class="contheight"></div>（原题为《赴泰中国游客破千万创历史新高》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 泰国,旅游,中国游客</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2755510">
+<div class="nbgbox">
+<a class="zan" contid="2755510" href="javascript:;" onclick="voteCont(this)" praisetimes="17">
+                           16</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 赴泰旅游</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2755510&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2755510&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

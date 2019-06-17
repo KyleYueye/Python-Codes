@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">半月谈评论：让“安全”成为校园的天然属性</h1>
+<div class="news_about">
+<p>萧海川/半月谈网</p>
+<p>
+							2019-01-09 10:30<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近期，部分地区出现在校中小学生受到暴力伤害的事件，让“校园安全”这一话题重回公众视野。校园安全的重要性毋庸赘言，但落实校园安全主体责任、扎牢校园安全制度篱笆，更需要脚踏实地的细致工作。<br/><div class="contheight"></div>安全重于泰山，这样一个浅显的道理，在一些学校眼中却轻于鸿毛。前不久，某地26所学校因未按规定整改校园安全隐患，被警方处以罚款、警告、责令限期整改等行政处罚。诸如校舍未通过消防验收就投入使用、安全疏散出口被锁闭、视频监控室无人值守、校招保安人员未向公安机关报备等隐患，均出现在整改清单上。不禁令人疑问：这些学校日常安全管理松懈到何种程度?<br/><div class="contheight"></div>“严”字当头，要先将态度摆端正，真正把校园安全置于基础性位置。没有校园安全，高质量教学、高素质育人便无从谈起。一次次血的教训已经证明，在安全意识上有一丝麻痹大意，都可能导致无法挽回的后果。学校不是一般的公共场所，教学楼的防震等级越建越高，学校保安员、一线教师、主要管理者的安全意识更需水涨船高。这样才能让学校成为平安社会建设中的一块高地。<br/><div class="contheight"></div>校园安全，不是学校教育的补充，而是其有机组成部分。校门内外，环境迥异。作为教书育人的重要途径，学校教育不应局限于单纯传授学科知识，更应协助学生做好适应社会要求、应对突发情况的准备。但当前校园安全教育，多是开一门课、发几本教材、做一些演习，口头说教多、实际操作少。当紧急情况来临，这些日常安全教育只能说聊胜于无。<br/><div class="contheight"></div>打造更加安全的校园环境，并不是教育系统一家的事，需要社会多方“心往一处想、劲往一处使”。眼下，有的地方政府通过购买社会服务，为学校配置专业的保安人员;有的家长团体自发组成家长护卫队，志愿维护高峰时段校外秩序;有的学校未雨绸缪，主动安排教师接受急救员培训……这些举措都为加强校园安全提供了很好的借鉴。更严肃的态度、更严谨的管理、更严厉的惩处……唯有如此，校园安全的防护网才能越织越密，让“安全”成为校园的天然属性。<br/><div class="contheight"></div>（原题为：《半月谈评论：让“安全”成为校园的天然属性》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中小学生,暴力伤害,校园安全</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831030">
+<div class="nbgbox">
+<a class="zan" contid="2831030" href="javascript:;" onclick="voteCont(this)" praisetimes="4">
+                           3</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 校园安全</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831030&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831030&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

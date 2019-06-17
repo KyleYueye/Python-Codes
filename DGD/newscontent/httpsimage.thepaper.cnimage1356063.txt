@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25444">社论</a>
+</div>
+<h1 class="news_title">【社论】拿民众健康牟暴利，就该重典治乱</h1>
+<div class="news_about">
+<p></p>
+<p>
+							2018-12-27 17:55<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="283" src="http://image.thepaper.cn/www/image/13/560/67.jpg" width="600"/></div><br/><div class="contheight"></div>国家市场监管总局最新发声。12月27日上午，国家市场监管总局局长张茅在全国市场监管工作会议上透露，将建立违法严惩制度，对于故意违法、造成严重后果的企业，实行巨额罚款，强化刑事责任追究。同时建立巨额赔偿制度，在涉及群众生命健康的领域，加大对消费者的直接赔偿力度。<br/><div class="contheight"></div>这次全国市场监管工作会议，涉及的议题较广。关于疫苗安全，会议提出对疫苗实施最严格的监管，加大批签发检验和现场检查力度；关于奶粉安全，会议透露将启动新一轮婴幼儿配方乳粉生产企业体系检查。同时，会议也发出一个明确信号：“涉及群众生命健康的领域，将加大直接赔偿力度”。<br/><div class="contheight"></div>这些举措和表态，体现了主管部门对于与民众生命健康相关领域的重视。就眼下看，最近几天“百亿保健帝国” 权健自然医学科技发展有限公司引发争议一事，无疑最受社会关注。对此，市场监管总局相关负责人亦作出正面回应：总局正在了解权健产品相关情况，调查清楚事实后再进行下一步工作。<br/><div class="contheight"></div>从奶粉到疫苗，从一般药品到保健品，涉及民众生命健康的领域，监管从来不容丝毫含糊。对于权健这类保健品营销企业可能存在的问题，过去媒体多有报道，社会质疑也不少，但一直缺乏全盘式的监管调查。这次随着舆论关注和市场监管总局专门表态，天津市也已成立联合调查组进驻权健集团展开核查，相信能给公众一个水落石出的盖棺定论。<br/><div class="contheight"></div>现实中，像权健这样的保健品营销企业，管理层面确实存在一定的模糊空间。比如，在监管序列上，中国是将保健食品立法纳入食品范畴管理，而非药品。有参加过食品安全法征集意见的专家就表示，保健食品的概念在法规中“模糊化了”。这在一定程度上，为保健品市场留下了野蛮生长的空白地带。权健在争议中一路做大，或就是代表性案例。<br/><div class="contheight"></div>“在涉及群众生命健康的领域，加大对消费者的直接赔偿力度”，自然也包括保健品行业。一些涉嫌虚假宣传、价格欺诈的保健品，不仅“谋财”，也给不少受骗者带来了实质伤害。<br/><div class="contheight"></div>这次“丁香医生”的文章就指出，全国多份司法文书显示，有消费者在使用“火疗”后遭受烧伤。那么，若权健涉及消费者控诉的案件成立，不妨考虑首先试用“巨额赔偿制度”。<br/><div class="contheight"></div>涉及民众生命健康的领域，就应该奉行重典治乱。当然，这不只是包括事后的严惩，更指该领域的监管资源配置与相应的监管机制设计，都要配得上社会对于生命健康的核心关切。任何企业的盈利模式，如果是建立在打民众生命健康主意的基础上，就应该一票否决。无论其创造多大的地方经济效益，都不应该姑息。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 市场监管</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2781011">
+<div class="nbgbox">
+<a class="zan" contid="2781011" href="javascript:;" onclick="voteCont(this)" praisetimes="143">
+                           142</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 市场监管</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2781011&caid=25444",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2781011&amp;caid=25444" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（50）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

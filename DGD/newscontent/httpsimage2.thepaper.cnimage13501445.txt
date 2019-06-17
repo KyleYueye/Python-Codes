@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">应勇调研世博文化公园建设：建成市民欢聚共享的城市中心公园</h1>
+<div class="news_about">
+<p>澎湃讯</p>
+<p>
+							2018-12-25 20:32<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/501/363.jpg" width="600"/></div>上海市委副书记、市长应勇25日下午调研世博文化公园建设工作时指出，要深入贯彻落实习近平总书记考察上海重要讲话精神，落实绿色发展理念，以高品质生态支撑高质量发展。要根据市委、市政府决策部署，<strong>按照“百年大计、世纪精品”的要求，对世博文化公园统一规划、统筹运营、协同建设、精雕细琢，一张蓝图干到底，努力建成经得起历史和人民检验、代表国际文化大都市形象、市民欢聚共享的世界一流城市中心公园</strong>，打造成上海面向未来、面向世界转型发展的重要标志。<br/><div class="contheight"></div>位于浦东滨江地区的世博文化公园，规划建设面积近2平方公里。该项目结合已建成的后滩湿地公园、世博会部分保留场馆，以及大歌剧院、温室花园、国际马术中心等建设，<strong>将打造上海中心城核心区最大的沿江公园，陆上面积相当于8个延中绿地。目前公园部分区域已开工建设，计划2021年基本建成。</strong><br/><div class="contheight"></div>下午，应勇和市委常委、浦东新区区委书记翁祖亮一行来到世博文化公园地块，察看区域土地现状，并对照规划图，详细了解腾地工作进展。上海地产集团负责人介绍说，目前正全力深化公园总体方案，抓紧开展江南园林、温室花园、世界花艺园、地下空间一体化等专项设计。在世博文化公园沙盘前，市领导详细了解公园整体布局、植物造景、交通组织等情况，<strong>要求公园规划建设坚持以绿为主，尽可能减少不必要的建筑物，让世博文化公园真正成为市中心的城市绿肺，市民休憩共享的大公园。</strong><br/><div class="contheight"></div>在随后召开的座谈会上，地产集团汇报了世博文化公园重点项目及建设推进情况，市相关部门也相继发言。应勇不时插话询问，与大家一同研究讨论。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/501/362.jpg" width="600"/></div>应勇对世博文化公园规划建设进展充分肯定并指出，<strong>在浦东滨江建设世博文化公园，是市委、市政府着眼于完善生态系统、提升空间品质、延续世博精神、建设社会主义现代化国际大都市的重大举措。</strong>要一以贯之抓推进、抓落实，将这一大手笔打造成代表上海城市形象的大作品、市民欢聚共享的好去处。要强化公园的整体性，世博文化公园由多个重大项目组成，尽管功能多样、建设管理主体多元，但<strong>必须始终坚持统一规划设计、统筹运营管理、协同协调建设。地上空间要坚持开放共享，</strong>每个建筑都是公园的有机组成部分，不能人为分隔。地下空间要充分利用，坚持一体化设计，确保连通便捷通畅。<br/><div class="contheight"></div>应勇指出，世博文化公园要进一步深化细化规划设计方案，<strong>充分融入江南文化元素，体现既要有绿化也要有文化、既要有森林也要有园林的理念，通过点面有机融合，打造富有江南园林特色的公园。</strong>要进一步明确不同区块的功能定位，<strong>做足生态绿化功能，做强文化体育功能，做优休憩休闲功能。</strong>要优化内外部交通组织，让市民来得了、进得去、玩得好。要在保证设计质量、建筑质量和注重安全的前提下，加快推进公园建设。<br/><div class="contheight"></div><span style="color: rgb(128, 128, 128);">（本文照片均张春海 摄）</span></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 世博文化公园</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2774228">
+<div class="nbgbox">
+<a class="zan" contid="2774228" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 世博文化公园</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2774228&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2774228&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

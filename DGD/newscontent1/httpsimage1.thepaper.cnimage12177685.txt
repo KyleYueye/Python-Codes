@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">女子微信请假未获回复旅游5天归来后遭开除，起诉单位被驳回</h1>
+<div class="news_about">
+<p>云南网</p>
+<p>
+							2018-11-12 11:52<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">一年前，云南大理白族自治州女子罗某想外出旅游，选择直接在微信上向分管领导请假，但未得到相关回复。随后，她按照自己的出行计划旅游5天后才回到单位。然而，事情并没有那么简单，罗某的供职单位以其未经单位批准连续旷工5个工作日，严重违反了劳动纪律及工作制度为由，决定解除与她签订的劳动合同。这事最终闹到了法院，该怎么判呢？<br/><div class="contheight"></div>据介绍，2015年9月，罗某来到某幼儿园工作，期间签订了劳动合同，从2015年9月1日起至2018年9月1日止。2017年6月中旬，罗某为出国旅游办理签证，申请单位向其出具《在职证明》，之后在微信上向其分管领导请假，未得到相关回复。2017年6月下旬，罗某出国旅游5天后回到单位，却收到了单位向其发放的处理决定。因罗某未经单位批准连续旷工5个工作日，严重违反了劳动纪律及工作制度，幼儿园决定解除与罗某签订的劳动合同。<br/><div class="contheight"></div>罗某认为其已经在微信上向分管领导请假，且单位出具的《在职证明》可以证明单位知晓其请假事由并已经同意其请假。罗某遂向大理市劳动人事争议仲裁委员会申请仲裁，要求单位向其支付违法解除劳动合同的赔偿金，在仲裁委驳回其仲裁请求后向人民法院提起了诉讼。<br/><div class="contheight"></div>经审理，大理市人民法院认为该幼儿园出具的《在职证明》是为罗某办理签证而提供的材料，不能作为其同意罗某请假的依据；罗某与分管领导之间的微信聊天记录未能证实领导是否同意罗某请假。遂驳回了罗某的诉讼请求。<br/><div class="contheight"></div>法官表示，根据《中华人民共和国劳动合同法》第三十九条第（二）项规定，劳动者有下列情形之一的，用人单位可以解除劳动合同：（二）严重违反用人单位的规章制度的。本案中，罗某作为劳动者在办理请假手续过程中，未经用人单位领导审批同意请假，持续5个工作日未正常上班，严重违反了该幼儿园的规章制度，符合上述用人单位可以解除劳动合同的情形，因此幼儿园解除与罗某的劳动合同并未违反法律规定。<br/><div class="contheight"></div>劳动合同法在赋予劳动者单方解除权的同时，也赋予用人单位对劳动合同的单方解除权，以保障用人单位的用工自主权，劳动者严重违反单位规章制度，用人单位可以与劳动者解除劳动关系。（原标题： 女子发微信向领导请假未获回复 出国游玩5天归来被单位开除）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李寿康<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 云南 请假</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2625358">
+<div class="nbgbox">
+<a class="zan" contid="2625358" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 被开除</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2625358&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2625358&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（963）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

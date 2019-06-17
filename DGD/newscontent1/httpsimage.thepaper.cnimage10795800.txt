@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">深观察｜台风中这么多树倒了，不该问个为什么吗？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 姚华松</p>
+<p>
+							2018-09-26 13:22<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/10/795/808.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">2018年09月18日，广东东莞，台风“山竹”过后，大量树木倒下，倒下的树仍未清理完。 视觉中国 资料</span><br/><div class="contheight"></div>由于事先预防工作到位，刚刚过去的台风“山竹”并未给广州、珠海、江门等沿海城市带来人员严重的伤亡，但这些城市的很多树木却未能幸免。几十年、上百年的古木和大树被风吹倒，工人师傅们忙于锯断树木的景象，这些天随处可见。这些老城区的大树和古木，承载着街坊们的记忆，是重要的城市文化景观。它们为何离开我们？意味着什么？这需要深究。<br/><div class="contheight"></div>现场目测发现很多大树被连根拔起，树根普遍不长，附着的泥土很少，树干、树枝和树叶倒很多，根据力的作用原理，接触面越多，风对地面树干的作用力越大，而地下部分的根系牵扯力很小，两相比较，“头重脚轻”的严重失衡结构造成上下不协调，最终难逃倒塌的厄运。<br/><div class="contheight"></div>背后的深层逻辑是什么呢？在生态文明建设、卫生城市、绿色城市、森林城市、低碳城市、美化城市运动、生态环境优美、投资环境良好等旗帜和口号感召下，追逐良好的城市形象、提高城市绿化率成为绝大部分城市政府的生态发展目标，“造城运动”和“造绿运动”于是成为一对孪生姐妹，相伴而生：一方面，快速工业化、城市化和现代化日渐消弭城市原有的自然和绿色，一方面，方兴未艾的名贵苗木、珍稀树种遍布城市显要位置，彰显这座城市的欣欣向荣。<br/><div class="contheight"></div>很多古木、大树不是在城市原有土地上自然生长的，而是从别的地方移植过来的，为了运输与栽种便利主根会被砍掉，遵照“根系生活的宽度大致等于树冠宽度”的通行做法，在栽种过程中树木的四周往往被砖砌一个方正的“窝”。树根的生长空间本来非常狭小，当小根侧向生长遭遇砖块，它们应该如何生长？只有浅浅的主根，没有诸多小根从泥土里吸收进而输送营养补给主根，试想树木如何可以茁壮生长？至于为何要“圈养”树木，城管人员的解释是，如果不处理掉大根、不“圈养”起来，卫生会比较难搞。 <br/><div class="contheight"></div>城市发展需要“面子”，要让市民触手可及城市的枝繁叶茂、绿树成荫和环境优美。而“面子”的重要保障是“里子”，“里子”就是城市发展客观规律、城市生物生长规律与生态伦理。我们要存敬畏之心！<br/><div class="contheight"></div>我们要善待城市的一草一木、一虫一鸟，让这些生灵可以舒展和自由生长；我们要明晰树木生长发育规律，熟知主根与次根的生态关联性，知道只有根深才能蒂固，预见到那些速生树、移栽盆只会是昙花一现；我们要旗帜鲜明的拒斥那些矫揉造作、弄虚作假和表面光鲜，要充分尊重和传承城市的本真性；我们要反思“快速城市化、工业化和现代化”导向下的各种名目繁多的“空间修复”（spatial fix）。我们要更加智慧地处理好人与自然、发展与传承、速度与质量的辩证关系。我们要规避狭义的“以人为本”，以为就是我们人类自身。我们身边的建筑、城市里的动植物，离我们不远处的郊区和乡村，这些我们所处的“环境（要素）”都是广义“人”的范畴。<br/><div class="contheight"></div>我们有责任有义务增进城市的生物多样性，让万物生灵都共享更加美好的世界，因为她们也是这个更加美好世界的重要缔造者！<br/><div class="contheight"></div>（作者系广州大学副研究员）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 山竹台风</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2475662">
+<div class="nbgbox">
+<a class="zan" contid="2475662" href="javascript:;" onclick="voteCont(this)" praisetimes="288">
+                           287</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 台风“山竹”</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2475662&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2475662&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（62）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

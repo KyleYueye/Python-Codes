@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25433">地产界</a>
+</div>
+<h1 class="news_title">深圳推出“先租后让”工业用地，未通过履约考核将被收回</h1>
+<div class="news_about">
+<p>王晓丹/新华社</p>
+<p>
+							2018-12-26 09:41<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">记者从深圳市规划和国土资源委员会（简称深圳市规划国土委）获悉，深圳市24日出让一宗“先租后让” 工业用地，企业竞得该地块后取得承租权，租赁期满通过履约考核后可以选择续租或出让，出让金扣除已缴纳租金，将大大降低企业用地成本。<br/><div class="contheight"></div>12月24日，深圳市永联科技股份公司以3270万元竞得位于深圳市龙岗区宝龙工业城的“先租后让”地块。该宗地用地面积7394.36平方米，根据规划指标，容积率4.0，总建筑面积29577平方米。深圳市规划国土委有关负责人介绍，该宗地成为在高度城市化的北上广深一线城市率先探索“先租后让”供应模式出让的工业用地。<br/><div class="contheight"></div>根据要求，企业竞得该地块，取得5年承租权，租赁期间不得转让、转租或抵押。企业需与政府签订土地使用权租赁合同及产业发展监管协议，租赁期限内，企业的产值、税收等各项指标通过履约考核，则上述土地使用权由租赁转为出让；如果未能通过履约考核，租赁期满将收回土地使用权。<br/><div class="contheight"></div>该宗地的竞拍准入行业类别为新能源产业或新一代信息技术，且租赁申请人从事该地块准入行业不少于5年，租金按年缴纳，租赁期满后既可以选择续租也可以选择出让，出让金扣除已缴纳租金。深圳市规划国土委有关负责人介绍，这将大大降低企业用地成本，有助于企业将资金用于科技投入，促进实体经济发展。<br/><div class="contheight"></div>（原标题为《深圳推出“先租后让”工业用地》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：庞静涛<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 先租后让</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2775555">
+<div class="nbgbox">
+<a class="zan" contid="2775555" href="javascript:;" onclick="voteCont(this)" praisetimes="12">
+                           11</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 深圳工业地</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2775555&caid=25433",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2775555&amp;caid=25433" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

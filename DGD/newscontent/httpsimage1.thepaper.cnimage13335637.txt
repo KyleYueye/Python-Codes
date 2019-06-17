@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">韩军：明年推进收回战时指挥权，建立主导作战能力</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2018-12-20 15:01<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网12月20日报道，今天（20日），韩国国防部长官郑景斗在首尔龙山国防部大楼向韩国总统文在寅汇报2019年工作计划。韩联社说，这份计划可以用三个关键词概括：缓和紧张、国防改革和移交作战权。<br/><div class="contheight"></div><strong>根据计划，每年4月在韩国实施的大规模韩美联合野外机动演习将缩减规模，改为在年内实施，联合指挥所演习则按惯例在上半年和下半年各进行一次。</strong><br/><div class="contheight"></div>此前，韩美每年3月和8月分别举行“关键决断”(KR)和“乙支自由卫士”(FG)指挥所演习，以电脑模拟等方式进行，该两大演习名称也将随之更改。另外，韩美两军正在协商调整每年4月进行的野外机动联演参加兵力和武器规模，并将时间改为年内进行。这意味着每年4月进行的“鹞鹰”联演不仅会更名，如此大规模的机动演习也将不复存在，然而对于是否完全取消“鹞鹰”演习，韩国国防部方面表示尚未决定。韩军单独进行的太极演习将于明年5月与政府的演习合并实施。每年8月进行的乙支演习提前至5月进行。<br/><div class="contheight"></div>另外，韩国国防部还表示，明年将致力于为战时作战指挥权的移交做好实质验证准备。为了建立韩军战区作战主导能力，将通过韩美联演，验证适用“未来联合指挥结构”（韩军大将任司令、美军大将任副司令）的1阶段作战能力。<br/><div class="contheight"></div>报道还说，为应对威胁，构建核心军事力量，引进F-35A战斗机、提升“爱国者”导弹性能、建造“张保皋-Ⅲ”级潜艇等189个项目将正常推进。韩军常备兵力将从59.9万人减至57.9万人，到2022年保持在50万人规模。 <br/><div class="contheight"></div>（原题为《韩军：明年推进收回战时指挥权 建立主导作战能力》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 韩国军方,战时指挥权收回</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2755998">
+<div class="nbgbox">
+<a class="zan" contid="2755998" href="javascript:;" onclick="voteCont(this)" praisetimes="29">
+                           28</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 韩国军方</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2755998&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2755998&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

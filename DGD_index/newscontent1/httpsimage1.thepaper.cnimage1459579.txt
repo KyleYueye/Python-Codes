@@ -1,0 +1,86 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">大连一居民楼煤气泄漏爆炸， 9人受伤送医暂无生命危险</h1>
+<div class="news_about">
+<p>澎湃新闻记者 钟笑玫 喻琰 实习生 郭春娟</p>
+<p>
+							2019-01-08 22:47<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<script src="//file.thepaper.cn/www/v3/js/jwplayer7.1.4.js" type="text/javascript"></script>
+<script type="text/javascript">jwplayer.key="JYFbHxc36sStM1VSc1vvyI42CCrHFlTZcWEYUA==";</script>
+<div class="news_video_name">
+<style type="text/css">
+							#player_wrapper{width:669px;height:377px;}
+							#player_wrapper .player_err_tip{width:669px;height:377px;display: none;vertical-align: middle;background-color: black;color: white; text-align: center;}
+							.jw-tab-focus:focus{outline:none;}
+						</style>
+<div id="player_wrapper">
+<div class="player_err_tip" id="Text">抱歉!<br/>您的浏览器可能不支持此视频播放器，请用更高版本的浏览器试试！</div>
+</div>突发！八一路一栋居民楼发生煤气爆炸，9人受伤送医，居民疏散。 视频来源：微博网友@猫尾纪(00:15)
+					</div>
+<div class="news_txt" data-size="standard">1月8日晚，有网友发布微博称大连一房屋发生爆炸，图片及视频显示2楼至4楼楼板垮塌。当晚10时许，大连市人民政府新闻办官方微博@大连发布 发布消息称，8日19点10分许，在西岗区八一路荣信巷13号楼4楼发生煤气泄漏。接到110报警后，八一路派出所民警、属地巡特警和煤气公司工作人员立即赶赴现场，在排查煤气泄露点过程中发生煤气爆炸，造成9人受伤，已全部送至医院救治，无生命危险，楼道居民已全部疏散，目前现场已无明火。<br/><div class="contheight"></div>此前稍早时候，大连市119火警受理中心工作人员向澎湃新闻（www.thepaper.cn）证实，8日19时39分，接到大连市西岗区八一路荣信巷一居民楼突发爆炸的警情，爆炸波及2楼至4楼，消防工作人员已赶到现场处置，未获悉有死亡情况。<br/><div class="contheight"></div>据事发地附近居民刘女士反应，爆炸时其正在家中吃饭，她家离13号楼不到1000米左右，“响声特别大，以为地震了，周围楼的人有些慌张。”19时50分左右刘女士去现场看到四楼发生爆炸，“楼上楼下楼板都漏了，看到两个人被抬出来。”<br/><div class="contheight"></div>另据一位来自大连海洋大学的学生称，自己家离事发楼直线距离不到八百米，“我家在山坡上，爆炸点在坡下。”当时自己正在家中玩游戏，听到声响后吓了一跳，“以为地震了，一声儿特别大。之后好像有一声儿不大。”<br/><div class="contheight"></div>据中央电视台新闻中心官方微博@央视新闻 ，今晚约20时左右，大连市西岗区八一路一栋居民楼发生爆炸，声音巨大，附近多栋楼房有震动感觉。约21点左右，明火被扑灭。记者在现场群众手机拍摄的视频中看到，消防队员救出伤者，并将一名困在阳台上的儿童转移到安全地带。现场人员伤亡的具体信息以及爆炸原因正在调查。<br/><div class="contheight"></div>另据@大连发布 消息，大连市委书记谭作钧、市长谭成旭要求全力救治伤员，查明事故原因，防止次生灾害发生，常务副市长卢林、副市长杨耀威等赶赴现场组织部署现场救援、群众安置等相关工作。目前，现场无人员死亡，轻伤9人，已全部送到医院救治，现场局面平稳可控。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = 'http://cloudvideo.thepaper.cn/video/faf4472c67094760ab2714606f6545e1/hd/d1798ab8-51ed-4e85-9b91-bf299a311371-2242e7bc-47cc-6630-ef40-af1c68e7323d.mp4',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'//image2.thepaper.cn/image/14/59/586.jpg',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李闻莺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 大连 煤气泄漏 爆炸</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2830095">
+<div class="nbgbox">
+<a class="zan" contid="2830095" href="javascript:;" onclick="voteCont(this)" praisetimes="70">
+                           69</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 煤气泄漏</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2830095&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2830095&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

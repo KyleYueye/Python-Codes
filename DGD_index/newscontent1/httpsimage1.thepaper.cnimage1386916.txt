@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">英媒披露政府“两面派”：在谴责卡舒吉案同时与沙特交易武器</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-03 20:41<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><span style='color: rgb(51, 51, 51); font-family: "Hiragino Sans GB", "Microsoft Yahei", sans-serif; letter-spacing: 0.5px;'><div style="text-align:center;"><img alt="" height="297" src="http://image.thepaper.cn/www/image/13/869/13.jpg" width="550"/></div></span><span style="color: rgb(128, 128, 128);"><span style='font-family: "Hiragino Sans GB", "Microsoft Yahei", sans-serif; letter-spacing: 0.5px;'><span style='font-family: "Hiragino Sans GB", "Microsoft Yahei", sans-serif; letter-spacing: 0.5px;'>卡舒吉 资料图</span></span></span><span style='color: rgb(51, 51, 51); font-family: "Hiragino Sans GB", "Microsoft Yahei", sans-serif; letter-spacing: 0.5px;'><span style='color: rgb(51, 51, 51); font-family: "Hiragino Sans GB", "Microsoft Yahei", sans-serif; letter-spacing: 0.5px;'><br/><div class="contheight"></div></span>沙特记者卡舒吉被害案又有进展的同时，英国媒体却毫不客气地选择曝光英国政府在此期间的“两面派”做法。<br/><div class="contheight"></div>据英国路透社1月3日援引沙特通讯社消息，沙特法院已正式开庭审判涉嫌参与谋杀记者卡舒吉的11名嫌疑人，检察官要求判处其中5人死刑。而另据英国《镜报》2日在报道中披露，英国政府在卡舒吉案发生之后，一边公开谴责着沙特方面的暴力行径，一边仍在私下里与沙特政府商讨着大规模的武器交易。<br/><div class="contheight"></div>卡舒吉遇害前为《华盛顿邮报》等多家媒体供稿，他今年10月2日进入沙特驻土耳其伊斯坦布尔领事馆办理结婚相关手续时神秘失踪，其后证实被杀。沙特已承认卡舒吉死于“谋杀”。 <br/><div class="contheight"></div>10月22日，英国外交大臣杰里米·亨特向英国议会发表讲话，对卡舒吉谋杀案表示强烈谴责。亨特在讲话中使用了“最严厉的”谴责词语，称如果这一事件属实的话，“便与英国的价值观根本违背，英国将采取行动。”在此之后，英国宣布贸易部长连姆·福克斯访问沙特首都利雅得的计划因故取消。但英国《镜报》2日披露，虽然英国在这一时期名义上取消了与沙特方面的交流，与此同时私下却和沙特方面进行着数额巨大的武器交易。<br/><div class="contheight"></div>《镜报》披露，英国国防与安全组织（Defence and Security Organisation ）的一个代表团（注：该组织实为英国国际贸易部下属的负责推进英国对外武器销售的办公室）于10月14日和22日先后两次秘密访问利雅得，商讨两国之间武器交易的相关情况，第二次的到访更是与亨特的“谴责”讲话同一天发生。<br/><div class="contheight"></div>据英国《独立报》2日报道，早在卡舒吉被害案被公开之前，英国政府就因为向涉嫌挑起也门内战的沙特方面提供武器而受到广泛批评。据统计，自也门内战爆发以来，英国一共向沙特先后出售了总价值高达47亿英镑（约合406亿人民币）的武器，这也使得沙特成为了英国这段时间武器对外销售的最大买家。<br/><div class="contheight"></div>此次《镜报》所披露的内容也间接证明，在各国因为卡舒吉被害案而停止向沙特出售武器之后，英国政府并没有选择这么做。一名反对武器贸易组织人士在接受采访时表示，“英国政府和亨特大臣在卡舒吉事件后很快加入了‘谴责’的队伍，但实际上他们没有做任何事情来阻止武器贸易的发生，而后者则可能会带来更多的暴行和杀戮。”<br/><div class="contheight"></div></span></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 卡舒吉</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2810433">
+<div class="nbgbox">
+<a class="zan" contid="2810433" href="javascript:;" onclick="voteCont(this)" praisetimes="179">
+                           178</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 卡舒吉</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2810433&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2810433&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（43）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

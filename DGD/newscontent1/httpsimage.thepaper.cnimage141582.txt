@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">不满政府推迟大选，泰国约百名活动人士在曼谷举行和平集会</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-07 14:37<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">由于不满泰国政府推迟了大选，约100名活动人士在曼谷胜利纪念碑附近举行和平集会。<br/><div class="contheight"></div>据中新社1月6日报道，活动人士于当天下午4时聚集在胜利纪念碑轻轨站(BTS)附近的天桥上，手里举着写有“不拖延”、“2月24日选举”等字样的纸张，高呼反对推迟大选投票的口号。随后他们来到纪念碑周围的街道上，唱起泰国国歌，然后在下午6时左右散去。现场有警方维持秩序，以防止集会妨碍行人和轻轨乘客。<br/><div class="contheight"></div>活动组织者表示，此次集会只是一个开始，如果没有得到满意的答复，近日他们将再次组织和平抗议集会。<br/><div class="contheight"></div>此前，据新华社1月4日报道，泰国副总理威沙努当天表示，政府建议选举委员会重新考虑大选时间，以免大选后的政治活动与5月初的泰国国王加冕仪式冲突。泰国当局原计划于今年2月24日举行2014年政变后的首次大选。目前，宣布大选时间的王室谕令尚未颁布。<br/><div class="contheight"></div>根据威沙努的说法，泰国国王加冕大典将在今年5月4日至6日举行，在此前后约一个月时间内，泰国还将举办一系列相关仪式和活动，这将与大选后日程发生冲突。他因此建议将大选日期推迟一个月，使大选结果可在加冕大典及相关仪式结束后公布。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 泰国,大选,加冕仪式</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2823613">
+<div class="nbgbox">
+<a class="zan" contid="2823613" href="javascript:;" onclick="voteCont(this)" praisetimes="8">
+                           7</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 泰国大选</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2823613&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2823613&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

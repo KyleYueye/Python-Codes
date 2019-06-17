@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">普京年度记者会丨互联网也有规则，歌手不能蛊惑年轻人吸毒</h1>
+<div class="news_about">
+<p>澎湃新闻记者 刘惠 朱郑勇</p>
+<p>
+							2018-12-20 19:16<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/347/131.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">12月20日，在俄罗斯首都莫斯科，俄罗斯总统普京举行年度记者会。  新华社 图<br/><div class="contheight"></div></span>莫斯科当地时间12月20日中午，俄总统普京举行年度记者会。<br/><div class="contheight"></div>有记者提问，普京曾在文化委员会发言时批评说唱使国家堕落，但年轻人喜欢在社交网络做出一些批评，甚至爆一些粗口。对此，俄政府今后会不会有些严厉的管理措施？<br/><div class="contheight"></div>普京以一个故事作为开头。他讲，在第二次车臣战争中，俄军104空降团第2营的96名官兵都是19岁到20岁的样子，面对敌人2000人的进攻，最后只有6个人经历艰苦的战斗活下来——这才是年轻人该有的样子。<br/><div class="contheight"></div>普京表示，俄罗斯有各种年轻人，包括演员等，但亵渎国旗和国家的象征，是否应该有更严厉的措施？这种措施很多国家都有。互联网也有规则。<br/><div class="contheight"></div>普京指出，被拘捕的说唱歌手，他们的歌词中有粗口，但这不是最重要的，俄政府不会因为他们唱了些粗俗的歌曲就把他们抓起来。<br/><div class="contheight"></div>“我批评说唱堕落，是歌手在歌曲中的语言及其个人行为是在蛊惑年轻人吸毒。这就严重了。”普京强调，不能让青年为所欲为，要遵守一定的行为准则，有一定的红线。要在非常谨慎的、全面考虑的基础上规范青年艺术家的行为。<br/><div class="contheight"></div>普京表示，俄罗斯要提倡更健康的文化。艺术存在的本身不是为了满足低级趣味的文化需求，而是要提升人们的审美。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：杨一帆<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 普京,互联网</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2757242">
+<div class="nbgbox">
+<a class="zan" contid="2757242" href="javascript:;" onclick="voteCont(this)" praisetimes="122">
+                           121</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 普京年度记者会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2757242&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2757242&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

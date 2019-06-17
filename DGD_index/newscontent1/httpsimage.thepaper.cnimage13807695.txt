@@ -1,0 +1,76 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">金正恩称随时愿与特朗普会面，中方：望朝美尊重彼此合理关切</h1>
+<div class="news_about">
+<p>环球网</p>
+<p>
+							2019-01-02 16:15<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">环球网1月2日消息，2019年1月2日外交部发言人陆慷主持例行记者会，有记者问道，据报道，朝鲜领导人金正恩在新年贺词中表示随时愿与特朗普总统会面，并重申了实现半岛无核化意志。金正恩还向韩国总统文在寅致亲笔新年贺信，表示将积极寻求机会访韩。也有报称，金正恩也向特朗普传递了与朝美对话有关的信函信息。中方对此有何评论?<br/><div class="contheight"></div>陆慷回应称，我注意到有关报道。过去一年来，朝鲜半岛局势发生重要和积极变化，半岛问题重回对话谈判轨道，北南关系实现全面改善发展。中方充分肯定朝方为实现半岛无核化所采取的一系列重要举措，支持朝方继续坚持无核化立场、坚持和平对话，支持朝美以及朝韩双方延续良好互动势头，继续互释善意、巩固互信、改善关系，推动半岛无核化和半岛问题政治解决进程。<br/><div class="contheight"></div>正如习近平主席12月29日应约同美国总统特朗普通话时所指出的，中方鼓励和支持朝美双方继续开展对话并取得积极成果。我们希望朝美双方尊重和照顾彼此合理关切，新的一年能在推进朝鲜半岛无核化和构建朝鲜半岛和平机制进程方面取得积极进展。中方将继续为此发挥自己的作用。<br/><div class="contheight"></div>（原题为《金正恩新年贺词表示随时愿与特朗普会面 中方：希望朝美尊重彼此合理关切》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2803082" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">特朗普回应金正恩新年贺词：我也期待与他会晤 </span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2801428" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">金正恩新年贺词：愿随时与特朗普会面，有意重启开城工业园区</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 朝美关系,金正恩新年贺词,特朗普</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2804276">
+<div class="nbgbox">
+<a class="zan" contid="2804276" href="javascript:;" onclick="voteCont(this)" praisetimes="17">
+                           16</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 朝美关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2804276&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2804276&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

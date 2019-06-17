@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">韩国民调：文在寅支持率降至45.9%，创新低</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-31 13:17<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">韩国民调机构Realmeter于12月31日发布的一项数据显示，韩总统文在寅施政支持率下滑至45.9%，再次创下他执政以来的新低。<br/><div class="contheight"></div>据韩联社12月31日报道，Realmeter本月26-28日对全国2011名成年人进行了问卷调查。结果显示，45.9%的受访者对文在寅施政给予积极评价，较上周下滑1.2个百分点，给予消极评价的受访者则上升3.6个百分点，达49.7%，首超积极评价应答者所占比例。<br/><div class="contheight"></div>Realmeter分析称，韩国经济不景气是导致支持率下滑的主因。另外，青瓦台被疑非法监视平民，致使青瓦台首次遭检方搜查等问题，也是导致支持率下滑的部分原因。<br/><div class="contheight"></div>韩朝4月在板门店举行首脑会谈后，文在寅施政支持率一度升至77.4%，创下今年以来新高，但受到主要经济指标持续下滑、朝美无核化谈判僵持不下等因素影响，支持率曾下滑至53.1%。韩朝领导人9月在平壤举行会谈后，支持率再次回升至65.3%。但10月起针对政府经济政策和公务员纪纲问题的舆论持续发酵，文在寅支持率也随之从11月起一路下滑，连日创新低。<br/><div class="contheight"></div>从各党支持率来看，执政党共同民主党为36.8%，较上周下滑1.2个百分点；最大在野党自由韩国党为25.7%，上升0.3个百分点；正义党为9%，上升0.9个百分点；正未来党和民主和平党分别为7.1%和2.4%。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：廖婧雯<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 韩国，文在寅，支持率</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2799462">
+<div class="nbgbox">
+<a class="zan" contid="2799462" href="javascript:;" onclick="voteCont(this)" praisetimes="19">
+                           18</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 文在寅</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2799462&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2799462&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

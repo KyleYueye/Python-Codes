@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜周琦被裁：当不了“大魔王”，就做自己的追风少年</h1>
+<div class="news_about">
+<p>澎湃特约评论员 陈禹潜</p>
+<p>
+							2018-12-18 17:51<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/284/356.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);"><span style="text-align: start;">周琦 视觉中国 图</span></span></div><div>北京时间今天早上，NBA火箭队官方宣布：球队已经裁掉中国球员周琦。至此，除了丁彦雨航，NBA再不见中国球员身影。</div>这让国内一些篮球迷有些不适应，但周琦却挺乐观，发微博称“心中想的依然是每一名中国球员不变的篮球梦想。我依然认为我是一个幸运儿，毕竟我拥有的荣誉已经远超我最初的梦想”，道出了一名运动员在追逐更好竞技表现过程中的精神支撑——梦想与成长。 <br/><div class="contheight"></div>职业篮球运动员都有一副远超常人的身板，被裁的周琦，虽然对抗能力和易受伤的“玻璃人”属性总让人担心，但在亚洲赛场上也是臂展超出常人、运动能力惊人的“小超人”。而全世界无数篮球爱好者，NBA只接受几百个，乔丹更是只有一个。所以对于多数普通人来说，篮球梦肯定不是职业赛场梦，更难是NBA梦。事实上，追梦也不一定要成为第一，在此过程中，你拾得的，都是宝贵的收获。 <br/><div class="contheight"></div>周琦刚进NBA时顶着一个“大魔王”的外号，有些德不配位的捧杀意味。比赛没有得分时，又总缺球迷揶揄：“‘大魔王’周琦震惊NBA，全场狂砍一发球。”这些舆论场上的纷扰，他都给予了淡定成熟的应对。 <br/><div class="contheight"></div>他也算得上谦虚。每次被批评，总说自己不够好，会继续努力。他有着还不错的文笔，喜欢在微博上长篇“连载”自己的感想，让人在篮球以外，也能看到这个22岁的年轻人细腻的内心和永不言弃的精神。慢慢的，球迷们理解、鼓励他，给他出主意，很少再出言笑话。 <br/><div class="contheight"></div>经过NBA的磨练，周琦在今年雅加达亚运会赛场上“大帽四方”，让中国男篮的禁区成为了“禁飞区”，带领中国队拿下一枚宝贵的金牌。这是他的成长，包容的球迷们也由衷的高兴。 <br/><div class="contheight"></div>所以，体育——包括竞技体育，求胜并不能包含所有。周琦在火箭队不到两个赛季的时间里，成长是显而易见的。 <br/><div class="contheight"></div>对于公众来说，对体育的热爱，更是如此。你收获了健康的体魄，竞技的快乐，澎湃的热情，这些都让人获益一生。说到底，各得其所的乐融才是“全民健身”的真谛。连周琦都为自己的进步欣喜，淡化被裁的郁气，球迷们也可以学着放下了。 <br/><div class="contheight"></div>著名篮球评论员杨毅评论说：“一个篮球运动员不是非得打NBA，也不是只能用在NBA的成果来证明自己。”这句话可以是任何行业的注脚。体育也好，职场也罢，你不能成为众望所归的“大魔王”，不妨做自己的追风少年，用不懈的努力和坚持静待梦想之花绽放。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 周琦被裁</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2750001">
+<div class="nbgbox">
+<a class="zan" contid="2750001" href="javascript:;" onclick="voteCont(this)" praisetimes="81">
+                           80</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 周琦</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2750001&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2750001&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

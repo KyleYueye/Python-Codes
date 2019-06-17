@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25491">长三角政商</a>
+</div>
+<h1 class="news_title">想下车解手未果，浙江男子借酒劲抢夺公交车方向盘被取保候审</h1>
+<div class="news_about">
+<p>澎湃新闻记者 葛熔金 通讯员 杜烨</p>
+<p>
+							2018-12-24 12:23<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">因为中途想下车小便未被允许，浙江湖州市男子俞某借着酒劲抢夺公交车方向盘，导致公交车险些与迎面的大货车相撞。<br/><div class="contheight"></div> 12月24日，澎湃新闻（www.thepaper.cn）从湖州市安吉县公安局获悉，俞某的行为已危害到公交车上10名乘客的生命安全，警方以涉嫌危险方法危害公共安全罪对俞某进行刑事拘留案件正在进一步调查当中。目前俞某因身体原因被取保候审。<br/><div class="contheight"></div> 12月7日12时20分许，安吉县交运公共交通服务有限公司下属的城乡公交线路司机潘名勇驾驶公交车从该县杭垓镇开往孝丰镇，车辆行驶约8分钟时，一名男子突然上前抢夺方向盘。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="158" src="http://image.thepaper.cn/www/image/13/449/370.gif" width="280"/></div> “当时天上刚刚飘起雪、路上有点滑，我注意力集中在开车上。”潘名勇告诉澎湃新闻，一名男子过来说想下车小便让他停车，他回复说下雪天又是下坡路不能停车，男子说再不停车要拉方向盘，他双手紧握方向盘，让乘客赶紧回座位坐好。但没一会儿，该男子冲上前直接抢夺他手中的方向盘。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="339" src="http://image.thepaper.cn/www/image/13/449/371.jpg" width="600"/></div> 公交车监控视频显示：7日12点28分许，车辆正在306省道黄岭长下坡路段快速行驶时，一男子从驾驶座后方的第二个座位上起身，突然上前抢抓司机的方向盘，公交车对面正驶来一辆集装箱大货车。<br/><div class="contheight"></div> 潘名勇告诉澎湃新闻，事发时他只能紧紧抓住方向盘，幸好车辆未发生方向偏离，随后他立即靠边停车，拨打报警电话，并向公司汇报。看到他报警后，涉事男子有些焦急，吵着要开车门下车，但他没同意，这名男子一直骂骂咧咧，还想对他动手。<br/><div class="contheight"></div> “我非常感谢车上的乘客。有一名年轻乘客看到这个男的想动手打我，立刻警告如果敢打人，‘大家一起把你按倒’。”潘名勇告诉澎湃新闻说，该男子听后就挥拳打了3下车门，接着用脚踹前挡风玻璃，又脱下一只鞋子，对着前挡风玻璃连续敲击4下，所幸车门和玻璃均未受损。后来该男子又过来抢走驾驶室一串钥匙，试图使用钥匙开车门，但未成功。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="158" src="http://image.thepaper.cn/www/image/13/449/372.gif" width="280"/></div> 7日12点40分，杭垓派出所民警赶到现场。经调查，涉事男子俞某，57岁，上墅乡人。<br/><div class="contheight"></div> 俞某向警方交代，前段时间他与妻子闹矛盾，妻子回了杭垓镇娘家未回。12月7日一早他赶到杭垓镇，希望妻子跟自己回家，结果见面又大吵了一架。由于情绪低落，当天中午他在一家小饭馆喝了约半斤白酒，随后乘坐公交车回家。车上他之所以抢抓方向盘，是因尿急想上厕所而司机不肯停车。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：谢春雷<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 浙江男子，抢夺公交车方向盘，取保候审</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768323">
+<div class="nbgbox">
+<a class="zan" contid="2768323" href="javascript:;" onclick="voteCont(this)" praisetimes="40">
+                           39</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 乘客抢公交车方向盘</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768323&caid=25491",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768323&amp;caid=25491" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（232）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

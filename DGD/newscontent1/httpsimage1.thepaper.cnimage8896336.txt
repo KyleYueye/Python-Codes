@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜12年后“做四休三”？不如先把“做五休二”落实好</h1>
+<div class="news_about">
+<p>澎湃特约评论员 与归</p>
+<p>
+							2018-07-16 15:12<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2265575" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜12年后“做四休三”？不如先把“做五休二”落实好" src="//image1.thepaper.cn/image/8/882/428.jpg"/>
+</a>
+<div class="atlas_360_txt">社科院报告：建议2030年起全国范围内实行4天工作制<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">近日，中国社会科学院发布了《休闲绿皮书：2017-2018年中国休闲发展报告》，建议从2030年起实行“做四休三”，也就是每天工作9小时，每周工作4天共36小时的工作制。并称，届时，国家可以取消每年通过前挪后借形成的黄金周或小长假制度；员工可根据自身需要与单位进行协商，灵活安排自己的假期。<br/><div class="contheight"></div>绿皮书建议的出发点无疑是好的，意在让劳动者获得更多的休闲时间，更灵活地安排自己工作之外的生活。但是，在加班文化风靡企业、“996”成为常态、公司和单位“内部规定”频出的情况下，这样的愿景就成了远景，这样的建议也就几无现实意义。<br/><div class="contheight"></div>在现实语境下，“做四休三”实则有一种“可望而不可及”的尴尬。据中央电视台、国家统计局等联合发起的“中国经济生活大调查”结果显示，除去工作和睡觉，2017年中国人每天平均休闲时间为2.27小时，较三年前的2.55小时有所减少，仅为英美等发达国家的二分之一。这反映出两个趋势：一是，目前中国国民工作负担整体还在加重；二是，社会经济发展到一定程度，工作负担是可以递减的。 <br/><div class="contheight"></div>问题即出现在这个矛盾上：在工作负担仍在加重、休闲时间尚在压缩的阶段，单纯建议工作时间从每周40小时减到36小时，是超前的空想，不切实际。暂且不说，很多企业无法接受，一些员工自己恐怕也无法接受：他们还指望多上两天班，多挣一点绩效工资呢。 <br/><div class="contheight"></div>另一个不确定因素是，建议兑现的时间是2030年。十二年，这对高速发展的社会来说，太久了，谁也无法想象十二年后的工作环境和劳动模式会是什么样。人工智能发展如何了？技术进步到哪个程度了？多少工种更新迭代？有网友戏称，“能不能保住现有工作还不确定”，当这一担忧遭遇“一周休几天”的问题，后者就不是问题了。 <br/><div class="contheight"></div>而从另一个角度来说，将建议兑付在12年后，这恰恰也反映了一些研究者针对眼下加班泛滥、休息权和带薪休假无法有效落实的境遇无能为力，只能寄希望于未来十二年间社会的自我调节和客观进步。但务实的做法是且只能是，先把纸面已有的权利保障好、已有的制度维护好，落实到位，再渴求更进一步。<br/><div class="contheight"></div>此外，这一建议一旦不合时宜地提前，很可能引发新问题，比如，拉大休息权的“贫富差距”。一些原本就比较清闲的行业或岗位，将会更加人浮于事；而连“做五休二”、8小时工作制都无法正常保障的行业或岗位，也基本不可能落实好“做四休三”。如此一来，“做四休三”只是演化成了一部分人对另一部分人的羡慕嫉妒恨。<br/><div class="contheight"></div>当然，或许若干年以后，劳动效率得到了很大提高，技术填补了很多现实中的bug，休息权得到了充分重视，“做四休三”的美梦能够得以实现。但一切的一切，都回到一个现实前提：只有脚下的土地足够坚实，人才可以迈开步子。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 做四休三 休闲绿皮书</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2267186">
+<div class="nbgbox">
+<a class="zan" contid="2267186" href="javascript:;" onclick="voteCont(this)" praisetimes="38">
+                           37</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 休闲绿皮书</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2267186&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2267186&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（81）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

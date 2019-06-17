@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">天津公安相关负责人首次接受采访，介绍“权健事件”调查详情</h1>
+<div class="news_about">
+<p>孙强、王子鑫、韩汝旭/央视新闻客户端</p>
+<p>
+							2019-01-08 15:26<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="433" src="http://image.thepaper.cn/www/image/14/34/641.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">央视记者专访天津公安机关相关负责人<br/><div class="contheight"></div></span>央视新闻客户端1月8日消息，截至1月7日，权健自然医学科技发展有限公司实际控制人束某某等18名犯罪嫌疑人已被依法刑事拘留。天津公安机关相关负责人，也在今天（1月8日）接受了央视记者专访，首次介绍“权健事件”调查详情。<br/><div class="contheight"></div>天津市公安局经侦总队副总队长刘学铸介绍：1月1日，天津市公安机关对权健自然医学科技发展有限公司涉嫌组织、领导传销活动罪和涉嫌虚假广告罪立案侦查。1月7日，对束某某依法刑事拘留。1月2日，公安机关对在权健肿瘤医院涉嫌非法行医的朱某某也立案侦查，并且对他采取了依法刑事拘留。截至1月7日，天津市公安机关已对权健公司实际控制人束某某等18名犯罪嫌疑人依法刑事拘留，对另外2名犯罪嫌疑人依法取保候审。<br/><div class="contheight"></div>（原题为《天津公安机关相关负责人首次接受采访 介绍权健事件”调查详情》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 权健事件</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827532">
+<div class="nbgbox">
+<a class="zan" contid="2827532" href="javascript:;" onclick="voteCont(this)" praisetimes="36">
+                           35</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 权健</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827532&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827532&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（471）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

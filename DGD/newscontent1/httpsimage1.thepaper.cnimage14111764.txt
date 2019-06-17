@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25435">金改实验室</a>
+</div>
+<h1 class="news_title">连续两日强势升值，人民币汇率在岸、离岸涨破6.79</h1>
+<div class="news_about">
+<p>澎湃新闻记者 陈月石</p>
+<p>
+							2019-01-10 11:52<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">仅仅用了不到两个交易日，人民币对美元汇率就强势从6.85强势反弹并升破了6.79关口。<br/><div class="contheight"></div>1月10日，在岸市场上，人民币对美元即期汇率以6.8170开盘，随后接连升破6.81、6.80和6.79关口。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="819" src="http://image.thepaper.cn/www/image/14/111/761.jpg" width="600"/></div>离岸人民币汇率同样强势，1月10日最高升值至6.7897。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="821" src="http://image.thepaper.cn/www/image/14/111/762.jpg" width="600"/></div>1月10日，人民币对美元中间价报人民币中间价报6.8160，升值366个基点，为去年8月30日以来新高，上一交易日官方收盘价6.8330，夜盘收报6.8175。<br/><div class="contheight"></div>北京时间1月10日凌晨，美联储公布12月公开市场委员会（FOMC）会议纪要。会议纪要显示，加息是在少数委员不愿加息的情况下进行的，他们认为缺乏通胀压力，反对再次加息，且承认未来的政策路径“不那么清晰”。<br/><div class="contheight"></div>受此影响，美元指数大幅走低，跌幅近1%，逼近95关口。<br/><div class="contheight"></div>事实上，进入2019年，人民币汇率保持强势：今年以来人民币对美元中间价升值了0.69%，即期汇率升值1%，离岸人民币对美元汇率升值了1.15%。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑景昕<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835920">
+<div class="nbgbox">
+<a class="zan" contid="2835920" href="javascript:;" onclick="voteCont(this)" praisetimes="23">
+                           22</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 人民币汇率</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835920&caid=25435",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835920&amp;caid=25435" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

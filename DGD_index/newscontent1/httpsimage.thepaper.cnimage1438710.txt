@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">光明网：权健倒了，能吓得住老年人么？</h1>
+<div class="news_about">
+<p>光明网评论员/“光明网”微信公众号</p>
+<p>
+							2019-01-08 17:32<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">在引发舆情两周后，权健倒了。这十几天，大量保健品科普帖和传销分析帖井喷，试图借此完成一次社会观念的抬升，不过文章概念中的受众——比如老年人，能被真相“吓”住么？<br/><div class="contheight"></div>够呛。<br/><div class="contheight"></div>看三个数据。2015年中国保健协会调查数据显示，目前我国每年保健品的销售额约2000亿元，其中老年人消费占了50%以上。2018年的网络传销调查显示，相信熟人传销导致上当受骗金额超过5000元的案件中，60岁以上人群占比达到40.12%。同样在今年，由社科院牵头的另一项调查显示，中老年人网上受骗比例高达67.3%——这里统计的是50岁以上人群。<br/><div class="contheight"></div>有点不礼貌的说，如果一位老年人能概览上述密集的数字，那么可能会更不容易被传销掌控；如果这样数字密集的段落他会本能跳过，那么他也同样不会阅读那些事实上以他为对象的分析帖。铺天盖地新闻案例和身边事，帮我们绘出了传销所瞄准的老年群体的画像：可能，一个文章段落数字超过三个，就没有阅读欲望了；一个信息需要两个以上信源交叉印证，就不想再追问了；一件事情要经过几个逻辑推断，就不会再深入了。<br/><div class="contheight"></div>熟人社会和权威崇拜，解决了上述问题。逻辑判断是一件烧脑的事情，但如果一个组织打上“中华”“全国”“国家扶持”“文化产业”“有政府背景”的名号，或再有退休官员站台，那么这种“权威性”就可以自然覆盖其逻辑硬伤；信息源可疑也没关系，只要有朋友圈加持，只要熟人都在用、都说好，那么可以等同于“眼见为实”。从20世纪初的旁氏骗局开始，传销的心理控制术已经经历了精妙化的推演，而中国老年群体，为这种精妙控制提供了合适的抓取对象。<br/><div class="contheight"></div>整体主义的判断一般都会非常粗糙，但又不得不承认，一代人共同的成长履历在传销和保健品骗局中清楚的呈现出来。人在少年时代开始形成知识构架时，被强化训练的是对权威的服从，而不是独立判断和质疑精神，当遇到思想中的博弈时，就会自然调动“权威不能质疑”的观念免疫系统。而当这样的思维方式，与熟人社会的传统调和，则更容易衍生出从众的心理，衍生出人多就意味着对、人多就意味着好、人多就意味着可行性的惯性判断。<br/><div class="contheight"></div>与之相关的另一个结果是文化与社交生活贫瘠。光明网评论员曾在另一篇文章中提到，对分布在三、四线城市和小城镇的老人而言，如果他要读书，很少有社区图书馆或读书会；要听讲座，也罕有不卖药、不卖理疗仪、不推销理财产品的。能选择的社交和文化活动屈指可数，主线就是以理财产品、“线上投资”、保健品买卖为主题的松散集会。借着这些活动，邻里间有了聊天话题，老朋友间有了聚在一起喝酒的机会。传销者组织的观摩活动变成了邻居一起短途出游的契机，产品推销现场成了休闲和社交的场所。传销与保健品买卖，在此已经成为了形成社群的轴线，早已超出了经济活动的影响范围。<br/><div class="contheight"></div>不止一篇文章总结过，容易被传销洗脑的人群是恰恰是代际意义上的“两端”——青年学生和老年人。有意思的是，如果扫描相关研究，以防范大学生传销为主题的社会刍议、教育论文、思想政治工作方法不胜枚举，而在相关论文平台输入“传销+老人”“传销+老年人”，文章则屈指可数。这是不是可以看作一个隐性的社会判断：对于思维模式已经成型的群体，“防范”二字是乏力的。<br/><div class="contheight"></div>津门权健轰然倒塌，当然比文字构建的防范机制更有力。但能不能在重点群体中砸出点响动，或者说，是不是需要持续性的传销查处才能警醒谁，还要看。<br/><div class="contheight"></div>（本文原题为《权健倒了，能吓得住老年人么？ | 光明网评论员》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 权健,保健品</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828067">
+<div class="nbgbox">
+<a class="zan" contid="2828067" href="javascript:;" onclick="voteCont(this)" praisetimes="150">
+                           149</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 保健品骗老人</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828067&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828067&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（59）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25491">长三角政商</a>
+</div>
+<h1 class="news_title">江苏8条新批城铁：多条时速350公里从南京直插皖南苏北</h1>
+<div class="news_about">
+<p>澎湃新闻记者 袁杰</p>
+<p>
+							2019-01-10 09:14<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">2018年12月底，江苏新获批复8条城际铁路。<br/><div class="contheight"></div>这些城际铁路都有何特点，时速多少？1月9日上午，江苏省政府召开新闻发布会，对这8条城际铁路进行了解读。<br/><div class="contheight"></div>之前的<strong>2018年12月26日，国家发改委正式印发《关于江苏省沿江城市群城际铁路建设规划（2019-2025年）的批复》，同意近期规划建设宁淮、宁宣、盐泰锡常宜、宁扬宁马、苏锡常都市快线等8个城际铁路项目</strong>。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）从新闻发布会获悉，8条线路从不同的角度出发，目标是加快补齐江苏铁路建设“短板”。<br/><div class="contheight"></div>其中，为了支持南京加快打造首位度高的省会城市、区域中心城市，规划中有一半（4个项目）和南京有关，包括宁淮铁路、宁宣铁路、宁滁蚌亳铁路江苏段以及宁扬宁马城际镇江至马鞍山段。<br/><div class="contheight"></div>其中，连接南京和淮安的宁淮城际、连接南京至安徽宣城的宁宣城际，以及宁滁蚌亳城际江苏段，也就是南京至安徽滁州段，都将是高标准的时速350公里项目。<br/><div class="contheight"></div>还有一个时速350公里的项目是盐泰锡常宜铁路，从盐城出发，由南向北穿过泰州，过江进入江阴、常州，至宜兴。建成后，该线路将成为江苏中部铁路干线。<br/><div class="contheight"></div>此外，宁镇扬一体化关键项目，也就是串联扬州、镇江、南京禄口机场和马鞍山的宁扬宁马城际铁路，时速将是250公里。<br/><div class="contheight"></div>苏锡常都市快线、苏州经淀山湖至上海城际，以及如东-南通-苏州-湖州线苏州至吴江段，时速都将是160~200公里。<br/><div class="contheight"></div>澎湃新闻注意到，苏锡常都市快线将串联起苏锡常地区，经常州奔牛机场、苏南硕放机场等交通要塞，服务于苏锡常地区的通勤。<br/><div class="contheight"></div>而从苏州南部出发，经淀山湖至上海项目，以及苏州至吴江段项目，不仅将提振苏州南部发展，更将成为沪苏浙两省一市交界处的关键性交通基础设施。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李克诚<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 江苏，城际铁路，解读</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2834550">
+<div class="nbgbox">
+<a class="zan" contid="2834550" href="javascript:;" onclick="voteCont(this)" praisetimes="209">
+                           208</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 江苏城际铁路</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2834550&caid=25491",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2834550&amp;caid=25491" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

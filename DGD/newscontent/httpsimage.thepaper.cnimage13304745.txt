@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">菲律宾筹建新的液化天然气接收站，中日企业展开竞争</h1>
+<div class="news_about">
+<p>澎湃新闻记者 廖婧雯</p>
+<p>
+							2018-12-19 14:51<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">菲律宾的国产液化天然气预计将于2024年枯竭，因此该国已开始着手计划建设新的液化天然气（LNG）接收站。对此，中日两家企业分别与两家菲律宾本土企业合作，以争夺菲律宾液化天然气接收站项目开发和运营订单。<br/><div class="contheight"></div>据《日本经济新闻》12月18日报道，日本东京燃气公司已与菲律宾当地发电站企业第一代公司（First Gen Crop.）达成合意，以期在本月争取到项目订单。与此同时，中国海洋石油集团也和当地石油总经销商结为伙伴，展开争夺。<br/><div class="contheight"></div>马拉帕雅（Malampaya）气田是目前菲律宾天然气的最主要来源，这座正由壳牌公司为首的财团经营的气田可满足菲律宾最大岛屿吕宋岛40%至45%的电力需求，吕宋岛的GDP占全国的三分之二。<br/><div class="contheight"></div>但就目前情况来看，马拉帕雅气田的天然气资源预计将在2024年耗尽。因此，菲律宾计划将开始进口液化天然气，以供应首都马尼拉以南巴丹加斯省的燃气发电厂。不仅如此，菲律宾还希望新建的接收站能成为该地区的液化天然气贸易中心。<br/><div class="contheight"></div>菲律宾能源部预测菲律宾国内电力需求到2040年为5000万千瓦，将比2016年扩大3.7倍。另外，2017年菲律宾的发电站的燃料比例分别为：煤炭占50%，再生能源在25%，其中再生能源的22%都是天然气。菲律宾今后对天然气的需求将不会减少，天然气枯竭之前建立液化天然气接收站的任务迫在眉睫。目前菲律宾仅有一座液化天然气接收设施，一旦其停工进行维修，电力供应困难，该国电价便会飞涨。<br/><div class="contheight"></div>菲律宾能源部部长阿方索·库西（Alfonso Cusi）希望，截至2022年，全国居民都能享受正常供电。<br/><div class="contheight"></div>据《日经亚洲观察》此前报道，菲律宾计划在吕宋岛南部新建的液化天然气接收站预计耗资20亿美元。据《日本经济新闻》报道，这一全新液化天然气接收站建成后，预计将每年进口300万至500万吨液化天然气，经过“再天然气化”后提供给附近的发电站。<br/><div class="contheight"></div>据路透社10月30日报道，菲律宾方面已从18家提交了项目提案的企业中选出了3家候选者。其中包括正在为该项目寻找合作伙伴的菲律宾国家石油公司、已经建立合作伙伴关系的东京天然气与菲律宾第一代公司，以及一直以合作伙伴身份与菲律宾凤凰石油公司进行谈判的中国海洋石油总公司。<br/><div class="contheight"></div>《日本经济新闻》报道称，菲律宾第一代公司负责人吉尔斯普诺（Giles Puno）12月5日曾颇有信心地向媒体表示，日本东京燃气公司具备更多信息和技术，在液化天然气接收站项目的竞争中具有更大优势。东京燃气是日本最大的液化天然气接收及销售公司，1885年成立，控股多个天然气发电厂和北海道燃气等燃气公司，主要供应东京都市区和北海道地区。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李怡清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 菲律宾,液化天然气,中日竞争</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2752477">
+<div class="nbgbox">
+<a class="zan" contid="2752477" href="javascript:;" onclick="voteCont(this)" praisetimes="157">
+                           156</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中日关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2752477&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2752477&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

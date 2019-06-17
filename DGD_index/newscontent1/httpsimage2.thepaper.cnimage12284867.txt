@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">江必新：坚决制裁各类行政侵权行为，让权利实现成本可接受</h1>
+<div class="news_about">
+<p>蒋蔚/最高人民法院官网</p>
+<p>
+							2018-11-15 22:03<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">11月15日上午，最高人民法院第三巡回法庭在江西省景德镇市组织召开巡回区第五次行政审判工作座谈会，最高人民法院党组副书记、副院长、第三巡回法庭庭长江必新出席会议并讲话，强调要坚持以习近平新时代中国特色社会主义思想为指导，深入学习贯彻习近平总书记在民营企业座谈会上的重要讲话精神，坚持以行政纠纷实质化解为目标，认真对待行政相对人的各项权益，更好发挥行政审判保护产权的应有作用。<br/><div class="contheight"></div>江必新指出，人民法院的基本属性、以人民为中心的执政理念、法治的基本要义、行政诉讼的核心功能、现代司法的职责使命、当前行政审判的基本形势、行政法律关系的固有特点，均要求行政审判工作必须认真对待行政相对人的权益。<strong>巡回区各级法院要进一步畅通权利救济渠道，坚决捍卫法定权利和正当利益，坚决制止制裁各类行政侵权行为，助力和支持相关权利得到实现，高度重视对行政相对人公法权利的保护，探索建立阻止行政主体侵权行为发生的机制，为权利的正当行使提供明确裁判指引，为权利的实现提供更加便利的条件和可接受的成本。</strong><br/><div class="contheight"></div>江必新强调，在上述工作过程中，要正确处理守住权利边界和守住义务底线的关系，正确处理形式保护和实质保护的关系，正确处理保护实体权利和保护程序权利的关系，正确处理保护法定权利和保护正当利益的关系，正确处理特殊保护和平等保护的关系，正确处理保护诉讼当事人权益和其他利害关系人权益的关系，正确处理保护个人权益和保护公共利益的关系，正确处理保护行政相对人权益和支持行政机关依法行政的关系，正确处理保护权益与防止权利滥用的关系，正确处理保护案内行政相对人权益和保护案外行政相对人权益的关系。<br/><div class="contheight"></div>会上，第三巡回法庭通报了今年1-10月巡回区行政审判工作情况。全国人大代表于集华、张婧婧、余梅应邀出席座谈会。最高人民法院行政庭、第三巡回法庭及巡回区五省（市）高院相关负责同志参加了座谈。<br/><div class="contheight"></div>（原标题《江必新在三巡第五次行政审判工作座谈会上强调 认真对待行政相对人权益 加大行政审判产权保护力度》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：谭君<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 刑侦审判 行政侵权 权利实现</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2638016">
+<div class="nbgbox">
+<a class="zan" contid="2638016" href="javascript:;" onclick="voteCont(this)" praisetimes="40">
+                           39</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 行政诉讼</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2638016&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2638016&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

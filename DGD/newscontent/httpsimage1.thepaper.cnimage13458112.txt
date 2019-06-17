@@ -1,0 +1,86 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25491">长三角政商</a>
+</div>
+<h1 class="news_title">浙江小货车高速公路自燃两吨冻螃蟹被烤熟，车主损失十万元</h1>
+<div class="news_about">
+<p>澎湃新闻记者 陈雅儒 通讯员 黄星 朱俊飞</p>
+<p>
+							2018-12-24 17:17<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<script src="//file.thepaper.cn/www/v3/js/jwplayer7.1.4.js" type="text/javascript"></script>
+<script type="text/javascript">jwplayer.key="JYFbHxc36sStM1VSc1vvyI42CCrHFlTZcWEYUA==";</script>
+<div class="news_video_name">
+<style type="text/css">
+							#player_wrapper{width:669px;height:377px;}
+							#player_wrapper .player_err_tip{width:669px;height:377px;display: none;vertical-align: middle;background-color: black;color: white; text-align: center;}
+							.jw-tab-focus:focus{outline:none;}
+						</style>
+<div id="player_wrapper">
+<div class="player_err_tip" id="Text">抱歉!<br/>您的浏览器可能不支持此视频播放器，请用更高版本的浏览器试试！</div>
+</div>一辆装有两吨螃蟹的小货车在高速上自燃，车上的冻螃蟹瞬间变成了烤螃蟹。视频编辑 陈雅儒(00:37)
+					</div>
+<div class="news_txt" data-size="standard">一辆小货车在高速公路上突然着火，车上装载的两吨冻螃蟹瞬间变成了烤螃蟹。<br/><div class="contheight"></div> 澎湃新闻（www.thepaper.cn）12月24日从浙江省高速交警总队宁波支队获悉，12月22日凌晨，G15沈海高速宁波段一辆装满冷冻螃蟹的小货车发生自燃，现场火势凶猛，火焰窜至八九米高，并不间断出现爆燃。据处理事故的警员称，现场弥漫着一股烤螃蟹混着机油的味道。<br/><div class="contheight"></div> 据了解，小货车上装的是石闸蟹（又名花盖蟹、石蟹），驾驶员杨师傅当日从台州出发，本来想将这一车螃蟹运往舟山。行驶至事发路段时，他突然发现右后轮着火，等他下车时，火势瞬间增大到无法控制。当消防官兵赶到现场时，车子已经烧成了铁架子，一车螃蟹全部毁于大火。<br/><div class="contheight"></div> 杨师傅说，这车螃蟹约有两吨，按市场价折算，仅螃蟹的损失就在10万元左右，而货主没有给这车货物上保险。<br/><div class="contheight"></div> 现场处置警员告诉澎湃新闻，事发路段是一个长下坡，可能系驾驶员不断点刹导致轮胎过热发生自燃。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = 'http://cloudvideo.thepaper.cn/video/921f4d82c6934e46ad88f8b79626f586/hd/cf5d1e98-fe32-4064-9527-0dfd55a4e451-c5eb032c-75ec-9a4b-8b40-70e56293ae5d.mp4',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'//image1.thepaper.cn/image/13/458/109.jpg',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：谢春雷<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 浙江小货车，冻螃蟹，烤熟</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2769148">
+<div class="nbgbox">
+<a class="zan" contid="2769148" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 汽车自燃</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2769148&caid=25491",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2769148&amp;caid=25491" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

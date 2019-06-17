@@ -1,0 +1,82 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="channel_36079">湃客</a>
+                    &gt; <a href="list_35571">眼光</a>
+</div>
+<h1 class="news_title">安庆师大一专业50名同学包千余只饺子过冬至</h1>
+<div class="news_about">
+<p>
+                            2018-12-24 08:42<span> 来源：澎湃新闻 湃客</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_paike_author clearfix">
+<a href="sparker_3385034" target="_blank">
+<div class="thum">
+<img src="//image.thepaper.cn/publish/interaction/image/2/685/179.jpg"/>
+</div>
+<div class="name">如是</div>
+</a>
+<div class="line"></div>
+<div class="link" data-userid="3385034" onclick="followUser(this)">+关注</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/439/253.JPG" style="width:600px;"/></div>“这是‘元宝’形的饺子，那是‘电话’形饺子，还有这个是类似‘包子’形状的饺子。”12月22日正值冬至，安庆师范大学电子信息科学与技术专业2018（1）班的50名学生聚在学校食堂，一起包饺子过冬至。<br/><div class="contheight"></div>“今天刚好是二十四节气中一个重要的节气冬至，也是中华民族的一个传统节日。”班长鲍士淇说，“过冬至的一个传统就是吃饺子，所以就召集我们班50名同学坐在一起吃自己包的饺子。”<br/><div class="contheight"></div>除了冬至有吃饺子的传统，鲍士淇坦言召集同学们包饺子还有另外一个特殊的原因。“我们‘电信’专业是唯一一个向外省招生的专业。”鲍士淇说，“我们班就有从广东、辽宁、广西、山东和河北来的同学，他们来自五湖四海，大家相聚就是缘分。”<div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/439/447.JPG" style="width:600px;"/></div>和食堂阿姨商量准备包饺子所需要的皮和馅，去超市购买一次性手套……鲍士淇花了一周时间做包饺子的准备工作。他解释，由于场地和条件的限制，省去了和面和擀皮等工作，直接购买现成的饺子皮包饺子。<br/><div class="contheight"></div>下午2点半，4个人自由组合坐一桌，拿着饺子皮和馅，包饺子工作正式开始。“我们准备了芹菜肉馅和韭菜鸡蛋馅两种饺子馅，并给每个桌子发了两碗馅包饺子和一个抽屉装饺子。”组织委员林鸣说，“一个半小时的时间我们班50名同学大概包了一千多只饺子。”<div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/439/446.JPG" style="width:600px;"/></div>左手放一张饺子皮，右手挖着馅，在饺子边缘涂抹一层水然后捏紧，不出半分钟一个饺子就包好了。50人一起包着饺子聊着天让原本安静的食堂变得热闹起来，吸引了食堂阿姨们的注意，阿姨们凑上前当起了“场外援助”一同加入包饺子的活动中来。<br/><div class="contheight"></div>“我们家那边冬至就是有自己包饺子的传统，手工包出来的饺子比机器做出来的更有特点和温度。”张曼说，“很喜欢大家坐在一起手里包着饺子，嘴上聊着天。有一种过年的错觉，感觉很热闹和美好。”<div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/439/252.JPG" style="width:600px;"/></div>来自广东的蔡昭航是第一次在大学过冬至。谈及和同班同学一起包饺子，蔡昭航表示这种感觉很奇妙。“平时和大家都是同学关系，一起上课。今天给我感觉像在家里一样，家人一起为过节做准备包饺子。”他说，“这让来自外省的我感受到了温暖和感动，我很开心来到这个班级。”（文/邵琪  图/王瑞禛）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_keyword">关键词 &gt;&gt; 湃客,冬至</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                本文为自媒体、作者等湃客在澎湃新闻上传并发布，仅代表作者观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love sparker_news_love" style="width: 446px;">
+<input id="hidden_contid" type="hidden" value="2767173">
+<div class="nbgbox">
+<a class="zan" contid="2767173" href="javascript:;" onclick="voteCont(this)" praisetimes="56">
+<span></span>55</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang"><span></span>收藏</a></div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767173&caid=35571",".news_imgad")</script>
+</div>
+<div class="news_txtad">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767173&amp;caid=35571" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

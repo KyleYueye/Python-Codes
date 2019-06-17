@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜涉黄的价值观不换，“拼床”的马甲换再多也白搭</h1>
+<div class="news_about">
+<p>澎湃特约评论员 默城</p>
+<p>
+							2018-09-06 16:06<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2413542" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">“异性拼房”APP涉黄屡屡被封，换“马甲”后卷土重来</span></a></img></p></div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="521" src="http://image.thepaper.cn/www/image/10/212/448.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">小程序违规被禁 网页截图<br/><div class="contheight"></div></span>据人民网报道，8月22日，已经有大半年未曾更新的同住拼房官方微博表示，同住拼房的APP“睡睡”上线了。<br/><div class="contheight"></div>其实，今年上半年，同住拼房旗下就有多款产品上线，但都很快被下架或暂停服务，原因是其所提供的“异性拼床”服务，涉及低俗、性暗示或色情信息。可这家公司好像并没有气馁，又转战app市场，换了个马甲，再度复活。 <br/><div class="contheight"></div>表面上看，新上线的APP在用户发布拼房信息前，会弹出免责声明，明确表示：仅支持同性拼床，不提供异性拼房。但实际上，异性拼床功能依然存在，只不过更加隐蔽，且变成了付费服务。而且，该款APP在启动页上仍有明显的性暗示宣传语。 <br/><div class="contheight"></div>通过一款互联网产品“拼房”、“拼床”，在一个狭小空间内与陌生人共处，且要将最私密的个人活动暴露于对方眼前，所带来的隐患是显而易见的。首先就是女性用户的安全问题。可怕的是，同住拼房从产品设计到运营环节，都极尽其能地把用户往这方面“引导”。现实中，已经有女性用户收到了骚扰信息。滴滴顺风车的惨痛教训犹在眼前，同住拼房就迫不及待地要将用户置于危险境地吗？另外，“拼房”、“拼床”，即便对于男性用户，也有人身和财产安全问题。仅从这两个方面说，“睡睡”APP就是一款风险极大、漏洞百出的产品。 <br/><div class="contheight"></div>如果说此前的产品折戟，部分原因在于企业经验不足，导致运营逻辑与运作模式都跑偏，那么，在已多次被敲打的情况下，同住拼房不是反思整改，而是有意识地运用“巧妙”操作企图逃避职责和监管，则是企业的价值观出了问题——对法律与道德的挑衅，对企业社会责任感的漠视。也说明此前的监管还偏软，市场反馈还不足以让企业产生敬畏之心，以放慢对市场与利润的疯狂攫取。对此，有必要进一步收紧对这类企业的监管尺度。 <br/><div class="contheight"></div>近几年，依托互联网的共享经济在各个领域全面开花，大大方便了人们的衣食住行，提高了资源利用效率，符合节能环保的理念。但共享经济不是一个万能口袋，不能什么都往里装。一些打着“共享”旗号的创业、创新，已经被证明是伪共享。 <br/><div class="contheight"></div>但无论哪种，不与法律与公序良俗相悖，不将公共利益视为自身逐利的筹码，当是最起码的底线。否则，一旦在价值观上“越轨”，即便马甲换得再勤，也难逃被淘汰的命运。</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 异性拼房</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2414555">
+<div class="nbgbox">
+<a class="zan" contid="2414555" href="javascript:;" onclick="voteCont(this)" praisetimes="113">
+                           112</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 异性拼房</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2414555&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2414555&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（43）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

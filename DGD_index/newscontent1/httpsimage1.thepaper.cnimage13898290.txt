@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">英国开展呼吸检测癌症技术临床试验，1500名志愿者将参加</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2019-01-04 19:51<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">英国癌症研究会最新发布的消息说，研究人员将就一种新开发的呼吸检测癌症技术开展临床试验，该技术如发展成熟，有望带来更简单、高效的癌症早期检测方法。<br/><div class="contheight"></div>这项临床试验由英国癌症研究会剑桥中心的研究人员领衔开展，所用的呼吸测试设备由英国生物技术公司Owlstone Medical研发。<br/><div class="contheight"></div>据该研究会介绍，在正常的新陈代谢过程中，细胞的生化反应会使人体呼出的气体中含有一类被称为挥发性有机化合物的分子。如果人体患癌症，正常新陈代谢就会被打破，细胞产生的这类挥发性有机化合物会发生细微变化，这项新技术的目标就是要通过分辨这种细微的变化，诊断出癌症。<br/><div class="contheight"></div>按计划，临床试验将有1500名志愿者参加，其中包括健康人以及食道癌、胃癌等癌症的疑似患者。研究人员将收集相关样本，用于对比分析他们呼出气体中挥发性有机化合物的变化，并尝试分析这些变化是否能帮助他们检测出不同类型的癌症。<br/><div class="contheight"></div>领衔这一试验的剑桥中心教授丽贝卡·菲茨杰拉德说，团队希望通过试验来找到呼吸中的一些特征用于开展癌症早期检测，这对下一步完善该技术非常关键。<br/><div class="contheight"></div>（原题为《英国将开展呼吸检测癌症技术临床试验》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙语双<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 癌症,临床试验</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2814123">
+<div class="nbgbox">
+<a class="zan" contid="2814123" href="javascript:;" onclick="voteCont(this)" praisetimes="82">
+                           81</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 呼吸测癌症</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2814123&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2814123&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

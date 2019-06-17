@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">日本2018年度汉字为“灾”，网友：希望明年转灾为福</h1>
+<div class="news_about">
+<p>王珊宁/海外网</p>
+<p>
+							2018-12-12 14:52<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="438" src="http://image.thepaper.cn/www/image/13/114/62.jpg" width="350"/></div>海外网12月12日消息，据日本共同社报道，12日，日本汉字能力检定协会在京都市东山区的清水寺公布了日本2018年的年度汉字“灾”。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="279" src="http://image.thepaper.cn/www/image/13/114/64.gif" width="596"/></div><span style="color: rgb(128, 128, 128);">富士电视台截图<br/><div class="contheight"></div></span>清水寺的森清范住持在一张长1.5米、宽1.3米的越前和纸上，挥毫写下了“灾”字。<br/><div class="contheight"></div>日媒称，由于灾难多发，全日本都提高了防灾意识，今年是日本人自助、共助的重要年份。另外，今年世界范围内也发生了许多天灾人祸，因此决定了“灾”字。<br/><div class="contheight"></div>12月12日是日本的汉字之日，由日本汉字能力检定协会主办，每年这个时候都会选一个汉字来代表过去的一年。今年是第24次评选年度汉字。去年的字是“北”。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="222" src="http://image.thepaper.cn/www/image/13/114/63.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">雅虎日本网络截图<br/><div class="contheight"></div></span>消息一经公布，日本网友纷纷在社交网络留言表示扎心，有人说：“确实，今年台风、暴雨、酷寒、猛暑还有地震，什么自然灾害都经历了。明年将迎来新年号了，希望是新的一个好年”“今年不光自然灾害，人祸也不少呢”。还有人笑称：“希望明年转‘灾’为‘福’”。<br/><div class="contheight"></div>（原题为《日本2018年度汉字是这个 网友扎心：希望明年是福》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 年度汉字,日本</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2730602">
+<div class="nbgbox">
+<a class="zan" contid="2730602" href="javascript:;" onclick="voteCont(this)" praisetimes="41">
+                           40</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 年度汉字</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2730602&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2730602&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

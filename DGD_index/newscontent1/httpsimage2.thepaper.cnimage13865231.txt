@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">张军回应“捕诉合一”质疑：认识已达成一致，绝不会勉强定罪</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林平 实习生 帕孜丽娅</p>
+<p>
+							2019-01-03 19:09<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">检察机关推行“捕诉合一”办案机制，在认识上已达成一致。<div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/865/195.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">最高人民检察院检察长、首席大检察官张军  中国网 图<br/><div class="contheight"></div></span>1月3日，在国务院新闻办公室举行的发布会上，最高检检察长张军回应了有关“捕诉合一”办案机制的监督问题：如果该捕的不捕，公安机关可以提请复议、复核，也绝不会勉强定罪。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）注意到，检察机关内设机构调整后，原来的侦监厅和公诉厅将被撤销，全面实行捕诉一体的办案机制。<br/><div class="contheight"></div>“捕诉分开存在效率和内部监督的实质化问题。”张军介绍，以往很多地方检察机关实行捕诉分开，包括最高检是由同一个副检察长分管，能想象这个内部制约的效果会怎样。同时还有效率的问题，捕的时候熟悉了的案件，诉的时候是一个全新案件，重新熟悉影响效率。第三个问题是质量，比如公安机关移送批捕是三个罪名，比如毒品、抢劫、盗窃，一看有毒品现场查获，批捕了。但另两个罪名就未必很仔细地去审查。两个月以后，案件移送审查起诉，毒品罪没有问题，最终宣告有罪。但另两个罪名需要进一步补查的，只好退捕，而公安机关又有新的任务，谁来承担？就算有人能做，证据散失，影响了法庭指控犯罪的质量。<br/><div class="contheight"></div>“这个问题是比较突出的，也是比较普遍的。”张军表示，实践证明，实行捕诉一体，案件的质量、效率都能够得到进一步保障提高。<br/><div class="contheight"></div>张军介绍， 2017年吉林省检察机关实行捕诉一体改革，批捕和提起公诉的时间分别缩短了12.3%和12.4%。同时，平均每起案件瑕疵问题，捕诉分开的时候是6个半，捕诉一体后下降不到3个。在扫黑除恶专项斗争中，一些地方实行捕诉一体，集中一个办案组去办批捕起诉的案件，效率质量也都证明有大幅提升。<br/><div class="contheight"></div>同时，谁来监督这一运行机制？张军表示，除了内部科学化办案指标之外，相关监督机制都会跟上。同时，如果该捕的不捕，公安机关可以提请检察机关复议。维持不捕的，公安机关还可以向上一级检察机关提请复核。<br/><div class="contheight"></div>“这个监督会更直接、更有力。”张军说，如果勉强捕了，不诉出去，办案组检察官就认为你捕错了，就算可以勉强上法庭起诉，法院怎么可能勉强给你维持呢？这是另一个约束机制，绝不会勉强定罪。<br/><div class="contheight"></div>张军直言，捕诉一体是经过充分论证的，专家学者一开始是不赞成的，后来我们请他们到江苏检察机关、法院、律师听取意见，再到吉林听取方方面面的意见。在江苏的时候，专家学者们是抱着不行的态度，这样做怎么能够很好地落实你们的法律监督职权？到了吉林的时候，思想观念就有了明显转变，无论是内部还是社会专家学者，还是有关部门，现在认识已达成一致，接下来是怎么把它运行好、管理好、落实好的问题。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：宋蒋萱<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 最高检 捕诉合一 勉强定罪</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2810137">
+<div class="nbgbox">
+<a class="zan" contid="2810137" href="javascript:;" onclick="voteCont(this)" praisetimes="72">
+                           71</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 捕诉合一</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2810137&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2810137&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

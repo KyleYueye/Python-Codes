@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">新华国际时评：维护来之不易的半岛缓和局面</h1>
+<div class="news_about">
+<p>江亚平/新华社</p>
+<p>
+							2018-12-11 20:37<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社平壤12月11日报道，美国政府当地时间10日宣布，将对朝鲜三名高级官员进行制裁，称他们管理的部门涉嫌存在侵犯人权等行为。美方此举无疑在为半岛问题的政治解决进程增加障碍。<br/><div class="contheight"></div>自今年6月朝鲜和美国两国领导人在新加坡举行具有历史意义的峰会以来，美朝关系虽时有起伏，但总体来说是向缓和方向发展。美国国务卿蓬佩奥两度访朝，商谈朝鲜半岛无核化进程，为两国首脑举行第二次会晤做安排。<br/><div class="contheight"></div>过去一年来，朝鲜在缓和地区紧张局势和半岛无核化方面已经做了大量努力，包括宣布不再举行任何核爆炸试验和导弹试射，废弃北部核试验场，拆除西海卫星发射场以及移交美军遗骸，这些举措都展现出缓解地区紧张局势和改善朝美关系的积极姿态。<br/><div class="contheight"></div>此外，朝鲜最高领导人金正恩今年与韩国总统文在寅举行三次首脑会晤，双方签署了《板门店宣言》和《9月平壤共同宣言》，共同表达了加快北南双方合作的意愿与决心。不仅如此，朝韩两国在缓解双边紧张局势方面也取得了实质性进展，包括在三八线军事禁区联合排雷，在非军事区互撤哨所，启动南北铁路对接联合考察项目等。这些成果为缓和地区局势，增强互信，加强合作奠定了良好基础。<br/><div class="contheight"></div>就在人们充满期待之际，美国政府突然做出制裁朝鲜高级官员的决定，为未来的半岛无核化进程制造障碍，为期待中的朝美首脑会晤增添变数，显然不是明智之举。<br/><div class="contheight"></div>朝美关系的症结在于缺乏互信。美国政府要求朝鲜先实现实质性无核化，再与其进行安全保障和解除制裁谈判，而朝鲜采取了一系列积极措施后，未能换来美方减轻制裁，致使朝美无核化谈判再度陷入停滞状态。朝中社不久前就批评美国“用两张面孔对待朝鲜”，一面标榜朝美关系取得进展，一面叫嚣对朝制裁打压。<br/><div class="contheight"></div>要打破僵局，就不应给谈判制造障碍，试图以不断施压让对方屈服，而应该互相释放善意，增加互信，照顾彼此合理关切，相向而行。唯其如此，半岛局势才能真正得到缓和，半岛无核化进程才能切实推进。<br/><div class="contheight"></div>（原题为《维护来之不易的半岛缓和局面》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 半岛,美国,制裁</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2728189">
+<div class="nbgbox">
+<a class="zan" contid="2728189" href="javascript:;" onclick="voteCont(this)" praisetimes="18">
+                           17</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 半岛局势</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2728189&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2728189&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

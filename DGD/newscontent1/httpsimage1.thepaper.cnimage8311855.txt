@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">澎湃新闻联合天猫帮你“清空”购物车，活动首日幸运用户产生</h1>
+<div class="news_about">
+<p></p>
+<p>
+							2018-06-16 17:02<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">6月15日~19日，澎湃新闻联合天猫派送618购物津贴，并空降“清空”购物车计划，截至6月15日18点，第一天活动结束，已产生一名幸运用户获得由天猫送出的幸运大礼，天猫已向其淘宝账户发放10000元面额的“清空”购物车红包，获奖者淘宝ID为：樱***l。<br/><div class="contheight"></div>经了解，刘女士（化名）是从澎湃新闻官方微博看到了活动消息并参与报名的，并收获了购物车红包。现在她依然还沉浸在喜悦的情绪中。刘女士说，“我当时看到红包有点说不出话来，可能是太兴奋了。我婆婆开玩笑说要请一个铁匠把我的嘴巴焊起来了。”对于这次天猫的活动她表示十分激动，并表示会和家人好好共享这份幸运，给家里人每人购置一份礼物，来分享喜悦。<div style="text-align:center;"><img alt="" height="1296" src="http://image.thepaper.cn/www/image/8/311/851.jpg" width="598"/></div>目前活动还在持续，6月15日~19日，读者只要通过手机淘宝、手机天猫、手机支付宝客户端扫描文末二维码，即可进入澎湃新闻读者专属活动页面，按照提示说明，点击“报名”即可参与抽取“清空1万元购物车红包计划”。<br/><div class="contheight"></div>每天18：00，澎湃新闻将联合天猫在当天报名用户中随机抽取一名幸运儿，在中奖2小时内向其淘宝账户发放10000元面额的“清空”购物车红包。中奖读者可通过手机淘宝、手机天猫进入“我的红包”进行查看。该红包可在6月15日-20日期间，于天猫购买实物商品使用，并可拆分抵扣、直至用完。 <br/><div class="contheight"></div>为避免幸运读者错过中奖通知，每天开奖结束后，我们也会将获奖结果在澎湃新闻APP客户端、澎湃新闻官方网站（https://www.thepaper.cn/）以及官方微博定期公布。<br/><div class="contheight"></div>错过“清空购物车”红包的读者不必失望，从澎湃新闻专属页面上可以有机会领取天猫618购物津贴，可在天猫平台上参与“每满300元立减30元”活动，上不封顶，同时可与商家的店铺优惠券、天猫的品类满减券等各种优惠叠加享用。<div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/8/311/856.jpg" width="100%"/></div></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋雯琦<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2200017">
+<div class="nbgbox">
+<a class="zan" contid="2200017" href="javascript:;" onclick="voteCont(this)" praisetimes="260">
+                           259</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 阿里巴巴</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2200017&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2200017&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（69）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

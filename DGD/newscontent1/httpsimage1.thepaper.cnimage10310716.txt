@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜滴滴一整改就打车难，更说明一家独大不正常</h1>
+<div class="news_about">
+<p>澎湃特约评论员 熊志</p>
+<p>
+							2018-09-10 11:31<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2423450" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜滴滴一整改就打车难，更说明一家独大不正常" src="//image1.thepaper.cn/image/10/296/958.jpg"/>
+</a>
+<div class="atlas_360_txt">滴滴停夜间服务后打车体验：等很久拦到一辆假出租，开价翻倍<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">刚刚过去的周末，由于滴滴整改（深夜23时至凌晨5时暂停出租车、快车、优步、优享、拼车、专车、豪华车服务），许多用户遭遇了打车难。 <br/><div class="contheight"></div>8月27日起，滴滴就在全国范围下线了顺风车业务，重新评估业务模式，不过顺风车的订单占比不过在10%左右，且多为跨城出行，替代性更强，所以影响没有特别凸显。等到暂停核心业务出租车、快车、专车时，打车难的局面再度暴露，值得引起重视。 <br/><div class="contheight"></div>滴滴的问题和责任，比如空姐遇害案后整改不到位，应急响应滞后，产品社交化等等，在此前的顺风车命案中，已有充分的讨论，不必赘述。它说明滴滴的业务逻辑亟待梳理。 <br/><div class="contheight"></div>快车和专车暂停，出租车司机重新掌握议价权，部分滴滴司机转向黑车，打车难重现，其实也是意料之中的结果，对此市场亦有心理预期。 <br/><div class="contheight"></div>从结果反推过程，有关整改措施的力度，包括是不是该一刀切，出事的顺风车和专车、快车是否该区别对待，等等，可以进一步讨论。但既然百日内命案连发，就不该怪消费者对企业过于苛责，更不能因为打车难重现，就可以忽略此前滴滴该负的责任，或者降低整改标准。 <br/><div class="contheight"></div>在前几年平台的烧钱大战中，滴滴合并快的，合并优步，成为出行市场的主导者。滴滴暂停深夜快车、专车之后，波及面如此广，说明一家独大的隐患不小。 <br/><div class="contheight"></div>论产品替代性，虽然还有嘀嗒、美团等多个平台，但基本都没有承接滴滴空缺后深夜旺盛出行需求的能力。一家平台暂时退场便打车难，本质上还是竞争扭曲的体现，如果出行市场没有因为资本合纵连横形成寡头格局，那滴滴再怎么整改，深夜打车都不至于如此难。<br/><div class="contheight"></div>换个角度看，也提醒交通管理和执法部门需及早预判和应对。像媒体提到的黑车出没、出租车拒载等，都是过去的老大难问题。滴滴整改期间，交通管理部门应当与出租车公司协调，加强运力调配，扭转供需不足的局面；同时也需要继续严查黑车，避免消费者被宰。 <br/><div class="contheight"></div>考虑到网约车业务或将进一步收缩，哪怕滴滴整改结束，未来很长一段时间里，打车难预计将会持续出现。出租车作为公共交通服务的“正牌”，更应该以此为契机，提高服务水平，管理体制改革也需要进一步加速。<br/><div class="contheight"></div>滴滴整改，不该意味着打车难。从出行市场来看，打车难是各种因素综合作用的结果，但无论如何，这个代价不该消费者来承受。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 滴滴整改</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2424919">
+<div class="nbgbox">
+<a class="zan" contid="2424919" href="javascript:;" onclick="voteCont(this)" praisetimes="427">
+                           426</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 滴滴整改</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2424919&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2424919&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（204）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜沃尔玛4.5亿买教训：企业与员工应“双向忠诚”</h1>
+<div class="news_about">
+<p>澎湃特约评论员 盘和林</p>
+<p>
+							2018-10-17 15:32<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">10月16日，根据《洛杉矶时报》消息，一场持续近十年之久的诉讼迎来了最终的“结局”——全球零售业巨头沃尔玛同意支付6500万美元，约4.5亿元人民币来补偿自己的员工，原因是其对商场内的收银员不提供座位。<br/><div class="contheight"></div>这个事件发生在2009年，当时的沃尔玛员工妮莎（Nisha Brown）起诉沃尔玛，称公司违反了加利福尼亚州2001年的一项工资法令，该法令规定“在工作性质允许的情况下，员工可以获得合适的座位”。<br/><div class="contheight"></div>沃尔玛对不提供座位给出的理由是给这会降低工作效率，影响公司收入。客观地说，不给员工设置座位，在国内企业并不鲜见。实际上，国内不少企业不仅仅是侵犯权益这么简单，而是侮辱员工人格了。<br/><div class="contheight"></div>2017年7月，广安岳池一家摄影店，因为员工未完成业绩，被公司要求喝厕所便池里的水；2018年5月4日，湖北宜昌一家房地产销售公司，员工因业绩不好被女同事轮流打耳光，被公司要求在地上学狗爬，学狗叫；2018年5月21日，南通市一房产销售门店管理人员对员工进行处罚，要求员工穿着内裤站在门店门口跳舞·····<br/><div class="contheight"></div>这些企业对员工施行侮辱人格的管理，对员工给予过分惩罚的例子，可以称之为是企业的辱虐管理行为。<br/><div class="contheight"></div>笔者查询了大量的实证研究，证据都表明，辱虐管理对于工作绩效有着非常严重的负面影响，不仅会降低员工任务绩效和周边绩效，还会影响员工工作满意度，甚至导致不理智行为。<br/><div class="contheight"></div>辱虐管理还会在社会公众心中留下不好的印象，当企业不尊重员工的人格，那么企业同样失去了“人格”。一个将公司业绩置于员工人格之上的企业，又会为了公司的盈利将消费者置于何处呢？<br/><div class="contheight"></div>所以说，施行辱虐管理，于员工、于企业自身的影响都是负面的。企业之所以会采用辱虐管理，是因为他们没有真正意识到员工与企业的关系。<br/><div class="contheight"></div>员工不仅仅是企业的雇佣者，更是企业的合作伙伴。企业与员工应当构建一种“双向忠诚”关系。企业对于员工的态度决定了员工是否具备团队意识，也决定了员工对于企业的忠诚度，而员工的消极反应，也会让企业将员工更加置于自己的对立面。<br/><div class="contheight"></div>建立两者的双向关系，形成心理契约的缔结，有助于双方长期存续。<br/><div class="contheight"></div>借用“汉初三杰”张良的老师黄石公的一句话，“戮辱所任者危”，不要侮辱与轻蔑自己的属下。任何员工代表的都是公司本身，侮辱员工就是侮辱自己，员工与上司、企业是共生关系，是创造美好未来不可或缺的一部分。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 企业管理 沃尔玛</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2537482">
+<div class="nbgbox">
+<a class="zan" contid="2537482" href="javascript:;" onclick="voteCont(this)" praisetimes="123">
+                           122</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 企业管理</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2537482&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2537482&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

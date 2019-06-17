@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜逼教师停课扶贫，那谁来给农村孩子“扶智”？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 胡印斌</p>
+<p>
+							2018-09-20 10:15<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2455640" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜逼教师停课扶贫，那谁来给农村孩子“扶智”？" src="//image2.thepaper.cn/image/10/594/436.jpg"/>
+</a>
+<div class="atlas_360_txt">半月谈刊发一位乡村教师的困惑：即使不教课也得去扶贫？<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">《半月谈》近日发布了一封教师的来信。这名来自安徽某乡镇中学的数学老师称，从2017年三四月开始，上级就要求农村教师与学校所在村的贫困户一对一结对帮扶。之后，任务不断加码，甚至要求“包户”老师不上课也要去扶贫。2018年5月以后，上级直接从农村教师中抽调人员，与学校脱钩，吃住在村。这名教师发问：教师的阵地在三尺讲台，丢下学生去扶贫，是否过分？<br/><div class="contheight"></div>这名教师的疑惑，不难理解。正如此前参与过扶贫工作的教师吐槽，一个普通教师，“一无资金二无技术，怎么扶贫？三填表格四凭嘴巴五靠跑脚，如何帮扶？”<br/><div class="contheight"></div>身为公职人员，教师也属于财政供养的群体，在当下如火如荼的脱贫攻坚战中多一份贡献，是可以的。但是，术业有专攻，教师有教师的职责和使命，教书育人是其天职，绝不能随意偏离主业。因为去村里排查，就随意翘课，不仅不会对扶贫有帮助，对于农村教育而言，也是极大的损失。这样的“停课扶贫”，就是一出荒唐的闹剧，是不折不扣的瞎折腾。 <br/><div class="contheight"></div>其实，农村教师尽职履责，用最大的热忱与智慧，把教育搞好，让农村多出人才，这本身就是在以“扶智”促“扶贫”。 <br/><div class="contheight"></div>很多人都有感受，一些地方的农民之所以深陷困境，且长期沉溺于“代际贫困”而难以摆脱，主要原因就在于没有得到很好的教育。教育的缺失，导致人们很难实现社会流动，找不到“向上的台阶”。<br/><div class="contheight"></div>农村教师身处农村，责任重大，不仅要时时防范学生辍学流失，也要督促学生开阔视野、努力学习，争取通过读书改变自己和家庭的命运。 <br/><div class="contheight"></div>可以说，农村教师只要在岗位上，只要手不释卷，本身就是最迫在眉睫、一刻也不能停的扶贫。一个好的乡村教师，不啻为一颗火种、一缕春风，化育山乡阡陌。<br/><div class="contheight"></div>一些地方面对脱贫攻坚的任务，不是去想办法、求实效，却每每把工作搞成了花架子。看上去轰轰烈烈，好像全社会都动员了起来，实则依然是大水漫灌、形式主义那一套。不仅被帮扶的农民不满意，各级公职人员也怨声载道。更关键的是，实际效果仍十分有限。就像安徽这位数学教师批评的那样，把教师们折腾得一地鸡毛。<br/><div class="contheight"></div>早在去年7月，国务院扶贫办专门下发通知，要求各地进一步克服形式主义，减轻基层负担。通知特别要求，各地扶贫部门要建立健全监督问责机制，采取措施预防和纠正形式主义。<br/><div class="contheight"></div>扶贫领域中的形式主义花样繁多、屡禁不绝，当然有监督缺失、问责不到位的原因，但根本上，仍在于一些地方和单位的形式主义积习已深入骨髓，是一种病，更是一种瘾，很难短时间内得到矫正。<br/><div class="contheight"></div>对此，有关部门理应行动起来，以雷霆手段，切实杜绝扶贫中的形式主义。同时，也要构建正常的政府伦理，加快政府治理现代化的步伐，还农村教师一份安静。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 教师扶贫</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2457034">
+<div class="nbgbox">
+<a class="zan" contid="2457034" href="javascript:;" onclick="voteCont(this)" praisetimes="383">
+                           382</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 教育扶贫</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2457034&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2457034&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（157）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

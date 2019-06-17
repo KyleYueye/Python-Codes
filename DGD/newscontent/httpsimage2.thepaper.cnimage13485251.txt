@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">英国电信：华为仍是5G网络设备“重要供应商”</h1>
+<div class="news_about">
+<p>张家伟/新华社</p>
+<p>
+							2018-12-25 13:16<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社伦敦12月24日电，英国电信公司发言人24日对新华社记者说，中国华为公司仍然是这家英国最大电信运营商在第四代、第五代移动通信技术（4G和5G）网络和固定网络方面的一个“重要设备供应商”。<br/><div class="contheight"></div>这名发言人当天接受新华社记者采访时说，自2005年起，英国电信就与华为开展合作。目前该公司与华为在5G网络建设上的合作进展顺利。<br/><div class="contheight"></div>近期一些媒体称，英国电信5G网络的核心网不再采用华为设备。这名发言人表示，英国电信采取多厂家部署策略，尽管华为并不参与5G网络核心网的建设，但仍会参与5G网络其他重要部分的建设，华为“是我们很重视的创新合作伙伴”，英国电信对华为的态度和策略没有改变。<br/><div class="contheight"></div>华为提供给新华社记者的一份声明表示，“核心网”在电信行业是一个技术名词，指移动网络中一个特定组成部分，但并非网络建设投资中最大的部分。声明说：“华为遵循英国电信‘不同网络，不同供应商’的原则，很早就明确了与这家公司的合作模式，即不参与核心网建设，并沿用至今。”<br/><div class="contheight"></div>经过10余年合作，华为已为英国电信提供了大量固定网络和移动网络设备，参与了英国国家宽带项目、4G项目等多个重要项目建设，两家公司也正在全力推进5G网络建设。<br/><div class="contheight"></div>华为说：“目前与英国电信在5G网络建设上的一些安排并不是最近才作出的决定，是两家公司着眼长远、共同协商的结果。”<br/><div class="contheight"></div>（原题为《英国电信：华为仍是5G网络设备“重要供应商”》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 华为</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772404">
+<div class="nbgbox">
+<a class="zan" contid="2772404" href="javascript:;" onclick="voteCont(this)" praisetimes="145">
+                           144</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 华为</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772404&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772404&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

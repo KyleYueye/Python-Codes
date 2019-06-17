@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25444">社论</a>
+</div>
+<h1 class="news_title">【社论】体检行业的“病”，该治了！</h1>
+<div class="news_about">
+<p></p>
+<p>
+							2018-12-20 18:21<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="250" src="http://image.thepaper.cn/www/image/13/343/496.jpg" width="600"/></div>也是够了。最近体检行业似乎进入了问题的集中爆发期。<br/><div class="contheight"></div>之前爱康集团董事长兼CEO张黎刚曝出行业黑幕：护士假冒医生看超声；抽了血没做检查就扔掉，直接出结果。这让很多人惊出一身冷汗。<br/><div class="contheight"></div>媒体又曝出了体检行业一件荒唐事。上海的陈女士在网上购买了一份1056元的美年大健康体检套餐，在接受体检时，先后有两名医生向陈女士表示她的“甲状腺不好”，建议去加钱做一个甲状腺功能检查。当天下午，陈女士忧心忡忡去了某三甲医院复查，但该医院B超医生非常确定地告诉她：“你的甲状腺一切正常，没有结节，也没有炎症。”早上查出的病，下午痊愈了？这还没完，陈女士发现自己的四位亲人，在美年大健康体检时都被要求付费查甲状腺功能。<br/><div class="contheight"></div>更让人细思恐极的是，据之前的媒体报道，在洛阳、南京，美年大健康都曾要求没有甲状腺疾病的顾客，加费去查了甲状腺功能。<br/><div class="contheight"></div>美年大健康的体检，难道是有枣没枣都打三杆子，管你有没有病，先加200块钱查一查吗？<br/><div class="contheight"></div>医疗行业本身就是个良心行业，病患以生命相托，这背后是对于医生职业操守莫大的信任，而医疗机构一方掌握着绝对的信息优势，做什么检查、加什么项目，虽然是病患一方掏的钱，决定权却在医生这里。如果医生滥用了这种信任，将自己的医学知识变成了恐吓病患去过度治疗、过度检查的道具，病患一方只能是人为刀俎，我为鱼肉，只能被宰。<br/><div class="contheight"></div>从媒体报道来看，陈女士一家五口人在美年大健康遭遇了“勒索式体检”，很难说是一个偶然的事件，这是不是这家公司的常规套路？媒体已经曝光了，希望卫生执法部门能够做出全面的调查，不能够止于个案，应查清楚，这是不是企业行为？是不是整个行业性的问题？以点带面把行业的毒瘤、病灶清除。<br/><div class="contheight"></div>中国体检行业的负面新闻屡屡被曝出：“假医生执业”，护士冒充医生，抽了血直接倒掉，“勒索式加项目”……按理说，任何一件新闻坐实都会对行业造成严重的伤害，但到目前相关的爆料不断，相应的板子却没有打下。<br/><div class="contheight"></div>体检行业是一门生意，但不能只讲生意经，要对生命健康负责任，要讲医学伦理，要讲诚信。胆敢在人命关天的体检项目上胡作非为，把人民群众的生命健康当成“成本”算到财务报表里，等待他们的必然是法律的严惩，长生生物遭遇的“突然死亡”就是前车之鉴，这不是危言耸听。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 体检乱象</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2756709">
+<div class="nbgbox">
+<a class="zan" contid="2756709" href="javascript:;" onclick="voteCont(this)" praisetimes="154">
+                           153</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 体检乱象</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2756709&caid=25444",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2756709&amp;caid=25444" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

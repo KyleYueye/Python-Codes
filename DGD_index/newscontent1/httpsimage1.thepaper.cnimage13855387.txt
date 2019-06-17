@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国务卿称中国出于政治目的对巴西投资，外交部回应</h1>
+<div class="news_about">
+<p>人民日报客户端</p>
+<p>
+							2019-01-03 15:58<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">人民日报客户端1月3日消息，2019年1月3日，外交部发言人陆慷主持例行记者会。<br/><div class="contheight"></div><strong>问：据报道，美国务卿蓬佩奥同巴西新任外长阿劳若会谈时称，美国正寻求为巴西提供公平、互惠和透明的真正机会，这与其他国家出于政治而不是商业目的对巴西投资的模式完全不同。报道称，蓬佩奥虽未点中国的名，但所称“其他国家”明显指向中国。中方对此有何评论？</strong><br/><div class="contheight"></div><strong>答：</strong>我注意到有关报道。我也注意到，昨日，巴西新任总统博索纳罗在会见习近平主席特使、中国全国人大常委会副委员长吉炳轩时表示，中国和巴西都是伟大的国家，巴西新政府高度重视对华合作，愿全力推动巴中关系，两国合作的前景一定会越来越美好。<br/><div class="contheight"></div>我愿重申，中国同包括巴西在内的拉美国家之间在相互尊重、平等互利基础上开展的合作符合我们各自的利益，也有利于促进中国同拉美国家的共同利益。巴西作为一个重要的新兴市场大国，完全清楚自己的利益所在，应该不需要其他人的指教。<br/><div class="contheight"></div>（原题为《美国务卿称中国出于政治目的对巴西投资 中方回应》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 外交部,巴西,中国</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2809200">
+<div class="nbgbox">
+<a class="zan" contid="2809200" href="javascript:;" onclick="voteCont(this)" praisetimes="125">
+                           124</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 外交部</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2809200&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2809200&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

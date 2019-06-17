@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">妻子、儿子和母亲，先救谁？印尼海啸上演现实版残酷选择</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2018-12-26 14:04<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/518/975.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">26日，印尼万丹，一名女子和孩子在被海啸毁坏的房屋前。视觉中国 图</span><br/><div class="contheight"></div>据中新网12月26日报道，当地时间12月25日，印尼官方通报宣布，海啸遇难人数已增加至429人，目前仍有154人失踪，16000人正在寻求避难场所。在面对生与死的关键时刻，是先救母亲还是妻子？在印尼这场惨烈海啸中上演了现实版。<br/><div class="contheight"></div>据当地媒体报道，当地时间22日晚，居住在印尼苏门答腊岛沿岸的维穆利村(Way Muli)46岁的阿霍克刚刚睡下不久，突然房间内海浪倾泻而入。惊慌失措的阿霍克急忙寻找熟睡的母亲和儿子，随后他看到妻子很快就要被海水淹没。<br/><div class="contheight"></div>先救70岁老母亲和1岁儿子，还是先救妻子？阿霍克被迫做出了艰难的抉择。他奋力将妻子拉到了安全地带，夫妻二人躲过了这场浩劫。但阿霍克的母亲和儿子却在海啸中不幸丧命。<br/><div class="contheight"></div>阿霍克在避难所眼含热泪，对于没有时间救出母亲和儿子，他感到十分懊悔。<br/><div class="contheight"></div>（原标题 太难！妻儿母亲先救谁？印尼海啸上演现实版）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 印尼海啸</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776258">
+<div class="nbgbox">
+<a class="zan" contid="2776258" href="javascript:;" onclick="voteCont(this)" praisetimes="149">
+                           148</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 印尼海啸</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776258&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776258&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（53）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

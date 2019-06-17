@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">韩国3名前总统集体吃官司，87岁全斗焕今日将出庭受审</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2019-01-07 09:50<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="193" src="http://image.thepaper.cn/www/image/13/995/213.jpg" width="289"/></div><span style="color: rgb(128, 128, 128);">全斗焕 东方IC 资料</span><br/><div class="contheight"></div>海外网1月7日消息，韩国素有“青瓦台魔咒”一说，即总统卸任后，基本都以惨淡结局收场。目前，朴槿惠、李明博两位前总统分别获刑33年和15年，身陷囹圄。而另一位在世的前总统、87岁高龄的全斗焕，也因遭到起诉，需要在今天（7日）出庭受审，否则或面临拘传。<br/><div class="contheight"></div>全斗焕因涉嫌在其回忆录中，歪曲和否认1980年“5·18光州事件”中的部分事实，并涉嫌诽谤遇难者及其遗属，于2018年5月遭到起诉。<br/><div class="contheight"></div>该案原定于2018年8月举行首次庭审。但全斗焕方面先后多次申请缺席审判，理由包括患有阿尔茨海默病（老年性痴呆）等。此举引发韩国司法机关和舆论不满。<br/><div class="contheight"></div>近日，全斗焕律师申请缺席今天（7日）在光州地方法院的庭审，理由是全斗焕患有重感冒，且发高烧到39度，无法外出。<br/><div class="contheight"></div>不过，由于全斗焕面临的是刑事诉讼，而非一般的民事行政诉讼。根据韩国法律，被告人必须出庭，否则法院可以签发拘传票。目前，光州地方法院人士表示，将研究后决定是否拘传。<br/><div class="contheight"></div>全斗焕曾连任韩国第11届和12届总统。1996年，他因涉嫌军事叛乱罪等遭起诉，一审时被判处死刑，后来减刑为无期徒刑。1997年12月，全斗焕得到候任总统金大中的特赦，并于1998年初获释。2013年7月，全斗焕又被抄家偿还赃款。<br/><div class="contheight"></div>（原题为《韩国3位前总统集体吃官司！87岁全斗焕今将受审》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 青瓦台, 韩国总统</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2823008">
+<div class="nbgbox">
+<a class="zan" contid="2823008" href="javascript:;" onclick="voteCont(this)" praisetimes="65">
+                           64</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 韩国总统</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2823008&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2823008&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

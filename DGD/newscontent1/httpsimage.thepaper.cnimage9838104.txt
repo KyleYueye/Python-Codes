@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜“杀妻藏尸案”：家庭犯罪稀释不了社会危害性</h1>
+<div class="news_about">
+<p>澎湃特约评论员 欧阳晨雨</p>
+<p>
+							2018-08-23 14:49<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">距开庭审理过去8个多月后，上海虹口“杀妻藏尸冰柜案”终于迎来一审宣判。2018年8月23日，上海市第二中级人民法院一审宣判，被告人朱晓东犯故意杀人罪判处死刑，剥夺政治权利终身。<br/><div class="contheight"></div>尽管这一判决并非终审判决，之后还有可能的二审，以及最高人民法院的死刑核准程序，但一审死刑判决的作出，仍让被害人亲属和许多围观者长舒一口气。这是因为，死刑只适用于罪行极其严重的犯罪分子，对于被告人朱晓东，即便被法庭认定有罪，因为属于家庭犯罪，也有得到“从宽”待遇的可能。<br/><div class="contheight"></div>事实上，对于家庭犯罪，实际的定罪量刑，往往区别于一般刑事犯罪。根据2010年最高法印发的《人民法院量刑指导意见（试行）》，对于盗窃罪，属于“盗窃近亲属财物的，可以减少基准刑的 50 ％以下”；对于故意伤害罪，“因婚姻家庭、邻里纠纷等民间矛盾激化引发的”，“可以减少基准刑的 20 ％以下”等。翻看报道，不乏家庭犯罪，凶手被从轻论处的案例。<br/><div class="contheight"></div>但是，法庭据以定罪量刑的基础，乃是“社会危害性”。犯罪之所以需要被惩罚，是因为破坏了社会关系；犯罪之所以需要被宽宥，同样考量的也是社会关系。家庭犯罪发生在成员之间，他们具有血缘、姻亲等密切关系，如果单纯地“一刀切”审判，刑罚的严厉，并不利于婚姻家庭关系的恢复与稳定。回看“杀妻藏尸冰柜案”，这个被暴力彻底摧毁的家庭，从被害人亲属悲痛欲绝的态度看，已绝无恢复的可能，再以宽容的司法标准相待，无异于刻舟求剑。<br/><div class="contheight"></div>此外，犯罪的动机、犯罪手段、犯罪后的态度等，反映犯罪分子的主观恶性大小，反映社会危害轻重，根据立法精神与刑事政策，也属于法庭审判时应酌定的情节。在这起案件中，法院查明，被告人朱晓东在残忍作案后，长时间藏匿被害人尸体，期间还用被害人的钱款、身份证，多处旅游、与异性开房约会等，肆意挥霍享乐。这种置亲情于不顾的异常表现，已经超出了人性伦理的层面，称之为“冷血”也毫不为过，理应定性为“无悔罪表现”。<br/><div class="contheight"></div>当然，被告人朱晓东还有一件“护身法宝”，就是有自首情节。据法院查明，2017年2月1日，他将其杀害杨某一事告知父母，并在父母陪同下向公安机关投案，如实供述了杀害杨的犯罪事实。根据《刑法》第67条，犯罪以后自动投案，如实供述自己的罪行的是自首，可以从轻或者减轻处罚。问题是，这里的“从轻或者减轻处罚”，适用条件是“可以”，而不是“应当”。考虑到社会危害极大、罪行极其严重，不予从轻处罚也是于法有据的。<br/><div class="contheight"></div>对于家庭犯罪，不仅需考量婚姻家庭关系的特殊性，更要看社会危害性。一份及时、恰当的刑事判决，不但能平复受害者及其亲属的创伤，亦能彰显司法正义，捍卫法治尊严，由此确定的审判思路和标准，对于此类案件的审理，也将是很好的借鉴。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 杀妻藏尸 自首</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2373484">
+<div class="nbgbox">
+<a class="zan" contid="2373484" href="javascript:;" onclick="voteCont(this)" praisetimes="164">
+                           163</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 上海杀妻藏尸案</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2373484&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2373484&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

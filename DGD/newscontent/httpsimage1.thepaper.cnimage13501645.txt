@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">“市民云”成全国首个用户逾千万政务APP，有235项服务</h1>
+<div class="news_about">
+<p>澎湃新闻记者 俞凯</p>
+<p>
+							2018-12-25 20:54<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">上海全新升级改版的“市民云”，新增“一网通办”频道，汇聚政务服务、个人服务、公共服务达到235项，12个区推出了区特色主页。<br/><div class="contheight"></div>12月25日，澎湃新闻（www.thepaper.cn）从上海市经信委获悉，第1000万名用户已在“市民云”APP上注册产生，“市民云”成为全国首个千万级政府公共服务类APP。<br/><div class="contheight"></div>“市民云”是从“市民信箱”基础上发展而来。市民可免费申请实名制账号，免费订阅三金记录、纳税清单、信用报告、车辆违法记录、健康档案等个人和公共信息。<br/><div class="contheight"></div>2017年初，“市民云”项目通过上海市政府常务会议审议，被列为上海市政府实事项目。预期目标是为600万以上的实名用户提供个人信息、医疗卫生、交通出行、社会保障、社区生活、旅游休闲等六大类100项以上的公共服务。2017年底，项目注册用户763万、提供公共服务事项105项，完成预期建设任务。<br/><div class="contheight"></div>作为政务服务总门户的重要组成部分，“市民云”2018年进行了全新升级改版，新增“一网通办”频道，实现了面向个人和法人办事的指南查询、在线预约、亮证扫码、进度查询、服务找茬等五大功能，发布了个人从出生到养老、企业从注册到注销的八大类40个条线部门提供的服务，目前已汇聚政务服务、个人服务、公共服务达到235项，完成对社区（区、街镇）的全覆盖，其中12个区推出了区特色主页。<br/><div class="contheight"></div>上海市经信委透露，目前“市民云APP”共有“我、一网通办、社区服务”三个频道。在“我”频道中还新增了智能客服，方便用户提问快速进入想查看和使用的服务。“一网通办”频道，则是一个用户的专属政务服务频道。而在“社区服务”频道，市民可查看社区公告、社区推荐服务、社区六中心等服务，还可在各街镇的各类服务机构中预约服务。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：高文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 市民云,千万级,市民信箱</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2773839">
+<div class="nbgbox">
+<a class="zan" contid="2773839" href="javascript:;" onclick="voteCont(this)" praisetimes="47">
+                           46</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 市民云</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2773839&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2773839&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

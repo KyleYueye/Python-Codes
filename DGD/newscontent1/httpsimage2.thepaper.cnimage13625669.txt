@@ -1,0 +1,77 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">越南旅客在台集体脱团134人仍失联，越总理要求严格处理</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2018-12-28 13:46<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网12月28日消息，据台湾“中央社”报道，越南总理阮春福指示越南文化体育与旅游部依照相关规定检查，严格处理有关152名越南旅客赴台湾观光集体逃脱案件，并限7天内完成报告并呈报越南政府。<br/><div class="contheight"></div>4个大型越南旅行团分别于21日及23日抵达台湾高雄后，有152名旅客脱团，其中1人未失联，扣除3人东窗事发后自行离台，剩余148人滞留台湾地区失联，至今累计到案14人，还有134人在台湾地区失联。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="336" src="http://image.thepaper.cn/www/image/13/625/667.jpg" width="550"/></div><span style="color: rgb(128, 128, 128);">台当局“移民署”26日在嘉义等地查获脱团的越南人士。陈鸿伟 翻摄<br/><div class="contheight"></div></span>越南媒体报道称，越南政府27日召开每月例行会议，越南总理阮春福指示越南文化体育与旅游部依照相关规定检查，严格处理有关152名越南旅客赴台观光集体逃脱案件，并限7天内完成报告并呈报越南政府。<br/><div class="contheight"></div>越南文化体育与旅游部指出，已通知设有赴台观光行程旅行社的越南地方政府，重新检讨业者申请赴台证件的许可证，同时致函越南公安部配合调查。<br/><div class="contheight"></div>越南文化体育与旅游部27日下午已经与驻河内台北经济文化办事处针对此案交换意见，包括确保越南旅客赴台观光行程能正常安排，因为从现在到农历春节，已有许多越南游客签订旅游合同。<br/><div class="contheight"></div>此外，越南外交部指示驻台北越南经济文化办事处继续与台湾地区相关部门保持联系，掌握被查获与留置的越南逃脱旅客个人信息，并妥善安排探视事宜。<br/><div class="contheight"></div>（原题为《越南旅客在台脱团134人仍失联 越总理要求严格处理》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2780134" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">越南旅行团152人在台湾集体脱团失联进展：已有3人被查获</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2777807" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">越南旅客赴台逃脱数暴增14倍，今年一年逃了500人</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2773955" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">台媒：153人越南旅行团赴台旅游，152人失踪脱逃</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 越南,旅行团</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2787354">
+<div class="nbgbox">
+<a class="zan" contid="2787354" href="javascript:;" onclick="voteCont(this)" praisetimes="84">
+                           83</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 越南</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2787354&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2787354&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

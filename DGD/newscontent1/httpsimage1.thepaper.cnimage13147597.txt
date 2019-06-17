@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜抢50元判刑10年，这次司法又当如何面对舆论？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 胡光</p>
+<p>
+							2018-12-13 13:11<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">18岁南昌小伙罗某抢劫并分赃50元，两级法院均以“入室抢劫”判处其有期徒刑十年。近日该案引起多家媒体关注，报道中“18岁”、“50元”、“10年”等关键词，再次刺激了民众敏感的神经，质疑量刑过重的声音不绝于耳。<br/><div class="contheight"></div>该案让人联想到十年前的“许霆案”。因ATM取款机故障，许霆盗取17万余元。一审判处无期徒刑后，经媒体报道引起广泛讨论，二审改判为五年。客观地说，这是媒体对司法的一次有益监督和正面影响。此后发生的邓玉娇案、李伟铭案、胡斌案、药家鑫案等，媒体、舆论都对案件审理程序、结果产生了较大影响。<br/><div class="contheight"></div>无疑，司法的初衷，应是维护社会公平正义，而社会之公平正义，即为最广大民众心中之公平正义。随着互联网的普及，媒体、舆论监督对防止司法过于机械和司法权滥用起到了举足轻重的作用。<br/><div class="contheight"></div>但与此同时，由于缺乏专业系统的法律训练，舆论特别是网络舆论也存在大量非理性的声音，同样不同程度损害了司法最重要的精神——中立。从而让司法人员迫于舆论压力，忽略法律的既定程序、规定，给出一个令绝大多数民众满意的判决。<br/><div class="contheight"></div>舆论监督的初衷是追求公平正义，在这一点上和司法的终极目标并无二致。不过，二者也存在内在的紧张关系和显著差异。司法是高度专业化、理性化的活动，而舆论却普遍带有情绪化倾向。当法律的滞后性、局限性遇上社会生活的复杂性时，“将个案审判置于天理、国法、人情中考量”，当是理智之选。<br/><div class="contheight"></div>司法强调“恶法亦法”，民意则认为“非良法不能善治”。其实，法律对此也设置救济条款，就如许霆案终审中适用的刑法第63条：被告人不具有法定减轻处罚情节时，根据案件的特殊情况，经最高人民法院核准，也可以在法定刑以下判处刑罚。<br/><div class="contheight"></div>回到罗某抢劫案，仔细读完报道，我觉得判决是没问题的：18岁已具有完全刑事责任能力，又有“入室抢劫”的加重情节，且与盗窃罪仅侵犯财产权不同，抢劫罪还同时侵犯人身权，故不能因抢劫数额较小就减轻处罚。由此看出，罗某在无法定减轻情节的情况下，被判处10年有期徒刑，已是取了量刑幅度的最小值。<br/><div class="contheight"></div>当然，司法权需要在阳光下运行，司法机关对一些敏感性强、公众关注度高的案件，应主动加强舆论引导，积极与媒体沟通，把个案裁决当成一次普法教育的契机；媒体在维护公众知情权的时候，也需要对司法独立多一分敬畏与呵护。唯有如此，才能实现二者的良性互动和双赢。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 抢50元判刑10年</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2734431">
+<div class="nbgbox">
+<a class="zan" contid="2734431" href="javascript:;" onclick="voteCont(this)" praisetimes="153">
+                           152</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 入室抢劫</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2734431&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2734431&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（122）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

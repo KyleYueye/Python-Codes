@@ -1,0 +1,86 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国年轻女议员跳舞视频遭恶意曝光，意外收获大量支持</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-05 11:59<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<script src="//file.thepaper.cn/www/v3/js/jwplayer7.1.4.js" type="text/javascript"></script>
+<script type="text/javascript">jwplayer.key="JYFbHxc36sStM1VSc1vvyI42CCrHFlTZcWEYUA==";</script>
+<div class="news_video_name">
+<style type="text/css">
+							#player_wrapper{width:669px;height:377px;}
+							#player_wrapper .player_err_tip{width:669px;height:377px;display: none;vertical-align: middle;background-color: black;color: white; text-align: center;}
+							.jw-tab-focus:focus{outline:none;}
+						</style>
+<div id="player_wrapper">
+<div class="player_err_tip" id="Text">抱歉!<br/>您的浏览器可能不支持此视频播放器，请用更高版本的浏览器试试！</div>
+</div>美国民主党新星，29岁的亚历山德里娅·奥卡西奥-科尔特斯在个人推特主页发布的自己在国会山新办公室外跳舞的视频。 视频来源：网络(00:15)
+					</div>
+<div class="news_txt" data-size="standard">因为一则9年前的跳舞视频，美国民主党新星，29岁的亚历山德里娅·奥卡西奥-科尔特斯（Alexandria Ocasio-Cortez）近日人气大涨。<br/><div class="contheight"></div>据美国有线电视新闻网（CNN）4日报道，亚历山德里娅3日宣誓就职，成为美国国会史上最年轻的女性议员。在她就职前一天，她就读波士顿大学时的跳舞视频被“有心人”发到网上，没想到网友对视频的反应十分正面，纷纷表示看不出来“黑点”在哪。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="507" src="http://image.thepaper.cn/www/image/13/930/88.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">被“有心人”发到网上的</span><span style="color: rgb(128, 128, 128);">亚历山德里娅波士顿大学时的跳舞视频。  截屏图<br/><div class="contheight"></div></span>4日，亚历山德里娅本人更是用跳舞的方式正面回应视频发布者。她在个人推特主页发布了一条自己在国会山新办公室外跳舞的视频，并配以文字：“我听说共和党认为女性跳舞是一种羞耻，等他们发现女国会议员也跳舞了吧！祝每个人都度过一个美好的周末。” 目前这条推文已获得924万次观看，11万次转发，52万个赞。<br/><div class="contheight"></div>“共和党人认为好玩就应该被取消资格或失去合法性，这点并不令我感到惊讶。”亚历山德里娅在接受美国《国会山》日报采访时说道。<br/><div class="contheight"></div>CNN报道称，最先被挖出的30秒视频剪辑自一段4分20秒的视频，视频由波士顿大学的学生舞蹈团参与拍摄，内容是他们模仿1980年代流行电影里的场景。亚历山德里娅2011年从该大学毕业，获得经济与国际关系学位，是舞蹈团成员之一。<br/><div class="contheight"></div>据环球网2018年11月报道，拉美裔女候选人亚历山德里娅曾经是2016年以民主党人身份参加总统选举的伯尼•桑德斯(Bernie Sanders)竞选活动的组织者之一，还为已故参议员泰德•肯尼迪(Ted Kennedy)工作过。2008年她的父亲去世后，亚历山德里娅在餐馆里做了几份工作，通常是工作18小时才换班。<br/><div class="contheight"></div>去年11月的纽约州联邦众议员选举中，亚历山德里娅·奥卡西奥-科尔特斯击败共和党对手，成为史上最年轻的美国女性国会议员。在正式入职前，亚历山德里娅将不会收到薪资，而作为纽约第14选区的国会代表，国会议员必须在自己的选区或者州拥有一个住所。当选后，亚历山德里娅曾向《纽约时报》透露，她目前无法承担一套华盛顿公寓的房租，希望自己的积蓄能够帮助度过未来三个月的“无薪期”。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = 'http://cloudvideo.thepaper.cn/video/bdde33be9495452c99167986bc5fe441/hd/3b4da855-8ff2-4a99-a09d-d56a20344360-84013118-9dac-becd-5fce-eba51ed78143.mp4',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'//image1.thepaper.cn/image/13/930/99.jpg',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘惠<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国国会,女议员,跳舞</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2816889">
+<div class="nbgbox">
+<a class="zan" contid="2816889" href="javascript:;" onclick="voteCont(this)" praisetimes="181">
+                           180</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美国国会议员</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2816889&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2816889&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

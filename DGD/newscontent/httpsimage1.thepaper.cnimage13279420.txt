@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">联大通过《难民问题全球契约》，美国、匈牙利投票反对</h1>
+<div class="news_about">
+<p>王建刚/新华网</p>
+<p>
+							2018-12-18 14:58<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">第73届联合国大会17日通过《难民问题全球契约》（简称《契约》），以期帮助各国更好地应对大规模的流离失所和难民危机。<br/><div class="contheight"></div>联合国常务副秘书长阿明娜在随后举行的庆祝会上表示，《契约》在保护难民以及帮助难民收容国解决困难等方面“迈出重要一步”。联合国难民事务高级专员菲利波·格兰迪说，《契约》是国际社会通力合作的有力表现。<br/><div class="contheight"></div>这项协议经过联合国难民署与会员国、国际组织、民间社会、私营企业和专家为期两年的广泛磋商。《契约》希望，政府和私营部门增加投资来解决难民问题，加强基础设施建设并提供惠及难民的收容社区服务。《契约》还要求制定政策和措施，使难民能够在流离失所期间接受教育并过上温饱生活，将通过设立跟踪系统来监测相关进展，包括每四年举行一次“全球难民论坛”，让各国政府汇报相关情况并就一系列举措做出承诺。<br/><div class="contheight"></div>《契约》获得联合国181个会员国的支持，美国和匈牙利投票反对。《契约》不具法律约束力。<br/><div class="contheight"></div>据联合国难民署今年6月发布的报告，截至2017年年底，全世界约有6850万人被迫流离失所，其中2540多万人为难民。另有统计显示，90%的难民生活在发展中国家，这些国家的健康或教育等基本服务和资源十分有限。 <br/><div class="contheight"></div>（原题为《联大通过《难民问题全球契约》》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：廖婧雯<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 联大，难民署，契约</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2749378">
+<div class="nbgbox">
+<a class="zan" contid="2749378" href="javascript:;" onclick="voteCont(this)" praisetimes="34">
+                           33</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 难民问题</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2749378&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2749378&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

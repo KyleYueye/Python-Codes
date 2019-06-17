@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">英媒披露女王圣诞祝辞：暗批脱欧之争，赞英格兰队世界杯表现</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-24 19:17<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">在英国面临脱欧抉择的重要时刻，英国女王伊丽莎白二世将在今年的圣诞节祝辞中强调“和平和善意”的重要性。<br/><div class="contheight"></div>英国《卫报》24日披露了英国女王今年圣诞祝词的部分内容。据悉，92岁的女王将会在祝辞中表示，“我相信关于地球和平和对所有人善意的信息永远不会过时，每个人都能注意到这一点。”<br/><div class="contheight"></div>《卫报》说，由于目前英国议会对于特雷莎·梅的脱欧方案存在的巨大分歧，以及世界部分地区的军事冲突，女王的圣诞祝辞预计将引发许多人的共鸣。<br/><div class="contheight"></div>女王将会在祝辞中强调持不同观点的人，通过文明的、符合共同礼节的行动，弥合彼此分歧的重要性。女王会说，“即便是存在最深的分歧，尊重他人，将他人作为人类同胞对待，始终是实现更大理解的第一步。”<br/><div class="contheight"></div>《卫报》指出，作为英国的国家元首，女王在政治问题上一般保持公开中立的立场，并不公开发表意见。但是很多人可能会认为，女王的今年的话是针对英国公众围绕脱欧问题而产生的不良情绪。<br/><div class="contheight"></div>据报道，今年的圣诞祝辞是12月12日女王在白金汉宫录制的。这发生在英国首相特雷莎·梅与工党领袖科尔宾互相严词抨击对方之前。本月19日特雷莎·梅在下议院讽刺工党领袖科尔宾要发起不信任投票像“哑剧”，科尔宾疑似嘟囔“蠢女人”回骂特雷莎·梅，但是科尔宾否认自己说过这样的话。<br/><div class="contheight"></div>报道称，圣诞祝辞传统上具有很强烈的宗教性，同时反映当前的一些问题。这份圣诞祝词由女王撰写，借鉴了过去一年女王自己的经验。2018年的亮点事件包括英格兰队突破性地进入世界杯半决赛，哈里王子与梅根的婚礼，以及伊丽莎白二世的孙女尤金妮公主的婚礼等。<br/><div class="contheight"></div>圣诞致辞广播是英国自1932年以来就有的传统，当时现任女王的祖父乔治五世国王(King George V)通过电台进行了一段时长三分钟的圣诞致辞。女王于1952年进行了首次电台圣诞致辞。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：辛恩波<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 英国,女王,圣诞节</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2769371">
+<div class="nbgbox">
+<a class="zan" contid="2769371" href="javascript:;" onclick="voteCont(this)" praisetimes="59">
+                           58</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 英国女王</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2769371&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2769371&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

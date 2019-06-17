@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25463">港台来信</a>
+</div>
+<h1 class="news_title">“台大校长案”搞垮三任“教育部长”，叶俊荣请辞获准</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2018-12-25 17:12<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="362" src="http://image.thepaper.cn/www/image/13/490/845.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">叶俊荣<br/><div class="contheight"></div></span>海外网12月25日消息，台“教育部长”叶俊荣请辞获行政机构负责人赖清德批准。叶俊荣成为因“管中闵案”辞职的第三位台“教育部长”。<br/><div class="contheight"></div>据台湾“东森新闻云”报道，24日，台“教育部长”叶俊荣宣布同意管中闵任台大校长。25日，叶俊荣便请辞，而赖清德已批准。此前，潘文忠、吴茂昆皆因“台大校长案”辞去“教育部长”一职，而叶俊荣也成为因此辞职的第三人。<br/><div class="contheight"></div>台“行政院”发言人谷辣斯·尤达卡（Kolas Yotaka）表示，赖清德24日下午1点58分收到叶俊荣短信，说要在三点召开记者会做重要决定。赖清德回复叶俊荣称，“‘行政院’的确对教育部决定是保留的，希望教育部审慎思考”。报道称，叶俊荣通过“管中闵案”，事先并未获得赖清德同意，连“绿委”都不知道。<br/><div class="contheight"></div>叶俊荣这一举动让蔡英文也坐不住了。据台湾“中时电子报”报道，25日一早，蔡英文赶紧把赖清德叫来办公室，商讨“管中闵案”。蔡办发言人林鹤明称，蔡英文认为24日对“管中闵案”的处理“让大家措手不及”。她认为，此案社会高度关注，作为执政团队的一员，相关决策应该经过完整的沟通与讨论。25日，针对该案，赖清德当日一早便约见叶俊荣。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="399" src="http://image.thepaper.cn/www/image/13/490/839.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">管中闵<br/><div class="contheight"></div></span>僵持了近一年的“台大校长聘任案”昨日（24日）终迎来重大转折。台“教育部”迫于民意的压力终于松口，“部长”叶俊荣宣布，同意管中闵担任台大校长，但台大必须在三个月内针对遴选瑕疵对外充分说明。岛内有声音认为，这不仅仅是管中闵个人的胜利，更体现了“拔管案”中的“幕后黑手”民进党终被打败。<br/><div class="contheight"></div>消息一出，台湾网友纷纷叫好。“恭喜台大，祝福管爷”“看来（民进党）也没种卡到2020年!幕后黑手被打败了!”“没什么话说，就是全面干掉民进党”。<br/><div class="contheight"></div>台湾“联合新闻网”报道指出，台大校长遴选委员会于今年1月5日选出台当局“中研院”院士管中闵为台大校长。但台当局教育机构经历三位负责人，皆以“程序有瑕疵”为由，拒绝发任聘书。自此，台大校长职位空缺500多天。台大自主联盟甚至要向吉尼斯申请“全世界没有校长时间最长大学”的世界纪录。<br/><div class="contheight"></div>蔡英文的当局的这一做法在岛内引来一片骂声。不少学生抗议民进党当局的“拔管”，高呼“还我校长，台湾教育不能等”。台大校长遴选委员反讽蔡当局，“恭喜‘政府’做到蒋介石一生都不敢对胡适与傅斯年做的事情”。台湾地区前领导人马英九早前受访时也痛斥，“教育部”作法“太离谱了!”把大学自治践踏到这个地步。他还质问民进党当局，“台湾现在还是法治跟文明社会吗”？此前是台大外科教授的柯文哲也看不下去。他直言，民进党当局不要再搞下去，否则对台湾伤害太大了。<br/><div class="contheight"></div>（原题为《“台大校长案”搞垮三任“部长”，叶俊荣请辞获准》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 台大校长案</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2773110">
+<div class="nbgbox">
+<a class="zan" contid="2773110" href="javascript:;" onclick="voteCont(this)" praisetimes="24">
+                           23</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 台湾大学</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2773110&caid=25463",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2773110&amp;caid=25463" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

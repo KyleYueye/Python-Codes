@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">下厨房| 这一杯冰咖啡，拯救昏沉沉又吃不下饭的夏天</h1>
+<div class="news_about">
+<p>刘嘉郦</p>
+<p>
+							2018-07-28 08:31<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>所谓“不吃饱怎么过夏天”，其实只不过是一种自欺欺人的说法，毕竟在正常情况下，高温之下的没胃口才是常态。冰镇酸梅汤、冬瓜茶都是常见的夏日消暑饮品，但对于晨起还有点儿昏昏沉沉的脑袋来说，一杯冰咖啡可能才是唤醒精神与胃口的终极大招。当然，要是时间走到了双休日，那么给自己的冰咖啡，再搭配上一份丰富的早午餐，也是吊起精神的最佳选择。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/9/172/282.jpg" width="600"/></div></u>做咖啡这件事，说难不难，说简单也不简单，端看你的需求为何。如果只需要咖啡因的，那么速溶咖啡一冲，立刻解决需求。但要是你是个咖啡爱好者，想要品味一下不同的咖啡风味的，那么可能会选择手冲的方式，甚至有些讲究的爱好者，还会精心挑选自己中意的咖啡豆，每次冲泡都以新鲜磨制为佳。当然，要是觉得手冲麻烦，但又不想损失体验感，那么最好的解决方案或许是买上几包挂耳咖啡，在一撕一扯一注水之间，轻巧地完成任务。<br/><div class="contheight"></div>不过在夏天，咖啡还有另一种冲泡方法，那就是冷萃。将咖啡粉装入茶包中，之后按比例算好要用的水量，将咖啡粉包和水一起注入到杯中，之后静静地等待12-14个小时，就能喝到属于自己的冷萃咖啡——当然，要是你喜欢冰饮，那么完全可以从一开始就将杯子放入到冰箱里。对于咖啡品牌来说，每到夏日，都会推出些不一样的咖啡产品，无论是从做法上还是从口味上来说，只有变化存在，才会让夏日里的疲劳味蕾，多一些刺激感。<br/><div class="contheight"></div><strong>COSTA莫吉托气泡冷萃冰咖啡<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="378" src="http://image.thepaper.cn/www/image/9/171/926.jpg" width="600"/></div></strong>配方：冷萃冰咖啡、苏打水、莫吉托糖浆、新鲜薄荷、冰块<br/><div class="contheight"></div>做法：<br/><div class="contheight"></div>1、将冷萃冰咖啡、莫吉托糖浆和冰块进行混合，之后搅拌均匀；<br/><div class="contheight"></div>2、加入苏打水，并轻轻搅拌几下；<br/><div class="contheight"></div>3、装饰以新鲜薄荷即可。<br/><div class="contheight"></div>Tips：<br/><div class="contheight"></div>糖浆的使用量可以根据个人口味来进行调整。除此之外，如果你特别喜欢薄荷的风味，那么可以将薄荷轻拍，在第一步的时候就把它加入进去，以便让薄荷的风味可以更好地跟咖啡融合。<br/><div class="contheight"></div><strong>NESPRESSO萨伦提娜咖啡<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="377" src="http://image.thepaper.cn/www/image/9/171/936.jpg" width="600"/></div></strong>配方：萨伦提娜咖啡、杏仁牛奶、冰块及蔗糖糖浆<br/><div class="contheight"></div>做法：<br/><div class="contheight"></div>1. 将 2 块冰块放入VIEW 系列大杯咖啡杯中；<br/><div class="contheight"></div>2. 加入 适量杏仁牛奶（买不到的话可以用牛奶代替）；<br/><div class="contheight"></div>3. 缓缓加入适量蔗糖糖浆；<br/><div class="contheight"></div>4. 将萃取后的萨伦提娜咖啡注入杯中，即可饮用。<br/><div class="contheight"></div>Tips：<br/><div class="contheight"></div>VIEW系列大杯咖啡杯可做摇杯使用，如果你想要咖啡变得更冰爽，那么可以在饮用之前适当摇晃几下。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李淑平<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2298382">
+<div class="nbgbox">
+<a class="zan" contid="2298382" href="javascript:;" onclick="voteCont(this)" praisetimes="45">
+                           44</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 下厨房</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2298382&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2298382&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜女医生自杀：网络暴力在寻找下一个"猎物"</h1>
+<div class="news_about">
+<p>澎湃特约评论员 栗中西</p>
+<p>
+							2018-08-28 18:32<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2385213" target="_blank">
+<span class="p_time">01:56</span>
+<img alt="马上评｜女医生自杀：网络暴力在寻找下一个" src="//image1.thepaper.cn/image/9/945/733.jpg" 猎物""=""/>
+</a>
+<div class="atlas_360_txt">女医生自杀，5天前与男童及其家长冲突<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">四川德阳的一个女医生不堪压力自杀了。<br/><div class="contheight"></div>起因说小不小，说大不大：女医生在游泳池游泳时被13岁的男孩冒犯了，男孩拒绝道歉还做鬼脸、吐口水，女医生丈夫一怒之下教训了男孩，孩子父母得知后，先是在更衣室打了女医生，后又到医院闹事，要求开除女医生。女医生不堪压力，躲在车里，自杀了。<br/><div class="contheight"></div>这是一起表面看来并不值得的死亡，令人喟叹。然而其中细节耐人寻味，男孩的家人曾经散布过男孩被打耳光、按进水里的视频，视频被一些自媒体转载报道后，网络上声讨女医生夫妇的声音一度甚嚣尘上。现在该追问的是：到底男孩家长逼死了女医生，还是声讨女医生夫妇的“网络暴力”杀了人？<br/><div class="contheight"></div>在畅销书《人性中的善良天使》中，作者平克·斯芬克斯检视了从史前到21世纪的暴力发展史，试图证明人类社会的暴力是在持续降低的。只要是稍有观察力也会发现，当今世界中直接的暴力对抗是在减少，但是暴力也在不断衍进出新的形式——钝刀子割人的极端舆论暴力，既伤人于无形，又难以找出可以定罪的祸首。<br/><div class="contheight"></div>与以往的网络暴力事件不同的是，这个案件中涉事男孩的家人，扮演了主动召唤网络暴力的角色，而且是在现实中和网络中双管齐下。<br/><div class="contheight"></div>他们剪辑了游泳馆现场视频发布到网上，直接将经过复杂、各有过错的私人纠纷，简化为“成人打孩子”甚至是“水务局官员打孩子”。要说没有意识到网络舆论会汹涌而至，恐怕没人信。相反可以推断，正是因为意识到网友口诛笔伐的威力会比派出所民警的调解更解气，能让医生夫妇道歉的姿态更低，他们才会做出这样的“公报私仇”的选择。“成人打孩子”的新闻标签，恰恰是前段时间舆论敏感所在。<br/><div class="contheight"></div>为了确保暴力的有效性，他们还为“复仇”加了码——去女医生的单位闹事。至此，现实环境中的舆论暴力和虚拟网络环境中的舆论暴力同时到位了。<br/><div class="contheight"></div>如果说以往公共事件中的网络审判，是因为法律和制度介入不足、介入不及时，触发了社会自我修复的机制。那么，这个案例则向我们展示了，如果不加控制，极端的网络暴力会越来越如失控的“野兽”：不为公义只为私仇，不为重大由头只为在芝麻绿豆的纷争中占个上风，有心人可以很有“技巧”地掀起惊涛骇浪。<br/><div class="contheight"></div>换言之，屏幕前的人，在网络发言时一定要更加谨慎，你敲下的每一个字都有可能成为别人泄私愤的工具。自媒体时代，信息的量在暴涨，真实性、可信性却越来越难考证，如果不愿意花心力或者没有能力去交叉求证、辨别真伪，“君子寡言”倒不失为一种宝贵的品质。<br/><div class="contheight"></div>暴力，并没有随着女医生的死亡而消亡：男孩家长和涉事自媒体正在遭受新一轮的网络暴力，他们私人信息和家人情况被“人肉”，新的审判席虚位以待。<br/><div class="contheight"></div>据说，历史给人的唯一教训，就是人们从未在历史中吸取过任何教训。网络暴力这头“野兽”一再证明，一旦它被召唤出来，谁也难以预料到它的胃口有多大。期待法律的缰绳能将它制伏，避免悲剧再发生。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 网络暴力</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2387890">
+<div class="nbgbox">
+<a class="zan" contid="2387890" href="javascript:;" onclick="voteCont(this)" praisetimes="648">
+                           647</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 网络暴力</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2387890&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2387890&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（257）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

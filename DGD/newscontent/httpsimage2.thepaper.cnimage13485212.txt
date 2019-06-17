@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">济南至青岛高铁明天开通运营，两地运行时间仅需1小时40分</h1>
+<div class="news_about">
+<p>澎湃新闻记者 王俊</p>
+<p>
+							2018-12-25 13:02<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="435" src="http://image.thepaper.cn/www/image/13/485/210.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">济青高铁</span><br/><div class="contheight"></div>澎湃新闻记者从中国铁路总公司获悉，12月26日，济南至青岛高速铁路（以下简称济青高铁）将开通运营，济南至青岛最快列车运行时间压缩至1小时40分。<br/><div class="contheight"></div>济青高铁西起济南东站，东至青岛市红岛站，线路全长307.9公里，设济南东、章丘北、邹平、淄博北、临淄北、青州市北、潍坊北、高密北、胶州北、青岛机场、红岛11座车站。其中济南东至胶州北段初期运营时速300公里，胶州北至红岛段运营时速250公里。<br/><div class="contheight"></div>济青高铁开通初期安排开行动车组列车4对；2019年1月5日运行图调整后，将安排开行动车组列车日常线37对，在日常线基础上，根据客流需求，周末线加开3对、高峰线加开5对。济南至青岛最快列车运行时间将由原来的2小时20分，压缩至1小时40分；北京至青岛间将全程压缩52分钟。<br/><div class="contheight"></div>济青高铁是国家“八纵八横”高铁网中“一横”青岛至银川通道（青岛—济南—石家庄—太原—银川）的重要组成部分，是该通道的最东端一段，与该通道已经开通的石济高铁、石太高铁实现连通。这一高铁东连青荣城际铁路、青盐铁路，西接京沪高铁、石济高铁，为山东半岛新增一条高效便捷的大能力快速铁路通道。济青高铁与胶济铁路、胶济客专在济南至青岛间形成“三线并行”的铁路交通运输格局，将极大提升济南至青岛间运输能力。这一高铁的开通运营，将进一步优化区域高铁路网结构，方便沿线群众出行，对密切山东半岛与北京、上海、石家庄、太原等地的人员往来和经贸交流，促进区域经济社会发展，具有十分重要的意义。 <br/><div class="contheight"></div>具体车次、时刻等资讯信息可查询“中国铁路”微信和铁路12306网站、微信、客户端。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：钟煜豪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 济南至青岛高铁，青岛</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772372">
+<div class="nbgbox">
+<a class="zan" contid="2772372" href="javascript:;" onclick="voteCont(this)" praisetimes="61">
+                           60</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 高铁建设</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772372&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772372&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">下厨房| 苦夏难耐，用酸甜口味的凉菜来打开味蕾吧</h1>
+<div class="news_about">
+<p>刘嘉郦</p>
+<p>
+							2018-08-08 10:47<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>吃什么这件事，从来都是家里掌勺人的日常烦恼。虽说一家人有时口味相近，但真要每个人都吃得畅快惬意，却也不容易做到，尤其是在这高温蒸腾的夏日，大口吃饭这件事就跟轻松做饭一样，都是“不可能完成的任务”。不过幸好，博大精深的中国菜里还有凉菜这一系列，能够在这个炎炎夏日里，解决胃口不佳和做饭太热的问题。<br/><div class="contheight"></div></u>酸甜口味的凉菜是夏日里的一道奇景，因为独特的亲和力，基本上很少会有人拒绝去尝试。适当的酸度能够增加口腔唾液分泌，而甜味则很好地吊出了菜品的鲜度，两者结合之下，便是最佳的开胃之选。来自上海外滩茂悦大酒店的杜才清师傅为今年夏天特别设计了两道酸甜口味的凉菜，即使不怎么擅长做菜的人，也能跟着他的菜谱做个像样。<br/><div class="contheight"></div><strong>醋汁琉璃西芹<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="436" src="http://image.thepaper.cn/www/image/9/429/498.jpg" width="600"/></div></strong>原料：<br/><div class="contheight"></div>西芹500g<br/><div class="contheight"></div>调料：<br/><div class="contheight"></div>生抽185g，绵白糖400g，玫瑰米醋250ml<br/><div class="contheight"></div>制作方法：<br/><div class="contheight"></div>1、将西芹洗净削皮拉丝后切成14厘米的段，片薄片，放入圆柱模型里加入冰水，放入冰箱里冰镇十二小时；<br/><div class="contheight"></div>2、将生抽、绵白糖、玫瑰米醋搅匀后待用；<br/><div class="contheight"></div>3、取出模型里西芹，装盘后将调料倒入，即可食用。<br/><div class="contheight"></div><strong>话梅冰糖小蕃茄<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/9/429/500.jpg" width="600"/></div></strong>原料：<br/><div class="contheight"></div>小蕃茄（红，黄）共1斤<br/><div class="contheight"></div>调料：<br/><div class="contheight"></div>广式话梅2斤，冰糖1斤，桂花少许<br/><div class="contheight"></div>制作过程：<br/><div class="contheight"></div>1、将2斤话梅放入2斤水，泡2小时。上笼蒸5小时后，取出话梅待用；<br/><div class="contheight"></div>2、将1斤冰糖放入话梅汁水中，用中小火慢慢熬成浓汁，之后放入二十粒话梅，待用；<br/><div class="contheight"></div>3、将红黄樱桃洗净，用刀在顶部刻十字，沸水烫煮后再用冰水浸泡冷却，捞出去皮，淋干水份；<br/><div class="contheight"></div>4、将去皮后的小番茄放入话梅汁中，之后将其放入冰箱，冷藏过夜；<br/><div class="contheight"></div>5、将冷藏后的小番茄取出后装盘淋汁，撒上桂花即可。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李淑平<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2326546">
+<div class="nbgbox">
+<a class="zan" contid="2326546" href="javascript:;" onclick="voteCont(this)" praisetimes="5">
+                           4</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 下厨房</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2326546&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2326546&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

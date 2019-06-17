@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国政府不开门，副总统彭斯却涨薪8万多 </h1>
+<div class="news_about">
+<p>汪梦唐/海外网</p>
+<p>
+							2019-01-06 06:32<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><span style="color: rgb(128, 128, 128);"><div style="text-align:center;"><img alt="" height="336" src="http://image.thepaper.cn/www/image/13/958/153.jpg" width="600"/></div>特朗普和彭斯（来源：华盛顿邮报网）</span><br/><div class="contheight"></div>海外网1月6日消息，根据美国人事管理办公室和联邦薪酬专家近日发布的文件显示，5日起美国内阁成员将集体涨工资，其中副总统彭斯年薪预计将从230700美元（约合人民币159万元）升至243500美元（约合人民币167万元），涨幅最高。<br/><div class="contheight"></div>据华盛顿邮报网消息，5日起，美国内阁部长级薪水将从目前199700美元（约合人民币137万元）涨至210700美元（约合人民币145万元）；副部长级别从179700美元（约合人民币123万元）涨至189600美元（约合人民币130万元）。<br/><div class="contheight"></div>《华盛顿邮报》指出，这次涨薪是联邦政府关门的副产品。由于美国国会未能在12月21日以前通过政府开支法案，现有的限制涨薪法案失效。2013年国会立法限制了联邦政府高级高官的涨薪，但法案必须每年更新一次。去年因过了更新截止日期，而国会现在又无任何行动，涨薪自动生效。<br/><div class="contheight"></div>此前，美国人事管理办公室(OPM)的官员就此展开长时间讨论。据一位不愿透露姓名的内部讨论的与会者称，包括代理OPM主任玛格丽特·威切特（Margaret Weichert）在内的官员担忧，公众会对此次涨薪不满，并讨论了如何回应公众质疑等相关议题。<br/><div class="contheight"></div>去年12月22日开始的美国政府停摆导致大约80万名联邦雇员处于无薪状态，其中约有38万人被迫停职，其他人则继续无薪工作。在新年之前，总统特朗普还下令冻结大多数联邦公务员涨薪，无论他们是否工作。<br/><div class="contheight"></div>（原题为《美国政府不开门 副总统彭斯却涨薪8万多》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国,政府关门,涨薪</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2819654">
+<div class="nbgbox">
+<a class="zan" contid="2819654" href="javascript:;" onclick="voteCont(this)" praisetimes="173">
+                           172</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美国政府关门</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2819654&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2819654&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（81）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

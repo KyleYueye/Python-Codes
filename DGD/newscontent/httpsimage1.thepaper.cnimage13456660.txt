@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25491">长三角政商</a>
+</div>
+<h1 class="news_title">浙一企业通知：买华为产品最高补贴一半，买苹果产品取消晋升</h1>
+<div class="news_about">
+<p>澎湃新闻记者 陆玫</p>
+<p>
+							2018-12-24 17:08<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="840" src="http://image.thepaper.cn/www/image/13/456/667.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">“钱江晚报”微信公众号 图</span><br/><div class="contheight"></div>“鼓励员工购买华为产品，公司给予最高50%补贴；员工禁止购买苹果产品，违反者失去晋升机会。”近日浙江一家企业的内部通知在网络传播，并一度进入新浪微博热搜榜。<br/><div class="contheight"></div> 12月24日，澎湃新闻（www.thepaper.cn）从该企业了解到，网传的通知内容属实，已于12月8日下发。<br/><div class="contheight"></div> “半个多月来，已经有50多名员工换了华为手机，其中公司管理层已经全部从苹果手机换成了华为，公司已补贴10余万元。”该企业相关负责人告诉澎湃新闻。<br/><div class="contheight"></div> 这则通知提及，即日起禁止员工购买苹果产品，违反者将失去晋升机会并取消相应补贴；鼓励员工购买华为产品，管理层补贴50%，从苹果手机换用华为的普通员工补贴25%，其他普通员工补贴20%。<br/><div class="contheight"></div> 该企业上述负责人表示，企业是做纺织材料的，此举意在支持民族品牌。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：谢春雷<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 浙一企业通知，华为产品，苹果产品</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2769077">
+<div class="nbgbox">
+<a class="zan" contid="2769077" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 企业管理</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2769077&caid=25491",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2769077&amp;caid=25491" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

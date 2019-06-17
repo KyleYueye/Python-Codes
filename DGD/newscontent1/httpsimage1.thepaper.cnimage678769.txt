@@ -1,0 +1,80 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">SIHH2018|沛纳海：科技与美学齐头并进</h1>
+<div class="news_about">
+<p>钟天阳</p>
+<p>
+							2018-02-06 09:45<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+<p style="line-height: 20px; margin-bottom:5px">
+<img alt="" src="//file.thepaper.cn/www/v3/img/topic.gif" style="float:left">
+<a href="newsDetail_forward_30413" target="_blank">
+<span class="news_topic">
+                              【专题】专题｜聚焦2018SIHH日内瓦高级钟表沙龙</span>
+</a>
+</img></p></div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard"><u>沛纳海近年来在产品研发上颇具魄力，一方面推出全新的纤薄版表壳LUMINOR DUE，适应新环境下的市场需求；另一方面在科技研发上不遗余力，不断将其他领域的高科技技术引入到腕表制造中，不仅突破了许多限制，更带来不少惊喜。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="399" src="http://image.thepaper.cn/www/image/6/787/48.jpg" width="600"/></div></u><span style="color: rgb(153, 153, 153);">LUMINOR 1950系列陀飞轮月相时间等式两地时腕表<br/><div class="contheight"></div></span>今年沛纳海的重头之作就是L’ASTRONOMO - LUMINOR 1950 TOURBILLON MOON PHASES EQUATION OF TIME GMT腕表，翻译成中文，就是致敬天文——LUMINOR 1950系列陀飞轮月相时间等式两地时腕表。<br/><div class="contheight"></div>首款沛纳海L’Astronomo腕表于2010年面世，适逢伽利略发明天文望远镜并以之观测星象400周年，是品牌创制的首款搭载陀飞轮调节器、日历、时间等式功能，以及日出和日落时间显示的腕表。延续前作开创的传统，沛纳海全新腕表配备与首款L’Astronomo腕表相同的一系列出众功能外，更同时兼具两地时间显示和两项创新特色，包括月相显示，以及采用偏振水晶玻璃显示日期的原创系统。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="449" src="http://image.thepaper.cn/www/image/6/787/46.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">左边表盘显示秒针，右边表盘显示月份和日期，中间的浮游标尺指示常规时间与真太阳时之间的正负差异。箭头型的中央指针指示第二时区的时间。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="447" src="http://image.thepaper.cn/www/image/6/787/47.jpg" width="600"/></div></span><span style="color: rgb(153, 153, 153);">翻转表背，可以看到一个日夜显示盘，以24小时的表圈和太阳月亮图标指示日夜更迭，月亮时标更融入月相变化。<br/><div class="contheight"></div></span>另一方面，采用了全新表壳的Luminor Due 3 Days GMT Power Reserve Automatic三日动力两地时动力显示自动腕表(PAM00944)也相当亮眼。腕表配备直径45毫米的Luminor表壳、迷人的碳黑色表盘，并搭载P.4002自动上链机芯。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="405" src="http://image.thepaper.cn/www/image/6/787/49.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">三日动力两地时动力显示自动腕表(PAM00944)。<br/><div class="contheight"></div></span>全新型号的Luminor Due表壳采用 AISI 316L 抛光精钢铸造，展现简约的线条和标志性的表冠护桥装置。碳黑色表盘配备小秒盘和日期显示等经典的沛纳海设计，并以缎面太阳放射饰纹润饰，使腕表外观优雅，又保留鲜明的运动风格。表盘的三明治夹层结构由两块涂有米<br/><div class="contheight"></div>白色夜光物料的夹板重叠而成，令腕表在任何光暗度甚至漆黑环境下也能清晰读时。位于表盘5点钟位置，配备两地时间功能和昼夜显示，确保第二时区读时清晰。</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李淑平<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="1973752">
+<div class="nbgbox">
+<a class="zan" contid="1973752" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日内瓦表展</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=1973752&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=1973752&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

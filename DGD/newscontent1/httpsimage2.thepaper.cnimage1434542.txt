@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">滴滴协助警方打掉98人特大网约车黑产诈骗团伙</h1>
+<div class="news_about">
+<p>刘珜/北京青年报</p>
+<p>
+							2019-01-08 14:54<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="375" src="http://image.thepaper.cn/www/image/14/34/540.jpg" width="500"/></div><span style="color: rgb(128, 128, 128);">北青网 图<br/><div class="contheight"></div></span>北京青年报微博1月8日消息，记者从滴滴了解到，近日滴滴协助广东警方侦破的一起特大“代叫单”团伙诈骗案，该案共计98名犯罪嫌疑人落网，刑拘78人，成功将一段网约车黑色产业链斩断。<br/><div class="contheight"></div>据广东省公安厅通报称，2017年9月，滴滴出行向公安报案，被人恶意注册大量滴滴乘客账号，通过“代叫单”形式提供网约车服务，服务结束后不支付车费，造成平台损失超过10万元。<br/><div class="contheight"></div>早在2017年8月，滴滴出行就针对有乘客不支付大额车费，并骗取司机信任诈骗司机这一现象进行了调查，发现黑产通过恶意注册乘客账号，利用“代叫单”形式诈骗平台和司机。通过进一步用大数据和情报分析，一个上游恶意注册、养号、扫号，下游“代叫单”买卖订单的产业链逐渐浮出水面。滴滴出行安全部门立即向广州市公安局报案，并梳理出涉嫌订单数据和乘客、司机资料提交给了办案部门，前期配合办案部门对相关线索深挖梳理、扩线和落地，对涉案的电子证据提取固定。<br/><div class="contheight"></div>通报称，广东省公安厅和广州市公安局对此案高度重视。在接到滴滴出行报案后，公安机关立即组织网警、刑警及黄埔、天河、白云、花都区分局等组成专案组开展侦查，在滴滴公司的大力配合下，发现了这个犯罪团伙。广州市公安局经过几个月的缜密侦查，梳理出一个分布在5个省15个地市的犯罪团伙，该团伙由软件开发技术人员、“代叫单”中介和乘客组成。办案部门在2018年1月份和9月份分两次对该团伙进行收网，共抓获嫌疑人98人，刑拘78人，现场还缴获了一大批作案电脑和手机。滴滴出行方面表示，广东警方在打击黑产的过程中，帮助企业构建日趋完善、公平的司乘生态，维护了广大用户利益。滴滴将持续联合警方打击平台上的不法行为，充分保障乘客和司机的利益。<br/><div class="contheight"></div>（原标题《滴滴协助警方打掉98人特大网约车黑产诈骗团伙》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 非法网约车</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827528">
+<div class="nbgbox">
+<a class="zan" contid="2827528" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 非法网约车</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827528&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827528&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

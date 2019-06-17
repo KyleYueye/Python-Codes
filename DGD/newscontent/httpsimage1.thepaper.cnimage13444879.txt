@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">中纪委机关报刊文：党员干部应当常补精神之“钙”</h1>
+<div class="news_about">
+<p>李洁/中国纪检监察报</p>
+<p>
+							2018-12-24 06:41<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">上周，终于下定决心将一颗坏牙拔去，一时的剧痛替代了长期的阵痛，消除了潜伏已久的隐患。<br/><div class="contheight"></div>“提早治疗是可以保留的！”拔牙的医生无比惋惜。看着这颗拔出的坏牙，笔者也有些许伤感。而去留选择的机会，在这颗牙隐隐作痛、而自己默默忍受之时就已失去。其实，知道这颗牙有问题已经很久了，只是时疼时不疼，尚可忍受，加之总有些零零碎碎的小事牵绊，便未认真对待。“牙疼不是病，疼起来要人命”，这次剧烈发作，已经坐立难安，方才决心就诊。<br/><div class="contheight"></div>常言道“小洞不补，大洞吃苦”，道理人人皆懂，然遵照行事却不是谁都能做到的，吃这种亏的一直不乏其人。<br/><div class="contheight"></div>看到媒体一则报道：12月13日下午，广西壮族自治区北海市委召开整顿工作作风优化营商环境工作会议，通报对市行政审批局政务服务大厅等窗口单位暗访检查的情况和该市优化营商环境考评指标完成情况，宣布对市行政审批局班子集体免职的决定。在为北海市委动真碰硬、严肃问责点赞的同时，不免思考：这些群众反映强烈的作风弊病，为何没有及时整改，反而一步步恶化，直到整个领导班子被集体免职的地步？<br/><div class="contheight"></div>再看看会议上曝光该政务服务大厅存在的种种问题：工作人员怠慢冷落群众、让群众排长队；工作时间玩手机、睡觉、吃零食，浏览与工作无关的网页；办证大厅下午14∶30开门，提前来办事的群众只能在寒风冷雨中等候，工作人员不让进门；打印机没纸了，叫人去换也没人动一下……事后来看，这些工作态度、工作作风方面问题似乎没那么“致命”，也不难发现和纠正。然而，由于工作人员不上心、上级监管不到位，导致这些“小病”一个一个叠加起来、成年累月堆积起来，最终变成损害营商环境、破坏党群干群关系的“重疾”，非“大刀阔斧”不足以彻底医治了。<br/><div class="contheight"></div>翻阅近年来党员干部违纪违法案例剖析，“小病不医、大病难治”的情形有很多。比如，某设区市一副局长，著名大学硕士毕业，作为专门人才引入该市，三十岁出头就担任副处职务，可谓年轻有为、前途大好，一朝却因受贿锒铛入狱。看其堕落轨迹，正是从收土特产、礼品礼金等“小意思”一步步堕落到贪欲难遏、大肆受贿的地步。他自己曾反省，觉得这样不对，却讳疾忌医，常用一些说辞来麻痹自己，致使问题单变双、小变大，到头来葬送了自己和家庭的幸福。<br/><div class="contheight"></div>祸事多源于侥幸，这侥幸一半是觉得祸或可不来，一半是觉得错可以后再改。殊不知，机会稍纵即逝，小病不治，“病树”“歪树”就很容易成为不可救药的“烂树”，不拔不足以护“森林”。党员干部应当时时检视自己，常补精神之“钙”，早纠行为之偏。有病还当早治疗，切莫让肌肤之癣成为入髓之疾，否则，悔之晚矣！<br/><div class="contheight"></div>（原题为《有病早医治，莫待后悔迟》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 党员干部</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2767630">
+<div class="nbgbox">
+<a class="zan" contid="2767630" href="javascript:;" onclick="voteCont(this)" praisetimes="52">
+                           51</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 党员干部</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767630&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767630&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

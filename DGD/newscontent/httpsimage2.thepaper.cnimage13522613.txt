@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">铁路部门优化“回乡证”“台胞证”12306网注册核验流程</h1>
+<div class="news_about">
+<p>澎湃新闻记者 王俊</p>
+<p>
+							2018-12-26 17:12<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">澎湃新闻（www.thepaper.cn）从中国铁路总公司获悉，12月27日起，铁路部门优化港澳居民来往内地通行证（以下简称“回乡证”）、台湾居民来往大陆通行证（以下简称“台胞证”）网上注册核验流程，努力为港澳台旅客提供更加方便快捷的服务。<br/><div class="contheight"></div>铁路总公司有关部门负责人介绍，以往，使用“回乡证”“台胞证”的港澳台旅客在12306网站进行用户注册和添加常用联系人时，需要先在网站注册，再去车站窗口核验证件，注册时还需使用内地的手机号进行短信验证。优化流程后，手机号码改为选填项，旅客根据证件填写姓名、证件号码、出生日期和证件有效期截止日期等信息后，即可通过身份信息核验，全部流程可在网上办理。<br/><div class="contheight"></div>该负责人介绍，随着广深港高铁香港段的开通运营，乘坐高铁出行的港澳台旅客日益增多，在12306网站注册购票的港澳台旅客大量增加。为了进一步便捷港澳台旅客购票，铁路部门在国家有关部门的大力支持下，研究制定了“回乡证”“台胞证”网上注册核验优化方案。 <br/><div class="contheight"></div>该负责人表示，目前，除“回乡证”“台胞证”外，居民身份证、港澳台居民居住证、外国人永久居留身份证三种证件，均可实现12306网站联网核验。铁路部门将持续对12306网站的页面，以及注册、购票流程进行优化，创新服务内容，努力改善旅客购票体验。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 12306,台胞证</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776775">
+<div class="nbgbox">
+<a class="zan" contid="2776775" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 铁路服务</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776775&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776775&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

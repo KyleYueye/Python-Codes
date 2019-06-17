@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">最高检回应检察长列席审委会争议：更有助于改善检察职能行使</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林平 实习生 帕孜丽娅</p>
+<p>
+							2019-01-03 17:41<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">检察长列席审委会是否会使案件处理失衡？最高检检察长张军回应称，这既体现了法律规定，也是对审判权的尊重，促使审委会更全面了解情况，还有助于调整、纠正、改善检察职能的行使问题。<br/><div class="contheight"></div>1月3日，国务院新闻办公室举行新闻发布会，由最高人民检察院检察长张军、副检察长童建明介绍最高人民检察院改革内设机构，全面履行法律监督职能有关情况。<br/><div class="contheight"></div>针对有关“检察长列席审委会”的司法实践争议，最高检检察长张军作了回应。“检察长列席法院的审判委员会，这是个老问题。”张军直言，法律早就有规定，各级检察机关从最高到县区的基层检察院都有列席，只是检察长列席的不多，“一直有，但是不多”。<br/><div class="contheight"></div>张军阐述了推行此项制度的理由：第一是体现法律规定，检察长应当列席的，依法列席。“过去列席的主要工作是检察机关抗诉的案件，谁分管谁列席，所以副检察长为多。我觉得既然法律规定的是检察长可以列席，检察长能够列席的尽量检察长列席。”张军说。<br/><div class="contheight"></div>第二是对审判权的尊重。第三是通过列席能够了解制定司法解释，总结相关案件的经验或者教训，以及检察机关抗诉案件，从检察职能行使上还有哪些需要提升，还有哪些欠缺，检察长列席更有助于使检察职能的行使，使存在的问题得到调整、纠正、改善，提升我们的检察能力。<br/><div class="contheight"></div>是不是会使一些案件处理失衡？张军对此表示，一方面，法律规定了审判委员会可以讨论复杂疑难重大案件。另一方面，检察机关列席的不仅仅是案件，还有讨论司法解释、讨论其他涉及检察机关法律监督相关的一些审判中的问题。我们通过列席进一步阐释案件相关的问题，会促进审判委员会更全面了解情况，不仅是纠正我们自己还存在的一些问题，还能够把检察机关的意见通过检察长列席阐释出来。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）注意到，2018年6月11日，首席大检察官张军首次列席最高人民法院审判委员会，审委会讨论了最高检抗诉的一起刑事案件和一起民事案件。<br/><div class="contheight"></div>张军表示，在审判委员会上，他对一个性侵女童的案件，对证据怎么认定、行使，阐释了检察机关的看法，把规则讲清楚，提供给审判委员会讨论，最后得出一个公正的裁判结果，人民法院认可，社会认可，有关方面也认可，“这也是检察长列席审判委员会，作为中国特色的社会主义司法制度的一个优势所在”。<br/><div class="contheight"></div>张军亦坦言，并不是所有检察长列席的案件都能得到认可，60%、70%的抗诉案件得到纠正，还有30%、40%没有纠正，维持了，或者是以其他方式得到了纠正，或者得到了变更。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：宋蒋萱<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 最高检 检察长 列席 审委会</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2809544">
+<div class="nbgbox">
+<a class="zan" contid="2809544" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 检察长列席审委会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2809544&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2809544&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,86 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">恩施民警创作“土味RAP”，提醒群众预防冬季一氧化碳中毒</h1>
+<div class="news_about">
+<p>澎湃新闻记者 周琦</p>
+<p>
+							2018-12-24 12:28<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<script src="//file.thepaper.cn/www/v3/js/jwplayer7.1.4.js" type="text/javascript"></script>
+<script type="text/javascript">jwplayer.key="JYFbHxc36sStM1VSc1vvyI42CCrHFlTZcWEYUA==";</script>
+<div class="news_video_name">
+<style type="text/css">
+							#player_wrapper{width:669px;height:377px;}
+							#player_wrapper .player_err_tip{width:669px;height:377px;display: none;vertical-align: middle;background-color: black;color: white; text-align: center;}
+							.jw-tab-focus:focus{outline:none;}
+						</style>
+<div id="player_wrapper">
+<div class="player_err_tip" id="Text">抱歉!<br/>您的浏览器可能不支持此视频播放器，请用更高版本的浏览器试试！</div>
+</div>恩施民警创作的“乡土味RAP”。视频来源：恩施市公安局(00:53)
+					</div>
+<div class="news_txt" data-size="standard">12月22日，一段由湖北恩施市公安局民警自创、录制的预防一氧化碳中毒说唱视频在互联网上火了起来，这段视频也被微信公众号“湖北公安”戏称为“土味RAP”。25日，策划拍摄这段视频的恩施公安局民警胡良志告诉澎湃新闻(www.thepaper.cn)，看到网友留言说记住如何防范，就是对他们创作这段视频的最好肯定。<br/><div class="contheight"></div>“恩施的冬天已来临，也是烤火的高峰期，不管你烧的天然气啊还是液化气……”22日，这段恩施方言拍摄的视频，一经发布后引起热议。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="338" src="http://image.thepaper.cn/www/image/13/448/996.jpg" width="600"/></div>12月19日，湖北省安全生产委员会办公室发布通知，13日10时50分许，黄石市阳新县王英镇钟泉村一家四口在家中死亡。<br/><div class="contheight"></div>恩施市地处山区，居民都有冬季用木炭、天然气取暖的习惯，如果不开窗通风，非常容易发生一氧化碳中毒致伤致残甚至死亡。<br/><div class="contheight"></div>据公开报道，湖北恩施州今年来已经有多人因一氧化碳中毒身亡。据《恩施晚报》报道，12月11日至13日近3天时间，恩施州中心医院西医部急诊科接诊一氧化碳中度患者达25例，其中多为3人以上的群体中毒事件，均为冬季取暖烤炭火、天然气所导致。<br/><div class="contheight"></div>“太惨痛的教训了。”胡良志说，经过对一氧化碳中毒造成群众伤亡的典型案例进行归纳总结后，他发现致人死亡事故主要是因为热水器安装在室内，或是睡着后天然气泄漏、取暖未通风所致。<br/><div class="contheight"></div>与局领导讨论研究后，胡良志决定用接地气、易理解、方便传播的说唱视频提醒大家注意预防，为此还将有说唱特长的红庙派出所辅警易志培借调参与制作。<br/><div class="contheight"></div>几易其稿，经过一个星期的策划、拍摄，视频制作完成。在征求意见过程中，同事们又发现视频中着装、场景等细节存在不足，21日重新拍摄，最终于22日正式推出。胡良志说：“看到视频在朋友圈里被不断转发很高兴，希望能够让更多人看到，记下来，避免悲剧重演。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = 'http://cloudvideo.thepaper.cn/video/75bd311de1de46989fa3bfb1d1f92544/hd/f8df6635-1700-4026-832f-4e1e8c887c3a-08e9b6ca-887a-fc4c-044a-da01767a1861.mp4',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'//image1.thepaper.cn/image/13/449/7.jpg',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：段彦超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 恩施民警,一氧化碳</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768309">
+<div class="nbgbox">
+<a class="zan" contid="2768309" href="javascript:;" onclick="voteCont(this)" praisetimes="186">
+                           185</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 恩施民警</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768309&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768309&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（386）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

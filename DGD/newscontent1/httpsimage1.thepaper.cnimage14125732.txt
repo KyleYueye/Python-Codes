@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">有图有真相！上海去年拔除9800余根立杆，天空更清爽</h1>
+<div class="news_about">
+<p>上海发布</p>
+<p>
+							2019-01-10 20:21<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">你知道吗？本市中心城区道路交叉口平均杆件数量高达27根！市住建委说，根据架空线入地和合杆整治三年计划，去年全市完成116公里道路架空线入地和合杆整治，拔除各类立杆9800余根（电力杆2601根）。<br/><div class="contheight"></div>本市内环内总长897公里道路中约71%有架空线，各类架空线“横穿马路”，冗长的架空线盘旋在大街小巷的空中。中心城区内各类立杆密度大、数量多、种类杂、架设乱，特别是在道路交叉口，平均杆件数量高达27根，严重压缩了行人通行空间，严重影响市容市貌。架空线掉落、垂坠、倒杆等问题更是成为城市安全运行的隐患。<br/><div class="contheight"></div>看看这个三年行动计划怎么做？<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="425" src="http://image.thepaper.cn/www/image/14/125/722.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">本文图片均来自微信公众号“上海发布”</span><br/><div class="contheight"></div>计划目标<br/><div class="contheight"></div>◆ 本市内环内总长897公里道路中约71%有架空线整治<br/><div class="contheight"></div>◆ 中心城区路口路段杆件整合<br type="_moz"/>架空线入地和合杆整治主要做法<br/><div class="contheight"></div>一、做减法<br/><div class="contheight"></div>◆ 杆、箱、监控探头：整合减量。<br/><div class="contheight"></div>◆ 拔除废弃杆、拆除废弃机箱，合成综合杆、综合机箱。<br/><div class="contheight"></div>◆ 规范设置统一颜色。<br/><div class="contheight"></div>◆ 同点位同类型监控整合，技术升级设施同步更新。<br/><div class="contheight"></div>◆ 标志标牌：小型化、减量化。<br/><div class="contheight"></div>版面选择优化；非必要标志牌核减。<br/><div class="contheight"></div>二、全要素<br/><div class="contheight"></div>◆ 系统设计：线清、杆合、景美。<br/><div class="contheight"></div>◆ 电力专项、信息专项、合杆专项一路一方案。<br/><div class="contheight"></div>三、一体化<br/><div class="contheight"></div>综合杆分层搭载▼<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="415" src="http://image.thepaper.cn/www/image/14/125/725.jpg" width="600"/></div>综合杆作为城市管理智能化载体▼<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="900" src="http://image.thepaper.cn/www/image/14/125/730.jpg" width="600"/></div>2018年整治情况<br/><div class="contheight"></div>1、全市完成116公里道路架空线入地和合杆整治，拔除各类立杆9800余根（电力杆2601根）。<br/><div class="contheight"></div>2、拆除168公里电力架空线、263台杆上变压器，安装完成61座开关站、47座配电站、80台箱变。<br/><div class="contheight"></div>3、完成45公里道路合杆整治，平均减杆率达到 68% 。<br/><div class="contheight"></div>整治效果有图有真相<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="440" src="http://image.thepaper.cn/www/image/14/125/742.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="330" src="http://image.thepaper.cn/www/image/14/125/745.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="322" src="http://image.thepaper.cn/www/image/14/125/747.jpg" width="600"/></div>（原标题：《【便民】一年拔除9800余根立杆！申城天空更清爽啦》，有删减）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：高文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 架空线入地,合杆整治,上海</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837709">
+<div class="nbgbox">
+<a class="zan" contid="2837709" href="javascript:;" onclick="voteCont(this)" praisetimes="324">
+                           323</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 架空线入地</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837709&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837709&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

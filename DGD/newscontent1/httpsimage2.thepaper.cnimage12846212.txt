@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜比起下“禁酒令”，大学更该教会学生自律</h1>
+<div class="news_about">
+<p>澎湃特约评论员 李勤余</p>
+<p>
+							2018-12-03 19:05<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2699928" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜比起下“禁酒令”，大学更该教会学生自律" src="//image.thepaper.cn/image/12/839/232.jpg"/>
+</a>
+<div class="atlas_360_txt">西安高校下“禁酒令”：学生在校饮酒将受处分，网友吵起来了<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">近日，西安翻译学院发布新规定，禁止学生在校期间喝酒，校内校外都不行。学校安排相关人员在校门口检查学生是否喝酒。此事引发热议。<br/><div class="contheight"></div>有人认为，大学生都是成年人，喝不喝酒是个人自由，学校不该管得太宽。但也有网友认为，学校的做法是为学生好，可以理解。<br/><div class="contheight"></div>学生喝酒，高校该不该管？恐怕得把这个问题拆分开来看。首先，大学里面的“拼酒”现象该不该治？答案是肯定的。正处学习专业知识、积累未来发展能量的大学生，还没有踏出校园，就沉湎于酒桌拼酒，不仅有损身体健康，长此以往，还会形成错误的认知，以为拼酒是达成目标与维系人情的必备，沾染上无视规则、盲目攀比等不良习气。在以往的报道中，还出现过大学生因拼酒、被灌酒丧命的悲剧。对于这些，校方该管，而且该严管。 <br/><div class="contheight"></div>但另一方面，校方若把手伸得太长，连学生的个人生活都“无微不至”地管起来，就值得商榷了。一来，恰当场合下适度的饮酒，不见得会影响学校的正常教学秩序。二来，校方的倡议未见得能起到多少实效。向周边商户倡议书，倡议不向学生售卖烟酒，但商户在实际利益的考量下，有多少会照做？况且，这种倡议是否干涉了周边商户的正常经营？ <br/><div class="contheight"></div>那究竟该怎么管呢？其实，西安翻译学院利用好现有的《学生违纪处分条例》足矣。该条例根据实际情况的不同，对学生在校期间饮酒分别给出了警告、记过、承担全部法律责任及赔偿损失等处罚。如果能严格执行，完全能够对学生饮酒起到震慑作用。 <br/><div class="contheight"></div>其实，高校管理者未必不知道一刀切式的禁止太过简单化，效果也不好。出台各种“最严”规定，当然也是为了学生好，是“恨铁不成钢”。这种用心良苦，也是社会对这些规定“虽感觉哪里不对”，但多能抱以宽容心态，表达理解乃至支持的最大原因。但也应看到，这些语气强硬的管理制度，模糊了学校管理与学生权利的边界，映照了一些高校管理急于求成、遇事总是想着一劳永逸解决的功利心态。 <br/><div class="contheight"></div>好的教育，应当是在尊重教育对象的基础上，遵循规律、讲究策略且循序渐进的。比起动辄出台各种禁令，更好的做法是大学以学生乐于接受的方式，让学生了解无节制饮酒的危害，引导学生学会自律与克制，传授学生更积极向上的待人接物之道。<br/><div class="contheight"></div>大学的任务，不仅在于传授知识技能，更在于帮助每一名大学生建立独立完善的人格。怎样达成这一目标，是每一所高校管理者都应该认真思考的问题。如果一所大学里，大部分学生都沉迷杯中物，应该检讨的恐怕不是校方出台的具体管理规定，而是该校的学风和整体氛围。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 大学“禁酒令”</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2700723">
+<div class="nbgbox">
+<a class="zan" contid="2700723" href="javascript:;" onclick="voteCont(this)" praisetimes="166">
+                           165</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 禁酒令</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2700723&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2700723&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（75）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

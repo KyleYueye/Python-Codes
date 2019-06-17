@@ -1,0 +1,86 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">习近平主席今年出访欧洲拉美并出席二十国集团领导人峰会纪实</h1>
+<div class="news_about">
+<p>央视新闻客户端</p>
+<p>
+							2018-12-28 22:38<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<script src="//file.thepaper.cn/www/v3/js/jwplayer7.1.4.js" type="text/javascript"></script>
+<script type="text/javascript">jwplayer.key="JYFbHxc36sStM1VSc1vvyI42CCrHFlTZcWEYUA==";</script>
+<div class="news_video_name">
+<style type="text/css">
+							#player_wrapper{width:669px;height:377px;}
+							#player_wrapper .player_err_tip{width:669px;height:377px;display: none;vertical-align: middle;background-color: black;color: white; text-align: center;}
+							.jw-tab-focus:focus{outline:none;}
+						</style>
+<div id="player_wrapper">
+<div class="player_err_tip" id="Text">抱歉!<br/>您的浏览器可能不支持此视频播放器，请用更高版本的浏览器试试！</div>
+</div>习近平主席2018年出访欧洲拉美并出席二十国集团领导人峰会纪实。 视频来源：央视新闻客户端(23:38)
+					</div>
+<div class="news_txt" data-size="standard">央视新闻客户端12月28日消息，2018年11月27日至12月6日，习近平主席历经9天，行程逾4万公里，出访欧洲、拉美并出席二十国集团领导人峰会。<br/><div class="contheight"></div>此次领航之旅校准全球经济治理前进方向，引领中国同主要大国关系行稳致远，彰显中国在国际舞台上的影响力、感召力、塑造力。<br/><div class="contheight"></div>欧洲拉美之行，推升了“一带一路”合作发展，开辟了中欧、中拉关系广阔前景。<br/><div class="contheight"></div>本片以纪实的风格展现了习近平主席此次出访欧洲拉美并出席二十国集团领导人第十三次峰会以及举世瞩目的中美元首会晤。<br/><div class="contheight"></div>（原题为《万水千山只等闲——习近平主席2018年出访欧洲拉美并出席二十国集团领导人峰会纪实》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = 'http://cloudvideo.thepaper.cn/video/b758ceb9b15144e7a2a49612442e29b3/hd/fb312e68-50e7-48c5-af7b-6b6e88899e72-fd71ed97-635e-7070-3ff0-b8419e056d94.mp4',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'//image2.thepaper.cn/image/13/653/80.jpg',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 习近平</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2789620">
+<div class="nbgbox">
+<a class="zan" contid="2789620" href="javascript:;" onclick="voteCont(this)" praisetimes="426">
+                           425</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 习近平</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2789620&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2789620&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（87）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

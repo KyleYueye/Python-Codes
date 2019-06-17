@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25436">能见度</a>
+</div>
+<h1 class="news_title">减产刺激油价上涨，美油近三周来首次突破50美元大关</h1>
+<div class="news_about">
+<p>澎湃新闻记者 海阳</p>
+<p>
+							2019-01-09 13:15<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div>随着主要产油国开始落实减产计划，原油市场信心得以提振。国际油价已连续七个交易日上涨，美国轻质原油（WTI）期货价格在近三周以来首次突破50美元大关。<span style="font-size: 16px;"><br/><div class="contheight"></div></span></div><div>截至当地时间1月8日收盘，2月交货的WTI原油期货价格上涨1.26美元，收于每桶49.78美元，涨幅为2.60%。3月交货的布伦特原油期货价格上涨1.39美元，收于每桶58.72美元，涨幅为2.42%。<span style="font-size: 16px;"><br/><div class="contheight"></div></span></div><div>截至北京时间1月9日9时24分，WTI价格已涨至每桶50.3美元，自去年12月17日以来首次突破50美元大关。<span style="font-size: 16px;"><br/><div class="contheight"></div></span></div><div>国际油价正在创下自2017年夏季以来的最长连涨记录。在过去的七个交易日中，油价累计上涨近12％，收复了2018年全年亏损的约一半数额。经济前景改善，以及市场对于主要产油国将抑制产量以避免供需失衡的信心增强，成为了本轮连续上涨的最大推动力。<span style="font-size: 16px;"><br/><div class="contheight"></div></span></div><div>加拿大皇家银行资本市场公司（RBC Capital Markets LLC）大宗商品策略师迈克尔•特兰（Michael Tran）表示，市场明显从大幅超卖区域反弹，“宏观经济前景看起来比几周前的情况要好得多。”<span style="font-size: 16px;"><br/><div class="contheight"></div></span></div><div>在2018年市场供应过量的背景下，美国原油库存增长步伐有所减缓。当地时间1月8日，美国石油协会（API）发布报告称，美国上周原油库存减少了612万桶。另据彭博社综合分析师意见得出的调查报告估计，上周美国原油库存减少量为270万桶。</div><div>据《华尔街日报》1月7日报道，沙特正计划在1月底将原油出口量降低至710万桶/日，这一数字较去年11月水平相比降低了80万桶/日。据报道，沙特进行这一调整的目的是希望抬高油价，以保证沙特增加的财政开支计划能够实现。</div><div>去年12月初，包括沙特、俄罗斯在内的主要产油国在维也纳举行会议。产油国随后达成一致，将于今年上半年减产120万桶/日，以提振因供应过量而暴跌的油价。</div></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李跃群<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831244">
+<div class="nbgbox">
+<a class="zan" contid="2831244" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国际油价</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831244&caid=25436",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831244&amp;caid=25436" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">人民日报刊文谈检察公益诉讼：当好公共利益“看护人”</h1>
+<div class="news_about">
+<p>白龙/人民日报</p>
+<p>
+							2018-09-12 07:04<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">立案查办环境资源保护领域公益诉讼案件493件，食品药品安全领域139件，涉及国有财产保护和国有土地使用权出让200件……这是不久前，浙江省人民检察院“晒”出的一份全省检察机关提起公益诉讼的成绩单。自这一制度正式确立一年来，同样的工作已在全国检察系统全面铺开。<br/><div class="contheight"></div>今年7月，中央深改委第三次会议审议通过的文件中，有一份《关于设立最高人民检察院公益诉讼检察厅的方案》。而这次会议的重要主题，就是“激发制度活力”“激活基层经验”。检察机关提起公益诉讼制度，正是一个拥有巨大制度活力、吸收了大量基层经验的改革样本。笔者日前在浙江调研时观察到，这一制度的实施，发挥了检察机关法律监督职能作用，强化了对国家和社会公共利益的保护，并有效促进了行政机关严格执法、依法行政。<br/><div class="contheight"></div>习近平总书记指出，检察官作为公共利益的代表，肩负着重要责任。检察机关提起公益诉讼制度的确立，是落实这一要求的重要体现。当保障公民合法权益已成共识之后，谁来保护国家利益和社会公共利益？当有关行政机关违法行使职权或不作为，导致国家利益和社会公共利益受损，谁来督促整改或提起诉讼？正是出于对这些问题的回应，在13个省区市检察机关开展公益诉讼试点工作两年的基础上，去年6月，全国人大常委会通过了关于修改民事诉讼法和行政诉讼法的决定，将检察机关提起公益诉讼制度明确写入这两部法律。从试点开展到全面推进、由基层探索到顶层设计，这为全面深化改革的方法论写下实践注脚。<br/><div class="contheight"></div>在浙江钱江源，有这样一个案例：当地一家化工企业将工业固废堆放并填埋进山坳里，虽然后来该企业进行了清运处理，但因堆放和填埋时间较久，对周边土壤、水体造成损害，社会公共利益持续处于受侵害状态。对此，经过法定程序，开化县人民检察院对该企业提起民事公益诉讼。今年3月，当地法院作出一审判决，判令该企业赔偿相关损失，并支付修复受损生态环境费用，成为浙江检察机关提起的民事诉讼第一案。这一案例表明，<strong>检察公益诉讼补足了诉讼主体的缺位，正在发挥国家利益和社会公共利益“看护人”的重要角色。</strong><br/><div class="contheight"></div>检察公益诉讼从无到有，政府部门和公众对其从陌生到熟悉的过程，也是推动依法行政、助力治理现代化的过程。浙江丽水的一则医疗污水公益诉讼，正体现了这一点。当地众多基层口腔医疗机构的医疗污水，未经严格消毒就直接排放，污染了环境。针对这一情况，去年下半年，当地9个基层检察院先后启动公益诉讼诉前程序，对卫计局、住建局等行政主管部门发出诉前检察建议，督促行政机关更好履职。经过大量细致工作，一些行政主管部门逐渐从不理解到积极配合、统一整治。浙江省人民检察院检察长贾宇介绍，如今，浙江省30余个市县区都出台了支持检察机关公益诉讼工作的意见、决定，公益诉讼工作列入了全省依法行政、美丽浙江建设等目标考核范围内容。<br/><div class="contheight"></div>作为新生事物，检察公益诉讼在推进中还面临一些困难和问题，如办案力度有待加大，各地进展尚不平衡，公益保护的效果和影响力需要进一步提升，等等，需要在实践中进一步克服和解决。当前，中央已经决定设立最高人民检察院公益诉讼检察厅，各地也正在有序推进相关改革。相信随着改革的逐步落实，检察机关的监督职能将进一步彰显，使公共利益得到更好、更有力的维护。<br/><div class="contheight"></div>（原题为《当好公共利益“看护人”》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张珺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 检察公益诉讼</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2431445">
+<div class="nbgbox">
+<a class="zan" contid="2431445" href="javascript:;" onclick="voteCont(this)" praisetimes="8">
+                           7</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 检察公益诉讼制度</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2431445&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2431445&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

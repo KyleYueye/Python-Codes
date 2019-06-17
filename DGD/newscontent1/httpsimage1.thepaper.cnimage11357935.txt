@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜小孩在地铁站尿尿，这次且慢“一怼了之”</h1>
+<div class="news_about">
+<p>澎湃特约评论员 默城</p>
+<p>
+							2018-10-16 14:55<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">今天，一段“小孩地铁撒尿保洁员制止，家长怒怼：投诉你”视频在网络热传。视频中，一位家长情绪激动地与人争论，大致意思是孩子忍不住要小便，而地铁站无卫生间，只好让孩子在垃圾桶旁解决，但被地铁工作人员制止。视频画面显示，事情发生于10月12日北京西站地铁站。 <br/><div class="contheight"></div>如果单看视频，家长让孩子随地小便本属不该，面对劝导，不仅不惭愧和停止不当行为，还以“投诉”相威胁，确实一点理都不占。但以往经验告诉我们，看新闻一定要连着，“让新闻飞一会”，才能做出相对理智正确的判断。否则，很可能被打脸。 <br/><div class="contheight"></div>其实，完整的事情经过是这样的：家长发现孩子尿急时，第一反应是找厕所和袋子，但都无果。在考虑到憋尿有害健康后，才无奈出此“随地小便”的下策。 <br/><div class="contheight"></div>坦率而言，这样的说辞，并不能完全撇清家长方的责任。孩子无法预估自己什么时候要小便，面对突发情况也无法控制，但家长作为成年人，却完全有预估和处理的能力。在出门前让孩子上个厕所、自己备个塑料袋，或者在地铁经过有卫生间的站点时，让孩子下车上个厕所，都能完全解决问题，不至于被迫“随地小便”。 <br/><div class="contheight"></div>但因为家长寻找厕所和塑料袋的思维和做法，起码证明，其并非毫无公共道德意识。只是在既有困难前，公共意识让位于自家孩子的需求。家长言行固然不妥，受到批评也是应该，但正如一些网友所言，此事也折射了一些公共设施规划设计不合理，还有改善的空间。 <br/><div class="contheight"></div>据我个人经验，结合网友们提供的信息，各个城市地铁站内的卫生间设置各不一样，有的城市所有地铁线路的所有站点均设有卫生间，但在很多城市，部分站点乃至整条线路都没有卫生间的情况，仍普遍存在。当然，设置卫生间有地铁设计自身的考虑，比如在一些换乘大站，设置卫生间会占用一定空间，还会造成人流拥堵，也会提高建设及运营成本。一些开通较早的地铁线路，还涉及早期设计规划不够人性化的历史问题。 <br/><div class="contheight"></div>不过，在公共管理日益追求精细化的今天，地铁站点设置卫生间，应该是普遍做法。即便暂时做不到，也应当成为追求的方向，寻求其他途径解决。比如，一些地铁站将卫生间设置在出站外的地面，就能有效缓解人流拥堵的问题，或者城市在地铁站附近设置公共厕所，也是不错的办法。 <br/><div class="contheight"></div>单从此次事件看，网友紧盯着家长的言行展开批评，合理却不够公平。一些受过“孩子在无卫生间的地铁站憋尿”之苦的网友，从此事中窥见地铁站设置卫生间的公共性问题，呼吁有关方面重视和解决，更具有建设性。毕竟，谁还没有个内急的时候呢？</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 地铁卫生间</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2533838">
+<div class="nbgbox">
+<a class="zan" contid="2533838" href="javascript:;" onclick="voteCont(this)" praisetimes="192">
+                           191</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 地铁公厕</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2533838&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2533838&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（56）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

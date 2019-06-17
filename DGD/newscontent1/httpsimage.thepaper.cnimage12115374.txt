@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">江西：打掉涉恶团伙505个刑拘超万人，刑事警情下降15%</h1>
+<div class="news_about">
+<p>澎湃新闻记者 王选辉</p>
+<p>
+							2018-11-10 09:25<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">11月8日，江西省公安厅召开全省公安机关扫黑除恶专项斗争推进会。江西省副省长、公安厅长秦义介绍，扫黑除恶专项斗争开展以来，全省共立涉黑案件53起，打掉涉恶团伙505个，刑事拘留12171人。<br/><div class="contheight"></div>秦义介绍，今年1至10月，江西省刑事警情同比下降15.3%，治安警情同比下降5.7%。<br/><div class="contheight"></div>秦义表示，要进一步抓实线索排查，强化主动摸排，对照江西18类打击重点，统筹打好城市和农村两个战场，狠抓派出所滚动排查机制落地，全面掌握涉黑涉恶问题底数。提高核查质效，尽快办结一批积压线索，力争年底前“扫黑除恶工作平台”登记的每一条线索都按规定开展核查。<br/><div class="contheight"></div>秦义要求，凡是厅督案件，各地要由设区市公安局长担任专案组长，涉黑案件、恶势力犯罪集团案件至少应由市级班子成员、县级公安局长担任专案组长。对重大、复杂和属地公安机关侦办确有困难的案件，省市公安机关要及时采取提级管辖侦办、异地用警等措施。进一步提升办案质量。严格法律适用，把好案件事实关、证据关、程序关、法律适用关。进一步深化斗争效果。深挖彻查“保护伞”，将掌握线索移交纪检监察机关，加强重点线索梳理核查，力争实现新突破。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：谭君<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 江西公安 扫黑除恶</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2619321">
+<div class="nbgbox">
+<a class="zan" contid="2619321" href="javascript:;" onclick="voteCont(this)" praisetimes="70">
+                           69</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 扫黑除恶</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2619321&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2619321&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（47）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25436">能见度</a>
+</div>
+<h1 class="news_title">宝武旗下新疆八钢拟市场化债转股，支持方包括8家银行债权人</h1>
+<div class="news_about">
+<p>澎湃新闻记者 贺梨萍</p>
+<p>
+							2019-01-08 22:30<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月8日晚间，新疆八一钢铁股份有限公司（下称“八一钢铁”，600581）发布公告，公司接到控股股东宝钢集团新疆八一钢铁有限公司（下称“八钢公司”）的通知，1月8日当天，相关方签署了《宝钢集团新疆八一钢铁有限公司增资扩股暨市场化债转股框架协议》（下称“《框架协议》”）。<br/><div class="contheight"></div>公告中表示，八钢公司于2019年1月8日与中国宝武钢铁集团有限公司（下称“中国宝武”）、新疆投资发展（集团）有限责任公司（下称“新投集团”）以及8家八钢公司银行债权人签署了上述《框架协议》，协议中中国宝武、新投集团、银行债权人支持控股股东八钢公司增资扩股暨市场化债转股。协议各方就八钢公司增资扩股暨市场化债转股事宜初步达成意向性合作协议。<br/><div class="contheight"></div>8家八钢公司银行债权人分别为：中国工商银行股份有限公司新疆维吾尔自治区分行、中国银行股份有限公司新疆维吾尔自治区分行、中国建设银行股份有限公司新疆维吾尔自治区分行、中国农业银行股份有限公司新疆维吾尔自治区分行、交通银行股份有限公司新疆维吾尔自治区分行、上海浦东发展银行股份有限公司乌鲁木齐分行、广发银行股份有限公司乌鲁木齐分行、乌鲁木齐银行股份有限公司。<br/><div class="contheight"></div>公告称，本次合作在完成尽职调查、审计、资产评估等必要程序后，各方还需友好协商并就本次合作签署正式协议，《框架协议》为各方经过协商达成的初步意向而签署的框架性、战略性合作协议，具体交易内容以各方签署的正式交易协议为准。<br/><div class="contheight"></div>同时，本次交易事项需由相关方依据相关法律法规及规范性文件以及内部制度履行一系列相关决策、审批程序等。因此，本次交易最终付诸实践与否、以及实施过程中是否存在变动，尚存在不确定性。<br/><div class="contheight"></div>八钢公司前身为新疆八一钢铁集团有限责任公司，始建于1951年9月。2007年4月与原宝钢集团增资重组，现为中国宝武控股子公司。八钢公司本部坐落于乌鲁木齐市头屯河区，现有年产钢能力1000万吨。八钢公司在哈密和阿勒泰等地拥有铁矿石生产基地，在乌鲁木齐、阜康等地拥有焦煤生产基地，具有一定的自有资源保障能力。<br/><div class="contheight"></div>八钢公司对上市公司八一钢铁持有50.02%的股份，是八一钢铁的控股股东。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李跃群<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中国宝武,八钢,市场化债转股,澎湃</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2830021">
+<div class="nbgbox">
+<a class="zan" contid="2830021" href="javascript:;" onclick="voteCont(this)" praisetimes="69">
+                           68</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中国宝武</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2830021&caid=25436",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2830021&amp;caid=25436" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

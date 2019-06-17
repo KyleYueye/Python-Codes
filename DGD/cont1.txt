@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25574">翻书党</a>
+</div>
+<h1 class="news_title">中华书局拆分明代古籍送读者？出版社：赠书非孤本且已散页</h1>
+<div class="news_about">
+<p>郭琳琳/北京青年报-北青网</p>
+<p>
+							2018-12-11 17:07<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="520" src="http://image.thepaper.cn/www/image/13/86/841.jpg" width="283"/></div><br/><div class="contheight"></div>北京青年报-北青网12月11日报道，10日，中华书局微信公众号在推广新书《毛诗传笺》的同时，推出了一项“福利活动”，购买《毛诗传笺》的读者有机会获得明代万历北监本《毛诗注疏》一页，有很多读者热心参与以外，也有人提出将书拆成单页赠送是否会造成对古书的破坏？<br/><div class="contheight"></div>北青报记者从活动页面看到，在《毛诗传笺》出版以后，书籍整理者孔祥军将珍藏的明代万历北监本《毛诗注疏》一册拆为单页，分送读者，以表崇经尚典之意，购买的读者有机会获得《毛诗注疏》的一页。<br/><div class="contheight"></div>中华书局宣传部门工作人员对北青报记者解释，这本《毛诗注疏》本身已经散页，在此基础上拆分可以为读者提供一定的纪念意义，而且这本书不是孤本，有很多存世的版本，所以不存在破坏古书的情况。中华书局文学编辑室编辑朱兆虎对北青报记者介绍，《毛诗传笺》是《诗经》的汉代注本，《毛诗注疏》则是唐代对《毛诗传笺》的注本。此次赠送的这本《毛诗注疏》是明代的刻本，书本已经散页，而且纸质不算特别好，书籍一共有几十页，此次会赠送10页，分送大家也是表达对读者的一种感恩和反馈。 <br/><div class="contheight"></div>（原题为《中华书局拆分古书赠送读者？出版社回应赠书原本已经散页》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中华书局,拆分古书,赠送读者</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2727395">
+<div class="nbgbox">
+<a class="zan" contid="2727395" href="javascript:;" onclick="voteCont(this)" praisetimes="103">
+                           102</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 古书</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2727395&caid=25574",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2727395&amp;caid=25574" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

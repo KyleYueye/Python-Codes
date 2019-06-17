@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜回归的刘胖，改革的使命</h1>
+<div class="news_about">
+<p>澎湃特约评论员 王一川</p>
+<p>
+							2018-09-28 16:56<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2480429" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜回归的刘胖，改革的使命" src="//image2.thepaper.cn/image/10/858/100.jpg"/>
+</a>
+<div class="atlas_360_txt">刘国梁回归首日急忙督战国乒，他要像姚明一样推动乒协改革<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">经历了一年多的在野指导，前中国乒乓球队主教练刘国梁，换了个身份，以协会改革筹备小组组长的身份，实现了完美回归。<br/><div class="contheight"></div>这差不多是个皆大欢喜的结果：对刘国梁本人而言，隐忍近一年半默默关注的他，终于获得了本就属于自己的舞台；对于球迷而言，看到乾坤扭转、“不懂球的胖子”回归，有种说不出的畅快；对于中国乒乓球队，也意味着告别一年多因群龙无首带来的动荡，东京奥运再拿四金也似乎指日可待。 <br/><div class="contheight"></div>见诸网络和报端的评论，大多拿专业说事，甚至拿前段时间因主导篮球改革再放异彩、差不多达到人生第二巅峰的姚明作比。无意抬高姚明，但刘国梁的人生道路与姚明相比还差一点距离——差别不在于运动员时期的辉煌，而在于成为管理者之后。 <br/><div class="contheight"></div>从球员和教练的角度说，刘国梁在乒乓球运动界，贡献和影响可谓登峰造极：球技自成一体，大满贯早早实现，执行力和领导力超强，中国乒乓球队不仅延续了蔡振华时代的辉煌，而且将辉煌延续成了全世界乒乓球运动员的绝望。就做人的影响力，在网络上见缝插针却妙到毫巅的插科打诨为他吸粉无数，也彻底打动了下面的老中青球员，哪怕有些和他同时代的球员也佩服得紧。<br/><div class="contheight"></div>刘国梁此次回归，我仍然要叫好，正是为他回归的名头：协会改革筹备小组组长。这就说到另一个关键词——使命。<br/><div class="contheight"></div>不妨仍以姚明为对比。姚明回归中国，出任篮协主席，他的使命是延续中国篮球市场化改革的道路，巩固改革成果，CBA联赛不管是职业化程度还是市场开发水平都在中国体育职业化改革进程中值得赞许，甚至很多方面超过足球。姚明要做的，恰恰是把市场热闹背景下大家忽略却事实存在的水平下滑问题解决好，也就是国家队在亚洲要重新有发言权，在世界上也要有表现机会。这和刘国梁面临的使命完全不同。 <br/><div class="contheight"></div>中国乒乓球世界第一，这是事实，但是乒乓球受限观赏性较差的基本条件，市场化改革并不顺利，这是乒乓球最大的危机，比中国队独霸世界或者在大赛丢几个冠军都远远严重。刘国梁重新挂帅，他的使命应该是继续大刀阔斧地推进改革；当然，东京奥运会多拿金牌这个短期目标也是必须考量的因素。 <br/><div class="contheight"></div>希望回到训练馆的刘组长，应该好好思考，自己怎么带领乒乓球这艘巨舰，从辉煌走向辉煌。如此这一番折腾，也不算白费。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 刘国梁回归</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2484272">
+<div class="nbgbox">
+<a class="zan" contid="2484272" href="javascript:;" onclick="voteCont(this)" praisetimes="200">
+                           199</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 刘国梁</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2484272&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2484272&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

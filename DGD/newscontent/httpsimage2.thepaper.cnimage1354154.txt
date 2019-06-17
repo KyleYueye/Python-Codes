@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜“女德班”卷土重来，道理还要讲多少遍？</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-12-10 14:41<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据报道，去年被责令关停的抚顺“女德班”，今年在温州卷土重来，开办亲子夏令营，洗脑未成年女孩。教员大多来自抚顺市传统文化学校。<br/><div class="contheight"></div>还是原来的人马，还是熟悉的套路。他们宣扬的内容包括：“女孩换男朋友会烂手烂脚”“婚姻四项基本原则：打不还手、骂不还口、逆来顺受、坚决不离婚”“穿得时尚暴露，等于教人强奸”等等。无外乎还是男尊女卑那一套，教学手段仍是洗脑、恐吓、伪科学。<br/><div class="contheight"></div>每次“女德班”浮出水面，都有人好奇什么样的父母会把孩子送进“魔窟”。这次媒体做了一个简单的调查，参加活动的家长中，高中及以下学历近8成。如果你因此便以为都是父母没文化惹的祸，那就错了。受调查的45名家长中还有硕士学历1人，本科学历6人，专科学历4人。<br/><div class="contheight"></div>而在整个人群中，大学生本来所占比例就不大。也就是说，家长的受教育程度并不足以提供对“女德”学说的免疫力。<br/><div class="contheight"></div>其实这些家长不仅仅是愚昧无知，还有自私成分。“女德班”除了宣扬男尊女卑，孝道也是重要的授课内容。据报道，课程中有人称给父母下跪洗脚4天，治好了半年的高烧和癌症，还有人把自己的儿子被人砍死归因于不孝。总之就是“诸事不顺因不孝”。恐吓式灌输孝道的受益者，自然就是为课程买单的家长。<br/><div class="contheight"></div>所以说，把孩子送进“女德班”的家长跟把孩子送进“戒网瘾学校”的家长本质是一类人。他们都希望花点钱就能把孩子变成理想中的“乖宝宝”。<br/><div class="contheight"></div>“女德班”的受众市场或许比人们想象的更广泛。这反映了两个问题，一是家长们对传统文化的隔膜，二是家庭教育的失败。<br/><div class="contheight"></div>传统文化中有精华也有糟粕，必须以现代社会的价值观进行辨析。许多家长对传统文化缺乏认识，江湖骗子便趁虚而入，把一些腐朽的糟粕包装成能出“奇迹”的“大力丸”。<br/><div class="contheight"></div>家庭教育的失败或许是更重要的土壤。社会变化日益加速，有些家长不知道如何与孩子平等对话，遑论教育引导。当孩子表现出不听话等“症状”时，家长便病急乱投医。比如有个家长这样说：“孩子在家里懒，不听话，还爱玩手机，现在学校也不去教他们讲礼貌做劳动什么的”。<br/><div class="contheight"></div>有什么样的家长，才会有什么样的培训班。给孩子报女德班的家长，多半自己都不认同男女平等、人格独立、婚恋自由这些现代价值观。道理讲过多少遍，但“女德班”依旧需求旺盛。只因为教育孩子容易，教育家长难。<br/><div class="contheight"></div>执迷不悟的家长大有人在，那么有关部门对“女德班”应该露头就打，不给江湖骗子与愚昧家长合谋坑害孩子的机会。被抚顺取缔的“女德班”，在温州也不该有生存的机会。这一次如果温州对“女德班”说不之后，希望别让这伙人换个地方重出江湖。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 女德班</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2723356">
+<div class="nbgbox">
+<a class="zan" contid="2723356" href="javascript:;" onclick="voteCont(this)" praisetimes="275">
+                           274</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 女德</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2723356&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2723356&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（69）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

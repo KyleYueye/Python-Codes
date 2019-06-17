@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">委内瑞拉驱逐美国石油勘探船，圭亚那指责委侵犯其领土主权</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2018-12-24 22:02<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日，委内瑞拉表示，该国海军在本国境内驱逐了一艘由美国埃克森美孚公司(Exxon Mobil Corporation)运营的石油勘探船。委内瑞拉邻国圭亚那则称，委方在圭亚那领海的驱逐行为侵犯了圭亚那领土主权完整，威胁该国经济发展。<br/><div class="contheight"></div>据美国广播公司（ABC）报道，这艘石油勘探船是22日上午在距离“委圭临时边界”圭亚那一侧约145公里水域中被一艘委内瑞拉海军舰艇拦截的，这艘船当时悬挂着巴哈马国旗。<br/><div class="contheight"></div>24日，圭亚那外长格林里奇（Carl Greenidge）在一份声明中表示，圭亚那反对委内瑞拉这一非法、攻击性和敌意的行为，称委内瑞拉是圭亚那经济发展的真实威胁。<br/><div class="contheight"></div>同时，美国国务院称，正关注有关这一埃克森美孚雇用的船只被驱逐事件的报道，并呼吁委内瑞拉尊重邻国主权。<br/><div class="contheight"></div>委内瑞拉24日则表示，该国海军在例行巡航时，碰到了埃克森美孚雇用的船只，所在海域“无疑是委内瑞拉拥有主权的领海”，因此“采取了符合国际协定的措施”。<br/><div class="contheight"></div>埃克森美孚公司没有透露该事件的更多细节，但表示事件发生后，该公司暂停了在圭亚那海域的地质勘探作业，称主要担心的是船员和该地区其他人员的安全。<br/><div class="contheight"></div>自2015年以来，一个由埃克森美孚公司牵头的财团已在圭亚那海域发现了10座油田，储量50亿桶，使得这个南美洲不发达国家变成了该地区最热门的石油开发地区之一。但这些新发现的油田重新引发了该国与委内瑞拉之间长达一个世纪的边境争议，争议源于委内瑞拉主张对圭亚那三分之二领土拥有主权。<br/><div class="contheight"></div>据新华网此前报道，两国争议领土现为圭亚那实际管辖的埃塞奎博地区，位于圭亚那中部埃塞奎博河以西，与委内瑞拉领土相连，面积约15.9万平方公里。<br/><div class="contheight"></div>（原标题《委内瑞拉驱逐美国石油勘探船 这国比美国还生气》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：辛恩波<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 委内瑞拉,圭亚那,美孚</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2770760">
+<div class="nbgbox">
+<a class="zan" contid="2770760" href="javascript:;" onclick="voteCont(this)" praisetimes="42">
+                           41</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 委内瑞拉</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2770760&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2770760&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

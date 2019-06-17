@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">现行法律：乘客妨碍客运驾驶员驾驶，后果严重者最高可判死刑</h1>
+<div class="news_about">
+<p>罗永攀/上游新闻</p>
+<p>
+							2018-11-02 20:31<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">上游新闻11月2日消息，乘客干扰驾驶员正常驾驶的行为，我国现行法律法规有何规定？上游新闻记者对此进行了梳理。<br/><div class="contheight"></div>《中华人民共和国道路交通安全法》第六十六条明确规定，乘车人不得携带易燃易爆等危险物品，不得向车外抛洒物品，不得有影响驾驶人安全驾驶的行为。<br/><div class="contheight"></div>《中华人民共和国道路交通安全法实施条例》第七十七条第四款也明确规定：乘坐机动车应当遵守下列规定：机动车行驶中，不得干扰驾驶，不得将身体任何部分伸出车外，不得跳车。<br/><div class="contheight"></div>2018年9月29日重庆市第五届人民代表大会常务委员会第五次会议通过的《重庆市公共汽车客运条例》对于乘坐公共汽车时对运营安全做了明确规定，值得注意的是，这一条例将于2019年1月1日实施。<br/><div class="contheight"></div>上游新闻记者查阅《重庆市公共汽车客运条例》发现，第三十八条第五款规定：乘客应当文明乘坐公共汽车，遵守下列乘车规定；不得危害客运驾驶员等从业人员人身安全或者影响公共汽车客运车辆正常运行；乘客有违反前款规定行为的，客运驾驶员等从业人员应当劝阻；劝阻无效的，有权拒绝为其提供服务。<br/><div class="contheight"></div>《重庆市公共汽车客运条例》第四十六条第三款也规定，禁止下列危害公共汽车客运经营安全、扰乱乘车秩序的行为：妨碍客运驾驶员的正常驾驶；客运驾驶员等从业人员发现上述行为应当及时制止；制止无效的，应当及时报告道路运输管理机构或者公安机关依法处理。<br/><div class="contheight"></div>《中华人民共和国刑法》第一百一十六条规定，破坏火车、汽车、电车、船只、航空器，足以使火车、汽车、电车、船只、航空器发生倾覆、毁坏危险，尚未造成严重后果的，处三年以上十年以下有期徒刑。第一百一十九条规定，破坏交通工具、交通设施、电力设备、燃气设备、易燃易爆设备，造成严重后果的，处十年以上有期徒刑、无期徒刑或者死刑。<br/><div class="contheight"></div>（原题为《乘客妨碍客运驾驶员正常驾驶 后果严重者最高可判死刑》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 乘客,客运驾驶员,死刑</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2594046">
+<div class="nbgbox">
+<a class="zan" contid="2594046" href="javascript:;" onclick="voteCont(this)" praisetimes="117">
+                           116</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 万州公交坠江</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2594046&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2594046&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（72）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">起诉书披露张扣扣作案全程，张扣扣：没对王正军补刀其他属实</h1>
+<div class="news_about">
+<p>澎湃新闻记者 宋蒋萱</p>
+<p>
+							2019-01-08 12:07<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">因22年前目睹母亲被邻居打死，2018年2月，陕西汉中的张扣扣将邻居一家三口杀害。1月8日上午，张扣扣故意杀人、故意毁坏财物一案在陕西汉中市中院开庭审理。<br/><div class="contheight"></div>根据汉中中院官微，公诉人宣读起诉书，称经依法审理查明，1996年8月27日，因邻里纠纷，张扣扣母亲汪秀萍被王正军（男，时年17岁）伤害致死。1996年12月5日，王正军被判处有期徒刑七年。2018年春节前夕，张扣扣发现王正军在家过年，便先后购买、准备好帽子、口罩、单刃刀、玩具手枪、汽油瓶等作案工具伺机报复。<br/><div class="contheight"></div>2018年2月15日12时许，张扣扣看到王正军、王校军（王正军之兄，男，殁年46岁）与其亲戚一行十余人上山祭祖，便戴上事先准备的帽子、口罩进行伪装，携带单刃刀、玩具手枪尾随。待王正军、王校军祭祖返回，行至原三门村村委会门口村道时，张扣扣趁王正军不备，先持单刃刀对王正军进行捅刺。王校军等人惊慌跑离现场时，张扣扣又持刀追上王校军进行捅刺，其间王校军摔进路边沟渠，张扣扣跳进沟渠继续对王校军进行捅刺，直至王校军倒在沟渠不动，又返回对已倒在路边的王正军再次进行捅刺。随后张扣扣进入王自新（王正军之父，殁年70岁）家院子，持刀对坐在门口的王自新进行捅刺，直至王自新倒地不动。<br/><div class="contheight"></div>张扣扣返回家中，拿上事先准备好的一把菜刀和装有汽油的红酒、啤酒瓶各一个，来到王校军停放在村民家门前桥上的小轿车旁边，用菜刀把小轿车左右车窗玻璃砍碎，并点燃两个酒瓶，分别扔在该车的后排座椅和后车窗玻璃部位，致该车后部燃烧严重受损。随后张扣扣逃离现场。13时许，经120急救人员检查，三名被害人均已死亡。2018年2与17日7时许，张扣扣到公安机关投案。<br/><div class="contheight"></div>检察机关认为，张扣扣为泄愤报复，持单刃刀捅刺被害人，故意剥夺他人生命，造成三人死亡的严重后果，构成故意杀人罪；毁坏他人车辆，造成人民币32142元损失的行为，构成故意损毁财物罪。<br/><div class="contheight"></div>对此，张扣扣称没有对王正军进行补刀，其他属实。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周喜丰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 张扣扣案</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2826905">
+<div class="nbgbox">
+<a class="zan" contid="2826905" href="javascript:;" onclick="voteCont(this)" praisetimes="426">
+                           425</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 张扣扣案</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2826905&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2826905&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（445）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

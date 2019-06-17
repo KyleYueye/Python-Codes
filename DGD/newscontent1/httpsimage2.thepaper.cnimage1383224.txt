@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜对这起“信手涂鸦”不能“信手刑拘”</h1>
+<div class="news_about">
+<p>澎湃特约评论员 朱昌俊</p>
+<p>
+							2018-12-11 13:34<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2725056" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">广东肇庆一少年因街头涂鸦被控寻衅滋事，父亲奔走道歉获谅解</span></a></img></p></div>
+<div class="news_txt" data-size="standard">9月12日，大学生丁满和朋友在广东肇庆街头的墙壁、电箱与街道宣传栏上，留下了十多处涂鸦。当晚，丁满因“故意毁坏财物罪”被刑拘。其父向被涂鸦的商户和社区道歉，获得谅解书。但最终，丁满还是因“寻衅滋事罪”，被移送审查起诉。<br/><div class="contheight"></div>丁满已有20岁，是具有完全民事行为能力的成年人。他的确有责任为犯下的错买单。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/83/219.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">一处已被清理的涂鸦现场。北青深一度微信公众号 图</span><br/><div class="contheight"></div>但这不意味着公安机关的处置完全得当。年轻人在街头涂鸦，究竟造成了怎样的严重后果，是否真到了必须“刑法伺候”的地步，存在较大争议，尤其是在权益受影响的商户及社区都表示谅解的情况下。<br/><div class="contheight"></div>当地司法部门前后给出不同的起诉罪名，也耐人寻味。从刚开始的“故意毁坏财物罪”被刑事拘留，到后来检察机关出具的价格认定书被认为不合理，丁满造成的经济损失达不到该项罪名5000元的标准，故该罪名不成立。于是，又改为“寻衅滋事罪”——该罪定罪标准为2000元以上就可以追究刑责。<br/><div class="contheight"></div>这种变化有何内情，当地司法部门有必要释疑。其所传递的社会观感，更要正视。一是，街头涂鸦与寻衅滋事罪罪名联系在一起，是有违社会常识和一般预期的；二是，罪名的变更，至少从感性层面给人一种“锱铢必较”的印象。人们潜意识里会认为，当地司法机关是铁定了要将此事办成“刑事案件”。<br/><div class="contheight"></div>这样一种办案形象，对应一个20岁的大学生及其涂鸦行为，无论于司法公信还是于当事人而言，都堪称双输。 <br/><div class="contheight"></div>另外，说到司法机关的“决绝”态度，一个背景不得不提，即当地正在“创文”。该案的处理，是否与“创文”的行政需求有关，司法处置是否真的做到了不偏不倚，难免让人产生联想。<br/><div class="contheight"></div>这些年，越来越多的年轻人喜欢涂鸦。这是社会文化开放、多元化的体现。涂鸦有崇尚超脱、不受拘束的一面，与传统的城市街头管理，确实存在一定冲突。但是，如何将冲突控制在一定范围内，不能只想着拿法律来“杀无赦”。<br/><div class="contheight"></div>近几年，哈尔滨、武汉等城市有大学为学生专门开辟了创意涂鸦墙；广州、株洲等城市的市政部门，主动邀请大学生在街头公共设施上搞涂鸦创作。既与街头景观相得益彰，也获得了市民的好感。这些迹象表明，包括公共部门在内的社会整体，对涂鸦的接纳度在不断提高。<br/><div class="contheight"></div>相应的，司法在此类问题上的处理上，也应该拿捏好分寸。这同样是在年轻人的人生白纸上“涂鸦”，绝不能“信手”。对于文化艺术与年轻人，恰当的包容不可或缺。让年轻人在一些问题上“长教训”的方式有很多种，刑罚不是优选项。</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 街头涂鸦被刑拘</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2726891">
+<div class="nbgbox">
+<a class="zan" contid="2726891" href="javascript:;" onclick="voteCont(this)" praisetimes="223">
+                           222</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 街头涂鸦</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2726891&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2726891&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（144）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

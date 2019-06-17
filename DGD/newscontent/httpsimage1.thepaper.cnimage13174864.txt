@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">土耳其数日内欲在叙利亚发起军事行动，美国警告：不可接受</h1>
+<div class="news_about">
+<p>左甜/环球网</p>
+<p>
+							2018-12-13 22:18<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="351" src="http://image.thepaper.cn/www/image/13/174/877.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">环球网 图<br/><div class="contheight"></div></span>土耳其总统埃尔多安12日说，土耳其“数日内”将在叙利亚的幼发拉底河以东地区向库尔德武装发起军事行动。美国有线电视新闻网(CNN)消息，五角大楼当日警告土耳其：此类行动不可接受。<br/><div class="contheight"></div>“任何进入叙利亚东北部的单边军事行动，特别是在美国军队可能出现的地区，都非常令人担忧。任何此类行动都是不可接受的。”美国防部发言人肖恩·罗伯逊表示。<br/><div class="contheight"></div>他还说：“我们认为对话是确保(叙利亚)边境地区持续稳定的唯一途径，我们还认为未经协调的军事行动将破坏各方的共同利益。”<br/><div class="contheight"></div>CNN称，叙利亚的美国军队定期与叙利亚民主军中的库尔德武装合作，共同打击极端组织“伊斯兰国”(ISIS)。<br/><div class="contheight"></div>据悉，美土在对待叙利亚境内库尔德武装的立场上存在重大分歧。美国视库尔德“民主联盟党”为打击极端组织“伊斯兰国”(ISIS)的重要力量，但土耳其认为他们是土国内反政府组织库尔德工人党在叙利亚的分支，其活动会影响土耳其国内稳定和国土安全。<br/><div class="contheight"></div>12日，埃尔多安在首都安卡拉举办的国防工业峰会上向叙利亚宣战时，批评美国支持库尔德武装、在土耳其和叙利亚边境一带设立观察哨所的举动。他说，有一点很清楚，美国设立观察哨所不是为了保护土耳其，而是为了保护恐怖分子。但他同时表示，“我们的目标绝对不是美国军队，而是该地区的恐怖组织。我想强调这一点。” <br/><div class="contheight"></div>（原题为《土耳其称“数日内”在叙利亚发起军事行动，美国警告：不可接受》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 土耳其,叙利亚,美国</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2737383">
+<div class="nbgbox">
+<a class="zan" contid="2737383" href="javascript:;" onclick="voteCont(this)" praisetimes="122">
+                           121</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美土关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2737383&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2737383&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

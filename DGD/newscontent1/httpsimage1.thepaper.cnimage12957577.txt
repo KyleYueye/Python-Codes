@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜小学生发现《西游记》“大漏洞”：这不是“杠精” </h1>
+<div class="news_about">
+<p>澎湃特约评论员 胡欣红</p>
+<p>
+							2018-12-06 15:27<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/12/957/590.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">马思齐</span><br/><div class="contheight"></div>近日有媒体报道，杭州五年级小学生马思齐，发现了《西游记》里的一个“大漏洞”，《西游记》中故事里宴会上的西域菜名和东土大唐是一样的：米饭、蘑菇、香蕈、木耳、豆腐、面筋、芋头、萝卜，几乎每顿饭都有。其实《西游记》作者吴承恩是淮安人，这些食物大多是江淮美食。<br/><div class="contheight"></div>《西游记》是国人耳熟能详的经典名著，但却从未听闻有人发现菜品这种“大漏洞”。除了成人的视角大多热衷于“高大上”的研究，确实没觉察到之外，即便发现了这个问题，估计很多人也会认为这根本不算是“问题”，弃之一旁。<br/><div class="contheight"></div>小姑娘所发现的“大漏洞”，并不影响《西游记》的经典地位。而且，考虑到作者当时所处的年代，因为受到各种现实条件的限制，主观上也可能就认为西域在饮食上和大唐差异不大。<br/><div class="contheight"></div>但是，小学生善于发现问题的探索精神，确实难能可贵，值得鼓励，很多人都为其竖起了大拇指。然而，也不乏有网友戏谑地称小姑娘为“杠精”，“有点无聊，鸡蛋里挑骨头”“吹毛求疵”“死抠”……<br/><div class="contheight"></div>殊不知，正是这种成人视角下的僵化思维和认识，生生扼杀了宝贵的质疑精神。每个人来到世间，几乎都带着“十万个为什么”，但随着年龄的增长，却会越来越见惯不怪。一则广为流传的小故事，或许就很能说明问题：老师问小朋友“雪化了是什么？”小朋友回答“是春天”，而标准答案却是“春泥”。充满丰富想象力的小脑袋，就在“标准答案”的熏陶打磨下，渐渐失去了质疑创新的能力。<br/><div class="contheight"></div>去年媒体报道杭州一群小学生开展了一场有关矿泉水瓶发放的调查研究。参加一场会议，会场上发的瓶装水，你会随手扔掉还是随身带走？绝大多数成年人都会忽略的“小事”背后，却隐藏着的巨大浪费。杭州长阳小学的孩子们研究发现，如果不合理控制矿泉水容量，一场普通的会议就要浪费1.6万毫升矿泉水。<br/><div class="contheight"></div>通过系列调查，长阳小学的孩子们提出按不同场合配置不同容量的矿泉水，就能在一定程度上达到节约用水的目的，并且根据季节、会议时长，绘制了一张较为详尽的会议配水建议表：比如，时长1小时以内的会议，不提供水；时长1到2小时的会议，春夏秋三季，提供300到400毫升的小瓶矿泉水，冬季不提供水……在此基础上，师生共同完成了《矿泉水容量选择研究》。真是不算不知道，一算吓一跳。成人世界一件不起眼小事背后藏着的巨大浪费，居然被一群小学生发现了。<br/><div class="contheight"></div>培养学生的问题意识和探究能力，已经成为时代需要迫切回应的教育问题。做学问贵在不疑处有疑。如果对一切都习以为常了，那就没有了创新，社会的发展进步也就成了空话。质疑精神是每个人与生俱来的，并不需要另外添加什么，关键在于从小呵护鼓励。在这方面，小学生们的表现常常出人意料。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2707821" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">从东土到西域吃的都是江淮美食？小学生发现《西游记》漏洞</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 西游记</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2712677">
+<div class="nbgbox">
+<a class="zan" contid="2712677" href="javascript:;" onclick="voteCont(this)" praisetimes="400">
+                           399</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 西游记</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2712677&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2712677&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（69）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

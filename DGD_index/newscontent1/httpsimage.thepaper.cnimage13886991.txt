@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">英国针对青少年调查显示：频繁使用社交媒体的少女更容易抑郁</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2019-01-04 14:21<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社伦敦1月4日电 英国一项针对青少年的最新调查显示，频繁使用社交媒体的少女出现焦虑症状的比例是男孩的两倍，主要原因是女孩更容易受到网络骚扰和睡眠不规律的影响。<br/><div class="contheight"></div>据当地媒体4日报道，英国经济和社会研究协会对近1.1万名英国青少年进行调查后发现，年龄为14岁的女孩是使用社交媒体最频繁的群体，其中五分之二的女孩每天使用社交媒体的时间超过3小时。<br/><div class="contheight"></div>调查显示，在接受调查者中，有12%的轻度社交媒体使用者和38%的重度社交媒体使用者（每天5小时以上）出现更严重的抑郁情况。<br/><div class="contheight"></div>研究者在对社交媒体和抑郁之间的关系进行深入调查时发现，40%使用社交媒体的女孩遭遇过网络骚扰或欺凌，这一比例在男孩当中为25%；40%的女孩睡眠不规律，而男孩的这一比例为28%。<br/><div class="contheight"></div>此外，研究者还发现，女孩在使用社交媒体的过程中更容易受到有关身材、外貌和自尊等方面的影响。<br/><div class="contheight"></div>参与此项调查的伦敦大学学院教授伊冯娜·凯利说，这一调查结果与现行的安全使用社交媒体指导政策有很强的相关性。她呼吁社会及家庭对青少年使用社交媒体的时间进行更严格的控制。<br/><div class="contheight"></div>（原文标题：《 调查显示：频繁使用社交媒体的少女更容易抑郁》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 社交媒体</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2812727">
+<div class="nbgbox">
+<a class="zan" contid="2812727" href="javascript:;" onclick="voteCont(this)" praisetimes="28">
+                           27</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 社交媒体和抑郁</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2812727&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2812727&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

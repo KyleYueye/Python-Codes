@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美媒称世界银行建议中国纠正不公平贸易，外交部：报道不准确</h1>
+<div class="news_about">
+<p>环球网</p>
+<p>
+							2018-12-21 16:29<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">环球网报道，2018年12月21日，外交部发言人华春莹主持例行记者会，以下为部分实录。<br/><div class="contheight"></div><strong>问：据美国之音报道，20日，世界银行对美中贸易战可能带来的严重后果提出警告，建议中国加大力度纠正贸易不公平行为。中方对此有何评论？</strong><br/><div class="contheight"></div><strong>答：</strong>美国之音的这个报道是不准确的，中方注意到世界银行发布报告，指出贸易紧张局势和不确定性上升会对全球贸易和收入产生影响。报告也积极肯定了中国政府为应对外部风险、促进经济增长和提振投资者信心所采取的政策举措，未提及“建议中国加大力度纠正贸易不公平行为”。<br/><div class="contheight"></div>众所周知，中方一贯支持开放和自由贸易，坚定维护多边贸易体制。中国无意与任何国家打贸易战。目前出现的局面的原因和责任是很清楚的，国际社会自有公论。中美两国元首在二十国集团布宜诺斯艾利斯峰会期间成功举行会晤。目前双方经贸团队正抓紧落实两国元首达成的重要共识，推进经贸问题磋商。习近平总书记在日前召开的庆祝改革开放40周年大会上发表重要讲话，明确提出中方将坚定不移全面深化改革，扩大对外开放，不断把新时代改革开放继续推向前进。国际社会对习总书记重要讲话反响积极，对中国投资环境和经济前景充满信心。<br/><div class="contheight"></div>（原题为《美媒称世界银行建议中国纠正不公平贸易，外交部：报道不准确》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 外交部,世界银行,美中贸易战</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2760185">
+<div class="nbgbox">
+<a class="zan" contid="2760185" href="javascript:;" onclick="voteCont(this)" praisetimes="29">
+                           28</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 外交部</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2760185&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2760185&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

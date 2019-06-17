@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">全国法院三年多来一审审结拐卖妇女儿童案件超2800件</h1>
+<div class="news_about">
+<p>罗沙/ 新华社</p>
+<p>
+							2018-12-25 12:28<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京12月25日消息，记者25日从最高人民法院获悉，全国法院三年多来共审结一审拐卖妇女儿童罪案件2806件。<br/><div class="contheight"></div>据悉，全国法院近年来公正高效审理涉妇女儿童权益案件，维护妇女儿童合法权益。2015年至2018年11月，全国法院共审结一审拐卖妇女儿童罪案件2806件，审结拐骗儿童罪案件403件，审结收买被拐卖的妇女儿童罪案件288件。同时，全国法院审结一审强奸罪案件75204件，审结强制猥亵罪案件9889件，审结猥亵儿童罪案件11519件。<br/><div class="contheight"></div>同时，全国法院通过依法审理涉未成年人民事案件，加强对未成年人特殊、优先保护；通过妥善审理离婚纠纷案件，既充分保障妇女的婚姻自由权，又切实维护婚姻家庭的和谐稳定。2015年至2018年11月全国法院共审结一审离婚纠纷案件5472123件，审结抚养、扶养纠纷案件259184件，审结抚养费纠纷案件151377件，审结探望权纠纷案件16959件。<br/><div class="contheight"></div>此外，全国法院就贯彻实施反家庭暴力法进行了一系列有益探索，维护家庭暴力受害人的人身安全和人格尊严。上海、湖南、广东等地法院与公安、民政、妇联等部门建立反家暴协作机制；陕西省高级人民法院统一全省签发人身安全保护令证明标准；湖北省武汉市中级人民法院探索建立反家暴红黄蓝分级预警制度。（原题为《全国法院三年多来一审审结拐卖妇女儿童案件超2800件》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 法院,拐卖妇女儿童</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772279">
+<div class="nbgbox">
+<a class="zan" contid="2772279" href="javascript:;" onclick="voteCont(this)" praisetimes="47">
+                           46</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 拐卖妇女儿童</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772279&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772279&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">捷克政府修正对华为产品的安全警示：称结论不是基于技术评估</h1>
+<div class="news_about">
+<p>澎湃新闻记者 周玲</p>
+<p>
+							2018-12-22 22:39<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月17日，捷克网络监管部门——国家网络与信息安全办公室【Národní úřad pro kybernetickou bezpečnost (NÚKIB)】 主任杜桑·纳夫拉蒂尔（Dusan Navratil）在一份声明中声称，把华为等中国企业的产品引入到关键的国家系统中，可能构成威胁。为此，捷克总理安德烈·巴比什呼吁国家安全委员会向杜桑·纳瓦拉蒂尔了解发布警告声明和补充公布信息的情况。<br/><div class="contheight"></div>12月21日，捷克国家安全委员会正式发表声明，对NÚKIB的声明进行了修正。声明内容包括：<br/><div class="contheight"></div>1，NÚKIB是独立于政府的机构，其结论不是基于技术评估。<br/><div class="contheight"></div>2，NÚKIB仅警告关键信息基础设施或重要信息系统中包含的系统，并且在任何情况下都不涉及普通用户和终端设备。<br/><div class="contheight"></div>3，为了国家安全，始终有必要确保网络安全的安全。<br/><div class="contheight"></div>4，NÚKIB无权评估其他国家的国际政治局势或法律和政治环境。<br/><div class="contheight"></div>5，在没有与国家安全有关的严重理由的情况下，关键信息基础设施或主要信息系统中包含的信息系统的采购程序不应使投标者处于不利地位。<br/><div class="contheight"></div>6，捷克共和国对所有合法外国投资保持开放，并将继续为其提供有利环境。<br/><div class="contheight"></div>对于捷克政府的声明，华为欧洲总裁李健表示：“我们赞赏捷克政府的务实态度”。<br/><div class="contheight"></div> 华为欧洲总裁李健说：“捷克共和国安全委员会今天讨论了捷克国家网络和信息安全办公室（NÚKIB）早些时候发表的声明，并认识到办公室独立于政府发出的警告并非基于技术评估。华为很高兴听到捷克共和国希望对所有合法的外国投资保持开放，并且没有任何竞标者在没有充分理由的情况下，在信息通信技术领域的任何招标中都不应该为国家的关键基础设施而处于不利地位。华为认为，任何基于公司原产地的歧视都应在捷克共和国进行纠正。”<br/><div class="contheight"></div>“根据捷克政府办公室今天的声明，我们坚信与捷克共和国现有和潜在客户，合作伙伴的任何业务合作都不会受到影响。我们的全球声誉，业务和投资不应再被这种毫无根据的指责所破坏。在过去的30年里，华为通过与全球170多个国家的客户合作，保持了良好的安全记录。在当今的数字环境中，网络安全比以往任何时候都更加重要，我们了解政府的网络安全挑战。作为全球领先的ICT公司，华为建立了可审计，可持续，可信赖的网络安全保障体系。我们愿意与捷克政府和行业合作，共同应对网络安全挑战。网络安全一直是我们的首要任务。“华为欧洲总裁李健总结道。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙扶<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 华为，5G</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2764624">
+<div class="nbgbox">
+<a class="zan" contid="2764624" href="javascript:;" onclick="voteCont(this)" praisetimes="535">
+                           534</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 华为5G</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2764624&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2764624&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（94）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

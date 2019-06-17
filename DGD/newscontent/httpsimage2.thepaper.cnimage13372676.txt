@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">特朗普为从叙利亚撤军决定辩护，称“不愿意充当中东警察”</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-21 17:22<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">宣布将从叙利亚撤军后，美国政府正备受盟友质疑。美国总统特朗普周四公开为自己的决定辩护，提出多条应撤军的理由。<br/><div class="contheight"></div>据《纽约时报》20日报道，特朗普当天在“推特”上发文回应了对于撤军决定的质疑。此前不少美国的盟国表达了对此举的惊讶和不解。<br/><div class="contheight"></div>“撤出叙利亚并不令人吃惊。”特朗普写道，“难道美国愿意充当‘中东警察’，花费巨额金钱并牺牲美国人的生命来换取虚无缥缈的结果吗？”<br/><div class="contheight"></div>特朗普称，那些指出撤军决定不正确的分析报告都是“假新闻”。此前有美国媒体分析称，美国一旦从叙利亚撤走军队，获益的将是俄罗斯和伊朗。<br/><div class="contheight"></div>为了回应那些关于极端组织“伊斯兰国”（下称IS）威胁的批评，特朗普称，“我正在为美国打造一支全世界最强大的武装力量。IS攻击了我们，他们已经完蛋了。”<br/><div class="contheight"></div>此前，英、法、德三国外交部门都表示，IS的威胁尚未根除，法国还宣称将继续在叙利亚境内的军事行动。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：汪伦宇<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 叙利亚，美军，“伊斯兰国”</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2760348">
+<div class="nbgbox">
+<a class="zan" contid="2760348" href="javascript:;" onclick="voteCont(this)" praisetimes="90">
+                           89</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美军撤出叙利亚</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2760348&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2760348&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,82 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="channel_36079">湃客</a>
+                    &gt; <a href="list_35572">有数</a>
+</div>
+<h1 class="news_title">春运火车票今日开抢，回个家咋就这么难？</h1>
+<div class="news_about">
+<p>
+                            2018-12-23 12:05<span> 来源：澎湃新闻 湃客</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_paike_author clearfix">
+<a href="sparker_3348708" target="_blank">
+<div class="thum">
+<img src="//image.thepaper.cn/publish/interaction/image/2/660/261.jpg"/>
+</div>
+<div class="name">未来媒体实验室</div>
+</a>
+<div class="line"></div>
+<div class="link" data-userid="3348708" onclick="followUser(this)">+关注</div>
+</div>
+<div class="news_txt" data-size="standard"><u>【编者按】今天（12月23日），中国铁路12306网站开始出售春节期间火车票，你准备好了吗？春运回家抢票难，火车抢不到，坐飞机会是个好主意吗？逆势而行出国玩耍如何？未来媒体实验室的这篇旧文通过分析机票价格告诉你哪里的机票最贵，折扣最多……提前做攻略，赢在起跑线。</u><br/><div class="contheight"></div>放假的日子越来越近，机票又成了一笔大开销...最近小编周围似乎也弥漫着一股怨念之气...<br/><div class="contheight"></div>“神马？！机票怎么这么贵？！”“what？座位只剩商务舱？！”“呜呜，为什么室友回家就这么便宜！”<br/><div class="contheight"></div>本着科学的态度、实干的精神，我们以深圳为起点，各个主要城市为终点，搜索了放假1月16日的飞机票价格（搜索日期，2016年12月29日）<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" src="http://image.thepaper.cn/www/image/9/745/619.jpg" width="600"/></div><div style="text-align: center;"><img alt="" src="http://image.thepaper.cn/www/image/9/745/621.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="1816" src="http://image.thepaper.cn/www/image/13/416/315.jpg" width="600"/></div><div style="text-align: center;"><img alt="" src="http://image.thepaper.cn/www/image/9/745/625.jpg" width="600"/></div><div style="text-align: center;"><img alt="" src="http://image.thepaper.cn/www/image/9/745/627.jpg" width="600"/></div>原来....买票还是讲究逆势而行，春节出国玩耍才是王道<br/><div class="contheight"></div>以上就是我们的发现，尽管南方的你可能会选择高铁回家，北方的你也会有其他选择，但不知道经过小编的整理，你有米有对机票定价理解更深一点呢？<br/><div class="contheight"></div>最后，提前祝大家：假期快乐！新年快乐！<br/><div class="contheight"></div>作者 | 蓝星宇 梁银妍  李薇薇<br/><div class="contheight"></div>编辑 | 蓝星宇 <audio controls="controls" style="display: none;"></audio><audio controls="controls" style="display: none;"></audio><audio controls="controls" style="display: none;"></audio><audio controls="controls" style="display: none;"></audio><audio controls="controls" style="display: none;"></audio><audio controls="controls" style="display: none;"></audio><audio controls="controls" style="display: none;"></audio><audio controls="controls" style="display: none;"></audio><audio controls="controls" style="display: none;"></audio><audio controls="controls" style="display: none;"></audio><audio controls="controls" style="display: none;"></audio></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_keyword">关键词 &gt;&gt; 春运,飞机,抢票,12306,机票价格</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                本文为自媒体、作者等湃客在澎湃新闻上传并发布，仅代表作者观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love sparker_news_love" style="width: 446px;">
+<input id="hidden_contid" type="hidden" value="2362736">
+<div class="nbgbox">
+<a class="zan" contid="2362736" href="javascript:;" onclick="voteCont(this)" praisetimes="117">
+<span></span>116</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang"><span></span>收藏</a></div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2362736&caid=35572",".news_imgad")</script>
+</div>
+<div class="news_txtad">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2362736&amp;caid=35572" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

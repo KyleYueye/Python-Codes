@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">山西三家省属科研院所转制企业揭牌，省长楼阳生出席并揭牌</h1>
+<div class="news_about">
+<p>山西日报</p>
+<p>
+							2018-12-23 09:16<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">踏着改革开放再出发的坚定脚步，山西省全面深化改革再传佳音。<strong>12月22日上午，山西省信息产业技术研究院有限公司、山西省生物研究院有限公司、山西省建筑科学研究院有限公司3家省属科研院所转制企业在太原揭牌</strong>，这标志着我省科研院所转制又取得了重大突破。省长楼阳生出席并揭牌。副省长王一新讲话，省政协副主席李晓波、谢红出席。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="327" src="http://image.thepaper.cn/www/image/13/425/297.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">揭牌仪式现场。视频截图</span><br/><div class="contheight"></div>对技术开发类科研院所实施企业化转制，是党中央、国务院深化科技体制改革的重大决策部署。省委、省政府高度重视，将其摆上重要议事日程，大力推进省属转制科研院所改革工作，充分激发科技第一生产力、创新第一动力、人才第一资源的巨大潜能，为高质量转型发展提供有力科技支撑。去年以来，楼阳生多次就省属科研院所转制进行深入调研，指导制定改革方案，研究破解体制机制障碍和历史遗留问题，确立因院施策、一所一策等改革思路，推动转制工作平稳高效推进。今年10月17日，省政府第14次常务会议通过9家省属转制科研院所改革方案。10月24日，转制院所实现管理权移交。12月14日，省自动化研究所、省生物研究所、省建筑科学研究院首批完成公司注册登记，迎来正式揭牌。<br/><div class="contheight"></div>山西省信息产业技术研究院有限公司由省自动化研究所转企改制而成，是省国资委在全省信息技术产业领域进行资源整合的平台公司。公司成立后，将汇聚科技创新资源要素，面向我省传统产业转型升级和战略性新兴产业壮大，引领新一代信息技术应用发展，努力建设国际合作和技术转移转化基地，推动新一代信息技术与实体经济深度融合。<br/><div class="contheight"></div>山西省生物研究院有限公司由省生物研究所转企改制而成，转制前多年致力于生物产业关键共性技术和前沿引领技术创新，研发产品涉及生物医药、植物资源、生态恢复、工业微生物、食品检测、食用菌、肠道微生物等方面。公司成立后，将努力建立集应用研究、技术开发、产业化应用、企业孵化于一体的科技创新链条，助力我省生物科技产业发展。<br/><div class="contheight"></div>山西省建筑科学研究院有限公司由省建筑科学研究院转企改制而成。公司在建筑领域科研、开发、咨询、成果转化方面形成了完整的现代化产业链条。未来将聚焦建筑行业发展前沿，加强科技研发和成果转化，努力打造全省一流、国内领先、独具特色的建筑科技型领军企业。<br/><div class="contheight"></div>揭牌前，省市场监管局分别为省信息产业技术研究院有限公司、省生物研究院有限公司、省建筑科学研究院有限公司颁发了营业执照。3家转制企业负责人作了表态发言。 <br/><div class="contheight"></div>（原题为《三家省属科研院所转制企业揭牌，楼阳生出席并揭牌》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 科研院所,企业</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2765775">
+<div class="nbgbox">
+<a class="zan" contid="2765775" href="javascript:;" onclick="voteCont(this)" praisetimes="31">
+                           30</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 山西经济</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2765775&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2765775&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25490">打虎记</a>
+</div>
+<h1 class="news_title">国企旗下地产公司老总被双开：突破底价销售背离“房住不炒”</h1>
+<div class="news_about">
+<p>澎湃新闻记者 钟煜豪</p>
+<p>
+							2019-01-10 18:14<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“违反工作纪律，违规对在售房源降价销售”、“置公司利益于不顾，人为控制房源，突破底价销售，严重扰乱市场秩序，背离了‘房住不炒’这一基本原则”……近日，上述表述出现在一名国企旗下地产公司领导的双开通报中。<br/><div class="contheight"></div>1月9日下午，四川省纪委监委网站发布消息称，日前，经中央巡视组交办，中粮集团有限公司党组纪检组对中粮置地管理有限公司成都公司原总经理熊启中严重违纪问题进行了纪律审查。经国家监委指定管辖，四川省监委对熊启中严重违法问题进行了监察调查。<br/><div class="contheight"></div>经查，熊启中违反政治纪律，搞攻守同盟，唆使重要涉案人员出境，故意编造虚假证明材料，对抗组织审查；违反中央八项规定精神，收受管理服务对象红包礼金，公款旅游，公车私用，接受私营企业主安排打高尔夫球，置中央三令五申于不顾；违反工作纪律，违规对在售房源降价销售；违反生活纪律。利用职务上的便利侵吞公共财物，数额巨大，涉嫌贪污犯罪；利用职务上的便利为他人谋取利益并收受巨额财物，涉嫌受贿犯罪。<br/><div class="contheight"></div>通报指出，熊启中身为国有企业党员领导干部，丧失理想信念，法纪意识淡漠，毫无顾忌，不知敬畏；工作上弄虚作假，置公司利益于不顾，人为控制房源，突破底价销售，严重扰乱市场秩序，背离了“房住不炒”这一基本原则；经济上贪婪，靠山吃山，与不法商人勾肩搭背，输送利益，甘于被“围猎”，大搞权钱交易；生活上奢靡，贪图享乐，造成不良社会影响。其行为严重违反党的纪律，构成职务违法并涉嫌犯罪，且在党的十八大后仍不收敛、不收手，性质恶劣，影响重大，应予严肃处理。依据《中国共产党纪律处分条例》《中华人民共和国监察法》等有关规定，经中粮集团有限公司党组会议研究，决定给予熊启中开除党籍、开除公职处分；收缴其违纪所得；四川省监委将其涉嫌犯罪问题移送检察机关依法审查起诉，所涉财物随案移送。<br/><div class="contheight"></div>公开资料显示，中粮置地是中粮集团旗下从事房地产开发的专业化公司，现已布局北京、上海、沈阳、成都等17个一、二线核心城市的核心地段，截至2017年底，共有9个在运营项目，10个在建及储备项目。<br/><div class="contheight"></div>值得一提的是，上述通报显示，熊启中相关严重违纪问题是由中央巡视组交办的。<br/><div class="contheight"></div>澎湃新闻注意到，熊启中于2018年6月初被四川省纪委监委通报“涉嫌严重违纪违法，目前正接受纪律审查和监察调查”。官方简历显示，熊启中，男，汉族，1965年1月生，湖北鄂城人，大学文化。1988年7月参加工作，1987年12月加入中国共产党。<br/><div class="contheight"></div>他曾任中粮地产成都公司副总经理兼重庆项目总经理、中粮置地成都公司总经理兼成都大悦城总经理等职，2014年开始担任中粮置地成都公司总经理，2016年5月兼任党总支书记。<br/><div class="contheight"></div>另外，官方简历显示，2016年11月，熊启中受到留党察看一年、行政免职处分。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王俊<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 突破底价销售，房产</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837045">
+<div class="nbgbox">
+<a class="zan" contid="2837045" href="javascript:;" onclick="voteCont(this)" praisetimes="74">
+                           73</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 房住不炒</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837045&caid=25490",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837045&amp;caid=25490" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（62）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

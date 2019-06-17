@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美代理防长沙纳汉正式上任，首次开会强调“中国的重要性”</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-03 09:44<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="401" src="http://image.thepaper.cn/www/image/13/837/527.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">沙纳汉（Patrick Shanahan）  视觉中国 资料</span><br/><div class="contheight"></div>被视为“屋里最后一位成人” 的美国前防长马蒂斯（Jim Mattis）已于2018年12月31日辞职，代理防长沙纳汉（Patrick Shanahan）在2019年1月1日正式上任。一位五角大楼官员向路透社透露，沙纳汉1月2日在国防部首次主持主管会议时，强调了中国的重要性，将中国视为一个重要的“优先事项”。<br/><div class="contheight"></div>报道称，提供消息的美国官员要求匿名，也未具体说明沙纳汉对于中国的看法，抑或是他在会上是否给出其它指示。“代理国防部长沙纳汉只是告诉代表团，要把重点放在国防战略上，并继续努力。” 他说道。<br/><div class="contheight"></div>这是沙纳汉接任马蒂斯以来第一次与美国军事部门的部长们会面。沙纳汉此前在一份声明中说，“现在我期待着跟特朗普总统合作，跟包括各位现职部长、参联会主席、作战指挥官和国防部长办公室资深人员在内的这些强有力的领导人一道实现他的愿景。”沙纳汉说，国防部“依然致力于保护我们的国家”。 <br/><div class="contheight"></div>沙纳汉此前曾在波音公司工作30年，此后于2017年7月担任国防部副部长，在就职国防部之前，没有任何军事经验。<br/><div class="contheight"></div>此前据新华社报道，去年1月，美国国防部发布特朗普政府首份《国防战略》报告，报告中指出，“国家间战略竞争，而非恐怖主义，是美国国家安全的首要关切”。 报告在提到“国家间战略竞争”的前言部分点到俄罗斯、中国、朝鲜、伊朗等国家，并宣称，美国繁荣和安全面临的核心挑战是“长期战略竞争再现”，而主要竞争对手是俄罗斯与中国。五角大楼曾表示，沙纳汉在制定这一战略报告的过程中发挥了重要作用。<br/><div class="contheight"></div>对于这份报告，外交部发言人曾回应称，美方上述报告充满冷战思维和“零和”博弈过时观念，蓄意歪曲中国外交和国防政策，渲染大国战略竞争，犯了根本性的错误。<br/><div class="contheight"></div>目前还不清楚沙纳汉会担任代理国防部部长多久，不过美国媒体普遍认为，特朗普与马蒂斯不欢而散后，要找到能够获得参议院同意的接替人选恐怕相当困难。特朗普此前也承认沙纳汉可能会长期担任代理部长，而国防部似乎也为此作了准备，包括任命审计长诺奎斯特（David Norquist）暂代副部长职务。沙纳汉于1月2日晚些时候与特朗普一起出席内阁会议，这也是特朗普2019年召开的首次内阁会议。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中美关系</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2807190">
+<div class="nbgbox">
+<a class="zan" contid="2807190" href="javascript:;" onclick="voteCont(this)" praisetimes="48">
+                           47</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中美关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2807190&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2807190&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

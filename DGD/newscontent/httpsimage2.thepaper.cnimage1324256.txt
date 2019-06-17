@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">金正日逝世七周年前一天，朝鲜官媒发组图缅怀</h1>
+<div class="news_about">
+<p>刘强/海外网</p>
+<p>
+							2018-12-16 19:53<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="404" src="http://image.thepaper.cn/www/image/13/242/50.jpg" width="370"/></div>海外网12月16日消息，明天（17日）是已故朝鲜最高领导人金正日逝世七周年纪念日。16日，朝中社刊登短文，称颂金正日为“奠定富强繁荣万年基础的绝世伟人”，并发布十余张照片予以缅怀。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="410" src="http://image.thepaper.cn/www/image/13/242/49.jpg" width="321"/></div><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="414" src="http://image.thepaper.cn/www/image/13/242/48.jpg" width="330"/></div>朝中社说，伟大领袖金正日同志一生热爱祖国与人民，他以爱国奉献的精神，夜以继日地工作，奠定富强繁荣的万年基础，是一位举世无双的伟人。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="431" src="http://image.thepaper.cn/www/image/13/242/47.jpg" width="540"/></div><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="381" src="http://image.thepaper.cn/www/image/13/242/46.jpg" width="539"/></div>据韩联社报道，同一天（16日），朝鲜劳动党中央机关报《劳动新闻》发表文章，称金正日是把世界维和斗争引向胜利的卓越政治家，正是因为有他的先见之明、先军政治和卓越领导，小国寡民的朝鲜才得以打击帝国主义的气焰，坚定守护主体社会主义与世界和平。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="422" src="http://image.thepaper.cn/www/image/13/242/45.jpg" width="538"/></div><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="424" src="http://image.thepaper.cn/www/image/13/242/44.jpg" width="543"/></div>《劳动新闻》称，署名指示向平壤市民供应海鲜，是金正日在逝世前一天的2011年12月16日留下的最后嘱托。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="395" src="http://image.thepaper.cn/www/image/13/242/43.jpg" width="541"/></div>15日，《劳动新闻》还刊登政论称，震撼世界的特大事变接踵而至，时代要求我们把胜利旗帜尽快插到经济强国之高峰，向已故领袖们报告取得最后胜利的喜讯<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="391" src="http://image.thepaper.cn/www/image/13/242/41.jpg" width="544"/></div><div style="text-align:center;"><img alt="" height="444" src="http://image.thepaper.cn/www/image/13/242/40.jpg" width="537"/></div>据报道，劳动党中央副委员长崔辉13日出席的朝鲜职业总同盟誓师大会也号召全体工人掀起增产突击运动，达成国家经济发展五年规划目标。<br/><div class="contheight"></div>（原题为《金正日逝世七周年前一天 朝鲜官媒发组图缅怀(图)》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 金正日,朝鲜</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2744838">
+<div class="nbgbox">
+<a class="zan" contid="2744838" href="javascript:;" onclick="voteCont(this)" praisetimes="95">
+                           94</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 朝鲜领导人</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2744838&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2744838&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（75）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

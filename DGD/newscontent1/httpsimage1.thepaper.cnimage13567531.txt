@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">明年将迎来中美建交40周年，外交部：合则两利，斗则俱伤</h1>
+<div class="news_about">
+<p>外交部网站</p>
+<p>
+							2018-12-27 20:11<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="353" src="http://image.thepaper.cn/www/image/13/567/529.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">外交部例行记者会  外交部 图<br/><div class="contheight"></div></span>外交部网站12月27日消息，外交部发言人华春莹主持例行记者会。<strong><br/><div class="contheight"></div>问：明年1月1日将标志着中美建交40周年。你如何描绘40年中美关系？<br/><div class="contheight"></div>答：</strong>今年是中美发表建交公报40周年。40年来，中美关系获得的巨大发展已经远远超越了当年的预期。中国古代圣贤孔子曾经说过：“四十而不惑”。中美交往40年的风雨坎坷给了我们足够多的教训和启示，集中到一点，最重要的就是：合则两利，斗则俱伤。虽然中美关系到了不惑之年，但我们看到，目前美国国内有些人还是有些迷惘和疑惑。我们认为，今天中美两国的有识之士应该穿透迷雾，确立中美合则两利、斗则俱伤的宝贵共识。双方应该不受干扰，具备这一不惑的定力。<br/><div class="contheight"></div>前不久，习近平主席同特朗普总统在二十国集团领导人阿根廷峰会期间举行会晤，双方进行了深入的战略沟通，同意共同推进以协调、合作、稳定为基调的中美关系，为解决中美间存在的问题、推动中美关系健康发展作出了规划。希望美方能与中方一起相向而行，本着相互尊重、合作共赢精神，推动中美关系沿着正确的方向实现健康稳定的发展。这符合中美两国人民的根本利益，也是世界人民的共同期待。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中美建交40周年</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2781967">
+<div class="nbgbox">
+<a class="zan" contid="2781967" href="javascript:;" onclick="voteCont(this)" praisetimes="57">
+                           56</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中美建交40年</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2781967&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2781967&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

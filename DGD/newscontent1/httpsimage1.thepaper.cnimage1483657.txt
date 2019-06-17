@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">世行行长金墉卸任后将加入美私募基金，担任合伙人及副总裁</h1>
+<div class="news_about">
+<p>杨承霖 高攀/新华社</p>
+<p>
+							2019-01-09 20:46<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社1月9日报道，美国私募基金全球基础建设合伙公司8日表示，世界银行行长金墉将在2月1日卸任后加入该公司担任合伙人及副总裁。<br/><div class="contheight"></div>该公司总裁兼管理合伙人阿德巴约·奥贡莱西当天在一份声明中说，金墉广博的知识，以及与各国政府和机构合作期间所积累的一手、全面经验，将为公司提供颇有价值的见解。他还表示，金墉此前参与基础设施和新兴市场事务，以及在环境、社会和公司治理方面的专业知识，将进一步拓展公司领导团队的能力。<br/><div class="contheight"></div>金墉在声明中表示，他此前的经历以及近几年在世界银行的工作都证明了基础设施发展对世界的重要性。<br/><div class="contheight"></div>据英国《金融时报》报道，由于金墉在全球基础建设合伙公司将从事发展中经济体的基础设施投资，而这也是世行的核心业务，世行在金墉卸任问题上的一个重要考虑是将其隔离在可能的利益冲突之外。金墉在卸任后的一年内将被禁止与世行开展业务。<br/><div class="contheight"></div>世行7日表示，世行首席执行官克里斯塔利娜·格奥尔基耶娃将在金墉卸任后出任临时行长。世行执行董事会将立即启动遴选继任者的程序。<br/><div class="contheight"></div>全球基础建设合伙公司总部位于纽约，管理资产超过400亿美元，主要在经合组织和新兴市场国家开展投资，投资领域包括电力、交通、水处理等。 <br/><div class="contheight"></div>（原题为《世行行长金墉卸任后将加入美私募基金》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 世界银行,金墉,卸任,私募基金</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2832772">
+<div class="nbgbox">
+<a class="zan" contid="2832772" href="javascript:;" onclick="voteCont(this)" praisetimes="36">
+                           35</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 世界银行</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2832772&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2832772&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

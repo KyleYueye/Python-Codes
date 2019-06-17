@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜饭局凶险，为什么人们还乐此不疲？</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-09-20 16:15<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">最近有几场饭局进入公众的视野，有的香艳，有的奢靡，都成为其他饭局上的下酒菜。正所谓你站在桥上看风景，看风景的人在楼上看你。<br/><div class="contheight"></div>这些年来，饭局上闹出的风波不胜枚举。但各行各业、各个圈子的饭局生态似乎并未得到根本改观。饭局再凶险，也挡不住人们赴宴的脚步。<br/><div class="contheight"></div>饭局饭局，饭是为局服务的。中国人爱在饭局上谈事，是世人皆知的。2016年8月5日，韩国《中央日报》专门刊发一篇文章解析中国饭局文化，文章称饭局上的表现足以决定在中国做生意的成败。<br/><div class="contheight"></div>饭局是公域还是私域，是一个争议性很强的问题。把饭局视作私域的人，严厉谴责偷拍、曝光之举，认为是私德的败坏。反对者则认为，把中国式饭局当成纯粹的私域太天真，因为觥筹交错之际也是利益交换之时。<br/><div class="contheight"></div>争议一时难休，或许每个人眼里的饭局都不一样。有人享受，有人排斥，有人虽反感但不敢推辞。但应该没人否认，“人到齐了，大家一起举杯”的另一层含义是：请开始你的表演。<br/><div class="contheight"></div>饭局是一个开放式舞台，人人都是观众，人人又是演员。演出效果不仅取决于演技，更取决于身份。一个人在什么时候最幽默？答案是成为领导之后。<br/><div class="contheight"></div>有人一遇到饭局就浑身不自在，也有人只有在饭局上才能唤醒体内那个活力四射的绿巨人。能醉人的不仅是酒精，虽然酒精必不可少。<br/><div class="contheight"></div>饭局有很多讲究，比如丰富多彩的劝酒词，“我干了你随意”是最常见的一句。还有人说，中国人请客的诚意体现在饭局价位上。这个时候吃的已经不是饭，而是脑细胞了。<br/><div class="contheight"></div>人总是需要社交的，对于饭局不必有道学先生式的洁癖。但是有些饭局已经成为社会肌体的病害，物质上的铺张浪费倒在其次，绑架人际关系、污染行业风气、破坏社会互信才是大问题。<br/><div class="contheight"></div>有人说，人在江湖，身不由己。但积习也并非不能矫正。众所周知，八项规定常态化执行之后，官场上的饭局发生了很大的变化。我问一个公务员朋友，大家会不会不习惯？朋友说，年轻公务员大都觉得轻松了，本来就喝不来大酒，现在正好有了不喝酒的正当理由。<br/><div class="contheight"></div>饭局不会消失，但“成功人士不回家吃饭”是一种畸形现象。希望越来越多的人能意识到，饭局上的表演能力不是一个人的核心竞争力。社会人也没必要夜夜笙歌，多回家陪老婆孩子吃饭，才能找到丢失已久的本真。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 饭局 饭局文化</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2460114">
+<div class="nbgbox">
+<a class="zan" contid="2460114" href="javascript:;" onclick="voteCont(this)" praisetimes="238">
+                           237</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 饭局</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2460114&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2460114&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（40）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

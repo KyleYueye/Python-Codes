@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">武汉“摸狗命案”当事人杨建平：无罪释放后准备申请国家赔偿</h1>
+<div class="news_about">
+<p>澎湃新闻记者 周琦 实习生 高亮</p>
+<p>
+							2018-12-26 16:48<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/521/880.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">杨建平及家人给律师送锦旗 澎湃新闻记者 周琦 实习生 高亮 图<br/><div class="contheight"></div></span>12月26日上午，杨建平及其家人来到其辩护律师雷刚所在律师事务所道谢。杨建平告诉澎湃新闻（www.thepaper.cn），待安定下来之后，还想做点事，准备申请国家赔偿。<br/><div class="contheight"></div>案卷资料显示，2016年，杨建平与弟弟杨建伟因摸狗与彭芳明发生口角后，彭芳明邀约3人持洋镐把上门报复。打斗中，彭芳明被刺死。<br/><div class="contheight"></div>12月19日，备受关注的武汉“摸狗命案”二审宣判，武汉市中院认为，弟弟杨建伟的行为系防卫过当，具有自首情节；哥哥杨建平属正当防卫。杨建伟犯故意伤害罪，判处有期徒刑四年；杨建平无罪，被当庭释放。<br/><div class="contheight"></div>此案的宣判引起社会各界及多家媒体关注。<br/><div class="contheight"></div>“我内心一直认为，我应该是无罪的。”26日，57岁的杨建平的精神状态不错，脸上露出久违的笑容。他告诉澎湃新闻，自己被关押1000多天后释放，有些不适应，“还没有安定下来，之后还想为这个社会尽一份力，让更多的人体会到这个社会的真情、有爱。”<br/><div class="contheight"></div>杨建平告诉澎湃新闻，当时的情况非常危急，大白天别人冲到家中对其弟弟进行殴打，他不得已才出手，是为了解救弟弟。<br/><div class="contheight"></div>“这3年，太难熬了。”回忆起3年诉讼之路，杨建平女儿杨君止不住眼泪。她表示，父亲最终能够和家人团聚，家人对于判决结果很知足。<br/><div class="contheight"></div>杨建平表示，他本来就是低保户，希望国家给予补偿，他会用这些钱用来感谢那些帮助过他的人。<br/><div class="contheight"></div>26日上午，杨建平一家在看守所探视了杨建伟。杨建平告诉澎湃新闻，弟弟杨建伟精神状态比之前好很多，“弟弟不像之前那么沧桑了，精神压力没那么大了，已经判下来了，现在轻松些了。”<br/><div class="contheight"></div>杨建平辩护律师雷刚表示，此案不仅是一个人的事，更是关乎整个社会，每个人都有可能遭受不法侵害。<br/><div class="contheight"></div>“我们要鼓励民众，当看到对他人利益收到侵害时，要主动出手，制止不法侵害行为。那我们这个社会就打击了违法犯罪行为，伸张了正义。”雷刚说。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王选辉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 武汉,摸狗案,无罪释放</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776655">
+<div class="nbgbox">
+<a class="zan" contid="2776655" href="javascript:;" onclick="voteCont(this)" praisetimes="85">
+                           84</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 无罪释放</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776655&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776655&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

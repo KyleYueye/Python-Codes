@@ -1,0 +1,90 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜信息公开不会损害正常的执法权</h1>
+<div class="news_about">
+<p>澎湃特约评论员 杨晨</p>
+<p>
+							2018-10-14 07:27<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">事发多日，“女律师投诉派出所挨打”事件仍在发酵。<br/><div class="contheight"></div>据@广州公安10月13日消息，近日，针对广州律师孙世华投诉在荔湾区华林派出所被殴打和羞辱的情况，广州警方高度重视，迅速启动调查程序，并与市律师协会保持沟通和联系。日前，警方邀请该协会代表调看了从当事人进入到离开派出所的全部视频，视频显示不存在孙世华被殴打和羞辱的情况。<br/><div class="contheight"></div>这一消息似乎意味着“反转”。根据近日网上热传的孙世华网帖，自己因代理案件原因，与委托人到广州市荔湾区华林街派出所办事时，遭到警务人员“碰瓷执法”，被要求脱衣检查、拍照、批指模和验尿，并接受六小时讯问等。如果并不存在所谓的“殴打”和“羞辱”，显而易见，孙世华这份网帖也就“经不起推敲”了。<br/><div class="contheight"></div>不过，从网友的回复情况看，还有不少质疑之声。比如，有的指出，为什么调看有关视频的，只有市律师协会的代表？他们是通过什么方式成为了代表，又能不偏不倚地代表双方、主持公正吗？事实上，在这样一起超越个案，隐约有公共色彩的舆论事件中，恐怕一切有碍信息公开的“动作”，都会加剧公众的猜疑，甚至作出不利于执法者的反向解读。<br/><div class="contheight"></div>这决不是危言耸听。在之前的警方通报，也是“语焉未详”，“犹抱琵琶半遮面”。比如，通报指出，“根据现场视频，华林街派出所民警在孙世华律师办理业务期间存在行为失范、态度不当、语言有失文明等情况”，“现暂未发现存在殴打羞辱孙世华律师的行为”。让公众不解的是，既然没有“殴打”“羞辱”行为，那么，究竟什么才是“行为失范”“态度不当”“语言有失文明”？<br/><div class="contheight"></div>公安民警属于执法人员，手中握有强大的警权，所以国家才通过《警察法》《刑事诉讼法》《公安机关办理刑事案件程序规定》等法律法规予以规制，防止权力膨胀和滥用。警察的“行为失范”“态度不当”“语言有失文明”，不是发生在工作之余，也不是面对家人，而是处在办案过程中，面对的是律师，如此已经违反了“限权”立法，决不能轻描淡写一笔带过。<br/><div class="contheight"></div>其实，对于公众舆论的“自行脑补”，也不是没有解决之道，那就是完全公开信息。既然当事人指责警方存在“殴打”和“羞辱”行为，而警方又矢口否认，甚至拉上了律协作为“证人”，为什么不公开这一过程的监控视频，让公众也都睁大眼睛瞧一瞧，究竟有没有存在“殴打”和“羞辱”呢？就算是没有暴力也好，至少也让大家瞅瞅，所谓的“行为失范”“态度不当”“语言有失文明”，又是什么样的表现。<br/><div class="contheight"></div>律师是法治文明的象征。尊重律师，也就是尊重当事人的权利，尊重国家法治。2015年9月16日，最高法、最高检、公安部、国家安全部、司法部印发《关于依法保障律师执业权利的规定》，重申不得侵害律师合法权利。而今，一份律师的网帖，之所以引发公众的普遍关注，既是对律师权利保护的重视，也是对自身权利的“担忧”。<br/><div class="contheight"></div>身正不怕影子斜，信息公开不会损害正常的执法权。向公众公开完整视频，更准确地定性执法，才能真正驱散人们心头疑云，更好地彰显规制权力、保护权利的法治本色。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_asktopic">
+<div class="news_askuser" onclick="window.open('asktopic_detail_10005718');"><span class="verticalAlign_topic"></span>
+<div class="news_askuser_bd">
+<div class="news_askuser_sort">焦点</div>
+<div class="news_askuser_profile">我申请了700多份政府信息公开,如何通过信息公开理性维权,问我吧!</div>
+</div> <div class="news_askuser_trbs"><span class="trbs">
+<div class="userleft_hdimg">
+<img src="//image.thepaper.cn/publish/interaction/image/1/385/989.jpg"/><div class="hdimg_bg30"><img src="//file.thepaper.cn/www/v3/img/headerimg_ctbg30.png"/></div>
+</div>
+<a class="u_sname">陈敏</a>
+<span>2016-08-23</span>
+<span class="trbs_zan" id="10005718" times="224">224</span>
+<span>进行中...</span>
+</span></div>
+</div>
+</div>
+<div class="news_editor">责任编辑：张珺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 信息公开</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2526823">
+<div class="nbgbox">
+<a class="zan" contid="2526823" href="javascript:;" onclick="voteCont(this)" praisetimes="452">
+                           451</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 信息公开</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2526823&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2526823&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（138）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

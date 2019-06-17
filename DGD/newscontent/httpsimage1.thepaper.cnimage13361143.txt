@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">无人机入侵伦敦盖特威克机场：数百航班延误，十多万旅客滞留</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2018-12-21 11:28<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="396" src="http://image.thepaper.cn/www/image/13/361/153.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">当地时间2018年12月20日，英国苏塞克斯郡，旅客滞留在盖特威克机场。 视觉中国 图</span><br/><div class="contheight"></div>据“中央社”报道，近日，英国伦敦盖特威克机场(London Gatwick)因有无人机闯入空域而从19日晚开始暂停所有航班。当地时间20日，无人机带来的危机仍未解除，十多万名旅客受到影响。<br/><div class="contheight"></div>报道称，据英国警方表示，这并非恐怖袭击，但显然是有人利用工业级无人机“蓄意骚扰”，英国军方将出动特殊装备协助。<br/><div class="contheight"></div>盖特维克机场位于伦敦附近，是英国最为繁忙的机场之一，从19日晚上9时左右开始，由于传出有无人机飞越跑道，所有航班被迫停飞。<br/><div class="contheight"></div>报道称，20日，原本预计有760架航班的11万旅客将从盖特维克机场起降，却都因无人机事件延误，相关影响可能会持续多日。许多航班被迫转往伦敦的希斯罗机场或卢顿机场，或伯明翰、曼彻斯特、卡地夫、格拉斯哥，甚至巴黎、阿姆斯特丹等其他城市的机场。<br/><div class="contheight"></div>盖特维克机场当局表示，我们必须确定机场空域的安全，才能恢复开放机场。<br/><div class="contheight"></div>英国国防大臣威廉姆森(Gavin Williamsons)证实，军方已经介入协助塞克斯郡(Sussex)警方。他表示：“军方有一些特殊装备。虽然这不是出动军方的常见状况，但我们会到场协助，尽力让机场尽早重新开放。”<br/><div class="contheight"></div>除了国防部外，英国其他政府部门官员也将协助处理，并随时向首相特蕾莎•梅报告最新情况。<br/><div class="contheight"></div>据机场当局估计，航班受影响的状况会持续至21日，在盖特维克机场起降的航空公司都建议旅客先上网查询航班状况，若航班取消，就不要前往机场。<br/><div class="contheight"></div>在盖特维克机场起降最多航班的易捷航空(Ryanair)已经宣布，21日的所有航班将转往斯坦斯特德机场(London Stansted)起降。<br/><div class="contheight"></div>盖特维克机场营运长伍德罗夫(Chris Woodroofe)表示：“警方正在搜寻无人机的操控者，以制止无人机。”他还表示，警方并不希望将无人机击落，担心流弹可能造成误伤。<br/><div class="contheight"></div>伍德罗夫称，由于无人机飞行的位置太靠近跑道，开放跑道并不安全。目前大约有11000名旅客被迫滞留机场。<br/><div class="contheight"></div>据悉，无人机操控者若遭到逮捕，将面临5年有期徒刑。<br/><div class="contheight"></div>（原题为：《无人机入侵英国机场 数百航班延误十多万旅客滞留》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：廖婧雯<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 英国，无人机，航班</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2759063">
+<div class="nbgbox">
+<a class="zan" contid="2759063" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 航班延误</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2759063&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2759063&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

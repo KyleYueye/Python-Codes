@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">巴西新外长上任首日即宣称：将抛弃全球主义，聚焦爱国主义</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-03 14:03<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">在巴西30年来首位右翼总统雅伊尔·博索纳罗1月1日正式上任后，巴西新任外交部长埃内斯托•阿拉乌茹（Ernesto Araújo）在2日的就职演说中表示，巴西新政府将重新恢复此前较不具全球主义色彩的政策，聚焦于爱国主义。<br/><div class="contheight"></div>据路透社3日报道，在2日的宣誓就职演说中，阿拉乌茹表示，巴西人聚焦于爱国主义、减少关注全球秩序的时候到了，巴西将不再为国际性非政府组织的利益服务。 报道指出，阿拉乌茹对新政府在国际关系上的这番说法，标志着巴西将改变其传统的多边主义立场。<br/><div class="contheight"></div>就在上个月，前任巴西总统特梅尔在出席G20峰会时还强调，巴西坚定捍卫多边主义，在当前国际环境下，单边主义是行不通的。<br/><div class="contheight"></div>巴西EBC电视网3日的报道则对阿拉乌茹的演讲给出了更多的细节，报道称，在阿拉乌茹半个小时的演讲中，他对以色列、美国、意大利、匈牙利和波兰等国表示了钦佩，对这些国家的爱国主义立场和民族主义表示肯定。而对邻国委内瑞拉政府提出了批评。<br/><div class="contheight"></div>他说：“今天世界的问题不是仇外心理，而是恐惧，就是仇恨自己的家，自己的人民，践踏自己的国家。”<br/><div class="contheight"></div>阿拉乌茹还表示，新政府认为，巴西不需要服从全球主义以来促进其海外利益。 <br/><div class="contheight"></div>“我们经常以一个弱势的地位去参与谈判，好像我们请求要进入别的市场，实际上我们是有实力的，比如说，巴西是全球最大的食品生产国之一。”他说。<br/><div class="contheight"></div>“在多边政治体系中，特别是在联合国，我们将重新调整巴西的行动，支持对巴西人来说重要的事情。”阿拉乌茹补充道。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 巴西,外交</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2807782">
+<div class="nbgbox">
+<a class="zan" contid="2807782" href="javascript:;" onclick="voteCont(this)" praisetimes="86">
+                           85</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 巴西总统选举</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2807782&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2807782&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（43）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">“黄背心”运动领袖被法国警方逮捕：组织未经授权的抗议活动</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-03 22:24<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">法国政府正在采取更为严厉的措施，试图遏止“黄背心”运动的一直持续。<br/><div class="contheight"></div>据《卫报》1月3日报道，法国警方2日晚间逮捕并拘留了“黄背心”运动中公认的领袖和代表人物之一、卡车司机埃里克·杜洛埃（Eric Drouet），他被指控组织未经过政府授权的抗议活动。<br/><div class="contheight"></div>据报道，杜洛埃当晚是在前往巴黎香榭丽舍大街的路上遭到警方逮捕的，他原计划是要参与为在“黄背心”运动期间受伤的人而举行的蜡烛祈福活动，当晚已经有多位示威者在香榭丽舍大街等待杜洛埃的到来。<br/><div class="contheight"></div>法国经济部长勒梅尔在谈到杜洛埃被捕一事时表示，“这就是对法律的尊重，当你违反法律时，你必须面临相应的后果。”不过对此杜洛埃的律师则公开宣称此次逮捕是“完全没有道理和武断的”。<br/><div class="contheight"></div>现年33岁的卡车司机埃里克·杜洛埃（Eric Drouet）自“黄背心”运动伊始就是代表人物之一，他所创建的社交媒体在线讨论小组“愤怒的法国”（La France en colère）已经拥有了超过20万成员。这段期间，杜洛埃主动承担了“组长”的角色，在“黄背心”成员代表同政府代表会见时秘密拍摄和录音，然后将这些材料在网上公布。<br/><div class="contheight"></div>2018年11月17日，法国民众展开“黄背心”抗议活动，起因主要为抗议政府加征燃油税。活动首日就有逾28万法国民众参与了抗议示威。此后，每到周末，身穿黄背心的抗议者们就涌向巴黎的各种公共场所，抗议政府加征燃油税的决定。目前，根据法国民意调查公司Opinion Way1月1日最新进行的一项民调结果显示，目前仍有约一半的法国人(49%)支持“黄背心”抗议活动继续举行。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 黄背心,法国,马克龙</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2811054">
+<div class="nbgbox">
+<a class="zan" contid="2811054" href="javascript:;" onclick="voteCont(this)" praisetimes="182">
+                           181</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 巴黎“黄背心”抗议</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2811054&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2811054&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（91）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

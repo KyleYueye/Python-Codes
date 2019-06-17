@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">宁波市公安辅警全国率先持证上岗：加强队伍规范化建设</h1>
+<div class="news_about">
+<p>宁波日报</p>
+<p>
+							2018-10-28 21:46<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><p>记者10月27日从宁波市公安局获悉，日前宁波市有24名辅警代表率先拿到警务辅助人员上岗证，通过庄严宣誓成为全市首批持证上岗的辅警。据悉，公安辅警经过严格的上岗资格认证并持证上岗，是宁波市公安机关加强队伍规范化建设的又一创新举措，在全国属首创。<br/><div class="contheight"></div>“巡特警系统的辅警平时主要负责协助民警开展武装机动巡逻、便衣打击街面犯罪、设卡盘查和日常备勤任务。今年以来，通过指令、盘查等方式，协助民警抓获各类违法犯罪嫌疑人400余名，其中网上逃犯35名。”市公安局相关负责人说，全市近3万名辅警已成为宁波市公安机关维护社会稳定、治安安定和开展行政服务等工作中不可或缺的重要力量，是公安队伍的重要组成部分。<br/><div class="contheight"></div>近年来，宁波市公安辅警队伍各项管理工作日趋规范。市公安局对新招辅警的学历要求设置为大专以上。同时，相继出台并建立以《管理办法》为核心，以招录、奖惩、督查记分、队建制管理等12类规章制度为配套的管理制度体系。<br/><div class="contheight"></div>今年8月，市公安局在全省率先推出辅警上岗资格认证制度，将在职辅警分为治安巡控、交通协管、看押监管、警情处置、内勤助理等五类岗位进行上岗资格认证，对新招录的辅警结合岗前培训和试用期考核一并进行认证。<br/><div class="contheight"></div>截至目前，全市已有2万余名辅警通过了上岗资格理论考试、日常考核，由市公安局统一颁发上岗资格证书持证上岗。今后，对已取得上岗资格的辅警，公安机关将每隔2年进行一次资格审验，对在协助执勤执法过程中有违法违纪行为或者乱作为被投诉查实的，将取消其上岗资格，并及时收回上岗资格证书。<br/><div class="contheight"></div>（原标题为《 加强队伍规范化建设 我市公安辅警全国率先持证上岗》）</p></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：钟煜豪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 辅警</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2573686">
+<div class="nbgbox">
+<a class="zan" contid="2573686" href="javascript:;" onclick="voteCont(this)" praisetimes="123">
+                           122</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 辅警</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2573686&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2573686&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

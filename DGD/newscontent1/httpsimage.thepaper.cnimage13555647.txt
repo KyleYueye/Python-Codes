@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">韩认定金正恩胞妹金与正生于1988年，或在与朝接触中获知</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-28 08:49<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">韩国统一部在27日发行的2019版《朝鲜主要人物信息》，将朝鲜劳动党中宣部第一副部长金与正的出生年份标作1988年。也就是说，朝鲜国务委员会委员长金正恩的胞妹金与正今年30岁。<br/><div class="contheight"></div>据韩联社27日报道，在2018版《朝鲜主要人物信息》中，金与正被标注为“生年不详”，下列1987年、1988年、1989年生三种说法。美国政府去年1月将她的生年标作1989年，但当时统一部官员称难下定论。<br/><div class="contheight"></div>韩国统一部称，“综合考量各种情况”认定其生年。韩联社称，韩方可能在今年与朝方频繁往来密切接触的过程中获得了更确切的身份信息。<br/><div class="contheight"></div>和2018版《朝鲜主要人物信息》一样，今年金正恩的生日仍被标作“1984年1月8日（另有生于82、83年的说法）”。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="363" src="http://image.thepaper.cn/www/image/13/555/652.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">金与正（右一）在朝韩首脑会晤现场</span><br/><div class="contheight"></div>作为朝鲜最高领导人金正恩的胞妹，自今年朝鲜开始打破外交封锁进入国际舞台以来，金与正就频繁陪伴金正恩出现在各种场合中。在今年4月第一次“文金会”、今年6月的“金特会”，以及今年9月文在寅访朝过程中，金与正都扮演着不可忽视的角色而受到关注。更早之前，金与正还作为朝鲜代表团成员、金正恩的特使，与朝鲜最高人民会议常任委员会委员长、朝鲜劳动党中央政治局常委金永南一起，出席了在韩国平昌举行的冬奥会。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：辛恩波<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 朝鲜,金正恩,金与正</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780482">
+<div class="nbgbox">
+<a class="zan" contid="2780482" href="javascript:;" onclick="voteCont(this)" praisetimes="86">
+                           85</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 金与正</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780482&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780482&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

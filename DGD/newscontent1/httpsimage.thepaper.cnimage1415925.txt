@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">江西南丰县人民政府行政干预司法被通报，有关责任人被问责</h1>
+<div class="news_about">
+<p>江西政读</p>
+<p>
+							2019-01-11 10:52<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">信息日报江西政读注意到，近日，抚州市人民政府公开通报称， 南丰县人民政府行政干预司法， 发函检察院建议撤销八宗占用林地案件 ，致使这几起非法占用林地案件没有得到及时查处。目前，南丰县政府已撤销该建议函，对该八宗占用林地案件重新进行审理，并对相关责任人进行了问责。<br/><div class="contheight"></div> 通报称，2018年9月17日至22日，国家林草局驻福州专员办检查南丰县落实保护发展森林资源目标责任制工作中，发现南丰县人民政府在森林资源保护管理工作中存在行政干预司法、“乱作为”的情况。经国家林草局驻福州专员办检查反馈，南丰县人民政府于2016年5月发函县检察院，建议撤销“金吉尔有限责任公司违法使用林地案”、“安石油液化气站违法使用林地案”、“县人民医院违法使用林地案”、“桔都小学违法使用林地案”、“桔都阳光城违法使用林地案”、“小隐山庄食业有限公司违法使用林地案”、“三龙管业有限公司违法使用林地案”、“县交通运输局、太和镇、白舍镇违法使用林地案件”等八宗占用林地案件，致使这几起非法占用林地案件没有得到及时查处。<br/><div class="contheight"></div> 2018年11月12日，国家林草局驻福州专员办与省林业局联合对南丰县人民政府进行了约谈，福州专员办在约谈中强调指出：南丰县行政干预司法事件的发生，反映出南丰县人民政府在落实生态环境和资源保护的主体责任、森林资源保护管理和执法监督等方面存在严重不足，既暴露了地方政府发展理念的偏差、生态保护责任落实不到位和政策措施不落实的问题，也暴露了南丰县森林资源保护严重缺位、资源监管严重缺失，干部群众依法使用林地意识薄弱等问题，要求南丰县依法立即整改。<br/><div class="contheight"></div> 南丰县人民政府在森林资源保护工作中行政干预司法的行为，对抚州市生态文明先行示范区建设和正在实施的“林长制”工作产生了极为不良的影响。<strong>南丰县人民政府和时任南丰县县长向市委、市政府作了深刻检查，认真分析问题产生的原因，提出整改措施，并立即进行整改，对时任南丰县人民政府分管负责同志进行诫勉谈话。</strong>目前，南丰县政府已撤销该建议函，对该八宗占用林地案件重新进行审理，并对8名相关责任人进行了问责。<br/><div class="contheight"></div> 抚州市政府要求各县（区）要引以为戒，深刻汲取教训，切实抓好保护和发展森林资源工作。各级党政主要负责同志，要切实担负起保护发展森林资源的主体责任，树立和践行绿水青山就是金山银山的理念，正确处理好经济发展同生态环境保护的关系，坚持最严格的森林资源保护管理制度，守护好绿水青山。<br/><div class="contheight"></div> 南丰县之所以发生行政干预司法的现象，与平时学习不够、法制意识不强有很大关系，认为只要是为了发展，破坏点森林资源无所谓，存在“发展要上、生态要让”的片面思想。各级领导干部一定要加强法律法规学习，严格遵守法定程序，认真把握政策底线，依法行使人民赋予的权利，做到有权不任性。 <br/><div class="contheight"></div>（原题为《重磅| 南丰县人民政府行政干预司法被通报 有关责任人被问责》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 干预司法,问责</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2840778">
+<div class="nbgbox">
+<a class="zan" contid="2840778" href="javascript:;" onclick="voteCont(this)" praisetimes="99">
+                           98</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 干部干预司法</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2840778&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2840778&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（34）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

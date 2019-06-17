@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">12年献血40次，上海一博士获“全国无偿献血奉献奖金奖”</h1>
+<div class="news_about">
+<p>澎湃新闻记者 臧鸣</p>
+<p>
+							2018-12-26 19:16<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/526/361.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">薛琪薪献血现场图。本文图片均由华东师范大学 提供</span><br/><div class="contheight"></div>坚持献血12年，用薛琪薪的话来讲，“献血”早已成为他健康生活的一部分。<br/><div class="contheight"></div>薛琪薪是华东师范大学社会发展学院2017级人口学博士。十二年来，他累计捐献全血、血小板达40次。<br/><div class="contheight"></div>12月20日，刚刚被国家卫生健康委员会、中国红十字会总会、中央军委后勤保障部卫生局评为“2016-2017年度全国无偿献血奉献奖金奖”的上海市闵行区固定献血者薛琪薪，又来到梅陇爱心献血屋再次捐献出双份血小板。<br/><div class="contheight"></div>自2006年12月入党以来，薛琪薪积极参加志愿者活动，先后在徐汇区、奉贤区、虹口区、闵行区等地的献血屋和流动献血车参加无偿献血活动。<br/><div class="contheight"></div>他希望通过自己的努力，让更多的人少一分死的威胁，多一分生的希望。让血液流动，让生命延续是他的理念。<br/><div class="contheight"></div>作为新时代的青年人和一名有着十年党龄的老党员，薛琪薪对无偿献血事业有着自己的独特理解和认识，不仅自己积极参加无偿献血活动，还带动身边的同学朋友共同参与进去，帮助更多的病人。<br/><div class="contheight"></div>2018年1月，他获得上海市红十字会、上海市血液中心颁发的“快乐奉献奖”和“动力火车奖”。<br/><div class="contheight"></div>此外，薛琪薪还加入了中国造血干细胞库和中国人体器官捐献管理中心，成为志愿者，希望能以更多的方式帮助和挽救他人的生命，让爱心一点点传递下去。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/526/365.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/526/373.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">薛琪薪获得上海市红十字会、上海市血液中心颁发的“快乐奉献奖”和“动力火车奖”。</span></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：高文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 无偿献血,华东师范大学</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2777179">
+<div class="nbgbox">
+<a class="zan" contid="2777179" href="javascript:;" onclick="voteCont(this)" praisetimes="70">
+                           69</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 无偿献血</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2777179&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2777179&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

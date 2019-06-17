@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">上海市政府举行全体会议，部署岁末年初各项工作</h1>
+<div class="news_about">
+<p>澎湃讯</p>
+<p>
+							2018-12-26 14:08<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="429" src="http://image.thepaper.cn/www/image/13/518/770.jpg" width="600"/></div>上海市政府今天（12月26日）举行全体会议，贯彻落实中央经济工作会议精神，审议2019年《政府工作报告》（征求意见稿），部署岁末年初各项工作。上海市委副书记、市长应勇主持会议并强调，明年是新中国成立70周年，是全面建成小康社会的关键一年，也是完成“十三五”规划的重要一年，做好明年工作至关重要。各区、各部门要深入贯彻落实习近平总书记考察上海重要讲话精神，按照上海市委、市政府要求，只争朝夕、奋楫向前，<strong>尽快排定明年工作的路线图、时间表、责任人，早部署、早启动、早落实、早见效，以良好的开局进一步稳定预期、增强信心，为完成全年目标任务打下坚实基础。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="346" src="http://image.thepaper.cn/www/image/13/518/772.jpg" width="600"/></div></strong>上海市领导周波、翁铁慧、吴清、许昆林、彭沉雷、陈群、龚道安出席会议并作审议发言。上海市政府研究室对《政府工作报告》起草情况作了说明，部分委办局负责人提出修改意见和建议。<br/><div class="contheight"></div>应勇指出，会议原则通过《政府工作报告》（征求意见稿），上海市政府研究室要认真研究、充分吸收大家提出的意见和建议，集思广益，进一步把《报告》修改好。时值岁末年初，要认真分析明年经济社会发展面临的形势，<strong>既要看到完成明年目标任务需付出更加艰辛的努力，也要看到中央交给上海的三项新的重大任务带来的重大机遇，保持战略定力，坚定发展信心，</strong>在中央和市委的坚强领导下，振奋精神，扎实工作，<strong>确保明年各项工作开好局、起好步。</strong><br/><div class="contheight"></div>应勇指出，元旦、春节即将来临，人流物流高度集中，事故多发易发，要<strong>牢牢</strong><strong>守住城市安全红线和底线，严格落实安全责任制，</strong><strong>绝不能有丝毫侥幸和麻痹，绝不能有须臾疏忽和懈怠。</strong>要深入排查和整治安全隐患，<strong>切实做好大人流安全、交通安全、消防安全、食品安全、生产安全等安全防范工作，</strong>确保不发生重特大安全事故。要严密做好反恐维稳工作，维护社会平安有序、和谐稳定。要保障好市场供应，按照量足、价稳、质优、安全的要求，做好主副食品等节日市场供应。始终保持水电气设施安全、正常供应，让市民群众度过欢乐祥和的元旦和春节。要做好困难群众帮扶救助，<strong>精心组织实施好帮困送温暖工作，更加注重雪中送炭，多解群众燃眉之急。要加强对重点行业企业工资支付的督促检查，切实保护好职工特别是农民工的合法权益。</strong>同时，要服务和参加好市“两会”。<br/><div class="contheight"></div>应勇强调，<strong>越是年节期间，越要绷紧财经纪律这根弦。</strong>要深入落实中央八项规定及其实施细则精神，严格执行财经管理制度，<strong>牢固树立勤俭做一切事情、节约办一切活动的理念，</strong>决不允许突击花钱，决不允许用公款请客送礼，决不允许用公款滥发福利。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 应勇,上海市政府全体会议</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776237">
+<div class="nbgbox">
+<a class="zan" contid="2776237" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 应勇</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776237&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776237&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">华盛顿一地铁站有人燃放烟花，乘客误以为枪击惊慌逃离</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2019-01-05 14:20<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网1月5日电，据外媒报道，美国首都华盛顿一个地铁站2日发生一宗恶意引起恐慌事件，2名男子在列车靠站期间，竟在车厢大放烟花，导致不少乘客以为发生枪击，遂惊慌失措地逃离，幸而未引发伤亡。警方调查后锁定疑犯，目前正在追缉。<br/><div class="contheight"></div>当晚约9时半许，当地铁驶至邻近NBA球队华盛顿巫师队主场的嘉丽里地道-中国城站(Gallery Place – Chinatown)，并打开车门时，突然传出了多下巨响，令现场乘客以为听到了枪声，遂蜂拥逃命到地面。<br/><div class="contheight"></div>现场人士指当时十分这可怕，月台遗下民众弃置的杂物，一片狼藉。警察接报后赶抵现场，并在一分半钟内就确定事件是虚惊一场，相信有人点燃烟花。及后当局公布疑犯的照片，呼吁民众提供相关线索协助缉捕。<br/><div class="contheight"></div>（原题为《华盛顿一地铁站有人燃放烟花，乘客误以为枪击惊慌逃离》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 地铁站</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2817424">
+<div class="nbgbox">
+<a class="zan" contid="2817424" href="javascript:;" onclick="voteCont(this)" praisetimes="61">
+                           60</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 地铁站</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2817424&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2817424&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（40）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

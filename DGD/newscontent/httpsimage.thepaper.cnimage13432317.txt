@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">上海一酒店宴会厅大门突然倒下，一七岁男童被砸成重伤</h1>
+<div class="news_about">
+<p>澎湃新闻记者 李菁</p>
+<p>
+							2018-12-23 19:31<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="297" src="http://image.thepaper.cn/www/image/13/432/313.jpg" width="530"/></div><div><span style="color: rgb(128, 128, 128);">本文图均为 新民网 图</span></div><div>12月22日上午8点半左右，一名7岁男童在上海虹桥美爵酒店参加凯顿美语培训班的活动时，被酒店宴会厅突然倒下的大门砸成重伤。这已是最近半个月内，继飞洲国际广场试衣镜倒下砸到6岁女童之后，上海发生的第二起公共场所大物件设施突然倒落事件。</div><div style="text-align: center;"><img alt="" height="170" src="http://image.thepaper.cn/www/image/13/432/314.gif" width="215"/></div>据媒体此前报道，22日当天，在这名男童被砸伤后，原定于9点半在酒店宴会厅举行的活动仍照常举行，门口也无任何警示标志。<br/><div class="contheight"></div>12月23日，虹桥美爵酒店市场传讯总监宋女士告诉澎湃新闻，22日事故发生后，酒店两名相关负责人于当天白天在医院全程陪同男童并支付了医疗费。23日早上的探视时间开始后，除陪同人员外，酒店和集团相关负责人也去医院表示了慰问。“他们看到，目前男童状态相对稳定。”宋女士说。<br/><div class="contheight"></div>宋女士还表示，目前酒店首要关注的问题，是男童的恢复状况。在3天观察期内，酒店相关工作人员仍将在医院密切陪同。3天观察期后，酒店将根据法律责任及家长需求调整处理方案。<br/><div class="contheight"></div>宋女士称，宴会厅大门共有8扇，其中对外开放供客人进出的有4扇。大门已经使用不少年份，定期会做保养维修。在最近一年内，该大门还曾被拆卸下来，运送至供应商处做过外表翻新。<br/><div class="contheight"></div>此次事故发生后，大门已被送至供应商处，以调查其突然倒下的原因，酒店方面也在等待结果。待原因调查清楚后，为保证公平公正，酒店可能会请第三方鉴定机构来鉴定责任。<br/><div class="contheight"></div>那么，为何在事故发生后，原定活动仍如期举行？对于这个问题，宋女士表示她并不知情，她同时也表示，酒店方面肯定不会要求活动必须照常举行。<br/><div class="contheight"></div>23日下午，澎湃新闻记者致电活动主办方凯顿美语学校，询问这起事故的后续情况，客服人员称相关工作人员会给予回复。但截至发稿时，记者暂未收到其回复。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：栾晓娜<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 酒店大门倒下,男童被砸重伤</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766511">
+<div class="nbgbox">
+<a class="zan" contid="2766511" href="javascript:;" onclick="voteCont(this)" praisetimes="40">
+                           39</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 男童被砸重伤</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766511&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766511&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

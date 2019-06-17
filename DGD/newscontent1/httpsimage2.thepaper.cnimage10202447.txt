@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜超载罚单“年票制”，如此怠政怎能不“越治越超”</h1>
+<div class="news_about">
+<p>澎湃特约评论员 杨于泽</p>
+<p>
+							2018-09-06 11:35<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2411974" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜超载罚单“年票制”，如此怠政怎能不“越治越超”" src="//image1.thepaper.cn/image/10/185/994.jpg"/>
+</a>
+<div class="atlas_360_txt">督查组暗访：重庆丰都交通行政执法大队开“年票制”罚单<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">如果车辆超载或违法改装，车主或货车所属企业只要缴纳2000元罚款，即可一年畅行无阻……<br/><div class="contheight"></div>国务院督查组近日在重庆暗访，接到多名大货车司机反映，丰都县交通行政执法大队存在罚单“年票制”、以罚代管、执法尺度不一等涉嫌违规执法的问题。 <br/><div class="contheight"></div>“罚一次管一年”，这就是人们常说的交通罚单“年票制”。货车超载，给公路交通带来巨大安全隐患，同时严重损毁公路设施。按照相关法规，对于超载车辆，必须卸载超载重量并处罚款、驾驶证扣分等，才能放行。实行罚单“年票制”，实际上给超限超载、违法改装大开了方便之门。 <br/><div class="contheight"></div>表面上看，搞罚单“年票制”是执法不规范、工作作风不严不实。但罚单“年票制”，并非丰都一时一地的“发明创造”，而是很多地方治理超限超载的潜规则。央视《焦点访谈》今年元月曾经曝光，办理罚款“月票”“年票”、以罚代管以及治超不作为等问题，在一些地方仍然普遍存在。 <br/><div class="contheight"></div>本来是要治超，结果各地治超本身也亟待治理。对于罚单“年票制”，各地早有发现，但按下葫芦浮起瓢，俨然成了“打不死的小强”。这10多年来，超载治理一直是上至国务院、下到地方政府的要务之一，但正如媒体所言，超载治理本身有“越治越超”之虞。 <br/><div class="contheight"></div>问题曝光后，丰都县政府主要负责人表示，将在全县开展执法作风专项整治行动。看来当地是将其归于执法作风问题。问题恐怕不止于此。 <br/><div class="contheight"></div>对于以罚代管、罚单“年票制”，实际上存在一种货车与执法者的同谋与共犯结构。在一种违法行为很普遍的情况下，执法者严格执法的成本很高，而不作为的代价却十分低廉。以罚代管，包括罚单“年票制”，本质是执法不作为，同时也让超限超载者以较小成本获得了逃避更重处罚的机会。 <br/><div class="contheight"></div>想要打死以罚代管、“年票制”这只“小强”，必须解除背后的同谋与共犯结构。而要解除双方“以罚代管”共谋，必须减少货车司机超载违法，相应地，需要大幅降低我国公路运输成本。但当前，公路运输存在一种“越是罚款越要超载，越是超载越要罚款”的恶性循环，运输成本降不下来，货车如果不超载，货主、司机都没钱赚，甚至还要亏本。 <br/><div class="contheight"></div>我国货车运输成本及其结构到底如何，现在似乎还没有权威的说法。也正因为情况不明，治超变成一场没完没了的作风整治。据长途货车司机们说，如果严格按规章来，出趟车一路要缴各种罚款几万元。这是很可怕的。<br/><div class="contheight"></div>有关部门应当认真调查研究，拿出切实有效的方案。一方面整顿交警执法作风、规范执法行为；另一方面，也要想办法降低物流成本，让司机不靠违法超载，也有钱赚。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 罚单“年票制”</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2413565">
+<div class="nbgbox">
+<a class="zan" contid="2413565" href="javascript:;" onclick="voteCont(this)" praisetimes="79">
+                           78</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 交警罚单</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2413565&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2413565&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（40）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

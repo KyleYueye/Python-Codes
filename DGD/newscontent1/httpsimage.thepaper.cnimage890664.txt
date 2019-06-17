@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜《阿修罗》被撤档 ，影片的锅还是黑粉的锅要说清楚</h1>
+<div class="news_about">
+<p>澎湃特约评论员 西蒙</p>
+<p>
+							2018-07-16 19:23<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">15日，电影《阿修罗》官方微博发布公告，称经全体投资方决定，《阿修罗》将于7月15日晚间22点起撤档停映。对于紧急撤档，影片宣传方回应称“不清楚原因”，出品方之一表示并非影片本身的问题，更多的是猫眼评分等不公正的市场环境所致。（中国新闻网7月16日）<div style="text-align:center;"><img alt="" height="774" src="http://image.thepaper.cn/www/image/8/906/49.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">电影《阿修罗》官方微博发布的公告<br/><div class="contheight"></div></span>《阿修罗》算得上“大制作”：总投资高达7.5亿，工作人员来自35个国家，联合出品方多达20家。据称，片方原本预期内地票房破30亿。<br/><div class="contheight"></div>但理想很丰满，现实很骨感。《阿修罗》没能带来与投资相匹配的成绩，反而在“叫好”与“叫座”两个维度陷入了全面溃败。上映三天票房仅4641.01万；截至今天14点前夕，豆瓣评分3.1，猫眼评分6.4，淘票票评分4.6分。负面评价也比比皆是。多数网友认为，《阿修罗》的视听效果、特技水平还不错，但剧情单薄，讲故事的能力平庸，缺乏好电影的灵魂——故事情节、精湛演技、丰富的内涵和艺术表现力，精彩的特技也只能沦为空洞的“炫技”。<div style="text-align:center;"><img alt="" height="840" src="http://image.thepaper.cn/www/image/8/906/54.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">电影《阿修罗》海报<br/><div class="contheight"></div></span>近年来，国产电影在资金投入和技术水平上突飞猛进，不少人渴望模仿好莱坞式的大制作，以增加电影的效果与感染力。但熟悉电影的人都知道，好莱坞大片固然技术发达，但其经典好片一定是依靠出色的剧本和精彩的表演的，即便《阿凡达》、《2012》等“场面很大”的大片，其故事本身就有很深刻的内涵。如果只是为了呈现夺目的画面而执着于搞特技，就本末倒置了。<br/><div class="contheight"></div>因此，《阿修罗》的问题，恐怕首先还是跟影片本身的质量有很大关系。<br/><div class="contheight"></div>但是，片方质疑在线售票平台猫眼存在“黑水问题”，导致影片在该平台只有4.9分，与淘票票的8.4分相差甚远，也不能不引发重视。据中新网报道，面对指责，有猫眼的工作人员表示该平台上的评分都是客观、公正的。其实，类似事情不是第一次发生了。但争论到最后，往往陷入各说各话的无解循环中。固然不能认为打分网站的负面评价都是“黑水”，但也不能否认可能存在的“黑化”行为。<br/><div class="contheight"></div>对此，不妨以此次《阿修罗》撤档为契机，澄清事实、明确责任。如果是平台单方面打分低造成的负面影响，片方可以依法维权；若仅仅是因为影视剧本身质量问题，片方自身应更多反思，承担属于自己的责任，而不能在影片引发负面评价后，就认为甩锅打分平台的做法屡试不爽、毫无风险。<br/><div class="contheight"></div>但不管怎么说，观众希望看到一个更精彩、配得上大投资的影片，这种心理是合理的，也是最值得重视的。电影人理应明白，无来由地将电影撤档，固然会影响各方利益，但归根结底还是会让那些对影片有期待的观众伤心，打击他们对电影艺术的热情。不能让观众在片方与打分平台及各市场方的博弈大战中，沦为被割的韭菜。<br/><div class="contheight"></div>一个不得不承认的现实是，一些国产电影对好莱坞大片的模仿到了亦步亦趋的地步，其实大没必要如此。国产电影完全可以从传统的中国元素里挖掘好故事，对好莱坞的学习也应该是全面而深刻的，而非止步于表面的“大制作”、“高特技”。如何利用充裕的资金和强大的制作团队来讲好一个故事，需要所有电影人深入思考。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 《阿修罗》撤档</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2268175">
+<div class="nbgbox">
+<a class="zan" contid="2268175" href="javascript:;" onclick="voteCont(this)" praisetimes="38">
+                           37</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 电影撤档</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2268175&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2268175&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（113）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

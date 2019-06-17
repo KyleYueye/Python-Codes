@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">被扣分的老司机注意啦！这个网络平台可以满分教育、办理审验</h1>
+<div class="news_about">
+<p>澎湃新闻记者 朱奕奕</p>
+<p>
+							2019-01-08 12:07<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="393" src="http://image.thepaper.cn/www/image/14/28/587.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">交警讲解网络平台使用。 本文图片 澎湃新闻记者 朱奕奕<br/><div class="contheight"></div></span>足不出户，机动车驾驶人就能完成网上预约学习、审验。<br/><div class="contheight"></div>为方便机动车驾驶人参加“两个教育”（审验教育、满分教育），上海公安交管部门再推“放管服”改革新举措，依托“交通安全综合服务管理平台”进一步拓展服务和管理渠道，使驾驶人通过互联网即可申请并参加“两个教育”学习，网上完成审验教育后还可足不出户办理审验手续。<br/><div class="contheight"></div>1月8日，上海警方向澎湃新闻（www.thepaper.cn）记者透露上述信息。<br/><div class="contheight"></div>据上海交管部门介绍，以往申请驾驶证审验或满分教育，除了需挤出时间到交管部门现场办理，还往往遭遇排队等候的尴尬场景。现如今，只要登录“交通安全综合服务管理平台”（sh.122.gov.cn），使用专为“两个教育”量身打造的网申功能，就可轻轻松松搞定预约手续。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/14/28/565.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">交通安全综合服务管理平台。</span><br/><div class="contheight"></div>“两个教育”是指机动车驾驶人违法记分满分教育和审验教育，简言之是对重点驾驶人的交通安全教育。<br/><div class="contheight"></div>其中，满分教育是指机动车驾驶人在一个违法记分周期内累积记分达到12分及以上的，机动车驾驶人应当参加为期七日的道路交通安全法律、法规和相关知识学习。<br/><div class="contheight"></div>审验教育是指持有大中型客货车驾驶证的机动车驾驶人，在一个记分周期内有记分且尚未达到12分的，持有其他准驾车型驾驶证发生交通事故造成人员死亡承担同等以上责任未被吊销驾驶证的以及校车驾驶人，审验时应当参加不少于三小时的道路交通安全法律法规、交通安全文明驾驶、应急处置等知识学习，并接受交通事故案例警示教育。<br/><div class="contheight"></div>通过该平台，驾驶人可通过互联网自行选择教育方式，自由掌控接受教育的时间。参加审验教育的驾驶人，除了可网上申请、网上学习，还能在网上直接办理审验业务，一年一度的审验手续全程通过互联网平台搞定。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/14/28/566.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">学习期间系统会对学习人进行不定期抓拍，并在后台对抓拍图像进行人脸比对。</span><br/><div class="contheight"></div>值得一提的是，网络学习平台要求满分审验教育人每日学习3小时以上，学习期间系统会对学习人进行不定期抓拍，并在后台对抓拍图像进行人脸比对，若不符合或者存在欺骗行为，会被取消网络预约学习资格，情节严重的会在3年内被封禁网络平台使用资格。<br/><div class="contheight"></div>警方介绍，“两个教育”网申功能目前全面开启，自2018年底试运转以来已有5000余名机动车驾驶人申请办理。<br/><div class="contheight"></div>在满分考试考点上，市民王先生告诉记者，自己因为未按规定悬挂临时牌照而扣满12分，需要进行安全教育学习和考试。“我也是老司机了，以前学的政策法规都过时了，要抓紧机会认真学习。”王先生说，有了网络学习平台，自己安排学习的时间和考试的时间都更灵活机动了，是切实的便民措施。<br/><div class="contheight"></div>此外，在推广应用“两个教育”网络学习平台的同时，上海公安交警部门还大力完善学习教育场所建设，迄今已在全市各区设立了满分审验教育点，提供现场教育与网络教育有机结合的学习方法，满足驾驶人现场学、网上学等多元化需求。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑浩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 审验教育,满分教育,网络平台</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2826873">
+<div class="nbgbox">
+<a class="zan" contid="2826873" href="javascript:;" onclick="voteCont(this)" praisetimes="104">
+                           103</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 便民措施</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2826873&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2826873&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

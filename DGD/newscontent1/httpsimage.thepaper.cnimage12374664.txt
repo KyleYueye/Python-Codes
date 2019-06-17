@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜离职前退工作群都懂，删同事微信算哪门子规定？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 史洪举</p>
+<p>
+							2018-11-18 21:31<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2646503" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜离职前退工作群都懂，删同事微信算哪门子规定？" src="//image2.thepaper.cn/image/12/362/810.jpg"/>
+</a>
+<div class="atlas_360_txt">辞职前领导要求删除同事微信，他的隐私权被侵犯了吗？<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">据媒体报道，今年7月26日，工作三年多的王先生在某公司离职时，领导要求他先删除同事的微信，才能在离职文件上签字。王先生表示，当时为了尽快辞职便同意了，但事后意识到，被侵犯了隐私权。<br/><div class="contheight"></div>辞职还要先删同事微信？这事令网友炸了锅，还上了话题热搜。大家之所以关注，恐怕还是因为，现在无论生活还是工作中，微信已成为交流的重要工具和平台，一些用人单位也对员工如何使用微信作出了相应规定。“离职前自觉退工作群”，大概是大家最熟悉的一条，但要求离职前先删除同事微信的做法，还是较为罕见。<br/><div class="contheight"></div>应该看到，当微信、微信群成为职场交流的重要平台时，其对于用人单位及劳动者的重要作用不言而喻。很多通知、文件、培训资料、营销方案、会议内容都可能通过微信或微信群在同事之间发布和传递。这样一来，微信和微信群几乎承载着用人单位的信息转递和工作推动等“重任”。<br/><div class="contheight"></div>就此而言，用人单位自然有权对员工如何使用微信作出规定，比如不得通过微信传递“涉密”内容，不得在朋友圈发布与工作有关的内容，不得将工作群内的资料泄露……只要这种规定不侵犯劳动者的隐私权和通信自由，员工理当予以适度容忍，并严格遵守和执行。<br/><div class="contheight"></div>但具体到新闻中，领导要求离职的下属先删除同事的微信，否则不在离职文件上签字，则涉嫌过度介入劳动者个人生活，甚至涉嫌侵犯隐私权和通信自由。<br/><div class="contheight"></div>在微信成为大众交流工具的前提下，微信好友自然成为人们社会交际、人际交流的重要内容。作为劳动者，只要不属于特殊岗位，与何人交往，添加何人为好友，屏蔽何人、删除何人，完全属于自己权利的一部分，他人无权干涉。其微信好友的数量、名称、对象等属于应受保护的个人信息和隐私，也属于他人无权窥视的通信自由和通信秘密。<br/><div class="contheight"></div>也就是说，即便苛刻到工作时间不允许玩手机、携带手机的用人单位，也无权强制检查、删除员工的手机内容和微信好友。除非该员工属于“涉密”等特殊工种，而且这也应以用人单位给予相应补偿为前提。<br/><div class="contheight"></div>王先生所在的，是一家保险公司，确实可能存在频繁跳槽、互相挖人等现象。王先生的领导为了“保护团队”，让辞职员工删除同事微信，但他显然没想到，如果辞职员工存心要“拉拢”、“策反”前同事，也可通过电话、见面等其他方式，何必非得通过微信？<br/><div class="contheight"></div>前段时间，还有一条《员工与离职同事吃散伙饭，被老板威胁辞退》的新闻，不妨对照着看。这其实是劳动者处于弱势地位的缩影。要想改变这种局势，既需要劳动者的据理力争，又需要监管部门及时介入、干预、惩戒，这样方能打消用人单位无视劳动者基本权利的“傲慢与偏见”。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：黎凡<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 微信</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2647623">
+<div class="nbgbox">
+<a class="zan" contid="2647623" href="javascript:;" onclick="voteCont(this)" praisetimes="97">
+                           96</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 微信</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2647623&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2647623&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（47）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

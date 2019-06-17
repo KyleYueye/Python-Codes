@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">中央批准最高检内设机构改革方案，增设未成年人检察机构</h1>
+<div class="news_about">
+<p>姜洪/“检察日报”微信公号</p>
+<p>
+							2018-12-14 16:50<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="350" src="http://image.thepaper.cn/www/image/13/194/389.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">12月14日，第二届全国检察机关未成年人检察业务竞赛完美收官，最高人民检察院党组书记、检察长张军接见全体参赛选手并与大家合影留念。 本文图片均由程丁 摄   </span><br/><div class="contheight"></div>检察日报北京12月14日消息，94名检察官寒冬“京城论剑”为了啥？提升“护苗武功”。经过长达一周的激烈角逐，12月14日，第二届全国检察机关未成年人检察业务竞赛完美收官，10名参赛选手问鼎业务标兵。最高人民检察院党组书记、检察长张军接见全体参赛选手，对如何做好新时代未成年人检察事业提出希望。<br/><div class="contheight"></div>“这次业务竞赛，大家经过层层选拔最终‘进京赶考’，考中了‘状元’‘榜眼’‘探花’，每一个人的精神面貌都非常好。”张军希望大家始终保持锐意进取的精神状态，持续提升业务素质能力，勇担未检事业发展的使命责任，为新时代未检工作发展、中国特色未成年人司法保护制度成熟完善贡献智慧和力量，收获成长和成才。<br/><div class="contheight"></div>张军表示，中国特色社会主义进入新时代，人民群众在民主、法治、公平、正义、安全、环境等等方面有了新的更高水平、内涵更丰富的需求，希望有更多的获得感、幸福感、安全感。做好未成年人检察工作，就能为每个家庭、每一所幼儿园和中小学学校带来获得感、幸福感、安全感以及对未来的美好预期。未成年人检察工作在新时代是没有止境的，要深入思考如何把工作做到前面、延展到后面。<br/><div class="contheight"></div>张军指出，检察工作是政治性很强的业务工作，也是业务性很强的政治工作，检察业务标兵、能手同时也应该是讲政治的标兵、能手。具体业务工作方法在“书上”能找到、在具体办案中能总结出来，但做好未成年人思想深处的工作以及涉及相关单位的社会工作是最难的，没有标准，要靠大家把讲政治和抓业务有机结合起来，落实以人民为中心的要求，打牢未成年人检察事业的基础。<br/><div class="contheight"></div>“因为全体检察人员的共同努力，未成年人检察工作得到党和人民的肯定，在机构设置上有了新的变革性进展。”张军高兴地说，<strong>最近中央批准了最高检的内设机构改革方案，增设未成年人检察工作内设机构，作为业务序列的第九检察厅，专门负责未成年人检察工作。</strong>这体现了党中央对未成年人司法保护的高度重视。最高检将做好顶层设计，和大家一道总结经验、开拓创新，努力开创新时代未检工作新局面，更好地维护未成年人权益，保障未成年人健康成长。<br/><div class="contheight"></div>第二届全国检察机关未成年人检察业务竞赛12月9日至13日举行。经过策论写作、业务笔试、以案释法与业务答辩、附加对抗赛四个环节的激烈比拼，王帆、陈霞、陈祺、张慧、申文宽、戴敏佳、刘艳、李雪君、陈明南、王金倩10名参赛选手从94名参赛选手中脱颖而出，获得“第二届全国检察机关未成年人检察业务竞赛业务标兵”。郑蕾等40名参赛选手获得“第二届全国检察机关未成年人检察业务竞赛业务能手”。浙江省检察院、四川省检察院、上海市检察院、河南省检察院、内蒙古自治区检察院获得优秀组织奖。<br/><div class="contheight"></div>（原题为《中央批准最高检内设机构改革方案！增设未成年人检察机构！》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 未成年人检察机构</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2739681">
+<div class="nbgbox">
+<a class="zan" contid="2739681" href="javascript:;" onclick="voteCont(this)" praisetimes="877">
+                           876</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 未成年人检察机构</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2739681&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2739681&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（546）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

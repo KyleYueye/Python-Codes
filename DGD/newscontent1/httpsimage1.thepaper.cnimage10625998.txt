@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">北京高院：恶意侵权者从高惩罚，加大当事人伪证处罚力度</h1>
+<div class="news_about">
+<p>澎湃新闻记者 庄岸 实习生 孙小咪</p>
+<p>
+							2018-09-20 12:52<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"> 知识产权审判中存在的举证难、赔偿低、周期长等问题有了应对方案。9月20日，北京高院发布《关于加强知识产权审判促进创新发展的若干意见》。澎湃新闻注意到，上述意见要求探索涉知识产权案快速审理和执行机制，从高惩罚恶意侵权者并强化当事人伪证处罚力度。<br/><div class="contheight"></div>《意见》共七部分37条内容，主要规定了涉及创新发展技术及相关案件的审理规则和要求，提出了破解制约知识产权审判发展的体制机制障碍的具体措施。同时，对统一司法标准，提升专业审判能力、建立专业审判队伍、延伸审判职能等问题作出了规范和指引。<br/><div class="contheight"></div>“目前知识产权审判还有很多短板和不足。”北京高院知识产权庭庭长杨柏勇指出，目前影响企业创新发展的司法问题主要有：司法审判对产业发展考虑不足、裁判规则适用过于机械、程序保障不到位、制裁侵权行为力度不够、知识产权诉讼取证困难、损害赔偿数额偏低、案件审理周期过长、司法与行政衔接不足等等。<br/><div class="contheight"></div>对于举证难问题，《意见》加大了对当事人作伪证的处罚力度，明确提出对当事人故意逾期举证、毁损隐匿证据、妨碍证人作证和证据保全等行为，依法予以制裁。对当事人作伪证的，依法给予罚款、拘留或者追究刑事责任，并从严审查该当事人提交的其他证据。<br/><div class="contheight"></div>关于赔偿低问题，《意见》指出，有证据证明实际损失或侵权获利数额明显超过法定赔偿最高限额的，可以在法定赔偿最高限额之上合理确定赔偿数额。对恶意侵权或重复侵权情节严重的，依法从高认定赔偿数额或予以惩罚性赔偿。<br/><div class="contheight"></div>对于周期长问题，《意见》建议注重案件繁筒分流，探索涉及创新发展的知识产权案件的快速审理和执行机制。通过优化诉讼程序，减少滥用诉权、恶意诉讼等不正当行为的出现，进而防止循环、拖延诉讼。加强各审判庭之间的沟通协调，探索与公安、检察机关的协作机制。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：卫佳铭<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 知识产权,惩罚,伪证</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2459175">
+<div class="nbgbox">
+<a class="zan" contid="2459175" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 保护知识产权</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2459175&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2459175&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

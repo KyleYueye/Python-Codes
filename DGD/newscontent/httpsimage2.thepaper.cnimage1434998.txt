@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25490">打虎记</a>
+</div>
+<h1 class="news_title">湖北襄阳市人大常委会原副主任王代全被开除党籍取消退休待遇</h1>
+<div class="news_about">
+<p>中央纪委国家监委网站</p>
+<p>
+							2019-01-08 15:28<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中央纪委国家监委网站1月8日消息，据湖北省纪委监委消息：日前，经湖北省纪委监委纪律审查和监察调查，并报中共湖北省委批准，襄阳市人大常委会原党组成员、副主任王代全涉嫌严重违纪违法问题被开除党籍、取消退休待遇，移送检察机关依法审查、提起公诉。<br/><div class="contheight"></div>经查，王代全违反组织纪律，在干部、职工录用、调动等工作中，利用职权违规为他人谋取利益；利用职务上的便利，为他人谋取利益并收受他人财物，数额巨大，涉嫌受贿罪；滥用职权，违规处理公务，致使国家利益遭受重大损失，情节特别严重，涉嫌滥用职权罪。<br/><div class="contheight"></div>王代全身为党员领导干部，丧失理想信念和党性观念，目无法纪，把公权力变为谋取私利的工具，严重违反党的纪律和国家法律，并涉嫌职务犯罪。鉴于王代全投案自首，应依法从轻处理。<br/><div class="contheight"></div><strong>王代全简历</strong><br/><div class="contheight"></div>王代全，男，汉族，1954年9月出生，湖北保康人，1975年5月入党，1975年11月参加工作，湖北省委党校行政管理专业毕业，大学学历。1975年11月至1986年8月历任保康县过渡湾公社党委宣传委员，过渡湾区党委副书记、区长；1986年8月至1991年9月历任保康县寺坪镇党委书记、县农委副主任；1991年9月至2002年1月历任保康县副县长、县委常委、常务副县长、县委副书记；2002年1月，任襄阳区委副书记；2002年2月，任襄阳区委副书记、区长；2003年11月，任襄阳区委书记、区长；2004年1月，任襄阳区委书记，区人大常委会主任、党组书记；2007年3月，任襄樊市人民政府副市长、党组成员；2012年1月，任襄阳市人大常委会副主任、党组成员。2014年10月退休。<br/><div class="contheight"></div><strong><br/><div class="contheight"></div>恩施州人大常委会原党组成员、副主任罗贤美被开除党籍和公职</strong><br/><div class="contheight"></div>据湖北省纪委监委消息：经湖北省纪委监委纪律审查和监察调查，并报请省委批准，恩施州人大常委会原党组成员、副主任罗贤美因严重违纪违法涉嫌职务犯罪被开除党籍、取消退休待遇，移送检察机关依法审查、提起公诉。<br/><div class="contheight"></div>经查，罗贤美违反政治纪律，与他人串供堵口，对抗组织审查；违反廉洁纪律，在离职及退休后三年内，接受原任职务管辖地区和业务范围内民营企业的聘任并领取薪酬。违反国家法律，利用职务上的便利，索取或非法收受他人财物，数额巨大，涉嫌受贿犯罪。<br/><div class="contheight"></div>罗贤美身为党员领导干部，丧失党性原则，违背宗旨信念，对党不忠诚、不老实，大肆进行权力寻租、利益输送，严重违反党的纪律和国家法律，并涉嫌职务犯罪，性质恶劣，情节严重，应予严肃处理。<br/><div class="contheight"></div><strong>罗贤美简历</strong><br/><div class="contheight"></div>罗贤美，男，1951年2月出生，苗族，湖北鹤峰人，大学文化，1974年7月参加工作，1975年7月加入中国共产党。<br/><div class="contheight"></div>1974年7月至1984年4月先后任鹤峰县一中教师、副校长、县委宣传部副部长，1984年4月任恩施州体委副主任，1986年7月挂职任巴东县政府副县长，1987年10月任巴东县政府县长，1990年10月任恩施州民委副主任，1991年9月任恩施州民委主任，2002年5月任恩施州人大常委会副主任，2011年6月退休，2013年5月离职。其中，2006年8月至2013年5月任恩施火车站片区开发指挥部指挥长。<br/><div class="contheight"></div>（原标题《襄阳市人大常委会原党组成员、副主任王代全等2人被开除党籍》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 湖北反腐</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827562">
+<div class="nbgbox">
+<a class="zan" contid="2827562" href="javascript:;" onclick="voteCont(this)" praisetimes="15">
+                           14</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 湖北反腐</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827562&caid=25490",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827562&amp;caid=25490" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">习近平同吉布提总统盖莱就中吉建交40周年互致贺电</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2019-01-08 18:58<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京1月8日消息，国家主席习近平1月8日同吉布提总统盖莱互致贺电，庆祝两国建交40周年。<br/><div class="contheight"></div>习近平在贺电中指出，建交40年来，中吉关系健康稳定发展，双方在涉及彼此核心利益和重大关切问题上相互理解、相互支持，各领域合作成果丰硕。2017年11月，你来华进行国事访问，我们共同宣布中吉建立战略伙伴关系。去年9月中非合作论坛北京峰会期间，我们就发展中吉关系达成新共识，并见证签署共同推进“一带一路”建设谅解备忘录。我高度重视中吉关系发展，愿同你一道努力，以两国建交40周年为契机，巩固两国政治互信，深化共建“一带一路”合作，落实中非合作论坛北京峰会成果，推动中吉战略伙伴关系不断迈上新台阶。<br/><div class="contheight"></div>盖莱在贺电中表示，1979年1月8日是吉中外交关系奠基性的时刻，我对40年来吉中关系顺利发展感到满意和自豪。2017年11月，我们共同决定将吉中关系确定为战略伙伴关系，充分表明双方深化吉中关系的决心，也为两国经贸合作指明了方向。吉布提衷心感谢中国政府和人民给予的帮助和支持，将继续坚定奉行一个中国原则。我愿同你共同努力，促进吉中关系不断深入发展。<br/><div class="contheight"></div>（原题为《习近平同吉布提总统盖莱就中吉建交40周年互致贺电》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 习近平,吉布提</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828335">
+<div class="nbgbox">
+<a class="zan" contid="2828335" href="javascript:;" onclick="voteCont(this)" praisetimes="44">
+                           43</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 习近平致贺电</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828335&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828335&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

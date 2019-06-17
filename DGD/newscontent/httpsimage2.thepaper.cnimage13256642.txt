@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">中方驳“中国借一带一路谋霸权”言论：说三道四不如做些实事</h1>
+<div class="news_about">
+<p>人民日报客户端</p>
+<p>
+							2018-12-17 16:10<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">人民日报客户端12月17日消息，17日，外交部发言人华春莹主持例行记者会。<br/><div class="contheight"></div><strong>问：</strong>美国总统国家安全事务助理博尔顿近日就美对非战略发表讲话时称，中俄在非洲打造金融和政治影响力，获取针对美国的竞争优势。中国在非洲的大规模投资项目不透明，充斥着腐败。这些项目是中国“一带一路”等战略的一部分。“一带一路”建设的最终目的就是为中国谋求全球霸权创造条件。您对此有何评论?<br/><div class="contheight"></div><strong>答：</strong>我多次讲过，“一带一路”是中方提出的国际经济合作倡议，不涉及地缘政治，更不是要跟谁开展竞争的战略工具。中方推动共建“一带一路”的目的，是通过各方平等互利合作，为世界经济注入新动力，促进各国共同发展，减少发展的不平衡。<br/><div class="contheight"></div>“一带一路”倡议提出5年来，获得了国际社会的广泛支持和参与，取得了举世瞩目的积极成果。包括非洲国家在内的广大发展中国家积极参与“一带一路”建设，很多“一带一路”项目在非洲落地生根、开花结果，有力地促进了非洲人民的福祉。如何评价“一带一路”，这些合作伙伴国才最有发言权。事实上，一些非洲领导人已表达了鲜明立场。<br/><div class="contheight"></div>中国与发展中国家的合作一贯坚持“亲诚惠容”、“真实亲诚”的理念，从不干涉合作国内政，不附加任何政治条件。这一点国际社会早有公论。我们希望其他国家客观看待中国与非洲等发展中国家的合作，与其戴着有色眼镜说三道四，不如像中国一样多为发展中国家做些实事。<br/><div class="contheight"></div>（本文原题为《外交部驳“中国借一带一路谋霸权”言论：说三道四不如做些实事》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 外交部,一带一路</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2746544">
+<div class="nbgbox">
+<a class="zan" contid="2746544" href="javascript:;" onclick="voteCont(this)" praisetimes="119">
+                           118</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 一带一路</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2746544&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2746544&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

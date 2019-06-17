@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜中华鲟死亡事件，“行政失效”反衬了司法缺位</h1>
+<div class="news_about">
+<p>澎湃特约评论员 宋金波</p>
+<p>
+							2018-11-16 16:31<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="338" src="http://image.thepaper.cn/www/image/12/304/967.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">死亡的中华鲟。</span><br/><div class="contheight"></div>湖北荆州恒升实业有限公司（下简称“恒升公司”）中华鲟养殖基地中华鲟死亡事件正在升级。到目前为止，在生态保护意义上更为珍贵的子一代中华鲟死亡数量已经达到36尾。在此之前，11月5日，该养殖场还有近6000尾子二代中华鲟集中死亡。<br/><div class="contheight"></div>9月，湖北省水产局组织专家对恒升公司中华鲟死亡原因进行了调查、分析和论证。初步综合分析，恒升公司周边的荆州市文旅区工程项目施工所产生的噪音、震动以及水源条件改变，对该基地中华鲟产生负面影响，与近期中华鲟的死亡有直接关系。<br/><div class="contheight"></div>中华鲟作为国家一级保护动物，保护价值毋庸置疑。当然，由于中华鲟的人工养殖在多地都有展开，不同原因导致的养殖中华鲟死亡事件对物种存续的损害，不必过于夸大。今年4月，广东河源就发生过一养殖场万条中华鲟全部死亡的事件。不过，就恒升公司的情况来看，全国仅余不足1000尾人工饲养着的子一代中华鲟亲鱼，其中近60%在恒升公司，重要性显然更高。这也意味着，迄今所发生的中华鲟大规模死亡，可能不是悲剧的剧终，如果没有得到妥善处理，悲剧还将继续上演。<br/><div class="contheight"></div>相关方面不能说完全无所作为。新闻中这样描述：“一次次批示、约谈和通知，甚至赶赴湖北荆州的工作专班，没能救得了36条珍贵的子一代中华鲟的命。”<br/><div class="contheight"></div>也许问题就出在这里。批示、约谈和通知，严格意义上都是行政行为，在相关流程中，相关管理部门，比如水产局，要达到有效管理和介入，很多时候依靠的是“上级”的协调和斡旋。通常这种协调能够基本上达到目的，但在有些情况下，也会失效。<br/><div class="contheight"></div>荆州市文旅区在给澎湃新闻的书面回复中，除了强调当地政府“在征迁过程中依法办事，执法有据，积极遵守和响应保护国家一级重点保护野生动物中华鲟的法律法规和政策”，还表示“积极关注如何协调区域发展和生态保护的关系”。中华鲟的养殖性保护，在这里被作为区域发展和生态保护这样一对矛盾的一方来看待。在这样一种关系中，当地政府不是事件中的一方，而是让自己成为看起来更高、更超脱的仲裁者角色。<br/><div class="contheight"></div>类似的有当地政府介入的事件，都很容易出现这种错位和变形。地方政府很难避免利用自己的优势来解决问题。比如当地政府在前述书面回复中，还提到恒升公司经营管理中存在多项违法违规行为。“对此，我们的态度是，违法违规必受追究，合法必受保护。”也许不能说这是一种变相威胁，但即便恒升公司确实存在违法违规，与中华鲟死亡事件也关系不大，甚至不应该出现在这样一个公文中。<br/><div class="contheight"></div>“批示、约谈和通知”的失效，反衬了司法途径的缺位或疏漏。中华鲟既是一种“国家资源”，也是一个“保护物种”，同时还是“公司资产”。在此案中，因应于不同的诉求，本来应该有不同的责任主体，通过行政之外的司法途径，及时明确法律责任，实现有效介入，防止最坏结果的发生。遗憾的是，事态的发展，遵循了另外一种逻辑。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中华鲟</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2640602">
+<div class="nbgbox">
+<a class="zan" contid="2640602" href="javascript:;" onclick="voteCont(this)" praisetimes="223">
+                           222</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中华鲟</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2640602&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2640602&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（43）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27234">科技湃</a>
+</div>
+<h1 class="news_title">科技日报评论员：800万归个人支配，为重奖科技功臣点赞</h1>
+<div class="news_about">
+<p>本报评论员/科技日报</p>
+<p>
+							2019-01-09 06:57<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月8日，中共中央、国务院在北京隆重举行国家科学技术奖励大会，这是属于科技界的高光时刻。今年奖励大会最受关注的新闻莫过于国家最高科学技术奖奖金额度上调60%，从500万元提升至800万元，而且个人可自由支配。<br/><div class="contheight"></div>这是国家最高科技奖设立近20年来，奖金额度和结构的首次调整，意义重大。<br/><div class="contheight"></div>实际上，科学家个人可以自由支配的奖金是从50万元上升至800万元。1999年，国家最高科技奖设立时，规定奖金数额为500万元，但其中真正为获奖人个人所有的只有50万元，其余450万元由获奖人自主选题，用作科学研究经费。<br/><div class="contheight"></div>国家设立最高科学技术奖的初衷，是尊重知识、尊重人才，鼓励自主创新，鼓励攀登科学技术高峰。我们希望孩子们拥有崇尚科学、探索未知、敢于创新的热情；我们希望青年们可以热爱科学、投身科学，为实现中华民族伟大复兴的中国梦贡献力量；我们希望科研工作者们能充满干劲、敢想敢干敢创新。<br/><div class="contheight"></div>但是如何才能“让科技工作成为富有吸引力的工作、成为孩子们尊崇向往的职业”？如何才能让科学家之梦蔚然成风？那就不能让尊重劳动、尊重知识、尊重人才、尊重创造停留在口头上、文件中，更不能口惠而实不至。尊重科学家，留住科学家，就应让科学家们获得的回报与他们作出的贡献相匹配。让科研人员既有“面子”又有“里子”，让有贡献的科技人员做到名利双收。<br/><div class="contheight"></div>每一次最高科学技术奖的颁发，对于科研人员来说都是鞭策、是激励，而对于全社会，它是科学的洗礼——让更多的人知道，有这么多的科学家在默默耕耘，为国家为社会作出过巨大的贡献；有这么多的团队在负重前行、努力攻关，只为我们的科研实力更进一步。<br/><div class="contheight"></div>今年获得最高奖的两位科学家刘永坦、钱七虎都已年过八旬，他们辛勤耕耘、淡泊名利、甘于奉献，在各自的科研领域有非凡的成就，为国家的建设作出了突出的贡献。国家和人民没有忘记他们，国家最高科技奖对他们来说是荣誉，这800万元的奖金更是国家和人民对他们的肯定。<br/><div class="contheight"></div>科学家受尊重，创新才有活力和源泉。<br/><div class="contheight"></div>今年的最高奖从500万元提升至800万元，且个人可自由支配只是一个开始。科研人员的收入与岗位职责、工作业绩、实际贡献紧密联系的时代到来了；一个知识可以创造价值、价值的创造者们可以得到合理回报的时代到来了。<br/><div class="contheight"></div>（原题为《800万归个人支配，为重奖科技功臣点赞》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张珺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 国家最高科学技术奖</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2830196">
+<div class="nbgbox">
+<a class="zan" contid="2830196" href="javascript:;" onclick="voteCont(this)" praisetimes="82">
+                           81</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国家最高科学技术奖</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2830196&caid=27234",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2830196&amp;caid=27234" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

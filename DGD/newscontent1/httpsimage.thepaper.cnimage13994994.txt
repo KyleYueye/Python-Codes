@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">王毅谈非洲四国之行：多边主义成共同呼声，一中原则得到巩固</h1>
+<div class="news_about">
+<p>外交部网站</p>
+<p>
+							2019-01-07 09:36<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/994/992.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">当地时间2019年1月3日，埃塞俄比亚亚的斯亚贝巴，中国外交部长王毅和埃塞俄比亚外交部长Workneh Gebeyehu一同出席联合记者招待会。视觉中国 图</span><br/><div class="contheight"></div>当地时间2019年1月6日，国务委员兼外交部长王毅在即将结束对非洲四国访问时，在达喀尔应询向媒体介绍此行情况和感受。<br/><div class="contheight"></div>王毅说，中国外长每年首访都要来非洲，这已成为中国外交的一大特色。之所以几十年持之以恒这么做，不仅是因为我们对非洲有一个承诺，更重要的是由于中国和非洲同为发展中国家，一直是患难与共、相互扶持的兄弟和伙伴，双方需要随时加强战略沟通，深化战略合作。此次四国之行有几点突出感受：<br/><div class="contheight"></div>第一点感受是中非友好牢不可破。面对近来某些域外国家对中非合作的蓄意抹黑，非洲各国政府和人民不为挑拨所惑，不被杂音所扰，不仅纷纷站出来仗义执言，而且更为坚定地奉行对华友好政策。这次访问的四国领导人均高度赞赏中国的对非合作，感谢中国为他们国家的发展振兴和民生改善提供的宝贵支持，迫切期待进一步深化对华合作。<br/><div class="contheight"></div>第二点感受是坚持多边主义成为共同呼声。面对单边主义不断抬头，国际规则受到挑战，非洲国家意识到，如果任由这种形势发展下去，将严重损害广大发展中国家的正当权益，各国对中方的作用寄予了更大期待。这次访问的四国都愿就此与中方加强协调，共同捍卫多边主义规则，共同推动国际关系民主化。<br/><div class="contheight"></div>第三点感受是共建“一带一路”热情越来越高。非洲已成为最积极推进“一带一路”建设的大陆。一大批重点项目在非洲大陆陆续落地生根，开花结果，给当地民众带来了实实在在的福祉。随着共建“一带一路”同非盟“2063年议程”以及各国的发展战略进一步对接，“一带一路”有望在非洲大陆展开更高质量、更高水平的合作。<br/><div class="contheight"></div>第四点感受是一个中国原则在非洲得到巩固加强。此次访问的四国中，布基纳法索和冈比亚都是同中国复交不久的国家。两国领导人都强调，同中国复交是自主选择，是正确决断，得到人民支持，符合国家利益，将继续坚定不移地奉行一个中国政策。坚持一中原则，在非洲大陆已成为各方共同遵循的政治共识。 <br/><div class="contheight"></div>(原题为《王毅谈非洲四国之行：中非友好牢不可破，一中原则巩固加强》)</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 王毅,中国外交,非洲</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2822983">
+<div class="nbgbox">
+<a class="zan" contid="2822983" href="javascript:;" onclick="voteCont(this)" praisetimes="73">
+                           72</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 王毅</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2822983&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2822983&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜督促“抓紧休假”，不能止于领导的人文关怀</h1>
+<div class="news_about">
+<p>澎湃特约评论员 胡印斌</p>
+<p>
+							2018-08-13 18:25<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">江苏省环保部门的两份红头文件近日火爆网络。一份是《关于印发加强人文关怀十项措施的通知》，另一份是《关于抓紧做好休假工作的通知》。前者，有为干部职工购买人身伤害意外保险、注重关心关爱等多条细则，而后者更是直截了当地发福利：敦促“抓紧放假”。 <br/><div class="contheight"></div>通知规定，8月份前两周，全省环保系统原则上不安排全局性会议，不举办重大活动，在保障各项日常工作正常开展的前提下，安排好干部职工休假。“江苏环保”公号所发文章中还提出了一个让人激动的说法：休息是为了更好地去战斗。 <br/><div class="contheight"></div> “抓紧休假”的表述，让不少网友点赞，也让很多人叹息：别人家的单位，从没让我失望过。<br/><div class="contheight"></div>文件出台确有现实针对性。今年以来，江苏环保部门实在太忙，从元旦到端午，基本上没有正常放过假；中央环保督察“回头看”、沿江八市交叉互查、“263”专项行动等期间，休息时间也很少。但领导能够注意到一线的辛苦，专门下发文件落实大家的休假权利，并不简单。 <br/><div class="contheight"></div>要说辛苦，很多单位、部门都很辛苦。然而，鲜见这些单位、部门的领导督促大家“抓紧休假”。可见，这种以红头文件形式落实人文关怀的做法，本身就体现了决策层的诚意。 <br/><div class="contheight"></div>客观而言，与以往相比，近年来，劳动者的休息权得到很大程度的实现。但不容忽视的是，不少地方仍处于“喊口号”、“发倡议”的层面，劳动者的休息权依然悬置，很难完全落实。 <br/><div class="contheight"></div>在政府部门，一者，因为事务繁杂，工作人员很难真正享受“带薪休假”等休息权利。一些领导过分强调加班文化，什么“五加二、白加黑”，变着花样挤占大家的休息时间，逼得员工很难开口提出休假。 <br/><div class="contheight"></div>而在企业，情形更为严重。一些国企还好一些，在很多私企，“年假过期清零”、“休年假被安排”工作等现象时有发生，致使一些劳动者不敢休年假、不能休年假或休不起年假。这不难理解，在劳动力市场依然是买方市场的情况下，劳动者在遇到休息权受损等“小事”时，往往选择隐忍，很难站出来维权。不然，一旦出现“赢了官司丢了饭碗”的结局，承受不起。 <br/><div class="contheight"></div>在休息权普遍被悬置的语境下，江苏省环保厅的做法不啻为一股清流。然而，仅仅依靠领导的人文关怀，并不能真正让劳动者权利归位。彻底落实劳动者的休息权，不让他们“流汗流血又流泪”，更需要制度层面的关怀。 <br/><div class="contheight"></div>一方面，各级劳动监察部门有必要加大劳动监察的力度，有针对性地督查劳动者休年假、病假等，对拒绝落实劳动者休假权利的案例发现一起查处一起，发现一点警戒一片。这样，才有可能督促单位、企业把劳动法当回事儿，把劳动者当回事儿。 <br/><div class="contheight"></div>另外，司法、媒体等也应介入这一领域，依法保障劳动者的休息权。<br/><div class="contheight"></div>民意渴望休假，法律也明确了休假的权利。在个体与单位之间不均衡、不平等的博弈很难改变的前提下，除了领导关怀、劳动者争取之外，制度、法律也应该是劳动者最可依靠的力量。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 休假权</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2343765">
+<div class="nbgbox">
+<a class="zan" contid="2343765" href="javascript:;" onclick="voteCont(this)" praisetimes="93">
+                           92</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 带薪休假</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2343765&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2343765&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

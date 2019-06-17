@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜公开哺乳不丢人，偷拍上网才可耻</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-10-30 16:59<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="346" src="http://image.thepaper.cn/www/image/11/772/551.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">微博截图<br/><div class="contheight"></div></span>10月30日上午，新浪微博上一个日本美食博主发帖《实拍：中国游客在闹市当街喂奶》，称有中国游客坐在日本商店门前喂奶，同时配了一张从车内向外偷拍的照片。<br/><div class="contheight"></div>令人欣慰的是，评论区大部分网友并没有被这位博主带偏节奏，而是认为情急之下公开哺乳是人之常情，偷拍上网才是没素质。面对网友批评，这位博主又辩称“在日本就应该遵守日本的规范”。<br/><div class="contheight"></div>2015年，网络有过一次关于公开哺乳的大讨论。当时有人偷拍了一位在北京地铁上喂奶的妈妈，然后发微博称“公共场所注意举止，不要裸露性器官”“这里是北京的地铁之上，不是你们的公交车”，引发轩然大波。<div style="text-align:center;"><img alt="" height="244" src="http://image.thepaper.cn/www/image/11/772/603.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="232" src="http://image.thepaper.cn/www/image/11/772/552.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">网友评论截图<br/><div class="contheight"></div></span>今年前段时间，深圳地铁上也发生过类似的事，有人偷拍了喂奶的妈妈，然后向自媒体爆料称“不雅观”。<br/><div class="contheight"></div>做了父亲之后，我便深切地体会到，公开哺乳实在不应是一个反复争论的话题，尊重哺乳期的母亲应该是每个文明社会的共识。<br/><div class="contheight"></div>带娃外出有多么不便，只有为人父母者有深切体会。小孩随时可能会饿会闹，永远不可能像机器一样精准可控。我们虽然给过别人当众偷拍的机会，但也有两次被迫在餐厅僻静处喂奶。<br/><div class="contheight"></div>有些仿佛一出生就能生活自理的人，特别喜欢指责带娃外出的父母不能提前做好准备，才让孩子出现突发状况。我想起上周在上海地铁亲历的一件事。<br/><div class="contheight"></div>当时我从虹桥火车站坐2号线到市区，过了几站有一个四五岁的小女孩到处乱窜，说找厕所。身后跟着一对焦急的父母，看外表是农村来的，他们向周围乘客打听车上有没有厕所。我跟他们说，车上没有，地铁站有，建议他们下一站下车再上来，也不用再买票。<br/><div class="contheight"></div>我还没有说完，小女孩突然蹲了下来，说憋不住了。于是她父母手忙脚乱地拿出塑料袋兜着，事后还用卫生纸将车厢地面反复擦拭干净，同时很歉意地向周围乘客解释“她尿急也不提前说。”<br/><div class="contheight"></div>看到这一幕我突然有些难为情，因为回想自己向他们解释地铁站有厕所的时候，似乎语气有些不耐烦，有一丝责怪他们连这点常识都不知道的意味。而且那一站地铁格外长，小女孩确实等不到下一站了。<br/><div class="contheight"></div>这对父母连地铁里有没有厕所都不知道，但是我想他们的文明水准不输于任何一个人。所谓文明，从来不是唯我独尊、咄咄逼人的僵化标准，而是设身处地、换位思考的人情温度。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 公开哺乳 文明水准</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2580691">
+<div class="nbgbox">
+<a class="zan" contid="2580691" href="javascript:;" onclick="voteCont(this)" praisetimes="744">
+                           743</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 公开哺乳</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2580691&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2580691&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（84）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜让家长执勤？“越界”的家校关系只会扭曲教育生态</h1>
+<div class="news_about">
+<p>澎湃特约评论员 杨三喜</p>
+<p>
+							2018-09-26 18:40<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“应学校及教育局要求，每天都要有家长陪同学校护导，所以每位家长都要轮值……执勤时间为7:40之前到8:00……”近日，天津滨海新区某小学在家长群里发布了这样一则通知。（新华社微信公众号，9月26日）<br/><div class="contheight"></div>除了有涉事学校的家长言辞激烈地表示反对外，此事也引起了网友的争议。有网友表示，“已经在执勤了”。检索相关关键词可以发现，家长在校门口执勤的现象几年前就已经出现，尤其在小学阶段，更为普遍。不仅是校外执勤，家长还需要承担包括打扫卫生、班级值日等。 <br/><div class="contheight"></div>家长参加校外护导，主要是组织低年级的孩子上学时安全过马路等工作。按理说，孩子的健康成长需要家庭、学校、社会等多方共同呵护。但具体到实际操作中，家校之间也应有明确的责任边界，不能将学校的责任随意转嫁给家长。 <br/><div class="contheight"></div>有一部分家长热心参与学校管理，愿意以志愿者的身份承担校外护导、班级值日或其他工作，这值得肯定。但并不能因此就要求所有的家长都来做这些事情。更可况，很多家长即使想参与也是力不从心。想想看，有多少家长可以撇下工作、频繁请假来参与学校所谓的“日常管理”？学校的很多不合理安排，显然已经超出了家长的职责和能力范围。 <br/><div class="contheight"></div>从实际操作的角度来看，让家长轮岗执勤承担校外看护职责，也会带来很多难以预料的问题。比如有家长担心，发生突发情况时，家长要不要充当学校保安的角色，“到底是上还是不上？”万一家长在看护过程中遭遇意外，谁来为他们的安全负责？权责不明，便可能产生一系列纠纷，对于学校和家长来说都不是好事。 <br/><div class="contheight"></div>然而，如果学校下发了通知，做出了安排，家长却不参与的话，心里终究还是不踏实。即便学校下发通知时名为“自愿”，实际上却由不得家长拒绝。因为谁都懂得这个道理：家长越是愿意付出，孩子在班里的“地位”可能就越高，越受到老师的关注。更不用说还有一些家长，想方设法在老师面前“刷存在感”，以争取对自家孩子的更多关注。在此背景下，只怕一些家长即便不愿意，也不得不被裹挟着参与。<br/><div class="contheight"></div>家长固然有配合学校开展工作的义务，但是这种义务更多集中在家庭教育方面。学生上学期间的护导及安保，更应该是校方的责任。学校应该谨守权责边界，切勿以“家校共建”为由绑架家长，让家长承担无限教育责任。 <br/><div class="contheight"></div>这不仅是因为学校转嫁责任，可能造成家长不可承受之重，更因为在现实的教育背景下，家校之间缺乏足够的信任，家校关系本就脆弱，这种甩锅很容易引发系列反应。最直接的莫过于诱发家长间的不健康竞争，进一步刺激教育焦虑，扭曲教育生态。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 家长执勤护导</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2476909">
+<div class="nbgbox">
+<a class="zan" contid="2476909" href="javascript:;" onclick="voteCont(this)" praisetimes="229">
+                           228</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 家长代行老师职责</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2476909&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2476909&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（62）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

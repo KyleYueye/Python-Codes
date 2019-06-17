@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">淮阴师范学院回应副院长被举报出轨学生：已要求本人配合调查</h1>
+<div class="news_about">
+<p>澎湃新闻记者 何利权</p>
+<p>
+							2019-01-09 08:26<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="366" src="http://image.thepaper.cn/www/image/14/59/961.jpg" width="580"/></div><span style="color: rgb(128, 128, 128);">淮阴师范学院 资料图<br/><div class="contheight"></div></span>2019年1月9日凌晨，淮阴师范学院官微通报称，关于媒体反映该院党委常委、副院长李相银同志涉嫌违纪行为，有关部门已受理并展开调查，学院党委要求本人配合调查，下一步将严格依规依纪作出处理。<br/><div class="contheight"></div>此事源于淮阴师范学院一名女毕业生的举报。<br/><div class="contheight"></div>此前据新京报报道，淮阴师范学院文学院2014级学生王雪（化名）在举报信中称，李相银与其保持不正当关系长达两年，并致其在校期间怀孕。王雪称，得知其怀孕后，李相银微信告诉她“咨询一下医生药流的时间与注意事项”，后她接受了流产手术。此外，李某某家人多次对其骚扰辱骂，造成她患上重度抑郁症，一度试图自杀。<br/><div class="contheight"></div>上述报道称，王雪将举报信交给了学校纪委，学校将举报材料转给了江苏省纪委。目前，江苏省纪委已介入此事进行调查。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：马世鹏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 淮阴 师范 出轨 婚外情</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2830169">
+<div class="nbgbox">
+<a class="zan" contid="2830169" href="javascript:;" onclick="voteCont(this)" praisetimes="93">
+                           92</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 婚外情</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2830169&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2830169&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（436）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

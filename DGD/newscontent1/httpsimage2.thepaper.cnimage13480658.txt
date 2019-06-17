@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国法院裁定：朝鲜须向遭囚禁致死美大学生父母赔偿5亿美元</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-25 09:28<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="371" src="http://image.thepaper.cn/www/image/13/480/656.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">美国学生奥托·瓦姆比尔 资料图<br/><div class="contheight"></div></span>2017年6月19日，22岁的美国学生奥托·瓦姆比尔去世，现在美国法院要求朝鲜方面为他的死做出巨额赔偿。<br/><div class="contheight"></div>据美国有线电视新闻网（CNN）12月24日报道，华盛顿哥伦比亚特区法院裁定，朝鲜当局必须向曾遭囚禁而后死亡的美国大学生奥托·瓦姆比尔的父母支付5.01亿美元赔偿金。<br/><div class="contheight"></div>在哥伦比亚特区法院24日发表的一份声明中，法官豪威尔（Beryl A. Howell）引用了瓦姆比尔母亲的证词，称瓦姆比尔在朝鲜遭到了残酷的对待，法官表示这些证词都是做出此次判决的基础。<br/><div class="contheight"></div>美国弗吉尼亚大学大学生瓦姆比尔因在朝鲜旅馆试图偷窃宣传海报而被捕，被判15年徒刑，去年遭朝鲜监禁而陷入昏迷。瓦姆比尔于去年6月返美之后，被发现有失明、失聪情况以及严重的颅脑损伤，一直到去世之前都处于昏迷状态之中。对此，朝中社去年曾援引朝鲜外交部发言人言论称否认瓦姆比尔在朝鲜期间遭到任何酷刑。<br/><div class="contheight"></div>在法院做出判决后，瓦姆比尔的父母也随即发表一份声明，声明感谢了豪威尔法官的判决并表示这是他们“艰难过程上的重要一步”，瓦姆比尔的父母同时表示他们向其子承诺在“为他伸张正义前不会停止努力。”<br/><div class="contheight"></div>对于此次判决，美国律师斯蒂文·博尔思（Steven Perles）在接受CNN采访时回应，美国法院曾经向遭遇恐怖袭击的受害者家属做出类似的判决，这些判决本身并不是为了获得金钱的赔偿，而是考虑判决本身的“威慑价值”（deterrent value）。<br/><div class="contheight"></div>值得注意的是，就在豪威尔法官公布对瓦姆比尔一案判决几个小时之后，美国总统特朗普也在其个人社交媒体上发表了与朝鲜有关的信息，称其团队正在与朝方团队接触，为第二次“金特会”做准备，他并没有提及有关此案判决的内容。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国大学生</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2771763">
+<div class="nbgbox">
+<a class="zan" contid="2771763" href="javascript:;" onclick="voteCont(this)" praisetimes="82">
+                           81</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美国大学生被朝鲜扣押</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2771763&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2771763&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（109）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

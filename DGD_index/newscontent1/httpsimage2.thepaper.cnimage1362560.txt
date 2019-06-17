@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国今年发生25起校园枪击案数量致33死，创近20年新高</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-28 13:03<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="310" src="http://image.thepaper.cn/www/image/13/625/58.jpg" width="550"/></div><span style="color: rgb(128, 128, 128);">2018年美国校园枪击案数量和伤亡人数均创下近20年最高纪录。<br/><div class="contheight"></div></span>据新华社12月27日报道，据《华盛顿邮报》27日报道，2018年美国校园枪击案数量和伤亡人数均创下近20年最高纪录，另外，超过400万少年儿童在2017至2018学年经历了校园封锁，很多人受到身心创伤。<br/><div class="contheight"></div>据该报统计，今年以来，美国共发生25起校园枪击事件，有25332名学生受到影响，其中33人丧生，61人受伤。上述指标均创下1999年以来新高。<br/><div class="contheight"></div>据报道，在2017至2018学年，美国各州及哥伦比亚特区都有学校实施过封锁。而在2017年9月2日美国劳动节和2018年5月28日阵亡将士纪念日之间的每一个上课日都有校园因发生枪击或受到枪击威胁而被封锁。被封锁的校园无处不在，在人口特征、富裕程度、学区位置、安全措施等方面无规律可循。<br/><div class="contheight"></div>报道称，在经历校园封锁的400多万少儿中，有超过100万在11岁以下，其中至少有22万是幼儿园儿童。专家相信，这样的恐怖经历会给很多儿童造成长期伤害，导致学习成绩下降、社交障碍、抑郁、焦虑、睡眠不足、药物滥用等问题。<br/><div class="contheight"></div>（原标题 《2018年美国校园枪击案数量和伤亡人数创近20年新高》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国社会</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2787285">
+<div class="nbgbox">
+<a class="zan" contid="2787285" href="javascript:;" onclick="voteCont(this)" praisetimes="31">
+                           30</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美国社会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2787285&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2787285&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

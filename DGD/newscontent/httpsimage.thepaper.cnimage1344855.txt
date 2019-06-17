@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">全球首例！大陆赠台大熊猫“团团” 犬齿断裂流血，装上牙套</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2018-12-24 11:22<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网12月24日消息，大陆赠台大熊猫“团团”创纪录了。日前，“团团”的犬齿断裂流血，台湾医疗团队进行紧急治疗后，为它装上了银色“牙套”。台媒称，这是全球大熊猫装牙套的首例。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/448/47.jpg" width="100%"/></div>据中时电子报报道，12月9日，保育员在帮大熊猫“团团”实施例行动物训练课程时，发现它的左上犬齿断裂流血。动物园随即联系医疗团队为“团团”紧急进行牙齿检查及处理。<br/><div class="contheight"></div>检查发现，“团团”的左上犬齿牙冠发生断裂，牙髓腔暴露，医疗团队先对它进行局部的根管治疗及补牙，同时为它打模型制作齿模，预备订制钛金属材质的专属牙套。<br/><div class="contheight"></div>23日上午，医疗团队再次合作，顺利为“团团”装上牙套。台媒称，这不仅是全球大熊猫装牙套的首例，更为野生动物医疗专业发展，为野生动物的牙齿医疗及护理开启重要的一课。<br/><div class="contheight"></div>报道称，“团团”左上犬齿断裂后，牙髓腔已露出，有感染的风险，必须在牙髓组织受损前保护并活化神经。<br/><div class="contheight"></div>为了让“团团”可以保全牙齿、维持进食功能，并避免该犬齿再次断裂，医疗团队12日先对它进行活髓治疗，将局部发炎感染的牙髓组织移除，并装填三氧矿化聚合物(MTA)保护并活化神经。并在当天制作齿模，运用钛金属材质制作牙套。23日医疗团队再度合作，为“团团”装上钛金属牙套。<br/><div class="contheight"></div>大熊猫进食时，主要使用犬齿咬裂竹杆，医疗团队必须选择最适合的材质以维持犬齿功能。因此“团团”的牙套特别选用“钛金属”材质，由于钛有生物相容性，无毒、不被身体排斥且有耐高温、耐低温、高硬度、抗强酸碱等特性，因此在医学上有广泛应用。但是因为牙套的颜色为金属色，因此“团团”装上的是闪亮的“银牙齿”。<br/><div class="contheight"></div>大陆赠台大熊猫“团团”和“圆圆”于2008年12月赴台，次年的农历大年初一首次与台湾民众见面。“团团”是雄性熊猫，此前刚过14岁生日。<br/><div class="contheight"></div>（本文原题为《全球首例！大陆赠台大熊猫“团” 装上“牙套”》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 大熊猫</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768159">
+<div class="nbgbox">
+<a class="zan" contid="2768159" href="javascript:;" onclick="voteCont(this)" praisetimes="70">
+                           69</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 大熊猫</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768159&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768159&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（175）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

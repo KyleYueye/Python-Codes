@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">下厨房| 20分钟就能搞定的融合风海鲜新菜</h1>
+<div class="news_about">
+<p>刘嘉郦</p>
+<p>
+							2018-06-18 11:41<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>有读者说我们推荐的菜看上去好吃，做起来却太麻烦，常常出现“一看就会，一做就废”的情况。实际上，做饭这件事并不难，但想要做得色香味俱全——尤其是色面好看、摆盘出色，真的是需要点经验和耐心的。</u><br/><div class="contheight"></div><u>不过今天不一样。</u><br/><div class="contheight"></div>我们给你推荐的这两道使用了阿拉斯加海鲜来制作的家常菜只需要20分钟就能搞定，其中10分钟是准备时间，10分钟是烹饪时间——如果你没做熟也不用很担心，毕竟这些来自阿拉斯加的野生深海海鲜就算是生吃也没问题，更别说已经快熟了。<br/><div class="contheight"></div><strong>杭椒炒阿拉斯加鲑鱼柳 <br/><div class="contheight"></div> <div style="text-align: center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/8/258/218.jpg" width="600"/></div></strong>蒜末的霸气与鲑鱼的腥味一相逢则尽失，配合杭椒的清脆微甜（可能也会吃到几个爆辣的杭椒）以及鱼肉的多汁鲜柔，满口鲜嫩、层次分明。米饭只能再来一碗了！<br/><div class="contheight"></div>用料：<br/><div class="contheight"></div>鲑鱼250g、杭椒80g、蛋清1个、生粉5g、盐4g、蒜末5g<br/><div class="contheight"></div>做法：<br/><div class="contheight"></div>1.鲑鱼取背部的肉切成条，用盐、蛋清和生粉上浆；<br/><div class="contheight"></div>2.锅中温油将鱼柳滑熟，捞出备用；<br/><div class="contheight"></div>3.留底油将蒜末炒香，加入杭椒和鱼柳翻炒后加盐调味即可。<br/><div class="contheight"></div>Tips：如果你是个久经厨房的高等级选手，那么不管用鲑鱼哪个部位都行，但要是你刚刚开始尝试做菜，那么最好选用背部的肉，毕竟这部分的肉不仅肉质紧实，口感较好，同时操作的时候也不容易碎成渣渣，可以保证食材的完整度。<br/><div class="contheight"></div><strong>阿拉斯加雪蟹</strong><strong>滑蛋<br/><div class="contheight"></div></strong><strong><div style="text-align: center;"><img alt="" height="423" src="http://image.thepaper.cn/www/image/8/258/217.jpg" width="600"/></div></strong>口感弹滑、鲜美爽口，做法更是简单快捷！只要你会开油锅，就有机会做好这道菜。<br/><div class="contheight"></div>用料：<br/><div class="contheight"></div>阿拉斯加雪蟹半只、鸡蛋4个、盐3g、料酒5ml、葱花5g<br/><div class="contheight"></div>做法：<br/><div class="contheight"></div>1.雪蟹去壳拆肉，备用（你也可以买现成的雪蟹腿肉）；<br/><div class="contheight"></div>2.鸡蛋加入盐和料酒打撒，加入蟹肉拌匀；<br/><div class="contheight"></div>3.锅中油加热至7成热下蛋液，以中火慢慢滑熟，装盘是撒上葱花即可。<br/><div class="contheight"></div>Tips：<br/><div class="contheight"></div>在鸡蛋里加入料酒，既可以增加香味，还可以平衡掉蟹的腥味。如果想要更加突出一些鲜味，可以考虑搭配一碟姜醋。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张颖<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2193138">
+<div class="nbgbox">
+<a class="zan" contid="2193138" href="javascript:;" onclick="voteCont(this)" praisetimes="7">
+                           6</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 下厨房</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2193138&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2193138&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

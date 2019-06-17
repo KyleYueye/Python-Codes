@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜抽的血倒掉还能出结果，谁来给“假体检”体检</h1>
+<div class="news_about">
+<p>澎湃特约评论员 熊志</p>
+<p>
+							2018-12-05 16:08<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2706733" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜抽的血倒掉还能出结果，谁来给“假体检”体检" src="//image.thepaper.cn/image/12/903/909.jpg"/>
+</a>
+<div class="atlas_360_txt">爱康国宾CEO张黎刚爆料假体检：抽血不做检查，就把血倒掉<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">近日，民营体检企业爱康国宾CEO张黎刚曝光了体检行业乱象，称一些体检中心提供的是“假体检”“用护士假冒医生做超声检查”“抽了血做都不做，然后把血倒掉就出结果。”张黎刚称，一些机构敢于这么做，是因为检出癌症的概率只有千分之三。 <br/><div class="contheight"></div>张黎刚的矛头直指同行，将自己所在的爱康国宾排除在了批评名单外，至于“假体检”究竟出自哪家体检机构，事后也没有回应。作为一种营销话术，如此言论的确难逃为自己打广告而“同行相轻”的嫌疑，但考虑到他业内人士的身份，张嘴就来的可能性还是很低。也就是说，他很有可能道出了体检行业的某些真相。<br/><div class="contheight"></div>而且，体检行业的乱象，早已不是一朝一夕的问题。比如行业巨头美年大健康，在几个月前就因违规被责令整改。<br/><div class="contheight"></div>体检机构敢于如此公然忽悠消费者，说到底还是医疗行业信息不对称的结果。哪怕将抽掉的血倒掉，凭空杜撰一个检测指标，看不懂医学专业术语的普通人根本无法察觉，造假成本相当低。对应的行业监管难度也相当大。 <br/><div class="contheight"></div>按照千分之三的癌症检测概率，体检机构大概率能蒙对，只是那些花了钱的消费者，原本打算通过体检来捕捉身体的异常，尽早对疾病进行干预治疗，结果却成了无良体检机构收割的对象。而且，一旦因为“假体检”而错过疾病发现的窗口，千分之三的概率风险，有可能就变成了完整的数字“1”，伤害的将是一个个活生生的人，想要及时补救可能都为时已晚。 <br/><div class="contheight"></div>随着公众健康意识的加强，体检行业成了这两年消费升级过程中的朝阳产业。乱象密集曝光的背后，是产业蛋糕被迅速做大的现实。数据显示，2016年中国的体检市场容量，已经超过1200亿元，有机构预测到2020年将达2000亿元左右。 <br/><div class="contheight"></div>行业扩张如此快速，还有一个重要原因，是相对于能通过疗效进行科学评估的医疗市场，体检行业更多是依赖仪器检测，而且是对检测结果的客观呈现，不涉及到诊断和治疗，行业的专业壁垒要低很多。此前美年大健康“假医生”风波中，没有资质的医生可以签字，正是由此所致。 <br/><div class="contheight"></div>这种行业低门槛，为资本快速进场提供了便利。出于压缩成本考虑，一些体检机构用不具备执业资格的护士冒充医生，甚至装模作样抽血又倒掉不做检测，也就不足为奇了。 <br/><div class="contheight"></div>对受检者来说，查不出病症，当然喜闻乐见，不会觉得花了冤枉钱；检测出问题，更说明检测及时有效。这种评价机制也会助长造假的冲动。 <br/><div class="contheight"></div>此外，行业监管也呈现出很大的滞后。目前适用体检行业的专业法律规章，是2009年原卫生部下发的《健康体检管理暂行规定》。由于出台时间早，彼时的体检行业发展水平还比较低，所以规定相当粗陋，约束力有限。 <br/><div class="contheight"></div>比如第十九条要求，医疗机构开展健康体检不得以赢利为目的对受检者进行重复检查，不得诱导需求。这几乎是个无法兑现的条款。诱导需求导致的过度体检，同样是被曝光多次的行业乱象。 <br/><div class="contheight"></div>要不是业内人士揭秘，“假体检”的黑幕，不知道还会隐藏多久。有必要给体检行业来一次全面“体检”了。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 假体检</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2708930">
+<div class="nbgbox">
+<a class="zan" contid="2708930" href="javascript:;" onclick="voteCont(this)" praisetimes="102">
+                           101</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 假体检</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2708930&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2708930&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

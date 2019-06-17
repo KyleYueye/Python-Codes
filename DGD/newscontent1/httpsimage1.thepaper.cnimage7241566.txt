@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">时髦精汇集的时装周，彩妆也很有看头</h1>
+<div class="news_about">
+<p>刘嘉郦</p>
+<p>
+							2018-04-10 12:41<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>时装周到底看什么？对于热爱服装的人来说，潮流趋势自然是关注焦点，但对于一个彩妆爱好者来讲，针对不同服装造型进行的设计的妆容，也是非常有看头的地方。当然，还有一个细节也是时装周里不能错过的环节，那便是模特的指尖风情——花点时间仔细看看，就会发现模特的指尖颜色，也成为了服装展示的辅助工具。<br/><div class="contheight"></div></u><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/7/241/559.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">眉毛上的冰霜感在现实生活里可能并不适合，不过适度使用粉底液让自己的肌肤看上去更加健康、气色更好，其实对男性来说也没什么不可以。<br/><div class="contheight"></div></span>男装品牌PRONOUNCE今年的重点是男装的质感与实用性，T台妆容也围绕质感和自然两个主题。M•A•C魅可彩妆师选择偏白但水润细致的水漾轻盈粉底液打造水润苍白的底妆，用白色颗粒在眉部塑造冰霜感的眉毛，选择珠光白色的粉霜在一侧C区打造冰霜堆积的视觉感，用遮瑕淡化唇色表现寒冷状态下的面部形态，塑造冰寒状态下的坚毅的面庞。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="900" src="http://image.thepaper.cn/www/image/7/241/556.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">好的底妆能够适度遮盖瑕疵，强化肌肤的质感和光泽感，让人看上去更加精致。<br/><div class="contheight"></div></span>刘嘉玲创立的女装品牌ANIRAC旨在强调现代女性的优雅独立气质，彩妆师摒弃华丽的妆容，用不加修饰的眼部和唇部让一切回归自然真实，切合“ME-ISM自我主义”的秋冬主题。对于观众来说，学会水润底妆的打造方法有助于在日常生活中营造自己的精致形象。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/7/241/560.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">裸感肌肤搭配“小雀斑”，营造出略带叛逆的活力少女的感觉。<br/><div class="contheight"></div></span>设计师Momo Z推出的YOU WEI有尾讲求戏谑与轻松实用主义。在水润通透的裸感肌肤上，彩妆师选择黑色、棕色的眼线膏在双颊营造小雀斑，这一点肤感的“不完美”迎合了整个设计有趣不羁的特点，“绅型女士”自成一格。这个灵感十分适合在初夏的时候适度运用，能够提升女性的可爱感。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/7/241/552.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">直接剥掉就能卸甲，短时间内还能迅速地再换一种颜色。在今年的上海时装周上，水性指彩在后台被频繁运用。<br/><div class="contheight"></div></span><div style="text-align:center;"><img alt="" height="900" src="http://image.thepaper.cn/www/image/7/241/554.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">刚刚换完指彩的模特现场展示不一样的颜色效果。<br/><div class="contheight"></div></span>用“于细微处见真章”来形容指尖颜色对于整体造型的作用并不夸张，一款合适的甲油颜色往往更容易衬托出设计师的风格，也会让服装的整体效果更加完整。现在，在忙碌的时装周后台，随时根据设计师的作品风格来更换甲油颜色已经成为可能。作为2018上海秋冬时装周专业美甲护理合作伙伴，水性指彩小奥汀可以通过直接剥掉的方式来进行指彩卸除，随时更换指彩颜色，让整体造型更加完整。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李淑平<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2066365">
+<div class="nbgbox">
+<a class="zan" contid="2066365" href="javascript:;" onclick="voteCont(this)" praisetimes="10">
+                           9</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 上海时装周</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2066365&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2066365&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">北京海淀消防夜查41家高等院校，重点检查​实验室、教学楼</h1>
+<div class="news_about">
+<p>中国网</p>
+<p>
+							2018-12-27 13:27<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="410" src="http://image.thepaper.cn/www/image/13/550/36.jpg" width="548"/></div><span style="color: rgb(128, 128, 128);">12月26日，北京市海淀区消防夜查41家高等院校。北京消防供图<br/><div class="contheight"></div></span>北京市海淀区消防26日集中力量对全区41家高等院校消防安全工作进行会诊式消防夜查行动，重点对学校实验室、教学楼、学生宿舍、食堂以及家属区等重点部位的消防安全工作进行检查。<br/><div class="contheight"></div>各个检查组先后对对中国农业大学、北京航空航天大学、北京八维研修学院、北京外国语言大学、政法大学等学校的消防安全管理、消防宣传教育、消防设备设施等工作进行全面检查。重点检查学校实验室、教学楼、学生宿舍、食堂以及家属区等重点部位，对消防设施进行一一检测，对微型消防站队伍进行拉动，查看队员消防器材装备携带情况。<br/><div class="contheight"></div>检查组提示学校要加强对学生宿舍、食堂、实验室等重点部位的消防安全管理，消防安全通道应时刻保持畅通，消防应急照明设施保持完好有效。海淀区消防支队要求各学校全面落实开展消防安全责任，建立健全消防安全管理制度，对学生宿舍、食堂等重点部位进行检查，严禁学生宿舍使用大功率电器，做好电动车充电管理，并将消防安全知识纳入课堂、军训，定期组织开展消防安全知识讲座和应急疏散演练，提升师生消防安全素质和综合应急反应能力。 <br/><div class="contheight"></div>（原题为《北京海淀消防夜查41家高等院校 重点检查​实验室、教学楼》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：马世鹏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 实验室 北京交大 事故 死亡</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2779904">
+<div class="nbgbox">
+<a class="zan" contid="2779904" href="javascript:;" onclick="voteCont(this)" praisetimes="19">
+                           18</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 北京交通大学实验室爆炸</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2779904&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2779904&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

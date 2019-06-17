@@ -1,0 +1,77 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">福建龙岩持刀劫持公交事件已致8死25伤</h1>
+<div class="news_about">
+<p>黄珊、张孙川/央视新闻客户端</p>
+<p>
+							2018-12-26 13:26<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据央视新闻客户端12月26日消息，福建省龙岩市政府最新通报：截至12月26日12:00，龙岩市“12.25”事件共造成8人死亡、25人受伤（新收治3名伤员）。目前当地正继续全力以赴开展伤员救治工作。福建省卫健委组织的7名专家于25日晚抵达龙岩参与救治工作，国家卫健委组织的3名专家也正赶来龙岩。当地政府为25名伤员逐一组建工作小组，一对一开展救助服务，全力做好保障。针对部分伤员心理障碍问题，已组织心理干预团队介入治疗。8名死者身份已全部核实，各项善后措施正在积极落实中。<br/><div class="contheight"></div>25日下午3:03，龙岩市公安局110指挥中心接到群众报警称，新罗区新陂居委会有人持刀杀人，公安干警立即赶赴现场处置，随后将犯罪嫌疑人控制。经公安机关初步侦查，犯罪嫌疑人邱某，男，1970年1月出生，龙岩市新罗区人，无业人员。邱某与当地居委会干部有积怨，事发当日居委会干部到其家中，向其父亲采集优抚对象信息，产生矛盾，犯罪嫌疑人持刀杀人，而后劫持公交车撞人。目前案件具体情况正在进一步侦查中。<br/><div class="contheight"></div>（原题为《福建龙岩持刀劫持公交事件已致8死25伤》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2775329" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">福建龙岩公交劫持案伤者中一38周孕妇流产，自身情况不乐观</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2774789" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">龙岩公交车劫持事件已致8死，其中1名遇害人为派出所民警</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2774590" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">福建龙岩劫持公交车事件已致8死22伤，嫌犯因积怨杀人劫车</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 福建龙岩,公交劫持</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776137">
+<div class="nbgbox">
+<a class="zan" contid="2776137" href="javascript:;" onclick="voteCont(this)" praisetimes="42">
+                           41</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 公交劫持</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776137&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776137&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

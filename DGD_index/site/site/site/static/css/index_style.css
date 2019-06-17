@@ -1,0 +1,43 @@
+.carousel-inner img {
+    width: 100%;
+}
+
+.carousel-caption {
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 1em;
+    top: 50%;
+    transform: translateY(-50%);
+    bottom: initial;
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+}
+
+.carousel-caption > h1, h2, h3, h4, h5, h6, p {
+    color: #101010;
+}
+
+.carousel-caption form label {
+    color: #101010;
+}
+
+.carousel-caption form div.form-group {
+    margin: 0 auto;
+    text-align: center;
+}
+
+/*.carousel-indicators li{*/
+/*background-color: #505050;*/
+/*}*/
+
+/*.carousel-indicators .active{*/
+/*background-color: #101010;*/
+/*}*/
+
+/*.carousel-control-prev-icon {*/
+/*background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23101010' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;*/
+/*}*/
+
+/*.carousel-control-next-icon {*/
+/*background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23101010' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;*/
+/*}*/

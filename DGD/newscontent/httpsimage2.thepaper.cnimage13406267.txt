@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">特朗普被指欲解雇美联储主席，顾问警告：灾难性举动</h1>
+<div class="news_about">
+<p>赵衍龙/环球网</p>
+<p>
+							2018-12-22 15:47<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据四名知情人士透露，美国总统唐纳德•特朗普(Donald Trump)已讨论过解雇美联储(Federal Reserve)主席杰罗姆•鲍威尔(Jerome Powell)一事。<br/><div class="contheight"></div>彭博社22日对此进行了报道。报道称，在本周美联储加息和股市连续数月下跌之后，特朗普对美联储主席鲍威尔的不满情绪加剧。其中两名知情人士表示，总统在过去几天曾多次私下谈论解雇鲍威尔。<br/><div class="contheight"></div>这些不愿透露姓名的人士说，接近特朗普的顾问不相信他会反对鲍威尔，他们希望总统最新一轮的愤怒会在假期中消散。特朗普的一些顾问警告他，解雇鲍威尔将是灾难性的举动。<br/><div class="contheight"></div>彭博社称，特朗普试图将鲍威尔赶下台的任何举动，都有可能在金融市场引发毁灭性的连锁反应，削弱投资者对美联储在不受政治干预的情况下引导经济的能力的信心。<br/><div class="contheight"></div>白宫发言人对此拒绝置评，美联储发言人史密斯(Michelle Smith)也拒绝置评。<br/><div class="contheight"></div>彭博社称，特朗普对其政府成员的公开和私下抱怨，往往是他们离职的第一步，其中包括前司法部长杰夫·塞申斯(Jeff Sessions)、他的第一任国务卿蒂勒森(Rex Tillerson)和即将离任的幕僚长约翰·凯利(John Kelly)。彭博社表示，目前还不清楚总统有多少法律权力解雇鲍威尔。<br/><div class="contheight"></div>彭博社称，此举将对美联储的独立性构成前所未有的挑战。尽管鲍威尔是由总统提名的，但人们认为，由于尊重央行独立性的传统，鲍威尔不会受到特朗普不满的影响。<br/><div class="contheight"></div>（原文标题：《特朗普被指欲解雇美联储主席 顾问警告：灾难性举动》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美联储</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2764060">
+<div class="nbgbox">
+<a class="zan" contid="2764060" href="javascript:;" onclick="voteCont(this)" praisetimes="137">
+                           136</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美联储</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2764060&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2764060&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（56）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

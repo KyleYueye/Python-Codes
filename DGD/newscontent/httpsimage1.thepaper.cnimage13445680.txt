@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=34333">山东高法</a>
+</div>
+<h1 class="news_title">最高法新增“平等就业权纠纷、性骚扰损害责任纠纷”民事案由</h1>
+<div class="news_about">
+<p>山东高法</p>
+<p>
+                            2018-12-24 08:41<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard">最高人民法院关于增加民事案件案由的通知<br/><div class="contheight"></div>法〔2018〕344号<br/><div class="contheight"></div>各省、自治区、直辖市高级人民法院，解放军军事法院，新疆维吾尔自治区高级人民法院生产建设兵团分院；本院各单位：<br/><div class="contheight"></div> 经研究，现就在《民事案件案由规定》中增加两类案由问题通知如下：<br/><div class="contheight"></div> 一、在第一部分“人格权纠纷”的第三级案由“9、一般人格权纠纷”项下增加一类第四级案由“1、平等就业权纠纷”；<br/><div class="contheight"></div> 二、在第九部分“侵权责任纠纷”的“348、教育机构责任纠纷”之后增加一个第三级案由“348之一、性骚扰损害责任纠纷”。<br/><div class="contheight"></div> 本通知自2019年1月1日起施行。<br/><div class="contheight"></div>最高人民法院<br/><div class="contheight"></div>2018年12月12日<br/><div class="contheight"></div><strong>附：新增案由图示</strong><br/><div class="contheight"></div>一、在第一部分“人格权纠纷”的第三级案由“9、一般人格权纠纷”项下增加一类第四级案由“1、平等就业权纠纷”；<div style="text-align:center;"><img alt="" height="608" src="http://image.thepaper.cn/www/image/13/444/804.jpg" width="1080"/></div>二、在第九部分“侵权责任纠纷”的“348、教育机构责任纠纷”之后增加一个第三级案由“348之一、性骚扰损害责任纠纷”。<div style="text-align:center;"><img alt="" height="608" src="http://image.thepaper.cn/www/image/13/444/805.jpg" width="1080"/></div>来源：最高人民法院<br/><div class="contheight"></div> 编辑：傅德慧石慧 <br/><div class="contheight"></div>（本文原标题：《最高法发文新增“平等就业权纠纷”和“性骚扰损害责任纠纷”民事案由》）<br type="_moz"/></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2767620">
+<div class="nbgbox ">
+<a class="zan" contid="2767620" href="javascript:;" onclick="voteCont(this)" praisetimes="80">
+                                    79</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

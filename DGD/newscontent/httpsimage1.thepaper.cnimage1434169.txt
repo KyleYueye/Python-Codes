@@ -1,0 +1,90 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25464">澎湃质量报告</a>
+</div>
+<h1 class="news_title">权健经备案核准直销网点仅限津湘浙三省市，其余均涉嫌违规</h1>
+<div class="news_about">
+<p>澎湃新闻记者 温潇潇 实习生 王晓蕾</p>
+<p>
+							2019-01-08 14:24<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日，广东省市场监督管理局发布情况通报称，因权健自然医学科技发展有限公司（以下简称“权健公司”）服务网点尚未经过商务部备案，故权健公司不能在广东省境内开展任何直销经营业务。权健公司广东分公司目前已停业整顿。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）发现，商务部直销行业管理网公布的权健公司服务网点仅在天津、湖南和浙江三地，其余地区均无服务网点，这意味着权健公司在这三省市之外的地区并无开展直销的资格。<br/><div class="contheight"></div>1月7日晚，广东省市场监督管理局一位胡姓人士告诉澎湃新闻，尽管权健公司作为一家直销企业在广东成立了分公司，但只要其服务网点未经备案，没有经过商务部公示，就意味着该分公司不能以直销方式销售产品。<br/><div class="contheight"></div>“他（权健广东分公司）只能通过开实体店销售相关产品，这和直销不一样，直销有直销员，将产品直接销售给消费者，” 胡姓人士说。<br/><div class="contheight"></div>广东省市场监督管理局的通报指出，截至2019年1月4日，与权健相关联的工作室、火疗馆等市场主体在广东省共233家。对于与权健相关联的233家实体店，该负责人表示，“具体哪些涉及违规直销，哪些属于正规经营，目前我们还在摸查中。”<br/><div class="contheight"></div>澎湃新闻查询发现，权健公司在商务部网站审批登记的一共有10家分公司，分布在全国十个省或直辖市。除了2013年10月审批登记的天津分公司以外，其余分公司均于2017年6月5日审批登记。<br/><div class="contheight"></div>而权健公司经备案核准的服务网点却只分布于三个地区：天津、湖南和浙江。<br/><div class="contheight"></div><strong>《直销行业服务网点设立管理办法》显示，依法取得直销经营许可证的企业应在批准文件下发之日起6个月内上报并经商务部核准完成服务网点的设立，不得在未完成服务网点方案的地区从事直销业务；同时，直销企业也不得在未完成核查和备案前开展直销活动。</strong><br/><div class="contheight"></div>一名不愿具名的直销行业专家告诉记者，直销企业在商务部申请直销区域时，服务网点必须经过商务部核查，否则不能开展直销业务。<br/><div class="contheight"></div>《直销行业服务网点设立管理办法》指出，直销企业的服务网点的成立，需便于满足最终消费者、直销员了解商品性能、价格和退换货等要求。<br/><div class="contheight"></div>综合上述信息，除了天津、湖南和浙江三地，权健公司目前在全国其他地区都不具备开展直销活动的资格。<br/><div class="contheight"></div>权健有六个省份的分公司（包括广东分公司）在商务部直销行业管理网登记的负责人为王生涛，1月9日上午，澎湃新闻联系上他，但他屡次表示对广东分公司未经备案的服务网点开展直销以及其他各地备案情况“不知情”。<br/><div class="contheight"></div>“我（在权健）负责后勤保障，再说他们（服务网点）不需要通过我们（做直销），都是他们（服务网点）私自的行为，是经销商个人行为。”王生涛说，随后便挂断电话。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_asktopic">
+<div class="news_askuser" onclick="window.open('asktopic_detail_10014810');"><span class="verticalAlign_topic"></span>
+<div class="news_askuser_bd">
+<div class="news_askuser_sort">目击</div>
+<div class="news_askuser_profile">权健“帝国”是怎样建成的,问吧!</div>
+</div> <div class="news_askuser_trbs"><span class="trbs">
+<div class="userleft_hdimg">
+<img src="//image.thepaper.cn/publish/interaction/image/2/964/970.jpg"/><div class="hdimg_bg30"><img src="//file.thepaper.cn/www/v3/img/headerimg_ctbg30.png"/><span></span></div>
+</div>
+<a class="u_sname">质量报告报道组</a>
+<span>2天前</span>
+<span class="trbs_zan" id="10014810" times="282">282</span>
+<span>提问征集中</span>
+</span></div>
+</div>
+</div>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 服务网点,权健,直销,天津,湖南,浙江</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827382">
+<div class="nbgbox">
+<a class="zan" contid="2827382" href="javascript:;" onclick="voteCont(this)" praisetimes="173">
+                           172</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 权健</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827382&caid=25464",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827382&amp;caid=25464" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

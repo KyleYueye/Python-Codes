@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">AT&amp;T称将在2020年全美推行5G，正因误导营销遭抨击</h1>
+<div class="news_about">
+<p>澎湃新闻记者 承天蒙 综合报道</p>
+<p>
+							2019-01-10 19:08<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">美国第二大通信运营商AT&amp;T宣布了2020年初在美国全面覆盖5G网络的计划。<br/><div class="contheight"></div>1月9日，AT&amp;T发布新闻稿称，移动5G将会采用毫米波技术和低于6 GHz的低频段完成高速数据传输。这一低频5G网络预计将于2019年下半年开始运营。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="395" src="http://image.thepaper.cn/www/image/14/121/385.png" width="600"/></div>科技网站Apple Insider当天报道介绍，这意味着AT&amp;T打算在其5G部署中聚合低频段信号，证明公司将重新推出低频段频谱，以促进向5G的过渡。上述报道还介绍，基于标准的移动5G网络运营频谱通常在28-39GHz之间。更广泛的5G覆盖将依赖于现有的LTE频谱的较低频段。<br/><div class="contheight"></div>值得注意的是，AT&amp;T正因其涉及5G的误导性营销遭受竞争对手抨击。<br/><div class="contheight"></div>据科技网站The Verge1月9日报道，此前，AT&amp;T决定更新部分手机上的图标，让手机连到其4G LTE网络上时显示“5G E”而不是“LTE”。“5G E”的图标意指“5G Evolution”（5G进化），是公司为旗下4G网络打造品牌的一种方式，其中并没有涉及实际的5G技术，这个图标也不会出现在5G手机上。<br/><div class="contheight"></div>AT&amp;T被认为是把现有的LTE手机上打了一个假5G的标签。<br/><div class="contheight"></div>随着AT&amp;T本周在三款手机上应用了“5G E”图标，美国其他通信运营商纷纷对这种误导性的品牌营销进行了批评。T-Mobile发布了一个视频，里面把一台iPhone上的LTE图标用一张写着“9G”的便利贴盖住，称“没想到这么简单”。Verizon在4家主要报纸上发布了整版广告，号召行业不要用5G广告误导消费者。Sprint则直接声称“AT&amp;T在公然误导消费者”。<br/><div class="contheight"></div>AT&amp;T通信首席执行官约翰·多诺万（John Donovan）1月9日在CES上称，公司不会因其误导性5G广告而退缩，并称他很高兴能让竞争对手震惊。<br/><div class="contheight"></div>多诺万称：“每个公司都应对你想要这个世界如何工作的表述负责，而且我喜欢这个事实，那就是我们两天前打破了我们行业的叙述规则，这让他们对自己要做的事感到沮丧。”<br/><div class="contheight"></div>多诺万还称，这个5G图标是为了让消费者明白他们能向手机期待什么速度。“我们做了消费者调研，他们不仅很容易接受，而且对什么时候能体验这种网络感兴趣。”<br/><div class="contheight"></div>The Verge报道评论称，AT&amp;T的速度并不特别突出。此前AT&amp;T曾称，客户只能预期“5G E”的平均速度约为每秒40M，这实际上与城市里AT&amp;T现行的速度差不多。根据评测网站Tom’s Guide2018年的测速，威瑞森（Verizon）的LTE网络甚至比平均速度更快。<br/><div class="contheight"></div>而AT&amp;T似乎也清楚自己在做什么。通过把LTE说成“5G E”，一大批用户将在5G真正推出前一年就看到5G的图标，这能在5G市场正式开战之前，提前抢占消费者的认知优势。<br/><div class="contheight"></div>AT&amp;T称，将于2019年春季在更多设备上应用“5G E”图标。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王杰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; AT&amp;T，5G，误导性营销</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837165">
+<div class="nbgbox">
+<a class="zan" contid="2837165" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: AT&amp;T</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837165&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837165&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

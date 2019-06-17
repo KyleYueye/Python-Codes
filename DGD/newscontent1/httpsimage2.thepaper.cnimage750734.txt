@@ -1,0 +1,80 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">新表试戴|泰格豪雅：碳纤维的极速变奏</h1>
+<div class="news_about">
+<p>文/钟天阳 图/王辰</p>
+<p>
+							2018-03-25 09:29<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>一向在新材质上大胆突破的泰格豪雅于巴塞尔国际钟表珠宝展 (Baselworld)为品牌标志性的摩纳哥系列再添全新表款。全新腕表采用坚固的碳表壳，全黑表盘和水蓝色计时盘。这个旗舰系列以前从未采用过如此大胆的设计，无论在制表还是赛车领域均堪称重量级创意之作。泰格豪雅的经典系列腕表重焕新生，得益于品牌与制表研究中心Bamford Watch Department间的合作。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/7/50/728.jpg" width="600"/></div></u><span style="color: rgb(153, 153, 153);">TAG Heuer泰格豪雅摩纳哥系列Bamford Watch Department合作特别款。<br/><div class="contheight"></div></span>这并非泰格豪雅与Bamford Watch Department之间的第一次合作，这一瑞士制表品牌在2017年就已经为其客户和表迷提供了定制专属表款的机会。延续这一成功之势，泰格豪雅再次邀请BWD首席执行官乔治·班福德 (George Bamford) 为摩纳哥系列新品操刀，全新表款带有班福德姓名标识。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/7/50/724.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">TAG Heuer泰格豪雅摩纳哥系列Bamford Watch Department合作特别款。<br/><div class="contheight"></div></span>这一新作延续了摩纳哥系列腕表的标志性特征：39毫米方形表壳，表冠设置于左侧。但同时，新款的表壳采用了一种理想的制表材质——质量轻盈、耐抗性强的碳材质。班福德的标志性风格在时标带有夜光涂层的计时盘和日期窗口上显而易见：夜光涂层采用Bamford Watch Department钟爱的水蓝色。表盘和表背镌刻“Monaco Bamford”字样，以纪念此次合作。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/7/50/725.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">TAG Heuer泰格豪雅摩纳哥系列Bamford Watch Department合作特别款。<br/><div class="contheight"></div></span>一般的碳纤维材质表壳，通常是将碳纤维按照纵横维度编织后压制、切割以及打磨抛光而成，因此往往会留下纵横编织纹理。但是这枚合作的腕表采用的是新的碳纤维科技，经过特殊工艺打造而成的碳纤维表壳，会留下不规则的如同迷彩一般的纹理，最终使得每一枚腕表的纹理都独一无二。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/7/50/727.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">TAG Heuer泰格豪雅摩纳哥系列Bamford Watch Department合作特别款。</span></div>
+<div class="go_to_topic">
+<p style="line-height: 20px; margin-bottom:5px">
+<img alt="" src="//file.thepaper.cn/www/v3/img/topic.gif" style="float:left">
+<a href="newsDetail_forward_31826" target="_blank">
+<span class="news_topic">
+                              【专题】专题｜直击巴塞尔2018</span>
+</a>
+</img></p></div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘嘉郦<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2039335">
+<div class="nbgbox">
+<a class="zan" contid="2039335" href="javascript:;" onclick="voteCont(this)" praisetimes="7">
+                           6</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 巴塞尔表展</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2039335&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2039335&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

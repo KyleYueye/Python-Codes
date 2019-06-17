@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国防部长马蒂斯：因与总统观点不一致而决定辞职</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2018-12-21 08:32<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2758428" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">特朗普：国防部长马蒂斯将于明年2月离职</span></a></img></p></div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="378" src="http://image.thepaper.cn/www/image/13/357/214.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">马蒂斯</span><br/><div class="contheight"></div>中新网12月21日消息，综合报道，美国总统特朗普20日通过社交网站宣布，国防部长詹姆斯•马蒂斯将在明年2月底去职。马蒂斯随后宣布，自己因为和特朗普观点不一致而决定辞职。<br/><div class="contheight"></div>“在我的政府担任国防部长2年后，受人尊敬地马蒂斯将军将在2月底去职。”特朗普在社交网站发文说。特朗普对马蒂斯表示感谢，并表示新的部长提名人选很快会被公布。<br/><div class="contheight"></div>马蒂斯则在给特朗普的信件中写道：“因为你有权选择一位这些议题上与你观点更加一致的国防部长，我认为我辞职是正确的选择。”<br/><div class="contheight"></div>马蒂斯说，他一直坚持的核心信念是，美国的力量与同盟伙伴关系体系的力量密不可分，“但在不维持与强大盟友的关系、不尊重盟友的情况下，我们不能保护我们的利益和有效率地发挥作用。”<br/><div class="contheight"></div>此前一天，特朗普刚刚宣布他决定从叙利亚撤军，这一举动引发了许多五角大楼官员的担忧。<br/><div class="contheight"></div>五角大楼官员表示，马蒂斯曾强调，美国在叙利亚的反恐行动没有结束，在叙利亚的一小部分美军应该保留。<br/><div class="contheight"></div>（原题为《美防长马蒂斯：因与总统观点不一致而决定辞职》）</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 特朗普,马蒂斯</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2758484">
+<div class="nbgbox">
+<a class="zan" contid="2758484" href="javascript:;" onclick="voteCont(this)" praisetimes="50">
+                           49</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 特朗普</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2758484&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2758484&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

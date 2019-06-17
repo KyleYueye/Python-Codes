@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜提前上班遇车祸不算工伤？念歪经是对员工的二次伤害</h1>
+<div class="news_about">
+<p>澎湃特约评论员 杨晨</p>
+<p>
+							2018-08-01 16:17<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2309546" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜提前上班遇车祸不算工伤？念歪经是对员工的二次伤害" src="//image.thepaper.cn/image/9/271/434.gif"/>
+</a>
+<div class="atlas_360_txt">男子凌晨上班遇车祸，公司：提前上班违反制度，不算工伤<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">每天提前上班，这样的好员工，哪家公司不乐意啊，可要是员工因此受伤，又有几家公司愿意担责呢？ <br/><div class="contheight"></div>家住南通如东的男子王某，在一家公司做保洁，工作时间从早上6点开始，但他每天5点就来上班了。近期，王某出门上班时遭遇车祸，交警部门认定他在这起事故中不承担责任。伤愈后，王某向人社局提出工伤认定申请。人社局在调查取证后，向王某所在公司下发了《工伤认定决定书》，但后者却认为王某违反公司制度提前上班，不应该认定为工伤，请求撤销工伤认定决定。（8月1日《现代快报》） <br/><div class="contheight"></div>从情理来说，员工每天提前上班，给公司创造更多的价值，一旦发生车祸，就以“违反公司制度”为由推脱，当起了“甩手掌柜”，要问一句，之前为啥不说人家提前上班错了呢？对己有利时睁一只眼闭一只眼，对己不利时便“锱铢计较”，这样的功利做派，能不让员工寒心？ <br/><div class="contheight"></div>从法律上讲，王某这种情况认定为工伤，实属无可厚非。根据《工伤保险条例》，“在上下班途中，受到非本人主要责任的交通事故或者城市轨道交通、客运轮渡、火车事故伤害的”，属于工伤。这里的“上下班途中”，并没有时间上的任何限制，且交警部门认定其无责。他提前上班是“履行职责”，维护公司利益，故而应在法规保障的范围之内。 <br/><div class="contheight"></div>对于劳动者而言，工伤认定是实现权利救济的重要渠道。根据《工伤保险条例》，一旦被认定为工伤，职工可以享受治（医）疗费、住院伙食补助费、康复治疗费、停工留薪期工资、生活护理费等工伤保险待遇。这种温情的规定，强化了对劳动者权益的兜底保护。 <br/><div class="contheight"></div>根据最高法《关于审理工伤保险行政案件若干问题的规定》，“从事属于日常工作生活所需要的活动，且在合理时间和合理路线的上下班途中”等四种情形，可认定为“上下班途中”。根据该司法解释，劳动者就算是下班路上到市场买把菜“受伤”，也应算是工伤。司法解释的适度扩张，延续了劳动立法的精神，给予了相对弱势的劳动者更多关怀。 <br/><div class="contheight"></div>令人遗憾的是，虽然有法律法规、司法解释“护身”，在现实中，劳动者不仅遭遇“提前上班不算工伤”的曲解，对“因公外出”、“履行职责”等关键条款，也存在“好经被念歪”，甚至是行政复议后仍不认账，让不少劳动者权益难以保障的现象。 <br/><div class="contheight"></div>王某的遭遇，在当地县人社局的介入后有了圆满的结局：王某所在公司负责人表态让其享受工伤待遇。此事虽小，但足以引发各方深思，有必要重申这一常识：对劳动者的保护，是文明社会的良心，也是法治社会的底线。劳动立法固然要有所突破，相关部门也应依法履行好职责，别让劳动者法定权益因歪读、曲解而打折。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 上下班途中工伤</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2310938">
+<div class="nbgbox">
+<a class="zan" contid="2310938" href="javascript:;" onclick="voteCont(this)" praisetimes="84">
+                           83</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 上下班途中工伤</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2310938&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2310938&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,86 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">联合国前秘书长潘基文：中国改革开放在世界历史上有重大意义</h1>
+<div class="news_about">
+<p>人民网</p>
+<p>
+							2018-12-21 13:58<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<script src="//file.thepaper.cn/www/v3/js/jwplayer7.1.4.js" type="text/javascript"></script>
+<script type="text/javascript">jwplayer.key="JYFbHxc36sStM1VSc1vvyI42CCrHFlTZcWEYUA==";</script>
+<div class="news_video_name">
+<style type="text/css">
+							#player_wrapper{width:669px;height:377px;}
+							#player_wrapper .player_err_tip{width:669px;height:377px;display: none;vertical-align: middle;background-color: black;color: white; text-align: center;}
+							.jw-tab-focus:focus{outline:none;}
+						</style>
+<div id="player_wrapper">
+<div class="player_err_tip" id="Text">抱歉!<br/>您的浏览器可能不支持此视频播放器，请用更高版本的浏览器试试！</div>
+</div>潘基文：中国改革开放在世界历史上具有重大意义。 视频来源：人民网(04:17)
+					</div>
+<div class="news_txt" data-size="standard">人民网12月21日消息，今年年初，潘基文担任了博鳌论坛理事长一职，并在海南省首次参加了博鳌论坛。当时，习近平主席通过演讲介绍了改革开放40年的历史意义和取得的成果，以及今后的发展计划。12月12日，习近平主席在人民大会堂会见潘基文，再次强调了改革开放40年的历史性意义，并交换了意见。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="307" src="http://image.thepaper.cn/www/image/13/365/385.jpg" width="558"/></div><span style="color: rgb(128, 128, 128);">潘基文</span><br/><div class="contheight"></div>作为中国10多年来发展的见证者，潘基文认为，今年正值中国实行改革开放四十周年，最重要的是，改革开放不仅有益于中国人民的发展，在世界历史上也具有重大意义。联合国于2000年发表了“千年发展目标”，宣布在2015年前实现14至15亿的极端贫穷人口数量减半，并为此付出了巨大努力。然而在2010年，世界银行便宣布提前5年实现了这个目标。这完全要归功于中国有7亿多人口摆脱贫困。正因如此，改革开放在世界历史上也具有重要意义。<br/><div class="contheight"></div>国际社会的众多外国政要及经济专家都对中国改革开放40年来取得的成就给予了高度评价。潘基文表示，在他担任联合国秘书长期间，联合国发布了2030年可持续发展目标。距离2030年还有12年的时间，他希望中国能够发挥更大的作用。12月12日，习近平主席在演讲中也提出，截至2020年，中国的全部人口都将摆脱贫困、消灭赤贫。<br/><div class="contheight"></div>潘基文指出，在中国改革开放40年中，取得的最为显著的成就便是带领7亿多中国人民脱贫。与此同时，中国在维系自身制度体系的同时，与国际制度共同发展，这赢得了国际社会的信任，进一步促进了贸易投资。潘基文认为，中国也得益于此才能跻身为全球第二大经济体。<br/><div class="contheight"></div>（原题为《中国改革开放在世界历史上具有重大意义——联合国前秘书长潘基文》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = 'http://cloudvideo.thepaper.cn/video/0c93132580f84a258a9ccae8aaa96c79/hd/f797db33-3bbc-4d99-8a4b-a98ad1808dee-19cece41-3b75-67a3-14c7-6deb7e97d01f.mp4',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'//image1.thepaper.cn/image/13/366/345.jpg',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 潘基文,改革开放40年</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2759499">
+<div class="nbgbox">
+<a class="zan" contid="2759499" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 改革开放40年</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2759499&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2759499&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

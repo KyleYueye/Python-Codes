@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">山西闻喜“6·03”涉黑、盗墓案一审宣判：主犯被判无期</h1>
+<div class="news_about">
+<p>王宇 胡晓冬/央视新闻客户端</p>
+<p>
+							2018-12-26 21:15<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="344" src="http://image.thepaper.cn/www/image/13/532/514.jpg" width="600"/></div><br/><div class="contheight"></div>央视新闻客户端12月26日报道，近日，山西省运城市中级人民法院对运城市人民检察院提起公诉的张建林、张建军等11名被告人共同或分别犯参加黑社会性质组织、盗掘古墓葬、敲诈勒索、非法拘禁、故意伤害等9项罪名案件依法进行了公开宣判，主犯被判处无期徒刑。<br/><div class="contheight"></div>经法院审理查明：被告人张建军自幼与侯金海（已判刑）相识，结识了侯金海之兄侯金亮、侯金发（二人均已判刑），为牟取利益参与了侯氏兄弟组织的黑社会性质犯罪集团，管理德润公司进行非法放贷910万元，非法获利285万元，故意伤害大西高铁七里店搅拌站车队队长陈绍波致其重伤，担任网络赌博一级代理，涉案赌资400多万元。<br/><div class="contheight"></div>2007年，被告人张建林与侯金海结识后，加入该犯罪集团，受侯金海指使，与被告人张建军伙同本案其他被告人秦伟、贾伟、张文奎、张杨凯、杜强、刘彦昌、李张惠、刘立波、袁海波，违反国家对古墓葬的管理制度，先后共同或分别结伙参与实施在省级重点文物保护单位范围内盗掘古墓葬，造成文物的流失和古墓葬的损毁、破坏。并敲诈勒索张兵义100万元、非法拘禁李文杰、非法持有枪支两支、非法经营1000万元等违法犯罪活动。被告人张建林、张建军通过参加侯金海等人有组织的违法犯罪活动，严重破坏当地经济、社会生活秩序，造成恶劣的社会影响。<br/><div class="contheight"></div>法院认为，被告人张建林、张建军积极参加侯金发、侯金海、侯金亮等人的黑社会性质犯罪集团，以暴力、威胁或其他手段，多次实施有组织的违法犯罪活动，索取债务，非法拘禁他人、非法限制他人人身自由，为非作恶，严重破坏经济、社会生活秩序。张建林违反枪支管理规定和国家文物管理制度，非法持有、私藏枪支，帮助侯金海倒卖国家禁止经营的文物，依法必须严惩。<strong>被告人张建林犯参加黑社会性质组织罪、盗掘古墓葬罪、敲诈勒索罪、非法拘禁罪、非法持有枪支罪、倒卖文物罪，判处无期徒刑，剥夺政治权利终身，并处没收个人全部财产，追缴违法所得5万元，上缴国库</strong>; 被告人张建军犯参加黑社会性质组织罪、盗掘古墓葬罪、敲诈勒索罪、故意伤害罪、非法拘禁罪、开设赌场罪、掩饰、隐瞒犯罪所得罪，判处有期徒刑二十五年，剥夺政治权利四年，并处罚金人民币162万元; 被告人秦伟、贾伟、张文奎、张杨凯、杜强、刘彦昌、李张惠、刘立波、袁海波共同或分别犯盗掘古墓葬罪、敲诈勒索罪、非法拘禁罪，分别被判处有期徒刑17年至6年不等刑期及相应财产刑。<br/><div class="contheight"></div>（原题为《山西闻喜“6.03”系列涉黑、盗墓案一审公开宣判》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 山西闻喜,涉黑,盗墓,公开宣判</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2777878">
+<div class="nbgbox">
+<a class="zan" contid="2777878" href="javascript:;" onclick="voteCont(this)" praisetimes="68">
+                           67</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 涉黑案</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2777878&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2777878&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

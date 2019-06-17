@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">匈牙利新劳动法被指“奴隶法”，大幅上调加班时间引四次抗议</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-17 19:44<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">上周日，近万名抗议者走上匈牙利首都布达佩斯街头，抗议欧尔班（Victor Orban）政府的劳动法改革。这已经是布达佩斯一周内的第四场抗议活动了。<br/><div class="contheight"></div>据路透社17日报道，此次抗议的主要诉求是反对修订劳动法。根据新修订的劳动法，企业雇主可将员工每年的加班时间延长到至多400小时。新法还放宽了雇主向员工发放加班费的期限，由此前的1年变为了3年。不少国内反对派和批评人士将该新法案称为“奴隶法”。<br/><div class="contheight"></div>根据之前的法律，每年加班时间的上限为250小时。将其提升至400小时意味着每周的工作时间可以提高至48小时，即一周的工作时间实际上会延长一天。<br/><div class="contheight"></div>根据欧盟统计局的一项统计，欧洲国家每周平均工作时长接近40小时。德媒此前一项数据显示，德国人的加班时间在整个欧盟一直位居前列，但其每周的的实际工作时间也不过41小时，远低于48小时。如此工时差距，再加上许多欧洲国家的工资水平高于匈牙利，这更加深了匈牙利民众的不满。<br/><div class="contheight"></div>除了对劳动法的修订，欧尔班政府还通过了一项新法律，允许政府设立新的行政法院，以处理选举法、抗议和腐败等敏感问题。这项举措也遭到了抗议者的批评。<br/><div class="contheight"></div>尽管当地气温接近零度，近万名抗议者们依然在周日走上街头抗议。抗议大军由学生、工会、反对党代表等社会团体组成。他们燃放烟花，挥舞着匈牙利和欧盟旗帜，从英雄广场向议会大厦和国家电视台所在地一路走去。在国家电视台外，抗议者和警察发生了冲突，警察向抗议者发射了催泪瓦斯。<br/><div class="contheight"></div>据英国广播公司（BBC）报道，此次抗议活动被参与者命名为“圣诞快乐！总理！”许多抗议者举起横幅称其想收到“民主”作为“圣诞礼物”。<br/><div class="contheight"></div>“今日匈牙利”（Hungary Today）新闻网站13日曾报道，由于欧尔班的匈牙利青年民主联盟（青民盟）与基督教民主人民党（基民党）组成的执政联盟在国会拥多数席位，这项劳动法修正案12日在争议之中仍获得通过。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：汪伦宇<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 匈牙利 劳动法改革</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2747070">
+<div class="nbgbox">
+<a class="zan" contid="2747070" href="javascript:;" onclick="voteCont(this)" praisetimes="81">
+                           80</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 匈牙利</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2747070&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2747070&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

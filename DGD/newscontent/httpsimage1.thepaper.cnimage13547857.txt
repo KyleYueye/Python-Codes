@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25464">澎湃质量报告</a>
+</div>
+<h1 class="news_title">长沙一低保户获政府免费提供每年72吨水，物业要扣14吨</h1>
+<div class="news_about">
+<p>谢春年/掌上长沙</p>
+<p>
+							2018-12-27 11:37<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">丁先生属于低保户，政府出于对低保户的关心，每年都给他家免费提供72吨自来水，但是丁先生每年只从小区物业公司得到58吨水。对此他感觉无法理解，于是向长沙晚报帮帮团反映了此事。<br/><div class="contheight"></div>“我住的是只有6层的廉租房，根据政府的规定，6层以下根本不需要搞二次增压。”家住雨花区天凯冬苑小区丁先生说，3年前开始，政府每个月会给他家免费提供6吨水，每年他从长沙供水公司将政府补助的72吨水的表格交给物业后，物业都要扣14吨水，说是要给二次增压的损耗费。丁先生说，物业以这个为借口已经连续扣了他3年了。<br/><div class="contheight"></div>记者就此联系了小区物业公司，工作人员对此解释说，因为长沙供水公司的水价是2.68元每吨，小区是二次供水，而且是二次加压，水价是3.30元每吨。72吨水乘以2.68元，到小区来买水，折算为以3.30元每吨的价格计算，只能拿到58吨水。小区18楼的高层有很多栋，6层的楼栋只有廉租房，但整个小区从一楼至顶楼都是二次加压的，所以整个小区不同楼层水价是没有差别的。<br/><div class="contheight"></div>随后小区物业公司负责人刘先生向记者解释，低保户享受的72吨水折价后到小区内只能购58吨，这是物业公司财物统一收取的，小区物业不能亏钱。另外，因为都是二次增压供水，低区与高区的水价收取是没有差别的。如果政府在给低保户免费提供的自来水时也考虑了增压费的问题，那么，在小区内就能拿到足额的水量。刘先生还表示，物业公司收费标准都公示过，不会乱收费。<br/><div class="contheight"></div>记者就此咨询了长沙供水公司。工作人员表示，一般情况下，小区高层都有一次供水和二次供水，六楼及以下的楼层实行一次供水，七楼及以上的楼层都实行二次供水，二次供水的水价自然要比一次供水的价格高。当然，因为是物业公司向业主收取水费的，长沙供水公司的这种二次供水楼层的标准只作为参考。但物业收费一定是有物价部门的收费依据的，业主对此有怀疑，可以要求物业公司出示相关收费标准。<br/><div class="contheight"></div>刘先生告诉记者，目前小区正向长沙供水公司申请进行水改，预计明年住户就可以到直接到自来水公司交费购水，那时就不会出现丁先生这样的尴尬事了。<br/><div class="contheight"></div>（原题为：《长沙一低保户获政府免费提供的72吨水 物业扣了14吨》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 长沙,低保户,物业,免费</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2779627">
+<div class="nbgbox">
+<a class="zan" contid="2779627" href="javascript:;" onclick="voteCont(this)" praisetimes="57">
+                           56</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 低保户</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2779627&caid=25464",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2779627&amp;caid=25464" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（56）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

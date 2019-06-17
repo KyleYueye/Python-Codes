@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">陈天桥《打开思想的大门》获评戛纳企业影片三项金奖</h1>
+<div class="news_about">
+<p>苏小艾</p>
+<p>
+							2018-10-01 07:38<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日，脑科学纪录片《打开思想的大门》在2018年戛纳媒体及电视企业奖评选中，一举获得医学、教育和科技三个类别的金奖。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="268" src="http://image.thepaper.cn/www/image/10/950/57.jpg" width="600"/></div>据了解，该奖项创立于2010年，目前已经成为世界顶级的企业影片影展，评审团由奥斯卡和艾美奖得主、企业形象传播媒体专家所组成，参赛者来自全球五大洲，含金量高。<br/><div class="contheight"></div>《打开思想的大门》是由TCCI创始人陈天桥和雒芊芊投资出品的首部纪录片，开创了中国慈善家在全球普及宣传脑科学的先河。该片主角是世界上最具创新力的科学家和医生，他们通过跨学科研究工作，破解人类大脑的奥秘，帮助受脑部疾病困扰的患者改善生活。<br/><div class="contheight"></div>该片展示了脑科学领域的尖端研究成果、令人惊叹的发展进步和潜力诱人的机遇，表现手法深入浅出，画面制作精美。自9月中旬通过美国Discovery Channel在全球播映后，持续获得好评。仅在中国、美国两地在线浏览量已超过2000万人次，被科技界人士盛赞是难得一见的精彩脑科学科普片。纪录片此番获奖也必将激励更多的优秀人才投身脑科学研究。 <br/><div class="contheight"></div>脑科学领域一直是个神秘的领域，人类对自己的大脑熟悉而又陌生。《打开思想的大门》此番获奖为人类脑科学研究发展揭开了神秘冰山的一角，让大家有机会一窥脑科学的世界。脑科学纪录片的获奖不仅是对TCCI的肯定，也是激励人类脑科学研究发展的一剂强心针。这些研究成果让大家开始有理由相信，脑科学领域的进步确确实实能够为人类的健康以及未来的发展带来实实在在的福音。最现实的情况是那些深陷孤独、痛苦、绝望中的患者，让他们看到了治愈的希望。<br/><div class="contheight"></div> “我们即将在脑科学领域实现若干突破，这些突破有可能减轻病人的痛苦，激发新的技术，真正改变世界。”TCCI 创始人陈天桥说，“现在是支持基础脑科学研究的最佳时机，因为我们正面临推进科学发展、帮助人类和塑造未来的大好机会。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张颖<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2492018">
+<div class="nbgbox">
+<a class="zan" contid="2492018" href="javascript:;" onclick="voteCont(this)" praisetimes="20">
+                           19</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 陈天桥</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2492018&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2492018&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

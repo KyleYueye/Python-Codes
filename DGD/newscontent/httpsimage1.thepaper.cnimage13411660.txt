@@ -1,0 +1,83 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="channel_36079">湃客</a>
+                    &gt; <a href="list_35572">有数</a>
+</div>
+<h1 class="news_title">从天府之国到东方之珠，大数据描画川港交流</h1>
+<div class="news_about">
+<p>
+                            2018-12-23 17:31<span> 来源：澎湃新闻 湃客</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_paike_author clearfix">
+<a href="sparker_2413604" target="_blank">
+<div class="thum">
+<img src="//image.thepaper.cn/publish/interaction/image/2/860/632.jpg"/>
+<span class="icon_vip"></span>
+</div>
+<div class="name">MORE数据</div>
+</a>
+<div class="line"></div>
+<div class="link" data-userid="2413604" onclick="followUser(this)">+关注</div>
+</div>
+<div class="news_txt" data-size="standard">当四川遇上香港，两种截然不同的文化，将会有怎样的火花呢？随着川港交流日渐密切，四川人去香港的多了，香港客人来川也更频繁了！<br/><div class="contheight"></div>川人最爱香港哪个景点？ 哪个港星来川开演唱会最多？这组大数据告诉你<br/><div class="contheight"></div>香港印象▼<div><img alt="" src="http://image.thepaper.cn/www/image/12/876/657.jpg" style="width:600px;"/></div><div><img alt="" src="http://image.thepaper.cn/www/image/12/876/658.jpg" style="width:600px;"/></div><div><img alt="" src="http://image.thepaper.cn/www/image/12/876/659.jpg" style="width:600px;"/></div><div><img alt="" src="http://image.thepaper.cn/www/image/12/876/660.jpg" style="width:600px;"/></div><div><img alt="" src="http://image.thepaper.cn/www/image/12/876/661.jpg" style="width:600px;"/></div>喜欢的香港明星▼<div><img alt="" src="http://image.thepaper.cn/www/image/12/876/672.jpg" style="width:600px;"/></div><div><img alt="" src="http://image.thepaper.cn/www/image/12/876/673.jpg" style="width:600px;"/></div><div><img alt="" src="http://image.thepaper.cn/www/image/12/876/674.jpg" style="width:596px;"/></div><div><img alt="" src="http://image.thepaper.cn/www/image/12/876/675.jpg" style="width:600px;"/></div>川报集群MORE大数据工作室联合省商务厅、公安厅等政府单位、飞常准、携程旅游网等商业网站、大数据工作室爱码士小组的爬虫工程师，抓取、整理了近40组数据，以经济、旅游、餐饮、演出为主题，将川港交流中充满韵味的景象描画给你。<br/><div class="contheight"></div>四川省重点港资企业▼<br/><div class="contheight"></div><div><img alt="" src="http://image.thepaper.cn/www/image/12/876/747.jpg" style="width:600px;"/></div>川人最爱的香港景点▼<br/><div class="contheight"></div><div><img alt="" src="http://image.thepaper.cn/www/image/12/876/749.jpg" style="width:600px;"/></div>在川的港式餐厅分布▼<div><img alt="" src="http://image.thepaper.cn/www/image/12/876/750.jpg" style="width:600px;"/></div>香港歌手来川个唱TOP5▼<br/><div class="contheight"></div>张学友稳居榜首<br/><div class="contheight"></div><div><img alt="" src="http://image.thepaper.cn/www/image/12/876/751.jpg" style="width:600px;"/></div><div>香港歌手来川演唱场地</div><div><img alt="" height="335" src="http://image.thepaper.cn/www/image/13/410/992.png" width="521"/></div>看完这些大数据，你是不是也想去香港走走看看呢？热情好客的四川人也欢迎更多的香港人来家做客，火锅儿、串串儿、胖达儿等着你哟~<audio controls="controls" style="display: none;"></audio><audio controls="controls" style="display: none;"></audio><audio controls="controls" style="display: none;"></audio></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_keyword">关键词 &gt;&gt; 川港,四川,天府之国,香港</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                本文为自媒体、作者等湃客在澎湃新闻上传并发布，仅代表作者观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love sparker_news_love" style="width: 446px;">
+<input id="hidden_contid" type="hidden" value="2703800">
+<div class="nbgbox">
+<a class="zan" contid="2703800" href="javascript:;" onclick="voteCont(this)" praisetimes="29">
+<span></span>28</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang"><span></span>收藏</a></div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2703800&caid=35572",".news_imgad")</script>
+</div>
+<div class="news_txtad">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2703800&amp;caid=35572" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

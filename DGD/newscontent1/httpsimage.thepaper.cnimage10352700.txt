@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜计划生育司退场之后，如何谈论生育</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-09-11 16:25<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">9月10日晚，据中国机构编制网，国家卫生健康委员会职能配置、内设机构和人员编制规定，即“三定”方案正式公布。<br/><div class="contheight"></div>在新方案中，原来负责计划生育工作的三个部门均被撤销，即计划生育基层指导司、计划生育家庭发展司、流动人口计划生育服务管理司。取而代之的是人口监测与家庭发展司。<br/><div class="contheight"></div>继原卫计委中的“计”被拿掉成为卫健委之后，“计划生育”又从卫健委内设机构消失。这是一个明确的信号。<br/><div class="contheight"></div>虽然人们难免做各种猜测，但司局设置的变化或许不与人口政策直接挂钩。不过“计划生育”这个表述的步步后退，是有目共睹的。其最终结局当是退出历史舞台。这一天的到来可能不会太遥远了。<br/><div class="contheight"></div>从某种意义上讲，后计生时代已然来临。前段时间，河南柘城县拟对三孩及以上家庭征收社会抚养费，引发轩然大波。当地回应称，征收是有法律依据的。但这件事说明，公众对计生工作的认知已经发生了变化。<br/><div class="contheight"></div>也难怪公众对“有法律依据”的事不买账，毕竟目前各界关心的焦点是如何在老龄化和低生育率的背景下鼓励生育。一边多地出台政策鼓励生育二孩，一边还有地方对多生孩子的家庭进行罚款，这种反差无论如何都是尴尬的。<br/><div class="contheight"></div>当前人口形势之严峻，乃众所周知。事关经济社会的长远发展，理应建立全社会的共识。人口政策在表述上的调整也是不可或缺的一环。让“计划生育”成为过去式是其一。<br/><div class="contheight"></div>值得注意的是，虽然这几年的计生工作实质上已不同于过去，“计划生育”字样仍广泛存在于地方政府的机构名称和文件中。所谓循名责实，生育问题新共识的形成离不开官方用语的统一调整。<br/><div class="contheight"></div>人口形势在变化，人口政策随之而变。鉴于近来不少争议都源于个别人的一些提法、说法，在“计划生育”表述退场之后，如何谈论生育话题成为一项挑战。谈的不好容易制造无谓的口水。<br/><div class="contheight"></div>从人口监测与家庭发展司这个新机构的名称来看，官方用语的中性化与委婉化或将是趋势。有关部门、有关人士在出台政策或建言献策时，也应该有所注意。<br/><div class="contheight"></div>最重要的是，对公民的生育自主权要有敬畏之心。孩子虽然是一个社会的未来，但生与不生，全赖于家庭与个人，他人无法代为决策。<br/><div class="contheight"></div>释放生育意愿，只能靠松绑，不能靠施压。福利可以有，惩罚不能有。对强力手段的迷信要戒断，否则只会激起逆反心理。治理现代化，便是要摈弃简单粗暴的直线思维。<br/><div class="contheight"></div>现在网上许多年轻人担心被强迫生孩子，大都是杯弓蛇影，但也使一些人患上“恐生症”、“恐孩症”，可谓节外生枝。权威部门应以明确表态击退流言，避免对将来的工作造成干扰。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 计划生育</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2429453">
+<div class="nbgbox">
+<a class="zan" contid="2429453" href="javascript:;" onclick="voteCont(this)" praisetimes="157">
+                           156</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 计划生育</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2429453&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2429453&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（40）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

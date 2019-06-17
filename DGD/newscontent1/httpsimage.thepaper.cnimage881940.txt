@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜又曝“天价车位”，怎么才能打破开发商的垄断？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 吴元中</p>
+<p>
+							2018-07-12 16:20<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2257864" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜又曝“天价车位”，怎么才能打破开发商的垄断？" src="//image.thepaper.cn/image/8/809/632.jpg"/>
+</a>
+<div class="atlas_360_txt">南昌一小区现46万“天价车位”，业主拉横幅抗议<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">7月10日，南昌市红谷滩联泰天悦楼盘首日向业主售卖地下车位，标准车位每个售价28万元，子母车位46万元。有业主打出了“反对开发商漫天要价，祈求政府干涉合理定价！”的横幅。（《江南都市报》7月12日）<br/><div class="contheight"></div>据业主李先生介绍，他刚入住小区时，车位还没建好，7月9日才收到开发商通知，10日开始销售车位。其实，这种车位不与房屋一体销售，而是先出售房屋，等业主入住后再出售车位，甚至有开发商专门囤积车位只租不售，多年后才出售的做法，也是“天价车位”事件中普遍存在的现象。比如，2015年南京建邺区星雨华府83.5万元的“天价车位”事件，2017年的杭州某楼盘销售的70万元“天价车位”事件……都是如此。 <br/><div class="contheight"></div>之所以这种情况下容易造就“天价车位”，原因很简单：业主入住后，开发商就对车位出售形成垄断。因为业主没得选择，不可能为了停车向其他楼盘或到地方购买车位，通常只能任由开发商宰割，甚至被后者通过不当操纵，人为形成天价。 <br/><div class="contheight"></div>所以，要解决广受诟病的“天价车位”现象，不妨从反向考虑：是否可以将房屋与车位一体化销售呢？ <br/><div class="contheight"></div>在此情形下，顾客会通盘考虑，并有总体合适就购买、不合适就不购买的选择权，从而使车位与房屋一起进入市场，受市场价的调节，无形中会更趋向于公道、合理。<br/><div class="contheight"></div>而更深层的原因在于，车位也应当是随房屋一起销售的。因为，车位虽然与商品房分开存在，但并不像普通商品那样具有独立性，而是作为商品房的附属物，是为了服务于商品房业主建造的。所以，车位在性质上更应该看作是商品房的从属物，而不是独立物。 <br/><div class="contheight"></div>在法律制度上，尽管《物权法》、《商品房管理销售办法》以及其他法律法规都没有关于车位定价以及如何销售方面的规定，但《物权法》第一百一十五条规定，“主物转让的，从物随主物转让”，按照此法律精神，车位就应当同房屋一起销售，亦即实行“捆绑式销售”。<br/><div class="contheight"></div>当然，这就难免引发另一方面的争议，即一些消费者认为这样做是强卖车位，有些地方在此顾虑下明确规定禁止“捆绑式销售”，但如此就违背车位的从物性质，理论上也会使开发商建了车位无处出售，对开发商不公不说，从长远和总体上看，更会使开发商形成垄断权，导致其任意哄抬车位价格，使绝大多数有车位需求的业主受害。何况，那些一时不需要车位的业主，并非永远不需要车位，让买的时候不买，想买的时候就可能买不到或者吃大亏。 <br/><div class="contheight"></div>车位同商品房一样属于商品，应当由市场供求决定价格，政府是不宜过多干预定价的。政府的职责只是维护健康的市场秩序，维护车位价格的市场化，使车位价格不受开发商垄断而由市场自由调节。这恰恰要求车位实行“捆绑式销售”，而非相反。 <br/><div class="contheight"></div>从这个角度讲，还希望有关部门能尽快完善《商品房管理销售办法》，明确规定车位须与商品房一体销售，不得滞后销售。同时，对于确实不想买车位的业主，也要能以更智慧的制度规定，平衡其与开发商的利益。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 天价车位</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2259176">
+<div class="nbgbox">
+<a class="zan" contid="2259176" href="javascript:;" onclick="voteCont(this)" praisetimes="32">
+                           31</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 天价车位</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2259176&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2259176&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（40）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

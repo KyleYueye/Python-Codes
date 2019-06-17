@@ -1,0 +1,120 @@
+{% include "header.html" %}
+<body>
+<link href="/static/css/image_style.css" rel="stylesheet"/>
+<script src="/static/js/image_script.js"></script>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <nav class="navbar navbar-expand-sm navbar-light bg-light">
+                <button class="navbar-toggler" type="button" data-toggle="collapse"
+                        data-target="#top-navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <a class="navbar-brand" href="/">
+                    <img alt="brand" src="/static/icon/news.svg" height="36"/>
+                    News Crucible
+                </a>
+                <div class="collapse navbar-collapse" id="top-navbar-collapse">
+                    <!--<ul class="navbar-nav">-->
+                    <!--<li class="nav-item active">-->
+                    <!--<a class="nav-link" href="#"><span class="sr-only">(current)</span></a>-->
+                    <!--</li>-->
+                    <!--</ul>-->
+                    <!--<ul class="navbar-nav ml-md-auto">-->
+                    <!--<li class="nav-item active">-->
+                    <!--<a class="nav-link" href="#">打赏<span class="sr-only">(current)</span></a>-->
+                    <!--</li>-->
+                    <!--</ul>-->
+                </div>
+            </nav>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+
+            <div id="card-381965">
+                <div class="card">
+                    <div class="card-header text-center">
+                        <a class="card-link"
+                           data-toggle="collapse" data-parent="#card-381965"
+                           href="#card-element-796855">
+                            相似图片
+                        </a>
+                    </div>
+                    <div id="card-element-796855" class="collapse show">
+                        <div class="card-body">
+                            <div class="jumbotron card card-block">
+                                <a href="{{ '/v?handle=' + image_item['data']['path'] }}">
+                                    <h3>{{ image_item['data']['title'] }}</h3>
+                                </a>
+                                <p>{{ image_item['data']['source'] }}</p>
+                                <div class="row">
+                                    <div class="col-md-6 mx-auto">
+                                        <img class="rounded mx-auto d-block"
+                                             src="{{ static_url('img/' + image_item['data']['imgpath']) }}">
+                                    </div>
+                                </div>
+                                <hr>
+                                <p>
+                                    <span style="color:green">
+                                        {{ image_item['data']['url'] }}
+                                    </span>
+                                    <a class="btn btn-primary btn-large"
+                                       href="{{ image_item['data']['url'] }}">前往原网页</a>
+                                </p>
+                            </div>
+                            {% for i in range(0, len(image_items), 3) %}
+                            <div class="row">
+                                {% for j in image_items[i:i+3] %}
+                                <div class="col-md-4">
+                                    <a href="{{ '/v?handle=' + j['data']['path'] }}">
+                                        <div class="card">
+
+                                            <img class="card-img-top"
+                                                 src="{{ static_url('img/' + j['data']['imgpath']) }}">
+                                            <div class="card-img-overlay">
+                                                <p class="text-center"
+                                                   style="background-color: rgba(255,255,255,0.8);">
+                                                    {{ j['data']['title'] }}
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                {% end %}
+                            </div>
+                            {% end %}
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header text-center">
+                            <a class="card-link collapsed"
+                               data-toggle="collapse" data-parent="#card-381965"
+                               href="#card-element-612570">
+                                相关文字
+                            </a>
+                        </div>
+                        <div id="card-element-612570" class="collapse">
+                            <div class="card-body">
+                                {% for item in text_items %}
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <a href="{{ '/v?handle=' + item['data']['path'] }}"><h3>{{ item['data']['title'] }}</h3></a>
+                                        <p>{{ item['data']['source'] }}</p>
+                                        <p>
+                                            <span style="color:green">{{ item['data']['url'] }}</span>
+                                            <a class="btn btn-primary btn-large"
+                                               href="{{ item['data']['url'] }}">前往原网页</a>
+                                        </p>
+                                    </div>
+                                    <hr>
+                                </div>
+                                {% end %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

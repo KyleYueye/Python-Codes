@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">全国人大常委会会议批准《上海合作组织反极端主义公约》 </h1>
+<div class="news_about">
+<p>熊丰 滕军伟/新华社</p>
+<p>
+							2018-12-29 23:46<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京12月29日消息，十三届全国人大常委会第七次会议29日决定，批准2017年6月9日由中华人民共和国代表在阿斯塔纳签署的《上海合作组织反极端主义公约》，同时声明：在中华人民共和国政府另行通知前，《上海合作组织反极端主义公约》暂不适用于香港特别行政区、澳门特别行政区。<br/><div class="contheight"></div>公安部副部长王小洪对提请审议批准《上海合作组织反极端主义公约》的议案作说明时表示，公约经批准生效后，将为上合组织成员国在反极端主义领域进行合作提供明确的指导和法律依据，有力维护地区的安全和稳定，也对其他国家、地区和国际组织具有重要参考价值。<br/><div class="contheight"></div>除序言和约尾外，公约共35条。主要内容包括：公约的宗旨，术语和概念，管辖权的确定，主管机关及其义务，国内措施，应当追究国内法律责任的违法行为，公约涵盖犯罪行为的引渡、移管和司法协助程序，公约与其他国际条约的关系，公约的生效、加入、退出、修改和补充，争端解决等。<br/><div class="contheight"></div>（原题为《全国人大常委会批准〈上海合作组织反极端主义公约〉》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 上海合作组织,反极端主义,公约</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2794599">
+<div class="nbgbox">
+<a class="zan" contid="2794599" href="javascript:;" onclick="voteCont(this)" praisetimes="45">
+                           44</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 上海合作组织</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2794599&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2794599&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

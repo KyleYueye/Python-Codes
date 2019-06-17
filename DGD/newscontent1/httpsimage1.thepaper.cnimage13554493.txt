@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国冒险家独自跋涉54天，成为无援助穿越南极洲第一人</h1>
+<div class="news_about">
+<p>中国新闻网</p>
+<p>
+							2018-12-27 15:49<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="328" src="http://image.thepaper.cn/www/image/13/554/498.jpg" width="600"/></div>33岁的美国冒险家欧布莱迪，在经过54天的跋涉后，于26日成功横越南极洲。外媒称，他成为了首个未借助任何补给和援助独自穿越南极洲的人。<br/><div class="contheight"></div>欧布莱迪(Colin O'Brady)从北到南穿越南极，完成了总长约1500公里的冒险旅程。他全程有全球定位系统(GPS)追踪，并在个人网站上实时更新。他的朋友、家人和粉丝都在网上追踪他的进度。<br/><div class="contheight"></div>欧布莱迪和49岁的英国陆军上尉鲁德(Louis Rudd)，今年11月3日各自从冰河联盟(Union Glacier)基地营出发，两人使用重达180公斤的越野滑雪板拉雪橇，试图成为在没有任何支援下，独自横越南极的第一人。欧布莱迪已经抵达终点，而鲁德一两天后才会到。<br/><div class="contheight"></div>欧布莱迪在自己的个人社交网站账号上称，这段行程最后的近80英里(约合129公里)，他是花了32小时、一鼓作气走完的。<br/><div class="contheight"></div>他表示，“虽然过去32小时是我生命中最具挑战性的时光，但也确实是我曾经历过的最为美好的时刻”。<br/><div class="contheight"></div>《纽约时报》形容欧布莱迪横越南极是“极地史上最值得一提的壮举”。<br/><div class="contheight"></div>欧布雷迪并非首位怀有征服南极壮志的探险家，挪威极地探险家奥斯兰(Borge Ousland)1997年成为首位独自横越南极者，但是当时他曾借用风筝之力拉雪橇。<br/><div class="contheight"></div>而英国陆军军官伍斯莱(Henry Worsley)2016年试着挑战不靠任何支持，独自横越南极洲的历史壮举时，却不幸丧命。2017年，另一名英国人本·桑德斯(Ben Saunders)试图挑战同样的任务，但最终也没能成功。<br/><div class="contheight"></div>（原标题《冒险家独自跋涉54天 成为无援助穿越南极洲第一人》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：辛恩波<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 南极,冒险,极限运动</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780443">
+<div class="nbgbox">
+<a class="zan" contid="2780443" href="javascript:;" onclick="voteCont(this)" praisetimes="96">
+                           95</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 南极旅行</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780443&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780443&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

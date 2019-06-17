@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">最高检：未成年人犯罪呈暴力化趋势，一些极端恶性案件常发</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林平 实习生 帕孜丽娅</p>
+<p>
+							2019-01-03 18:34<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“现在未成年人犯罪的特点逐渐呈低龄化、成年人化、暴力化的趋势，一些极端的恶性案件经常发生。”针对当下未成年人犯罪的情形，最高检副检察长童建明表示，最高检通过增设第九检察厅，专门负责未成年人检察工作，积极探索未成年人司法保护的特点和规律，探索适合未成年人的司法模式，进一步推进专业化建设。<br/><div class="contheight"></div>1月3日，最高检在国务院新闻办公室召开改革内设机构全面履行法律监督职能新闻发布会。最高检副检察长童建明回应了有关未成年人司法保护的问题。<div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/863/305.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">最高人民检察院副检察长、二级大检察官童建明。  中国网 图<br/><div class="contheight"></div></span>童建明表示，未成年人司法保护的问题，一方面是加害，一方面是被害。“从加害这方面看，现在未成年人犯罪的特点逐渐呈低龄化的趋势，同时还呈现成年人化、暴力化的趋势，一些极端的恶性案件经常发生。另一方面从被害这方面看，被害儿童、遗弃儿童、性侵儿童这方面的案件时有发生，对于未成年人权益的侵害和危害很严重。”童建明说。<br/><div class="contheight"></div>与此同时，对于未成年人的司法保护也非常必要。童建明认为，未成年人的司法保护有两个特点：一是专业化要求很高。刑事诉讼法专门设有未成年人的特殊程序，包括对未成年人讯问和询问的时候要有合适的成年人到场，可以更多地适用附条件不起诉，还包括和成年人一起犯罪时，要实行分案起诉，犯罪记录要封存，亲情会见等，“要进一步加强未成年人检察的专业化建设，积极探索未成年人司法保护的特点和规律，探索适合未成年人的司法模式，刑事诉讼的模式，来进一步推进专业化建设”。<br/><div class="contheight"></div>二是，未成年人司法保护的很多工作需要社会支持，比如，对未成年人要进行社会调查，要了解未成年人的家庭、社会背景，还需要引进一些心理辅导。也包括建立一些关护基地，一些热心企业或者社团建设专门的未成年人基地，对涉罪或者有错的未成年人进行专门关护帮教。<br/><div class="contheight"></div>童建明表示，第九检察厅的设立有利于集中运用好法律赋予的特殊程序和特殊手段，也有利于和社会组织加强沟通协调，动员社会各个方面的力量，一起做好未成年人的司法保护工作，“对未成年人的司法保护具有里程碑的意义，将以此为新的起点，努力推动未成年人司法保护工作上新的台阶”。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：宋蒋萱<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 未成年人 犯罪 保护</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2809850">
+<div class="nbgbox">
+<a class="zan" contid="2809850" href="javascript:;" onclick="voteCont(this)" praisetimes="126">
+                           125</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 未成年人犯罪</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2809850&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2809850&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（53）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

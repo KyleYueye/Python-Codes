@@ -1,0 +1,76 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">澎湃评论｜改革再出发</h1>
+<div class="news_about">
+<p>澎湃特约评论员 张涛甫</p>
+<p>
+							2018-12-18 21:39<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">改革开放四十年，从艰难破局，一步一步打开棋局，活棋见多，死棋变少，由点及面，成就中国改革一盘大棋。如今，我们离目标越来越近，我们比历史上任何时期更接近民族复兴的伟大梦想。<br/><div class="contheight"></div>但此时，处在再出发的关键节点，身处系统更新、结构调整的“娄山关”与“辣子口”，面临的挑战和机遇都是过去所不及的。如何再出发，考验每一位改革者的胆识和智慧。过去的经验和策略能不能直接沿用到未来？由点及面、试错式的改革能不能持续？搁置“存量”、追求“增量”的改革能否畅行？效率先于公平、先易后难的改革可否为继？这些问题都得细加思量。<br/><div class="contheight"></div>中国改革这艘巨轮，驶入深水区，面临的风险是超限的，所以，稳健是第一位的。改革行程至此，容不得丝毫的差错。在改革的前半场，试错成本不会特别大，遭遇错失或陷阱，退回去，或绕过去，难度不太大，制动的惯性也不会特别大。但当雪球越滚越大，体量变得巨大时，对风险的敏感性要求就越高。由于改革面对的是超限的系统性风险，而我们现有的经验和智慧，很难即兴把控未知的风险，所以改革就不能一味求快，稳重求进是明智的选择。<br/><div class="contheight"></div>改革作业面大了，不能指望得寸进尺，只能得寸进寸。每进一寸，都要有大局关照，有系统考量。因为不知道哪片云彩会下雨，哪个潮头后面有暗礁，需要随时应对半路杀出的风险。只有把系统性风险化解掉，把激流险滩闯过去，才能确保改革的稳步前行。<br/><div class="contheight"></div>改革再出发，更加强调整体配合、精准发力。如果以球赛喻之，在上半场，由于没有什么赛场经验，凭借满身的青春荷尔蒙，满场跑动，可以不断试错，甚至以越位和犯规为代价，为的是多进几粒球。进入下半场，就不能只用脚踢球，而是要用脑踢球，强调定点爆破，精准打击。这对经验和智慧要求更高，对问题的诊断、机遇的判断、风险的评估，都要有精准度。<br/><div class="contheight"></div>眼下推动的是一场超体量的系统改革，关联变量太多，各种关系错综复杂，干扰项不少，要把各种要素考虑周全，的确很难。但又别无选择，必须看准了，精准爆破。只有精准，副作用和成本才会少，付出的代价才会低。尤其要提高系统推进的精准度，难度更大。只有让系统的每个环节都能不掉链子，方可实现系统解决。<br/><div class="contheight"></div>改革从浅水区，一步一步逼近深水区。改革前半场，难度系数相对较小，改革可以先挑容易的事情做，过不去的坎，搬不动的巨石，就绕过去。未来，作业难度更大，容易做的事情越来越少，难啃的硬骨头越来越多。为此，需要强大的心脏和锐利的锋芒，需要有凌厉的攻势，敢于在精准的节点发力，不给自己留后路。当然，这种斗狠不是蛮勇，而是胆魄，这背后要有智慧为盾。须准，须狠，更须稳。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2747069" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">澎湃评论｜向改革者致敬</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2744543" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">澎湃评论｜四十不惑：方向更明确，步伐更坚定</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 改革开放四十年</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2751160">
+<div class="nbgbox">
+<a class="zan" contid="2751160" href="javascript:;" onclick="voteCont(this)" praisetimes="79">
+                           78</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 改革开放四十年</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2751160&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2751160&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

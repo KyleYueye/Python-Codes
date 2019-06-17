@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国撤军后，以色列将继续在叙利亚的军事行动</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-20 21:21<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">在美国宣布从叙利亚撤军后，以色列总理内塔尼亚胡表示，美军撤离不会妨碍以色列防御地区威胁的能力， 以色列将在美国的全力支持下加强对伊朗的行动。<br/><div class="contheight"></div>据以色列《国土报》报道，该国总理本雅明·内塔尼亚胡（Benjamin Netanyahu）周四（20日）称，以色列将在叙利亚“继续采取积极行动，反对伊朗在叙利亚巩固自身的企图”。另据《以色列时报》报道，19日内塔尼亚胡曾表示，美国国务卿迈克·蓬佩奥（Mike Pompeo）向其保证，美国将继续在叙利亚问题上发挥影响力。<br/><div class="contheight"></div>“我（周一）与美国总统唐纳德·特朗普有过谈话，昨天也与美国国务卿迈克·蓬佩奥谈过，他告诉我，是特朗普总统打算从叙利亚撤军，并明确表示美国有其他办法施展其在该地区的影响力，”内塔尼亚胡在一份声明中表示。他还补充说，“我们将研究（美国撤军的）时间表、运作模式，当然还有对我们自身的影响。”<br/><div class="contheight"></div>以色列第10频道（Channel 10）报道称，内塔尼亚胡曾试图说服特朗普改变主意，但这种努力被证明是徒劳的，以色列对美国撤军表现出巨大“失望”，认为这是俄罗斯、伊朗和真主党的胜利。<br/><div class="contheight"></div>19日，美国总统特朗普发表推文称，美国已经打败极端组织“伊斯兰国”（IS），打击IS是其军队存在于叙利亚的唯一原因。随后，美国白宫发言人莎拉·桑德斯（Sarah Sanders）发表声明称，随着叙利亚打击极端组织的行动取得成果，美国已开始撤回驻叙美军。<br/><div class="contheight"></div>自从1967年第三次中东战争以来，属于叙利亚的戈兰高地的大部分区域被以色列军队占据。戈兰高地西与以色列接壤，居高临下，是叙利亚西南边防的战略要地，它可以俯瞰以色列加利利谷地。高地上公路纵横，库奈特拉城是高地上的重镇，有公路直通首都大马士革。自从伊朗介入叙利亚内战以来，以色列也多次以“反击伊朗威胁”的名义在叙利亚其他领土上进行军事活动。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：汪伦宇<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国撤军叙利亚，叙利亚问题</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2757447">
+<div class="nbgbox">
+<a class="zan" contid="2757447" href="javascript:;" onclick="voteCont(this)" praisetimes="30">
+                           29</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美军撤出叙利亚</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2757447&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2757447&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

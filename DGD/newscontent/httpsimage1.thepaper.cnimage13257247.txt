@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">2018年度环球小姐出炉，24岁菲律宾模特夺冠</h1>
+<div class="news_about">
+<p>张敏/海外网</p>
+<p>
+							2018-12-17 16:52<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="352" src="http://image.thepaper.cn/www/image/13/257/325.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">24岁的菲律宾小姐卡托丽娜⋅格雷夺得2018年环球小姐的桂冠。 <br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="324" src="http://image.thepaper.cn/www/image/13/257/243.jpg" width="600"/></div></span><span style="color: rgb(0, 0, 0);">海外网12月17日消息，当地时间周一（17日），第67届环球小姐（Miss Universe）全球总决赛在泰国曼谷落下帷幕，24岁的菲律宾小姐卡托丽娜·格雷（Catriona Gray）夺得总冠军，她也成为了第四位夺得“环球小姐”桂冠的菲律宾人。据新加坡《联合早报》、菲律宾《星报》综合报道，2018年度环球小姐结果今日（17日）出炉，菲律宾小姐卡托丽娜·格雷（Catriona Gray）击败93名参赛佳丽，成功摘得第67届环球小姐的桂冠。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/257/244.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">卡托丽娜⋅格雷</span><br/><div class="contheight"></div></span>来自南非的塔马林·格林（Tamaryn Green）和委内瑞拉的史蒂法尼·古铁雷斯（Sthefany Gutierrez）分别夺得亚军和季军。<br/><div class="contheight"></div>卡托丽娜在发表感言时表示，她曾在马尼拉通多的贫民窟工作过，那段经历教会她发现“孩子们的美丽”，并且一直心存感激。<br/><div class="contheight"></div>“我将带着希望去完成环球小姐的工作，尽自己所能去工作，为有需要的地方担当代言人。我认为，如果我能教会人们感恩，我们就会拥有一个奇妙的世界，消极的情绪将不再延续和滋长，孩子们的脸上也会露出笑容。”<br/><div class="contheight"></div>《每日邮报》报道称，卡托丽娜出生在澳大利亚昆士兰，母亲是菲律宾人，父亲是澳大利亚人，她在大学时主修音乐，毕业后回到菲律宾从事模特工作。<br/><div class="contheight"></div>卡托丽娜16日在社交媒体Instagram上回顾了自己的参赛旅程，“从2018年1月我宣布参选的第一天起，一直到今天，这真的是一段奇妙的旅程。菲律宾的同胞，是你们一直激励我，给了我力量和支持。我只想让你们感到骄傲，并尽我所能给我的祖国送上最好的圣诞礼物。”她写道。<br/><div class="contheight"></div>（原标题《2018年度环球小姐出炉，24岁菲律宾模特夺冠》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 环球小姐</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2746708">
+<div class="nbgbox">
+<a class="zan" contid="2746708" href="javascript:;" onclick="voteCont(this)" praisetimes="70">
+                           69</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 环球小姐</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2746708&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2746708&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

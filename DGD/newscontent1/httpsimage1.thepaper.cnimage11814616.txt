@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">万圣节童装也可以很时髦</h1>
+<div class="news_about">
+<p>李淑平</p>
+<p>
+							2018-10-31 15:54<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>因为可以装扮、玩闹和讨糖吃，万圣节在孩子们的心目中越发重要起来。每年这个时候，父母为了给娃搭配衣服需要花很多心思。需知，这可是小家伙们的重要社交活动呢。</u><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/11/814/612.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">万圣节成了孩子们期盼的玩闹节。</span><br/><div class="contheight"></div>其实，除了装扮成各种鬼怪的特殊服装，设计有趣、有节日气氛的时髦童装也可在父母的考虑范围内。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="648" src="http://image.thepaper.cn/www/image/11/814/991.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="460" src="http://image.thepaper.cn/www/image/11/814/986.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="434" src="http://image.thepaper.cn/www/image/11/814/987.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="336" src="http://image.thepaper.cn/www/image/11/814/988.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="434" src="http://image.thepaper.cn/www/image/11/814/989.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="460" src="http://image.thepaper.cn/www/image/11/814/990.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">Baby Dior 2018秋冬系列</span><br/><div class="contheight"></div>小姑娘们爱美的心不管在什么节日都可以“发挥作用”，即使在万圣节也要打扮得漂漂亮亮的。Baby Dior 2018秋冬系列颇有节日气氛，红色元素、金色刺绣、可爱的贝雷帽都可以诠释她们灵动的小心思，满足她们扮靓的要求。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="654" src="http://image.thepaper.cn/www/image/11/814/992.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="473" src="http://image.thepaper.cn/www/image/11/814/993.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="478" src="http://image.thepaper.cn/www/image/11/814/994.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="200" src="http://image.thepaper.cn/www/image/11/814/985.jpg" width="350"/></div><br/><div class="contheight"></div><span style="color: rgb(153, 153, 153);">Baby Dior 2018秋冬系列</span><br/><div class="contheight"></div>男孩子们则要抒发自己的力量情结，扮个英雄。无论是飞行员还是船长，都可以在Baby Dior 2018秋冬系列里找寻配套的衣服。<br/><div class="contheight"></div>过万圣节当然少不了可爱的小恶魔形象，不妨看看FENDI童装。不管是裙子、卫衣、外套，还是鞋子，加上生动的FENDI小恶魔标志，顿时灵动起来。FENDI童装2018-19系列有如下这些款式可选。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="900" src="http://image.thepaper.cn/www/image/11/814/503.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="900" src="http://image.thepaper.cn/www/image/11/814/506.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="900" src="http://image.thepaper.cn/www/image/11/814/504.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/11/814/509.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="900" src="http://image.thepaper.cn/www/image/11/814/507.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="900" src="http://image.thepaper.cn/www/image/11/814/508.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="900" src="http://image.thepaper.cn/www/image/11/814/505.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">FENDI童装2018-19系列</span><br/><div class="contheight"></div>可爱的玩伴、美味的糖果、有趣的衣服编织成的热闹过节气氛就要到来，祝愿小朋友们过节开心。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈关哲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2585550">
+<div class="nbgbox">
+<a class="zan" contid="2585550" href="javascript:;" onclick="voteCont(this)" praisetimes="59">
+                           58</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 万圣节</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2585550&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2585550&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

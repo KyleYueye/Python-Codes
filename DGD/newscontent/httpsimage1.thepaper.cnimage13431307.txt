@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25464">澎湃质量报告</a>
+</div>
+<h1 class="news_title">茅台镇“替父代言卖酒”系虚假广告，涉事公司被罚4.5万元</h1>
+<div class="news_about">
+<p>黄黔华/“贵阳晚报”微信公号</p>
+<p>
+							2018-12-23 15:51<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“贵阳晚报”微信公号12月22日消息，12月22日，贵州仁怀市委宣传部通报称：经相关调查确认，网上“陈静替父代言卖酒”广告，系虚假宣传，主角“陈静”及“父亲”毫无关系，也不从事酒行业。国内个别知名网络平台为其发布虚假广告，有的收费甚至不足千元。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="576" src="http://image.thepaper.cn/www/image/13/431/298.jpg" width="578"/></div><span style="color: rgb(128, 128, 128);">本文图均为 贵阳晚报微信公众号 图<br/><div class="contheight"></div></span>一段时期来，国内多个网络平台上，都出现了“替父代言卖酒”的广告推文。这些推文的主角大多是“陈静”，称父亲在仁怀市茅台镇酿酒40多年，自己大学毕业辞去高薪，决定帮父亲代言美酒。<br/><div class="contheight"></div>这些推文还配上“父女”在车间、库房、高粱地的合照。但网友发现，不同平台上、不同时间发布的推文，P图痕迹严重，“陈静”不仅年龄混乱，连“父亲”的也由多人扮演。<br/><div class="contheight"></div>“陈静替父代言卖酒”，由此引发虚假宣传猜测，呼吁主管部门出面调查。今年11月21日，仁怀市市场监管局对“陈静替父代言卖酒”推文展开调查，初步认定为虚假宣传。11月27日，监管部门决定依法立案。<br/><div class="contheight"></div>经调查确认：网络上的“陈静替父代言卖酒”部分推文，系贵州省仁怀市茅台镇醉臣酒业有限公司自行设计、制作。该推文虚构“陈静”为茅台镇人、“父亲”酿酒48年。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="488" src="http://image.thepaper.cn/www/image/13/431/297.jpg" width="600"/></div>推文中的“陈静”，实际名叫李燕，是遵义市播州区人，醉臣酒业员工；“父亲”名叫祁联移，既无酒厂也未从事酿酒。两人之间，非父女关系。<br/><div class="contheight"></div>醉臣酒业委托一家科技公司，在凤凰网、今日头条、360、百度、搜狐等网络平台上发布了前述广告推文。根据合同及收据显示，醉臣酒业为此共计支付9000元广告费，其中百度2500元、搜狐3000元、今日头条1500元、凤凰网1200元、360平台800元。<br/><div class="contheight"></div>醉臣酒业制作该广告推文，是为了销售一款贴牌生产的白酒。该款白酒，共生产500件、3000瓶，成本价格品瓶28元。被查获时，销售了860瓶，每瓶价格60元，销售金额51600元，获利27250元。<br/><div class="contheight"></div>根据《广告法》和贵州省工商行政机关发布的裁量标准，该案可从轻处理，即“两年内发布一次一般商品或服务虚假广告，或广告费用5万元以下，或致使权利人直接经济损失5万元以下的，处广告费用3倍以上3.5倍以下的罚款”。<br/><div class="contheight"></div>案发后，臣酒业主动删除虚假广告推文，并前往监管部门接受处罚。但仁怀市市场监管部门认为，尽管如此，该内容及模式被模仿发布，造成一定负面影响，故决定加重处罚，给予广告发布费5倍的处罚，即45000元。<br/><div class="contheight"></div>据了解，醉臣酒业目前已履行处罚决定。此外，针对前述为醉臣酒业发布虚假广告推文的平台，根据管理权限，仁怀市委宣传部网络监管部门，已按程序向上级汇报。<br/><div class="contheight"></div>（原题为《“替父代言卖酒”广告被罚！多个网络平台低价为其发布虚假广告》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 茅台镇,替父代言卖酒,虚假广告</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766388">
+<div class="nbgbox">
+<a class="zan" contid="2766388" href="javascript:;" onclick="voteCont(this)" praisetimes="224">
+                           223</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 虚假广告</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766388&caid=25464",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766388&amp;caid=25464" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（697）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

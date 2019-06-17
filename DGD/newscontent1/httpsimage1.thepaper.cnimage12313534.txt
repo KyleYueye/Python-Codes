@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜80后白头干部走红，基层干部不易需去脸谱化表达</h1>
+<div class="news_about">
+<p>澎湃特约评论员 任然</p>
+<p>
+							2018-11-16 19:32<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2640667" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜80后白头干部走红，基层干部不易需去脸谱化表达" src="//image1.thepaper.cn/image/12/305/377.jpg"/>
+</a>
+<div class="atlas_360_txt">云南楚雄80后干部头发花白引关注，组织部：工作苦，苦白了<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">一位80后干部突然火了。15日，云南省楚雄州委组织部发布了一批干部任期公示，其中一名干部因面貌与年龄形成的巨大落差，引发了热议。 <br/><div class="contheight"></div>公示中，出生于1980年8月、现任大姚县湾碧乡党委书记的李忠凯，拟任提名为大姚县政协副主席候选人。但公示配发的照片显示，李忠凯头发已白，看起来不太像80后。引发了一些网友的质疑。<br/><div class="contheight"></div>干部任期公示，年龄一直是颇受关注的细节。说实话，这样的细节一经被发现，不少人都认为，要么是照片搞错了，要么是相关部门“低估公众智商”，把干部的年龄改小了。 <br/><div class="contheight"></div>但大姚县委组织部随即回应称，李忠凯的照片和年龄都没有问题。甚至于有消息称，“州委组织部部长在一次会议上也讲到，说看到李忠凯，完全不像是他本人。”<br/><div class="contheight"></div>更多的信息透露，这位38岁就白发苍苍的基层干部，确实可能是因为“工作苦白了头”。比如，他2007年考上公务员后就在基层工作，负责扶贫、移民搬迁等一系列工作，所在乡镇又是当地“任务最重的一个”，条件艰苦。当然，“苦”也是有成绩的，公开资料显示，其服务的湾碧乡，2014年至2017年间，共有993户3941人贫困人口实现稳定脱贫。2017年，碧拉乍、纳那两个贫困行政村如期脱贫出列。 <br/><div class="contheight"></div>如以上信息属实，那么满头白发一定程度上就成了李忠凯个人的“功勋章”。所以，今年10月，他被评为“楚雄州担当作为的优秀基层干部”。这次拟被提拔到县政协副主席职位，也被指是“一个好的导向，一个实实在在干事的干部就应该提拔到重要的岗位上来”。 <br/><div class="contheight"></div>由此说来，这次意外“走红”，对李忠凯而言，并非坏事。围观者也可能借此从中更具象的体会到基层干部不易的一面。<br/><div class="contheight"></div>虽然38岁白头可能略显夸张，也不排除有遗传因素，但有关基层干部不易的声音，其实并不少见。特别是近年扶贫攻坚进入冲刺阶段，基层干部的压力通过种种新闻都时有反应。如此前有报道称，一些基层干部被各种手机打卡要求所绑架，最近又有安徽全椒县有干部因“4分钟未接电话”被处分（后被撤销），等等这些，都指向更大的现实背景。 <br/><div class="contheight"></div>但是，囿于全社会对于公职人员的期待，以及职业本身属性所限，基层干部的不易和压力，往往又缺乏足够的反馈和疏导机制。比如，职业纪律要求他们不便于公开发声；而一些抱怨和吐槽，也可能遭致“矫情”的指责。 <br/><div class="contheight"></div>这其中有必然的一面，也有一些未必不能得到改善。这次“38岁白头”的真实情况澄清以后，不少网友就表达了同情和理解。这一方面提醒公众，看待基层干部这个群体时，可以有更理性的态度，应有意识的将他们与个别违规违纪、不作为现象作区分。 <br/><div class="contheight"></div>另一方面，这也启示，对于基层公务员群体的生活、工作状况，相关方面也应该创造条件，给社会更多了解他们的日常化渠道，不能全通过悲情化、英雄化、脸谱化的典型、榜样去传递基层干部的形象。而应让社会有更多的机会了解更立体、丰富的基层干部生态，既有助于提升整个公务员群体的形象，也利于拉近社会与公共部门的距离。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 头发花白80后干部</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2641453">
+<div class="nbgbox">
+<a class="zan" contid="2641453" href="javascript:;" onclick="voteCont(this)" praisetimes="548">
+                           547</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 头发花白80后干部</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2641453&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2641453&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（59）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">失恋小伙酒后提刀找前女友讨说法，特巡警控制后送其醒酒</h1>
+<div class="news_about">
+<p>澎湃新闻记者 胥辉</p>
+<p>
+							2018-12-22 19:20<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">小伙子与相恋6年的女友分手之后，独自一人到烧烤店喝闷酒，借着酒劲拿走了烧烤店的刀要去找女朋友讨说法，最终在街上被特巡警控制。<br/><div class="contheight"></div>12月22日，澎湃新闻（www.thepaper.cn）从四川省绵阳市公安局特巡警支队巡逻六大队获悉，该小伙子被特巡警成功控制之后，现已交由辖区派出所处理。<br/><div class="contheight"></div>据绵阳特巡警支队六大队民警介绍，12月21日晚22时左右，该大队接到群众报警称，高新区一男子提着一把刀在街上乱跑，接到报警后大队民警立即前往现场，用盾牌、防爆叉向小伙子靠近，同时发出口头警告，要求他把刀放下。但小伙子听到警告之后，不但没有放下刀，反而拔腿开跑。民警追上将其逼向墙角，最终迫使小伙子主动将刀放下。成功控制小伙子之后，民警随后拨打120将其送至医院醒酒，并通知了家属。目前，辖区派出所已接手处理该事件。<br/><div class="contheight"></div>经询问，小伙子姓李，因刚与相恋6年的女友分手，趁周末放假之际，独自到一家烧烤店喝闷酒，几杯酒喝下去之后，便借着酒劲，拿了烧烤店的刀上了街，嘴里嚷着要找前女友讨说法，周围群众见状拨打了110。民警在街上将其控制之后，小伙子仍处于醉酒状态。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周琦<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 失恋 持刀 特警</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2764340">
+<div class="nbgbox">
+<a class="zan" contid="2764340" href="javascript:;" onclick="voteCont(this)" praisetimes="86">
+                           85</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 酒后闹事</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2764340&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2764340&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

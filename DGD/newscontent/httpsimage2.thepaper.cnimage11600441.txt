@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">全国法院3年27名执行干警牺牲，54名院局领导被免职  </h1>
+<div class="news_about">
+<p>澎湃新闻记者 庄岸</p>
+<p>
+							2018-10-24 18:59<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">在攻坚执行难期间，有27名干警因公牺牲。10月24日，最高人民法院院长周强在十三届全国人大常委会第六次会议上报告了2016年以来有关法院解决执行难的工作情况。他说，广大执行干警长期超负荷连续作战，因公殉职患病的人数增多，身心健康需要引起关注。<br/><div class="contheight"></div><strong>因公殉职患病的人数增多，坚持严管与厚爱相结合</strong><br/><div class="contheight"></div>报告指出，在基本解决执行难攻坚期，广大执行干警夜以继日战斗在执行一线，为解决执行难竭尽全力，涌现出许多可歌可泣的先进人物和事迹。黑龙江高院执行局局长侯铁男、广东信宜市法院执行局副局长伍彤等27名同志牺牲在工作岗位上。<br/><div class="contheight"></div>周强表示，由于执行案件数量大、增长快，加上存在被执行人抗拒执行、逃避执行现象，广大执行干警攻坚执行难期间牺牲节假日、长期超负荷连续作战，任务重、压力大、风险高，因公殉职患病的人数增多，身心健康需要引起关注，工作生活条件需要改善。<br/><div class="contheight"></div>周强说，要坚持严管与厚爱相结合，强化职业保障, 高度关注执行干警的身心健康,通过推广为执行干警购买人身保险等方式，减少干警后顾之忧，激发广大干警攻坚执行难的积极性和创造性。<br/><div class="contheight"></div><strong>54名院领导、执行局长被免，查处违纪违法干警884人</strong><br/><div class="contheight"></div>与此同时，一些地方执行队伍老化，力量不足，知识储备滞后，能力素质跟不上形势任务需要。消极执行、选择性执行及乱执行等问题在一些地方仍然存在。少数执行人员吃拿卡要、作风不正、违法乱纪甚至贪腐渎职问题仍然时有发生。<br/><div class="contheight"></div>周强认为，找准破解执行难的着力点，首先从解决执行工作中自身存在的问题入手,“刀刃向内”整治消极执行、 选择性执行、乱执行等问题。加大考核问责力度，2016年以来全国法院共有54名院领导、执行局长因工作不力被免职或调离 执行岗位；共查处利用执行权违纪违法干警884人，坚决清除执行队伍中的害群之马。<br/><div class="contheight"></div>周强指出，一些地区未设立专门机构和人员负责统筹协调联合惩戒工作，未就落实联动机制情况建立管理考核、责任追究等制度。一些协助执行单位未能将失信被执行人名单嵌入本单位管理、审批工作系统中，影响了失信惩戒的实际效果。在限制失信被执行人出境、限制入住星级酒店、限制其子女就读私立高收费学校、限制获取政府补贴、限制海关认证、限制高消费旅游等方面，一些地方的工作举措没有落地，查控下落不明失信被执行人的机制尚未普遍建立。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：朱远祥<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 法院执行 干警 牺牲 免职</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2561112">
+<div class="nbgbox">
+<a class="zan" contid="2561112" href="javascript:;" onclick="voteCont(this)" praisetimes="96">
+                           95</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 法院执行</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2561112&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2561112&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

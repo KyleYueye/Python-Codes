@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25464">澎湃质量报告</a>
+</div>
+<h1 class="news_title">湖南：“黑工厂”日产90万粒伪劣保健品被捣毁</h1>
+<div class="news_about">
+<p>阳建/新华社</p>
+<p>
+							2018-12-27 16:23<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="360" src="http://image.thepaper.cn/www/image/13/555/170.jpg" width="486"/></div><span style="color: rgb(128, 128, 128);">株洲公安 图<br/><div class="contheight"></div></span>新华社长沙12月27日电 “三无”小作坊每天可生产80万-90万粒伪劣软胶囊，面向全国收单额高达1200万余元……日前，湖南省茶陵县公安局和食品药品工商质量监督管理局联手捣毁了一家非法生产、销售伪劣保健产品的“黑工厂”。<br/><div class="contheight"></div>今年8月，茶陵县公安局接到举报称：茶陵县某工业园内有人无证生产加工维E软胶囊等保健品。随后，公安、食药监执法人员展开突击检查，发现这个作坊是一家没有工商营业执照、没有食品卫生许可证、没有保健食品生产许可证的“三无”企业，无任何净化、杀菌、消毒等设施。执法人员在现场查获大量维E、液体钙、鱼肝油等胶囊成品及加工原材料。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="346" src="http://image.thepaper.cn/www/image/13/555/169.jpg" width="492"/></div><span style="color: rgb(128, 128, 128);">株洲公安 图</span><br/><div class="contheight"></div>经查，2015年9月，“黑作坊”老板谭某荣在未办理任何证照的情况下开办了一家软胶囊保健品加工厂，每日可生产80万-90万粒伪劣软胶囊，通过QQ、电话等方式面向全国各地接受软胶囊保健品代加工订单。根据银行流水统计，从2015年9月至案发，“黑工厂”共收到客户订单货款达1200万余元。<br/><div class="contheight"></div>茶陵警方进一步侦查发现，这些伪劣保健产品被销售到全国多个省份的药店，或者通过网络贩卖，一层一层加价下来，最后销售到群众手里时，竟产生了数十倍甚至上百倍的暴利。而且，该销售网络存在至今已达三年之久，涉案人员和涉案金额非常多。<br/><div class="contheight"></div>目前，此案涉案人员已悉数被抓获。据悉，此案是湖南省首例通过认定程序定性的生产、销售伪劣保健品案件，对日后公安机关办理此类案件有借鉴意义。<br/><div class="contheight"></div>（原题为《湖南：“黑工厂”日产90万粒伪劣保健品被捣毁》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：崔烜<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 保健品 伪劣 黑工厂</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780519">
+<div class="nbgbox">
+<a class="zan" contid="2780519" href="javascript:;" onclick="voteCont(this)" praisetimes="14">
+                           13</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 保健品</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780519&caid=25464",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780519&amp;caid=25464" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

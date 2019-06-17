@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">新华社评论员：创新是改革开放的生命</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-23 10:41<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京12月22日消息，“创新是改革开放的生命。”习近平总书记在庆祝改革开放40周年大会重要讲话中作出的这一重要论断，深刻指明创新对于推进改革开放事业的极端重要性，为进一步解放思想、开拓创新注入了强大精神动力。<br/><div class="contheight"></div>“苟日新，日日新，又日新”，创新是一个民族进步的灵魂，是一个国家兴旺发达的不竭动力，也是中华民族最深沉的民族禀赋。改革开放40年来，党带领人民大胆地试、勇敢地改，闯出了一片新天地，探索出前无古人的中国特色社会主义道路。从实行家庭联产承包到农村承包地“三权”分置，从兴办经济特区到设立自贸区，改革开放事业就是在不断解放思想、开拓创新中从无到有发展起来的。<br/><div class="contheight"></div>创新，是破局开路的利器；创新，是点亮未来的希望。没有创新就没有中国的今天，也就没有中国的明天。推进新时代的改革开放，必须把创新置于更加突出位置，不断推进理论创新、制度创新、科技创新、文化创新等各方面创新，让创新在全社会蔚然成风。<br/><div class="contheight"></div>创新源泉的涌流，来自思想解放的破冰。“真理标准大讨论”如一声春雷，打破“两个凡是”的禁锢；建立社会主义市场经济体制的提出，解开束缚人们思想和行动多年的绳索。40年实践历程启示我们，没有思想的大解放，就不会有创新活力的大迸发，就不会有改革开放的大突破。实践发展永无止境，解放思想永无止境。新征程上，面对新形势、新任务、新挑战，更加需要打开解放思想这个“总开关”，继续鼓起闯的勇气、迈开试的步子，及时回答时代之问、人民之问，廓清困扰和束缚实践发展的思想迷雾，不断推动实践基础上的理论创新，推动改革开放取得新成就。<br/><div class="contheight"></div>当今世界，变革创新的潮流滚滚向前。谁排斥变革，谁拒绝创新，谁就会落后于时代，谁就会被历史淘汰。从这个意义上说，抓创新就是抓发展，谋创新就是谋未来。<br/><div class="contheight"></div>“问渠那得清如许？为有源头活水来。”激发创新活力，要靠全面深化改革、扩大开放；随着改革开放不断向前推进，更强劲的创新动能必将喷涌而出。这是一个相互促进、相得益彰的过程。要通过深化各领域改革，破除一切制约创新的思想障碍和制度藩篱，在全社会大力营造勇于创新、鼓励成功、宽容失败的良好氛围，培育并用好各类创新人才，进一步激发全社会创新活力和创造潜能。<br/><div class="contheight"></div>惟改革者进，惟创新者强，惟改革创新者胜。新时代的改革开放，呼唤我们弘扬创新精神、汇聚创新力量、推动创新发展，在更加广袤的历史时空创造新的更大奇迹。<br/><div class="contheight"></div>（本文原题为《新华社评论员：创新是改革开放的生命——论学习贯彻习近平总书记在庆祝改革开放40周年大会重要讲话精神》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 改革开放40周年</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2765899">
+<div class="nbgbox">
+<a class="zan" contid="2765899" href="javascript:;" onclick="voteCont(this)" praisetimes="44">
+                           43</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 改革开放40周年</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2765899&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2765899&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

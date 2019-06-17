@@ -1,0 +1,86 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">东航回应“发动机被扔硬币致航班延误”：排除旅客抛掷情况</h1>
+<div class="news_about">
+<p>@人民视频、@东方航空</p>
+<p>
+							2019-01-08 20:44<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<script src="//file.thepaper.cn/www/v3/js/jwplayer7.1.4.js" type="text/javascript"></script>
+<script type="text/javascript">jwplayer.key="JYFbHxc36sStM1VSc1vvyI42CCrHFlTZcWEYUA==";</script>
+<div class="news_video_name">
+<style type="text/css">
+							#player_wrapper{width:669px;height:377px;}
+							#player_wrapper .player_err_tip{width:669px;height:377px;display: none;vertical-align: middle;background-color: black;color: white; text-align: center;}
+							.jw-tab-focus:focus{outline:none;}
+						</style>
+<div id="player_wrapper">
+<div class="player_err_tip" id="Text">抱歉!<br/>您的浏览器可能不支持此视频播放器，请用更高版本的浏览器试试！</div>
+</div>东航MU5540延迟起飞，疑似有乘客往发动机里扔硬币。 视频来源：微博@人民视频(00:52)
+					</div>
+<div class="news_txt" data-size="standard">@人民视频 1月8日消息，1月8日，安徽安庆，东航MU5540疑似有乘客往发动机机舱里扔硬币而延迟起飞。乘务组称，现场有两枚硬币，一枚在发动机边缘，一枚在地上，但无法确定发动机机舱内是否有硬币。目前，警方正在进一步调查之中。<br/><div class="contheight"></div>当天21点左右，@东方航空 发布消息称：1月8日安庆—上海航班上客过程中，工作人员在地面上发现2枚硬币，<strong>经警方调查、调阅机坪监控录像，排除旅客抛掷硬币情况，航班已正常执行。 ​​​​</strong><br/><div class="contheight"></div>（原题为《东航MU5540延迟起飞 疑似有乘客往发动机里扔硬币》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = 'http://cloudvideo.thepaper.cn/video/46f23132441e470ea040f1ff36dd780e/hd/417f124a-11dd-4a11-9482-59c7ab4eebd4-7a20da89-f9c4-2d62-2aca-1a99b9693f66.mp4',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'//image2.thepaper.cn/image/14/45/495.jpg',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 东航,航班,延迟起飞,扔硬币</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828849">
+<div class="nbgbox">
+<a class="zan" contid="2828849" href="javascript:;" onclick="voteCont(this)" praisetimes="90">
+                           89</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 发动机扔硬币</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828849&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828849&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（640）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

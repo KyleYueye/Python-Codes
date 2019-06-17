@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25599">运动家</a>
+</div>
+<h1 class="news_title">亚洲杯前瞻：对阵菲律宾，国足稳字当头</h1>
+<div class="news_about">
+<p>树文、王浩宇/新华社</p>
+<p>
+							2019-01-10 21:58<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社阿布扎比1月10日消息，11日，中国队将遭遇亚洲杯小组赛第二个对手菲律宾队。面对这个既熟悉又陌生的对手，国足只要心态不急躁、少犯低级错误，把控好中场尤其是禁区前沿一带的防守，取胜当在情理之中。<br/><div class="contheight"></div>首轮，国足逆转吉尔吉斯斯坦，而以大面积归化球员为主的菲律宾小负韩国。从目前的积分情况来看，国足并不需要太过着急去进攻，不给菲律宾留下太多的反击空间，这样着急的反而是对手。一旦把对手扯出来打，或许中国队将获得更多的机会。否则，破密集防守，任何一个队都是非常困难的。<br/><div class="contheight"></div>按照亚洲杯小组赛出线的规则，每个小组头两名和4个成绩最好的第三名出线，这样中国和菲律宾即使打平，也可以积4分，基本可以确保出线。这给了国足更多排兵布阵的选择。<br/><div class="contheight"></div>虽然2017年国足曾以8:1大胜菲律宾，但从亚洲杯上一场菲律宾0:1小负韩国的表现来看，菲律宾应当刮目相看了。<br/><div class="contheight"></div>从上一场中国队的表现来看，这支国足无法驾驭三中卫的阵型，那么恢复四后卫的传统阵容当在情理之中。同时，如何加强本队右路防守将是重中之重。菲律宾队的主要进攻点在于前中超外援帕蒂尼奥，以及上一场并没有首发的菲尔·哈扬斯本。帕蒂尼奥在前场左路的突击，将给中国队右路制造很大威胁，而哈扬斯本则会考验中国队中后卫的默契程度。<br/><div class="contheight"></div>金敬道本来可以主打右路，但上一场他没有执行里皮的战术安排导致早早被换下，如何使用这位跑不死的前卫，将考验里皮的执教智慧。<br/><div class="contheight"></div>本场比赛，国足队长郑智将复出，他很有可能将和吴曦合作打后腰，以郑智丰富的经验，中国队禁区前沿的防守不会像上一场的上半场一样门户大开；在攻防转换上，中国队也会有一个关键的出球点。<br/><div class="contheight"></div>在进攻配置上，蒿俊闵应该有一席之地，郜林首发也在情理之中，武磊、于大宝的伤势并无大碍，但肖智和韦世豪依然无法上场，这样一旦局面打不开，里皮或许只有于汉超这个选择了。<br/><div class="contheight"></div>从纸面实力、积分形势上看，中国队都好于菲律宾队，只要稳定心态、集中注意力，本场国足机会很大。<br/><div class="contheight"></div>（原题为《亚洲杯前瞻：对阵菲律宾 国足稳字当头》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 亚洲杯,国足,菲律宾</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2838184">
+<div class="nbgbox">
+<a class="zan" contid="2838184" href="javascript:;" onclick="voteCont(this)" praisetimes="48">
+                           47</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 亚洲杯</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2838184&caid=25599",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2838184&amp;caid=25599" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

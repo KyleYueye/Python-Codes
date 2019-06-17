@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">巴西30年来首位右翼总统就职，特朗普祝贺：美国与你同在</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-02 10:36<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="379" src="http://image.thepaper.cn/www/image/13/800/48.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">博索纳罗（Jair Bolsonaro）于当地时间2019年1月1日在首都巴西利亚宣誓就任。视觉中国 图</span><br/><div class="contheight"></div>有“南美特朗普”之称的巴西新当选总统博索纳罗（Jair Bolsonaro）于当地时间2019年1月1日在首都巴西利亚宣誓就任，展开4年任期。这是巴西自30年前军事统治结束以来第一位当选的右翼总统。美国总统特朗普当天发推对博索纳罗表示祝贺。<br/><div class="contheight"></div>据路透社1月1日的报道，63岁的博索纳罗在就职演中呼吁誓言将“重建秩序”，打击犯罪和贪腐，将在“没有意识型态偏见下，振兴拉丁美洲最大经济体巴西了无生气的经济。”<br/><div class="contheight"></div>博索纳罗去年10月在大选中以55%的选票胜选，击败了自1994年以来赢得该国总统选举的左翼工人党（Workers’ Party）和中间派PSDB党。巴西2亿1000万居民对他满怀希望，冀望他能肃清贪污，降低猖獗的犯罪，并重启深陷破纪录衰退的国家经济。巴西经济目前仍不景气，此前大宗商品市场荣景的崩溃导致巴西陷入有史以来最严重的经济衰退。<br/><div class="contheight"></div>在1日的就职演说中，博索纳罗承诺将开拓海外市场、实施改革以削减不断增加的预算赤字，让政府财政走上可持续的轨道。<br/><div class="contheight"></div>此前博索纳罗在接受巴西Record TV专访时，猛烈抨击巴西恶名在外的官僚主义导致企业更难做生意，他誓言消除那些束缚民间企业的“巴西成本”。<br/><div class="contheight"></div>“这个政府机器太笨重了，”他说。“全巴西存在数以百计的官僚管理机构，还有监管机构...我们必须好好地整顿一番。”<br/><div class="contheight"></div>在外交方面，博索纳罗表示计划重新调整巴西的国际关系，更加靠近西方领导人的政策，特别是美国总统特朗普。特朗普派国务卿蓬佩奥出席了博索纳罗的就职仪式。另一项重要外交转向迹象是，博索纳罗打算把巴西驻以色列大使馆从特拉维夫迁移至耶路撒冷，打破巴西以往支持以两国方案(two-state solution)解决巴勒斯坦问题的传统。<br/><div class="contheight"></div>博索纳罗1955年出生于天主教家庭，曾为陆军空降部队一员，1988年转入政坛，之后连任7届众议员。这位争议性的政治人物，因政治不正确的言行而有“热带特朗普”之称，并成功利用选民厌恶传统政治的心理攀上高峰，成为巴西新领导人。<br/><div class="contheight"></div>美国总统特朗普1日在推特上说：“恭喜博索纳罗总统，刚刚发表的就职演说很棒——美国与你同在！”<br/><div class="contheight"></div>而博索纳罗则在推特上回应特朗普说：“在上帝的保护下，我们将为我们的人民带来繁荣和进步！”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 巴西,新总统,典礼</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2803093">
+<div class="nbgbox">
+<a class="zan" contid="2803093" href="javascript:;" onclick="voteCont(this)" praisetimes="44">
+                           43</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 巴西总统选举</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2803093&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2803093&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">摩拜单车回应从微信支付九宫格下线：合作期满，小程序仍可用</h1>
+<div class="news_about">
+<p>澎湃新闻记者 欧阳李宁</p>
+<p>
+							2019-01-10 15:07<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">针对从微信支付“九宫格”下线，摩拜做出回应。<br/><div class="contheight"></div>1月10日，摩拜方面表示，由于和微信的合作期限届满，微信支付中的摩拜单车入口下线。摩拜用户仍然可以通过微信扫一扫或小程序使用摩拜单车。此外，免扫码蓝牙急速开锁功能已经在摩拜APP及小程序上线。<br/><div class="contheight"></div>2017年3月，摩拜与腾讯联合宣布，摩拜单车将出现在“微信支付”页面的第三方服务“九宫格”中，与微信此前接入的“滴滴出行”、“美团外卖”、“京东优选”以及大众点评提供的“吃喝玩乐”等热门服务同级。<br/><div class="contheight"></div>在此之前，摩拜曾于2017年1月开通摩拜单车小程序，2月支持微信扫码开锁。<br/><div class="contheight"></div>此后的2017年4月28日，摩拜方面宣布，自从3月29日全面接入微信以来，摩拜单车4月份活跃用户量环比增速超过200%，一个月间新增2400万注册用户。<br/><div class="contheight"></div>彼时，摩拜单车联合创始人兼CTO夏一平曾公开表示，“在入驻微信支付后，摩拜单车面向海量的微信用户提供了三种无需离开微信即可体验智能共享单车的方式，创造了更加方便快捷的扫码用车体验。通过微信的广泛覆盖，摩拜单车将能够触及和服务更多城市居民。”<br/><div class="contheight"></div>腾讯作为摩拜单车的战略投资者，早在2016年10月即参投了摩拜单车的C+轮融资，并于2017年1月领投了摩拜单车的D轮融资，并在2017年6月再领投摩拜新一轮超过6亿美元融资。<br/><div class="contheight"></div>根据公开报道， 腾讯在美团收购摩拜的过程中也发挥着重要作用。腾讯于2018年8月发布的二季报中表示，已出售了投资摩拜的权益。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙扶<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 摩拜 腾讯</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836638">
+<div class="nbgbox">
+<a class="zan" contid="2836638" href="javascript:;" onclick="voteCont(this)" praisetimes="25">
+                           24</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 摩拜单车</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836638&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836638&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

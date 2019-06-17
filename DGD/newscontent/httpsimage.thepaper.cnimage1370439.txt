@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">日本皇太子妃雅子：将努力改善健康状况，适应新角色</h1>
+<div class="news_about">
+<p>澎湃新闻记者 李佩</p>
+<p>
+							2018-12-10 21:49<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">日本皇太子妃雅子表示，在与精神压力相关的疾病进行斗争的同时，面对着即将在明年担任新角色一事，她感到“惶恐不安”。这一表态为长期以来她作为皇室成员承受着巨大压力，提供了一个观察的窗口。<br/><div class="contheight"></div>据美国有线电视新闻网（CNN）12月10日报道，上周日，雅子在她庆祝55岁生日的声明中坦承，在她的丈夫德仁于2019年5月接替他84岁的父亲明仁继承王位之后，她将尽最大努力履行其职责。<br/><div class="contheight"></div>“考虑到未来的日子，我感到不安，我能够扮演多大作用？但我想全身心地支持皇太子殿下并为人民的幸福作出努力，”雅子还说：“我希望继续努力改善自己的健康状况，并尽可能多地参与公共事务，以尽到我的职责。”<br/><div class="contheight"></div>1993年，雅子放弃了自己作为职业外交官的工作，与皇太子德仁结婚，并开始了自己融入这个保守的皇室家庭的生活。然而，由于不适应皇室生活，雅子承受着巨大的精神压力，长期以来一直与医生称之为“适应性障碍”(adjustment disorder)的一种疾病作斗争。此前更有媒体称，雅子从2003年开始，就患上了抑郁症，因此一度不参与任何外事活动。<br/><div class="contheight"></div>雅子幼年时期长期在国外生活并曾在哈佛大学接受过教育，在嫁入皇室之后，一度面临着为皇室诞下王位继承人的压力。按照日本皇室男性继承皇位的规定，她和德仁的女儿爱子公主不被认可为皇室继承人。<br/><div class="contheight"></div>相较于世界上其他一些君主制国家，虽然日本王室的公众影响力较低，但天皇仍然在日本社会中扮演着重要作用。此前，年事已高的明仁天皇因健康问题提出退位，得到了日本民众和政府的理解。明年，明仁天皇将正式退位，他也将成为日本200多年来首位退位的君主，其长子德仁将继承皇位将成为新的天皇。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：宁希巍<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 日本皇室,德仁,雅子</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2725356">
+<div class="nbgbox">
+<a class="zan" contid="2725356" href="javascript:;" onclick="voteCont(this)" praisetimes="65">
+                           64</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日本皇室</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2725356&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2725356&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

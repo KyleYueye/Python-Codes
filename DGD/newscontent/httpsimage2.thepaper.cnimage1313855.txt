@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">日首相安倍选择“转”字作为年度汉字，寓意重大转折</h1>
+<div class="news_about">
+<p>中国新闻网</p>
+<p>
+							2018-12-13 08:33<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网12月13日电 据日本共同社报道，日本首相安倍晋三12日在官邸回答记者提问，选择“转”字作为代表今年一年的汉字。他表示：“能否使未来好转取决于我们自身，日本将在明年迎来重大的转折点，希望使之成为美好的一年。”<br/><div class="contheight"></div>关于具体内容，安倍指出与俄罗斯总统普京以1956年《日苏共同宣言》为基础，加速达成和平条约谈判的共识，称“是日俄关系出现重大转机的一年”。此外，6月朝美首脑会谈作为理由也被提及。<br/><div class="contheight"></div>另外，以在2月平昌冬奥会上完成四周跳、连续2届摘得金牌的花样滑冰选手羽生结弦和职业将棋棋手藤井聪太七段、网球选手大坂直美的出色表现为例，安倍回顾称：“年轻力量已经崛起，这使人感受到新一代的转变。”<br/><div class="contheight"></div>日本官房长官菅义伟在记者会上选择“成”作为年度汉字，他强调称：“完成了工作方式改革和《渔业法》等时隔约70年的各种改革。”<br/><div class="contheight"></div>此外，日本汉字能力检定协会12日在京都清水寺公布，最能反映2018年世态民情的年度汉字为“灾”。<br/><div class="contheight"></div>“灾”字入选的理由是今年发生了西日本暴雨、北海道地震以及接踵而至的台风、酷暑等自然灾害，此外还发生了被认为“人灾”的财务省篡改文书、大学入学考试违规等问题。<br/><div class="contheight"></div>此次是“灾”字第二次当选年度汉字。上一次是2004年，日本遭遇强台风“蝎虎”袭击，新潟县中越地区发生6.8级地震。<br/><div class="contheight"></div>（原题为《日首相安倍选择“转”字作为年度汉字 寓意重大转折》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张珺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 年度汉字</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2733373">
+<div class="nbgbox">
+<a class="zan" contid="2733373" href="javascript:;" onclick="voteCont(this)" praisetimes="26">
+                           25</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 年度汉字</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2733373&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2733373&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25437">牛市点线面</a>
+</div>
+<h1 class="news_title">摩根大通将入驻上海中心：留出扩容空间，全力支持中国业务</h1>
+<div class="news_about">
+<p>澎湃新闻记者 刘歆宇</p>
+<p>
+							2019-01-10 12:23<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月10日，美国摩根大通宣布，已与中国第一高楼上海中心签订租约，该公司的上海团队即将集体入驻新址。<br/><div class="contheight"></div>摩根大通中国区首席执行官梁治文表示，摩根大通希望通过入驻上海中心，为所有上海员工提供一个极佳的集中办公地点，以及全新高效的工作环境。<br/><div class="contheight"></div>澎湃新闻记者获悉，摩根大通当前上海团队的员工数量约有300人，而上海中心的新办公室租赁面积超过1万平方米，可以容纳500人以上。办公地址的扩容或是设立控股合资券商的准备工作之一。<br/><div class="contheight"></div>摩根大通集团（纽约证券交易所：JPM）是国际知名金融服务公司，目前总资产达2.6万亿美元，业务遍及全球。1921年起，摩根大通开始在华业务，目前网络分布北京、上海、天津、苏州、成都等地。<br/><div class="contheight"></div>摩根大通于2018年5月10日向证监会提交申请设立并控股合资券商，目前仍在等待批复。澎湃新闻记者了解到，证监会已于2018年11月12日就该申请给出第一次反馈意见，目前，团队组建工作已经开始筹备。<br/><div class="contheight"></div>梁治文重申了对于中国市场的青睐，他说：“对于摩根大通和我们的众多客户而言，中国代表着全球最大的发展机遇之一。公司致力于充分调动集团整体的实力和资源，全力支持中国业务的发展。而我们的优先目标之一就是确保我们拥有第一流的办公区域和配套设施，从而更好地服务于客户、业务和员工不断变化的需求。” <br/><div class="contheight"></div>摩根大通此次入驻的上海中心，位于上海浦东陆家嘴，是上海的地标性建筑，上海中心建筑总高度632米，楼高是目前中国第一、世界第二。<br/><div class="contheight"></div>2018年4月28日，证监会发布《外商投资证券公司管理办法》。<br/><div class="contheight"></div>根据这份新规，外资合计持有上市内资证券公司股份比例，以及非上市证券公司股份比例的上限，从25%和49%提高到51%。这意味着，过去外资机构无法在合资券商中占据控股地位的历史已经终结。<br/><div class="contheight"></div>这份文件发布之后，多家外资金融巨头先后向证监会提交了相关申请。<br/><div class="contheight"></div>2018年5月10日晚间，证监会以答记者问的形式公布，J.P. Morgan Broking （Hong Kong） Limited等于当日向中国证监会提交了设立外商投资证券公司的申请材料，J.P. Morgan Broking （Hong Kong） Limited拟持股51%。<br/><div class="contheight"></div>此后，摩根大通方面也发声回应，明确表示，计划在未来数年内监管允许的条件下将持股比例增加到100%。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙扶<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835898">
+<div class="nbgbox">
+<a class="zan" contid="2835898" href="javascript:;" onclick="voteCont(this)" praisetimes="86">
+                           85</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 摩根大通</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835898&caid=25437",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835898&amp;caid=25437" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

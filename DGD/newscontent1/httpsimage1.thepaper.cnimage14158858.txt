@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25423">人事风向</a>
+</div>
+<h1 class="news_title">吕卫平任中国普天信息产业集团有限公司党委书记、董事长</h1>
+<div class="news_about">
+<p>中国经济网</p>
+<p>
+							2019-01-11 10:52<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="362" src="http://image.thepaper.cn/www/image/14/158/867.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">吕卫平<br/><div class="contheight"></div></span>据中国普天信息产业集团有限公司官网消息，近日，中国普天信息产业集团有限公司召开中层以上管理人员大会。国务院国资委有关负责同志宣布了关于中国普天信息产业集团有限公司党委书记、董事长任职决定:吕卫平任中国普天信息产业集团有限公司党委书记、董事长。提名吕卫平为中国普天信息产业股份有限公司党委书记、董事长人选。上述职务任职按有关法律和章程办理。<br/><div class="contheight"></div><strong>吕卫平简历：</strong><br/><div class="contheight"></div>吕卫平，教授级高级工程师。曾任武汉邮电科学研究院有限公司副总经理，兼任烽火通信科技股份有限公司副董事长；武汉虹信通信技术有限责任公司董事；武汉电信器件有限公司董事；武汉烽火国际技术有限责任公司董事长。长期从事科研开发的管理工作，参与并领导的研发工作效果显著。<br/><div class="contheight"></div>1987年，武汉邮电科学研究院，通信与电子系统专业研究生毕业，获工学硕士学位。<br/><div class="contheight"></div>2001年7至今，武汉邮电科学研究院副院长。<br/><div class="contheight"></div>2010年4月，成功当选为华工科技产业股份有限公司独立董事。<br/><div class="contheight"></div>参加工作至今，历任武汉邮科院系统部副主任、武汉网能信息技术有限公司总经理、烽火科技股份有限公司总裁等职务。<br/><div class="contheight"></div>2018年1月，武汉邮电科学研究院有限公司副总经理人选。<br/><div class="contheight"></div>2018年3月，任武汉邮电科学研究院有限公司副总经理。<br/><div class="contheight"></div>2018年8月，任中国信息通信科技集团有限公司党委常委，提名为副总经理人选。<br/><div class="contheight"></div>2019年1月，任中国普天信息产业集团有限公司党委书记、董事长。提名为中国普天信息产业股份有限公司党委书记、董事长人选。<br/><div class="contheight"></div>（原题为《吕卫平任中国普天董事长、党委书记》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 国资委,国企人事</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2840607">
+<div class="nbgbox">
+<a class="zan" contid="2840607" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国企人事</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2840607&caid=25423",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2840607&amp;caid=25423" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

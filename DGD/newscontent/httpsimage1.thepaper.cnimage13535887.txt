@@ -1,0 +1,80 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">“一大会址”日记｜生于1949，他说红色文化需要铭记</h1>
+<div class="news_about">
+<p>澎湃新闻驻中共一大会址报道组记者 邓玲玮</p>
+<p>
+							2018-12-26 21:10<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">【编者按】<br/><div class="contheight"></div><u>2017年10月31日，党的十九大闭幕仅一周，习近平总书记带领中共中央政治局常委，集体瞻仰上海中共一大会址和浙江嘉兴南湖红船，在广大党员干部群众中引起热烈反响。<br/><div class="contheight"></div>连日来，全国各地前往一大会址纪念馆参观的党员群众络绎不绝，在中国共产党人的精神家园，他们回顾建党历史，重温入党誓词，不忘初心，砥砺前行。<br/><div class="contheight"></div>澎湃新闻推出“一大会址”日记，派出记者常驻中共一大会址，近距离观察、感受、记录会址每天的新闻，讲述一大的红色故事，传承中国共产党人的初心。</u><br/><div class="contheight"></div>2018年12月26日，星期三，小雨。<br/><div class="contheight"></div>上午11时许，中共一大会址纪念馆迎来一位与共和国同岁的北京老人。<br/><div class="contheight"></div>在纪念馆一层走廊，1949年出生的孔祥生老人用地道的北京话给妻子和儿子讲党史。<br/><div class="contheight"></div>“到上海，来中共一大会址是必须的，共产党在中国是时代的标志，各个地方表现的形式不同，这里是中国共产党第一次开会的地方，要来了解一下，对共产党艰难的启程会有更加深刻的了解。”孔祥生告诉澎湃新闻（www.thepaper.cn）记者，他是一名共产党员，这次专门从北京来此参观。<br/><div class="contheight"></div>孔祥生说，他曾是知识青年，几十年的变化和对比，让他发现自己对每一个时代都有着特殊的感受，“在新中国的时代进程中，党的领导人走出了一条更符合中国革命和中国人民前进的道路。”<br/><div class="contheight"></div>他看着馆内的展品说道，红色文化作为一个时代标志，是大家要铭记的。走到二楼的白铜雕塑前，孔祥生看着雕塑说，一大代表们怀着救国救民的心情来到这里，能够摸索出一条救国救民的道路非常不易，“这条路一定有常人难以想象的曲折”。<br/><div class="contheight"></div>回忆起当年入党，他神情严肃地说，自入党后，自己的使命感更强，也更加严格要求自己，“这辈子在教师的岗位上默默奉献，干好本职工作，完成好培养祖国下一代的使命”。</div>
+<div class="go_to_topic">
+<p style="line-height: 20px; margin-bottom:5px">
+<img alt="" src="//file.thepaper.cn/www/v3/img/topic.gif" style="float:left">
+<a href="newsDetail_forward_29866" target="_blank">
+<span class="news_topic">
+                              【专题】中共一大会址日记</span>
+</a>
+</img></p></div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：高文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 一大会址,老党员</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2777869">
+<div class="nbgbox">
+<a class="zan" contid="2777869" href="javascript:;" onclick="voteCont(this)" praisetimes="5">
+                           4</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: “一大会址”日记</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2777869&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2777869&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

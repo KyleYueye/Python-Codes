@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">国家中医药管理局：中国公民中医药健康文化素养呈上升趋势 </h1>
+<div class="news_about">
+<p>田晓航/新华社</p>
+<p>
+							2018-12-26 20:08<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京12月26日电 国家中医药管理局26日发布的2017年中国公民中医药健康文化素养调查结果显示，公民中医药健康文化素养水平达到13.39%，较2016年提高0.54个百分点，呈上升趋势。<br/><div class="contheight"></div>中医药健康文化素养水平，是指具备基本中医药健康文化素养的人占总人群的比例。调查显示，与2016年相比，我国公民2017年在中医药基本理念、中医药健康生活方式、中医药公众适宜方法、中医药文化常识、中医药信息理解能力等5个维度的素养水平均有不同程度提高。其中，信息理解能力素养水平增幅最大。<br/><div class="contheight"></div>国家中医药管理局办公室主任、新闻发言人查德忠介绍，我国公民中医药健康文化素养水平城乡和地区差距明显，但呈缩小趋势。调查还显示，全国中医药健康文化知识的普及率、阅读率、信任率与2016年基本持平，维持在较高水平，其中，反映公民将所学中医药健康文化知识用于日常生活情况的行动率增长明显，较2016年增加2.7个百分点。<br/><div class="contheight"></div>查德忠表示，国家中医药管理局下一阶段将突出做好重点地区、重点人群中医药健康文化素养水平提升工作；在传播好中医药健康文化理念的同时，增加行动类内容；持续推进中医药文化进校园、进单位工作，推出一批适宜网络传播的公益性中医药健康文化产品。<br/><div class="contheight"></div>（原题为《国家中医药管理局：中国公民中医药健康文化素养呈上升趋势》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：崔烜<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中医药 素养</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2777709">
+<div class="nbgbox">
+<a class="zan" contid="2777709" href="javascript:;" onclick="voteCont(this)" praisetimes="20">
+                           19</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中医药</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2777709&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2777709&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

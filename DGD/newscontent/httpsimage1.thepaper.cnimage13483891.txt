@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25436">能见度</a>
+</div>
+<h1 class="news_title">中国最大特钢集团内部重组，大冶特钢：拟购买兴澄特钢控股权</h1>
+<div class="news_about">
+<p>澎湃新闻记者 贺梨萍</p>
+<p>
+							2018-12-25 12:18<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中国最大的特钢集团中信泰富特钢集团（下称“中信特钢”）正在重组旗下的特钢资产。<br/><div class="contheight"></div>12月24日晚间，大冶特殊钢股份有限公司（下称“大冶特钢”，000708）发布公告，拟通过发行股份方式购买中信泰富特钢投资有限公司（下称“泰富投资”）等持有的江阴兴澄特种钢铁有限公司（下称“兴澄特钢”）的控股权。<br/><div class="contheight"></div>截至公告披露日，大冶特钢已收到泰富投资出具的关于参与本次重大资产重组的意向函。公司自12月25日开市起停牌，停牌期间，公司将对交易标的开展初步尽职调查，与交易对方签署相关交易协议等事宜。交易细节方案将在停牌期间进一步协商确定。<br/><div class="contheight"></div>中信特钢为中国最大的特钢集团，是中信股份（00267.HK）下属企业，集团旗下江阴兴澄特种钢铁有限公司、湖北新冶钢有限公司、大冶特殊钢股份有限公司、青岛特殊钢铁有限公司、靖江特殊钢有限公司、铜陵泰富特种材料有限公司和扬州泰富特种材料有限公司，形成了沿海沿江产业链的战略布局。中信特钢具备年产1300多万吨特殊钢生产能力。<br/><div class="contheight"></div>大冶特钢目前第一大股东为湖北新冶钢有限公司（下称“新冶钢”），持股29.95%；第二大股东为泰富投资，持股28.18%。这两大股东为一致行动人。2018年上半年，，大冶特钢实现营业收入、净利润分别为61.54亿元、3.05亿元，同比分别上升27.19%、35.02%，资产负债为43.77%。<br/><div class="contheight"></div>此番要装入上市公司的兴澄特钢，具备年产铁500万吨、钢690万吨、坯材660万吨的生产规模。公司产品主要有轴承钢、齿轮钢、弹簧钢、系泊链钢、帘线钢、特厚板、容器钢、管线钢、高强耐磨钢等。其中拳头产品高标准轴承钢连续11年产销全国第一，汽车用钢连续7年产销全国第一。<br/><div class="contheight"></div>泰富投资为中信股份间接全资附属公司，主要业务为投资控股，目前持有兴澄特钢90%股权。江阴信富投资企业（有限合伙）、江阴青泰投资企业（有限合伙）、江阴信泰投资企业（有限合伙）、江阴扬泰投资企业（有限合伙）、江阴冶泰投资企业（有限合伙）为兴澄特钢管理层持股平台，持股10%。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李跃群<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中信特钢,兴澄特钢,大冶特钢,澎湃</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772255">
+<div class="nbgbox">
+<a class="zan" contid="2772255" href="javascript:;" onclick="voteCont(this)" praisetimes="13">
+                           12</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中信特钢</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772255&caid=25436",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772255&amp;caid=25436" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

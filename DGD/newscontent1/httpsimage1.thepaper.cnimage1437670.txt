@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25463">港台来信</a>
+</div>
+<h1 class="news_title">香港《国歌法》草案出炉，拟规定奏放国歌重要场合</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2019-01-08 16:59<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网1月8日消息，香港《国歌法》立法草案正式出炉，草案建议行政长官可规定播放国歌的场合，而特首、立法会议员宣誓仪式前也需要奏放国歌。<br/><div class="contheight"></div>据“香港01”报道，8日，《国歌法》香港立法草案正式出炉，特区行政会议今日审议草案，并拍板通过，法案将于本月内提交至立法会。据悉，草案建议行政长官可规定应当播放国歌的重要场合。香港须奏唱国歌的场合将以附件的形式罗列在草案中，除国庆、回归等重要节日外，特首、行会成员、法官及立法会议员宣誓仪式前，亦在规范之列，借以涵盖公职人员宣誓时的礼仪。<br/><div class="contheight"></div>行会成员、资深大律师汤家骅认为，若议员刻意缺席奏国歌环节，而被质疑是否真诚拥护《基本法》，有可能违反《宣誓及声明条例》。汤家骅称，若一名议员在奏国歌时刻意离座，会令人质疑其行为是否符合《宣誓及声明条例》，若不符合则有可能被取消当选资格，但他承认难以判断议员缺席的真正意图。<br/><div class="contheight"></div>汤家骅提到，《国歌法》并非规定任何人必须唱国歌，而是不可侮辱国歌，因此若有议员刻意缺席奏国歌环节，只会触及《宣誓及声明条例》，与《国歌法》无关。他又指，在立法会议员宣誓时奏国歌是应有之义，“不应该说政府逼你出席（奏国歌环节），而是责任所在”。<br/><div class="contheight"></div>《国歌法》2016年10月在内地实施，人大常委会其后通过将《国歌法》纳入香港《基本法》附件三，由特区政府通过本地立法落实。政制及内地事务局去年底已大致完成草拟工作。香港的《国歌法》需要充分反映全国性法律的原意和目的，亦要充分考虑香港实际情况，并非照抄全条法例。<br/><div class="contheight"></div>（原题为《香港&lt;国歌法&gt;草案出炉，这些重要场合将奏放国歌》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 国歌法</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827924">
+<div class="nbgbox">
+<a class="zan" contid="2827924" href="javascript:;" onclick="voteCont(this)" praisetimes="685">
+                           684</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国歌法</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827924&caid=25463",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827924&amp;caid=25463" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（62）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

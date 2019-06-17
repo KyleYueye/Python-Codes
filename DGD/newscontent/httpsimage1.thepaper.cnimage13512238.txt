@@ -1,0 +1,94 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="channel_36079">湃客</a>
+                    &gt; <a href="list_35572">有数</a>
+</div>
+<h1 class="news_title">我们爬了3000条数据，带你回顾北京600年教育资源变迁</h1>
+<div class="news_about">
+<p>
+                            2018-12-26 08:42<span> 来源：澎湃新闻 湃客</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_paike_author clearfix">
+<a href="sparker_3712831" target="_blank">
+<div class="thum">
+<img src="//image.thepaper.cn/publish/interaction/image/2/942/462.jpg"/>
+</div>
+<div class="name">黑板洞察</div>
+</a>
+<div class="line"></div>
+<div class="link" data-userid="3712831" onclick="followUser(this)">+关注</div>
+</div>
+<script src="//file.thepaper.cn/www/v3/js/jwplayer7.1.4.js" type="text/javascript"></script>
+<script type="text/javascript">jwplayer.key="JYFbHxc36sStM1VSc1vvyI42CCrHFlTZcWEYUA==";</script>
+<div class="news_video_name">
+<style type="text/css">
+                            #player_wrapper{width:600px;height:338px;}
+                            #player_wrapper .player_err_tip{width:600px;height:338px;display: none;vertical-align: middle;background-color: black;color: white; text-align: center;}
+                            .jw-tab-focus:focus{outline:none;}
+                        </style>
+<div id="player_wrapper">
+<div class="player_err_tip" id="Text">抱歉!<br/>您的浏览器可能不支持此视频播放器，请用更高版本的浏览器试试！</div>
+</div>北京市中小学数量变化(00:10)
+                    </div>
+<div class="news_txt" data-size="standard"><strong>稿件首发于“黑板洞察”微信公众号（ID：heibandongcha），转载请注明出处“黑板洞察”、作者名以及“发自澎湃新闻湃客频道”。</strong><br/><div class="contheight"></div>眼看2018年只剩下最后一周，黑板洞察抓住今年最后的尾巴，搞了个大事情。有多大？就是点开上面的视频，你会惊掉下巴的那种。<br/><div class="contheight"></div>看完视频后，我知道你们心中有这么一个困惑：这么牛X的东西，你们是怎么做的？哎……，说来话短，也就是10分钟的事！<br/><div class="contheight"></div>我们的老师傅拿着保温杯，基于Python 的 Scrapy 框架扒取了 3000 多条数据，然后根据类别和时间进行分类处理后存储到数据库中，最后经过筛选和清洗程序，就得到了我们所要的位置信息，也就是视频中所展示的。<br/><div class="contheight"></div>什么，你竟然说不太具体？好，我们带你看看具体的：<div style="text-align: center;"><img alt="" src="http://image.thepaper.cn/www/image/13/490/248.jpg" width="600"/></div><div style="text-align: center;"><img alt="" src="http://image.thepaper.cn/www/image/13/490/250.jpg" width="600"/></div>如图所示，北京市一共有3008所学校，其中仅小学就有1238所。什么概念呢 ？也就是说，把全北京中小学校的面积加起来，相当于172个故宫，占海淀区面积的44%。<div style="text-align: center;"><img alt="" src="http://image.thepaper.cn/www/image/13/490/252.jpg" width="600"/></div><div style="text-align: center;"><img alt="" src="http://image.thepaper.cn/www/image/13/490/253.jpg" width="600"/></div>所谓“九年一贯制”学校，是指该校的小学和初中施行一体化的教育，小学毕业后可直升本校初中。这样在学生年龄较小，适应能力较弱的时候，教育会有一个连贯性。十二年一贯则是指集小学、初中和高中为一体的12年一贯制学校。<br/><div class="contheight"></div>这种制度的好处在于可以集中某个地区的办学优势，合理利用教育资源，有利于教育的均衡发展；于学生而言，这种制度的存在规避了参加小升初、初升中考试等一次性风险较大的考试，保证了教育的连续性，有利于缓解择校热的问题。<br/><div class="contheight"></div>而九年/十二年一贯制学校的增多，一定程度上说明了政府正在采取相应的措施来应对现阶段教育存在的问题。<div style="text-align: center;"><img alt="" src="http://image.thepaper.cn/www/image/13/490/254.jpg" width="600"/></div><div style="text-align: center;"><img alt="" src="http://image.thepaper.cn/www/image/13/490/259.jpg" width="600"/></div>你看，海淀朝阳的房价高与学校的密集度没有十分关系，也是有十二分关系的。因为就这么巧，学校密集度排前三的区域和对应的房价出奇地一致，不要问为什么，因为这是600多年的传承。<br/><div class="contheight"></div>数据来源：北京市政务公开惠民便民地图、贝壳指数<br/><div class="contheight"></div>数据可视化支持：AntV L7 地理空间框架、高德开放平台<audio controls="controls" style="display: none;"></audio><audio controls="controls" style="display: none;"></audio></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = 'http://cloudvideo.thepaper.cn/sparker/0796987f4c344d059c809ac4d0fb3510/hd/0ef2b2be-d844-49e6-a4a7-7b252b95e59d-b3d14fdf-c05b-aaf4-ef2c-2a6efcd1599d.mp4',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'//image2.thepaper.cn/image/13/512/320.png',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_keyword">关键词 &gt;&gt; 北京,教育,中小学,数据分析</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                本文为自媒体、作者等湃客在澎湃新闻上传并发布，仅代表作者观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love sparker_news_love" style="width: 446px;">
+<input id="hidden_contid" type="hidden" value="2773039">
+<div class="nbgbox">
+<a class="zan" contid="2773039" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+<span></span>2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang"><span></span>收藏</a></div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2773039&caid=35572",".news_imgad")</script>
+</div>
+<div class="news_txtad">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2773039&amp;caid=35572" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

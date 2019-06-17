@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">人民日报评论员：为全面建成小康社会收官打下决定性基础</h1>
+<div class="news_about">
+<p>人民日报评论员</p>
+<p>
+							2018-12-23 06:32<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">稳中求进，稳中有进，稳中向好。<br/><div class="contheight"></div>刚刚闭幕的中央经济工作会议上，习近平总书记发表了重要讲话，总结2018年经济工作，深入分析当前经济形势，明确了2019年经济工作的总体要求、政策取向和重点任务，为我们做好明年经济工作，以优异成绩庆祝新中国成立70周年，指明了方向、提供了遵循。<br/><div class="contheight"></div>稳，是今年我国经济社会发展的一个鲜明特点。经济运行稳定在合理区间，质量和效益持续改善，消费对经济增长拉动作用明显增强，我国依然是世界经济增长的最大贡献者。三大攻坚战开局良好，宏观杠杆率趋于稳定，深度贫困地区脱贫攻坚有力推进，蓝天、碧水、净土保卫战全面展开。供给侧结构性改革深入推进，传统产业加快改造，科技创新成果不断涌现，新动能加快成长。改革开放力度加大，国资国企、财税金融等重要领域改革稳步落实，营商环境明显改善。总的看，我国经济保持总体平稳、稳中有进良好态势，人民群众获得感、幸福感、安全感不断增强，我们朝着实现全面建成小康社会的目标迈出了新的步伐。<br/><div class="contheight"></div>面对错综复杂的国际环境和艰巨繁重的国内改革发展稳定任务，取得这样的成绩极为不易。这是在以习近平同志为核心的党中央坚强领导下，全党全国各族人民团结一心、砥砺奋进的结果。在充分肯定成绩的同时，也要看到我国经济运行稳中有变、变中有忧，风险和困难明显增多，明年我国发展面临的环境更复杂，不确定性更大。我们要辩证看待国际环境和国内条件的变化，增强忧患意识，继续抓住并用好我国发展的重要战略机遇期，坚定信心，把握主动，坚定不移办好自己的事，为全面建成小康社会收官打下决定性基础。<br/><div class="contheight"></div>为全面建成小康社会收官打下决定性基础，就要把思想和行动统一到党中央决策部署上来。中国经济是一艘巨轮，体量越大，风浪越大，掌舵领航越重要。越是形势复杂、挑战严峻，越要发挥党中央集中统一领导的定海神针作用。在今年面临诸多两难或多难选择的情况下，以习近平同志为核心的党中央统揽国内国际两个大局，保持战略定力，采取正确策略，坚定推动我国经济发展沿着正确方向前进。一年来，我们在实践中深化了对做好新形势下经济工作的规律性认识，首要的一条就是必须坚持党中央集中统一领导。面对明年改革发展各项任务，我们要团结一心、步调一致，统一认识、统一行动，创造性贯彻落实党中央方针政策和工作部署，结合实际把中央经济工作会议精神落到实处。<br/><div class="contheight"></div>为全面建成小康社会收官打下决定性基础，就要激发全党全国人民奋斗精神，推动经济社会发展取得新成就。改革开放40年来，我们取得的成就是全党全国各族人民用勤劳、智慧、勇气干出来的。幸福是奋斗出来的，新时代是奋斗者的时代。明年是新中国成立70周年，是全面建成小康社会关键之年。从今后几年确定的发展目标看，做好明年经济工作至关重要。进一步激发全党全国人民奋斗精神，进一步增强凝聚力和向心力，进一步稳就业、稳金融、稳外贸、稳外资、稳投资、稳预期，进一步增强人民群众获得感、幸福感、安全感，保持经济持续健康发展和社会大局稳定，不断创造新成就，我们就能以优异成绩向人民共和国70华诞献礼。<br/><div class="contheight"></div>在日前举行的庆祝改革开放40周年大会上，习近平总书记宣示了“将改革开放进行到底”的决心和信心。以习近平新时代中国特色社会主义思想为指导，坚持稳中求进工作总基调，坚持以供给侧结构性改革为主线不动摇，坚持推动我国经济实现高质量发展，我们将不仅为全面建成小康社会收官打下决定性基础，更将推动中国经济巨轮劈波斩浪、行稳致远。<br/><div class="contheight"></div>（原题为《为全面建成小康社会收官打下决定性基础——一论贯彻落实中央经济工作会议精神》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中央经济工作会议,小康社会</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2764902">
+<div class="nbgbox">
+<a class="zan" contid="2764902" href="javascript:;" onclick="voteCont(this)" praisetimes="67">
+                           66</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中央经济工作会议</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2764902&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2764902&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

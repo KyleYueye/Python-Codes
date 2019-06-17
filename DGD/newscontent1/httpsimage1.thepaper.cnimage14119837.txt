@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">江苏盐城政务中心通宵灯火通明被质疑浪费，回应：夜间检修</h1>
+<div class="news_about">
+<p>微信公号“江苏新闻广播”</p>
+<p>
+							2019-01-10 16:24<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日，有网友通过网络爆料称，盐城市政务服务中心在周末凌晨灯火通明，引起网友们的广泛关注。据网友爆料的图片显示，大楼大部分楼层都亮着灯，办公室里却没见到有人。那么，事情真相如何？政务服务中心又为何在周末凌晨一直灯火通明呢？<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="264" src="http://image.thepaper.cn/www/image/14/119/439.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">本文图片均来自“江苏新闻广播”微信公众号</span><br/><div class="contheight"></div>1月5日，重庆市民刘先生到盐城出差办事，恰好入住在盐城市政务服务中心旁的酒店。刘先生告诉江苏新闻广播记者，当天晚上七点多外出吃饭时，他看到政务服务中心的大楼里，大部分楼层里的灯全亮着，而办公室里却没见到有人。次日凌晨一点，当刘先生返回酒店时看到灯还亮着，而早晨六点钟起床后他发现灯依然亮着。刘先生认为这样的行为实在太浪费了，便将自己所拍的图片发到了网上。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/14/119/440.jpg" width="600"/></div>1月9日上午，江苏新闻广播记者联系上了盐城市政务服务中心综合管理办公室的刘处长，他告诉记者，盐城市政务服务中心”所在的办公楼名叫国投商务楼，政务服务中心只占到了其中的一到七楼和八楼的一小部分，楼上还有其他多家单位，大楼实际是由盐城市国投集团来负责运营的。<br/><div class="contheight"></div>刘处长表示，单位平时都会有人值班，内部也有关于随手关灯的规定，并有相关告示。市民之所以看到凌晨灯火通明的现象，是因为物业公司当时正在加班加点地进行内部亮化维修工作：“现在放管服改革要求非常高，来不得一点懈怠，机关管理还有这种行为是不可能的。所有的检修时间都是严格按照市里面要求的，这个检修不是说个把小时就能完成，那么多密密麻麻的灯。”<br/><div class="contheight"></div><strong>记者：</strong>“群众三次都没有看到里面有人？”<br/><div class="contheight"></div><strong>刘处长：</strong>“检修完了在测试吧，具体情况我们会写说明来回应。”<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/14/119/441.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/14/119/442.jpg" width="600"/></div>对此，盐城市国投集团物业公司负责人陈女士也向记者做出了澄清，公司一直都在积极推进节能环保工作，当时物业公司只是按照计划进行夜间检修工作：“因为临近岁末了，都有各种大型的会议在这里召开，白天是不便于进行检修的，所以很多工作我们都是利用夜间来加班加点。”<br/><div class="contheight"></div>陈女士还介绍说，大楼的内部亮化维修工作已于1月8日完成，外围的亮化维修工作集团也已完成招标，相关工作计划还在制定安排中，后期可能还是会利用夜间来进行作业。<br/><div class="contheight"></div>（原标题为《政务中心通宵灯火通明在干啥？官方回应了》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：钟煜豪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 盐城，政务中心</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836843">
+<div class="nbgbox">
+<a class="zan" contid="2836843" href="javascript:;" onclick="voteCont(this)" praisetimes="46">
+                           45</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 政务中心</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836843&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836843&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（43）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

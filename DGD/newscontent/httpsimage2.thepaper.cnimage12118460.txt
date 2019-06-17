@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">辽宁：明年起连续两年完不成审判任务的法官必须退出员额</h1>
+<div class="news_about">
+<p>王景巍/中国新闻网</p>
+<p>
+							2018-11-09 22:37<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="360" src="http://image.thepaper.cn/www/image/12/118/457.jpg" width="540"/></div><span style="color: rgb(128, 128, 128);">辽宁省高院党组书记、院长张学群在“辽宁全省法院提升审判质效工作会议”上讲话。  本文图片均来自中新网<br/><div class="contheight"></div></span>为切实提高办案质效，辽宁省各级法院将对既有员额法官办案实行目标管理或定额管理。11月9日，记者辽宁全省法院提升审判质效工作会议上获悉，从明年起，将对法官按结案率90%的目标量化结案任务，连续两年完不成审判任务的法官必须退额。<br/><div class="contheight"></div>面对案多人少压力，辽宁省各级法院深度挖潜，依托办案大数据，不断完善审判绩效考核体系，科学开展法官、审判辅助人员绩效考核工作。<div style="text-align:center;"><img alt="" height="360" src="http://image.thepaper.cn/www/image/12/118/456.jpg" width="540"/></div><span style="color: rgb(128, 128, 128);">“辽宁全省法院提升审判质效工作会议”会议现场。<br/><div class="contheight"></div></span>从明年起，辽宁省各级法院将对员额法官实行一月一考核。一个月完不成任务的要写出说明并提出改进措施；连续3个月完不成任务的将对其约谈；半年完不成任务的将诫勉谈话；全年完不成任务且差距较大的，要考虑退出员额；连续两年不能完成审判任务的必须退额。<br/><div class="contheight"></div>为保证审判质效，提升司法公信力，辽宁省高院将审判管理作为着力点，要求全省法院突出管理服务工作，通过精品文书评选、类案推送、指导性案例编选、审判经验总结等方式，提高管理服务水平和效果；完善审判管理体系，加强全员性、全程性和全面性管理；创新审判管理方式，从案件的数量、特点科学适配审判资源，充分利用信息手段，实现审判监督管理由人盯人、人盯案、逐级把关向全院、全员、全程的信息化系统实时动态监督管理的转变；讲求管理效果，强化管理规范化建设，进一步明确程序性标准、权力标准、质量标准、自由裁量事项标准和评价标准。<br/><div class="contheight"></div>下一步，辽宁省各级法院将深入推进司法公开，加强审判管理智能化应用，强化审判执行运行态势分析，抓实抓好案件评查，积极探索涉诉信访案件质效信访责任合理绑定机制，适时开展优秀庭审和裁判文书评选活动。<br/><div class="contheight"></div>近年来，辽宁省各级法院聚焦执法办案第一要务，切实加大办案力度，加强审判管理，促进审判质效提升。今年1至10月，全省法院共受理案件1005796件，同比上升10.72%；审执结755720件，同比上升29.13%；结案率75.14%，同比上升10.71个百分点；未结案件250076件，同比下降22.61%，呈现受理案件、审执结案件数量和结案率上升，未结案件数量下降的“三升一降”良好态势。全省员额法官人均结案143.48件，全省中级法院法定审限内结案率为98.41%。<br/><div class="contheight"></div>（原题为《辽宁省法官年度办案任务不达标将面临“下岗”》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋子文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 法官员额制，辽宁，审判任务</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2619627">
+<div class="nbgbox">
+<a class="zan" contid="2619627" href="javascript:;" onclick="voteCont(this)" praisetimes="89">
+                           88</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 法官员额制</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2619627&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2619627&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（34）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

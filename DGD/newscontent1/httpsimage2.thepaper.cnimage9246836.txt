@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜放暑假还在招老师，“教师荒”背后的真问题不容忽视</h1>
+<div class="news_about">
+<p>澎湃特约评论员 胡欣红</p>
+<p>
+							2018-07-31 13:31<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日，一篇题为《省会杭州为什么会缺老师？社会心里没点数吗？》的文章，在朋友圈广为流传。 <br/><div class="contheight"></div>放暑假还在大量招聘教师，杭州江干区的校长们表示，这是近两年出现的新情况，主要是因为缺教师。除了早先被录取的应届生放了学校鸽子之外，老教师离职的多也是一个重要原因。 <br/><div class="contheight"></div>令人惊奇的是，一边教师不好招，另一边招聘还明确表示要提高门槛，除一校招一名在职在编教师外，其余均只招应届研究生。之所以如此，可能是为了显示宁缺毋滥的态度，让家长觉得学校的师资有保障。联系到最近引发热议的陕西神木市月薪2500元招聘研究生之事，不少人指责江干区在玩“佛系招聘”的套路。 <br/><div class="contheight"></div>江干区的研究生门槛固然值得商榷，但并非问题的关键。杭州其他几个区大多数岗位要求都是“应届研究生，应届优秀毕业生，在职教师”三选一即可。无论招聘是“佛系”还是实用主义，缺教师才是真问题。 <br/><div class="contheight"></div>事实上，杭州的“教师荒”并非今年才有。去年，钱江晚报一篇关于杭州教师“辞职潮”的报道就曾揭示了这个问题。杭州某城区教育局放暑假前，对区内教师辞职现象摸底显示，该区2014年辞职的教师有38人，2015年有36人，2016年有60人。虽不至于严重影响教师队伍的稳定，但短短三年，辞职人数和涨幅均令人堪忧。<br/><div class="contheight"></div>论及原因，首当其冲的当然是待遇问题。尤其对于外地来杭且家境一般的年轻男教师来说，靠工资或许能维持基本生存，但考虑到以后的买房、结婚、生子、养家等发展问题，实属艰难。在一些人看来，留在杭州当教师，还不如回老家，或到提供高薪的民办学校或培训机构来得实在。 <br/><div class="contheight"></div>但比薪酬过低更要正视的是，杭州的“教师荒”现象还折射了当下教育生态的异化，而这不是仅靠钱就能解决的问题。 <br/><div class="contheight"></div>教师职业的辛苦已经日益被公众所认知，但绝大多数人都以为只有背负升学压力、起早摸黑的中学教师很累，殊不知，小学教师的工作压力之大也往往超出人们的想象。 <br/><div class="contheight"></div>一名入职一年多的小学教师坦言，“每天都跟打仗似的”“学校事务性工作太多，要参加各种活动，如开学典礼、运动会、教学节、素养展示，还要交各种材料，如教案、论文、随笔，还有区里的减负督导、课堂增效督导……”“第一个学期，我晚上10点之前都没有出过办公室，周末也很少过，生怕哪一项出岔子，压力特别大。第一个学期后体检的时候就查出了乳腺增生，咽部、胃部都有毛病。”因为压力太大，她曾有过辞职的念头。 <br/><div class="contheight"></div>除了完成基本的教学任务和应对各种杂事，小学教师往往还要与家长们“斗智斗勇”。教育观念、立场等差异常常令老师感到束缚和压力，轻则需要沟通解释，重则导致矛盾冲突，一旦遭遇动辄举报投诉的“强势”家长，教师更是压力山大，连应有的尊严都难以维护。重重压力之下，教师的身心健康堪忧。<br/><div class="contheight"></div>物质上的匮乏，与精神上的高压，杭州的“教师荒”现象或许就不难理解了。令人遗憾的是，社会仍没有对教师群体基本需求与身心健康给予足够关注。随叫随到，无条件地付出，任劳任怨且充满斗志……很多人心目中的老师似乎就是“超人”和“完人”。殊不知，那些看上去不生病的老师，其实早已遍体鳞伤。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 教师荒</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2306935">
+<div class="nbgbox">
+<a class="zan" contid="2306935" href="javascript:;" onclick="voteCont(this)" praisetimes="182">
+                           181</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 教师离职潮</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2306935&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2306935&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（119）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

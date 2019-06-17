@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">鲁苏豫皖相邻基层检察院建立跨区域打击黑恶犯罪协作机制</h1>
+<div class="news_about">
+<p>郭树合、肖吉浩/检察日报</p>
+<p>
+							2018-09-19 11:59<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“这既是检察工作的创新实践，也是共同打击跨区域黑恶势力的有益探索，相信更期待着四家基层院协作共赢，取得理想效果。”9月17日，山东省枣庄市委常委、宣传部长、政法委书记李爱杰为台儿庄区检察院倡导建立的鲁苏豫皖相邻基层检察院扫黑除恶协作配合机制批示点赞。<br/><div class="contheight"></div>枣庄市台儿庄区地处鲁苏豫皖四省交界这一特殊地理位置，四省居民相互沟通交往密切，社情民意较为复杂。针对这一情况，台儿庄区检察院联合江苏省徐州市贾汪区检察院、河南省永城市检察院、安徽省萧县检察院共同签署了《鲁苏豫皖相邻基层检察院扫黑除恶协作配合机制》。<br/><div class="contheight"></div>该《机制》从五个方面明确了相互协调、相互支持、多赢共赢的具体工作，即建立鲁苏豫皖相邻基层院黑恶犯罪案件快速移送机制；建立鲁苏豫皖相邻基层院黑恶犯罪典型案件信息交流机制，依托检察专线网建立鲁苏豫皖相邻基层院黑恶犯罪典型案件信息库，每半年召开一次四个院扫黑办部门联席会议；建立鲁苏豫皖相邻基层院黑恶犯罪案件办理协作机制，相互支持，快速配合，努力提高办案效率；建立鲁苏豫皖相邻基层院扫黑除恶专项工作论坛机制，提高青年检察官的业务水平；建立鲁苏豫皖相邻基层院黑恶犯罪治理专家咨询机制，聘请高校专家教授为咨询专家，提供咨询支持。<br/><div class="contheight"></div>（<strong>原标题：</strong>鲁苏豫皖相邻基层院建立跨区域打击黑恶犯罪协作机制）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陈雷柱<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 扫黑除恶,协作,检察院</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2455145">
+<div class="nbgbox">
+<a class="zan" contid="2455145" href="javascript:;" onclick="voteCont(this)" praisetimes="13">
+                           12</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 扫黑除恶</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2455145&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2455145&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

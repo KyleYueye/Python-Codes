@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25490">打虎记</a>
+</div>
+<h1 class="news_title">川师原校长周介铭被提起公诉，纪委通报称其生活腐化堕落</h1>
+<div class="news_about">
+<p>柳锋/封面新闻</p>
+<p>
+							2019-01-11 10:47<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="399" src="http://image.thepaper.cn/www/image/14/158/977.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">周介铭</span><br/><div class="contheight"></div>封面新闻消息，11日，四川省人民检察院发布消息，近日，四川师范大学原党委书记、校长周介铭（正厅级）涉嫌受贿罪一案，经四川省人民检察院指定管辖，由达州市人民检察院依法向达州市中级人民法院提起公诉。<br/><div class="contheight"></div>检察机关在审查起诉阶段依法告知了被告人周介铭享有的诉讼权利，并依法讯问了被告人，听取了其委托的辩护人意见。达州市人民检察院起诉书指控：被告人周介铭身为国家工作人员，利用职务上的便利以及职权或地位形成的便利条件，为他人谋取利益，非法收受他人财物，依法应当以受贿罪追究其刑事责任。<br/><div class="contheight"></div>2018年11月，四川纪委监委通报，日前经四川省委批准，四川省纪委监委对四川师范大学原党委书记周介铭严重违纪违法问题进行了立案审查调查。<br/><div class="contheight"></div>通报中提到，周介铭身为党员领导干部，丧失理想信念，背离党的宗旨，对党不忠诚、不老实，失德失范;工作上严重不负责任，损害国有资产权益;经济上贪婪，靠山吃山，以权谋私;道德败坏，生活腐化堕落。其行为严重违反党的纪律，构成职务违法并涉嫌犯罪，且在党的十八大后仍不收敛、不收手，性质严重，影响恶劣，应予严肃处理。<br/><div class="contheight"></div><strong>周介铭简历</strong><br/><div class="contheight"></div>周介铭，男，汉族，1956年5月生，四川广汉人，大学文化。1982年7月参加工作，1985年6月加入中国共产党。<br/><div class="contheight"></div>1982年7月至1982年12月，在兰州商学院任教;<br/><div class="contheight"></div>1982年12月至1985年12月，在西北民族学院任教;<br/><div class="contheight"></div>1985年12月至1990年5月，任四川师范大学地理系讲师、系副主任;<br/><div class="contheight"></div>1990年5月至1993年5月，任四川师范大学教务处副处长;<br/><div class="contheight"></div>1993年5月至1997年4月，任四川师范大学教务处处长;<br/><div class="contheight"></div>1997年4月至2003年5月，任四川师范大学副校长;<br/><div class="contheight"></div>2003年5月至2014年3月，任四川师范大学党委副书记、校长;<br/><div class="contheight"></div>2014年3月至2016年12月，任四川师范大学党委书记;<br/><div class="contheight"></div>2016年12月，为四川师范大学正厅级干部。<br/><div class="contheight"></div>（原题为《川师原校长周介铭被提起公诉，被查时被纪委监委通报生活腐化堕落》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 四川师范大学</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2840773">
+<div class="nbgbox">
+<a class="zan" contid="2840773" href="javascript:;" onclick="voteCont(this)" praisetimes="34">
+                           33</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 四川师范大学</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2840773&caid=25490",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2840773&amp;caid=25490" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

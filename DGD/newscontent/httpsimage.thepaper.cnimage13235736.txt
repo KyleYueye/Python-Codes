@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">韩媒：金正恩今年公开活动超7成是经济外交事务</h1>
+<div class="news_about">
+<p>刘强/海外网</p>
+<p>
+							2018-12-16 13:29<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="413" src="http://image.thepaper.cn/www/image/13/235/427.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">金正恩经济领域活动：视察中朝边境的新义州市<br/><div class="contheight"></div></span>海外网12月16日消息，据韩联社统计报道，朝鲜最高领导人金正恩今年的公开活动中，超过7成是经济和外交事务。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="413" src="http://image.thepaper.cn/www/image/13/235/436.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">金正恩经济领域活动：视察土豆粉制造厂<br/><div class="contheight"></div></span><div style="text-align:center;"><img alt="" height="413" src="http://image.thepaper.cn/www/image/13/235/445.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">金正恩外交活动：与古巴领导人同车巡视平壤</span><br/><div class="contheight"></div>韩联社16日统计发现，今年1月1日至12月14日，朝鲜媒体报道金正恩公开活动的消息共123条，其中外交和经济领域的公开活动消息共有95条，占总数的77.2%。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="413" src="http://image.thepaper.cn/www/image/13/235/446.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">金正恩外交活动：在平壤接见中国艺术团</span><br/><div class="contheight"></div>韩联社说，具体来看，有关金正恩外交活动的消息达52条，与去年形成鲜明对照；有关经济活动的消息达43条，较去年猛增59.2%。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="413" src="http://image.thepaper.cn/www/image/13/235/447.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">金正恩涉军活动：指导尖端战术武器试验</span><br/><div class="contheight"></div>与此同时，今年金正恩的涉军视察活动仅有8条，较去年（41条）锐减80.5%。<br/><div class="contheight"></div>韩联社说，金正恩今年对内致力于发展经济，对外注重外交活动，体现他放弃核武经济并进路线后专心建设经济的决心。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="370" src="http://image.thepaper.cn/www/image/13/235/625.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">金正恩偕夫人李雪主视察元山葛麻海岸旅游区建设工地。</span><br/><div class="contheight"></div>韩联社还说，朝鲜第一夫人李雪主陪同金正恩亮相公开场合相关消息达到40条，远多于去年的7条。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="425" src="http://image.thepaper.cn/www/image/13/235/626.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">金正恩外出视察，赵勇元（右）陪同。</span><br/><div class="contheight"></div>除她以外，陪同金正恩活动次数最多的官员，是朝鲜劳动党中组部副部长赵勇元。<br/><div class="contheight"></div>（原题为《韩媒：金正恩今年的公开活动 超7成是经济外交事务》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张珺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 金正恩</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2744186">
+<div class="nbgbox">
+<a class="zan" contid="2744186" href="javascript:;" onclick="voteCont(this)" praisetimes="35">
+                           34</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 金正恩</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2744186&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2744186&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

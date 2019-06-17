@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">杜特尔特自曝年少时曾试图性侵女佣，发言人称只是玩笑</h1>
+<div class="news_about">
+<p>澎湃新闻记者 廖婧雯</p>
+<p>
+							2018-12-31 21:19<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="333" src="http://image.thepaper.cn/www/image/13/762/564.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">杜特尔特 资料图</span><br/><div class="contheight"></div>菲律宾总统杜特尔特12月29日自曝曾在青少年时期试图“触摸”家中女佣。菲律宾女权组织指控其性侵未遂，强烈谴责并要求其下台。<br/><div class="contheight"></div>据《纽约时报》12月31日报道，杜特尔特已经承认他曾经试图性侵犯一名女佣。然而当菲律宾女权团体对其言行进行谴责时，杜特尔特发言人称其只是开了一个玩笑。<br/><div class="contheight"></div>报道称，杜特尔特在29日的一场演说中，讲述自己高中时期曾向神父讲述过他的经历。他说曾趁女佣睡着时偷偷潜入女佣房间。“我把毯子掀开，”73岁的杜特尔特说，“我试图将手指伸进（女佣）的内裤里。”他继续补充道，“我试图去摸，但她醒过来了，我就离开房间了。”<br/><div class="contheight"></div>据法新社报道，杜特尔特此次谈话是在一场抨击教廷的讲话中谈到他少年经历时提到的。报道称，杜特尔特上台以来一直对天主教会保持激烈的抨击态度。他曾表示，“他和他的同学都曾遭受过教廷的性侵犯”，并谴责教廷对儿童犯下的性侵犯罪行。<br/><div class="contheight"></div>《纽约时报》表示，杜特尔特遭到多家女权组织强烈反对，要求其下台，外界亦对其发言一片哗然。菲律宾一女权政治团体秘书长萨尔瓦多（Joms Salvador）谴责杜特尔特的言论，说道，“很不幸的是，杜特尔特的大男子主义和对女性的歧视也反映了菲律宾社会根深蒂固的性别歧视和父权制文化。”<br/><div class="contheight"></div>对此，杜特尔特的发言人帕内洛（SalvadorPanelo）表示，杜特尔特只是“编造”了这段故事，并进行了“添油加醋”，他主要目的是批评教会对儿童犯下的罪行。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：汤宇兵<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 杜特尔特，女权，性侵未遂</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2800366">
+<div class="nbgbox">
+<a class="zan" contid="2800366" href="javascript:;" onclick="voteCont(this)" praisetimes="141">
+                           140</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 杜特尔特</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2800366&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2800366&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（69）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

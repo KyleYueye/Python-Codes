@@ -1,0 +1,77 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">外媒宣称在中国被拘的第二名加拿大人，是谁？</h1>
+<div class="news_about">
+<p>张骜/环球网</p>
+<p>
+							2018-12-13 11:06<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/142/940.jpg" width="600"/></div>环球网12月13日消息，当地时间12日，多家媒体援引加拿大外交部方面消息称，中国可能已经拘捕第二名加拿大公民。<br/><div class="contheight"></div>《环球邮报》披露，此人名叫迈克尔·斯帕弗(Michael Spavor)。他的公司此前刚刚将一些游客和冰球运动员送往朝鲜。他本人也因帮助前NBA球星罗德曼访问朝鲜而闻名。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="263" src="http://image.thepaper.cn/www/image/13/142/941.jpg" width="600"/></div>迈克尔·斯帕弗究竟是什么人？<br/><div class="contheight"></div>“商业内幕”网站在今年2月9日曾写过一篇文章，讲的是“一个温文尔雅的加拿大人如何与朝鲜高层成为朋友”，说的就是迈克尔·斯帕弗。文章称，只有少数西方人能说他们定期受到朝鲜的欢迎，而斯帕弗似乎超越了这些少数。<br/><div class="contheight"></div>作为一个加拿大人，斯帕弗经营着一家提供朝鲜旅行服务的非营利组织。他甚至说，自己与朝鲜政府的高层成员关系友好。<br/><div class="contheight"></div>虽然许多外国媒体被禁止进入朝鲜今年的阅兵式，但斯帕弗不知怎么却站在了最前面的中心位置，可以尽览驶过的坦克和导弹。他当时还在推特上发了近距离现场视频。<br/><div class="contheight"></div>据加拿大杂志《麦克林》(Maclean) 2013年的一篇文章介绍，斯帕弗在上世纪90年代末的一次首尔之行中迷上了朝鲜。记者尼古拉斯·科勒形容他是“和蔼可亲、举止温和的人”。<br/><div class="contheight"></div>据该杂志报道，2005年，斯帕弗在朝鲜首都平壤生活了6个月，在一所隶属于加拿大非政府组织的学校担任教师。他还在靠近朝鲜边境的中国城市延吉经营一所学校。<br/><div class="contheight"></div>自2005年以来，他曾多次进出朝鲜，能流利地说朝鲜方言。至于流利到什么程度，据斯帕弗自己本人说，他有时打电话都能愚弄过别人。<br/><div class="contheight"></div>斯帕弗说，他曾帮助前芝加哥公牛队球星罗德曼在2013年访问朝鲜后再次回到朝鲜。<br/><div class="contheight"></div>斯帕弗经营着一家名为“长白山文化交流”的公司，对外称志在促进与朝鲜的商业和文化联系。该组织在网站宣称在朝鲜内部有一个“广泛的联系网络”，并表示斯帕弗与朝鲜各地的“政府部门和组织有高层联系”。<br/><div class="contheight"></div>（原题为《外媒宣称在中国被拘的第二名加拿大人，是谁？》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2733700" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">加拿大外长：中国可能已经拘捕第二名加拿大公民</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2731508" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">康明凯其人：2014年到加拿大驻华使馆工作，熟练使用汉语</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2728756" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">外媒：前加拿大外交官康明凯在中国被拘</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：顾亚敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 加拿大</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2733912">
+<div class="nbgbox">
+<a class="zan" contid="2733912" href="javascript:;" onclick="voteCont(this)" praisetimes="573">
+                           572</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 加拿大</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2733912&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2733912&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（65）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

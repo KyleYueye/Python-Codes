@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜孙杨“长大”了，他告诉我们爱国从来就是自然流露</h1>
+<div class="news_about">
+<p>澎湃特约评论员 王石川</p>
+<p>
+							2018-08-20 19:28<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">亚运赛场上的一起事故，变成了佳话。昨天晚上，对孙杨来说是人生的又一高光时刻。在首次夺得男子200米自由泳亚运会冠军后，孙杨已是包揽奥运会、世锦赛、亚运会男子200、400、1500米自由泳项目全部金牌的第一人，达成个人游泳生涯的“金满贯”。而在领奖台上的意外一幕，更让孙杨获得无数赞誉。<br/><div class="contheight"></div>事情原委是这样的：在嘹亮的中国国歌中，国旗徐徐升起，就在国旗即将升至旗杆顶部时，横杆断裂，国旗掉下。孙杨见此，第一时间与组委会官员交涉，要求重新举行升旗仪式——有网友表示，看口型，孙杨说的是“one more time”。最终在孙杨坚持下，现场重新举行升旗仪式。<br/><div class="contheight"></div>孙杨这一举动被“捕捉”后，亿万网友纷纷怒赞，为“大白杨”打call。很快，这事登上热搜榜首位，有网友赞曰：“不愧是我们国家队的队长，大将风范，爱国体现在方方面面！杨队接下来加油！”也许在不少网友心中，孙杨的举动比获得金牌更有分量，更让人欢欣鼓舞，也更能赢得激赏。<br/><div class="contheight"></div>国旗坠下，确属意外，但孙杨前去交涉，名正言顺。在国际赛场上，运动员代表的是国家，颁奖仪式上的升国旗，体现国家尊严，更关乎运动员的爱国热忱。<br/><div class="contheight"></div>毋庸讳言，这几年孙杨也陷入过一些风波之中，一段时间甚至负面新闻缠身，让人感觉孙杨过于任性，过于自我，好像始终没有怎么长大。而从孙杨昨晚的表现看，他不仅展现了足够的竞技能力，也展现了成熟而健全的品格。这种成熟，体现在举止有方，体现在责任担当，也体现在珍视国家尊严。<br/><div class="contheight"></div>爱国不是表演，而是一种自然流露。从当时孙杨的反应看，他很敏锐，交涉时不卑不亢，以理服人，最终如愿以偿，赢得尊严。相比于一般人，经常参加国家大赛的运动员往往更有爱国情感，特别是国歌响起、五星红旗升起那一刻，我们常常看到运动员激动不已，热泪盈眶。究其因，那一刻不只是荣光的，内心的爱国情也激发出来了。<br/><div class="contheight"></div>在我们记忆中，爱国是王军霞亚特兰大夺冠后身披国旗的身影，是女排队员里约夺冠后的相拥泪流，是每一次赛程上国旗冉冉升起的娇艳……这样的场景常常让人热血沸腾。<br/><div class="contheight"></div>爱国不是抽象概念，并非摸不着感受不到；爱国也不是高难度动作，没有门槛，并不是非要踮起脚尖才能爱到。当孙杨看到国旗落地了，毫不犹豫地表达鲜明立场，就在于他深知国旗是国家象征，而像他们那样的运动员代表着国家形象，是国家形象的“代言人”，维护国家象征、呵护国家形象是义不容辞的事。<br/><div class="contheight"></div>“国家者，载民之舟也。舟行大海中，猝遇风涛，当同心互助，以谋共济。”爱国，是每个人血液中都应该流淌的朴素情感。孙杨的举动受到好评或正说明，在我们心中爱国就是挥之不去的本能。从这个角度看，孙杨的举动具有深刻意义，值得点赞。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 亚运会,孙杨,爱国</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2364230">
+<div class="nbgbox">
+<a class="zan" contid="2364230" href="javascript:;" onclick="voteCont(this)" praisetimes="399">
+                           398</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 亚运会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2364230&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2364230&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（50）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

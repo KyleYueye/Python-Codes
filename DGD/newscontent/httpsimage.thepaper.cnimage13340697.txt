@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">外交部：安全审查不应成为推行保护主义的工具</h1>
+<div class="news_about">
+<p>黄惠馨/央视新闻客户端</p>
+<p>
+							2018-12-20 17:11<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">央视新闻客户端12月20日消息，据报道，德国联邦内阁19日批准了行政法规修订案，将非欧盟企业收购德国国防、高技术、重要基础设施相关企业时，启动国家安全调查的收购股份门槛调至10%。此前，只有在这些企业被收购股比超过25%时，德国政府才会启动审核机制。对此，在今天（20日）的中国外交部例行记者会上，发言人华春莹表示，中方将密切关注德方外资审查制度变化及其影响。中方认为，在投资领域进行必要的安全审查，不应成为推行保护主义的工具。<br/><div class="contheight"></div>华春莹表示，中方注意到，德国经济界对政府进一步收紧外资审查制度已经有不少担忧的声音，认为此举可能损害德国作为投资地和开放市场的形象。中方认为，在投资领域进行必要的安全审查可以理解，但不应成为推行保护主义的工具，形成新的隐形壁垒，更不应采取明显的带有针对性的歧视性做法。<br/><div class="contheight"></div>外交部发言人 华春莹：面对当前保护主义和单边主义加剧的复杂形势，尤其在当前世界经济不确定性不稳定性上升的情况下，中国和德国作为世界主要经济体，都有责任共同维护自由贸易和多边主义，通过扩大双向开放为两国高水平互利合作和维护开放型世界经济注入正能量，避免对外释放影响投资环境和市场信心的消极信号。<br/><div class="contheight"></div>（原题为《外交部：安全审查不应成为推行保护主义的工具》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 保护主义,安全审查</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2756614">
+<div class="nbgbox">
+<a class="zan" contid="2756614" href="javascript:;" onclick="voteCont(this)" praisetimes="38">
+                           37</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 贸易保护主义</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2756614&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2756614&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

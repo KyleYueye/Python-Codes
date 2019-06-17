@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">深观察｜以最坦诚的心态、最开放的姿态面对舆论监督</h1>
+<div class="news_about">
+<p>澎湃特约评论员 黄帅</p>
+<p>
+							2018-08-14 09:59<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2342702" target="_blank">
+<span class="p_time"></span>
+<img alt="深观察｜以最坦诚的心态、最开放的姿态面对舆论监督" src="//image.thepaper.cn/image/9/569/295.jpg"/>
+</a>
+<div class="atlas_360_txt">海南山东，一南一北两省份吹响鼓励舆论监督的号角<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">又有一省明确要求加强舆论监督。8月11日，海南省长沈晓明在新闻媒体座谈会上指出，“舆论监督和正面宣传是统一的，政府工作既需要正面宣传，也需要舆论监督，犹如一枚硬币的两面。” <br/><div class="contheight"></div>值得注意的是，山东省前不久也提出了类似要求。7月23日，山东省委意识形态和宣传思想工作领导小组召开了第二次会议上指出：“省级新闻单位要加大舆论监督力度,对贯彻落实党中央部署、省委要求不积极、不到位，对涉及人民群众切身利益问题不闻不问，不担当不作为甚至违法乱纪的行为坚决予以曝光。” <br/><div class="contheight"></div>进入新媒体时代，这样的论断可谓一针见血，也引起了网友的点赞。事实上，新闻工作本来就不只是扮演“传声筒”的作用，而是要直面经济社会发展的难点、问题，为社会正义和民众诉求奔走呼号，帮助更多需要发声的群体。 <br/><div class="contheight"></div>如何科学地、合理地进行意识形态和宣传工作，更是考验执政者勇气和能力的重要方面。过去有些政府部门在面对舆论监督声音的时候，总觉得“不自在”“不痛快”。舆论监督的出发点往往是良好的，都是为了改进工作。但如果面对变化的舆情，不能作出合理的应对方式，反而有可能激化矛盾，造成双方都不想看到的局面。 <br/><div class="contheight"></div>之所以产生这种现象，可能和有关部门的懒政、怠政和“多一事不如少一事”的心态有关，也有可能与处理舆情危机的能力不够、方法不对有关。其中最典型的，就是不分青红皂白地“打棍子”“捂盖子”，甚至干涉媒体的正常采访和调查活动。毋庸置疑，这不会给事情的解决带来任何好处，很多时候只会加剧各方的误解，让本该发挥监督作用的舆论场变成了表达不满和发泄怨气的泥潭。 <br/><div class="contheight"></div>想必没有人愿意深陷这样的泥潭。因此有关部门需要琢磨科学的方法，以最坦诚的心态、最开放的姿态，面对来自各方的监督声音。 <br/><div class="contheight"></div>一方面，要尊重并理解媒体工作和舆论监督的方式，学会包容不一样的声音。俗话说的话，“有则改之，无则加勉”，这样广开言路的心胸，既是出于内心的真诚与坦荡，也是基于对舆论生成、变化过程的科学洞悉。 <br/><div class="contheight"></div>另一方面，要拒绝两种极端思维：要有清晰的定位感，不能对监督乃至批评的声音置若罔闻，更不能对其打击报复；与之相对应，舆论监督不等于负面报道，更不是故意“抹黑”“黑化”。这就要求涉事单位应该用开放和理性的姿态面对外界的质疑乃至批评之声，媒体和舆论也要实事求是、以理服人。 <br/><div class="contheight"></div>还有一点不可忽视，就是要结合本地舆论监督现状的实际情况，来解决具体问题。比如，作为旅游大省，海南旅游市场不时出现消费者维权的“新闻曝光”，对待这些看似负面的新闻，如何合理引导，如何合理转化，都十分考验有关部门的勇气与智慧。 再如，囿于历史和文化因素，山东省的舆论监督环境相对保守，但这不等于山东省没有改革创新的锐气，只要能认清现实，做好定位，敢于大刀阔斧地革除弊病，就不必担心舆论监督之外的各种“杂音”。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 舆论监督</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2345501">
+<div class="nbgbox">
+<a class="zan" contid="2345501" href="javascript:;" onclick="voteCont(this)" praisetimes="63">
+                           62</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 舆论监督</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2345501&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2345501&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

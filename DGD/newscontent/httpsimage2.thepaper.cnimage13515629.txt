@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">教育部公布年度“中国高校十大科技进展”，这十所高校上榜了</h1>
+<div class="news_about">
+<p>澎湃新闻记者 廖瑾</p>
+<p>
+							2018-12-26 11:46<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月26日，澎湃新闻（www.thepaper.cn）从教育部获悉，当天教育部公布了“中国高等学校十大科技进展”，其中北京大学申报的“视频编码国家标准AVS2支撑中央电视台播出超高清电视”，清华大学的“原子尺度测量材料轨道与自旋磁矩”以及东南大学的“世界首例无金属钙钛矿铁电体”等项目入选年度名单。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="1419" src="http://image.thepaper.cn/www/image/13/515/596.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">2018年度入选项目名单，入选项目名单按申报学校拼音顺序排序，排名不分先后。</span><br/><div class="contheight"></div>据教育部介绍，教育部科技委于2018年9月中旬至12月中旬组织开展了2018年度“中国高等学校十大科技进展”评选工作。经过地方和高校遴选及公示、部门形式审查、学部初评和专家综合评议4个阶段，最终推选出10项2018年高校重大科技成果。<br/><div class="contheight"></div>其中，世界首例无金属钙钛矿铁电体项目成果曾在权威学术期刊《科学》上发表。新华社此前报道介绍，东南大学熊仁根、游雨蒙等人成功制备出全有机钙钛矿型铁电体。由于全有机钙钛矿材料具有多变的结构和组分，铁电性质独特，这类材料在数据存储、逻辑运算、光量子通信、光学雷达、能源转换等领域具有广阔的应用前景。<br/><div class="contheight"></div>“该成果被《科学》发表，不但将10余年前的预言变为现实，为钙钛矿这一重要的材料家族增添了新的成员，同时也为铁电材料研究打开了新的思路。”熊仁根在上述报道中表示。<br/><div class="contheight"></div>教育部介绍，“中国高等学校十大科技进展”选自1998年开展以来，至今已21届，对提升高等学校科技的整体水平、增强高校的科技创新能力发挥了积极作用，并产生了较大的社会影响，赢得了较高的声誉。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 科技进展,中国高校,教育部</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2775855">
+<div class="nbgbox">
+<a class="zan" contid="2775855" href="javascript:;" onclick="voteCont(this)" praisetimes="211">
+                           210</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 十大科技进展</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2775855&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2775855&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

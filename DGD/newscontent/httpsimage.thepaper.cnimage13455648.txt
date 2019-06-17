@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25491">长三角政商</a>
+</div>
+<h1 class="news_title">温州一高校招聘学生出任校长助理：让学生更具有话语权</h1>
+<div class="news_about">
+<p>澎湃新闻记者 葛熔金 通讯员 白林淼</p>
+<p>
+							2018-12-24 16:53<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/455/551.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">本文图均为 温州商学院 图<br/><div class="contheight"></div></span>这周起，温州商学院金融贸易学院2016级学生黄珊珊将以校长助理的身份，参与学校重大政策的决策、制定和实施等过程。这也是浙江省高校中，首次聘请学生担任校长助理。<br/><div class="contheight"></div> “我们希望在学校建设中，让学生更具有话语权，因此考虑在学生中选聘一名校长助理。<strong>今后凡事涉及学生利益的会议，都会按照该学生校长助理的时间召开，让其有充分的表决权。”</strong>温州商学院党委副书记范茂盛告诉澎湃新闻（www.thepaper.cn）。<br/><div class="contheight"></div> 12月1日，温州商学院向全校学生发出《温州商学院校长助理（学生）招聘启事》。根据规定，此次招聘的校长助理人选为学校全日制本科学生，原则上为二或三年级，专业不限。主要学生干部或退伍军人，中共党员（含预备）优先；具有一定的参政议政能力和理论水平，为人正派诚信，在学生中具有一定的影响力；热爱学校、关心学校，对学校的机构设置、专业方向、办学定位等具有一定的了解。聘期为1年。<br/><div class="contheight"></div> 据了解，获聘学生将协助校长做好教学、后勤、学生工作等方面的监督、巡查工作；参与学校重大政策的决策、制定、宣传和实施；参与对各二级学院、职能部门的年度考核；做好学校与学生之间的沟通，上情下达、下情上传等工作。<br/><div class="contheight"></div> <div style="text-align:center;"><img alt="" height="415" src="http://image.thepaper.cn/www/image/13/455/562.jpg" width="600"/></div>招聘通知一经发出即引来学生踊跃报名。经初选，共有27名符合条件的学生入围，经过面试、笔试、辩论等层层筛选，最终有5名学生进入终极争夺战——学生校长助理竞聘大会同台竞技。最终，该校金融贸易学院2016级的黄珊珊同学胜出。<br/><div class="contheight"></div> <div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/455/565.jpg" width="600"/></div>据介绍，黄珊珊目前担任班长及英语社团副社长等职务，曾连续四届担任北京外国语大学全国青少年阅读风采大赛温州赛区评委及全国总决赛指导老师，参与“一带一路”首届全球商协会会长大会随行口译工作等。<br/><div class="contheight"></div> <strong>“以往学校制定各项制度都由老师决策，很少从学生的角度考虑。希望通过学生校长助理，能让学生更多机会参与到有关其切身利益方面的讨论和决策。</strong>目前学校共有5名核心管理人员，学生校长助理选聘后变成了5+1格局。其中，涉及学生利益的会议，都会按照学生校长助理的时间排期，比如现在奖学金是40%的获奖率，获奖率需要提高还是降低；还有考试作弊的学生，要不要取消学士学位；学生党员的选拔，应该更看重成绩还是品德等问题。”范茂盛告诉澎湃新闻。<br/><div class="contheight"></div> 范茂盛向澎湃新闻介绍，<strong>学生校长助理不享受任何行政级别，也没有工资薪酬。</strong>不过，学校发文公布，并由校长颁发聘书，在行政楼配有独立办公室。此外，毕业时将由校长亲笔撰写工作推荐信，完成工作且考核合格给予学分4分。“今后学校计划把‘校长助理’作为学生领导力培养的一门课程，在各二级学院开展。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：谢春雷<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 温州一高校，招聘学生，校长助理</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768869">
+<div class="nbgbox">
+<a class="zan" contid="2768869" href="javascript:;" onclick="voteCont(this)" praisetimes="14">
+                           13</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 高校改革</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768869&caid=25491",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768869&amp;caid=25491" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

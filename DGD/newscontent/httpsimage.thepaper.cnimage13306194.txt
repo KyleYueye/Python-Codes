@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">加拿大媒体：加外交部证实第三名加拿大人在中国被拘留</h1>
+<div class="news_about">
+<p>环球网</p>
+<p>
+							2018-12-19 15:32<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="343" src="http://image.thepaper.cn/www/image/13/306/168.jpg" width="600"/></div>环球网12月19日综合报道，据加拿大《全国邮报》19日消息，加拿大外交部周二证实，第三名加拿大公民在中国被拘留。<br/><div class="contheight"></div>报道称，外交部发言人表示，他们“知道一名加拿大公民”已被拘留，但因隐私原因没有提供进一步的细节。<br/><div class="contheight"></div>《全国邮报》称，该报无法证实第三名被拘留加拿大公民身份，但据知情人透露，此人不是外交官身份，也不是在华加拿大企业人员。<br/><div class="contheight"></div>此前，中国外交部证实，两名加拿大公民因为涉嫌从事危害中国国家安全的活动被依法采取强制措施。关于这两个案件，中加之间保持着畅通的领事沟通。<br/><div class="contheight"></div>（原题为《加政府：中国拘留第三名加拿大人》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：顾亚敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 加拿大</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2752698">
+<div class="nbgbox">
+<a class="zan" contid="2752698" href="javascript:;" onclick="voteCont(this)" praisetimes="89">
+                           88</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 加拿大</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2752698&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2752698&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（87）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

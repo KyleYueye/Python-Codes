@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">重庆法院多举措推进民营经济司法保障，增强民营企业家安全感</h1>
+<div class="news_about">
+<p>重庆晚报</p>
+<p>
+							2018-12-08 10:07<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月7日，重庆晚报记者从重庆市高法院召开的民营企业家座谈会上获悉，今年以来，全市法院共审结各类商事纠纷169111件，标的金额896.17亿元，其中涉及民营企业案件11万余件。市高法院通过出台典型案例示范引领机制、与工商联共建商事案件诉调对接机制等司法服务机制，为民营企业高效发展提供更为优质的司法支持。<br/><div class="contheight"></div><strong>维护安全稳定市场经济秩序</strong><br/><div class="contheight"></div>市高法院通报，全市法院依法严厉打击针对企业家和严重危害民营企业发展的违法犯罪活动，切实保障企业家的人身、财产权利，增强民营企业家的安全感。<br/><div class="contheight"></div>全市法院开展扫黑除恶专项斗争，对强迫交易、敲诈勒索等侵害市场经营者权益的犯罪行为依法实施严厉打击。<br/><div class="contheight"></div>落实罪刑法定、疑罪从无等法律原则和制度，严格非法经营、合同诈骗等罪名的构成要件，让民营企业家专心创业、放心投资、安心经营。<br/><div class="contheight"></div><strong>加强民营企业司法保护力度</strong><br/><div class="contheight"></div>全市法院加强对民营企业自主经营权、公平竞争权、企业创新权的司法保护力度。<br/><div class="contheight"></div>今年以来，全市法院审结确认合同效力类案件1265件，促进民营企业有效融资，提升市场经济活力。依法审理公司设立、股东资格确认、股东出资、公司决议、股权转让等与公司企业有关的民事纠纷，审结4129件，促进民营企业治理和经营能力提升。<br/><div class="contheight"></div>全市法院加强知识产权保护和涉外商事审判力度，规范知识产权民事诉讼证据指南。今年以来，审结一审知识产权案件6003件，切实保护民营企业创新权利；审理民事一审不正当竞争纠纷案件49件，有效保护民营企业的公平竞争权利。<br/><div class="contheight"></div>全市法院还加大推进“基本解决执行难”工作力度，今年以来全市法院执结涉民营企业的执行案件32790件，促进了民营企业合法权益及时兑现。<br/><div class="contheight"></div><strong>健全服务机制服务民营经济</strong><br/><div class="contheight"></div>市高法院建立典型案例示范引领机制，通过建立三级法院保护民营经济典型案例筛选机制，在司法实践中筛选出体现契约精神、符合诚实信用、公序良俗、公平竞争等法律价值与道德观念的典型案例，受到企业的欢迎和好评。<br/><div class="contheight"></div>市高法院与市工商联建立商事案件诉调对接机制，今年以来开展诉调对接近9300次；全市法院法律服务进企业、进商会、进工商联165次，定点联系民营企业315个。<br/><div class="contheight"></div>市高法院建立工商联反映情况的规范办理机制，今年以来市高法院已将市工商联反映的16个民营企业涉案问题纳入规范程序办理，对确有问题的，依法纠正；属于其他情况的，及时做好解释工作。<br/><div class="contheight"></div>（原标题：重庆法院多举措推进民营经济司法保障）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：谢寅宗<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 重庆法院 民营经济 司法保障</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2718881">
+<div class="nbgbox">
+<a class="zan" contid="2718881" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 民营经济</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2718881&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2718881&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">印尼国家减灾局：今年至少4231人在自然灾害中死亡或失踪</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-29 11:51<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">2018年对于印度尼西亚的人民来说，无疑是多灾多难的一年。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/662/962.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">当地时间2018年12月26日，印度尼西亚万丹省苏穆尔附近，往日美好的家园如今却变得满目疮痍。印尼巽他海峡22日晚发生的海啸造成的死亡人数还在持续攀升。视觉中国 图<br/><div class="contheight"></div></span>据《海峡时报》12月29日援引印尼国家减灾局（BNDP）消息称，今年印尼全境内至少有4231人在自然灾害中死亡或者被宣布失踪，这一数字为近十年以来最高。<br/><div class="contheight"></div>据BNDP消息，2018年一系列袭击印尼的自然灾难始于1月，1月23日印尼发生地震，震中在万丹省勒巴克，在之后印尼今年一共发生了2426起自然灾害，其中包括7月份龙目岛附近发生的6.4级地震，9月份中苏拉威西省发生的7.4级地震以及最近12月22日发生的巽他海啸。<br/><div class="contheight"></div>据印度尼西亚抗灾署28日通报说，印尼巽他海峡海啸受伤人数从此前的1459人大幅上升至7202人，死亡人数由此前的430人修正为426人，目前仍有23人失踪，另有4万多人撤离。印尼抗灾署发言人苏托波称巽他海峡海域有再发海啸的可能，抗灾署建议附近居民永久搬迁。目前共有2814人居住在巽他海峡大小岛屿上，由于担心火山喷发和海啸，当局已撤离了1600人。<br/><div class="contheight"></div>BNDP有关负责人表示，在今年发生的众多自然灾害中，水文气象灾害占到灾害的97%，包括热带气旋、洪水、海啸等等。对此印尼地球物理局有关专家表示，印尼位于太平洋地震带之上，使其容易发生地震等各种自然灾害，但造成印尼超过4000人在自然灾害中丧命的原因之一还是本国缺乏针对自然灾害的一系列计划。<br/><div class="contheight"></div>据中新社此前12月27日报道，印度尼西亚总统佐科已下令气象气候暨地球物理局购置新预警系统，提供民众及时的警讯。事实上，2004年南亚大海啸后，在联合国牵线下，印度尼西亚和美国、德国等国家就合力设置印度洋海啸预警系统，范围涵盖印度尼西亚海岸线。<br/><div class="contheight"></div>不过，印度尼西亚警报系统屡被指责未发挥效用。印尼抗灾署发言人苏托波此前表示，印度尼西亚的海啸预警系统因人为破坏、预算不足及技术损坏等因素，自2012年起已不能正常运作。印度尼西亚在各地部署22套早期预警浮标系统，以侦测海啸，但是相关官员向媒体坦承，许多海水浮标系统遭到任意破坏，且缺乏维修经费，已不再发挥作用。“印度尼西亚需要大量预测多种风险的预警系统”，苏托波表示。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 印尼灾害</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2791182">
+<div class="nbgbox">
+<a class="zan" contid="2791182" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 印尼地震</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2791182&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2791182&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

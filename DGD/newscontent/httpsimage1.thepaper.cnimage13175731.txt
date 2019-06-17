@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">特雷莎·梅刚渡过危机，马克龙也将面临不信任投票 </h1>
+<div class="news_about">
+<p>李芳/海外网</p>
+<p>
+							2018-12-13 22:48<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="350" src="http://image.thepaper.cn/www/image/13/175/729.jpg" width="590"/></div><span style="color: rgb(128, 128, 128);">法国总统马克龙  海外网 图<br/><div class="contheight"></div></span>海外网12月13日消息，继英国首相特雷莎·梅艰难挺过不信任投票后，法国总统马克龙也将面临不信任投票，不过，由于马克龙领导的党派占据议会绝大多数席位，他失去总统之位的可能性非常小。<br/><div class="contheight"></div>综合俄罗斯卫星网、英国《快报》报道，来自法国多个左翼政党共和党、社会党以及“不屈法国”党的62名议员于11日发表了联合声明，并对马克龙政府提出不信任的动议。根据法国宪法第49条规定，48小时后议会需进行不信任投票，即当地时间13日，议会将对马克龙政府进行不信任投票。<br/><div class="contheight"></div>议员们在声明中称，马克龙此前宣布的和解措施包括增长最低工资、加班费和年终奖免税等，既不公平也不负责任，无法平息法国人的愤怒，也无法满足他们的需求。<br/><div class="contheight"></div>多数议员的反对票将让马克龙下台，然而，这种情况不太可能发生，因为马克龙所在的共和前进党（La République En Marche!）占据了577个议员席位中的309个。<br/><div class="contheight"></div>不过，此次不信任投票已经引起了马克龙政府的注意，并迫使总理爱德华·菲利普调整2019年预算计划，爱德华称将在投票前详细说明下一年的预算计划。<br/><div class="contheight"></div>法国于11月17日爆发“黄背心”运动，已造成3人死亡，数百人受伤，法国内政部公布的数据显示，12月2日，约有13.6万人参与了抗议活动，而12月8日和9日两天巴黎看起来像个“鬼城”，商户闭店，游客稀少，多数居民被告知不要出门。埃菲尔铁塔和部分博物馆被迫停止接待游客。为安抚“黄背心”抗议者，马克龙政府宣布暂停上调燃油税计划。<br/><div class="contheight"></div>12日晚，英国首相特雷莎·梅获得了200个支持票，挺过由其所在的保守党议员对其领导力发起的不信任投票后，继续担任保守党党首，也保住了首相之位。<br/><div class="contheight"></div>虽然梅挺过了此次的不信任投票，但英国广播公司政治编辑劳拉·库恩斯伯格称，这样的反对率对梅来说“一点儿也不轻松”，对她的威信是“沉重的打击”。不仅如此，梅受到了批评人士的猛烈抨击，她表示将在下一次英国大选（2022年）前辞职。<br/><div class="contheight"></div>（原题为《梅姨刚渡过危机 马克龙也将面临不信任投票》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 法国,马克龙,不信任,投票</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2737545">
+<div class="nbgbox">
+<a class="zan" contid="2737545" href="javascript:;" onclick="voteCont(this)" praisetimes="157">
+                           156</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 马克龙</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2737545&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2737545&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

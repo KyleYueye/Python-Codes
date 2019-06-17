@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25436">能见度</a>
+</div>
+<h1 class="news_title">中国方案助力非洲能源可持续发展，刘振亚介绍全球能源互联网</h1>
+<div class="news_about">
+<p>郭骏/人民日报</p>
+<p>
+							2018-12-24 08:10<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="399" src="http://image.thepaper.cn/www/image/13/445/315.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">这是2018年6月7日在摩洛哥瓦尔扎扎特拍摄的努奥光热电站项目三期工程（航拍照片）。从2015年起，中国电建集团下属的山东电建三公司在瓦尔扎扎特承建努奥光热电站项目二期和三期工程。 新华社 图</span><br/><div class="contheight"></div>一项来自中国的倡议22日在尼日利亚首都阿布贾举行的西非国家经济共同体（西共体）首脑峰会上亮相，这将有助于推动非洲清洁能源开发、解决电力短缺难题。<br/><div class="contheight"></div>2015年，中国提出“探讨构建全球能源互联网”的倡议。全球能源互联网是以特高压电网为骨干框架、全球互联的强大智能电网，是清洁能源在全球范围内大规模开发、配置和利用的平台。<br/><div class="contheight"></div>作为此次峰会议程之一，西共体委员会、全球能源互联网发展合作组织和几内亚政府当天联合举办能源互联网可持续发展高级别会议，探讨了全球能源互联网倡议对促进西非各国经济社会和能源电力协调可持续发展的潜力。<br/><div class="contheight"></div>全球能源互联网发展合作组织主席刘振亚在会上向与会各国元首、高级别官员介绍了针对西非地区的能源互联网规划方案和“电—矿—冶—工—贸”联动发展思路。<br/><div class="contheight"></div>刘振亚指出，规划建设西非能源互联网，就是要统筹区内区外资源，加强各国电网建设和跨国跨区联网，引导区内清洁能源开发，引入区外清洁电能，为西非经济社会发展提供安全、经济、清洁的能源保障。<br/><div class="contheight"></div>刘振亚表示，非洲大陆拥有丰富的清洁能源资源和矿产资源，“电—矿—冶—工—贸”联动发展方式通过统筹水电等清洁能源基地、矿山冶金基地、工业园区规划和建设，形成发、输、用一体化的电力市场，有效解决工业发展缺电力、电力开发缺市场的问题，经济社会效益巨大。<br/><div class="contheight"></div>几内亚总统孔戴在会后接受记者采访时表示，参加高级别会议的西非领导人对中国提出的能源互联网倡议十分感兴趣。能源互联不仅可以促进非洲国家间贸易和市场发展，还可以改变当地的农业模式，就地进行原材料加工，促进教育和技术发展。<br/><div class="contheight"></div>本次高级别会议还呼吁西非各国加入“非洲能源互联网可持续发展联盟”。<br/><div class="contheight"></div>全球能源互联网发展合作组织是由致力于推动世界能源可持续发展的相关企业、组织、机构和个人等自愿组成的国际组织，会员已遍及大约80个国家和地区。<br/><div class="contheight"></div>（原标题：中国方案助力非洲能源可持续发展）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：贺梨萍<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2767696">
+<div class="nbgbox">
+<a class="zan" contid="2767696" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 全球能源互联网</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767696&caid=25436",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767696&amp;caid=25436" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

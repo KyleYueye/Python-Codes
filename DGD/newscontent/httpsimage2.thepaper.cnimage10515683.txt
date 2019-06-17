@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">人民日报刊文：善用法规，推助电商健康成长</h1>
+<div class="news_about">
+<p>董希淼/人民日报</p>
+<p>
+							2018-09-17 08:47<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">在平台网购，买到假货却投诉无门；商品有问题，给差评后却不断接到骚扰电话；网上订飞机票，个人信息却被公开……电子商务领域存在的一些乱象，或将得到有力整治。近日，《中华人民共和国电子商务法》获全国人大常委会表决通过，将于明年1月1日起施行。我国电子商务从此步入有法可依、有法必依的新阶段。<br/><div class="contheight"></div>近年来，电子商务产业快速发展，为满足人民日益增长的美好生活需要、激发社会创新创业活力发挥了重要作用。但发展过程中也遇到不少问题，尤其是电子商务经营者、消费者的权利与义务亟待明确。在此背景下，电子商务法作为我国电子商务领域一部综合性、基础性法律应运而生，主要从规范管理和鼓励创新两个维度，较好回应了社会关切和行业需求，助力解决新经济领域“成长的烦恼”。<br/><div class="contheight"></div>在规范管理方面，电子商务法一方面通过确立规则，明确了经营者的相关义务，为规范行业发展提供了依据；另一方面专设“法律责任”一章，详细规定各种违法违规行为的处罚标准，为维护法律权威和市场秩序提供保障。比如针对社会关注的网约车安全等问题，电子商务法明确规定，对关系消费者生命健康的商品或者服务，“平台经营者对平台内经营者的资质资格未尽到审核义务，或者对消费者未尽到安全保障义务，造成消费者损害的，依法承担相应的责任”；同时明确，违反该规定可责令限期改正、停业整顿，并处以最高200万元罚款。电子商务法就像一本内容详细的操作说明书，为经营者提供规范，为消费者维护合法权益提供指南。<br/><div class="contheight"></div>在鼓励创新方面，电子商务法专设“电子商务促进”一章，从促进线上线下产业融合、农村电子商务、跨境电子商务发展以及推进诚信体系建设等方面，规定了支持促进电子商务发展的政策措施。比如结合跨境电子商务的特点，建立健全海关、税收、进出境检验检疫、支付结算等多个部门的信息共享、监管互认、执法互助的进出口协调监管制度，承认进出口单证的电子化，提高对外贸易的便利化水平，支持小微企业参与跨境电子商务活动。再比如，给予个人销售自产农副产品，家庭手工业产品，个人利用自己的技能从事依法无须取得许可的便民劳务活动和零星小额交易活动等相对宽松的制度环境。法律本身是约束，但条文之间也彰显价值。在规范与创新之间，能否找到最佳平衡点最为关键。<br/><div class="contheight"></div>此外，强化对消费者权益的保护也是电子商务法的一大特点。平台经济蓬勃发展的今天，掌握海量数据和流量的平台拥有很强的议价能力，消费者处于相对弱势地位。从平台搭售商品必须有显著提示的规定，到保证押金顺利退换的要求；从进一步强化用户个人信息保护，到防止“大数据杀熟”的相应条款，这些法律规范既是对消费者权益的保护，也是在营造并维护更公平、更健康的电子商务市场环境。只有在制度层面形成硬约束，才能为整个产业的长远发展提供可持续动力。<br/><div class="contheight"></div>当然，作为我国电子商务领域第一部综合性法律，电子商务法有不少规定仍然是原则性的，需要进一步明确和细化。面对日新月异的信息技术和商业模式，法律规范也需要为发展“留白”，在探索中完善、于实践中成熟。从这个角度来讲，电子商务法的通过，不是问题的终结，而是继续前行的开始。<br/><div class="contheight"></div>（作者为中国人民大学重阳金融研究院高级研究员）<br/><div class="contheight"></div>（原题为《善用法规，推助电商健康成长》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张珺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 电子商务法</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2447325">
+<div class="nbgbox">
+<a class="zan" contid="2447325" href="javascript:;" onclick="voteCont(this)" praisetimes="7">
+                           6</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 电子商务法</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2447325&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2447325&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

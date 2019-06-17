@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国对朝政策特别代表21日访韩，双方将讨论涉朝相关问题</h1>
+<div class="news_about">
+<p>魏雪巍/海外网</p>
+<p>
+							2018-12-18 15:51<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="394" src="http://image.thepaper.cn/www/image/13/280/426.jpg" width="600"/></div><br/><div class="contheight"></div>海外网12月18日消息，21日，美国国务院对朝政策特别代表斯蒂芬·比根（Stephen Biegun）将访问韩国首尔。韩国外交部18日表示，韩国外交部半岛和平交涉本部长李度勋将同比根举行韩美涉朝工作组第二次会议。<br/><div class="contheight"></div>据韩联社报道，会议将主要讨论涉及朝鲜的相关问题，包括朝韩关系、实现“半岛无核化”、韩朝合作项目豁免制裁等，届时两国政府办公室和韩统一部的官员也将参加会议。报道称，韩国一直努力在朝韩问题上保持对话的势头，希望改善双方关系、推进“无核化”的进程。<br/><div class="contheight"></div>据了解，朝韩铁路计划重新连接和现代化的破土动工仪式将在26日举行，地点是在边境城市开城的板门站。朝韩领导人于4月27日在《板门店宣言》中就京义线和东海线铁路与公路对接和升级改造项目达成一致，并在11月30日启动京义线和东海线铁路朝方路段联合考察。<br/><div class="contheight"></div>此外，据新华社此前报道，美国总统特朗普1日晚对媒体表示，他或将于明年1月或2月与朝鲜最高领导人金正恩再次举行会晤。他表示，他同金正恩有着“非常好的关系”，但目前还没有确定会晤地点，有3个可能的地点正在考虑中。<br/><div class="contheight"></div>今年6月，特朗普与金正恩在新加坡会晤并签署联合声明，就“建立新的朝美关系”以及“构建朝鲜半岛持久稳定和平机制”达成一致。<br/><div class="contheight"></div>（原标题《美国代表21日访韩 双方将开会讨论涉朝相关问题》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 半岛无核化</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2749565">
+<div class="nbgbox">
+<a class="zan" contid="2749565" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 半岛无核化</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2749565&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2749565&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

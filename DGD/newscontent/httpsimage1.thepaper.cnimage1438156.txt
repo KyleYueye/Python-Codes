@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">上海116岁老建筑为利民工程挪位，未来将回迁至原址</h1>
+<div class="news_about">
+<p>澎湃新闻记者 栾晓娜</p>
+<p>
+							2019-01-08 19:17<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/14/38/237.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">2019年1月5日，上海江浦路104弄文保建筑1号主楼平移到位。本文图片均由上海城投公路集团 提供</span><br/><div class="contheight"></div>始建于1902年的上海江浦路104弄文保建筑“搬家”了。<br/><div class="contheight"></div>2019年1月5日15时，随着江浦路104弄文保建筑平移总指挥的指令，最后启动平移的1号主楼到达预定位置。这标志着，始建于1902年（清光绪二十八年）、已有116年历史的江浦路104弄文保建筑第一阶段平移工作顺利完成。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）记者从上海城投集团获悉，此次文保建筑平移工作由江浦路越江隧道投资建设单位上海城投公路投资（集团）有限公司牵头，会同政府相关部门、属地区、街道及设计、施工单位共同开展。待平移到位后，原建筑场地周边将陆续进行杨树浦路管线改排，江浦路隧道结构施工，杨树浦路综合改造等利民工程。工程完成后，该建筑将回迁至原址。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="338" src="http://image.thepaper.cn/www/image/14/38/104.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">文保建筑平移前位置。</span><br/><div class="contheight"></div>此次平移把文保建筑分成1号主楼和2/3/4号附楼4个独立部分进行平移。其中，4号附楼向东平移61.5米，再向南平移5.45米。3号附楼向东平移76.3米。2号附楼向东平移30.0米，再向北平移2.5米。1号主楼向东平移46.5米，再向北平移11.4米。文物建筑整体向东北方双喜小区靠近，为后期杨树浦路管线改排及道路翻交腾出了场地，也为江浦路越江隧道下一阶段的施工奠定了基础。<br/><div class="contheight"></div>江浦路104弄文物保护建筑位于江浦路越江隧道新建工程浦西暗埋段正上方，是实施江浦路越江隧道工程的关键节点之一。该建筑是一幢英式建筑风格鲜明的砖木结构阁楼，包含一座三层的主楼和三座二层的附楼，总建筑面积2052平方米；之前作为原上海纺织株式会社下属上海纱厂第一工场的职员宿舍，当时共建造28幢，目前平移保护的是仅存的一幢。<br/><div class="contheight"></div>该建筑南邻杨树浦路，西邻江浦路，地理位置特殊，隧道自杨树浦路进入江浦路就必须从该建筑下方转弯，无法避让。<br/><div class="contheight"></div>一边承载着传承百年的上海历史印记与建筑特色，一边代表着新时代人民对城市出行美好生活的愿望与要求，在这个两难的选择题中，城投公路集团从兼顾重大工程建设与城市历史风貌保护的人文需求这一视角出发，积极协调参加各方及相关社区，在各级政府的关心及多部门通力协作下，最终确定采用平移+回迁的方案对该建筑进行保护。<br/><div class="contheight"></div>由于该建筑地处上海市中心城区，周边有多项重大市政工程在同时施工，要找到合适的平移位置也并非易事。唯一有可能的就是向东平移，向商品房小区借地。<br/><div class="contheight"></div>对此，城投公路集团投入了大量的精力，在杨浦区建交委、平凉街道、双喜家园居委会的大力支持下，与双喜小区的全体业主展开谈判，获得了业主的广泛支持，成功借下1700余平方米土地。经过多次研讨论证和模拟演练，对平移顺序和行走路径不断优化完善，最终确定采用先平移附楼，后平移主楼的方案，使平移的施工风险和资源消耗限定在可控范围以内，确保平移工程顺利实施。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：高文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 文保建筑,江浦路,综合改造</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827842">
+<div class="nbgbox">
+<a class="zan" contid="2827842" href="javascript:;" onclick="voteCont(this)" praisetimes="17">
+                           16</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 文保建筑</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827842&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827842&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

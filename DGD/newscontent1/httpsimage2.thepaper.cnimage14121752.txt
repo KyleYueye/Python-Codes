@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25436">能见度</a>
+</div>
+<h1 class="news_title">研究报告称美国去年能源碳排放增3.4%，11年来首次上升</h1>
+<div class="news_about">
+<p>林小春/新华社</p>
+<p>
+							2019-01-10 21:31<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社华盛顿1月9日电 美国独立研究机构荣鼎咨询近日发布报告说，初步估算显示，2018年美国与能源消费相关的二氧化碳排放量增加3.4%，是过去4年里首次增加，也创下自2010年美国经济复苏以来的最大增幅。<br/><div class="contheight"></div>报告说，运输业连续3年成为美国碳排放的最大源头，其中货车运输和航空业的碳排放显著增加。另外，2018年年初的寒冷天气导致供暖需求增加，也是造成2018年美国能源碳排放显著增加的一个重要因素。<br/><div class="contheight"></div>电力行业也是美国能源碳排放的“大户”。报告说，2018年美国关闭燃煤发电厂数量创新高，取代燃煤发电的主要是天然气发电，天然气发电也成为满足美国用电需求增长的主力军。<br/><div class="contheight"></div>总体来看，美国能源碳排放于2007年达到峰值，那之后到2015年以年均1.6%的幅度下降。自2016年以来，美国能源碳排放年均下降水平明显放缓，2018年不降反升，距完成《巴黎协定》目标越来越远。<br/><div class="contheight"></div>报告写道：“美国已经偏离完成《巴黎协定》目标的轨道。2019年，这个差距会变得更大。”<br/><div class="contheight"></div>2015年底，《联合国气候变化框架公约》近200个缔约方在法国达成里程碑式的《巴黎协定》，为2020年后全球应对气候变化行动作出安排。当年奥巴马政府在推动达成协定时，曾承诺美国到2025年将在2005年的基础上减排26%至28%。但特朗普政府上台后宣布退出《巴黎协定》，这一决定遭国际社会广泛批评。<br/><div class="contheight"></div>（原标题：<span style="display: inline !important; float: none; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-family: Arial,Verdana,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 24px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">报告说美国2018年能源碳排放增加3.4% </span>）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：海阳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836672">
+<div class="nbgbox">
+<a class="zan" contid="2836672" href="javascript:;" onclick="voteCont(this)" praisetimes="26">
+                           25</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美国碳排放计划</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836672&caid=25436",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836672&amp;caid=25436" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

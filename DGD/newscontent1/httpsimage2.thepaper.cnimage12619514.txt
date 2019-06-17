@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜纠正“痕迹管理”之弊，让实干者轻装上阵</h1>
+<div class="news_about">
+<p>澎湃特约评论员 王钟的</p>
+<p>
+							2018-11-27 16:19<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">11月26日下午，中共中央政治局就中国历史上的吏治举行第十次集体学习。中共中央总书记习近平在主持学习时指出，现在“痕迹管理”比较普遍，但重“痕”不重“绩”、留“迹”不留“心”；检查考核名目繁多、频率过高、多头重复；“文山会海”有所反弹。这些问题既占用干部大量时间、耗费大量精力，又助长了形式主义、官僚主义。习近平强调，这种状况必须改变，要把干部从一些无谓的事务中解脱出来。<br/><div class="contheight"></div>所谓“痕迹管理”，就是在工作中通过保留文字、图片、视频等资料，有效还原干部对工作的落实情况，供日后查证。<br/><div class="contheight"></div>这确实是考察干部履职的可行办法。针对基层工作的效果，不光要看口头说了什么，也要拿出相应的证据。重视“痕迹”，能够避免某些干部在汇报工作、迎接检查时夸大其词，甚至弄虚作假，在平时工作时则敷衍散漫，落实不到位等问题。<br/><div class="contheight"></div>但是，“痕迹管理”的目的不在于留下痕迹，而在于优化行政职能，推动干部按照要求，为群众多做好事和实事。如果重“痕”不重“绩”、留“迹”不留“心”，就会让“痕迹管理”流于形式主义。曾有媒体报道，有驻村干部反映，村里搞一次“卫生清扫”就需要9份档案。有基层干部开玩笑说，这些档案怎么看都像是法院的卷宗。<br/><div class="contheight"></div>换句话说，在以前考核方式粗放的年代，干部汇报工作仅靠一份报告，确实容易出现漏洞，但现在要求在每个环节留下证据，并不意味着挤干了所有的“水分”，对于心存侥幸、工作不扎实的人，照样有办法编造虚假材料。 <br/><div class="contheight"></div>基层工作千头万绪，基层干部面对复杂而艰巨的工作任务，承担了不少压力，有的甚至常年处于超负荷状态。前不久云南大姚县80后乡干部李忠凯因为一头白发，引发外界高度关注，就是最好的说明。<br/><div class="contheight"></div>毫无节制地推行“痕迹管理”，会让基层干部在本职工作以外增添不必要的负担。而且，让他们成天应付于撰写各种报告、记录，难免会让他们产生不被信任感，影响工作积极性。<br/><div class="contheight"></div>过度重视“痕迹”，也会导致本末倒置，助长形成不正确的政绩观念。如果谁留下的“痕迹”多，谁就在考核中排名靠前，获得优先提拔和重用的机会，会扭曲部分干部的心理，制造干部考核工作的不公平问题。为担当者担当，让实干者实惠，才是干部考核应当遵循的指向。动辄讲究“痕迹”，却疏于对真实工作绩效的考察，会让实干者寒心。 <br/><div class="contheight"></div>不合理的“痕迹管理”，不仅会影响干部的工作态度和方法，也有可能在群众心目中造成不良印象。比如，有的基层干部到村里开展扶贫工作，因为上级要求留下影像资料，所以进村第一件事就是和贫困户合影。如此做法，会让村民产生什么想法？一旦工作中遇到问题，导致群众不满意，“痕迹管理”就会加深群众的怀疑，制造干群矛盾，甚至产生不必要的误解。 <br/><div class="contheight"></div>形式主义、官僚主义等不正之风的存在，说到底还是干部的价值观出了问题，没有把人民群众的根本利益当做工作的追求。过多过滥的“痕迹管理”，让基层干部疲于应对无谓的事务，占用大量时间、耗费大量精力，而耽误真正的群众工作，无助于提高人民群众对基层工作的满意度。是该下大力气扭转这种风气，让基层干部在内的干部群体轻装上阵，狠抓工作实效了。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 痕迹管理</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2675709">
+<div class="nbgbox">
+<a class="zan" contid="2675709" href="javascript:;" onclick="voteCont(this)" praisetimes="311">
+                           310</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 形式主义官僚主义</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2675709&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2675709&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,77 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25450">文化课</a>
+</div>
+<h1 class="news_title">故宫淘宝又推出新口红，这次竟然有蓝色</h1>
+<div class="news_about">
+<p>宋宇晟/@中国新闻网</p>
+<p>
+							2018-12-20 17:00<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="454" src="http://image.thepaper.cn/www/image/13/340/215.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">本文图片均来自@中国新闻网</span><br/><div class="contheight"></div>中国新闻网官方微博12月20日消息，继前几天推出不同版本的口红后，故宫淘宝今日（12月20日）又发布了新款口红。记者注意到，这款口红外管为文房四宝之一的墨形，口红膏体形状也是仿墨石多面体形，设计元素来源于故宫博物院所藏文物“大富贵亦寿考五色墨”。<br/><div class="contheight"></div>值得一提的是，这款口红共有五种颜色——莹白色、藕荷色、嫣红色、碧金色、霁蓝色。介绍称，其中的碧金色是金色和绿色的混合，与其他常用色系口红搭配叠加使用，会产生“神奇的效果”；而霁蓝色则用来“突破自我”。五色墨口红每盒199元，将于12月30日陆续发货。你会选哪种颜色？<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="459" src="http://image.thepaper.cn/www/image/13/340/217.jpg" width="600"/></div>（原题为《故宫又推出新口红 这次竟然是蓝色》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2736086" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">被故宫口红刷屏了！但我们要问，为什么没有口绿、口蓝？</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2727232" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">故宫口红有嫡庶之分？ 不存在的，都是自己家的</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2727212" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">爆款“故宫口红”到底是不是故宫出的？故宫声明：是</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 故宫,口红</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2756535">
+<div class="nbgbox">
+<a class="zan" contid="2756535" href="javascript:;" onclick="voteCont(this)" praisetimes="87">
+                           86</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 故宫口红</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2756535&caid=25450",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2756535&amp;caid=25450" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">印度开展“太空外交”，为5个邻国建设大型卫星地面接收站</h1>
+<div class="news_about">
+<p>澎湃新闻记者 李怡清 实习生 汪梦雪</p>
+<p>
+							2019-01-08 17:17<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">印度在太空领域的步伐向周边邻国扩展。<br/><div class="contheight"></div>据《印度时报》网站1月3日报道，作为印度“太空外交”的一部分，印度将在不丹、尼泊尔、马尔代夫、孟加拉国和斯里兰卡这5个邻国建立5个大型卫星地面接收站和500多个小型终端设施。<br/><div class="contheight"></div>报道称，这些接收站和终端设施将帮助开发从电视广播到电话、互联网、灾害管理和远程医疗等各种应用软件。与此同时，印度空间研究组织（ISRO）可以利用这些地面接收站与自己的卫星进行联络。<br/><div class="contheight"></div>报道援引消息人士的话称，第一个地面接收站将在不丹的首都廷布落地，此站将于1月9日进行调试，并预计最早可于1月15日举行启用仪式。<div style="text-align:center;"><img alt="" height="514" src="http://image.thepaper.cn/www/image/14/37/321.png" width="600"/></div>“我们有一家印度公司（Alpha Design Technologies）正在实施该项目，未来将有100个极小孔径中断链接到地面接收站。该项目将首次把电视广播技术普及到不丹的许多偏远地区。”这名消息人士说。<br/><div class="contheight"></div>印度空间研究组织主席西旺表示，“印度空间研究组织对这次的项目非常认真，我们承诺提供一切支持。我们甚至会派出人员帮助有关国家利用我们的卫星服务。”<br/><div class="contheight"></div>报道称，2018年，印度空间研究组织（ISRO）在这几个国家都安装并启用了几个终端设施。通过印度空间研究组织在新德里的地面基站，这些终端展示了其在电视广播、视频会议和数据传输方面的用途。他说：“基于这一成果，这些国家要求印度政府向它们提供完备的地面接收站，以便它们拥有自己的网络。”据悉，新德里方面于去年12月12日接待了上述国家的代表们，“与他们共同描绘了项目未来的发展计划”。<br/><div class="contheight"></div>上月底，一个由10人组成的孟加拉代表团访问印度，敲定了两国间的一个项目，该项目将在孟加拉国各地建设至少100个终端设施和一个大型地面接收站。选址或定于首都达卡。<br/><div class="contheight"></div>报道称，马尔代夫也表示有兴趣在该国的100个岛屿建立灾害管理中心。这名消息人士说：“不丹、孟加拉国和马尔代夫的项目开工后，将在3个月内完工，接着就会轮到尼泊尔和斯里兰卡。”<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="438" src="http://image.thepaper.cn/www/image/14/37/280.png" width="600"/></div>除此之外，在阿富汗，一个类似项目也正在规划中，该项目包括建设100个终端和一个地面接收站。但由于安全关切，该项目还需等待一段时日。<br/><div class="contheight"></div>卫星地面接收站通俗来说即用于信息的跟踪和接收，除了加强各区域的合作外，《印度时报》称，该国此举还将有助于在印度之外建立起战略性的资产。《参考消息》报道称，秉持“邻国优先”政策的印度，正加强对邻国的援助力道，同时也将“太空外交”作为抗衡中国在该地区影响力的一种手段。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：吴挺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 印度,太空外交,卫星地面接收站</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827843">
+<div class="nbgbox">
+<a class="zan" contid="2827843" href="javascript:;" onclick="voteCont(this)" praisetimes="49">
+                           48</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 印度外交</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827843&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827843&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

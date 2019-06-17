@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">中国成联合国第二大会费国，日本忧其排位下降有损话语权</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一 实习生 唐晓帆</p>
+<p>
+							2018-12-24 18:08<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">联合国大会全体会议于纽约当地时间22日表决通过了各成员国分摊联合国会费和维和行动预算的新比例，中国超过日本跃升至第二，仅次于美国。<br/><div class="contheight"></div>据日经新闻网12月24日报道称，由于中国经济的快速增长，根据联合国大会于22日通过决议，中国2019至2021年承担的联合国会费和维和摊款均将大幅增长，承担12%的会费和15.2%维和摊款。<br/><div class="contheight"></div>“联合国确定会费的核心原则是各国支付能力。中国经济总量大，但人均国民收入水平低，属于发展中国家，这是衡量中国支付能力的重要依据。”外交部发言人华春莹24日主持例行记者会时表示，“这是中国作为世界第二大经济体，近年来经济总量和人均国民总收入增长的结果，也是中国国际影响力上升的体现。”<br/><div class="contheight"></div>“根据最初商定的新的评估方式，从2019年开始，中国将成为联合国常规预算的第二大财政捐助国，”一位中国代表在会后对日经新闻表示，“这对于一个人口约14亿的发展中国家来说，并不是一个小数目。”<br/><div class="contheight"></div>相比之下，日本分摊的会费份额将从9.68%缩减至8.564%，排位第三。美国则分摊近22%，仍排位第一。<br/><div class="contheight"></div>联合国成员国的会费分摊比例根据各国国民总收入、债务调整等经济指标每三年进行修订，其结果反映了各国的经济实力。日经新闻网报道称，日本分摊比例的下降可能会削弱其在联合国中的影响力及话语权。<br/><div class="contheight"></div>至于联合国维和行动的预算分摊比例，美国总统特朗普指责其数额过于繁重，要求将其分摊的比例从28%降至25%，但由于遭到各国反对并未得到承认。<br/><div class="contheight"></div>而11月29日，国防部新闻局副局长、国防部新闻发言人任国强在例行记者会上表示，中国在完成8000人规模待命部队注册基础上，13支维和待命分队已于10月一次性全部高标准通过联合国组织的考核评估，晋升为二级待命部队。此外，中国还积极为各国培训维和人员，目前已经为几十个国家培训了1500余名维和人员。<br/><div class="contheight"></div>根据联合国发布的信息，在联合国安理会常任理事国中，中国目前不仅是派出维和人员最多的国家，也是维和行动数十亿美元预算的第二大捐助国。<br/><div class="contheight"></div>任国强在上个月的例行记者会上强调，中国军队以实际行动彰显了维护世界和平、构建人类命运共同体的大国担当。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：杨一帆<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中国,联合国,会费,日本</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2769271">
+<div class="nbgbox">
+<a class="zan" contid="2769271" href="javascript:;" onclick="voteCont(this)" praisetimes="101">
+                           100</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 联合国经费分摊</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2769271&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2769271&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

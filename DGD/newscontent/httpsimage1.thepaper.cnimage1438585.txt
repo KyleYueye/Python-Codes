@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜奖金提到八百万且全归个人，最高科技奖沉甸甸实在在</h1>
+<div class="news_about">
+<p>澎湃特约评论员 王石川</p>
+<p>
+							2019-01-08 17:05<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">8日上午，国家科学技术奖励大会在北京隆重举行，哈尔滨工业大学刘永坦院士和中国人民解放军陆军工程大学钱七虎院士获得2018年度国家最高科学技术奖。与此同时，国家最高科技奖奖金额度由500万元提高到800万元，“原来是500万元里面50万元归个人，450万元用于科研工作，现在全由个人支配。”<br/><div class="contheight"></div>无论奖金额度提高60%，还是奖金全由个人支配，这一变化确有现实意义。正如国家科学技术奖励工作办公室有关负责人所称：“这是国家最高科学技术奖设立近20年以来，首次对奖金额度和分配结构进行调整，充分体现了党对科技工作者的激励和关怀。”<br/><div class="contheight"></div>对于两位国家最高科技奖得主来说，他们都是“80后”，都是所在领域的领军者，也都甘于奉献、淡泊名利。但是，国家没有忘记他们，向他们颁发的国家最高科技奖，绝非“终身荣誉”式的象征性称号，而是因为他们实至名归，的确成就非凡。<br/><div class="contheight"></div>同时，两人尽管年事已高，但一直奋战在科研一线——2011年，刘永坦团队成功研制出中国具有全天时、全天候、远距离探测能力的新体制雷达，核心技术处于国际领先地位；港珠澳大桥的海底隧道建设，钱七虎综合考虑洋流、浪涌、沉降等各方面因素，提出合理化建议方案。这也回击了社会上的一些偏见，认为获奖者大都不中用了，发奖带有安慰性质。实则不然，纵观近年来的获奖者，仍很活跃，从袁隆平到孙家栋，再到吴孟超……无不如此。<br/><div class="contheight"></div>“要让科技工作成为富有吸引力的工作、成为孩子们尊崇向往的职业。”在去年5月28日召开的两院院士大会上，习近平总书记如是强调。科技工作如何才能富有吸引力、受人尊崇向往？言人人殊，不一而足。让科学家名利双收、受敬仰，则是不可或缺的重要环节。<br/><div class="contheight"></div>尊重劳动、尊重知识、尊重人才、尊重创造，不能只放在口头上，更不能口惠而实不至。李克强总理曾充满深情地说：“讲了就必须做，一定要做到，面子和里子要一起做，真正让有贡献的科技人员名利双收，经济上有实惠、工作上有保障、社会上受尊重。”诚哉斯言，科研是枯燥的，但科学家不该是清贫的代名词，如果科学家既没有利，也没有名，怎么可能被人向往？<br/><div class="contheight"></div>一定程度上说，国家最高科技奖奖金提高到800万元，仍不算高，但是额度一下子提高60%，足以标定了整个国家对科技重视的鲜明立场；党和国家最高领导人向国家最高科技奖得主颁奖，足以说明了整个国家所夯定的价值坐标；获奖者受到万众瞩目，并被舆论所激赏，也足以传递了科技在整个国家的重要地位。而这一切，无不传递了明确信号，科学技术从来没有像今天这样深刻影响着国家前途命运，从来没有像今天这样深刻影响着人民生活福祉，国家也从来没有像今天这样重视科技。<br/><div class="contheight"></div>“繁霜尽是心头血，洒向千峰秋叶丹。”新中国成立以来，一批又一批科学家弘扬科学报国的光荣传统，追求真理、勇攀高峰，勇于创新、严谨求实，有的“干惊天动地事，做隐姓埋名人”，甚至付出生命代价，优待他们，不是天经地义吗？全部科技史都证明，谁拥有了一流创新人才、拥有了一流科学家，谁就能在科技创新中占据优势。通过革新，让科学家拥有更广阔的舞台，不也是名正言顺吗？<br/><div class="contheight"></div>值得一提的是，刚刚过去的2018年既是改革开放40周年，也是《科学的春天》一文发表40周年。只要全面深化科技体制改革，破除一切制约科技创新的思想障碍和制度藩篱，并对科学家多一些政治上关怀、工作上支持、生活上关心，我们就有理由期待科技发展取得更丰饶的成果。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 国家科学技术奖</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827903">
+<div class="nbgbox">
+<a class="zan" contid="2827903" href="javascript:;" onclick="voteCont(this)" praisetimes="182">
+                           181</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国家科学技术奖</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827903&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827903&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（69）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

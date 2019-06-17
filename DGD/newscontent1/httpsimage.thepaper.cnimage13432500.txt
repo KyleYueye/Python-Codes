@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">专利法修改拟规定侵权惩罚性赔偿制度：最高可赔500万元</h1>
+<div class="news_about">
+<p>张泉/新华社</p>
+<p>
+							2018-12-23 17:47<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京12月23日消息，23日提请十三届全国人大常委会第七次会议审议的专利法修正案草案，通过增加如专利侵权惩罚性赔偿等规定，同时修改现行专利法一系列条款，加强对专利权人合法权益的保护。<br/><div class="contheight"></div>多年来，我国持续加强知识产权保护力度，但专利权保护效果与专利权人的期待仍有差距，专利维权存在举证难、成本高、赔偿低等问题，跨区域侵权、网络侵权现象增多，滥用专利权现象时有发生。<br/><div class="contheight"></div>草案提出，加大对侵犯专利权的赔偿力度。<strong>对故意侵犯专利权，情节严重的，可以在按照权利人受到的损失、侵权人获得的利益或者专利许可使用费倍数计算的数额1-5倍内确定赔偿数额。难以计算赔偿数额的情况下，将法院可以酌情确定的赔偿额从现行专利法规定的1万元到100万元，提高为10万元到500万元。</strong><br/><div class="contheight"></div>为完善举证责任，草案规定，人民法院为确定赔偿数额，在权利人已经尽力举证，而与侵权行为相关的账簿、资料主要由侵权人掌握的情况下，可以责令侵权人提供，侵权人不提供或提供虚假账簿、资料的，可参考权利人的主张和提供的证据判定赔偿数额。<br/><div class="contheight"></div>在充分发挥司法保护主导作用的同时，草案增加规定，完善专利行政执法，提升专利保护效果和效率。草案规定，国务院专利行政部门可以处理在全国有重大影响的专利侵权纠纷；管理专利工作的部门对在本行政区域内侵犯同一专利权的案件可合并处理；对跨区域侵犯同一专利权的案件可请求上级人民政府管理专利工作的部门处理。<br/><div class="contheight"></div>草案还明确了网络服务提供者对网络侵权的连带责任，明确了诚实信用和禁止权利滥用原则。<br/><div class="contheight"></div>（原题为《专利法修改拟规定专利侵权惩罚性赔偿制度》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 专利侵权,惩罚性赔偿,500万</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766535">
+<div class="nbgbox">
+<a class="zan" contid="2766535" href="javascript:;" onclick="voteCont(this)" praisetimes="33">
+                           32</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 专利侵权</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766535&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766535&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

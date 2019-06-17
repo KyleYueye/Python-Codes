@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25444">社论</a>
+</div>
+<h1 class="news_title">【社论】网红故宫：做大传统IP，才是真正的传承</h1>
+<div class="news_about">
+<p></p>
+<p>
+							2018-12-12 17:29<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="250" src="http://image.thepaper.cn/www/image/13/120/378.jpg" width="600"/></div>故宫博物院的网红之路还在继续。近日，先是公众号“故宫博物院文化创意馆”的一篇《故宫口红，真的真的来了！》的文章在朋友圈刷屏，之后北京故宫文化服务中心官方微博@故宫淘宝也宣布将推出自己的“故宫原创”口红。<br/><div class="contheight"></div>看似“反转”戏码，真相不过是，一方为故宫自营品牌，一方是故宫授权品牌，实质都是自家人。这段被网友戏称为嫡庶之争的网络插曲，也丝毫没有影响人们对于“故宫口红”的追捧。<br/><div class="contheight"></div>所谓人红是非多，作为近年来迅速成长起来的超级文化IP，上述插曲可看作是网红故宫在舆论场上受关注度的一个缩影。从剪刀手卖萌的雍正爷网络表情，到屡屡上演的爆款文案，从饰品、冰箱贴等文创衍生品，到现象级的纪录片《我在故宫修文物》，600岁的故宫博物院，这几年收获了无数迷弟迷妹。<br/><div class="contheight"></div>故宫在文创周边产品上的发力，代表的是一种文创经济和传统文化的突围。一般说到历史博物馆等传统的历史文化场景，人们首先联想到的是历史文化的厚重、古朴，它对应的是一个高度单一的、高深的、有距离感的形象。<br/><div class="contheight"></div>但故宫这些年的探索表明，传统文化的表现形式，并不意味着只能停留在过去，文物也不只能是停留在博物馆内的摆件，只能等待来者的观赏，它也可以更主动，可以“触网”，可以有更现代、更丰富多元的表达面向。<br/><div class="contheight"></div>其实，传统文化的表达创新，不只有故宫。著名的敦煌莫高窟，自1999年就开始探索数字化道路。目前建成的莫高窟数字展示中心，将数字化体验和实体洞窟两种交织在一起，大大丰富了游客的观赏体验，也提升了文化遗产的利用价值。这一创举，还得到了联合国教科文组织的认可，被称为是“国际上解决保护和利用方面的一个典范”。<br/><div class="contheight"></div>无论是600岁故宫的耍帅卖萌，还是千年莫高窟的数字化进阶之路，都不是对传统历史文化的降格，相反，它们借助现代的、大众喜闻乐见的方式，实现了对于传统文化的另一种打开方式。在创意的指引下，让传统历史文化“飞入寻常百姓家”，走进生活，走进人心。<br/><div class="contheight"></div>变化了的传播和体验形式，收获的不只是人气，本质上还是对于传统文化更好的传承。一个社会对于传统文化的接纳、理解、传承，及其最终所形塑的社会文化氛围，就是在这种普通人可触可感中、可消费中，实现升华。所以，文创产品的兴起，既是对传统文化表达的创新，同时也是对传统文化的坚守。<br/><div class="contheight"></div>2016年发布的《国务院办公厅转发文化部等部门关于推动文化文物单位文化创意产品开发若干意见的通知》就指出，以创新创意为动力，以文化创意设计企业为主体，开发文化创意产品，打造文化创意品牌。600岁的故宫，1000多岁的莫高窟，不必然代表衰老，相反可以通过品牌的更新，收获年轻的拥趸。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 故宫网红 口红 文创 莫高窟</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2731294">
+<div class="nbgbox">
+<a class="zan" contid="2731294" href="javascript:;" onclick="voteCont(this)" praisetimes="274">
+                           273</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 故宫口红</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2731294&caid=25444",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2731294&amp;caid=25444" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

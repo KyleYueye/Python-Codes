@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">教育教学资源共享，河南五所高校实行校际课程互选、学分互认</h1>
+<div class="news_about">
+<p>李志远/河南商报</p>
+<p>
+							2019-01-08 12:30<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“以后也可以选别的学校的课了，超级开心。”1月7日，华北水利水电大学学生蒋悦童在得知学校与河南农业大学、河南理工大学、河南财经政法大学、郑州航空工业管理学院签署校际课程互选与学分互认合作框架协议后激动地说道。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="355" src="http://image.thepaper.cn/www/image/14/30/920.jpg" width="530"/></div>那么，让蒋悦童如此激动的协议具体是什么呢？<br/><div class="contheight"></div>河南商报记者了解到，为充分发挥各高校在人才培养等方面的优势特色，促进优质教育教学资源开放共享，华北水利水电大学牵头与河南农业大学、河南理工大学、河南财经政法大学、郑州航空工业管理学院在华北水利水电大学第四会议室签署了课程互选与学分互认合作框架协议，在河南省率先实行校际课程互选与学分互认。<br/><div class="contheight"></div>河南省教育厅副厅长刁玉华在讲话时指出，高校课程互选、学分互认是实施教育领域综合改革的重要组成部分，是河南省委、省政府推进“双一流”建设、加快高等教育改革的重要举措之一，华北水利水电大学等五所高校在实践层面主动合作、务实行动，率先实行校际课程互选与学分互认，在河南省尚属首次，具有里程碑式意义，有着很强的带动示范作用。<br/><div class="contheight"></div>华北水利水电大学党委书记王清义表示，开展校际课程互选，实现校际学分互认，建设优势互补、资源共享的区域高校联盟，是新时代高等教育改革的重要任务，是完善人才成长“立交桥”的重要举措，对于满足学生多样化学习和发展需要，落实开放共享教育发展理念，推进实现教育现代化具有重大意义。<br/><div class="contheight"></div>据了解，根据协议，五所高校将按照“平等互利、优势互补、资源共享、合作共赢”原则，建立和完善教育教学资源共享机制，充分发挥各校优质、特色和品牌教育教学资源在教学和人才培养工作中的辐射、带动和示范作用；探索人才培养新模式，为学生学习提供多样化的选择和途径，满足学生个性化自主学习需要，拓展学生视野，利用各种途径全面推进素质教育；尝试建立新型教学管理制度，探索高校联合、协作办学模式下的教学管理制度及其运行机制，逐步实行课程互选、学分互认、教师互聘等教育教学资源共享新型教学管理制度。<br/><div class="contheight"></div>（原题为：《五所高校 课程互选、学分互认》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 教育教学资源,河南,高校,学分,课程</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2826383">
+<div class="nbgbox">
+<a class="zan" contid="2826383" href="javascript:;" onclick="voteCont(this)" praisetimes="20">
+                           19</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 资源共享</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2826383&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2826383&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

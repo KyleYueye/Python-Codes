@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">2018年世界税收十件大事在深圳发布</h1>
+<div class="news_about">
+<p>温晓/央视新闻+客户端</p>
+<p>
+							2019-01-09 22:56<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">央视新闻+客户端1月9日消息，国家税务总局消息：1月9日，由中国国际税收研究会、中国税务杂志社和中国税务报社主办的2018年世界税收十件大事新闻发布会在深圳举行，“中美就经贸问题达成共识决定停止升级关税等贸易限制措施”等备受关注的国内外十件税收大事入选。<br/><div class="contheight"></div>记者从发布会上了解到，世界税收十件大事评选已连续举办5年，该项评选活动秉持聚焦热点、求真务实，总结过去、展望未来的原则，以权威财经组织和单位提供的信息作为资料来源，邀请科研院所、企业界、中介机构和新闻媒体等多方专家学者参与，经多次讨论，优中选优，评选产生当年世界税收十件大事。<br/><div class="contheight"></div>在此次发布会公布的2018年度世界税收十件大事中，包含美国实施最大规模减税、第一届税收合作平台全球大会召开、世行《2019年营商环境报告》肯定中国税收营商持续向好、《全面与进步跨太平洋伙伴关系协定》（CPTPP）正式生效以及英国批准《2018年（跨境贸易）税收法》等国际国内财经、税务方面的热点事件。<br/><div class="contheight"></div>2018年世界税收十件大事有：<br/><div class="contheight"></div>1.中美就经贸问题达成共识决定停止升级关税等贸易限制措施；<br/><div class="contheight"></div>2.《实施税收协定相关措施以防止税基侵蚀和利润转移的多边公约》正式生效；<br/><div class="contheight"></div>3.美国正式实施30年来最大规模减税法案；<br/><div class="contheight"></div>4.第一届税收合作平台全球大会在联合国总部召开；<br/><div class="contheight"></div>5.经合组织发布《数字化带来的税收挑战中期报告》；<br/><div class="contheight"></div>6.世界银行公布《2019年营商环境报告》肯定中国税收营商环境持续向好；<br/><div class="contheight"></div>7.中国实施国税地税征管体制改革；<br/><div class="contheight"></div>8.《全面与进步跨太平洋伙伴关系协定》（CPTPP）正式生效；<br/><div class="contheight"></div>9.中国个人所得税法第七次大修建立起综合与分类相结合的个人所得税制；<br/><div class="contheight"></div>10.英国批准《2018年（跨境贸易）税收法》为“脱欧”作准备。<br/><div class="contheight"></div>（原题为《2018年世界税收十件大事在深圳发布》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 世界,税收,贸易</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2834549">
+<div class="nbgbox">
+<a class="zan" contid="2834549" href="javascript:;" onclick="voteCont(this)" praisetimes="48">
+                           47</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 税收</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2834549&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2834549&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

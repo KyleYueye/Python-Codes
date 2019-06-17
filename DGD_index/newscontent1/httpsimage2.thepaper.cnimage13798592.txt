@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">特朗普回应金正恩新年贺词：我也期待与他会晤 </h1>
+<div class="news_about">
+<p>姚凯红/海外网</p>
+<p>
+							2019-01-02 08:35<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网1月2日消息，新年伊始，朝鲜最高领导人金正恩于1月1日发表贺词，重申要坚定不移地实现朝鲜半岛无核化，并表示随时准备和美国总统特朗普再次举行会谈。2日，特朗普回应金正恩新年讲话，称他也期待与金正恩会晤。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="188" src="http://image.thepaper.cn/www/image/13/798/711.jpg" width="600"/></div>特朗普在社交媒体上表示：“金正恩委员长很清楚地认识到朝鲜拥有巨大的经济潜力，我也期待与他会晤。”<br/><div class="contheight"></div>据新华社此前报道，金正恩1日在新年贺词中强调实现朝鲜半岛完全无核化的坚定意志，并表示愿意进一步发展朝韩、朝美关系。新年贺词中，金正恩明确表达了朝鲜在半岛无核化方面的态度和决心：建立朝美两国间新型关系，构筑朝鲜半岛永久和平机制，实现朝鲜半岛完全无核化。<br/><div class="contheight"></div>金正恩还向韩方表示致敬，称朝韩关系进入一个全新的阶段，去年的首脑峰会和达成的军事协议，代表着实际上的互不侵犯条约。金正恩在新年贺词中提及朝韩关系时表示，有意重启开城工业园区和金刚山旅游。<br/><div class="contheight"></div>分析人士认为，金正恩的新年贺词向美国释放了善意。朝鲜去年宣布不再制造和试验核武器并销毁了部分核设施后，美国方面没有对朝鲜的无核化举措做出积极的回应，导致朝美关系以及朝鲜半岛无核化进程陷入僵局。<br/><div class="contheight"></div>（原题为《特朗普回应金正恩新年贺词：我也期待与他会晤》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2801428" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">金正恩新年贺词：愿随时与特朗普会面，有意重启开城工业园区</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 特朗普,金正恩</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2803082">
+<div class="nbgbox">
+<a class="zan" contid="2803082" href="javascript:;" onclick="voteCont(this)" praisetimes="47">
+                           46</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 特朗普</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2803082&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2803082&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

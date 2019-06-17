@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">韩法院批准扣押日公司资产请求，日韩“战时劳工”矛盾或升级</h1>
+<div class="news_about">
+<p>澎湃新闻记者 李佩</p>
+<p>
+							2019-01-09 12:47<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">围绕着日韩之间的“战时劳工”矛盾，韩国法院1月8日表示，已经批准了扣押日本钢铁巨头新日铁住金公司(Nippon Steel &amp; Sumitomo Metal Corp.)在韩资产的请求。日本官员表示，如果韩国政府真的采取行动，日本政府将寻求与韩国展开谈判。<br/><div class="contheight"></div>去年10月，韩国法院曾要求该公司为日本殖民统治朝鲜半岛时期的强迫劳役行为向四名韩国劳工支付4亿韩元(约合35万美元)的补偿金，而该公司拒绝遵守法庭指令。去年12月底，代表两名受害者的律师曾要求韩国东南部的大邱地方法院没收新日铁住金与韩国浦项制铁合资企业的股份。律师们在一份声明中表示，扣押令已下达给合资企业。扣押程序生效后，新日铁住金公司将无法剥离其在合资企业中30%的股份，也就是234万股，价值约为110亿韩元(约合980万美元)。<br/><div class="contheight"></div>日本官员表示，东京方面正在密切关注韩国政府对“劳工案”的回应，并指出新日铁住金公司的资产不太可能被很快没收。日本放送协会（NHK）1月8日报道，韩国原告方要想变卖新日铁住金在韩资产，必须履行其他程序，但由于法院的裁定，该公司将不得转让或出售资产。<br/><div class="contheight"></div>日本首相安倍晋三(Shinzo Abe)周日在日本广播协会电台一档节目中透露，他已指示各部委“考虑根据国际法采取具体措施，以表明我们对此事的坚定立场”。日本共同社1月9日报道，日本政府基本决定，如果新日铁住金资产实际遭到扣押，将向韩国政府要求举行基于《日韩请求权协定》（其中规定了为解决因协定解释而产生纠纷的相关磋商程序）的首次磋商。此外，诉诸国际法院（ICJ）也是日本政府考虑的对策，但是目前日本政府认为距离韩国实际执行扣押日本公司资产仍有一段时间，目前先考虑要求韩国政府妥善应对此事。<br/><div class="contheight"></div>此前，韩国法院也做出过类似的裁决，要求日本三菱重工业株式会社(Mitsubishi Heavy Industries Ltd.)赔偿二战时期被强迫劳役的韩国劳工。<br/><div class="contheight"></div>日本政府强烈谴责这一判决，并坚持认为赔偿问题在1965年一项使日韩关系正常化的条约所附的一项协议中得到了“彻底和最终”的解决。<br/><div class="contheight"></div>NHK报道称，日韩关系或将因此事不可避免地进一步恶化。此前，双方因为雷达扫描船舰一事的风波尚未平息，劳工事件或将使日韩本就冷淡的双边关系继续恶化。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：吴挺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 日韩,劳工,二战</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831245">
+<div class="nbgbox">
+<a class="zan" contid="2831245" href="javascript:;" onclick="voteCont(this)" praisetimes="22">
+                           21</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日韩关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831245&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831245&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

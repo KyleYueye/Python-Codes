@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25437">牛市点线面</a>
+</div>
+<h1 class="news_title">济南推进企业上市：上市补助800万，挂牌新三板补300万</h1>
+<div class="news_about">
+<p>中证网</p>
+<p>
+							2018-12-25 16:04<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">继今年6月出台《济南市进一步促进资本市场发展行动计划》后，济南市日前又出台《济南市进一步推进企业上市工作若干措施》，以改变济南市在企业上市工作中的落后局面。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/489/274.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">12月25日，济南市金融办主任张华在新闻发布会上表示，将重点推动企业在港交所上市，推动中小微企业在新三板或四板市场挂牌。 齐鲁网 图</span><br/><div class="contheight"></div>济南市金融办主任张华在12月25日的新闻发布会上表示，将重点推动企业在港交所上市，积极对接国家在上交所设立科创板并试点注册制的重大改革举措，推动中小微企业在新三板或四板市场挂牌。<br/><div class="contheight"></div>为激发企业上市积极性，济南市大幅提高了上市奖励力度，将企业境内外上市补助由过去的500万元提高到800万元，将企业新三板挂牌补助由过去的150万元提高到300万元，且根据企业上市挂牌进程分阶段给予补助，从而最大限度降低企业上市挂牌成本。此外济南市还提出按照“一次办成”改革、优化营商环境的部署要求，相关部门要及时为企业上市挂牌出具相关证明，开辟绿色通道，加大土地支持，及时补办不动产登记证。<br/><div class="contheight"></div>悬赏重金激励企业上市的背景是济南在企业上市工作中的落后局面。济南市目前有34家公司、36支股票在境内外上市，从上市公司数量来看，济南市在15个副省级城市中名次靠后，在省内17市中仅居第3位，并且上市公司中半数是国有企业或国有控股企业，市属国有企业和民营企业偏少，企业总体规模、质量、资产证券化程度偏小、偏低，与济南作为副省级城市和经济大省省会的地位不相匹配。张华介绍，济南市委书记王忠林、市长孙述涛多次作出重要批示，要求高度重视企业上市工作，出台专门的具体推进措施。<br/><div class="contheight"></div>（原题为《济南市重金推企业上市：上市补800万 挂牌新三板300万》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蔡军剑<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 济南</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772874">
+<div class="nbgbox">
+<a class="zan" contid="2772874" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 济南发展</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772874&caid=25437",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772874&amp;caid=25437" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

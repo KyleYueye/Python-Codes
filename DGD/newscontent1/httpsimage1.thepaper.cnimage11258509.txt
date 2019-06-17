@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜频繁修改筹款金额，“轻松筹”也不能太随意</h1>
+<div class="news_about">
+<p>澎湃特约评论员 夏熊飞</p>
+<p>
+							2018-10-12 16:52<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“救救我的孩子、老公”，10月9日晚，一条“轻松筹”求助信息在岳阳人的朋友圈刷屏。不到13个小时，200万善款即筹满。让人意外的是，10日上午9点，目标筹款金额却由原先的200万改成了500万。不久，又改成了300万。数额为何频频修改？一些网友们怀疑自己上当受骗，“利用爱心圈钱”的质疑声再次刷屏社交网络。（10月10日，湖南日报）<br/><div class="contheight"></div>经警方调查核实，发出求助信息的网友“小阳”，其丈夫与一对子女均在10月5日的一起涉险事件中被大火严重烧伤。目前，3人均在医院接受救治，截至10日仍未脱离生命危险。面对悲剧，“年轻的妈妈”含泪求助，很快就筹措到200万的善款，可以说是灾难无情人有情的真实写照。作为旁观者，我们同情这一家人的不幸，也感动于广大网友的热心肠。 <br/><div class="contheight"></div>但求职者在短时间内两次修改目标筹款金额，且差额分别达到300万和200万，却给事件蒙上了阴影。不仅让当事人遭遇了巨大的舆论压力，也可能动摇轻松筹等网络募捐平台的公信力，甚至有可能影响伤者的后续治疗。如此反复、随意的变更目标筹款金额，引发网友的质疑自然不奇怪。 <br/><div class="contheight"></div>在当地民政局以及“轻松筹”工作人员的介入下，不存在“利用爱心圈钱”得到了证实，求助者也说明了修改金额的原因，是对当下的救治费用以及后续的整容治疗等费用预估不够准确，并向爱心人士表达了歉意。官方和当事人及时回应舆论、澄清误会，是明智之举，但这起慈善事件中的一波三折，也有很多值得反思之处。 <br/><div class="contheight"></div>轻松筹等网络募捐平台成为很多人寻求救助的途径，事实证明，也确实有不少人借摆脱或缓解了危急。但作为第三方平台，对目标筹款金额缺乏足够的监管，可以任由求助者任意调整数额，显然存在漏洞。这种操作的存在，会给爱心人士一种错觉，即求助者“既当运动员又当裁判员”，可以想筹多少说多少，而不是根据实际需要筹措善款。<br/><div class="contheight"></div>虽然此次事件的当事人已被证明“清白”，但以往的案例中，的确发生过网友担心的情况。有些求助者不仅靠着善款渡过了难关，而且利用剩余的钱实现了“发家致富”，让不少热心人士寒了心。<br/><div class="contheight"></div>作为影响力越来越大的网络募捐渠道，“轻松筹”等平台应尽早堵上相关漏洞，建立更科学合理、经得起各方审视的目标筹款金额拟定、审核与修改体系。在帮助困厄者的同时，防止平台成为别有用心者谋利的工具。否则，受损的不只是平台的影响力，还有全社会的慈善热情以及公益慈善活动自身的公信力，最终被牵连的还有那些真正需要帮助的人。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 轻松筹</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2522815">
+<div class="nbgbox">
+<a class="zan" contid="2522815" href="javascript:;" onclick="voteCont(this)" praisetimes="92">
+                           91</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 网络募捐</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2522815&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2522815&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

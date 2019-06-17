@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">巴西圣保罗州发生教堂枪击案9人死伤</h1>
+<div class="news_about">
+<p>宫若涵/新华社</p>
+<p>
+							2018-12-12 10:33<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="399" src="http://image.thepaper.cn/www/image/13/105/444.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">当地时间2018年12月11日，巴西圣保罗州坎皮纳斯市中心的大都会教堂发生枪击事件。 视觉中国 图</span><br/><div class="contheight"></div>新华社圣保罗12月11日电，一名男子11日进入巴西圣保罗州内陆城市坎皮纳斯一座天主教堂，持枪向人群射击，造成4人死亡、4人受伤。在被赶来的警察开枪击中后，该男子自杀身亡。<br/><div class="contheight"></div>据当地消防部门的消息，当地时间11日13时左右，嫌犯持两支手枪进入这座刚举行完弥撒的教堂，随后向在场人群射击。<br/><div class="contheight"></div>教堂内部的监控录像显示，这名嫌犯是独自进入教堂的。据悉，他至少射出了两盒共22枚子弹，随身携带的包里还有两盒未使用的子弹。<br/><div class="contheight"></div>警方称，制造枪击案的男子现年49岁，是一名系统分析师，此前并无犯罪记录，警方将就其发动袭击的动机展开调查。目前，伤者已被送往周边医院。<br/><div class="contheight"></div>坎皮纳斯离巴西最大城市圣保罗约100公里，是圣保罗州人口第三大城市。<br/><div class="contheight"></div>（原题为《巴西圣保罗州发生教堂枪击案9人死伤》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 枪击案</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2729343">
+<div class="nbgbox">
+<a class="zan" contid="2729343" href="javascript:;" onclick="voteCont(this)" praisetimes="35">
+                           34</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 枪击案</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2729343&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2729343&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

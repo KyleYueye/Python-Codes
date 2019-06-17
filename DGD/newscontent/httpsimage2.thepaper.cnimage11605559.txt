@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">最高检：应着重对适用法律错误的特别重大典型案件提出抗诉</h1>
+<div class="news_about">
+<p>澎湃新闻记者 庄岸</p>
+<p>
+							2018-10-24 19:51<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“重刑轻民”观念仍然存在，要切实解决检察民事监督“短板”。10月24日，最高人民检察院检察长张军在十三届全国人大常委会第六次会议上作了关于《最高人民检察院关于人民检察院加强对民事诉讼和执行活动法律监督工作情况的报告》。他表示，民事检察监督要在精准监督上下功夫，防止片面追求监督数量，“最高检要着重对适用法律错误的特别重大典型案件提出抗诉，促进最高法院发挥对各级法院的裁判引领作用。”<br/><div class="contheight"></div><strong>“重刑轻民”观念仍存，有的甚至无专人负责</strong><br/><div class="contheight"></div>报告显示，今年1-9月，全国检察机关提出民事抗诉2333件，提出民事再审检察建议2219件。“无论从办案数量、监督效果还是社会影响看，民事检察工作都还有很大潜力。”张军指出，一些同志片面认为民事诉讼法涉及检察机关法律监督的规定比较原则，对民事检察工作认识不足、重视不够，“重刑轻民”观念仍然存在，机构设置、人员配备上存在“短板”。<br/><div class="contheight"></div>他以最高检举例说，该院刑事检察机构设有5个厅，编制142人；而民事检察、行政检察、公益诉讼检察三项重大职责并合一起，仅设一个厅，编制 32人，“一些检察院检察委员会很少研究民事监督案件，有的基层民事行政检察部门只有一两个人，甚至无专人负责民事检察工作。”<br/><div class="contheight"></div>“刑事、民事、行政以及公益诉讼检察职能要全面、平衡、充分履行。”张军表示，最高检提出以内设机构改革为突破口，拟将最高检民事行政检察厅分设为民事检察厅、行政检察厅，增设公益诉讼检察厅已获中央深改委同意，正在组建中。省市两级检察院则要视情单独设立民事检察部门或办案组，基层检察院确定专门办案组或专人负责民事检察工作，切实解决“重刑轻民”问题。<br/><div class="contheight"></div>今年6月，张军作为最高检检察长，与分管民事行政检察工作的副检察长一同列席最高法院审委会，参与讨论一起民事抗诉案件并发表意见。报告显示，今年以来，各级检察院检察长、副检察长列席审委会讨论民事案件385件次。 <br/><div class="contheight"></div><strong>防止片面追求监督数量，优先选择典型案例抗诉</strong><br/><div class="contheight"></div>与此同时，民事检察监督还要在精准监督上下功夫，“不搞粗放式办案，防止片面追求监督数量。”张军表示，民事抗诉不是越多越好，要优先选择在司法理念方面有纠偏、创新、进步、引领价值的典型案件，抗诉一件促进解决一个领域、一个地方、一个时期司法理念、政策、导向的问题，发挥对类案的案例指导作用，“尤其是最高人民检察院要着重对适用法律错误的特别重大典型案件提出抗诉，促进最高人民法院发挥对各级法院的裁判引领作用。同时，对那些不具有典型性的、确有错误的个案也不放任，以再审检察建议方式促请法院纠正。对类案背后反映的审判管理等问题，建议法院从源头上进一步规范司法。”<br/><div class="contheight"></div>数据显示，2018年1-9月，全国检察机关提出民事抗诉2333件，同比上升7.4%；提出民事再审检察建议2219件，同比上升14.8%。其中，省、市两级检察院办理的民事抗诉案件占比98.1%；基层检察院办理的审判⼈人员违法行为监督和民事执行监督案件，占全国检察机关办理此两类案件总数的97.2%。<br/><div class="contheight"></div>“要充分运用多种监督方式，加大民事审判监督力度。”张军透露，在民事检察监督上，最高检将会同最高法院出台司法解释，完善法院对检察建议的办理程序：法院收到检察建议后，应更换原合议庭组成人员或承办人办理；经检委会决定提出的检察建议，法院不予采纳的，应当经审委会决定。同时，还将会同最高法院对“调解书损害国家利益、社会公共利益”作出具体的司法解释。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：朱远祥<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 抗诉 最高检 张军 报告</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2561620">
+<div class="nbgbox">
+<a class="zan" contid="2561620" href="javascript:;" onclick="voteCont(this)" praisetimes="20">
+                           19</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 抗诉</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2561620&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2561620&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

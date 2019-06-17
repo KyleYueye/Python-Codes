@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">法律管得住网络“好奇心”们</h1>
+<div class="news_about">
+<p>楚天</p>
+<p>
+							2018-08-03 18:13<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2317650" target="_blank">
+<span class="p_time"></span>
+<img alt="法律管得住网络“好奇心”们" src="//image2.thepaper.cn/image/9/346/166.jpg"/>
+</a>
+<div class="atlas_360_txt">京沪网信办约谈好奇心日报：责令全平台暂停更新整改一个月<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">8月2日，在国家互联网信息办公室指导下，针对“好奇心日报”未经许可长期擅自从事互联网新闻信息服务、开设原创新闻栏目、组建“新闻采编团队”等问题，上海市网信办和北京市网信办联合约谈了“好奇心日报”负责人，责令其停止违法违规行为，立即开展全面深入整改。<br/><div class="contheight"></div>进入移动互联网时代以来，人人拥有麦克风，网络信息生产如火如荼。据统计，仅在微信平台上就冒出了数千万个微信公众号，其中大部分是所谓的自媒体。好奇心日报也是在这一波热潮中诞生的一家前媒体人创办的媒体，据说还得到了风投的青睐，有了若干轮的融资。<br/><div class="contheight"></div>不必讳言，针对网络上假新闻充斥、攻击体制和抹黑政府的所谓新闻公然传播等等乱象，国家出台了《网络安全法》《互联网新闻信息服务管理规定》等法律法规，明确规定：通过互联网站、应用程序、论坛、博客、微博客、公众账号、即时通信工具、网络直播等形式向社会公众提供互联网新闻信息服务，应当取得互联网新闻信息服务许可，禁止未经许可或超越许可范围开展互联网新闻信息服务活动。<br/><div class="contheight"></div>经过这几年的努力，诸多网络乱象得到了根本的治理，网络空间逐渐清朗起来了，网络媒体管理也逐渐规范。国有国法，家有家规，如果之前的乱象丛生，还有所谓的“法无明文禁止皆可为”的借口，那么如今，任何一家网络媒体都不应无视国家法律法规，更不该挑战法律法规所明确确定的红线、底线。<br/><div class="contheight"></div>网络不是法外之地，诸多像“好奇心日报”那样的网络媒体不是不知道，但肯定都存在侥幸心理。“好奇心日报”这次被约谈处罚，其实也是对其他无新闻资质媒体和平台敲响的警钟。显然，随着相关网络信息从采集、加工到传播的全流程监管日益收紧，网络媒体和平台都不能心存幻想，以为可以打法律擦边球而不被发现，以为可以一边享受资本的好处，一边寻租管理的空白或缝隙。<br/><div class="contheight"></div>监管部门此次执法其实是在帮助“好奇心日报”，避免其在错误的道路上越走越远。同时，也是向所有同类平台发出的严正警告：如果再有类似现象，处罚肯定会不期而至。各个平台只有严守法规、不踩雷区一步，才可能获得长期发展的机会。<br/><div class="contheight"></div>对于“好奇心日报”而言，一路走来不易，就更要珍惜如今获得的机会，不要再继续犯同样的错误。只要按照相关法规精神深入整改、合规运营，还能与用户再见。这才是最好的选择，也是对投资方最负责的表现。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 好奇心日报</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2318220">
+<div class="nbgbox">
+<a class="zan" contid="2318220" href="javascript:;" onclick="voteCont(this)" praisetimes="61">
+                           60</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 互联网新闻信息服务</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2318220&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2318220&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

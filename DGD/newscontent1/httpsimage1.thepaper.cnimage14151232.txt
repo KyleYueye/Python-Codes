@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=65640">辽沈晚报</a>
+</div>
+<h1 class="news_title">杭州保洁大爷捡万元金器归还：工作为了打发时间，家有4套房</h1>
+<div class="news_about">
+<p>辽沈晚报</p>
+<p>
+                            2019-01-11 07:51<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard">1月7日上午，余杭塘栖派出所门口，一名头发花白的保洁员大爷突然被一对母女围了起来。对方手里提着一箱箱礼盒，又是八宝粥，又是色拉油，还有个红包，一定要塞到大爷手里。红红火火的像发年货，弄得保洁大爷难为情了。到底咋回事？<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="399" src="http://image.thepaper.cn/www/image/14/151/233.jpg" width="600"/></div>保洁大爷叫高文虎，68岁，塘栖人。1月6日上午，高大爷像往常一样在塘栖思敬广场搞卫生，清理到路边一处牛皮癣小广告时，突然发现地上掉着个手镯。按成色、分量看，这手镯价值应该不菲。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="459" src="http://image.thepaper.cn/www/image/14/151/234.jpg" width="600"/></div>大爷捡起来，拿着手镯，也不知道铜的还是金的，四处找人问，“有没有看到哪个掉了手镯？有没有看到？”没几分钟，零散地围了几个人过来，大家看看手镯，再掂一掂，应该是个好东西，但不是自己的，也没人敢冒领。一名上了年纪的大妈探出身，看看高大爷，说起来，“这个是金的，两千块钱你卖不卖啦？”高大爷一听， 摆摆手，“那不好卖的......”等了近一个小时，不见有失主，高大爷后来便将手镯交给了他所在的物业公司负责人张经理并且报了警。<br/><div class="contheight"></div>塘栖派出所民警接警后，做了相关登记，并通过调取路面监控，根据高大爷提供的信息，很快发现了失主。这是位大妈，当天上午骑着辆小三轮送小孩到思敬广场一培训班上课。民警在现场附近几经辗转终于问到，失主正是辖区的杨大妈。<br/><div class="contheight"></div>1月6日晚，塘栖所民警徐敏电话联系上杨大妈的女儿，“问问你妈妈看，今天出门有没有少了什么东西？”<br/><div class="contheight"></div>当晚，杨大妈女儿打电话给母亲，母亲才知道丢金手镯的事。原来，这金手镯是女儿给挑的，才用了一年多，当时花了8800元。杨大妈母女商量后，决定好好感谢下高大爷，于是委托民警约高大爷1月7日在派出所见面。<br/><div class="contheight"></div>要说高大爷，物业公司的张经理是蛮熟的，他从前是个泥水工，后来在塘栖干保洁工作至今6年多了。每天早晨6点半，高大爷就开始专门清理自己负责区域内的小广告，到傍晚4点下班。<br/><div class="contheight"></div>“高大爷以往捡到钱包、手机等财物也不少，这么贵重的金手镯倒是头一回。但不论哪一个，捡到东西都会主动交到公司的，尤其像这样贵重物品，还有纪念价值，人家丢失了一定很心痛。”张经理说。<br/><div class="contheight"></div>高大爷在场说的话也是让人想点赞，“现在我们自己条件也还好的，想要金镯子自己可以买的，把它交给单位、交到派出所心里更开心。”<br/><div class="contheight"></div>后来了解到，保洁员高大爷每月工资2000元，每月退休工资3500元，孙子孙女双全，小日子挺安稳。今年，高大爷家里拆迁，分到了四套房。他做保洁，就是闲不住。<br/><div class="contheight"></div>（原标题：《保洁大爷捡万元金器归还：工作是为了打发时间，家里有4套房》）<br/><div class="contheight"></div></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2839956">
+<div class="nbgbox ">
+<a class="zan" contid="2839956" href="javascript:;" onclick="voteCont(this)" praisetimes="266">
+                                    265</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（78）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

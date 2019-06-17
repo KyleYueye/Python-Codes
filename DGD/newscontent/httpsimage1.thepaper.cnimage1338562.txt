@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">锻造当代中国最显著特征最壮丽气象</h1>
+<div class="news_about">
+<p>人民日报评论员</p>
+<p>
+							2018-12-22 20:23<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">历史的沧桑巨变，总是在今昔对比中给人以强烈震撼。<br/><div class="contheight"></div>“40年来，我们解放思想、实事求是，大胆地试、勇敢地改，干出了一片新天地”“使改革开放成为当代中国最显著的特征、最壮丽的气象”。在庆祝改革开放40周年大会上，习近平总书记深情回顾我们党团结带领全国各族人民风雨同舟、披荆斩棘、砥砺奋进的非凡历程，为我们深刻认识改革开放的重大意义和伟大成就、在新时代继续把改革开放推向前进，注入了坚定信心和强大动力。<br/><div class="contheight"></div>艰难困苦，玉汝于成。40年前，十年内乱后的中国，经济濒临崩溃的边缘，人民温饱都成问题，国家建设百业待兴；人们的观念，被“两个凡是”严重束缚，被“左”的思想和教条主义牢牢禁锢。正是改革开放这一伟大觉醒，孕育了我们党从理论到实践的伟大创造；正是改革开放这一伟大革命，推动了中国特色社会主义事业的伟大飞跃。40年来，从实行家庭联产承包、发展乡镇企业、取消农业税牧业税和特产税到农村承包地“三权”分置、打赢脱贫攻坚战、实施乡村振兴战略，改革的步伐永不停歇；40年来，从兴办深圳等经济特区、沿海沿边沿江沿线和内陆中心城市对外开放到加入世界贸易组织、共建“一带一路”、设立自由贸易试验区、谋划中国特色自由贸易港、成功举办首届中国国际进口博览会，从“引进来”到“走出去”，开放的大门越开越大。<br/><div class="contheight"></div>40年一气呵成，40年依然强劲。今天，改革开放是当代中国最鲜明的特色，是我们党在新的历史时期最鲜明的旗帜。40年来，我们党带领人民以“永远在路上”的精神，持续推动改革开放向纵深发展。从搞好国营大中小企业、发展个体私营经济到深化国资国企改革、发展混合所有制经济，从单一公有制到公有制为主体、多种所有制经济共同发展和坚持“两个毫不动摇”，从传统的计划经济体制到前无古人的社会主义市场经济体制再到使市场在资源配置中起决定性作用和更好发挥政府作用，以经济体制改革为主轴，改革开放不断在重要领域和关键环节取得新突破。40年来，坚定不移把发展作为党执政兴国的第一要务,坚持解放和发展社会生产力，改革开放不仅使中国摆脱“被开除球籍的危险”，更让中国人民在富起来、强起来的征程上迈出了决定性的步伐！<br/><div class="contheight"></div>“没有改革开放，就没有中国的今天；离开改革开放，也没有中国的明天。”党的十八大以来，以习近平同志为核心的党中央坚定不移全面深化改革，推动改革呈现全面发力、多点突破、蹄疾步稳、纵深推进的局面。从以经济体制改革为主到全面深化经济、政治、文化、社会、生态文明体制和党的建设制度改革，党和国家机构改革、行政管理体制改革、依法治国体制改革、司法体制改革、外事体制改革、社会治理体制改革、生态环境督察体制改革、国家安全体制改革、国防和军队改革、党的领导和党的建设制度改革、纪检监察制度改革等一系列重大改革扎实推进，各项便民、惠民、利民举措持续实施，人民群众的获得感、幸福感、安全感持续增强，推动党和国家事业发生历史性变革、取得历史性成就。<br/><div class="contheight"></div>时间回荡着历史之音，时间也刻写下前进足印。“现在我们干的是中国几千年来从未干过的事。这场改革不仅影响中国，而且会影响世界”。改革开放之初，邓小平同志如此评价改革开放的意义。“在新时代创造中华民族新的更大奇迹！创造让世界刮目相看的新的更大奇迹！”40年后的今天，习近平总书记如此定义改革开放的使命。从历史深处奔涌而来，向民族复兴澎湃而去，新时代的改革开放，激情永在、境界常新。<br/><div class="contheight"></div>（原题为《人民日报评论员：锻造当代中国最显著特征最壮丽气象——论学习贯彻习近平总书记在庆祝改革开放40周年大会重要讲话》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 改革开放40周年</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2761771">
+<div class="nbgbox">
+<a class="zan" contid="2761771" href="javascript:;" onclick="voteCont(this)" praisetimes="156">
+                           155</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 改革开放40周年</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2761771&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2761771&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

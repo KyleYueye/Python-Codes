@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25423">人事风向</a>
+</div>
+<h1 class="news_title">天津高院原院长高憬宏履新最高法党组成员</h1>
+<div class="news_about">
+<p>澎湃新闻记者 蒋子文</p>
+<p>
+							2019-01-09 10:30<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="297" src="http://image.thepaper.cn/www/image/14/67/513.jpg" width="400"/></div><span style="color: rgb(128, 128, 128);">高憬宏<br/><div class="contheight"></div></span>最高人民法院（以下简称“最高法”）迎来一名新领导。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）1月9日查询最高法官网“机构设置”栏目页面注意到，此前曾担任天津市高级人民法院（以下简称“天津高院”）院长的高憬宏已跻身最高法领导层，出任最高法党组成员。<br/><div class="contheight"></div>高憬宏出生于1959年8月，辽宁凌源人，1985年8月参加工作，1983年12月加入中国共产党，毕业于吉林大学刑法学专业，研究生学历，法学博士学位。<br/><div class="contheight"></div>官方简历显示，高憬宏历任最高法研究室刑事处副处长、审判员、审判委员会秘书等职，1998年11月起先后担任过最高法刑一庭副庭长，刑三庭庭长，审判委员会委员，国家法官学院党委书记、院长。<br/><div class="contheight"></div>2012年6月，高憬宏出任最高法审判委员会副部级专职委员。2013年10月，高憬宏履新天津高院党组书记、代院长，并于次年1月当选天津高院院长，并担任市委政法委副书记。<br/><div class="contheight"></div>2019年1月，天津市人大常委会任名李静为天津高院副院长、代理院长，高憬宏辞去天津高院院长职务。<br/><div class="contheight"></div>目前最高法领导班子成员包括：党组书记、院长周强，党组副书记、副院长、审判委员会委员江必新，党组成员、副院长、审判委员会委员李少平、姜伟、张述元，副院长、审判委员会委员陶凯元，党组成员、审判委员会委员孙华璞，党组成员高憬宏，党组成员、政治部主任马世忠，党组成员、副院长、审判委员会委员罗东川，党组成员、驻最高法纪检监察组组长刘海泉，党组成员、副院长、审判委员会委员杨万明，审判委员会副部级专职委员胡云腾、刘贵祥、裴显鼎、贺小荣。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王俊<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 司法人事，最高法，高憬宏</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831038">
+<div class="nbgbox">
+<a class="zan" contid="2831038" href="javascript:;" onclick="voteCont(this)" praisetimes="47">
+                           46</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 司法人事</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831038&caid=25423",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831038&amp;caid=25423" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

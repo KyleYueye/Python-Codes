@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">公安部答澎湃：一年来挂牌整治365家传播枪爆信息问题网站</h1>
+<div class="news_about">
+<p>澎湃新闻记者 邵克 实习生 高瑜键</p>
+<p>
+							2019-01-08 13:47<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">公安部1月8日在京举行新闻发布会通报2018年以来全国打击整治枪爆违法犯罪专项行动有关情况。公安部网络安全保卫局副局级干部黄胜华回答澎湃新闻提问时介绍，截至目前，网安部门共发现清理网上涉枪涉爆违法信息10.4万余条，关闭整顿违法网站栏目8200余个，阻断境外贩卖枪支弹药等专设违法网站154个，对传播涉枪涉爆等违法信息问题突出的365家网站进行了挂牌重点整治。<br/><div class="contheight"></div>2018年2月，由公安部牵头，建立了24个部门参加的打击整治枪支爆炸物品违法犯罪部际联席会议机制，国务委员、公安部部长赵克志同志担任总召集人，部署开展为期两年的打击整治专项行动。其中边境走私、网络贩卖、非法私制私藏枪爆物品等三类犯罪案件作为主攻方向。<br/><div class="contheight"></div>对于专项行动中网安部门的工作和下一步打算，黄胜华介绍，一年以来，公安网安部门持续开展涉枪涉爆犯罪侦查打击和网上涉枪涉爆违法信息的清理工作。在案件侦查打击方面，截至目前，各地网安部门共配合侦办涉枪涉爆案件3287起，在违法信息清理方面，网安部门以“净网2018”专项行动为抓手，以全国“两会”，上合峰会等重大活动网上安保为重点，不断加大对网上涉枪涉爆等违法信息的清理整治力度。<br/><div class="contheight"></div>黄胜华说，下一步，公安网安部门将把清理整治网上涉枪涉爆违法犯罪工作作为“净网2019”专项行动的一项重要工作内容，全面加强对互联网企业的安全监管，进一步加大对网上涉枪涉爆违法犯罪信息的清理整治力度，确保网络空间清朗有序。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李寿康<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 公安部 网站 问题</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827217">
+<div class="nbgbox">
+<a class="zan" contid="2827217" href="javascript:;" onclick="voteCont(this)" praisetimes="11">
+                           10</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 整治</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827217&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827217&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">得寸进尺？日媒：日本政府正摸索在公海开展长期商业捕鲸</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-28 11:00<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">在确认了重启商业捕鲸之后的种类和区域之后，日本政府现在在规划更多的内容。<br/><div class="contheight"></div>据日本共同社12月27日报道，日本政府退出管理鲸类资源的国际捕鲸委员会（IWC），明年7月起将在日本近海及专属经济区（EEZ）内时隔约30年重启商业捕鲸。但计划考虑到鲸类资源状况等，现在政府也在摸索长期在西北太平洋公海进行商业捕鲸的可能性。还把设立新的国际机构“第2IWC”定位为未来的探讨项目。<br/><div class="contheight"></div>日本此前一直在西北太平洋公海上实施科研捕鲸。若在公海实施商业捕鲸，必将受到来自反捕鲸国家更强烈的反对，难度较高。对于收益性也有必要仔细分析。虽然可能增加捕获量，但若鲸肉需求小，则难有公司开展捕捞。<br/><div class="contheight"></div>日本政府26日向国际捕鲸委员会（IWC）的一则通报中这样写道，“首先将限定海域，仔细分析能否切实捕捞，也可能进行修改。”<br/><div class="contheight"></div>对于日本此次重启商业捕鲸，国际社会反映强烈。此前，据新华社27日报道，澳大利亚政府26日对日本政府“退群”、恢复商业捕鲸表示“极为失望”。澳外交部和环境部当天在一份联合声明中说，日本退出决定令人“遗憾”，同时乐见日本明年夏季起“不再染指”环南极洲海域受委员会保护的鲸鱼种群。<br/><div class="contheight"></div>日本绿色和平组织负责人萨姆•安斯利也公开抨击日本“退群”，认为这一决定“与国际社会步调不一致”，“更不用说承担守护海洋生态、保护这些美丽生物的职责”。<br/><div class="contheight"></div>国际捕鲸委员会1948年依照《国际捕鲸公约》设立，旨在保护这类海洋哺乳动物、规范捕捞。日本1951年加入委员会，1986年遵循当年通过的《全球禁止捕鲸公约》停止商业捕鲸。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 日本商业捕鲸</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2786818">
+<div class="nbgbox">
+<a class="zan" contid="2786818" href="javascript:;" onclick="voteCont(this)" praisetimes="73">
+                           72</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日本商业捕鲸</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2786818&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2786818&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">外交部回应习近平主席何时访问朝鲜等提问</h1>
+<div class="news_about">
+<p>澎湃新闻记者 于潇清</p>
+<p>
+							2019-01-10 15:43<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月10日，中国外交部发言人陆慷主持例行记者会，就金正恩委员长访华、习近平主席何时访问朝鲜等事宜答记者问。<br/><div class="contheight"></div>关于对金正恩委员长此次访华的评价，陆慷表示，已经发布了金正恩委员长访华的消息。中方高度评价金正恩委员长在中朝建交70周年的新年伊始即到访中国。国家主席习近平同金正恩委员长进行了深入友好的会谈，两国领导人就中朝关系和共同关心的问题深入交换了意见，达成了重要共识。双方还各自通报了国内的形势。<br/><div class="contheight"></div>中国党和政府高度重视中朝友好合作关系，维护好、巩固好、发展好中朝友好关系，始终是中国党和政府坚定不移的方针。在双方共同努力下，中朝关系在2018年掀开新的历史篇章，中朝以实际行动展示了中朝友谊的强大生命力，也彰显了共同致力于推动半岛问题政治解决的坚定意志。<br/><div class="contheight"></div>今年是中朝建交70周年。中方愿同朝方一道保持高层交往，加强战略沟通，深化务实合作，推动中朝关系在新的历史时期不断发展，持续推进半岛问题的政治解决进程，更好地造福两国人民，也能够为世界和地区的和平稳定与发展繁荣做出积极的贡献。<br/><div class="contheight"></div>对于习近平主席何时访问朝鲜的提问，陆慷表示，中朝之间有着高层互访的传统，高层交往也在中朝关系发展中历来发挥着引领与推动作用。我们愿同朝方加强高层交往，扩大交流合作。如果有这方面的消息，我们会及时发布。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李怡清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 快讯</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836676">
+<div class="nbgbox">
+<a class="zan" contid="2836676" href="javascript:;" onclick="voteCont(this)" praisetimes="46">
+                           45</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 快讯</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836676&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836676&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

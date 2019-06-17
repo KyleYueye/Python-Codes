@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">首届进博会具体有哪些成果？企业商业展展后报告详解各项数据</h1>
+<div class="news_about">
+<p>澎湃新闻记者 俞凯</p>
+<p>
+							2019-01-10 11:07<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">首次举办就跻身全球前十大商业展会，进博会已成为国际博览业史的一大创举。<br/><div class="contheight"></div>可你知道，首届进博会除了现场意向成交金额达578.3亿美元、来自151个国家和地区的3617家企业参展外，丰硕成果还具体体现在哪些方面吗？<br/><div class="contheight"></div>《2018年中国国际进口博览会企业商业展展后报告》（以下简称报告）1月10日新鲜出炉，全面解析了首届进口博览会的各项数据。<br/><div class="contheight"></div>从参展国别看，企业商业展共有来自58个“一带一路”沿线国家的1153家企业参展，展览面积占16.4%；35个最不发达国家有147家企业参展，展览面积占1.0%。<br/><div class="contheight"></div>从参展的知名企业看，首届进博会吸引到了全球75家世界500强企业和145家行业龙头企业参展。1793家参展商带来了5446件尚未进入中国市场的产品及服务，其中，有101件具有代表性的先进产品、技术或服务为全球首次公开展示，476件为首次在中国大陆展示。比如德国参展的进博会最大最重展品——金牛座龙门铣、斯洛伐克参展的第四代飞行汽车概念车（又称“会飞的汽车”）。<br/><div class="contheight"></div>从观众情况看，开展期间，企业商业展总计超过80万人次入场参观，客流高峰集中在11月6日和9日，也就是进博会开幕的第二和第五天。<br/><div class="contheight"></div>从成交情况来看，578.3亿美元现场意向成交金额中，信息通信技术装备成交26.7亿美元、工业自动化与机器人成交12.7亿美元、材料加工及成型装备成交12.5亿美元、医疗器械成交40.9亿美元、乳制品成交31亿美元、肉制品成交18.5亿美元。展会期间，展馆内共举办176场配套活动。<br/><div class="contheight"></div>从境外嘉宾参会情况看，企业商业展共接待来自90多个国家和地区及5个国际组织的境外（含港澳台）部长级以上政要参观团120多个，其中包括国家元首或总理级团组8个、副总理级团组8个。<br/><div class="contheight"></div>进口博览局表示，进博会参展国别范围、展位面积、企业数量、企业质量、采购商规模、嘉宾人数都超出预期。第二届进博会的筹办工作将着力在“高规格、高质量、高标准、高水平、高成效”这五个“高”上下功夫，为持续打造“国际一流博览会”而努力。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/110/720.jpeg" width="100%"/></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/110/721.jpeg" width="100%"/></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/110/722.jpeg" width="100%"/></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/110/723.jpeg" width="100%"/></div><span style="color: rgb(128, 128, 128);">本文图片由进口博览局提供</span></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑浩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 进博会,企业商业展,交易数据</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835758">
+<div class="nbgbox">
+<a class="zan" contid="2835758" href="javascript:;" onclick="voteCont(this)" praisetimes="39">
+                           38</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 进博会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835758&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835758&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,76 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">缅甸警方以反恐法立案调查若开邦警察哨所遭袭事件 </h1>
+<div class="news_about">
+<p>庄北宁/新华社</p>
+<p>
+							2019-01-06 06:33<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社仰光1月5日消息，缅甸警方5日表示，对若开邦北部4处警察哨所日前遭袭事件依据反恐法立案。<br/><div class="contheight"></div>缅甸警方说，布迪当镇区当巴扎警察局下属4个警察哨所4日遭若开军武装袭击，造成警员伤亡。当巴扎警局以2014年反恐法相关条款分别对4起袭击警察哨所事件立案，同时还对其中警员伤亡最严重的额明博哨所遭袭事件进行重罪处理调查。<br/><div class="contheight"></div>缅甸官方媒体和缅甸军方4日证实，布迪当镇区4处警察哨所当天同时遭若开军武装袭击，共造成13名警员死亡、9名警员受伤，丢失40支轻型武器和1.6万发子弹。<br/><div class="contheight"></div>中国驻缅甸大使馆5日发布声明，对若开邦北部地区再次发生暴力袭警事件并导致多人伤亡，予以强烈谴责，对遇难者表示沉痛哀悼。声明说，中方支持缅方为维护若开邦和平稳定所做努力，坚决反对任何形式的暴力袭击，呼吁有关各方保持克制，通过对话协商妥善处理有关问题，共同维护若开邦稳定和安宁。<br/><div class="contheight"></div>2018年12月，缅北民族地方武装（民地武）组织果敢同盟军、德昂民族解放军、若开军宣布愿意首先停止军事行动，与政府、军方通过对话解决军事冲突和政治矛盾。作为回应，缅甸军方也宣布停止针对民地武的军事行动，有效期至2019年4月30日。<br/><div class="contheight"></div>缅甸1948年独立后存在数十个民地武组织。2013年11月起，经过9轮和谈，缅甸政府最终于2015年10月与8个民地武组织签署全国停火协议。2018年2月，又有两个武装组织签署全国停火协议。目前，仍有大约10个民地武组织尚未签署全国停火协议。<br/><div class="contheight"></div>（原题为《缅警方以反恐法立案调查若开邦警察哨所遭袭事件》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2817763" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">中国驻缅甸大使馆就若开邦发生暴力袭击事件发表声明</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2816412" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">缅甸警察哨所遭袭，13名警员丧生 </span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 缅甸,警察,遭袭,反恐</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2819598">
+<div class="nbgbox">
+<a class="zan" contid="2819598" href="javascript:;" onclick="voteCont(this)" praisetimes="87">
+                           86</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 缅甸局势</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2819598&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2819598&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

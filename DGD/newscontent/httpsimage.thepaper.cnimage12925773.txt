@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜王源登上课本：“教科书式”青年偶像该如何塑造？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 陈禹潜</p>
+<p>
+							2018-12-05 16:57<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日，有网友在网上发了一张照片，显示少年偶像团体TFBOYS的成员王源，登上了初三政治课本。照片中是一道与王源有关的论述题，题目为：“开放的中国期盼着我”，内容是王源受邀赴联合国总部出席联合国理事会2017青年论坛，就健康、教育、环境保护等议题用英文进行了2分钟的演讲。 <div style="text-align:center;"><img alt="" height="533" src="http://image.thepaper.cn/www/image/12/925/770.jpg" width="438"/></div><span style="color: rgb(128, 128, 128);">网传照片<br/><div class="contheight"></div></span>一个令人注目的细节是，课本中把王源的身份介绍为“中学学生”与“中国青年代表”。在教育层面，王源是一名中学生，未成年就能参加联合国的青年论坛，自然是优秀的。登上教科书也表明王源的作为被认同，足以成为青少年的榜样。 <br/><div class="contheight"></div>在社会层面，“中学生”、“青年代表”的身份，是王源作为偶像，在青少年中发挥正面作用的重要标签。<br/><div class="contheight"></div>根据2016年发布的《中国粉丝追星大数据报告》，在当前追星的粉丝当中，20-29岁年龄段占比最高，达47%，19岁以下的粉丝占了19%；从职业角度看，学生是当仁不让的主力军，以56%的比例遥遥领先。毫不夸张的说，明星们影响的正是中国的未来。 <br/><div class="contheight"></div>偶像有影响力没错，但怎么使用影响力是至关重要的，畸形的追星理念只能让自己和偶像都受到伤害。 <br/><div class="contheight"></div>现在“饭圈”存在的一些不良习惯，让粉丝文化在很多时候仍然被主流文化所排斥：部分“脑残粉”、“毒唯粉”用恶意脏话集中攻击个体，集中制造铺天盖地的网络暴力；一些不理智的粉丝为涉嫌违法犯罪的“劣迹明星”辩白，传播错误价值观；还有的“私生饭”疯狂追星，如“狗仔”般尾随自己的偶像……这样的阴暗面是“追星”污名化的一个重要原因。当代的青年偶像不应苟同。 <br/><div class="contheight"></div>怎么让自己的粉丝，尤其是一部分还没有形成成熟价值观的年轻粉丝理性追星，乃至努力奋发，学习偶像身上的优点为我所用，才是偶像们应该用自己的影响力去做的。 <br/><div class="contheight"></div>在王源登上教科书之后，网友纷纷留言称：“真实版的教科书式偶像！”“希望小朋友们都能被好的能量影响”。“教科书式”的偶像不仅要有在所属领域的才能技艺，更为重要的是在价值导向、道德导向乃至审美导向上的正面引领。 <br/><div class="contheight"></div>2018年中国社科院发布的《社会心态蓝皮书》根据大量问卷调查得出，“90后”青年普遍持有正向、积极的社会价值观，重视集体主义、人文关怀和权利平等。当代偶像也应该是充满了正能量、热心公益、拥有正面价值观的优质偶像。 <br/><div class="contheight"></div>二十年前的一首《蜗牛》让周杰伦成为了影响一代青少年的励志偶像。我中学时也总有老师在课间放着这首歌，“我要一步一步往上爬，等待阳光静静看着它的脸”的价值观，鼓励了一代青少年勇敢奋进。现在，新一代的偶像们也需要扛起新的榜样标准，引导新一代的青少年了。 <br/><div class="contheight"></div>“教科书式”的偶像应该是在大众塑造和自我塑造中产生的完美人设，助力青少年们把舵扬帆，为梦想起航。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 青年偶像</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2709120">
+<div class="nbgbox">
+<a class="zan" contid="2709120" href="javascript:;" onclick="voteCont(this)" praisetimes="264">
+                           263</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 偶像</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2709120&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2709120&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（794）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

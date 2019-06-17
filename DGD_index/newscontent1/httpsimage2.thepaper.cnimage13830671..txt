@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国名厨齐默恩节目遭停播，此前诋毁美式中餐遭华裔炮轰</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2019-01-02 23:21<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="447" src="http://image.thepaper.cn/www/image/13/830/686.jpeg" width="600"/></div><font color="#808080">安德鲁·齐默恩(Andrew Zimmern) 资料图</font><br/><div class="contheight"></div>据美国中文网援引《纽约邮报》报道，2018年11月，美国知名厨师、美食节目主持人安德鲁·齐默恩(Andrew Zimmern)因为在采访中说美国中西部中餐馆“像屎一样”，遭到很多批评。一个多月过去，这件事引起的余波仍未结束，近日，齐默恩的节目遭到停播。<br/><div class="contheight"></div>齐默恩本来在美国旅游频道上有两档节目——《古怪食物》以及《齐默恩的名单》，原本都在星期六上午10点的黄金时段播出。现在，这两档节目都已被旅游频道的母公司探索传播公司决定停播，还未完结的最新一季也就此中断。<br/><div class="contheight"></div>报道称，往期的节目目前还会在周六上午重播，但两档节目都已停止新的录制，也没有以后会恢复的迹象。<br/><div class="contheight"></div>11月，齐默恩在谈及自己刚在美国中西部明尼苏达州开张的中餐馆“幸运蟋蟀”时说道：“对于中西部那些只能去屎一样的餐馆吃假中餐的人来说，我想我是拯救了他们的灵魂。”<br/><div class="contheight"></div>这句话被播出后引发了巨大的舆论反应，许多在美华裔对此表示愤怒。他们认为齐默恩觉得自己比华人更懂中餐的高傲态度是自大的表现，而他对代表着一代华裔移民辛酸史的美式中餐的诋毁，更是不可原谅。之后，齐默恩在自己境外社交网站的页面上发表了道歉声明。<br/><div class="contheight"></div>不过，旅游频道否认了齐默恩节目停播与他被指诋毁中餐一事有关，称停播决定早在该争议开始之前就做出了。<br/><div class="contheight"></div>（原题为《“诋毁中餐”付代价？ 美名厨齐默恩节目遭停播》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙语双<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国,美式中餐</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2806136">
+<div class="nbgbox">
+<a class="zan" contid="2806136" href="javascript:;" onclick="voteCont(this)" praisetimes="50">
+                           49</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中餐馆</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2806136&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2806136&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（78）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

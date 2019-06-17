@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">俄劳工部：未来三个月内或将有23万俄罗斯人“失去工作”</h1>
+<div class="news_about">
+<p>澎湃新闻记者 刘惠</p>
+<p>
+							2018-12-27 17:46<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">俄罗斯劳工部预计，未来三个月内将有超过23万俄罗斯人“失去工作”，其中大部分为莫斯科和圣彼得堡居民。<br/><div class="contheight"></div>据俄媒《消息报》12月27日援引俄罗斯劳工部近期的报告称，从2018年12月12日至2019年3月12日期间，预计将有23.08万俄罗斯公民“失去工作”。面临遭解雇风险最大的行业为银行和金融、交通运输、电气设备及计算机技术。<br/><div class="contheight"></div>报告称，3.05万金融从业人员或将面临失业，交通运输行业可能会辞退2.77万名员工，电气设备与计算机技术领域的这一数字为1.66万人。加上其他受影响相对较小的行业，失业总人数可能新增23.08万。<br/><div class="contheight"></div>该份报告是基于共有1200万雇员的4.6万个俄罗斯公司及机构的情况得出的。报告中的“失去工作”对应为被辞退、雇主表示将不再与员工续签或将正式合同转变为临时合同。<br/><div class="contheight"></div>根据俄罗斯法律规定，雇主有义务在计划裁员前两个月通知就业服务机构。<br/><div class="contheight"></div>俄劳工部新闻处官员则告诉《消息报》，谈论“新年裁员”是非常不正确的，依据该机构长期监测劳动力市场的情况来看，任何季节都存在裁员情况。 俄劳工部人士同时强调，这不意味着这些人一定会被辞退，各个公司的情况也可能出现变化，比如开拓新业务需要留下老员工甚至招聘新员工等。<br/><div class="contheight"></div>“金融行业的情况（即将到来的高失业风险）与本国信贷机构数量的减少有关。”俄罗斯银行协会会长加列兴·托松扬回忆道，今年以来，俄罗斯联邦中央银行撤回了比往年更多的许可证。托松扬透露，金融市场停滞不前，俄罗斯国有开发银行也计划大规模缩减业务，其私营部门被迫优化员工人数。<br/><div class="contheight"></div>依据俄求职网站Rabota.ru从300名公司代表处调查收集的数据，明年有23%的雇主计划减少公司员工人数，同时有18%的公司表示会扩大规模。<br/><div class="contheight"></div>《消息报》称，俄劳工部预计2018年官方失业率将增长38％，失业人数达到110万人。劳工部官员强调，许多人希望在1月1日（提高福利政策生效）后再到就业服务机构注册，加上提高退休年龄的新改革，这两个因素也会对失业率数字产生影响。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李怡清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 失业,俄罗斯,寒冬</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780631">
+<div class="nbgbox">
+<a class="zan" contid="2780631" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 俄罗斯</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780631&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780631&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

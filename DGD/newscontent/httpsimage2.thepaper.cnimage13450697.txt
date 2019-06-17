@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">泉州一小巷里男子倒在血泊中死亡，警方：系他杀，凶手已被抓</h1>
+<div class="news_about">
+<p>泉州广播电视台公众号“新闻广角”</p>
+<p>
+							2018-12-24 13:33<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/450/669.jpg" width="100%"/></div>今天清晨五点左右，在福建省惠安县城，有人发现一名男子倒在一条小巷内，虽然天上下着雨，男子却一动不动，一名居民还以为他喝多了，可走进一看，却看到一滩血，吓得他赶紧报警。<br/><div class="contheight"></div>男子被发现的地点位于惠安县东关社区一支巷内。接警后民警和120先后赶到现场。经医生检查确认男子已经不幸身亡。警方正在对男子的死因进行调查。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/450/670.jpg" width="100%"/></div>虽然经过一夜雨水的冲刷，但地上仍能清晰看到血迹。据了解，死亡男子大约四五十岁，身上带有两部手机，目前身份还不明确。附近居民介绍，这片区域是尚未改造的老城区，除了一些上了年纪的居民，现在本地居民很少住在那里，而空闲的房屋有的用于出租。由于事发深夜，又下着雨，居民没听到什么动静。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/450/671.jpg" width="100%"/></div>记者刚刚从警方了解到，这名倒地的男子大约四五十岁，是被人杀害的。目前，凶手已被惠安警方抓获，案件的具体原因还在调查中。<br/><div class="contheight"></div>（原标题《突发！泉州：男子倒在小巷里，发现时已无生命迹象…嫌疑人被抓》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：段彦超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 凶杀,泉州,男子</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768461">
+<div class="nbgbox">
+<a class="zan" contid="2768461" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 凶杀</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768461&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768461&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

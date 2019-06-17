@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">泰国家立法议会通过大麻条例，解禁研究和治病用大麻</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2018-12-26 14:56<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据中新网12月26日援引外媒报道，泰国国家立法议会批准大麻“甘差”条例草案，宣布以法律的形式出台实施，为大麻“甘差、甘冲”和卡痛叶提供医学研究的机会，以及在医师的监督下进行疾病治疗。<br/><div class="contheight"></div>25日，国家立法议会主席蓬碧主持会议，对大麻条例草案进行二、三读审议。国家立法议会常务委员会主席颂猜表示，常务委员会已经完成该草案的审查，共有17项条款，其中修订4项条款、剔除9项条款及增加20项条款。此外，常务委员会还在会议上报告6个备注。<br/><div class="contheight"></div>据报道，常务委员会修订的条款主要是2个方面，一方面，将第2、5类毒品批准生产、进出口及销售的管制清楚分开；另一方面，修订特定章节，通过增加专业人员优化毒品管制委员会的组成。无论如何，这次审查工作还听取各方意见，有99.13%的人赞成将第5类毒品包括大麻和卡痛用于医学研究，以在医师的监督下治疗疾病。<br/><div class="contheight"></div>大麻条例草案二读审议后，国家立法议会委员对修正的议案没有异议，继续进行三读审议，最终以166票赞同、13票弃权通过该草案。同时，这次会议也通过了常务委员会报告的6个备注，并且准备提交给内阁审批。<br/><div class="contheight"></div>据悉，大麻条例草案剔除9项条款、增加20项条款后，总共有28项条款。<br/><div class="contheight"></div>（原标题 泰国家立法议会通过大麻条例 解禁研究和治病用大麻）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 泰国大麻</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776377">
+<div class="nbgbox">
+<a class="zan" contid="2776377" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 泰国大麻合法化</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776377&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776377&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

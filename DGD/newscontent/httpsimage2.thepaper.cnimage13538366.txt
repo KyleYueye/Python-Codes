@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">湖南破获特大电诈案，20余省市200名男子因“网恋”被骗</h1>
+<div class="news_about">
+<p>谭畅/新华视点</p>
+<p>
+							2018-12-26 22:04<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">@新华视点 12月26日消息，湖南省公安厅26日召开新闻发布会宣布，临武县公安局近期侦破一起特大电信网络诈骗案，抓获犯罪嫌疑人84人。犯罪嫌疑人假意“网恋”，以“开网店投资”为由对20余省市数百名男子实施诈骗，涉案金额逾600万元。<br/><div class="contheight"></div>据了解，2018年1月初，临武县公安局接到群众报警：其在某网络社交平台通过聊天与一女子网恋，后被该女子以“开网店投资”为由骗走人民币16000余元。警方经过分析研判，发现此案犯罪嫌疑人很可能涉及更大范围的团伙性违法犯罪活动。<br/><div class="contheight"></div>临武县副县长、公安局局长徐永望介绍，警方成立专案组侦查，确定这一犯罪团伙的主要作案窝点在湖南郴州城区的两家信息技术公司。这一团伙以信息技术公司为幌子，招募人员冒充年轻女性在各类社交平台发布交友信息。与受害人建立男女朋友关系后，犯罪嫌疑人再透露自己兼职网店获利颇丰，以此诱使受害人交纳数千元加盟费开设网店。<br/><div class="contheight"></div>受害人在某知名网购平台开设网店后，犯罪嫌疑人会冒充买家在受害人的网店下订单，其后以交纳货款费用、店铺升级等理由，骗取受害人钱财。“这些网店名义上卖衣服，但并没有实物，只是犯罪嫌疑人实施诈骗的工具。”临武县公安局刑侦大队民警吕涛涛对记者说。<br/><div class="contheight"></div>根据已查实的案情统计，这一犯罪团伙涉案金额达600余万元。200余名受害人来自广东、河南、浙江、江西等20余省市，全部为男性，大多为25岁至35岁单身男青年。<br/><div class="contheight"></div>今年1月起，警方分批次收网，打掉了这个以曹某朝、黄某芳为首的特大电信网络诈骗团伙，缴获涉案电脑76台，作案手机59台，抓获犯罪嫌疑人84名，其中已起诉51人。<br/><div class="contheight"></div>（原题为《湖南破获特大电信网络诈骗案 20余省市男子因“网恋”被骗》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 湖南,电信网络诈骗,网恋</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2778487">
+<div class="nbgbox">
+<a class="zan" contid="2778487" href="javascript:;" onclick="voteCont(this)" praisetimes="78">
+                           77</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 电信网络诈骗</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2778487&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2778487&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

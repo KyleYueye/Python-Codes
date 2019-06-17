@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">社会压力之下，古巴拟删除新宪法草案中关于同性婚姻的表述</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-19 16:07<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">在古巴福音派教会及普通民众持续数月的广泛公开抗议后，该国同性婚姻合法化的趋势出现逆转。古巴全国人民政权代表大会表示，将删除新宪法草案中有关促进同性婚姻合法化的内容，以“尊重所有人的意见”。<br/><div class="contheight"></div>据半岛电视台报道，周二（18日），古巴全国人民政权代表大会下属的一个负责起草宪法的委员会提出删除新宪法草案中对婚姻的新定义。此前，同性恋权利倡导者提议将婚姻的定义由“一男一女的结合“改为“两个拥有绝对平等权利和义务个体的结合”。<br/><div class="contheight"></div>“委员会建议延期变更婚姻的概念，即将其排出在宪法草案之外，作为尊重所有意见的一种方式，”国民议会在一条推文中称，并将婚姻描述为一种“社会和法律的制度”。<br/><div class="contheight"></div>该委员会由古巴共产党领导人，前总统劳尔·卡斯特罗（Raúl Castro）领导，其女玛丽拉·卡斯特罗（Mariela Castro）被视作古巴最有名的同性恋权利倡导者。<br/><div class="contheight"></div>古巴全国人民政权代表大会于今年7月批准了新宪法草案，其中不仅包括包括承认私有财产的权利，还第一次提出禁止性别歧视。其中，对婚姻的重新定义被视为该国同性婚姻合法化的信号。《哈瓦那时报》今年7月22日曾报道，新的宪法有望在古巴允许同性婚姻。据该报道，草案第68条定义婚姻为“两人之间自愿的结合”，并未限定为“一男一女”的结合，这被认为是给同性婚姻合法化打开大门。<br/><div class="contheight"></div>尽管4月上任的国务委员会主席米格尔·迪亚兹·卡内尔（Miguel Diaz-Canel）承诺“消除社会上的各种歧视”，但仍未能成功推进该国同性婚姻合法化进程。<br/><div class="contheight"></div>新宪法草案已经获得该国全国人民政权代表大会的初步通过予以取代1976年宪法，并将于明年2月进行全民公投。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：汪伦宇<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 古巴 同性婚姻</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2752632">
+<div class="nbgbox">
+<a class="zan" contid="2752632" href="javascript:;" onclick="voteCont(this)" praisetimes="137">
+                           136</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 同性婚姻合法化</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2752632&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2752632&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

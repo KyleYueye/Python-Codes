@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=41091">重庆网警</a>
+</div>
+<h1 class="news_title">重庆破获特大荐股诈骗案：伪造股票收益截图，收取“信息费”</h1>
+<div class="news_about">
+<p>重庆网警</p>
+<p>
+                            2019-01-10 19:28<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard"><strong>荐股诈骗</strong> 在无股票经纪资质的情况下，诈骗团伙招募无证券业知识人员，编写话术模板，招募员工用公司提供的股民信息，主动联系股民以向股民推荐股票为名进行诈骗活动。为了让受害者上当，诈骗团伙伪造股票收益截图，虚构公司有专业股票分析团队指导，公司资金雄厚可拉升股票，能让受害人在短时间内获得高额收益等事实。诈骗团伙用免费荐股的方法层层引人入局，诱骗受害人支付金额不等的“信息费”，以获得公司推荐股票、指导操作服务。<div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/14/123/942.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">重庆云阳警方将犯罪嫌疑人押解回渝。新华网发（云阳县公安局供图）</span><br/><div class="contheight"></div>近日，重庆云阳警方破获一起特大荐股诈骗案，84名犯罪嫌疑人从广西桂林被押解回渝，冻结涉案资金1000余万元。<br/><div class="contheight"></div>2018年初，警方侦查发现有诈骗团伙以荐股为名，实施网络电信诈骗，受害者众多，公安部将这一系列案件列为部督专案，指派重庆市公安局侦办。其中，由云阳县公安局具体侦办在桂林从事诈骗活动的犯罪团伙。云阳县公安局随即成立专案组，先后转战广东、广西、江苏、浙江等省市，开展调查取证工作。<div style="text-align:center;"><img alt="" height="274" src="http://image.thepaper.cn/www/image/14/123/943.jpg" width="450"/></div>历经10个多月侦办，专案组掌握了团伙的犯罪证据，并最终锁定嫌疑人的身份和窝点，随即组织警力赶赴广西桂林，与当地警方联合开展集中抓捕行动，当场抓获嫌疑人154名，查扣作案用电脑硬盘、手机及银行卡、诈骗话术模板等物品，冻结涉案资金1000余万元。<br/><div class="contheight"></div>经甄别排查，2019年1月3日，专案组将84名嫌疑人押解回重庆，其余嫌疑人移交桂林警方处理。<div style="text-align:center;"><img alt="" height="341" src="http://image.thepaper.cn/www/image/14/123/944.jpg" width="550"/></div>经审查，嫌疑人赵某、张某夫妇成立深圳市聚赢互联网金融信息服务有限公司、广西聚赢资产管理有限公司，租用高级写字楼，在无股票经纪资质的情况下，招募无证券业知识人员，编写话术模板，以向股民推荐股票为名进行诈骗活动。<br/><div class="contheight"></div>招募来的员工用公司提供的股民信息，主动联系股民。为了让受害者上当，犯罪团伙伪造股票收益截图，虚构公司有专业股票分析团队指导，公司资金雄厚可拉升股票，能让受害人在短时间内获得高额收益等事实。诈骗团伙用免费荐股的方法层层引人入局，诱骗受害人支付金额不等的“信息费”，以获得公司推荐股票、指导操作服务。<br/><div class="contheight"></div>目前，案件正在进一步办理中。<br/><div class="contheight"></div>（本文原标题：《网警提醒：伪造股票收益截图，虚构专业团队指导！重庆警方破获特大荐股诈骗案丨净网2019》）<br/><div class="contheight"></div></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2837528">
+<div class="nbgbox ">
+<a class="zan" contid="2837528" href="javascript:;" onclick="voteCont(this)" praisetimes="62">
+                                    61</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

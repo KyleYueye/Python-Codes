@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">法外交部认为极端组织“IS”尚未被消灭，法军将留在叙利亚</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-20 22:36<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">美国总统特朗普19日宣布将把美军从叙利亚撤出，因为极端组织‘伊斯兰国’（下称IS）已经被击败”。但法国外交部并不同意他的观点。<br/><div class="contheight"></div>据路透社20日报道，法国外交部官员认为，极端组织IS尚未被完全消灭，并且继续对法国在当地的利益造成威胁，因此法军将继续留在叙利亚北部。<br/><div class="contheight"></div>在特朗普周三宣布将从叙利亚撤出2000名美国军人后，法国外交部官员对路透社坦言，特朗普的决定令法国“十分吃惊”。<br/><div class="contheight"></div>“这说明我们和美国人的优先目标不同，我们现在必须靠自己。”法国外交部负责欧洲事务的高级外交官娜塔莉·洛索（Nathalie Loiseau）对记者表示，“法军将继续留在叙利亚，因为与IS的斗争十分重要。”<br/><div class="contheight"></div>法国国防部长弗洛朗斯·帕尔丽也强调，“IS尚未完全被从地图上抹去。它残余的势力必须被一劳永逸地彻底消灭。”<br/><div class="contheight"></div>法国军队参加了美国在叙利亚领导的联军，是联军的领导力量之一。法军在叙利亚北部拥有1100多名军人的地面力量，其中包括特种部队、军事顾问和外交部的特工。他们不仅进行了地面军事行动，还为联军提供训练和炮火支持。由于境内极端分子制造的恐怖袭击事件频发，法国对IS问题十分敏感。近年来有数百名法国公民来到叙利亚参加IS。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：汪伦宇<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 法国外交，叙利亚问题，“伊斯兰国”</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2757667">
+<div class="nbgbox">
+<a class="zan" contid="2757667" href="javascript:;" onclick="voteCont(this)" praisetimes="248">
+                           247</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美军撤出叙利亚</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2757667&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2757667&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

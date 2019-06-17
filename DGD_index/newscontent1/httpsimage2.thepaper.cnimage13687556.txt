@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">外国游客遭炸弹袭击后，埃及安全部队突袭打死40名恐怖分子</h1>
+<div class="news_about">
+<p>吴丹妮/新华社</p>
+<p>
+							2018-12-29 21:49<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社开罗12月29日电 埃及内政部29日发表声明说，埃及安全部队当天清晨对吉萨省和北西奈省内的三处恐怖分子据点发起突袭，共打死40名恐怖分子。<br/><div class="contheight"></div>声明说，安全部队在吉萨省打死30名恐怖分子，在北西奈省打死10名恐怖分子。<br/><div class="contheight"></div>声明强调，此次行动针对的是计划在新年和圣诞节期间进行恐怖主义活动的恐怖分子，安全部队在三处据点内发现大量弹药、枪支和简易爆炸装置。<br/><div class="contheight"></div>埃及内政部表示，埃及安全部队及国家安全部门将继续严厉打击试图破坏国家安全的恐怖主义活动。<br/><div class="contheight"></div>28日晚，一辆载有外国游客的旅游巴士在埃及首都开罗郊区的吉萨金字塔附近遭遇自制炸弹袭击，共造成3名越南游客及1名埃及导游死亡，另有11人受伤。埃及安全部队正在对这一事件进行调查。<br/><div class="contheight"></div>（原文标题：《 埃及安全部队打死40名恐怖分子》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 埃及</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2793837">
+<div class="nbgbox">
+<a class="zan" contid="2793837" href="javascript:;" onclick="voteCont(this)" praisetimes="80">
+                           79</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 埃及恐袭</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2793837&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2793837&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

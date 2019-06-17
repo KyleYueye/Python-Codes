@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">2019年上海新能源车购买操作细则出台，申请流程分六步</h1>
+<div class="news_about">
+<p>澎湃新闻记者 俞凯</p>
+<p>
+							2019-01-08 21:19<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">2019年在上海购买新能源车的操作细则出台了。<br/><div class="contheight"></div>1月8日，上海市经信委正式发布了2019年度上海市鼓励购买和使用新能源汽车实施办法相关操作流程的通知。<br/><div class="contheight"></div>通知称，根据《上海市鼓励购买和使用新能源汽车实施办法》（沪府办规〔2018〕7号）的要求，上海市经信委与上海市新能源汽车推进领导小组办公室（以下简称“市推进办”）委托具有资质的第三方专业机构受理新能源汽车生产厂商、进口新能源汽车生产厂商设立或授权的销售公司（以下统称“新能源汽车生产厂商”）及其车型申请。完成申请的相关信息将及时在上海市经信委、上海市新能源汽车公共数据网等网站予以公布。<br/><div class="contheight"></div>车型完成申请后，新能源汽车生产厂商可通过上海市新能源汽车管理系统（以下简称“管理系统”）申请上海市新能源汽车产品信息确认凭证（以下简称“确认凭证”）每车一张。具体申请流程如下：<br/><div class="contheight"></div>（一）新能源汽车生产厂商在管理系统内上传意向用户信息及相关车辆合格证；<br/><div class="contheight"></div>（二）市推进办每周一次汇总意向用户信息发送至市相关部门，进行驾照、诚信和社保等信息的核查；<br/><div class="contheight"></div>（三）市推进办审核车辆合格证并通过管理系统将意向用户核查情况反馈至新能源汽车生产厂商；<br/><div class="contheight"></div>（四）由新能源汽车生产厂商帮助通过审核的意向用户建设自用或专用充电设施，并及时通过管理系统上传《电动汽车充电设施安装登记证明》、现场照片等基础信息至“管理系统”；<br/><div class="contheight"></div>（五）市推进办委托第三方进行充电设施现场抽查；<br/><div class="contheight"></div>（六）抽查通过后，由市推进办向新能源汽车生产厂商发放《上海市新能源汽车产品信息确认凭证》。<br/><div class="contheight"></div>通知同时明确，单位用户购买多台新能源汽车的需经申请、相关评估后再酌情予以发放确认凭证；单位用户购买新能源汽车用于营运的，不再发放纸质“确认凭证”，凭本市有关行业管理部门核发的营运额度批复证明办理车辆注册登记。<br/><div class="contheight"></div>在补助资金申请方面，通知明确，申请本市财政补助资金的新能源汽车生产厂商在管理系统内填报相关材料，并递交资金申请书面报告。车辆行驶证注册日期在管理系统申请确认日期之前的，不予受理地方财政补助资金申请。<br/><div class="contheight"></div>上海市经信委表示，新能源汽车生产厂商及车型申请受理部门为国家新能源机动车产品质量监督检验中心，确认凭证及补助资金申请部门为上海市经济和信息化委员会。通知自发布之日起施行，有效期至2019年12月31日（以车辆行驶证注册日期为准）。如国家和本市鼓励政策调整，相关流程另行通知。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：高文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 新能源车,经信委,操作细则</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828886">
+<div class="nbgbox">
+<a class="zan" contid="2828886" href="javascript:;" onclick="voteCont(this)" praisetimes="11">
+                           10</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 新能源车</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828886&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828886&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">厦门用“大数据”扫黑除恶：从“人工排查”转向“数据摸排”</h1>
+<div class="news_about">
+<p>黄晓洁 王潇荥/法制日报</p>
+<p>
+							2018-09-20 08:39<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">今年以来,厦门市委政法委在牵头组织全市开展“扫黑除恶”专项斗争工作中,积极探索创新,运用全市大数据共享,聚焦“扫黑除恶”重点,实现了从“人工排查”模式向“数据摸排”模式的转变,有效推进了涉黑涉恶线索精准摸排、重点分析、管理漏洞倒查,进一步推动了综合治理工作。<br/><div class="contheight"></div>据悉,厦门市政法信息共享平台自2017年11月开始建设,今年“扫黑除恶”专项斗争开始后,市扫黑办专门研发了“扫黑除恶”模块。该模块充分利用厦门市已有的信息化建设成果,特别是城市公共安全平台的数据共享服务,实现了平台联通、数据融通,拓宽了涉黑涉恶犯罪线索的发现渠道。<br/><div class="contheight"></div>目前,厦门“大数据+扫黑除恶”新模式已走在全国前列,并取得初步成效,得到了中央扫黑除恶第四督导组和省市有关领导的充分肯定。<br/><div class="contheight"></div><strong>抓获“套路贷”嫌疑人</strong><br/><div class="contheight"></div>今年7月,厦门市扫黑办通过厦门市政法信息共享平台的“扫黑除恶”模块大数据分析,获得一条重要数据线索--张某具有房屋“套路贷”共性行为特征,且反复多次,并被群众举报涉嫌暴力讨债,与涉黑涉恶典型犯罪套路贷案件高度相似。<br/><div class="contheight"></div>市扫黑办与市公安局迅速联动,思明区公安分局通过对该线索的深入调查及对张某与关联人员的深入挖掘,迅速掌握了一个人数众多的“套路贷”犯罪团伙。9月11日,警方通过前期掌握的情况,组织统一收网行动,一举抓获2个团伙47名“套路贷”犯罪嫌疑人。<br/><div class="contheight"></div>在市政法信息共享平台“扫黑除恶”模块大数据的支撑下,警方对套路贷团伙的调查取证更有针对性,借助多源数据,警方可快速检索发现“套路贷”潜在受害人,为拓展线索、固定证据提供有效的帮助。<br/><div class="contheight"></div><strong>线索排查更智能</strong><br/><div class="contheight"></div>“扫黑除恶”模块将收集到的数据资源转变为精准线索,服务于扫黑除恶专项斗争实战。该模块通过基础数据共享,改变了以往各类涉黑涉恶事件线索沉淀在110警情、群众信访、市长热线等不同渠道的情况,建立起了统一共享的扫黑除恶“基础数据库”。<br/><div class="contheight"></div>据厦门市扫黑办工作人员介绍,该模块最大的特点是创新理念和技术应用,推动涉黑涉恶线索摸排从传统“人工摸排”向“数据摸排”转变,实现了涉黑涉恶线索的精准摸排。该模块还可以通过数据汇聚,分析涉黑涉恶问题比较突出的重点区域和行业领域,更加精准地抓住涉黑涉恶犯罪问题,倒查管理漏洞,推动综合治理。<br/><div class="contheight"></div><strong>梳理乱点乱象</strong><br/><div class="contheight"></div>据厦门市扫黑办介绍,目前市政法信息共享平台的“扫黑除恶”模块通过大数据,共排查出9条涉黑涉恶犯罪线索,并已下发到相关责任部门进行深入调查处理。<br/><div class="contheight"></div>“有黑扫黑、无黑除恶、无恶治乱、无乱创安”,根据上级部门的部署,该平台共梳理出全市首批涉及打架斗殴、黄赌毒、黑车、行业乱象等问题28条,通过“综治责任清单”下发到相关部门和各区开展精准的综合治理工作,推动扫黑除恶专项斗争从实处细处着力,持续向纵深发展,并着力固化扫黑除恶专项斗争的成果,不断提高人民群众获得感、幸福感和安全感,实现百姓安居乐业、社会安定有序、国家长治久安的目标。<br/><div class="contheight"></div>（<strong>原标题：</strong>探索智能化应用提升精准摸排打击质效）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：卫佳铭<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 扫黑除恶,大数据,摸排</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2458629">
+<div class="nbgbox">
+<a class="zan" contid="2458629" href="javascript:;" onclick="voteCont(this)" praisetimes="44">
+                           43</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 扫黑除恶</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2458629&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2458629&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25435">金改实验室</a>
+</div>
+<h1 class="news_title">央行：今年年底前金融服务机构网站应支持IPv6连接访问</h1>
+<div class="news_about">
+<p>澎湃新闻</p>
+<p>
+							2019-01-10 20:22<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月10日，央行、银保监会和证监会联合发布了关于金融行业贯彻《推进互联网协议第六版（IPv6）规模部署行动计划》的实施意见（下称《意见》）。<br/><div class="contheight"></div>《意见》提出，到2019年底，金融服务机构门户网站支持IPv6连接访问。到2010年底，金融服务机构面向公众服务的互联网应用系统支持IPv6连接访问，并具备与IPv6改造前同等的业务连续性保障能力。到2021年期，做好金融行业面向公众服务的互联网应用系统IPv6改造基础上，持续推进IPv6规模部署，逐步构建高效率、广普及、全覆盖、智能化的下一代互联网。<br/><div class="contheight"></div>IP地址是互联网协议的重要组成部分，它可以识别接入互联网中的任意一台设备。IPv6是Internet Protocol Version 6的缩写，是IETF（互联网工程任务组，Internet Engineering Task Force）设计的用于替代IPv4的下一代IP协议，号称可以为全世界的每一粒沙子编上一个网址。由于IPv4最大的问题在于网络地址资源有限，严重制约了互联网的应用和发展。IPv6的使用，不仅能解决网络地址资源数量的问题，而且也解决了多种接入设备连入互联网的障碍。<br/><div class="contheight"></div>2017年11月，中办、国办印发《推进互联网协议第六版（IPv6）规模部署行动计划》，提出到2018年末，使IPv6活跃用户数达到2亿，在互联网用户中的占比不低于20%，国内用户量排名前50位的商业网站全面支持IPv6。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑景昕<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 快讯</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837743">
+<div class="nbgbox">
+<a class="zan" contid="2837743" href="javascript:;" onclick="voteCont(this)" praisetimes="62">
+                           61</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: IPv6</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837743&caid=25435",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837743&amp;caid=25435" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

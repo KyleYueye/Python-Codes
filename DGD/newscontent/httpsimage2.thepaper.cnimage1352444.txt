@@ -1,0 +1,80 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25464">澎湃质量报告</a>
+</div>
+<h1 class="news_title">权健40种直销品多为化妆品，含开给癌症患儿的紫草体用精油</h1>
+<div class="news_about">
+<p>实习生 桑蕴涵 澎湃新闻记者 吕新文</p>
+<p>
+							2018-12-26 16:59<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日，一篇名为《百亿保健帝国权健，和它阴影下的中国家庭》文章令权健再次陷入舆论漩涡。<br/><div class="contheight"></div>在商务部直销行业管理网上，权健自然医学科技发展有限公司共备案了40种直销产品，其中30种为化妆品、6种为保健食品、4种为保洁用品。<br/><div class="contheight"></div>丁香园刷屏文章《百亿保健帝国权健，和它阴影下的中国家庭》中提到，权健公司给4岁的癌症患者周洋开的抗癌药是一款紫草体用精油、一款粉末状固体饮料（图片显示名字为“大枣药食同源固体饮料”）、一袋没有配方说明的中药制剂（束昱辉开的），周洋父亲为此支付了5000元。<br/><div class="contheight"></div>澎湃新闻发现，商务部直销行业管理网上公布的权健自然医学公司的40种直销产品中，有一“ZHIWU DNA 紫草体用精油”，类别归属为化妆品，备案日期为2015年7月29日；而 “大枣药食同源固体饮料”则无法在上述网站上查询到。<br/><div class="contheight"></div>商务部直销行业管理网上公示的信息显示，权健自然医学科技发展有限公司直销经营许可证（批准文号：商秩批【2013】782号）于2013年批准，彼时法定代表人还是束昱辉。<br/><div class="contheight"></div>权健自然医学公司共有分支机构10个，服务网点23个，直销产品共3类40种。<br/><div class="contheight"></div>10个分支机构分别是天津、四川、浙江、湖南、辽宁、山东、江苏、广东、河北、北京共10家分公司，其中6家分公司的负责人是王生涛。除了天津分公司的审批日期是2013年10月外，其他9家分公司的审批日期均为2017年6月5日。<br/><div class="contheight"></div>23个服务网点中，天津有8个，湖南有8个（长沙6个，常德2个），浙江有7个（杭州6个，绍兴1个）。<br/><div class="contheight"></div>40种直销产品中，30种为化妆品、6种为保健食品、4种为保洁用品（均为卫生巾、卫生护垫）。备案最早的日期为2013年10月2日，最近的日期为2018年9月4日。<br/><div class="contheight"></div>备案在册的直销培训员有8人，1名副部长、1名运管专员、1名主管、1名培训师、2名助理、2名讲师。<br/><div class="contheight"></div>据每日经济新闻，针对权健事件，商务部直销行业管理中心人士表示，“保健食品，必须在商务部直销行业管理系统上备案才能进行直销，不然这些产品是不能以直销模式销售，直销是无店铺模式，所以直销未备案的产品就是违法的。如果发现直销未备案产品，消费者可以向当地监管部门投诉。”</div>
+<div class="go_to_topic">
+<p style="line-height: 20px; margin-bottom:5px">
+<img alt="" src="//file.thepaper.cn/www/v3/img/topic.gif" style="float:left">
+<a href="newsDetail_forward_64937" target="_blank">
+<span class="news_topic">
+                              【专题】专题｜权健帝国漩涡</span>
+</a>
+</img></p></div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李云芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 快讯</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776877">
+<div class="nbgbox">
+<a class="zan" contid="2776877" href="javascript:;" onclick="voteCont(this)" praisetimes="101">
+                           100</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 快讯</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776877&caid=25464",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776877&amp;caid=25464" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（631）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

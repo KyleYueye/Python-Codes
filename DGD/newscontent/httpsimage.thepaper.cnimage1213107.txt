@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">湖南高院发布“十二条禁令”：严禁从事“暗代理”</h1>
+<div class="news_about">
+<p>王为薇 /新湖南</p>
+<p>
+							2018-11-06 22:30<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/12/13/105.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">11月2日，湖南高院召开党风廉政建设和反腐败工作座谈会。  湖南法院网 图<br/><div class="contheight"></div></span>11月2日，湖南高院召开党风廉政建设和反腐败工作座谈会。会上，宣布了湖南法院“十二条禁令”。<br/><div class="contheight"></div>湖南高院要求全省各级法院干警严格遵照执行“十二条禁令”：严禁接受案件当事人及其代理人、辩护人、请托人或管理服务对象所送礼金礼品、消费卡等钱物，及参加由上述人员支付费用的各种宴请、休闲娱乐、旅游等活动；严禁向案件当事人推荐、介绍律师，向律师、当事人及其代理人、其他利害关系人借用钱物，要求其报销各种费用及从事“暗代理”等行为；严禁利用职务便利参与营利性活动及违反规定为配偶、子女及其他特定关系人在投资入股、经商办企业以及吸收存款、推销金融产品等方面提供帮助或谋取不正当利益；严禁违反规定干预过问案件；严禁公款吃喝、送礼，采购烟酒或者以过节名义用公款搞相互走访、宴请等活动；严禁公车私用或将公车停放在餐饮、休闲娱乐场所及旅游景区等与工作无关的地方；严禁在公务差旅、培训学习过程中借机旅游或者虚报、套取差旅补助；严禁工作时间玩游戏、看影视剧、打牌下棋、炒股等从事与工作无关的活动；严禁泄露审判秘密，为案件当事人甚至黑恶势力通风报信、出谋划策，充当黑恶势力“保护伞”；严禁慵、懒、散、拖等作风散漫、纪律松弛及不作为、慢作为、乱作为等行为；严禁参与赌博、含有色情内容的休闲娱乐活动等损害法院形象的行为；严禁妄议中央大政方针，制造、传播政治谣言以及匿名诬告、有意陷害等政治品行恶劣的行为。<br/><div class="contheight"></div>会议要求，全省各级法院要提高政治站位，统一思想认识，切实增强推进党风廉政建设和反腐败斗争的责任感和紧迫感。，要增强遵守纪律规矩的政治自觉，夯实拒腐防变的思想防线，要主动履责，抓常抓细，夯实全面从严治党的“两个责任”，切实抓好巡查反馈意见整改，强化领导干部担当精神，为党风廉政建设和反腐败斗争提供强有力组织保障。<br/><div class="contheight"></div>（原标题《湖南高院发“十二条禁令”加强党风廉政建设》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：谭君<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 禁令 暗代理</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2607811">
+<div class="nbgbox">
+<a class="zan" contid="2607811" href="javascript:;" onclick="voteCont(this)" praisetimes="39">
+                           38</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 党风廉政建设</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2607811&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2607811&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

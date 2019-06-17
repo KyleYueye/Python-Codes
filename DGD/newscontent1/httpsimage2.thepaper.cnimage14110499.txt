@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">深圳多地弥漫刺鼻气味原因不明，环保部门：正排查</h1>
+<div class="news_about">
+<p>@绿色梦想-深圳人居委</p>
+<p>
+							2019-01-10 10:56<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月8日晚至9日，深圳市多地市民反映闻到浓烈的类似塑料烧焦的刺鼻气味，原因不明。市人居环境委委接到市民投诉后第一时间组织排查，截至目前未排查到污染源，但已排除刺鼻气味来自香港方面影响。<br/><div class="contheight"></div>1月8日晚，不少市民反映空气中有浓烈的塑料烧焦的刺鼻气味。朱女士发朋友圈称：“南山这里今天空气怎么这么臭啊，是哪里烧轮胎吗？”福田区俊景豪园小区业主群有业主发声：“请问大家闻到窗外飘来阵阵烧焦电线的味道吗？”“有烧垃圾的粉尘味，到处都有闻到。”也有市民反映在龙华、罗湖区和龙岗区也能闻到刺鼻气味，不知道是什么原因。有市民怀疑刺鼻气味与香港海域一起油轮火灾事故影响有关。<br/><div class="contheight"></div>9日19时许，市人居环境委就市民反映的空气异常问题作出回应称，1月8日，我委接到有关市民的投诉后，第一时间组织了相关部门进行了污染源的排查及相关数据的比对。市环境监测中心站对污染源在线监测数据进行查看，从8日中午到9日傍晚，没发现有超标的情况；通过对“一街一站”数据进行查看对比，也没发现数据有异常。同时，该站还派出监测车外出进行监测，到目前为止还没有排查到污染源。<br/><div class="contheight"></div>市人居环境委回应说，1月8日，环境监察部门赶赴疑似污染点源下坪填埋场进行了现场执法检查，经核实，该场已经在下午4点停运，没有偷排和偷烧的现象发生。此外，该委还对龙华区反映的臭气情况进行了现场检查，尚无发现异常，此次污染点源还在进一步排查中。<br/><div class="contheight"></div>至于市民反映的疑似港方火灾发生影响深圳的情况，市人居环境委回应称，经核实，1月8日下午到目前，港方没有相关火情情况的通报。而从气象部门了解到，过去近48小时风向主要以北风、东北风为主，排除了香港方面吹向深圳的可能性。<br/><div class="contheight"></div>市人居环境委表示，目前我委还在对空气污染源进行进一步的排查，如有新的情况将第一时间向公众通报。<br/><div class="contheight"></div>（原题为《深圳市多地弥漫刺鼻气味原因不明 环保部门正在排查污染源，已排除来自香港方面的影响》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 深圳,环保</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835712">
+<div class="nbgbox">
+<a class="zan" contid="2835712" href="javascript:;" onclick="voteCont(this)" praisetimes="12">
+                           11</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 深圳</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835712&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835712&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

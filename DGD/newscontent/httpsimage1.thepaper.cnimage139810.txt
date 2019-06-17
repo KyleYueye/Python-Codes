@@ -1,0 +1,79 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25574">翻书党</a>
+</div>
+<h1 class="news_title">为你读诗｜民谣音乐人朗读倪湛舸《我想去温暖的地方》</h1>
+<div class="news_about">
+<p>顾悦</p>
+<p>
+							2018-12-08 17:55<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="audio_panel">
+<audio controls="" id="topAudio" preload="auto" src="http://audio.thepaper.cn/output/0366cd0c82c34ed4bcaf04d314c4744e/mp3128/b5a777eb-e010-438b-a456-9b3922d9edd6-422cca95-ac5d-9322-9582-c26037cc8f17.mp3">Your browser does not support the audio element.</audio>
+<div class="audio_name">作曲家姚晨朗读倪湛舸《我想去温暖的地方》</div>
+</div>
+<script>$(function(){ audioInit("topAudio")});</script>
+<div class="news_txt" data-size="standard"><strong>【编者按】</strong><br/><div class="contheight"></div><u>现为弗吉尼亚理工大学宗教与文化系副教授的倪湛舸，研究课题为“宗教”构建、批评理论、以及当代小说与抒情诗。她在网络上颇为有名，写小说、写散文、写诗，已经出版了多本散文集、小说和诗集。最近，她又出版了诗集《雪是谁说的谎》。民谣音乐人、上海外国语大学英语系副教授顾悦朗读了诗集里的一首《我想去温暖的地方》。顾悦也是作家、诗人、文学译者，曾发行民谣专辑，翻译诺贝尔文学奖得主托妮·莫里森的小说，将海子、芒克等人的诗歌译成英文在欧美出版。</u><br/><div class="contheight"></div><div style="font-weight: bold; text-align: center;"><img alt="" height="901" src="http://image.thepaper.cn/www/image/13/9/770.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">倪湛舸</span><br/><div class="contheight"></div><strong>我想去温暖的地方</strong><br/><div class="contheight"></div>我想去温暖的地方，五月或八月都无须躲进壁橱和被褥睡在一起，我想去他画在速写簿上的花圃、面包房、挤满帆船的海港，可他说成年是被祝福和被诅咒之间的滑动门，我每天吞下过量食物，为了让胸腔里的火扩张为了能够挥拳打碎冰墙，可他从未拥抱我，他说孩子坚硬得如同炸弹，而他不知该怎样剪断漫长的导火线。<br/><div class="contheight"></div>05/06/2017<br/><div class="contheight"></div><strong>【延伸阅读】</strong><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="600" src="http://image.thepaper.cn/www/image/13/9/768.jpg" width="384"/></div><strong>《雪是谁说的谎：倪湛舸诗集》<br/><div class="contheight"></div></strong><span style="color: rgb(128, 128, 128);">倪湛舸/著，上海三联书店·雅众文化 2018年10月版</span><br/><div class="contheight"></div>这是倪湛舸三年来的诗歌创作结集，共有“情之所钟”、“太极生两仪”、“永恒冻土”等九辑。在这些诗里，她直面生命的深渊和世情的幽微，审视时代的喧嚣和人心的虚妄。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：顾明<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 倪湛舸,姚晨</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2718581">
+<div class="nbgbox">
+<a class="zan" contid="2718581" href="javascript:;" onclick="voteCont(this)" praisetimes="159">
+                           158</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 诗歌</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2718581&caid=25574",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2718581&amp;caid=25574" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

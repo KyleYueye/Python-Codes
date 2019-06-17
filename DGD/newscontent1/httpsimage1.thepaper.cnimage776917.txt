@@ -1,0 +1,80 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">新表试戴|宇舶高科技的表壳内，有一颗奔腾14天的芯</h1>
+<div class="news_about">
+<p>文/钟天阳 图/王辰</p>
+<p>
+							2018-03-29 13:18<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>HUBLOT宇舶表一直擅长运用高科技创新物料的材质。此次以制表界首创的3D立体碳纤维技术打造出佩戴舒适，坚硬耐磨的全新Big Bang MP-11腕表，独特造型前所未见。机芯搭载7个串联发条盒，提供两周源源不断的长效动力。直列式滚筒时间显示，装载于黑色碳纤维表壳之中，增添未来动感。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="430" src="http://image.thepaper.cn/www/image/7/76/914.jpg" width="600"/></div></u><span style="color: rgb(153, 153, 153);">此次Big Bang MP-11腕表有碳纤维表壳的黑款，以及采用蓝宝石水晶打造的透明款，我们试戴拍摄了其中的透明款。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="430" src="http://image.thepaper.cn/www/image/7/76/915.jpg" width="600"/></div></span><span style="color: rgb(153, 153, 153);">不论是碳纤维还是蓝宝石水晶，都是宇舶擅长的高科技材质。<br/><div class="contheight"></div></span>Big Bang MP-11腕表具有多项创新机制。7个水平直列式的串联发条，提供长达两个星期的动力储能，并可通过线性动力显示，随时掌握发条储能状况。其次，动力传输采用制表界极为少见的垂直90度螺旋式齿轮传动系统，让发条动力能够顺畅传输到显示小时与分钟的齿轮系统。倒置于面盘侧的摆轮设计，与螺旋式齿轮形成和谐对称。<br/><div class="contheight"></div>Big Bang MP-113D碳纤维全黑款腕表，采用烟熏黑色系复合材质，让黑色PVD处理的机芯与聚合物复合材质的表形成一致色调。3D碳纤维具有极致轻量化的强硬立体化结构，其未来感造型也与表壳和表圈相呼应。包括表带在內，整只表重量仅有90克。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/7/76/912.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">以超跑为形，Big Bang MP-11腕表打造蓝宝石动人曲线。<br/><div class="contheight"></div></span>Big Bang MP-11腕表另有蓝宝石水晶款，全球限量200枚，透明蓝宝石表壳清晰展示汽缸造型的复杂机芯，同时也放大动力储能的效果。透过一系列复杂高难度的制作过程提升了腕表本身的价值。全景透视可清楚呈现每个细节。通体剔透的45毫米直径表壳下，其他机械零件和“发动机式”结构皆可以360度全方位视角观察。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/7/76/913.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">Big Bang MP-11腕表蓝宝石水晶款<br/><div class="contheight"></div></span>腕表表冠和刻纹白色橡胶表带均以蜗轮螺旋状呈现，与其机械设计互相对应。此外，这款宇舶表自主机芯可以储存强大动能，通过手动旋转表冠或使用灵感源自赛车的电动Torx触针都可以完成上链步骤。</div>
+<div class="go_to_topic">
+<p style="line-height: 20px; margin-bottom:5px">
+<img alt="" src="//file.thepaper.cn/www/v3/img/topic.gif" style="float:left">
+<a href="newsDetail_forward_31826" target="_blank">
+<span class="news_topic">
+                              【专题】专题｜直击巴塞尔2018</span>
+</a>
+</img></p></div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘嘉郦<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2042553">
+<div class="nbgbox">
+<a class="zan" contid="2042553" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 巴塞尔表展</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2042553&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2042553&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

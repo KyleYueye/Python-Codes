@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">日本北海道滑雪胜地二世古地区将征收住宿税</h1>
+<div class="news_about">
+<p>王可佳、姜俏梅/新华社</p>
+<p>
+							2018-12-14 15:43<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社东京12月13日消息，日本北海道著名滑雪旅游胜地二世古地区所在的俱知安町议会13日通过一项条例，决定向使用该地区酒店、旅馆、民宿等所有住宿设施的旅客征收住宿税，收费标准为住宿费的2%。<br/><div class="contheight"></div>据日媒报道，俱知安町计划从明年11月起正式实施这一条例，但实施前需获日本总务省批准。<br/><div class="contheight"></div>目前，日本东京、大阪、京都等旅游城市已向住宿旅客征收住宿税，但均为定额制征税。俱知安町将是日本首个引入固定比例住宿税制度的地区。<br/><div class="contheight"></div>据报道，2017财年内，二世古地区的住宿旅客达127万人次，其中有约43万人次为外国游客。预计新住宿税制度每年将为该地区新增约3亿日元（约合1821万元人民币）的税收。俱知安町计划将新增税收用于当地公共交通建设、景区基础设施改善等用途。<br/><div class="contheight"></div>（原题为《日本北海道一著名滑雪旅游区将征收住宿税》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 北海道,滑雪旅游区,住宿税</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2739324">
+<div class="nbgbox">
+<a class="zan" contid="2739324" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 北海道</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2739324&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2739324&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

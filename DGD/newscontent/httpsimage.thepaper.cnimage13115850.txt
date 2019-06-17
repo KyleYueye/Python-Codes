@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">“通俄门”发酵插曲：艳星被判向特朗普律师支付30万美元</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-12 17:06<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/115/836.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">斯托米·丹尼尔斯 视觉中国 资料图<br/><div class="contheight"></div></span>此前被曝与特朗普有染的艳星斯托米·丹尼尔斯（Stormy Daniels）被判向特朗普的律师支付共计293052.33美元的律师代理费、损失费以及制裁金，其中29.3万美元为代理费，1000美元为制裁金。<br/><div class="contheight"></div>据美国有线电视新闻网（CNN）11日报道，加利福尼亚州的一名联邦法官判丹尼尔斯向特朗普的律师查尔斯·哈德（Charles Harder）支付近30万美元。此前丹尼尔斯与其律师起诉特朗普诽谤，败诉后，哈德上周要求丹尼尔斯支付78万美元——38.9万美元的律师费加上38.9万美元的制裁金。<br/><div class="contheight"></div>哈德随即在一份声明中称这项裁决是“总统的全面胜利”。“法院的裁决，加上法院先前驳回丹尼尔斯针对特朗普的诽谤案，两者共同构成了总统的胜利，我们彻底击败了丹尼尔斯。”哈德称。<br/><div class="contheight"></div>与此同时，另一起涉及特朗普与丹尼尔斯的案件仍未尘埃落定。随着“通俄门”调查的进行，特朗普前律师迈克尔·科恩（Michael Cohen）承认向丹尼尔斯及《花花公子》前模特凯伦·麦克道格尔（Karen McDougal）支付“封口费”，以阻止她们曝光曾在特朗普婚姻存续期间同他有过婚外情。<br/><div class="contheight"></div>周三，科恩将在纽约就大选前向两名女性支付封口费一案接受宣判。美媒爆料称，特朗普可能因为“封口费”面临弹劾，且特朗普开始担心自己会被弹劾。<br/><div class="contheight"></div>CNN周一援引接近特朗普的消息人士称，民主党在上次中期选举中拿下众议院后，特普认为弹劾开始具有“真正的可能性”了。另一位接近白宫的消息人士指出，如果特朗普真的被弹劾，弹劾唯一的理由是特朗普在竞选过程中的财务违规行为，尤其是特朗普前律师科恩涉嫌给丹尼尔斯支付了一笔13万美元的封口费。<br/><div class="contheight"></div>特朗普则在周二表示，他不担心因此被弹劾，因为“封口费”并未违反竞选财务法，只是单纯的私人交易。<br/><div class="contheight"></div>丹尼尔斯真名为斯蒂芬妮·克利福德（Stephanie Clifford），她此前声称自己和特朗普有染，曾在2016年大选前收到13万美元的“封口费”。2011年她原本准备在采访中公开此事，但却遭到一男子威胁。<br/><div class="contheight"></div>今年4月，特朗普发表推特称，“这个男子”完全是编造的，都是假新闻。随后，丹尼尔斯针对特朗普的推特言论起诉后者诽谤。今年10月，法院驳回丹尼尔斯诉讼请求，法官称特朗普的言论自由受美国第一修正案保护。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘惠<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 通俄门,特朗普,美国艳星</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2730650">
+<div class="nbgbox">
+<a class="zan" contid="2730650" href="javascript:;" onclick="voteCont(this)" praisetimes="36">
+                           35</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 通俄门</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2730650&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2730650&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

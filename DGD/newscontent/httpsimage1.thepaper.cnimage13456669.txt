@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">中国最美高铁线路将亮相：杭昌铁路杭州至黄山段明日开通运营</h1>
+<div class="news_about">
+<p>澎湃新闻记者 马作鹏</p>
+<p>
+							2018-12-24 17:13<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">杭州、黄山两大旅游城市，即将迈入两小时可达的“高铁圈”时代。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）12月24日从中国铁路总公司获悉，浙江杭州至江西南昌高速铁路的组成部分——杭州至黄山段（以下简称“杭昌高铁杭黄段”）将于12月25日正式开通运营。<br/><div class="contheight"></div>杭昌高铁杭黄段全长265公里，共设杭州东、杭州南、富阳、桐庐、建德、千岛湖、三阳、绩溪北、歙县北、黄山北等10座车站，初期运营时速250公里。沿线经过西湖、西溪湿地、千岛湖、黄山、西递宏村等7个国家5A级旅游景区和50多个4A级景区。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/13/456/686.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">12月24日，在安徽省黄山市歙县三阳镇拍摄的杭黄高铁线路。新华社 图</span><br/><div class="contheight"></div>另据《中国旅游报》12月2日文章对该线路的评价，“杭昌高铁杭黄段堪称世界级黄金旅游通道。”<br/><div class="contheight"></div>文章称，该段铁路深入江南腹地，将进一步为人文江南、自然江南增光添彩。杭昌高铁杭黄段被誉为中国最美的高铁线，不仅接连了杭州和黄山两大世界级旅游胜地，同时将西湖美景、富春江山水、千岛湖风光、宏村古韵和秀美黄山等“名城、名山、名湖”紧密联系起来，极好地整合了沿线的旅游资源，加快基础设施和配套建设，提高各地区的经济收入，改善和提升交通出行，切实的造福当地居民。<br/><div class="contheight"></div>据杭州市播电视台旗下微信公号“杭州之声”消息，10月31日，杭州东站与黄山北站在杭州东站枢纽管委会举行友好合作框架协议书签约仪式，两站将借助高铁开通机遇，最大化利用高铁站域及铁路沿线各项资源，强化合作开发和运营。<br/><div class="contheight"></div>在这次签约仪式上，黄山经济开发区党工委副书记、管委会常务副主任凌沧桑表示，希望通过进一步的合作与交流，两座高铁站能互相输出各自的运营管理优势，互惠互利，更好地服务于广大旅客，促进枢纽区域经济发展。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="399" src="http://image.thepaper.cn/www/image/13/456/681.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">12月24日，位于安徽省黄山市歙县三阳镇的杭黄高铁三阳站静待旅客。新华社 图</span><br/><div class="contheight"></div>微信公号“杭州之声”还指出，杭昌高铁杭黄段开通运营后，标志着新安江上下游的黄杭两地从“共饮一江水”迈向“共享一个圈”。<br/><div class="contheight"></div>值得注意的是，为最大限度减少铁路对沿线景区的破坏，保护生态环境，线路采用了大之字形折线设计。<br/><div class="contheight"></div>中国铁建铁四院杭黄铁路总体设计负责人张必武在接受央视新闻采访时表示，“之字形设计对沿线旅游景点拉动是最为明显的，我们尽量靠近景点，但是不碰到核心景区，环境影响又是最小的，方便乘客上下车。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋子文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 高铁建设，杭昌高铁，杭黄段</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2769040">
+<div class="nbgbox">
+<a class="zan" contid="2769040" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 高铁建设</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2769040&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2769040&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

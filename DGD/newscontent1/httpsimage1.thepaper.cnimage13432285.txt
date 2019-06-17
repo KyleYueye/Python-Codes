@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">民法典侵权责任编草案二审：泄露患者隐私，损害与否都应担责</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林平</p>
+<p>
+							2018-12-23 18:11<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">医务人员泄露患者隐私的，不论损害与否都应担责。12月23日，十三届全国人大常委会第七次会议再次审议《民法典侵权责任编（草案）》，其中基于医患关系所引发的侵权责任备受关注，草案拟强化患者隐私保护力度，明确规定凡是泄露隐私的行为，均应担责。 <br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）注意到，在关于医务人员的说明义务问题上，草案第九百九十四条规定，医务人员在诊疗活动中应当向患者说明病情和医疗措施。需要实施手术、特殊检查、特殊治疗的，医务人员应当及时向患者具体说明医疗风险、替代医疗方案等情况，并取得其书面同意；不宜向患者说明的，应当向患者的近亲属说明，并取得其书面同意。<br/><div class="contheight"></div>全国人大宪法和法律委员会副主任委员沈春耀在作草案修改情况汇报时表示，有的部门和社会公众提出，“不宜向患者说明”是否包括“不能向患者说明”的情形不清楚，在实践中常引发争议，应予以明确。<br/><div class="contheight"></div>宪法和法律委员会经研究认为，在患者昏迷或者由于生理、精神状态无法作出有效判断时，属于“不能”向患者说明的情形。<br/><div class="contheight"></div>据此，建议将规定中的“不宜向患者说明”修改为“不能或者不宜向患者说明”。<br/><div class="contheight"></div>另一方面是关于患者隐私和个人信息的保护问题。草案第一千零一条规定，医疗机构及其医务人员泄露患者隐私和个人信息或者未经患者同意公开其病历资料，造成患者损害的，应当承担侵权责任。<br/><div class="contheight"></div>有的常委会委员提出，医疗机构及其医务人员泄露患者隐私和个人信息，或者擅自公开患者病历资料，是一种较为严重的侵权行为，有可能对患者的生活、工作和学习造成重大影响，法律应当明确规定，无论该行为对患者是否造成损害，医疗机构及其医务人员都应当承担侵权责任。 <br/><div class="contheight"></div>宪法和法律委员会经研究，建议采纳上述意见，删去该条规定中的“造成患者损害”。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：胥辉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 患者 隐私 责任</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766519">
+<div class="nbgbox">
+<a class="zan" contid="2766519" href="javascript:;" onclick="voteCont(this)" praisetimes="14">
+                           13</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 泄露隐私</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766519&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766519&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

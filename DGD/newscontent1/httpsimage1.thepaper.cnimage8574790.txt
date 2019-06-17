@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">《乘着高铁游中国》项目浙江省首站启动暨诸暨微记录片首发</h1>
+<div class="news_about">
+<p>刘玉侠</p>
+<p>
+							2018-07-01 09:54<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>今后去浙江诸暨旅游的朋友如果选择乘高铁出行，可以在高铁上先一睹诸暨的美景、美食介绍，温习一下诸暨“旅游宝典”。</u><br/><div class="contheight"></div>6月30日上午，以“乘高铁、寻西施、游诸暨”为主题的《乘着高铁游中国》——浙江省首站启动暨诸暨旅游微纪录片首发仪式，在上海虹桥站站内举行。诸暨市人民政府副市长林成高，诸暨市旅游集团总理徐林焕、副总经理姚东海、上海铁路文广公司副总经理沈鹏、上海铁路国际旅游集团副总经理李莉以及高和传媒董事长李俊香出席活动，共同宣布《乘着高铁游中国》—浙江省诸暨市首站成功启动。 <br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/8/574/786.jpg" width="600"/></div>当天仪式启动后，由上铁国旅组织的百人旅行团乘坐G7325虹桥出发直达诸暨，感受高铁带来的旅游便捷。列车上乘客们通过高铁列车电视播放的诸暨旅游微纪录片，了解诸暨的美人、美景、美食、美物。纪录片展现了有故里风情的西施故里旅游区、有神州独有五级瀑布的国家4A景区五泄风景区、钱塘江流域保存相对完好的白塔湖国家湿地公园、国家级香榧森林公园、东白湖生态旅游区以及斗岩大佛等众多知名景点。还有以香榧、同山烧、西施豆腐为代表的当地美食。<br/><div class="contheight"></div>车厢内诸暨市旅游集团导游还准备了歌唱表演、诸暨旅游小知识有奖竞猜、抽奖等环节，奖品有“西施十美”旅游产品、旅游护照等；诸暨旅游集团总经理徐林焕亲自与获奖乘客互动，乘客们热情参与。<br/><div class="contheight"></div>中国旅游资源丰富，而高铁作为交通现代化的重要标志，不仅拉近了地域间的时空距离，也给人们的旅游出行提供了便捷。《乘着高铁游中国》微纪录片，就是将高铁出行和游历中国相结合，展示中国丰富的旅游资源及城市的形象。<br/><div class="contheight"></div>《乘着高铁游中国》微纪录片由中国旅行社协会铁道旅游分会、上海铁路文化广告发展有限公司、上海铁路国际旅游集团有限公司联手打造，涉及23个省，2个自治区、4个直辖市共计60集。<br/><div class="contheight"></div>和一般自然旅游类风光纪录片不同的是，《乘着高铁游中国》微纪录片以主持人旅游体验出发，通过规划科学路线，展示城市的自然生态、历史文化、民宿体验、休闲度假、养生保健、高铁美食、城市品牌特色等方面，全方位展现城市风情，发现未曾留意的美丽与温情，也为游客提供独具特色的高铁旅行指南宝典，为当地城市留下珍贵的视频档案资料。<br/><div class="contheight"></div>《乘着高铁游中国》微纪录片第一季选了十个TOP合作省市，涉及城市主要有：山西、河南、河北、江苏、浙江、安徽、湖北、陕西、江西、贵州。首站选在了“中国铁路之父”詹天佑的故乡———江西省，沿着沪昆高铁线的上饶、南昌、宜春等市探寻城市之美。<br/><div class="contheight"></div>据介绍，《乘着高铁游中国》微纪录片第一季中涉及的城市，除了已经完成拍摄的部分城市外，其余城市的拍摄工作目前正在同步进行。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李淑平<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2230174">
+<div class="nbgbox">
+<a class="zan" contid="2230174" href="javascript:;" onclick="voteCont(this)" praisetimes="10">
+                           9</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 高铁</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2230174&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2230174&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

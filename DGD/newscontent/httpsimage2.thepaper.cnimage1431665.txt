@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">海口市教育局回应“教师职称评审质疑”：不存在造假情况</h1>
+<div class="news_about">
+<p>林文星/海南特区报</p>
+<p>
+							2019-01-08 12:19<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日，有海口市民在网上留言反映称，2018年海口市一级教师职称评审过程中，几名借调到各区教育局工作的教师，没有教学一线任教的工作量，但也通过了评审，怀疑存在评审造假问题。对此，海口市教育局公开回复表示，调到各区教育局工作的教师皆属于挂职人员，按照相关规定，挂职人员挂职期间的课时量按标准周授课时数计算，因此具有参评资格，不存在教师职称评审造假的情况。<br/><div class="contheight"></div>据反映该问题的网友介绍，按照《海南省中小学教师职称制度改革评价标准条件》，申报一级教师职称评审的教师，需要在教学一线任教，并完成规定的教学工作量。但在2018年海口市一级教师职称评审过程中，有几名借调到各区教育局工作的教师，没有在教学一线任教，也通过了评审，怀疑可能存在评审造假问题。<br/><div class="contheight"></div>对此，海口市教育局公开回复称，目前调到各区教育局工作的教师皆属于挂职人员。根据海南省教育厅、海南省人力资源和社会保障厅2018年6月22日印发的《关于做好2018年度全省教师系列专业技术资格评审工作的通知》第（五）条“关于职称外语、计算机、班主任情况和周授课时数”中明确规定：“参评教师近3年内经组织人事处或教育行政部门批准参加脱产培训、挂职期间或法定产假期间，课时量按标准周授课时数计算。”因此，挂职人员是有参评资格的，不存在教师职称评审造假的情况。<br/><div class="contheight"></div>（原题为：《网友：数名教师职称评审疑造假》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 教师职称,海口,造假,挂职</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2826920">
+<div class="nbgbox">
+<a class="zan" contid="2826920" href="javascript:;" onclick="voteCont(this)" praisetimes="10">
+                           9</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 职称</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2826920&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2826920&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

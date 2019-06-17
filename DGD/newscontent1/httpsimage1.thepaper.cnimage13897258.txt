@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">昆达士航空膺全球最安全航空公司，连续五年获此殊荣</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-04 19:46<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">澳大利亚昆达士航空（Qantas）获评选为全球最安全航空公司，这是该航空公司第五次位居榜首。<br/><div class="contheight"></div>据新加坡亚洲新闻频道4日报道，全球知名航空专业测评网站AirlineRatings.com3日公布2019年全球航空公司安全排行榜。该网站监察全球405间航空公司，进行安全评级。安全评级的标准包括航空管理、行业机构审计、坠机和严重行业记录、公司盈利能力、安全措施和机队年龄等。<br/><div class="contheight"></div>网站总编杰弗里·托马斯表示，昆达士航空以它在安全创新领域的领先能力拔得头筹。该航空公司一直走在技术前沿，例如研发和使用空中导航系统和用于监控飞机和机组人员表现的飞行数据记录器。<br/><div class="contheight"></div>全球20大最安全航空公司还包括：新西兰航空公司、阿拉斯加航空公司、全日空航空公司、美国航空公司、奥地利航空公司、英国航空公司、国泰航空公司、阿联酋航空公司、长荣航空公司、芬兰航空公司、夏威夷航空公司、荷兰皇家航空公司、汉莎航空公司、澳洲航空公司、卡塔尔航空公司、斯堪的纳维亚航空系统、新加坡航空公司、瑞士航空公司、联合航空公司，以及维珍航空集团。<br/><div class="contheight"></div>阿富汗阿里亚纳航空、苏里南蓝翼航空、阿富汗卡姆航空和印度尼西亚崔格那航空则位居榜单末尾。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙语双<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 航空公司,安全</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2813643">
+<div class="nbgbox">
+<a class="zan" contid="2813643" href="javascript:;" onclick="voteCont(this)" praisetimes="100">
+                           99</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 飞机安全</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2813643&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2813643&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

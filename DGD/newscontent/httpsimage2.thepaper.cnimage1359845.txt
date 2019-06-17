@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25444">社论</a>
+</div>
+<h1 class="news_title">【社论】搜索引擎业不能继续在“泥坑”里折腾</h1>
+<div class="news_about">
+<p></p>
+<p>
+							2018-12-10 17:58<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="250" src="http://image.thepaper.cn/www/image/13/59/413.jpg" width="600"/></div>百度又一次陷入了舆论漩涡当中。<br/><div class="contheight"></div>前几天，复旦大学教授严锋在百度搜索“土耳其签证”时，在排名最靠前的网站“土耳其签证中心”办理了签证，花费129美元。后来他发现这根本不是“官网”，而土耳其签证官网仅收费61美元，根本用不着第三方代办。然后有记者用“意大利　签证”、“西班牙　签证”在百度上搜索，结果正经的签证中心网站都排在差不多第四第五位的位置，前面无一例外都是广告！<br/><div class="contheight"></div>签证花冤枉钱还算是小事，但性命交关的医院、疾病搜索上，百度的搜索布满了雷。就有患者反映，上海复大医院因为利用百度排名冒充“上海复旦大学附属医院”，引诱患者前往就医，小病大治骗取钱财。上海市卫生计生监督机构再次约见百度相关负责人，了解百度搜索整改情况。<br/><div class="contheight"></div>百度利用付费的搜索结果给消费者挖坑，也不是一年两年了，但是总是被吐槽、总是被行政处罚，但“病”一直没有好过。<br/><div class="contheight"></div>2016年的魏则西事件曾让百度的公信力跌入冰点，20岁患绝症的魏则西，被百度误导到了一家医院的“外包科室”，被榨干最后一滴油水，遗恨离世。之后，原国家工商总局还专门出台《互联网广告管理暂行办法》，明确互联网付费搜索不是“网络服务”，属于广告业务，百度这根电线杆子也受《广告法》的监督。<br/><div class="contheight"></div>的确，百度也有一定的改善，比如付费搜索结果也标上了“广告”，但小到普通人都很难注意，连复旦的教授都要掉进坑里。到底是消费者太不仔细，还是百度雷埋得太深了呢？<br/><div class="contheight"></div>久病不改的原因，还在于外部的处罚太轻、百度内部缺乏新的业务拓展。<br/><div class="contheight"></div>首先，《广告法》缺乏对搜索排名的直接处罚条款，从之前的“魏则西事件”到这次“签证门”“复大医院”，最终的处理结果往往是相关部门要求整改，百度打一枪换一个地方，毕竟民营医院、“李鬼网站”的业务诱惑太大，而违规的成本太低。<br/><div class="contheight"></div>其次，百度高度依赖于搜索业务，而搜索业务又高度依赖于竞价排名，这样百度就从一个相对公正的互联网指路者，变成了赤裸裸的广告推送者，甚至不惜违背基本的诚信原则，<br/><div class="contheight"></div>几年前，阿里平台不让百度搜索引擎抓取其商品页面，而腾讯旗下的微信生态系统也不容百度的染指，导致百度完美错过了电商红利、社交时代，没有通过提供个性化的电商广告服务实现产业升级，停滞在了低端搜索业务中。<br/><div class="contheight"></div>当然，给钱就放在搜索第一位、广告标志不明显的问题，也不止于百度一家，360、必应等搜索引擎也存在类似问题。但是这不是搞比烂思维，而是说中国搜索引擎业不能继续在泥坑里面折腾，不能再给消费者挖雷，该及时吃药转型了。相关立法也应该及时跟上，提高搜索引擎的违法成本，才能把这个社会病灶彻底剜除。<br/><div class="contheight"></div>2016年时，习总书记在网络安全和信息化工作座谈会上，明确表示“做搜索的不能仅以给钱的多少作为排位的标准”。这句话，相关企业要听进去。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 百度 付费搜索结果 上海复大医院</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2724105">
+<div class="nbgbox">
+<a class="zan" contid="2724105" href="javascript:;" onclick="voteCont(this)" praisetimes="465">
+                           464</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 百度</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2724105&caid=25444",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2724105&amp;caid=25444" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（144）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

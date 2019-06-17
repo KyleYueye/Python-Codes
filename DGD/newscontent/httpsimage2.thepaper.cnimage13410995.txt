@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">新华时评：关注民生顺应民意是个税改革的基础 </h1>
+<div class="news_about">
+<p>韩洁 申铖/新华社</p>
+<p>
+							2018-12-22 22:08<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2764397" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">国务院印发《个人所得税专项附加扣除暂行办法》</span></a></img></p></div>
+<div class="news_txt" data-size="standard">新华社北京12月22日消息，历经多轮广泛征求意见后，12月22日，国务院发布《个人所得税专项附加扣除暂行办法》。将随新个税法于明年1月1日起实施的这一新规，是新一轮个税改革最受关注的一环，在释放个税“个性化”减税利好的同时，标志着我国个税制度改革迈出从分类转向综合征税的关键一步。<br/><div class="contheight"></div>个税专项附加扣除，简单说就是纳税人计算个税应缴纳税额，在扣除5000元“起征点”和“三险一金”等专项扣除后，还可以扣除教育子女、在职深造、治疗大病、买房租房、赡养老人等部分相关费用。这一新规顺应民意，考虑了个人负担的差异性，更有利于税制公平。<br/><div class="contheight"></div>个税改革迈出关键一步来之不易。个税法自1980年出台以来历经7次大修。与前几次相比，今年8月底完成的第七次大修堪称“个税制度的一次根本性改革”。除了对部分所得实行综合征税、优化调整税率结构、将“起征点”从每月3500元提高至5000元以外，一大亮点就是首次增设专项附加扣除。<br/><div class="contheight"></div>个税改革迈好关键一步更不易。国务院明确了个税6项专项附加扣除——子女教育、继续教育、大病医疗、住房贷款利息或住房租金、赡养老人等支出具体扣除的范围和标准，都关乎百姓切身利益。办法的出台充分听取民意、集纳民意、体现民意。制订办法前，财税部门首先通过实地调研、与各界人士座谈等方式掌握一手情况，随后向全社会公开征求意见。最终办法吸收大量民意，做出不少调整。例如，将大病医疗个人负担能扣除的最高限额从6万元提高到8万元，并可以由夫妻任何一方抵扣，考虑了病患家庭负担。<br/><div class="contheight"></div>迈好个税改革关键一步，关键在落实。中央经济工作会议明确提出，要落实好个人所得税专项附加扣除政策。对税务机关、扣缴义务人和纳税人来讲，专项附加扣除都是新事物。新法新规实施在即，尽早出台相关操作文件、全面开展政策培训，梳理扣除流程让纳税人“少跑路”……政策越细致、考虑越周全，后期实施过程中出现的问题就越少。<br/><div class="contheight"></div>进一步优化个税改革关键一步，落脚点在于关注民生顺应民意。对于缴纳个税，每个人都有各自诉求，受征管配套条件等方面的限制，新规不可能令人人满意。下一步还要根据纳税人诉求及征管配套条件的成熟程度不断完善，始终从满足纳税人合理诉求出发，在完善政策深化改革中更好回应民众期盼，从而让更公平的税制助推中国经济行稳致远。<br/><div class="contheight"></div>（原题为《关注民生顺应民意是个税改革的基础》）</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 个税改革,专项附加扣除</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2764638">
+<div class="nbgbox">
+<a class="zan" contid="2764638" href="javascript:;" onclick="voteCont(this)" praisetimes="50">
+                           49</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 个税改革</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2764638&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2764638&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

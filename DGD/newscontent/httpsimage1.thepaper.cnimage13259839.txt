@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">沙特抗议美国参议院就卡舒吉案的表态，谴责其“干涉内政” </h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-17 19:32<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">沙特谴责美国国会参议院的一项决议“含有对王国内政的明显干涉”，后者于上周四指责沙特王储穆罕默德·本·萨勒曼下令谋杀沙特记者贾马尔·卡舒吉（Jamal Khashoggi），并敦促白宫结束对沙特主导的也门战争的军事支持。<br/><div class="contheight"></div>17日，沙特政府官方通讯社沙通社（SPA）刊登了沙特外交部发表的声明全文，声明强调，“沙特阿拉伯王国拒绝接受美国参议院近日表达的立场，该立场建立在未经证实的指控之上，美国参议院公然干涉王国内政，破坏了王国在地区和国际舞台上发挥的作用。”<br/><div class="contheight"></div>“王国希望不要将（对卡舒吉遇害的讨论）纳入美国国内的政治辩论，以避免对两国重要的战略关系产生任何可能的重大消极影响。”沙特外交部的声明指出。<br/><div class="contheight"></div>上周四，美国国会参议院指责沙特王储应对谋杀卡舒吉一事负责，并敦促沙特政府“确保适当的问责制”。此外，参议院还通过了一项单独议案，决定美国停止对沙特领导下的也门战争提供援助。该议案将被送交美国国会众议院审议，若审议通过则需总统特朗普签字生效。<br/><div class="contheight"></div>特朗普上月20日曾发表一份副标题为“美国优先”的声明，称其不会因卡舒吉遇害一事对沙特或该国王储采取强硬措施，沙特和美国的同盟关系不会改变。“沙特是一个很棒的盟友”，特朗普强调。<br/><div class="contheight"></div>沙特记者卡舒吉生前曾为《华盛顿邮报》等多家媒体撰稿，10月2日进入沙特驻伊斯坦布尔领事馆获取结婚所需文件后神秘失踪，后被证实遭遇谋杀。沙特官方已承认卡舒吉被谋杀，并已将实施谋杀的沙特籍凶手定罪，但拒绝承认是沙特王储下达的谋杀指令。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：汪伦宇<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 沙特 美国 卡舒吉</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2747025">
+<div class="nbgbox">
+<a class="zan" contid="2747025" href="javascript:;" onclick="voteCont(this)" praisetimes="39">
+                           38</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 卡舒吉案</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2747025&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2747025&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

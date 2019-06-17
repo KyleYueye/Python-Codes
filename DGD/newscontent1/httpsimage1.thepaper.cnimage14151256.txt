@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=34333">山东高法</a>
+</div>
+<h1 class="news_title">法治课丨支付宝和微信交易记录能作借款凭证吗？</h1>
+<div class="news_about">
+<p>山东高法</p>
+<p>
+                            2019-01-11 08:01<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="782" src="http://image.thepaper.cn/www/image/14/151/257.jpg" width="600"/></div>由于移动互联网的兴起，在买卖、交易、借贷中许多人会使用第三方支付平台实现，例如微信或支付宝扫码转账。但是第三方支付平台毕竟是虚拟的网络数据，能够当证据使用吗？如果有人借钱是通过支付宝转账来实现的，那么如果债主因为他人欠钱不还去起诉，支付宝交易记录能不能作为借款凭证？<br/><div class="contheight"></div>有网友咨询：一年前，我的闺蜜由于她老公公司周转不行，便问我借了7万，当是我没那么多现金在手，也懒得去银行取给她，便用支付宝把7万元转给她了。当初觉得双方都那么多年朋友了，她家家境还是不错的，于是我也就没想过写什么欠条、借条那些，就口头约定一个月就还回来。但是现在她老公的公司快要倒闭了，我一直催她还钱，她一直躲着我不见。<br/><div class="contheight"></div><strong>我打算去起诉她，要求她快点还我钱，但是我没有借条或者欠条，请问我能够把支付宝交易记录作为我们双方的借款凭证吗？</strong><br/><div class="contheight"></div>债主可以以对方逾期未还所欠债款为由，从而向法院起诉。根据《最高人民法院关于审理民间借贷案件适用法律若干问题的规定》，出借人提起民间借贷诉讼时，需要就借贷关系的成立承担举证证明责任。<br/><div class="contheight"></div>因此债主为了使借款人还钱向人民法院起诉时，应当提供欠条、收据、借条等债权凭证、银行或者其他有效的转账记录、双方的聊天记录或者证人证言等其他能够证明借贷法律关系存在的证据。因此，出借人可以将微信聊天记录和支付宝交易明细作为证据向法院举示。<br/><div class="contheight"></div><strong>通过第三方支付平台进行的借款行为，债主对于聊天记录和转账记录可以通过以下方式使之有效：</strong><br/><div class="contheight"></div>1、聊天记录：由公证处公正好的网络聊天记录的截屏打印件。因为微信和支付宝有删除部分对话的功能，所以公证处也只能证明对方说过某些话，并不能证明对话的完备性。<br/><div class="contheight"></div>2、转账记录：可以证明确实把钱转账给对方的网络转账记录打印件。<br/><div class="contheight"></div>特别提醒：由于微信和支付宝都可以用化名，所绑定的电话也会被隐去几位，单凭截图不易证明交易双方的身份。并且，电子凭证很容易被篡改，所以电子证据在中国只作为辅助证据，不能作为主要的定案依据。<br/><div class="contheight"></div>一般来说，通过表面借贷双方的身份信息、借款的缘由，借款金额、约定利息、还款期限等，才能证明借贷关系的确存在。但是现在如果出借人举证范围有聊天记录和转账凭证，可以将微信聊天记录和支付宝交易明细作为证据向法院举示。<br/><div class="contheight"></div>来源：民商事实务<br/><div class="contheight"></div></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2839979">
+<div class="nbgbox ">
+<a class="zan" contid="2839979" href="javascript:;" onclick="voteCont(this)" praisetimes="146">
+                                    145</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

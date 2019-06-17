@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">阿里打假联盟近半年协助警方打假抓获620人，涉案超28亿</h1>
+<div class="news_about">
+<p>澎湃新闻记者 庄岸</p>
+<p>
+							2018-09-14 20:40<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">9月14日，曾建议“像治理酒驾一样治理假货”的阿里巴巴集团，公布了阿里打假联盟（AACA）近半年的打假成果：联盟成员共同向全国公安机关推送近200条制售假线索，捣毁214个涉假窝点，抓获620名犯罪嫌疑人，涉案金额28.8亿元。<br/><div class="contheight"></div>阿里介绍，该联盟与31省行政执法机构签订打假合作备忘录、搭建快速处置知产投诉的“知产快车道”。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/10/465/494.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">中国日报网 图<br/><div class="contheight"></div></span>9月14日，在阿里打假联盟秋季会议上，公安部经侦局副局长张景利发言说，公安机关、阿里打假联盟和权利人有着共同的目标和追求，“AACA既是公安服务对象，也是合作伙伴。”<br/><div class="contheight"></div>阿里打假联盟成立于2017年1月，旨在联合品牌权利人、电商平台、执法机关共同打假，目前成员包括苹果、微软、茅台等百余品牌。<br/><div class="contheight"></div>据阿里集团当时发布的《联合公报》约定，阿里作为联盟发起方将为成员提供共建平台申请使用权、线下线索举报入口和线下案件情况咨询等，也要求成员跳出自身利益，就知识产权保护和打假展开经验分享、公众教育、社会宣传等工作。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：马世鹏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 阿里巴巴 打假联盟</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2442035">
+<div class="nbgbox">
+<a class="zan" contid="2442035" href="javascript:;" onclick="voteCont(this)" praisetimes="46">
+                           45</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 阿里打假</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2442035&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2442035&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

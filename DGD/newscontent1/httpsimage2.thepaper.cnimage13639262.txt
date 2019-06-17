@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">广东：律师调查令制度正式施行</h1>
+<div class="news_about">
+<p>广东省高级人民法院微信公众号</p>
+<p>
+							2018-12-28 20:12<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据广东省高级人民法院微信公众号12月28日报道，今后，当事人收集证据主张合法权益将更加容易。广东省高级人民法院、省司法厅今天正式印发《关于在民事诉讼中实行律师调查令的规定（试行）》（以下简称《规定》），<strong>在民事诉讼的起诉、审理、执行阶段，经人民法院批准，律师可持调查令向有关单位和个人收集证据。</strong><br/><div class="contheight"></div>律师调查令是什么？<br/><div class="contheight"></div>律师调查令是指在民事诉讼程序中，当事人及其代理律师因客观原因不能自行收集证据时，经代理律师申请，由受理案件的人民法院批准，由指定代理律师向接受调查的单位、组织或个人调查收集相关证据的法律文件。<br/><div class="contheight"></div>《规定》全文做了哪些明确规定？<br/><div class="contheight"></div>《规定》全文共十六条，对律师调查令的适用范围、申请程序、审核签发、使用管理及法律责任等方面内容作出明确规定。<br/><div class="contheight"></div>《规定》明确，律师调查令仅适用于民事诉讼的起诉、审理、执行阶段，其中，审理阶段包括一审普通程序和二审程序。<br/><div class="contheight"></div>《规定》明确，包括由接受调查人保管并与案件事实直接相关的书证、电子数据、视听资料、鉴定意见和勘验笔录等，获得的证据及信息仅限于本案诉讼使用。<br/><div class="contheight"></div>《规定》同时规定，律师调查令有效期限最长不得超过十五日，期限届满后自动失效，因正当理由不能在期限内完成调查的，可申请延长期限一次。<br/><div class="contheight"></div>此外，针对接受调查人、有协助调查义务的单位及公职人员不配合律师调查令接受调查，持令律师滥用调查令等情形，《规定》还强调将依法追究相关人员、单位的法律责任，保障律师调查令的强制力和拘束力。<br/><div class="contheight"></div>据了解，广东省是全国较早开展律师调查令改革探索的省份之一。深圳宝安区法院于2013年4月在全省率先实行律师调查令制度，广州中院、惠州中院等2个中级人民法院及广州南沙自贸区法院、佛山顺德区法院、深圳南山区法院等14个基层法院均出台律师调查令改革文件。<br/><div class="contheight"></div>（原题为《律师调查令制度在粤正式施行》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 广东,律师调查令制度</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2788894">
+<div class="nbgbox">
+<a class="zan" contid="2788894" href="javascript:;" onclick="voteCont(this)" praisetimes="73">
+                           72</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 律师调查令</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2788894&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2788894&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

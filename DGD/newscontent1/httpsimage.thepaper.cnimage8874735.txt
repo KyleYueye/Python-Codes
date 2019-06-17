@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜粉丝“机闹”要治，泄露行程的地下产业链也要打</h1>
+<div class="news_about">
+<p>澎湃特约评论员 熊志</p>
+<p>
+							2018-07-14 22:17<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2264137" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜粉丝“机闹”要治，泄露行程的地下产业链也要打" src="//image2.thepaper.cn/image/8/868/221.jpg"/>
+</a>
+<div class="atlas_360_txt">民航局加强管理粉丝接送机现象：严重扰乱秩序或被限乘<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">据央视新闻报道，去年首都机场T3航站楼有记录的粉丝警情达20起，规模都在50人以上。曾有20多名粉丝为近距离接触偶像，买机票上机，还堵在登机口，迫使航班延误超两小时。近日民航局发布通知，将严格内部人员管理，防止泄露旅客行程信息、强化机场秩序维护、杜绝粉丝机上扰乱秩序行为。<br/><div class="contheight"></div>有幸在机场目睹过几次粉丝追星，那种几十号人小跑、穿行、尖叫的场面，多数人看了都会感到反感，但粉丝们却乐在其中，不顾公共秩序只为一睹爱豆真容。而且，随着消费能力的提升，舍得砸钱的粉丝，不再满足于在登机口或出站口迎来送往，像新闻提到20多名粉丝买票跟飞围堵明星事件，就发生在今年5月的国航航班上，直接影响了航班正常飞行。<br/><div class="contheight"></div>粉丝追星本是个人自由，但围堵登机口、冲撞安检通道，这种行为已经与“机闹”无异。按照《治安管理处罚法》，“扰乱车站、港口、码头、机场、商场、公园、展览馆或者其他公共场所秩序的”，可以处以警告或者罚款，情节较重的还会拘留。<br/><div class="contheight"></div>但现实中，无视公共秩序的极端追星粉，很少受到零容忍的惩罚，上次粉丝大闹机场导致航班延误，也未见有处罚的下文。再者，哪怕罚款、警告，经济代价也算不上多大。<br/><div class="contheight"></div>对一些明星经纪公司而言，粉丝疯狂追星的场面，他们也喜闻乐见，有些经纪公司还会将明星行程透露给后援组织，安排粉丝接机，制造话题效应。比如在微博热搜上，我们经常可以看到类似机场偶遇明星的话题，这成了一种各取所需的粉丝经济形式。但在明星和粉丝相互绑定消费同时，粉丝的不理智举动，也会影响整个社会对于明星的观感和风评。<br/><div class="contheight"></div>当然，除了经纪公司主动泄露外，粉丝能够掌握明星行程，还一个重要原因是信息泄露。很多媒体都报道过明星行程信息倒卖的地下产业链，花几十元就可以买到明星的航班信息。而这些倒卖群散布在QQ、微信等社交媒体平台上，甚至一度在网上公开叫卖。<br/><div class="contheight"></div>很多影响力大、不需要炒作的明星，为了避免骚扰，行程都会尽可能保密，但信息泄露给了追星粉可趁之机。有民航业内人士提到，能接触到旅客个人信息的，只有航空公司、意外或延误险的保险公司、票务代理机构、民航管理部门以及民航信息网络公司五大部门。明星不公开行程的前提下，粉丝围堵机场，往往是内部人充当了信息倒卖“内鬼”的结果。<br/><div class="contheight"></div>明星行程泄露，其实间接说明整个航空系统的信息安全存在很大问题。对普通人来说，虽然不会像明星那样被骚扰，但隐私泄露的危害不言而喻。还得从上游对信息安全从严把关，管好“内部人”，严控所有掌握旅客信息的平台，摧毁倒卖源头。<br/><div class="contheight"></div>为了规范航空秩序，避免机闹，今年5月民航管理部门曾下发《关于在一定期限内适当限制特定严重失信人乘坐民用航空器推动社会信用体系建设的意见》，对堵塞、强占、冲击值机柜台、安检通道、登机（通道）等行为，采取限乘的黑名单制度。制度成效如何，还得看后期执行。基于维护公共秩序考虑，黑名单制度必须严格执行，有零容忍的惩戒效力。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：黎凡<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 粉丝,追机</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2264814">
+<div class="nbgbox">
+<a class="zan" contid="2264814" href="javascript:;" onclick="voteCont(this)" praisetimes="34">
+                           33</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 追机</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2264814&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2264814&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（53）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

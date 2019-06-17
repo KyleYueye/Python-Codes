@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国多地遭遇强降雪天气，数千架航班取消或延误</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2018-12-28 10:54<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据中新网12月28日援引外媒报道，美国多地日前遭遇强降雪天气，暴风雪已经导致数千航班取消或延误，并致使飞经达拉斯地区的一架商用客机的乘客和机组人员受伤。天气预报员27日表示，一些州可能还会迎来近1英尺(约30厘米)的降雪。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="363" src="http://image.thepaper.cn/www/image/13/620/915.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">因暴雪临时取消多次航班的奥黑尔国际机场。视觉中国 图<br/><div class="contheight"></div></span>据报道，全美气象服务气象学家马克•齐纳德(Marc Chenard)表示，美国中西部和东南部的部分地区正在遭遇第一波强降雪，预计中部地区周末会出现降雨。齐纳德称，在那些发布了气象和暴风雪预警的地区，旅行将非常困难。<br/><div class="contheight"></div>美国航空在一份声明中表示，梅萨航空公司(Mesa Airlines)经营的一架American Eagle航班，在达拉斯-沃斯堡上空遭遇气流，造成一名乘客和一名空乘的膝盖和背部疼痛。<br/><div class="contheight"></div>全美气象服务发布中西部冬季风暴和暴风雪预警，包括堪萨斯州、内布拉斯加州、北达科他州、南达科他州和明尼苏达州的部分地区。<br/><div class="contheight"></div>从26日晚间开始出现的这场暴风雪，已经导致1000多架航班取消，另外4200架航班延误。近400架飞往达拉斯-沃斯堡国际机场或从该机场起飞的航班被取消，还有数百架航班延误。<br/><div class="contheight"></div>齐纳德表示，这次风暴系统引发的强降雨和雷暴天气，使得美国东南部地区有山洪爆发的危险，包括得克萨斯州、路易斯安那州、密西西比州和阿拉巴马州的部分地区。<br/><div class="contheight"></div>（原标题 《美国多地遭遇强降雪天气 数千架航班取消或延误》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国天气</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2786842">
+<div class="nbgbox">
+<a class="zan" contid="2786842" href="javascript:;" onclick="voteCont(this)" praisetimes="21">
+                           20</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美国天气</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2786842&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2786842&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

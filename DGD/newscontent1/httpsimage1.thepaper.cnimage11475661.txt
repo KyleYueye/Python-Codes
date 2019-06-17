@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜的哥与人口角致死案，不追刑责也是为正义加分</h1>
+<div class="news_about">
+<p>澎湃特约评论员 杨宜桐</p>
+<p>
+							2018-10-20 11:29<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2546583" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜的哥与人口角致死案，不追刑责也是为正义加分" src="//image.thepaper.cn/image/11/467/284.jpg"/>
+</a>
+<div class="atlas_360_txt">官方通报“的哥与人口角致死案”：不构成犯罪，撤销批捕决定<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">今年6月27日，哈尔滨一摩托车司机与的哥起争执后，突发疾病倒地身亡。事发后，因涉嫌过失致人死亡，的哥滕某被刑拘和批捕，引起舆论热议。<br/><div class="contheight"></div>昨晚，哈尔滨市人民检察院通报：该院在对案件全面审查后，指令南岗区人民检察院撤销对滕某的批捕决定，同时建议公安机关撤销案件。通报称，滕某“在主观上没有罪过，客观上没有实施加害行为，不构成犯罪，依法不应予以逮捕”。<br/><div class="contheight"></div>此案之所以引来广泛关注，恐怕还是因为，此前办案机关的处理结果，与公众的普遍认知存在较大落差。一次再普通不过的街头争吵，既不是亲属，也不是朋友，谁能预见对方会心脏病突发死亡呢？如果这样的社会纠纷，也要被追究刑事责任，以后谁还敢与别人理论呢？<br/><div class="contheight"></div>况且，回看现场视频，在二人争吵过程中，对方气势汹汹、咄咄逼人，除了挥拳相向，还多次约架挑衅，滕某不仅没有还手理会，在对方出现发病倒下的紧急情况下，还主动提供了救助，这样的行为若真被追究刑责，显然有失妥当。<br/><div class="contheight"></div>从法律上讲，公众的这些质疑，并非毫无根据。所谓过失致人死亡，主观上应当是疏忽大意或过于自信，“应当避免却没有避免”“应当预见却没能预见”危害后果的发生。作为一个与对方平时毫无瓜葛的人，怎么知道对方有冠心病，又如何有效避免？如果知道了还争吵，这是有犯罪故意；如果属于不明情况下发生争吵，导致对方发病死亡，只能视为一起意外事件。<br/><div class="contheight"></div>从客观上看，的哥滕某也没有实施加害行为。正如检方所查明的，“滕下车后，二人虽有争吵，但在双方妻子的劝阻下，并没有发生直接的肢体接触”。不仅如此，在对方发病后，滕某所实施的主动救助行为，更证明了自己没有主观恶意，不存在社会危害。<br/><div class="contheight"></div>根据我国刑诉法，对于不应逮捕的犯罪嫌疑人，检察机关可以撤销原批捕决定；对于不应追究刑责的案件，侦查机关可以决定撤销案件。对于之前已被羁押的滕某，检方审查之后作出最新决定，不仅意味着滕某重获人身自由，将没有“入罪”之虞。不仅如此，作为公民救济手段，滕某还有根据《国家赔偿法》，就自己案发后被错误羁押，获得国家赔偿的权利。这样的处理结果，更能体现正义的底色。<br/><div class="contheight"></div>诚然，任何一个生命的不幸离去，都值得我们给予同情。视频中，摩托车司机发病后，妻子的抚身悲呼，着实让人揪心难忘。但是，是否启动刑事追责，还须保持谨慎理性，以事实为依据，以法律为准绳，作出更契合公众普遍认知的公正决定。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 的哥</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2547517">
+<div class="nbgbox">
+<a class="zan" contid="2547517" href="javascript:;" onclick="voteCont(this)" praisetimes="427">
+                           426</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 的哥</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2547517&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2547517&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（65）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

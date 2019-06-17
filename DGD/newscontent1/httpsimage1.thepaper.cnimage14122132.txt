@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">上海市政协务虚会上，李强谈创造性抓落实要把握这些点</h1>
+<div class="news_about">
+<p>澎湃讯</p>
+<p>
+							2019-01-10 18:52<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="293" src="http://image.thepaper.cn/www/image/14/121/748.jpg" width="600"/></div>上海市政协工作学习讨论会今天上午（1月10日）举行。市委书记李强在会上强调，<strong>全市上下要深入学习贯彻习近平总书记考察上海重要讲话精神，结合实际创造性地抓落实抓推进，工作要有兴奋点、落实要有发力点、经济要有增长点、发展要有新亮点。市政协要发挥智力密集、人才荟萃的优势，多为改革发展出实招谋良策，多为落实国家战略添砖加瓦，不断提高建言资政水平，为上海更好服务国家改革发展大局作出更大贡献。</strong><br/><div class="contheight"></div>市政协主席董云虎主持会议并讲话。市委副书记尹弘，市委常委郑钢淼、诸葛宇杰，市政协副主席方惠萍、赵雯、周汉民、王志雄、张恩迪、李逸平、徐逸波、金兴明出席会议。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/14/121/747.jpg" width="600"/></div>李强指出，2018年是新一届市政协开局之年。一年来，市政协强化党的领导，抓紧抓实理论学习和思想政治引领，主动服务大局，积极创新工作，形成了一批有分量、有价值的调研成果，为全市经济社会发展和民主政治建设作出了重要贡献。市委对市政协工作给予充分肯定。<br/><div class="contheight"></div>李强指出，习近平总书记考察上海重要讲话，为新时代上海发展指明了方向。<strong>我们要牢牢把握重大发展机遇，创造性地贯彻落实中央决策部署，创造性地谋划推进各项工作。工作要有兴奋点，</strong>只争朝夕、全力以赴落实中央交给上海的三项新的重大任务，持续办好中国国际进口博览会并放大溢出效应，在更高起点、更高层次上推进改革开放。<strong>落实要有发力点，</strong>找准各项工作突破口，精准发力，久久为功。要打通科技成果转化的“快车道”，用心用情解决好“老、小、旧、远”等难点痛点问题。对已经明确的任务、已经出台的政策，要抓牢不放、落到实处。<strong>经济要有增长点，</strong>紧紧围绕中央赋予上海的使命任务，着眼更好参与全球合作竞争，加大项目引进和落地力度，发挥投资带动效应，积极培育新的消费热点。<strong>发展要有新亮点，</strong>着力抓好集成电路、人工智能、生物医药等重点产业突破，持续用力优化营商环境和人才发展环境，做好做实城市精细化管理大文章。<br/><div class="contheight"></div>李强指出，<strong>当前，外部环境深刻变化，改革攻坚任务艰巨，尤其需要广泛听取各方面的声音，集中各方面的智慧。</strong>市政协要更好履行职能、发挥作用。要把牢方向，聚焦中央和市委决策部署，瞄准全局性、前瞻性、关键性的问题，深入开展调查研究，拿出更多有价值、有分量、有针对性的研究成果，建言建在需要时，议政议在点子上，监督监在关键处，<strong>为上海改革发展多提破解难题的高招、多讲反映真实情况的真话，</strong>帮助我们更好改进工作。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/14/121/749.jpg" width="600"/></div>董云虎指出，今年是市政协工作把握新使命、开创新业绩的重要一年，要在中共上海市委领导下，按照李强书记对政协工作的新希望新要求，紧紧围绕落实中央交给上海的三项新的重大任务和持续办好进博会，紧紧围绕贯彻落实市委决策部署，认真履职尽责，积极资政建言，广泛凝心聚力，为创造新时代上海改革开放新传奇、谱写高质量发展新篇章作出新贡献。<br/><div class="contheight"></div>市政协学习委、提案委、经济委、人资环建委、教科文卫体委、社法委、民宗委、文史委、港澳台侨委、对外友好委、地区政协联络指导组相关负责同志作交流发言。<br/><div class="contheight"></div><span style="color: rgb(128, 128, 128);">（本文图片 陈正宝 摄）</span></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 上海市政协,工作学习讨论会</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837255">
+<div class="nbgbox">
+<a class="zan" contid="2837255" href="javascript:;" onclick="voteCont(this)" praisetimes="51">
+                           50</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 上海政协</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837255&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837255&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

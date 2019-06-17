@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜孩子补课费成最大开支，这是最糟糕的家庭财务安排</h1>
+<div class="news_about">
+<p>澎湃特约评论员 然玉</p>
+<p>
+							2018-09-07 12:12<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2416248" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜孩子补课费成最大开支，这是最糟糕的家庭财务安排" src="//image1.thepaper.cn/image/10/226/701.jpg"/>
+</a>
+<div class="atlas_360_txt">辽宁人大调研发现：孩子补课费用成普通家庭最大支出<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">辽宁省人大开展的一项最新调研发现：高额的补课费用，成为普通市民家庭的最大支出。“补课已经成为一种社会风气，极少数不补课的孩子反倒成了另类。”在沈阳等城市，不少家庭用于孩子课外培训、补课的费用，高达5万元以上。<br/><div class="contheight"></div>校外补课泛滥，家长花费高企，这早就是人所尽知的事实，“孩子补课费用成普通家庭最大开支”，这样的结论却似乎还是第一次被提及。<br/><div class="contheight"></div>会不会有夸大？考虑到这是由辽宁省人大调研组所给出的官方说法，应该具备相当可信度。只不过，由于相关方面未对统计口径、抽样方法、样本数量等指标作出具体说明，所以公众还是不免有困惑。<br/><div class="contheight"></div>需要说明的是，辽宁省人大的此次调研属于“专题调研”，为的就是了解该省中小学生课外负担情况。那么，所谓“孩子补课费用成普通家庭最大支出”一说，更准确的表述或许应该是，“在子女正在上中小学的家庭里，补课费用已成最大开支。”厘清了这一限定性前提，上述结论就可以理解了。<br/><div class="contheight"></div>一般而言，在“房产-户籍-学位”三者深度捆绑的游戏规则下，大部分家有中小学生的家庭，名下基本都“有房”。这样的家庭，房贷因为贷得早、收入逐年增加，月供压力大多已经得到相当程度的缓解；家中老人的年纪相对还没有那么大，赡养支出尤其是医疗支出还较为有限……住房、教育、医疗等开支项中，以课外培训为主的教育支出成为大头，的确是可能的。<br/><div class="contheight"></div>但这更可能是一个值得警惕的信号。就算仅仅从家庭财务安排的角度来考量，“补课费用成最大开支”本身也是极其危险的。<br/><div class="contheight"></div>首先，此举大大滞阻了家庭的储蓄和投资行为，提前透支了未来的支付力，使得家庭防御风险的能力岌岌可危；再者，许多校外培训、补课行为本质上只是一种被裹挟的、情绪驱动的消费行为，并没有严谨的投入和效益的核算，如此不计后果、不顾预期的“砸钱”，其效率注定高不到哪去。<br/><div class="contheight"></div>在很多时候，给孩子补课，已成为许多家庭下意识的默认选项，好像唯有如此才能心安。“极少数不补课的孩子反倒成了另类”，这事实上说明，商业化补课服务的商品属性业已发生了根本性变化，也即从“消费品”变成了“必需品”。这场集体的“教育迷信”，诱导了一系列非必要的财务决策。<br/><div class="contheight"></div>常言道，“孩子的钱是最好挣的”，这无疑是在说，每当涉及孩子，家长们的经济理性就往往会趋于失效。真是可怜天下父母心。<br/><div class="contheight"></div>一切为了孩子，为了孩子的一切，道理都没错。只不过，父母勒紧裤腰带、一家人省吃俭用，大把大把的钱都让校外培训机构赚走了，真的理性吗？这场全民“教育抢跑”竞赛，又何时才是终点？</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：顾亚敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 补课</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2417364">
+<div class="nbgbox">
+<a class="zan" contid="2417364" href="javascript:;" onclick="voteCont(this)" praisetimes="122">
+                           121</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 补课费用</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2417364&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2417364&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（138）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

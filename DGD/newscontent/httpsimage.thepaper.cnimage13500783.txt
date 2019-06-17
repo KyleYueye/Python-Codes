@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25438">财经上下游</a>
+</div>
+<h1 class="news_title">市场监管总局：改革开放40年我国市场主体数量增长222倍</h1>
+<div class="news_about">
+<p>赵文君/新华社</p>
+<p>
+							2018-12-25 20:50<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社12月25日报道，国新办25日举行市场主体登记注册改革发展40年新闻发布会，国家市场监管总局副局长马正其在发布会上介绍，改革开放40年来，我国市场主体数量从改革开放初期的49万户，增长到2018年11月底的1.09亿户，增长了222倍。<br/><div class="contheight"></div>马正其说，商事制度改革释放了我国经济蕴藏着的巨大潜力，有力促进了营商环境优化。以个体私营经济为例，1978年全国个体经营者只有14万人，私营企业在允许登记后的1989年，总数不过9.05万户；随着市场准入环境的持续向好，截至今年11月底，全国登记的个体工商户达到7237.45万户、私营企业3105.37万户，分别增长了516倍和342倍。目前，个私企业占到全国市场主体的95%，贡献了50%以上的税收，60%以上的GDP，80%以上的城镇劳动就业，解决了近3.57亿人的就业问题。<br/><div class="contheight"></div>据统计，近年来，在新设立企业中，服务业企业大增，占到80%以上。特别是高新技术产业、新兴服务业、“互联网+”快速发展，为新常态下新旧动能转换提供了新的动力。截至11月底，第三产业占比达到77%。<br/><div class="contheight"></div>马正其介绍，今年4月，国家市场监管总局正式挂牌成立，将分散的市场监管机构职能进行整合，并被赋予“统一市场主体登记”的重要职责。下一步，将持续推进“放管服”改革，促进商事制度改革不断深化拓展，努力营造更加优质的营商环境。<br/><div class="contheight"></div>一是进一步深化涉企证照事项改革。2019年率先在自贸区实现所有涉企行政审批事项按照“证照分离”改革模式进行分类管理，实现全覆盖，进一步减少企业领取营业执照前后的行政审批事项。二是进一步便利市场准入与退出。压缩企业开办时间，确保明年上半年在全国全面实现“企业开办8.5天”的目标任务；进一步采取有效措施简化和完善市场退出机制，解决“退出难”问题。三是进一步强化事中事后监管。秉持包容审慎监管原则，完善“双随机、一公开”监管方式，切实做到把市场管活管优。<br/><div class="contheight"></div>（原题为《改革开放40年我国市场主体数量增长222倍》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 国新办,改革开放40年,市场主体数量</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2774163">
+<div class="nbgbox">
+<a class="zan" contid="2774163" href="javascript:;" onclick="voteCont(this)" praisetimes="11">
+                           10</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 改革开放40年</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2774163&caid=25438",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2774163&amp;caid=25438" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

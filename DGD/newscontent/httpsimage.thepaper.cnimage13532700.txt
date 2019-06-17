@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">年终纪念｜2018年，这些原中顾委委员离世</h1>
+<div class="news_about">
+<p>澎湃新闻记者 岳怀让 蒋子文</p>
+<p>
+							2018-12-26 21:02<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">元勋离世。<br/><div class="contheight"></div>2018年即将过去，在这一年里，我们送别了3名原中共中央顾问委员会（以下简称“中顾委”）委员。<br/><div class="contheight"></div>9月27日，澎湃新闻获悉，原国家二机部部长、河南省委原第一书记、“两弹一艇”元勋刘杰同志于9月23日在深圳逝世，享年104岁。<br/><div class="contheight"></div>9月13日，据《北京日报》官方微博@北京日报 消息称，北京日报记者从权威渠道获悉，原中顾委委员，原农牧渔业部部长、党组书记林乎加同志，因病于2018年9月13日在北京逝世，享年101岁。<br/><div class="contheight"></div>4月11日，澎湃新闻记者从李耀文将军亲友处获悉，原中顾委委员、开国少将、海军原政委李耀文将军因病医治无效，于2018年4月10日夜在北京逝世，享年100岁。<br/><div class="contheight"></div>其中，出生于1915年的刘杰生前是健在的原中顾委委员中最年长的一位。<br/><div class="contheight"></div>目前，健在的6名原中顾委委员分别是：李锐（1917年生，中组部原常务副部长）、万海峰（1920年生，原成都军区政委）、苏毅然（1918年生，山东省委原书记）、李力安（1920年生，黑龙江省委原书记）、袁宝华（1916年生，中国人民大学原校长）、焦若愚（1915年生，北京市原市长）。<br/><div class="contheight"></div>中顾委成立于1982年的十二大，到1992年十四大被撤销，共历时两届十年。<br/><div class="contheight"></div>1982年9月1日，中国共产党召开了第十二次全国代表大会。会上，选举产生了172名中央顾问委员会委员。当年9月13日的中顾委一次全会上，邓小平当选首届中顾委主任，薄一波、许世友、谭震林、李维汉当选为副主任。<br/><div class="contheight"></div>“从某种意义上说，顾问委员会是一种过渡性质的组织形式。我们的国家也好，党也好，最根本的应该是建立退休制度。”邓小平在1982年9月13日中央顾问委员会第一次全体会议上的讲话提到，“采取顾问委员会这种过渡的形式，比较合乎我们的实际情况，比较稳妥，比较顺当。”<br/><div class="contheight"></div>1987年11月10日，十三大选举产生了新一届中顾委。这次换届，退出31人，增补59人，共200名委员。第二届中顾委主任为陈云，薄一波、宋任穷任副主任。<br/><div class="contheight"></div>中顾委运行十年后，党的干部离休、退休制度全面建立并执行。1992年，十四大通过了关于中央顾问委员会工作报告的决议，不再设立中顾委。<br/><div class="contheight"></div>据统计，两届中顾委委员近300人，其中1982年至1987年有委员172人，1987年至1992年有委员200人。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中顾委,逝世</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2777936">
+<div class="nbgbox">
+<a class="zan" contid="2777936" href="javascript:;" onclick="voteCont(this)" praisetimes="41">
+                           40</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 年终纪念</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2777936&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2777936&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

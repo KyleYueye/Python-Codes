@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">俄印领导人举行电话会谈，普京再邀莫迪出席东方经济论坛</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-07 22:34<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">俄罗斯总统普京1月7日与印度总理莫迪举行了电话会谈。<br/><div class="contheight"></div>据克里姆林宫官网消息，在电话会谈中，普京邀请莫迪作为主宾出席将于2019年9月在符拉迪沃斯托克举办的东方经济论坛。<br/><div class="contheight"></div>消息称，俄印两国领导人在通话中确认了共同打击国际恐怖主义以及合作解决其他紧迫国际问题的意愿，双方同意继续保持各个层面的接触。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/14/20/696.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">当地时间2018年10月5日，印度新德里，印度总理莫迪与俄罗斯总统普京举行新闻发布会。 视觉中国 资料图</span><br/><div class="contheight"></div>这已是普京第三次邀请莫迪出席东方经济论坛。塔斯社2018年10月5日报道称，普京访印期间再次邀请莫迪作为主宾出席2019年的东方经济论坛。“我想再一次邀请您出席东方经济论坛，”普京对莫迪说道。至于普京何时首次向莫迪发出了邀请，目前尚无相关报道。<br/><div class="contheight"></div>普京访印期间还表示，俄印两国在维护全球秩序方面发挥着至关重要作用。在联合国、上海合作组织、金砖国家及二十国集团框架下，两国将积极协调立场，为在亚太地区形成新的安全架构开展平等合作。媒体报道称，莫迪当时接受了普京的邀请。<br/><div class="contheight"></div>首届东方经济论坛由普京2015年倡议举办，旨在扩大远东地区开放程度，吸引外国资本注入。新华社2018年9月报道称，该论坛在俄实施远东开发战略中扮演重要角色，并已逐渐成为亚太地区深化经济合作、探讨国际和地区问题的新平台。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘惠<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 普京,莫迪,东方经济论坛</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2825350">
+<div class="nbgbox">
+<a class="zan" contid="2825350" href="javascript:;" onclick="voteCont(this)" praisetimes="44">
+                           43</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 俄印关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2825350&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2825350&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

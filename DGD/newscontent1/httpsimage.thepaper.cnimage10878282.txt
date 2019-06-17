@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜倒吹葫芦丝只为“舞台效果”，令南郭先生汗颜</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-09-28 17:33<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="329" src="http://image.thepaper.cn/www/image/10/878/325.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">女演员倒吹葫芦丝 视频截图</span><br/><div class="contheight"></div>近日，黑龙江齐齐哈尔中秋晚会上，一女演员倒吹葫芦丝，而且表情十分投入。身边的一位男演员试图纠正其握姿，却被傲娇地拒绝了。相关视频在网上流传广泛，网友讥讽称是现实版滥竽充数。<br/><div class="contheight"></div>据媒体报道，这名女演员是晚会承办方齐市民族民间文化艺术交流协会的主席杨姝荣。她回应北京称，工作人员递倒了葫芦丝，发现错误后为保证舞台效果而未改正。<br/><div class="contheight"></div>如果说是为了舞台效果，那么这舞台效果确实实现了。一个地级市的晚会，产生了全国性的影响力。用她自己的话来说，“咱们的工作做得风生水起”。<br/><div class="contheight"></div>杨姝荣将这场风波归因于有人对她“羡慕嫉妒恨”，而进行“炒作”“陷害”“上纲上线”。然而不知出于什么考虑，齐齐哈尔市文联表示，暂停杨姝荣在文联组织的演出。<br/><div class="contheight"></div>为了舞台效果的说法到底可不可信呢？说实话，我不知道。按常理来说，如果真是滥竽充数，反而不该犯这种低级错误，否则就充不了数了。<br/><div class="contheight"></div>我们来复习一下原版滥竽充数的故事。齐宣王每次听吹竽都是300个乐师一起表演，所以南郭先生能够混迹其中不被发现。但是我想，他虽然不会吹，姿势总要学得像一点，齐宣王又不瞎。后来齐宣王死了，齐湣王继位，让乐师挨个进行独奏，所以南郭先生只能连夜逃走。<br/><div class="contheight"></div>我真正关心的不是杨姝荣究竟会不会吹葫芦丝，毕竟这个节目像许多节目一样都是假吹假唱，这一点她从一开始就心知肚明。重要的是，在假吹和倒拿葫芦丝曝光之后，她竟然如此坦然，不单不认错道歉，反而觉得自己是受害者。<br/><div class="contheight"></div>是什么样的环境培养了这么强悍的心理素质呢？这份“坦然”和“淡定”足以令南郭先生汗颜。南郭先生选择逃走真是弱爆了，他应该断然前往，乱吹一通，然后告诉齐王这就是最前沿最时尚的吹法，一切都是为了舞台效果。你说，齐王会不会信呢？</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 倒吹葫芦丝 作假</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2484603">
+<div class="nbgbox">
+<a class="zan" contid="2484603" href="javascript:;" onclick="voteCont(this)" praisetimes="463">
+                           462</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 倒吹葫芦丝</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2484603&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2484603&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（169）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

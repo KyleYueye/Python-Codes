@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">DG设计师疑INS上辱华，众艺人模特拒绝参加上海大秀</h1>
+<div class="news_about">
+<p>汪华 李淑平</p>
+<p>
+							2018-11-21 14:59<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>意大利奢侈品牌杜嘉班纳Dolce＆Gabbana（以下简称DG）上海大秀未秀先火。其上海大秀视频涉嫌“辱华”事件持续发酵，设计师疑似在INS上不满广告视频被指涉嫌辱华再发辱华字眼。虽然其后品牌官方称希账号被盗，但中国网友并不买账。本来受邀参加21日晚DG上海大秀的中国艺人、模特纷纷在社交媒体上发声表示拒绝出席活动。</u><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="740" src="http://image.thepaper.cn/www/image/12/450/818.jpg" width="600"/></div>此前为配合DG在11月21日举行的上海大秀，该品牌特别拍摄了一个把中国传统文化与意大利经典饮食相结合的广告宣传片，标题为“起筷吃饭”。不过，片中的旁白所用的“中式发音”、傲慢的语气以及中国模特用奇怪的姿势使用筷子吃Pizza、意大利式甜卷等片段被网友质疑存在歧视中国传统文化的嫌疑，在国内社交媒体引发广泛争议。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="695" src="http://image.thepaper.cn/www/image/12/450/821.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="1065" src="http://image.thepaper.cn/www/image/12/450/824.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="1067" src="http://image.thepaper.cn/www/image/12/450/822.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="976" src="http://image.thepaper.cn/www/image/12/450/919.jpg" width="600"/></div>两天前，DG联合创始人、设计师Stefano Gabbana在INS针对上述争议发声，其中不乏“中国人愚蠢”这样的辱骂字眼。随后Stefano Gabbana在INS上再次发声表示之前自己的账号被黑客盗号，发表不当言论的不是自己。21日下午，杜嘉班纳官方微博@DolceGabbana 回应此事称：Dolce&amp;Gabbana的官方Instagram账号和Stefano Gabbana的Instagram账号被盗，我们已经立即通过法律途径解决。我们为这些不实言论给中国和中国人民造成的影响和伤害道歉。我们对中国和中国文化始终一贯的热爱与尊重。 ​​​​但显然中国网友并不买账。而且还有人爆出与Stefano Gabbana的对话截图，针对别人的劝说对中国文化保持尊重，他给出“f**k you”的回答。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="469" src="http://image.thepaper.cn/www/image/12/450/920.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="789" src="http://image.thepaper.cn/www/image/12/451/473.jpg" width="600"/></div><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="276" src="http://image.thepaper.cn/www/image/12/450/846.jpg" width="600"/></div>该事件迅速从INS上发酵到中国社交媒体，微博、微信刷屏，到处都是网友指责DG辱华的声音。本来受邀参加当晚DG上海大秀的明星、模特纷纷发声表示拒绝出席活动，包括陈坤、黄晓明、陈学冬、海清等。DG中国区代言人王俊凯、迪丽热巴也通过工作室微博发声表示不参加大秀活动。包括章子怡等明星也在社交媒体上对此事怒怼。<br/><div class="contheight"></div>澎湃新闻随后联系DG亚太公关人士，未获答复。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈关哲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2656668">
+<div class="nbgbox">
+<a class="zan" contid="2656668" href="javascript:;" onclick="voteCont(this)" praisetimes="331">
+                           330</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 辱华</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2656668&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2656668&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（725）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜联合调查组进驻权健，要对得起沉甸甸的民意期待</h1>
+<div class="news_about">
+<p>澎湃特约评论员 于平</p>
+<p>
+							2018-12-28 13:42<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2786579" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜联合调查组进驻权健，要对得起沉甸甸的民意期待" src="//image1.thepaper.cn/image/13/618/453.jpg"/>
+</a>
+<div class="atlas_360_txt">天津联合调查组回应权健事件：将根据调查结果分类区别处置<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">舆论对于权健排山倒海般的质疑，终于引来了官方的实质性表态。进驻权健集团的联合调查组表示，已分别针对舆情关注的“周洋就诊”、是否涉嫌夸大宣传、是否涉嫌非法传销、医疗资质、保健食品安全等开展工作。调查组负责人表示，“我们将根据调查结果，依法分类区别处置，合法的依法保护，违法的坚决打击，违规的取缔整治。”<br/><div class="contheight"></div>对于一家有合法牌照的直销企业，监管部门全面介入，展开起底式的联合调查，类似的先例并不多见。这一调查能否全面揭开“权健帝国”的真相，还相关当事人一个公正，值得期待。<br/><div class="contheight"></div>“合法的依法保护，违法的坚决打击，违规的取缔整治”，联合调查组的三个承诺，无疑是严肃的。对于某些直销企业不断曝出的乱象，这一明确的监管信号，其实早就应该有。直销牌照不是违法保护伞，直销企业的运营必须遵循法律的边界，一旦逾越，就得付出昂贵的代价。<br/><div class="contheight"></div>从虚假广告到非法传销，从“周洋就诊”到火疗伤人，权健一夜之间爆出如此多问题和争议，反衬出监管的长期疲弱和松弛。权健自诞生那天起，就被各种丑闻所环绕。早在2007年，就有媒体报道了权健在一些地区组织传销活动。此后，媒体对于权健的各种暗访曝光不断。2012年，国家质检总局下属的《中国质量万里行》杂志，对于权健的非法传销也进行了揭露。<br/><div class="contheight"></div>长期以来，公众和舆论的声音，并未惊醒当地监管部门，促使其对权健的种种问题按图索骥，深入调查。经历了一轮又一轮的丑闻曝光，权健不仅毫发未伤，反而在2013年拿到了商务部核发的直销牌照。这样的结果，给了之前许多断言“权健申请直销牌照前景堪忧”的媒体和受害者一种挫败感。 <br/><div class="contheight"></div>对于权健的乱象，长期以来，消费者的投诉众多，但这些投诉，大多都被束之高阁，极少数进入法律环节的，相关的追究和惩处也往往不痛不痒、点到为止。在吉林蛟河市法院审判“权健涉传销”一案中，权健神奇地全身而退，只有两名高管被判刑，而且只判了缓刑，其中一位孟姓高管的海报一直挂在权健总部未撤下，可谓对监管和法律的无情嘲弄。<br/><div class="contheight"></div>权健并非孤例。中国不少直销企业，都曾像权健一样，涉入传销等违法丑闻。在许多人眼里，直销几乎就是传销的代名词。为何直销作为一种正常的营销方式，在我们这里就出现了变异？一些消费者的无知与愚昧，当然为这些企业提供了生存土壤，但与此同时，监管的不彰、执法的缺位，更是无法回避的因素。<br/><div class="contheight"></div>对于联合调查组进驻权健，有网友担心，面对权健这家天津本地企业，天津联合调查组会不会秉公执法，严格处理？对于这样的担心，最好的回应就是用行动说话。即恪守“三个承诺”，百无禁忌，一查到底，对权健涉嫌违法的问题拿出“动真格”“零容忍”的处理决心和态度，对违法问题一个都不遗漏，对责任人员一个都不放过。 <br/><div class="contheight"></div>舆情滔天，背后是沉甸甸的民意期待。只有当监管真正“站起来”，才能还受害者以公正，遏制打着直销之名的非法传销泛滥，阻止下一个权健的崛起。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 权健集团</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2787374">
+<div class="nbgbox">
+<a class="zan" contid="2787374" href="javascript:;" onclick="voteCont(this)" praisetimes="484">
+                           483</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 权健集团</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2787374&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2787374&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（194）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

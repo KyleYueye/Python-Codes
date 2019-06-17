@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">郭声琨：运用好地方立法权，用法治思维法治方式破解治理难题</h1>
+<div class="news_about">
+<p>澎湃新闻记者 邵克</p>
+<p>
+							2018-11-13 17:24<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div>“新时代‘枫桥经验’的一个重要特色，就是运用法治思维和法治方式破解治理难题，深入推进基层依法治理，形成办事依法、遇事找法、解决问题靠法的良好环境。”11月12日，中共中央政治局委员、中央政法委书记郭声琨在纪念毛泽东同志批示学习推广“枫桥经验”55周年暨习近平总书记指示坚持发展“枫桥经验”15周年大会上表示，要充分运用好地方立法权，及时制定完善地方性法规规章，将基层社会治理纳入法治轨道。</div><div>郭声琨说，要认真贯彻党中央关于全面依法治国的决策部署，把群众路线和法治方式结合起来，打造基层群众用得上离不开的法治。</div><div>他提到，要总结江西等地就“医闹”、严重精神病障碍患者监护等基层治理突出问题立法的做法，充分运用好地方立法权，及时制定完善地方性法规规章，将基层社会治理纳入法治轨道。要善于以典型个案为突破口，给有关行业和群体立“明规则”、破“潜规则”，发挥好执法司法在规范社会行为、引领社会风尚中的重要作用。</div><div>在执法办案方面，郭声琨说，要将执法办案职能向基层社会治理领域延伸，深入查找案发地区、部门、单位管理上的漏洞，有针对性地提出司法建议、检察建议，努力实现“办理一案、治理一片”的效果。郭声琨同时要求要深入推进基层执法司法规范化建设，着力解决不严格、不规范、不公正、不文明问题，推动执法司法活动程序公开化、裁量标准化、行为规范化，让人民群众感受到公平正义就在身边。</div><div>在普法和公共法律服务方面，郭声琨说，要深入推进基层公共法律服务体系建设，整合法律援助中心、律师事务所、公证处、司法所、人民调解委员会等法律服务资源，构建数字化、智能化公共法律服务网络，让群众足不出户就能享受优质高效的法律服务。</div><div>郭声琨还表示，要创新普法方法手段，按照“谁执法谁普法”的原则，大力推进执法司法机关进学校、进农村、进社区活动。要推广内蒙古等地做法，支持有条件的乡镇(街道)建立公职律师队伍，培养一批“法治带头人”、“法律明白人”，全面实现一村(社区)法律顾问，引导群众依法表达诉求、解决纠纷、维护权益。</div></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：谭君<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 郭声琨 基层治理</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2629547">
+<div class="nbgbox">
+<a class="zan" contid="2629547" href="javascript:;" onclick="voteCont(this)" praisetimes="9">
+                           8</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 枫桥经验</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2629547&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2629547&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

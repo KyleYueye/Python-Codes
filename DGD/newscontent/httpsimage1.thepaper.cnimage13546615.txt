@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25450">文化课</a>
+</div>
+<h1 class="news_title">“元济译书院”在上海交大揭牌：为世界翻译中国</h1>
+<div class="news_about">
+<p>澎湃讯</p>
+<p>
+							2018-12-27 13:34<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月26日，“元济译书院”揭牌暨战略合作架协议签约仪式在上海交通大学出版社张元济讲堂举办。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/546/363.jpg" width="600"/></div>“变法之端在兴学，兴学之要在译书”。今年是“南洋公学译书院”成立120周年。南洋公学译书院在其运作期间，不仅解决了当时南洋公学教材匮乏问题，而且还影响了中国一代学人的思想观念，推动了中国文化的变革，为当时中国社会的进步起了一定的作用，在南洋公学乃至上海交通大学的历史上，占有不可忽视的重要地位。为更好地传承南洋公学译书院“译书育人”的精神和经世致用的理念，交大外国语学院和交大出版社联合，将优势翻译力量和出版资源进行规划整合，成立“元济译书院”，从学科建设理念到翻译实践、翻译人才培养等方面全面融入，从而搭建起翻译出版创新平台。<br/><div class="contheight"></div>张元济之孙张人凤先生在发言中回顾了南洋公学译书院的形成过程和历史意义，南洋公学译书院将出版和教育相配合，对高等教育事业发展有很大的帮助。希望“元济译书院”将交大的学术成果、翻译力量和出版资源更好地结合起来，将我们的成果向世界传播。<br/><div class="contheight"></div>上海交通大学外国语学院院长胡开宝院长表示，外国语学院和交大出版社具有良好的合作基础。此次成立“元济译书院”，既为了纪念南洋公学译书院成立120周年，也拓宽了双方的合作范围，在翻译人才的培养、翻译测试和翻译历史研究等方面具有重要的意义。外国语学院将全力支持，与交大出版社共同打造翻译品牌。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="369" src="http://image.thepaper.cn/www/image/13/546/364.jpg" width="600"/></div>上海交通大学出版社党委书记谈毅书记表示，成立“元济译书院”既是对前人留下的宝贵思想的传承，更是顺应新时代的要求。120年前南洋公学译书院的成立是了开启民智，昌明教育。120年后的今天，成立“元济译书院”则是用翻译出版搭建中外文化交流的桥梁，在交流对话中弘扬中华文明。希望“元济译书院”的成立，将秉承老一代出版家的思想和精神，努力消除国际社会对中国的理解赤字，用学术语言讲好中国故事，赢得国际学术话语权。<br/><div class="contheight"></div>“元济译书院”院长陶庆介绍，“元济译书院”在成立之后，不仅要向中国翻译西方文化和技术，更承载着为世界翻译中国的责任和使命。 “元济译书院”成立后，将规划整合翻译力量和出版资源，在译丛翻译出版、翻译人才培养、翻译文化传播等领域进行广泛布局和深度建设，为学校“双一流”建设和中国文化“走出去”作出应有贡献。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陈诗怀<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2779452">
+<div class="nbgbox">
+<a class="zan" contid="2779452" href="javascript:;" onclick="voteCont(this)" praisetimes="32">
+                           31</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 上海交大</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2779452&caid=25450",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2779452&amp;caid=25450" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

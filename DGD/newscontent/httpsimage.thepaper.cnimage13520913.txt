@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27234">科技湃</a>
+</div>
+<h1 class="news_title">欧洲科学家首次用声波“隔空同时移多物”，有望用声镊做手术</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-26 17:14<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">用声波“隔空移物”又有了重要进展。欧洲研究人员近日说，他们借助微型扬声器和一种新算法制造出声场，首次实现用声波同时操纵多件物体。这意味着在不太遥远的未来，医生也许能在完全不接触患者的情况下实施一系列手术。<br/><div class="contheight"></div>英国布里斯托尔大学与西班牙纳瓦拉公立大学等机构的研究人员合作，利用这种新算法控制由256个微型扬声器组成的阵列，所产生的声场可通过超声波“捕获”并同时移动多件物体，使它们悬浮于指定位置。研究人员将这项技术称为“声镊”，相关论文发表在美国《国家科学院学报》上。<br/><div class="contheight"></div>为验证“声镊”系统的精确度，研究人员把两个毫米级聚苯乙烯球附着到一根线的两头，然后用“声镊”成功把这根线“缝”到一块布上。实验还显示，这个系统能同时控制多达25个毫米级聚苯乙烯球在空气中的三维运动。<br/><div class="contheight"></div>研究人员认为，“声镊”技术有望用来在微米尺度操纵细胞，把它们置于3D打印组件或活体组织的指定位置。未来，该技术将在医学等领域有广阔的应用前景，比如可缝合身体内部伤口、把药物送达目标器官等。<br/><div class="contheight"></div>美国科学家阿瑟·阿什金凭借发明“光镊”技术获得2018年诺贝尔物理学奖，其原理是利用激光束操纵和移动微小物体，例如可以“夹住”原子、病毒以及活细胞等。<br/><div class="contheight"></div>研究人员说，“声镊”有着与“光镊”类似的能力，但“声镊”在人体组织内部的相关操作方面比“光镊”更具优势。首先，激光只能穿过透明介质，这局限了它在生物组织里的应用，而超声可无伤害地穿透人体组织，已被用于孕期例行检查及肾结石等疾病的治疗；其次，“光镊”在操控细胞时有把细胞杀死的风险，而“声镊”在达到同样的操控目的时所用能量小得多，操控活细胞的应用需求很多，“声镊”工具是“最适合做这个的”。<br/><div class="contheight"></div>（原标题：科学家首次用声波同时操纵多件物体）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：虞涵棋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776516">
+<div class="nbgbox">
+<a class="zan" contid="2776516" href="javascript:;" onclick="voteCont(this)" praisetimes="133">
+                           132</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 声波</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776516&caid=27234",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776516&amp;caid=27234" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

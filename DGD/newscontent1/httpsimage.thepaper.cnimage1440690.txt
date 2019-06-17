@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">爱心人士捐赠物资政府却不让用？镇雄教育局：因学校要撤并</h1>
+<div class="news_about">
+<p>@微镇雄</p>
+<p>
+							2019-01-08 18:34<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="628" src="http://image.thepaper.cn/www/image/14/40/688.jpg" width="593"/></div><span style="color: rgb(128, 128, 128);">袁立微博截图</span><br/><div class="contheight"></div>镇雄县委宣传部官方微博@微镇雄 1月8日消息，近期，网友和爱心人士关注牛场镇罗汉坝小学办学情况，并捐赠物资。对此，我们心存感激。对于网帖中的一些误解，说明如下：<br/><div class="contheight"></div>罗汉坝小学属村级以下“一师一校”点，现有教师2名，学生13名，各项条件都难以满足教学需求，属于综合利用教育教学资源、提高基础设施使用率、提高教育教学质量撤并的校点。拟于2019年春季学期整体并入诸宗村中心寄宿制小学，届时学生的学习和生活条件都将大幅度提高，也更有利于孩子们的成长。<br/><div class="contheight"></div>罗汉坝小学收到的爱心人士捐赠的洗衣机1台、毛毯1床、被子1床、保温瓶1个已使用。学校考虑到目前统一配发的标准学生课桌椅（35张桌子，27个凳子）没有损坏，可以满足当前使用，决定将爱心人士捐赠的20套桌椅暂时保存，在2019年新学期开学后，在新校点使用，并不存在“新课桌政府不让用”的情况。<br/><div class="contheight"></div>此前，罗汉坝小学只有庹必龙老师1人，且是多年级复式班教学，课程较多，工作量大。今年，中心校临时调整了1名教师到罗汉坝小学上课，帮助完成撤并前的教学工作，不存在“还每天派人监视他们”的问题。<br/><div class="contheight"></div>罗汉坝小学撤并入诸宗村中心寄宿制小学后，庹必龙老师也将安排到诸宗村中心小学从事教育辅助工作。<br/><div class="contheight"></div>再次感谢各位网友和爱心人士的关心和帮助。<br/><div class="contheight"></div>镇雄县教育局<br/><div class="contheight"></div>2019年1月8日<br/><div class="contheight"></div>（原题为《关于对近期网友关注的牛场镇罗汉坝小学相关情况的说明》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 镇雄,农村小学,爱心捐赠</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828123">
+<div class="nbgbox">
+<a class="zan" contid="2828123" href="javascript:;" onclick="voteCont(this)" praisetimes="46">
+                           45</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 爱心捐赠</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828123&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828123&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

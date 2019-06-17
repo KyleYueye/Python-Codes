@@ -1,0 +1,90 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">央媒谈未成年人保护：不仅要保护外部安全，也要保护心灵健康</h1>
+<div class="news_about">
+<p>杨成/人民日报</p>
+<p>
+							2018-12-24 06:53<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">人民日报12月24日消息，如何更好维护和保障未成年人合法权益，促进他们身心健康发展，是全社会共同关注的话题。据媒体报道，最高人民检察院将增设第九检察厅，专门负责未成年人检察工作。这一举措，以及紧锣密鼓修改中的未成年人保护法，将有望更好适应时代特点，筑牢未成年人保护的法治堤坝。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/444/870.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">内蒙古呼和浩特市一小学课堂开展“预防校园欺凌”教学宣传。视觉中国 资料</span><br/><div class="contheight"></div>未成年人保护的理念，随着我国改革开放的进程而不断深入。不久前发表的《改革开放40年中国人权事业的发展进步》白皮书中，专门列举了妇女、儿童和老年人权利，展示了儿童保护方面的成绩。就未成年人检察工作而言，早在1986年，上海市长宁区人民检察院就设立了全国第一个“少年刑事案件起诉组”，标志着我国未成年人检察工作朝着专业化方向发展。如今，“儿童利益最大化”这一司法理念早已深入人心，并落实到了刑事、民事、行政等各个领域和诉讼全过程，未成年人的保护网正在越织越密。<br/><div class="contheight"></div>随着社会的发展进步，人们对“儿童利益最大化”的理解也在加深。未成年人保护不仅要保护其外在安全，也要关注他们的心灵健康。近年来，在校园霸凌事件、未成年人被侵犯的案件中，未成年人心理健康问题尤为突出。笔者在基层检察院调研时了解到，现在未成年人犯罪的情况少了，一些地方的未成年犯管教所中的学员人数大幅下降。而与此同时，针对未成年人的不法行为有增多的趋势，且呈现出一定的隐蔽性，导致一些未成年人在受侵害后难以被发现，或很难走出心理阴影，给未成年人保护工作带来一定挑战。司法实践中，浙江宁波鄞州区等地的检察机关创建了检医合作的“一站式”办案救助模式，与办案同步为未成年被害人提供心理干预、身体检查等支持，从而推动全面综合司法保护。<br/><div class="contheight"></div>对那些误入歧途的未成年人，同样要关注他们的心理健康，用恰当的司法手段进行介入和救助。在少数未成年人犯罪案件中，公众的震惊和愤怒是可以理解的，但也要看到，这些罪错少年在成长过程中往往存在这样那样的问题，如果及时主动进行心理干预，或许能防患未然。对未成年人检察工作而言，需要坚持深耕细作，健全完善未成年犯罪嫌疑人人格甄别机制，推动对罪错未成年人的精准处遇和个性化帮教。某种程度上，对于那些罪错未成年人，惩罚只是手段，如何通过教育及心理疏导让其康复，通过矫正让其能够顺利重归社会，才是根本目的。要从未成年人不同于成年人的生理、心理特征和特殊需要出发，通过及时的心理疏导、矫正教育辅导他们健康成长，促进其形成正确的人生观价值观，进而正常融入社会生活。<br/><div class="contheight"></div>少年儿童是国家的未来、民族的希望。习近平总书记强调，“全社会都要了解少年儿童、尊重少年儿童、关心少年儿童、服务少年儿童，为少年儿童提供良好社会环境”。对于未成年人保护来说，不仅要针对个体，也要面向群体；不仅要保护外部安全，也要保护心灵健康；不仅是针对现在，也要考虑未来。实现这一目标，需要全社会共同参与。除了相关政府部门及司法机关之外，也有必要通过相应社会组织及时补位，共同维护好未成年人的身心健康，推动完善未成年人保护法律体系，让少年儿童更好成长。<br/><div class="contheight"></div>（原题为《用司法之手保护好未成年人》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_asktopic">
+<div class="news_askuser" onclick="window.open('asktopic_detail_10008143');"><span class="verticalAlign_topic"></span>
+<div class="news_askuser_bd">
+<div class="news_askuser_sort">健康</div>
+<div class="news_askuser_profile">我是青少年心理健康护航者,关于他们的心理健康问题,问我吧!</div>
+</div> <div class="news_askuser_trbs"><span class="trbs">
+<div class="userleft_hdimg">
+<img src="//image.thepaper.cn/publish/interaction/image/1/756/663.jpg"/><div class="hdimg_bg30"><img src="//file.thepaper.cn/www/v3/img/headerimg_ctbg30.png"/><span></span></div>
+</div>
+<a class="u_sname">柴淑琼</a>
+<span>2017-04-21</span>
+<span class="trbs_zan" id="10008143" times="245">245</span>
+<span>进行中...</span>
+</span></div>
+</div>
+</div>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 未成年人</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2767628">
+<div class="nbgbox">
+<a class="zan" contid="2767628" href="javascript:;" onclick="voteCont(this)" praisetimes="118">
+                           117</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 未成年人</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767628&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767628&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

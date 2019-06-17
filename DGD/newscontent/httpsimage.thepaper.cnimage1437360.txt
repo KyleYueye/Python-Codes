@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国政府关门第三周，特朗普将就边境安全问题发表全国讲话</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-08 16:56<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">美国总统特朗普宣布，将在1月8日就美墨边境安全危机发表全国讲话。<br/><div class="contheight"></div>“美国东部时间本周二晚上9点，我将就南部边境的国家安全问题和人道主义危机发表全国讲话。”特朗普7日在其推特主页写道。<br/><div class="contheight"></div>美媒称，白宫要求美国各大广播公司届时对特朗普的讲话进行直播，不过媒体方面并没有立即给出答复。据美国全国广播公司（NBC）周一消息，白宫要求各大广播公司在晚9点的黄金时段至少留出8分钟的直播时间。是否要按特朗普的要求提供直播时间，应对特朗普的讲话内容采取何种预防措施等问题在社交媒体发酵了一个下午。截至周一晚，哥伦比亚广播公司（CBS），美国广播公司（ABC），福克斯新闻（FOX），全国广播公司（NBC），微软全国广播公司（MSNBC），美国有线电视新闻网（CNN）等主流媒体都已同意对特朗普8日晚的演讲进行直播。NBC报道称，特朗普可能会为修建美墨边境墙，宣布国家进入紧急状态。<br/><div class="contheight"></div>同在7日，白宫新闻秘书桑德斯(Sarah Sanders)发表推文称，特朗普本周四将前往美墨边境与国家安全和人道主义危机代表会晤。关于特朗普将会见的人员以及走访地点等细节，她稍后将另做公布。<br/><div class="contheight"></div>美国联邦政府局部停摆已进入第三周，白宫和国会民主党人继续为修建边境墙的资金僵持不下。据《华尔街日报》8日报道，白宫官员和国会幕僚周末举行了两次会面，但未就是否应特朗普要求为在边境修建数百英里长的一堵墙提供资金达成协议。特朗普的要求也从修建一座混凝土墙转变为一座“钢铁屏障”，并表示如果国会不同意为这堵墙提供资金，他将考虑宣布全国进入紧急状态。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘惠<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 特朗普,美墨边境,美国政府关门</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827684">
+<div class="nbgbox">
+<a class="zan" contid="2827684" href="javascript:;" onclick="voteCont(this)" praisetimes="73">
+                           72</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 特朗普</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827684&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827684&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

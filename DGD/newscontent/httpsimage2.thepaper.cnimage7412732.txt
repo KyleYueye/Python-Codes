@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25427">澎湃人物</a>
+</div>
+<h1 class="news_title">大连一家四口被杀案嫌犯在锦州落网</h1>
+<div class="news_about">
+<p>澎湃新闻记者 龚佐</p>
+<p>
+							2018-04-22 08:19<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2084995" target="_blank">
+<span class="p_time"></span>
+<img alt="大连一家四口被杀案嫌犯在锦州落网" src="//image2.thepaper.cn/image/7/378/775.jpg"/>
+</a>
+<div class="atlas_360_txt">一桩疑因“粪坑”引发的命案：大连一家四口被杀案现场直击<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="923" src="http://image.thepaper.cn/www/image/7/412/74.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">悬赏通告</span><br/><div class="contheight"></div>在逃5日后，4月22日，大连普兰店区大谭镇赵屯村大崔屯杀人案嫌疑人在锦州落网。<br/><div class="contheight"></div>大连警方22日发布消息称，4月22日零时31分，在锦州警方的大力配合下，“4•17”专案组在锦州市凌河区将犯罪嫌疑人崔家会成功抓获。经突审，崔家会对其因邻里矛盾纠纷，持刀捅死崔某治和王某风及其两个儿子崔某发和崔某东的犯罪事实供认不讳。目前，案件正在进一步工作中。<span style="color: rgb(128, 128, 128);"><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/7/412/728.jpg" width="600"/></div></span><span style="color: rgb(128, 128, 128);">抓捕现场。</span><span style="color: rgb(128, 128, 128);"><div style="text-align:center;"><img alt="" height="800" src="http://image.thepaper.cn/www/image/7/412/721.jpg" width="600"/></div></span><span style="color: rgb(128, 128, 128);">嫌疑人崔某会在锦州落网。</span><br/><div class="contheight"></div>4月18日，大连市公安局普兰店分局发布悬赏公告：2018年4月17日17时许，普兰店区大谭镇赵屯村大崔屯发生一起特大刑事案件，经查明，51岁的崔某会有重大作案嫌疑。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）记者18日下午从当地多位村民处了解到，有一家四口被杀，包括一对八十多岁的老夫妻和他们的两个儿子。被害人与嫌疑人是邻居。<br/><div class="contheight"></div>新华社18日报道称，民警和“120”到达现场后，被害四人已无生命体征。普兰店公安分局、大连市公安局刑侦支队等部门迅速成立专案组开展侦破工作，犯罪嫌疑人已被锁定，警方正在全力开展缉捕。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/7/412/76.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">两家之间隔着胡同，胡同左半部分被砌成粪渠，粪水流到路上。澎湃新闻记者 龚佐 图</span><span style="color: rgb(128, 128, 128);"><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/7/412/154.jpg" width="600"/></div></span><span style="color: rgb(128, 128, 128);">嫌疑人家的水泥平房（左）和被害人家稍矮的绿门房子（右）。 澎湃新闻记者 龚佐 图<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/7/412/686.jpg" width="600"/></div></span><span style="color: rgb(128, 128, 128);">嫌疑人挖的粪坑里被扔进上百块大小不一的石头。 澎湃新闻记者 龚佐 图<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/7/412/687.jpg" width="600"/></div></span><span style="color: rgb(128, 128, 128);">墙上有四个排粪口。澎湃新闻记者 龚佐 图</span><br/><div class="contheight"></div>澎湃新闻采访了解到，这是一桩疑因“粪坑”引发的命案。两家平时有积怨，案发当天，崔某会认定邻居老汉一家把石头倒进了他家猪粪粪坑，怒火上头。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：黄芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 大连 杀人案 特大刑案</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2089520">
+<div class="nbgbox">
+<a class="zan" contid="2089520" href="javascript:;" onclick="voteCont(this)" praisetimes="170">
+                           169</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 大连一家四口被杀案</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2089520&caid=25427",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2089520&amp;caid=25427" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（703）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

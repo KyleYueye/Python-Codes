@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">哈啰单车回应“在上海违规投新车”：不熟悉地点致转运错误</h1>
+<div class="news_about">
+<p>澎湃新闻记者 何颖晗 臧鸣</p>
+<p>
+							2019-01-10 22:03<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/14/130/540.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">2019年1月9日晚，网友看到哈啰单车在中华新路附近投放新车。图片由网友 提供</span><br/><div class="contheight"></div>“禁投令”依然存在，为何上海市静安区街道又出现一批新的哈啰单车？<br/><div class="contheight"></div>近日，多位网友向澎湃新闻爆料称，在上海火车站、大田路、威海路附近都看到了新的哈啰单车，车身崭新，车轮上也看不出有骑行的痕迹。更有网友称，在1月9日晚上，目睹一辆货运车停靠在中华新路附近，有工作人员不断从货车里搬运哈啰单车进行投放。<br/><div class="contheight"></div>1月10日，澎湃新闻（www.thepaper.cn）记者从静安区获悉，近期哈啰单车在静安区陆续投放新车辆。静安区建管委发现后，立即约谈了哈啰单车负责人，要求其立即停止投放，对已投放的车辆进行回收，并告知其车辆必须在经市交通委及区交通委两方同意的情况下方可投放。对于已投放在静安区范围内的哈啰单车，如不回收，静安区建管委将联合街镇对车辆进行清运。<br/><div class="contheight"></div>哈啰单车回应澎湃新闻称，此次“投放”是由于运维人员对地点不熟悉导致转运错误造成的，后续会配合政府部门做好车辆的转运工作。<br/><div class="contheight"></div>2017年，上海街头的共享单车一度超过饱和状态。<br/><div class="contheight"></div>同年8月18日，上海市交通委向各共享单车企业下达告知书，明确告知从即日起在上海暂停新增投放，一旦发现，将作为严重失信行为纳入企业征信档案。<br/><div class="contheight"></div>“禁投令”发布至今，原有的几大共享单车企业已暂停在上海的投放，街头上的老旧车辆需要更换，企业也必须事先报备，并根据比例进行置换。同时，大量违停的共享单车被清运。<br/><div class="contheight"></div>然而，时不时会有企业“挑战”禁投令。<br/><div class="contheight"></div>2018年8月3日，滴滴出行在上海市嘉定区安亭镇、南翔镇等地投放了约600辆青桔单车。<br/><div class="contheight"></div>上海市交通委当天回应澎湃新闻称，按照《上海市鼓励和规范互联网租赁自行车发展指导意见（试行）》的有关要求，滴滴出行既未向市交通行政管理部门报备和区主管部门通报，也未将其车辆数据信息接入信息服务平台，属于违规投放。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：高文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 共享单车,违规投放,哈啰单车</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2838198">
+<div class="nbgbox">
+<a class="zan" contid="2838198" href="javascript:;" onclick="voteCont(this)" praisetimes="51">
+                           50</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 共享单车治理</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2838198&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2838198&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

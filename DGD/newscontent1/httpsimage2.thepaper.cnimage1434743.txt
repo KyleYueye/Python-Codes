@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">即将到来的农历猪年“无春”，天文专家：不宜嫁娶说法无根据</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2019-01-08 15:15<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社天津1月8日消息，进入腊月后，农历己亥猪年渐行渐近，年味愈来愈浓。天文专家表示，即将到来的猪年中，将出现我国传统历法中的“无春”现象，即农历的一年中没有“立春日”。<br/><div class="contheight"></div>作为二十四节气中的第一个节气，立春的时间一般都在公历年2月4日前后。<br/><div class="contheight"></div>天文年历显示，从2019年2月5日至2020年1月24日，为农历的己亥年，即“猪年”。2019年的立春在２月４日，而此时仍然是农历“狗年”，2020年的立春同样也在2月4日，但那时已经是农历“鼠年”了。所以，即将到来的农历猪年没有“立春日”。<br/><div class="contheight"></div>“无春”现象是如何形成的呢？中国天文学会会员、天津市天文学会理事史志成解释说，中国几千年来所采取的传统农历是阴阳合历。为了协调农历年和公历年之间的时间，需要置闰，即在有的年份安排13个月，有两个一样的月份。置闰的规则依据二十四节气来定。<br/><div class="contheight"></div>因为多了闰月，农历闰年的天数比农历平年的天数要多出30天左右，故农历闰年有25个节气，而农历平年则有23个或24个节气。因为立春在岁尾或岁首，所以经常出现立春节气跑到了上一农历年的岁尾或跨到了下一农历年的岁首，这样就有了“两头无春”和“两头都有春”历法现象。<br/><div class="contheight"></div>“两头无春”的年份在民间被称为“寡年”“盲年”，民间传言这样的年份不适合嫁娶，否则一生不幸。因此，每每出现这样的年份，总会让一些人感到很困扰。<br/><div class="contheight"></div>天文专家明确表示，“两头无春”和“两头都有春”都是再正常不过的历法现象，不宜嫁娶的说法毫无根据，公众千万不要被误导。<br/><div class="contheight"></div>（本文原题为《即将到来的农历猪年为“无春”年 全年没有“立春日”》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 农历猪年</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827569">
+<div class="nbgbox">
+<a class="zan" contid="2827569" href="javascript:;" onclick="voteCont(this)" praisetimes="42">
+                           41</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 猪年</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827569&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827569&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

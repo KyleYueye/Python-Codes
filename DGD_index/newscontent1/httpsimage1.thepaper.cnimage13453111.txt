@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">审计署：整改扶贫问题资金154亿元，处分649人次</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林平</p>
+<p>
+							2018-12-24 14:47<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">过去一年里，在扶贫领域的问题整改中，有关地方问责了 649人次。12月24日，受国务院委托，审计署审计长胡泽君在十三届全国人大常委会第七次会议上报告有关2017年度中央预算执行和其他财政收支审计查出问题的整改情况。<br/><div class="contheight"></div>在扶贫资金政策落实和资金管理问题上，胡泽君指出，有关地方已整改154.89亿元，推动落实精准扶贫政策措施151项，完善扶贫政策制度185项，处理处分649人次。 <br/><div class="contheight"></div>首先是一些地方扶贫工作不够扎实问题。有关地方积极推进建立与贫困户利益联结，通过收回资金、归还原资金渠道、加强拨后监督、补签带动贫困户协议等整改10.92亿元；对直接发放给贫困户的3.15亿元“造血”资金,通过调整扶贫项目收益分配方案、细化贫困户帮扶措施等整改；对用于景观修建、外墙粉饰的540多万元,有关地方已追回资金、规范资金使用、严格项目管理；对资金缺口问题,各地通过借款或统筹资金等补齐缺口2.97亿元,并加快项目建设,确保如期完成搬迁任务。<br/><div class="contheight"></div>同时，对虚报脱贫数据问题，有关地方加大项目招投标、建设进度等信息公开力度，进一步健全接受扶贫捐款等项目管理和资金使用办法；对超标准接待问题,相关资金已全部追回，处理处分23人。 <br/><div class="contheight"></div>其次是扶贫政策落实不够精准问题。报告指出，对建档立卡数据不够完整准确、部分贫困户未按规定享受补贴等问题，国务院扶贫办开展建档立卡数据更新和贫困识别常态化管理，加强与各行业部门数据交换比对；有关地方向符合条件的贫困家庭子女、危房改造户等补发或退还费用2.86亿元,有的地方还主动扩大范围自查, 促进补助到位。<br/><div class="contheight"></div>此外，对一些地方易地扶贫搬迁规划不合理、配套不齐全等问题，国务院扶贫办会同相关主管部门完善带贫减贫机制,指导各地做好产业扶贫规划；有关地方严格执行易地扶贫搬迁规定,完善产业扶持等配套制度,加快项目建设。对脱贫标准把握不准或未按规范验收问题，有关地方逐一核查、细化脱贫人口收入计算办法，规范脱贫退出公示公开程序和档案管理。<br/><div class="contheight"></div>与此同时，对“三区”教师扶贫专项计划落实不到位问题，教育部商财政部印发《关于做好2018年“三区”人才支持计划教师专项计划有关实施工作的通知》,要求有关地方严把支教教师选派条件,确保按时上岗,相关地区正按要求推动工作。 <br/><div class="contheight"></div>三是地方涉农资金统筹整合试点推进不畅问题。报告表示，有关地方健全协调机制，细化财政涉农资金统筹整合使用方案，通过约谈通报、加强项目调度、完善项目库建设等,加快方案实施和项目建设进度,下拨使用结存资金、收回盘活无法实施项目资金或结余等88.52亿元。 <br/><div class="contheight"></div>报告还谈及了扶贫资金和项目监管粗放问题。对此，胡泽君指出，有关地方逐一核实,已追回资金11.17亿元,并通过加强后续管理、调整实施方案、完善审批手续等整改15.95亿元，处理处分243人；对闲置资金,各地已归还原资金渠道或收回借款等11.75亿元；对长期闲置或未达目标的项目,有关地方通过修补损毁设施、补种苗木、补发物资、落实后期管护责任等整改2.66亿元。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：段彦超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 审计,扶贫</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768620">
+<div class="nbgbox">
+<a class="zan" contid="2768620" href="javascript:;" onclick="voteCont(this)" praisetimes="6">
+                           5</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 审计署</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768620&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768620&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

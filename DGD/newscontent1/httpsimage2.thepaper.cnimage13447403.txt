@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">村（居）委会任期拟从3年改5年，千名全国人大代表提议延长</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林平</p>
+<p>
+							2018-12-24 12:26<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">我国村委会、居委会任期拟从三年调整为五年。12月23日，村民委员会组织法、城市居民委员会组织法修正案草案同时提请十三届全国人大常委会第七次会议首次审议，有关村（居）委会的任期或将延长两年。<br/><div class="contheight"></div>村民委员会和城市居民委员会是基层群众性自治组织，是基层群众自治制度的重要组成部分。澎湃新闻注意到，现行的《村民委员会组织法》于1987年颁布试行，1998年修订正式实施，2010年重新修订。<br/><div class="contheight"></div>自从2010年修订以来，每年的全国两会上都有代表委员提议，村委会任期应改为五年。<br/><div class="contheight"></div>全国人大社会建设委员会认为，草案将村委会、居委会的任期由三年改为五年，有利于完善党领导下的基层群众自治制度和工作机制。<br/><div class="contheight"></div>受国务院委托，民政部部长黄树贤在作草案说明时表示，2017年10月24日通过的《中国共产党章程》规定，党的基层委员会、总支部委员会、支部委员会每届任期三年至五年。为贯彻落实党章规定，中共中央办公厅印发了《关于党的基层组织任期的意见》，进一步明确，村和社区党的委员会、总支部委员会、支部委员会每届任期为五年。<br/><div class="contheight"></div>黄树贤认为，上述任期的修改与村和社区党的委员会、总支部委员会、支部委员会的任期保持一致，有利于完善党领导下的基层群众自治制度和工作机制，有利于实现村民委员会、居民委员会换届工作与村和社区党组织换届工作统一部署、统一实施。<br/><div class="contheight"></div>“2012年以来，已有超过1000名全国人大代表提出29件相关议案。这些议案指出，随着经济社会发展，城乡社区治理、基层公共事业建设的任务越来越重，村委会、居委会换届频繁，较难制定和实施长远规划，也不便与基层政府工作对接。”社会建设委员会认为，适当延长村委会、居委会任期，有利于保持基层群众性自治组织负责人队伍相对稳定，有利于促进村和社区公共事业健康有序发展。<br/><div class="contheight"></div>据此，社会建设委员会认为，草案将村委会、居委会的任期由三年改为五年，符合发展变化的基层实际，反映代表呼声。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：段彦超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 村委会,任期</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768054">
+<div class="nbgbox">
+<a class="zan" contid="2768054" href="javascript:;" onclick="voteCont(this)" praisetimes="58">
+                           57</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 村委会选举</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768054&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768054&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（72）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

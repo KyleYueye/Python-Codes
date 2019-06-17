@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">人民日报“钟声”：契合时代潮流的通往未来之路</h1>
+<div class="news_about">
+<p>本报评论员/人民日报</p>
+<p>
+							2018-12-24 06:31<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“这是我们时代的伟大故事，不是中国人的事，是我们的故事，是全人类的故事。”美国《时代》周刊曾如此评价中国改革开放对人类发展进步的意义。<br/><div class="contheight"></div>自立立人，自达达人。站在改革开放40周年的重要时间节点，回望中国同世界共同书写的奋斗故事，更能真切感受到中国的改革开放是促进世界和平与发展的强大力量，是中华民族对人类文明进步作出的重大贡献。<br/><div class="contheight"></div>中国始终是全球共同开放的重要推动者。40年来，中国对外贸易实现规模、质量双提升。中国外贸总量占全球比重从1978年的0.8%提高到2016年的11.5%，2017年对全球贸易增长贡献率超过20%。中国是世界第一大出口国，为世界市场提供了大量物美价廉的商品，中国制造业出口每增加1万美元，世界范围内的就业岗位平均增加11.52个；中国是世界第二大进口国，预计未来15年，中国进口商品和服务将分别超过30万亿美元和10万亿美元；中国企业积极“走出去”，促进了各国经济发展和技术进步。<br/><div class="contheight"></div>中国始终是世界经济增长的稳定动力源。犹记得亚洲金融危机时，中国承受巨大压力，坚持人民币不贬值，为亚洲乃至世界金融稳定作出了重要贡献。国际金融危机时，中国强劲的经济增长和积极的危机应对为全球经济金融稳定注入了比黄金和货币更重要的信心。如今，中国已成为世界第二大经济体，连续多年对世界经济增长贡献率超过30%。在世界经济复苏乏力、经济全球化遭遇波折的挑战面前，中国坚持推动建设开放型世界经济，无疑将为世界经济增长贡献更大动力。<br/><div class="contheight"></div>中国始终是各国拓展商机的活力大市场。在首届中国国际进口博览会上，172个国家、地区和国际组织参会，3600多家企业参展，超过40万名境内外采购商到会洽谈采购，映射出中国大市场的充沛活力。特斯拉在美国之外首个超级工厂正式签约落户上海，埃克森美孚将在广东建设大型独资石化项目……跨国公司“用脚投票”，积极分享中国经济发展的红利。世界银行将中国在全球的营商环境排名一次性提升32位，称赞中国相关领域改革“令人惊叹地快速且有效”。<br/><div class="contheight"></div>中国始终是全球治理改革的积极贡献者。中国坚定维护国际秩序，当前中国已加入400多项多边条约，参加了所有联合国专门机构和大约90%政府间国际组织，全面融入当代国际秩序。党的十八大以来，习近平主席多次在重大外交场合阐述中国关于全球治理的新理念新思想，提出中国解决全球治理重要议题的新方案新举措，推动全球经济治理体系朝着更加公正合理的方向发展。党的十九大进一步明确中国特色大国外交要推动构建新型国际关系、推动构建人类命运共同体。为完善全球治理而贡献的中国智慧，承载着中国为人类作出新的更大贡献的寄望，彰显中国作为负责任大国的担当。<br/><div class="contheight"></div>大道之行也，天下为公。国际货币基金组织总裁拉加德所赞“中国正在建设通往未来之路”，为全球视野下中国砥砺前行的壮阔图景给出了一个生动注脚。中国改革开放，顺应中国人民要发展、要创新、要美好生活的历史要求，契合世界各国人民要发展、要合作、要和平生活的时代潮流。日益走近世界舞台中央的中国，已经成为国际社会公认的世界和平的建设者、全球发展的贡献者、国际秩序的维护者。<strong>当下，在国际体系变革的关键时刻，中国坚定地站在历史前进的正确一边，更见中流砥柱大作为。</strong><br/><div class="contheight"></div>（原题为《契合时代潮流的通往未来之路（钟声）——写在改革开放四十周年之际③》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张珺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 改革开放四十周年</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2767623">
+<div class="nbgbox">
+<a class="zan" contid="2767623" href="javascript:;" onclick="voteCont(this)" praisetimes="31">
+                           30</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 改革开放40年</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767623&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767623&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

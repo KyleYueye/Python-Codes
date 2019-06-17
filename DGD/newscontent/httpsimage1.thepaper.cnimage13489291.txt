@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">最高检发布公益诉讼十大典型案例，其中五起涉食药领域</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林平 实习生 高瑜健</p>
+<p>
+							2018-12-25 16:30<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">与试点期相比，检察机关公益诉讼案量持续增长，食药领域案件增幅较大。<br/><div class="contheight"></div>12月25日，最高人民检察院发布公益诉讼十大典型案例。最高检公益诉讼检察厅（筹）负责人胡卫列指出，典型案例中有五起系食品药品领域，涉及网络餐饮、校园周边食品、转基因食品、虚假药品广告等。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）注意到，前述案例不仅涵盖检察公益诉讼传统的四大领域，同时呈现了诉前程序案件、民事、行政公益诉讼案件、刑附民公益诉讼案件等不同环节的典型案例。<br/><div class="contheight"></div><strong>食品添加剂超标20多倍，检察机关提起惩罚性赔偿</strong><br/><div class="contheight"></div>在食药领域里，一起有关虚假非转基因标识公益诉讼案位列其中。<br/><div class="contheight"></div>案情显示，福建省闽侯县域内四家食用调和油生产商存在偷工减料、非转基因虚假标识的现象，检察机关通过行政公益诉讼工作，督促监管部门依法履职，促成问题整改。<br/><div class="contheight"></div>同时，典型案例还包括了一起食药领域民事公益诉讼案件。案例显示，郭某采用添加剂硫磺熏制辣椒，超过国家标准上限20多倍。江西赣州市人民检察院在履行公告程序后，依法向法院提起民事公益诉讼，要求侵权人承担侵权责任，同时主张惩罚性赔偿。法院支持了检察机关诉讼请求。<br/><div class="contheight"></div>“针对公益诉讼中是否可以提出惩罚性赔偿请求的问题予以了明确，这些对于进一步强化公益诉讼改革探索、丰富和完善检察公益诉讼制度具有一定的指导和借鉴意义。”胡卫列说。<br/><div class="contheight"></div>澎湃新闻还注意到，除了食药领域的案例，还有重庆市检察院检察长落实公益诉讼“一把手工程”、亲自承办并送达检察建议书的案例，也有湖北黄石多个行政机关主动请求检察机关通过公益诉讼解决地方治理难题的案例。<br/><div class="contheight"></div>“这些案例充分体现了行政机关对检察公益诉讼由被动应付到主动争取支持的思想转变，形成了各方共同保护公益的合力。”胡卫列表示，此次发布的案例中还加入了网络餐饮、骚扰电话等通过互联网、电信设备侵害公益的热点问题，积极探索了发挥检察公益诉讼职能作用的新路径。<br/><div class="contheight"></div><strong>行政公益诉讼诉前整改比例高，超九成采纳检察建议</strong><br/><div class="contheight"></div>2015年7月，检察机关提起公益诉讼制度经授权，在北京、湖北等十三个省市区开展为期两年的试点。此后，检察公益诉讼制度被明确写入法律。<br/><div class="contheight"></div>胡卫列指出，与试点期间相比，各地办案情况出现了一些新的特点：一是办案数量持续快速增长。<br/><div class="contheight"></div>数据显示，2018年1-6月检察机关共立案公益诉讼案件22343件，办理诉前程序案件18359件；三季度立案32345件、诉前27662件，是前6个月的1.45倍和1.5倍；10月立案16154件、诉前13690件，11月立案18681件、诉前18737件，环比分别增长13.53%、26.94%。<br/><div class="contheight"></div>同时，食品药品领域案件量增幅较大。今年1-11月，共立案食品药品领域公益案件29916件。刑事附带民事公益诉讼案件占比较高。1-11月起诉案件中，刑事附带民事公益诉讼1954件，占76.33%。行政公益诉讼诉前整改比例大幅度提高，从试点期间的80%左右跃升至94.42%，其中94%以上的案件经过诉前检察建议就达到了保护目的。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周琦<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 最高检 典型案例 食药</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772881">
+<div class="nbgbox">
+<a class="zan" contid="2772881" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 通报典型案例</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772881&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772881&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">iPhoneXR吸引更多安卓用户转投苹果：买家占比16%</h1>
+<div class="news_about">
+<p>澎湃新闻记者 承天蒙 综合报道</p>
+<p>
+							2018-12-27 14:17<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">有统计显示，苹果最新的iPhone机型比往年吸引了更多安卓用户转投苹果阵营。<br/><div class="contheight"></div>12月26日，研究机构CIRP （Consumer Intelligence Research Partners，消费者情报研究伙伴）的报告显示，在iPhone XR发售的30天内，有16%的买家将自己的安卓手机换为iPhone。与之相对，在iPhone 8和8 Plus在2017年9月发售之后，从安卓换成iPhone的买家占比为12%，当iPhone X在2017年11月发售时，这个数字为11%。<br/><div class="contheight"></div>“看上去iPhone XR吸引了不少安卓用户。”CIRP的联合创始人兼合伙人Mike Levin在新闻稿中表示，“苹果没有讲明它的这个产品战略，但从定价和功能中，我们可以推断，苹果将iPhone XR定位为吸引来自安卓操作系统的潜在阵营转换者。”<br/><div class="contheight"></div>CIRP的报告还发现，美国近三分之一的iPhone买家扎堆购买最便宜的新机型iPhone XR，在iPhone XR 2018年10月发售后的30天，它的销量占到了iPhone在美国总销量的32%，同样时间段，iPhone XS和XS Max的销量之和占全美iPhone总销量的35%。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/544/660.png" width="100%"/></div><span style="color: rgb(128, 128, 128);">发售30天后，不同iPhone机型在美国的销量。</span><br/><div class="contheight"></div>据CNBC12月27日报道，一些迹象表明，iPhone的新机型，包括iPhone XS、XS Max和XR的总体需求相对不佳，包括此前苹果的一些关键供应商给出了下调预期，苹果也宣布将不再公开iPhone的销量。<br/><div class="contheight"></div>但对于新推出的平价机型iPhone XR，苹果一直十分看好。2018年11月在接受CNET采访时，苹果的产品市场副总裁Greg joswiak曾表示，iPhone XR“自从上市发售以来，就成为了我们最受欢迎的iPhone”。<br/><div class="contheight"></div>CIRP表示，iPhone XR上市第一个月的销售轨迹无法与苹果此前的机型直接比较，因为它不仅是更廉价的机型，还标志着苹果发售策略的转向。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙扶<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2779250">
+<div class="nbgbox">
+<a class="zan" contid="2779250" href="javascript:;" onclick="voteCont(this)" praisetimes="36">
+                           35</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: iPhoneXR</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2779250&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2779250&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（84）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

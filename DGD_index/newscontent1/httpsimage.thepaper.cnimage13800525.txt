@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">马哈蒂尔转口风：中资项目仍在谈判不设期限，确保中方不亏钱</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-02 14:31<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="381" src="http://image.thepaper.cn/www/image/13/800/515.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">马哈蒂尔。视觉中国 资料</span><br/><div class="contheight"></div>马来西亚总理马哈蒂尔去年上台以来，“暂停”了数个中资项目，并被认为与日本不断走进。在近日接受媒体专访中，马哈蒂尔驳斥了这种说法，称自己是中国的好朋友，并没有反华倾向。<br/><div class="contheight"></div>《星洲日报》1月1日在对马哈蒂尔的专访中指出，当马哈蒂尔听到有人指他因为多次访问日本和重新审视与中国合作的大型计划，被认为是“亲日反中”时“笑了起来”。他称，他曾多次向世界各国捍卫中国，包括他在日本出席日本的论坛时，同样捍卫中国，为中国讲话。<br/><div class="contheight"></div>“他们问我，你觉得中国怎么样？我告诉他们，马来西亚一直与中国保持联系，有贸易往来，我们一直对中国友好。”<br/><div class="contheight"></div>马哈蒂尔还进一步补充说，当年葡萄牙从遥远8000英里来到这里，两年后就殖民我们。而中国与我们在一起很久了，但没有殖民我们。马来西亚有很多中国人，若他们要殖民我们是可以的，但我们不曾被中国殖民。“所以，我们应该怕谁？中国或欧洲？”<br/><div class="contheight"></div>对于马来西亚政府要求检讨与中国合作的东海岸铁路计划（ECRL）和取消沙巴和马六甲天然气管道计划，马哈蒂尔进一步解释称，“中国政府了解，我们面对严峻的财务问题，我告诉他们，我们负担不起。这不是因为我们不要，而是首先这个计划有问题，并且我们没有能力负担。”<br/><div class="contheight"></div>马哈蒂尔还说，如果中国同意，政府可能以缩小东铁项目规模来继续这项工程。他表示，目前双方仍在谈判东铁计划，至今仍未找到良好的解决方案，双方并无设下谈判期限。“我们正尝试做的是，确保中方不会亏钱，但我们不需要花费太多的钱。”<br/><div class="contheight"></div>他强调，马来西亚政府目前处于两难局面，若终止计划，政府必须向中国做出天文数字的赔偿，然而同时，政府面对的财政窘境令其难以执行计划。<br/><div class="contheight"></div>去年8月，马来西亚总理马哈蒂尔在结束访华前表示，因为债务高企，马来西亚决定“暂时取消”东海岸铁路计划和两项油气管道计划，他当时对媒体表示，“我已经向中方领导人解释了我们的问题，他们表示理解”。中国外交部发言人陆慷21日在例行记者会上表示，任何两个国家之间开展合作不可避免会出现一些问题，在不同时期也可能出现一些不同的看法。对于合作中出现的问题，应从两国友好和双边关系长远发展出发，通过友好协商妥善解决。这也是马哈蒂尔总理此次访华期间双方达成的重要共识。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 马哈蒂尔,马来西亚</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2803330">
+<div class="nbgbox">
+<a class="zan" contid="2803330" href="javascript:;" onclick="voteCont(this)" praisetimes="75">
+                           74</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 马来西亚</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2803330&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2803330&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（43）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

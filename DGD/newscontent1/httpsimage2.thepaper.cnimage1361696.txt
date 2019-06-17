@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜深圳虐童案，处罚“爆料者”并不离谱</h1>
+<div class="news_about">
+<p>澎湃特约评论员 欧阳晨雨</p>
+<p>
+							2018-12-28 09:11<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2781746" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜深圳虐童案，处罚“爆料者”并不离谱" src="//image2.thepaper.cn/image/13/566/167.jpg"/>
+</a>
+<div class="atlas_360_txt">深圳“虐童”父母被采取刑事强制措施，视频发布者被行政处罚<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">深圳虐童案又有了新进展。警方昨晚通报，已依法对女童父母刑事立案侦査，并对二人采取刑事强制措施。对虐待亲生女儿的父母追究刑责，并不出人意料，毕竟殴打女童的视频证据等就摆在那里。<br/><div class="contheight"></div>让人略感意外的是，警方将视频的发布人王某礼和提供人钟某云带回协助调査后，针对二人利用非法获得的刘某华家中网络监控摄像头账号密码，多次登录摄像头偷窥，并下载编辑后发布的行为，根据《治安管理处罚法》对他们作出行政处罚。<br/><div class="contheight"></div>的确，这起虐童案能浮出水面，具有太多的偶然因素，如果不是王某礼、钟某云“网上曝光”，恐怕这对夫妻的恶行至今仍不会为众人所知，被虐待小女孩的命运将不堪设想。之前，就有网友表示，检举揭发违法犯罪是宪法赋予公民的权利，为保护少年儿童免受更多的伤害而“偷看”“曝光”，两害相权取其轻，并不存在侵犯隐私权的问题。<br/><div class="contheight"></div>但是，从本案的情况看，他们侵权在前、检举在后，已有违法之嫌。作为被虐女童父亲牌友的钟某云，“曾将手机借给女孩父亲登陆乐橙查看监控”，“手机能自动登陆这家人的乐橙”，并不代表他人授权“登陆”。如果不是有意登陆他人账号，又怎么会“在无意间看到了视频里有虐童情况”，且持续关注了一个月？<br/><div class="contheight"></div>而作为视频的剪辑者及发布者的王某礼，得到非法掌握的账号密码后，观看并下载虐待女童视频，并且在网上曝光，让未成年人的个人隐私直接暴露在大庭广众之下，而不是向公安机关报案，如此做法，同样与《民法总则》《网络安全法》《未成年人保护法》等法律格格不入。<br/><div class="contheight"></div>即便两人的初衷良好，也带来了不错的结果，但从法律上讲，并不影响行为违法的性质。根据《治安管理处罚法》，“偷窥、偷拍、窃听、散布他人隐私”，“处五日以下拘留或者五百元以下罚款”，“情节较重的，处五日以上十日以下拘留，可以并处五百元以下罚款”。更有甚者，窃取或者以其他方法非法获取公民个人信息，还可能构成刑法规定的侵犯公民个人信息罪。<br/><div class="contheight"></div>也有人指出，就算违法应追责，对王某礼、钟某云也应当“功过相抵”，不予追究法律责任，也是褒奖公民检举犯罪的善行。这有一定道理，但还应根据具体案情予以斟酌，不能随意“抵消”，否则公民信息、隐私权、未成年人权益又当如何平衡与保障？<br/><div class="contheight"></div>从报道情况看，公安机关仅以相对较轻的治安处罚追究行政责任，应是考量到了王某礼、钟某云行为的社会危害性较轻，以及对拯救了被虐女童的客观事实。根据《治安管理处罚法》，如果违法者有立功表现，可以“减轻处罚或者不予处罚”。具体到此案中，对二人侵犯他人信息、散布未成年人隐私等行为，处以一定罚款，可能更契合公众的普遍预期，也更符合“过当其罚”的法治精神。<br/><div class="contheight"></div>此二人的遭遇，很像哈佛开除偷书大学生约翰。后者在图书馆火灾后，“善心”归还所偷校方的珍本书籍，校长对其一番表扬后，又将他开除。审视深圳虐童案，对施暴者和爆料者“双重追责”，看似有点儿离谱，却是坚守法治应迈出的一步。</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 深圳虐童案</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2786352">
+<div class="nbgbox">
+<a class="zan" contid="2786352" href="javascript:;" onclick="voteCont(this)" praisetimes="302">
+                           301</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 深圳虐童父母被刑事立案</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2786352&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2786352&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（116）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

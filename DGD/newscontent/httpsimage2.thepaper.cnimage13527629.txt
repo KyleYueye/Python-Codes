@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25435">金改实验室</a>
+</div>
+<h1 class="news_title">贵州瓮安农商行不良率飙至近10%，前9月净利为-253万</h1>
+<div class="news_about">
+<p>澎湃新闻见习记者 郭钰</p>
+<p>
+							2018-12-26 18:45<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="350" src="http://image.thepaper.cn/www/image/13/527/685.jpg" width="600"/></div>12月24日，贵州瓮安农村商业银行（以下简称“瓮安农商行”）公布了《2018年度同业存单发行计划》，澎湃新闻记者发现，截至今年9月末该行不良率高达9.81%，不良贷款余额62694.91万元，资本充足率12.765%，核心一级资本充足率12.76%，拨备覆盖率为78.71%，资产利润率为-0.04%，前9月实现净利润-253.97万元，资产净利润率为-0.04%。<br/><div class="contheight"></div>值得注意的是，2018年前9个月，瓮安农商行的总资产为912100.17万元，较2017年增加了48024.97万元，总负债为827962.36万元，较2017年增加了48488.37万元。不过，瓮安农商行营业收入、利润总额和净利润显著下降。2017年瓮安农商行的营业收入为60898.34万元，利润总额为8492.30万元，净利润为5174.08万元。2018年前9个月，该行的营业收入为43162.79万元，利润总额为1214.77万元，净利润为-253.97万元。<br/><div class="contheight"></div>根据《2018年度同业存单发行计划》，瓮安农商行2015年、2016年、2017年的资本充足率分别为10.91%、18.44%、15.94%，拨备覆盖率分别为161.07%、193.59%、102.23%，不良贷款率分别为3.54%、2.98%、6.38%，单一客户贷款集中分别为6.93%、5.87%、9.36%，单一集团客户授信集中度分别为6.93%、5.87%、9.36%。<br/><div class="contheight"></div>瓮安农商行成立于2013年10月，是在原瓮安县农村信用合作联社基础上，由企业法人和自然人共同发起成立的地方性农村中小金融机构，目前注册资本5亿元，法人股有29户，自然人股有1785户。据企业信息查询应用天眼查，瓮安农商行前五大股东分别为卢维等1805户自然人、辜亚江等320人（职工股）、瓮安县粮油储备库、贵州麒龙置业有限公司和贵州省瓮安磷矿。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑景昕<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776996">
+<div class="nbgbox">
+<a class="zan" contid="2776996" href="javascript:;" onclick="voteCont(this)" praisetimes="43">
+                           42</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 农商行</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776996&caid=25435",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776996&amp;caid=25435" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

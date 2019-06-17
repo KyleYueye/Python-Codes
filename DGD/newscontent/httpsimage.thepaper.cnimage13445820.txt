@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">河南籍民警马金涛扫毒中牺牲，被追授“贵州省五一劳动奖章”</h1>
+<div class="news_about">
+<p>大河报·大河客户端</p>
+<p>
+							2018-12-24 09:06<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="827" src="http://image.thepaper.cn/www/image/13/445/818.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">大河报·大河客户端 图</span><br/><div class="contheight"></div>12月22日是冬至，本该是家人聚在一起吃饺子的日子。然而，就在12月20日，就职于贵阳市公安局花溪分局贵筑派出所的漯河籍民警马金涛，却在一次扫毒行动中被犯罪嫌疑人用利器刺伤，经医院抢救无效，壮烈牺牲。<br/><div class="contheight"></div> 记者了解到，马金涛今年30岁，河南省漯河市临颍县王孟镇高村人，2013年9月参加公安工作，系贵阳市公安局花溪分局贵筑派出所民警，二级警司警衔。工作以来，2016年、2017年连续两年公务员考核为优秀等次，2017年因工作突出，荣立个人嘉奖一次。12月20日17时44分，马金涛在抓捕涉毒犯罪嫌疑人时，搏斗中不幸被嫌疑人用利器刺伤，经医院抢救无效，于当日18时20分壮烈牺牲。<br/><div class="contheight"></div> 据现场医生介绍，伤口是一个不规则的T字形小伤口，在伤者的左前臂，靠近心脏的位置，凶器是一种弩箭。12月21日凌晨2点25分，经过全体专案民警8个小时的不懈努力，三名嫌犯已全部被抓获。当天贵州省总工会决定，追授马金涛“贵州省五一劳动奖章”荣誉称号。<br/><div class="contheight"></div> 记者了解到，马金涛有个弟弟叫马金昊，曾经当兵时也负过伤，肺部被切除了一部分，退役后在广东打工。而马金涛的女儿，于去年11月29日出生，刚满一岁。马金涛的母亲和亲戚已于12月21日上午赶去了贵阳。<br/><div class="contheight"></div> 链接 马金涛<br/><div class="contheight"></div> 在马金涛负责的片区，村民们亲切地叫他“小马警官”。“小马警官做人做事，都对得起这身警服。”村民们说，只要家里遇到什么急事、难事，总会第一时间想到他，马金涛也总会第一时间赶到。<br/><div class="contheight"></div>（原标题《漯河籍民警马金涛扫毒行动中牺牲 被追授“贵州省五一劳动奖章”荣誉称号，三名嫌犯已全部被抓获》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：段彦超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 民警,牺牲</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2767760">
+<div class="nbgbox">
+<a class="zan" contid="2767760" href="javascript:;" onclick="voteCont(this)" praisetimes="154">
+                           153</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 缉毒民警</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767760&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767760&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

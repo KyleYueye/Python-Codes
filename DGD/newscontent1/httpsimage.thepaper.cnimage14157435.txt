@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25436">能见度</a>
+</div>
+<h1 class="news_title">美联储表态称对加息持观望态度，美原油价格创近十年最长连涨</h1>
+<div class="news_about">
+<p>澎湃新闻记者 海阳</p>
+<p>
+							2019-01-11 10:34<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="398" src="http://image.thepaper.cn/www/image/14/157/430.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">美联储对加息持观望态度。<br/><div class="contheight"></div></span>由于美联储表态称将继续观察加息政策的影响，增强了经济增长前景，国际油价10日继续上涨，创下近十年来最长的连涨纪录。<br/><div class="contheight"></div>截至当地时间1月10日收盘，2月交货的WTI原油期货价格上涨0.23美元，收于每桶52.59美元，涨幅为0.68%。3月交货的布伦特原油期货价格上涨0.24美元，收于每桶61.68美元，涨幅为0.39%。<br/><div class="contheight"></div>WTI价格连续九个交易日上涨，创下近十年以来最长连涨纪录，而布伦特油价也已连续八个交易日上涨。目前，WTI价格与圣诞前夕相比已上涨23%，布伦特上涨了20%多。根据通常定义，股票、商品价格连续涨幅超过20%即为牛市。二者目前都在此区间内。<br/><div class="contheight"></div>本轮牛市的背景是石油输出国组织（OPEC）与其他产油国落实减产协议，而上一交易日的上涨则源于美联储主席鲍威尔的讲话。<br/><div class="contheight"></div>当地时间1月10日，鲍威尔表示美联储在再次调息前会“耐心地”观察国际风险对美国国内经济的影响。他还表示，美联储将大幅缩减资产负债表。<br/><div class="contheight"></div>道明证券商品咨询师Daniel Ghali表示，鲍威尔的评论让投资者更加放心。“自从市场断崖式下跌以来，我们已经看到了不少积极信号。随着由于OPEC表态履行承诺，原油市场前景远不如一些人预期的那么悲观。”<br/><div class="contheight"></div>Ghali表示，全球各国央行正在收回刺激政策，增加了市场波动性，而投资者应该适应这一波动。目前国际油价距离去年10月份的高点仍然有30%左右的差距。<br/><div class="contheight"></div>美国燃料油库存的增长并未影响油价涨势。根据美国能源信息署（EIA）发布的报告，截至1月4日当周，美国原油库存减少了168万桶，但汽油等精炼产品却大幅增加。<br/><div class="contheight"></div>沙特能源部长法利赫当地时间1月9日表示，主要产油国承诺的每日减产120万桶的计划将足以平衡市场。他补充说，如果目前的减产力度证明不足，他“不排除采取进一步行动的可能性”。<br/><div class="contheight"></div>“去年年底市场参与者的悲观情绪过高，因此我们预计油价会上涨，”法兰克福商业银行商品研究主任Eugen Weinberg表示， “但是，为了进一步提高价格，欧佩克必须采取果断行动。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李跃群<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2840595">
+<div class="nbgbox">
+<a class="zan" contid="2840595" href="javascript:;" onclick="voteCont(this)" praisetimes="11">
+                           10</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国际油价</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2840595&caid=25436",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2840595&amp;caid=25436" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

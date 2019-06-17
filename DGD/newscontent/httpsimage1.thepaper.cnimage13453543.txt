@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">12306技术部：网购2019年春运火车票九成无需验证码</h1>
+<div class="news_about">
+<p>澎湃新闻记者 李文姬</p>
+<p>
+							2018-12-24 15:16<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/453/537.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">乘客使用手机购买火车票  视觉中国 图<br/><div class="contheight"></div></span>12月24日，在中国铁路科技创新成就展上，中国铁道科学研究院电子所副总工程师兼12306技术部主任单杏花就2019年春运售票情况进行预估：春运期间单日峰值将超过1400万张，其中12306线上部分超过1200万张，网上售票渠道占比超过80%。<br/><div class="contheight"></div>单杏花透露，2019年春运售票增加了不少新功能。例如，优化了购票流程，改善了用户体验。在12306网站上增加了扫码登录的功能，便于旅客在网站和App间切换。<br/><div class="contheight"></div>此外，“候补购票”功能也将于2019年春运期间上线。届时，旅客遇到车票售完的情况，可先在12306平台登记购票信息支付预购票资金，之后如有退票、余票，12306系统将会根据先后顺序为这部分旅客自动购票。<br/><div class="contheight"></div>单杏花介绍，今年春运期间铁路部门进一步优化了验证码策略，最大限度减少旅客在购票环节出现验证码。“我们努力要控制在5%-10%，也就是说只有在最热门日期和车次购票时才用输入验证码。”单杏花说道。<br/><div class="contheight"></div>近年来，中国铁路总公司对常被旅客“吐槽”的购票验证码进行了多次调整，删除了清晰度不高、难辨认的图片等。2017年春运时，铁路部门对网购车票验证码进行重要调整，近六成车票发售时不再需要使用验证码。2018年春运时，春运网络购票需要验证码的比例被压缩到15%以下。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）记者从中国铁路总公司获悉，2019年铁路春运从1月21日起至3月1日止，共40天，节前15天，节后25天。根据全国铁路预计，今年春运将发送旅客41330万人次，同比增加3176万人次，增长8.3%，日均发送1033万人次，再创历年春运新高。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋子文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 2019春运，火车票，网购</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768795">
+<div class="nbgbox">
+<a class="zan" contid="2768795" href="javascript:;" onclick="voteCont(this)" praisetimes="23">
+                           22</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 2019春运</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768795&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768795&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

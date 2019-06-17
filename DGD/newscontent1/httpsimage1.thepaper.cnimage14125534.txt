@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">河北雄安新区中级人民法院正式成立</h1>
+<div class="news_about">
+<p>“河北高院”微信号</p>
+<p>
+							2019-01-10 18:42<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/125/532.jpg" width="100%"/></div><span style="color: rgb(128, 128, 128);">本文图片均来自“河北高院”微信公号</span><br/><div class="contheight"></div>“河北高院”微信号1月10日消息，1月10日上午10时，河北雄安新区中级人民法院正式成立，河北省委常委、副省长、雄安新区党工委书记、管委会主任陈刚和河北高院党组书记、院长卫彦明为雄安新区中院成立揭牌。随后，雄安新区中院法官举行宣誓仪式，陈刚出席并致辞，最高人民法院审判委员会委员、研究室主任姜启波出席并讲话。卫彦明主持宣誓仪式。<br/><div class="contheight"></div>陈刚在致辞中指出，设立河北雄安新区，是以习近平同志为核心的党中央作出的重大历史性战略选择。成立雄安新区中院，体现了最高法院牢固树立“四个意识”、坚决落实“两个维护”的政治自觉和行动自觉。河北省委、省政府坚决落实主体责任，协调推动雄安新区中院筹建工作。河北高院超前谋划，做了大量工作。雄安新区中院要不断提高司法服务保障水平，坚持改革创新，积极探索司法体制改革，着力建设智慧法院，创造更高水平的司法文明。河北省委、省政府和新区党工委、管委会将进一步加大对法院工作支持力度，为法院更好履职提供保障。<br/><div class="contheight"></div>姜启波受最高人民法院院长周强委托，代表最高人民法院对雄安新区中院的设立表示祝贺，并要求河北高院把服务保障雄安新区规划建设作为全省法院工作的重中之重，为规划建设世界眼光、国际标准、中国特色、高点定位的新区营造良好法治环境。希望雄安新区中院法官坚定正确政治方向，恪守依法治国原则，坚持服务保障大局，践行司法为民宗旨，坚守清正廉洁底线，为加快建设社会主义法治国家作出新的更大贡献。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/125/530.jpg" width="100%"/></div>在宣誓仪式上，受河北省委书记、省人大常委会主任王东峰委托，卫彦明为雄安新区中院首批10名员额法官颁发了任命书。卫彦明要求，雄安新区中院要提高政治站位，突出改革创新，探索新时代人民法院发展新模式，为全国法院提供示范。要充分发挥审判职能作用，不断加强队伍建设，认真做好服务保障雄安新区建设发展各项工作特别是保障好“十大工程”顺利推进，为雄安新区打造高质量发展的全国样板提供有力的法治保障。<br/><div class="contheight"></div>雄安新区中院首任院长刘光辉表示，将围绕新区发展建设大局，旗帜鲜明讲政治，围绕大局尽职责，公正司法为人民，改革创新谋发展，从严治院正作风，以身作则做表率，为推动新区发展提供有力司法保障。<br/><div class="contheight"></div>河北高院党组成员、政治部主任赵增国主持揭牌仪式。雄安新区有关领导参加揭牌和宣誓仪式。<br/><div class="contheight"></div>（原题为《河北雄安新区中级人民法院正式成立》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 雄安新区</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837440">
+<div class="nbgbox">
+<a class="zan" contid="2837440" href="javascript:;" onclick="voteCont(this)" praisetimes="17">
+                           16</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 雄安新区</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837440&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837440&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

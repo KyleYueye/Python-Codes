@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">英国150所大学校长联名信：无协议脱欧是有史以来最大威胁</h1>
+<div class="news_about">
+<p>中新社</p>
+<p>
+							2019-01-06 16:18<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据中新社1月6日报道，英国150所大学校长当地时间5日发布联名信警告称，“无协议脱欧”是英国大学遇到过的“有史以来最大的威胁之一”。<br/><div class="contheight"></div>校长们在信中称，“毫无夸张”地说，“无协议脱欧”将破坏英国大学的科学研究，从新的癌症治疗方法，到对抗气候变化的技术都将受到严重影响，并且威胁到英国大学对英国经济200多亿英镑的贡献，将让英国大学“花数十年才能恢复”。<br/><div class="contheight"></div>在这封致所有英国国会议员的信件上联合署名的，包括了来自英国大学联盟、罗素大学集团、高等教育机构协会的大学校长。<br/><div class="contheight"></div>英国大学联盟主席珍妮特·比尔女爵士警告称“时间快要耗尽了”，如果没有“强力的协议保障”使英国继续接触欧洲研究网络，将导致英国大学失去在欧洲研究网络中的地位，这是非常危险的。世界领先的专家、学者将会离开英国大学，前往“不受影响”的国家。<br/><div class="contheight"></div>大学校长们担忧，“无协议脱欧”将使英国高等教育机构“立刻失去资格”，不能得到来自欧盟未来两年近千亿英镑的研究资金。而欧盟学生来英人数减少的不确定性“只可能变得更糟”，使得英国一些大学财务可持续性状况更为堪忧，特别是那些无法吸引到足够学生的学校，可能无法再独立运营。<br/><div class="contheight"></div>英国高等教育政策研究所所长尼克·希尔曼预测，“无协议脱欧”的负面影响将增加一些大学“走到尽头”的风险，这意味着为数不少的大学将面临收购、兼并或者紧急救助。<br/><div class="contheight"></div>英国“脱欧”协议的议会投票，被推迟后定于本月14日举行。目前，仍面临被多数议员们否决的可能，政府内阁敦促社会各界做好“无协议脱欧”的准备，将于下周开展“无协议脱欧”情况下边境、港口的交通管理状况测试。<br/><div class="contheight"></div>（原标题 《英国大学校长联名信：“无协议脱欧”是“有史以来最大的威胁”》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 英国脱欧</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2820449">
+<div class="nbgbox">
+<a class="zan" contid="2820449" href="javascript:;" onclick="voteCont(this)" praisetimes="31">
+                           30</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 英国脱欧</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2820449&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2820449&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

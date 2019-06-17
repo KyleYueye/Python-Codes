@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">中央气象台发布暴雪蓝色预警，长三角地区计划停运多趟列车</h1>
+<div class="news_about">
+<p>吴兰、许文峰/中新网</p>
+<p>
+							2019-01-08 19:27<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网合肥1月8日消息，中国铁路上海局集团有限公司8日消息，根据中央气象台暴雪蓝色预警预报，长三角铁路及时启动应急预案，对可能受暴雪影响的沪汉蓉、阜淮、淮南等线路部分列车采取停运措施。<br/><div class="contheight"></div>中央气象台1月8日18时发布的暴雪蓝色预警，预计1月8日20时至9日20时，<strong>湖北北部、河南西部和南部、安徽中部、江苏西南部等地的部分地区有大雪，其中，安徽中部偏西地区局地有暴雪(10～16毫米)，上述地区积雪深度3～5厘米，局地可达8厘米以上。</strong><br/><div class="contheight"></div>针对暴雪可能带来的影响，中国铁路上海局集团有限公司对1月9日部分列车停运。同时，密切关注强降雪情况变化，适时采取停运、停售、限速、迂回、折返、加开、恢复开行等措施，动态调整列车开行方案，确保旅客出行安全。<br/><div class="contheight"></div>铁路部门提醒旅客，停运列车车次及时间等相关信息，请以车站公告为准，若有疑问可致电铁路客服热线021-12306。旅客还可通过12306铁路客服平台、中国铁路上海局集团有限公司官方微博、微信，“上铁12306”APP或车站大屏幕、广播、公告等方式，及时了解列车开行情况。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="540" src="http://image.thepaper.cn/www/image/14/42/493.jpg" width="303"/></div><div><span style="color: rgb(128, 128, 128);">中新网 图</span></div>（原标题《长三角铁路应对暴雪影响计划停运部分列车》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 暴雪预警</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828481">
+<div class="nbgbox">
+<a class="zan" contid="2828481" href="javascript:;" onclick="voteCont(this)" praisetimes="338">
+                           337</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 暴雪预警</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828481&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828481&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（128）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

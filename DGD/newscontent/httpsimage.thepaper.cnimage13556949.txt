@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">焦点访谈曝光泰州违法填埋危废事件后，20名党员干部被调查</h1>
+<div class="news_about">
+<p>丁国锋/法制网</p>
+<p>
+							2018-12-27 17:22<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月24日，央视《焦点访谈》对江苏泰州泰兴市张桥镇、河失镇、黄桥镇违法填埋单氰胺废渣等危险固废及土地复垦问题进行了曝光报道。针对曝光反映的问题，泰州市、泰兴市两级纪委监委已联合开展深度调查，在前期已对张桥镇党委委员、副镇长朱军等10名党员干部进行问责的基础上，对20名党员干部履行职责情况进行调查核实，对不正确履行工作职责的人员将严肃实施责任追究。<br/><div class="contheight"></div>12月27日下午，泰兴市委宣传部回应《法制日报》记者采访时解释，《焦点访谈》曝光的环保问题均为2018年6月中央环保督察“回头看”期间的交办信访件，目前所有点位已逐个制定整改方案，泰兴市将进一步压实责任，快速整改，确保成效。<br/><div class="contheight"></div>该回应称：对张桥镇违法填埋固废，按照“先同步开展填埋物属性鉴定和填埋地块环境损害评估，再开挖转运暂存，然后协同处置，最后根据环境损害评估报告适时进行生态修复”的处置方案，委托专业机构对单氰胺废渣进行属性鉴别，对整治点进行环境损害评估工作，目前已转运5830吨至暂存库。河失镇填埋的盐泥整治点目前已全部转运结束。黄桥镇整治点目前启动转运，预计2019年3月底前完成处置暂存工作。<br/><div class="contheight"></div>回应称：针对固废填埋问题，泰兴市将深刻汲取教训，举一反三，在全市扎实开展固废专项排查整治行动，全面排查出全市面上的固废填埋点，落实乡镇、园区、部门责任，限期科学规范整改到位。同时，泰兴公安机关对目前涉嫌污染环境的31名人员和一家企业依法采取强制措施，检察机关以污染环境罪提起公诉，市纪委监委对涉嫌违规违纪的相关责任人进行了追责问责。<br/><div class="contheight"></div>回应表态说，泰兴市委、市政府将力争2019年3月底前全面完成所有点位的处置任务。同时在全市深入开展固废专项排查整治和打击固废领域违法违规专项行动，严肃追究相关企业和人员的法律责任，严肃问责失责干部。检察机关还将依法进行公益诉讼，追溯生态赔偿责任。<br/><div class="contheight"></div>（原题为《江苏泰州再现违法填埋危险固废事件追踪 20人被纪委监委调查 31人被公安采取强制措施》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：崔烜<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 危废 非法填埋 泰州</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780695">
+<div class="nbgbox">
+<a class="zan" contid="2780695" href="javascript:;" onclick="voteCont(this)" praisetimes="15">
+                           14</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 非法倾倒危废</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780695&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780695&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27234">科技湃</a>
+</div>
+<h1 class="news_title">华大基因提前完成1.5亿元增持计划，汪建增持逾1亿元</h1>
+<div class="news_about">
+<p>澎湃新闻记者 贺梨萍</p>
+<p>
+							2019-01-08 16:37<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">国内基因测序上市公司深圳华大基因股份有限公司（下称“华大基因”，300676）提前完成了近6个月前宣布的增持计划，累计增持金额逾1.51亿元。华大基因实际控制人、董事长汪建增持超过1亿元，增持资金为自有资金及自筹资金。<br/><div class="contheight"></div>1月7日晚间，华大基因公告称，2018年7月24日至2019年1月4日，增持计划主体通过深圳证券交易所交易系统累计增持公司股票金额为1.51191165亿元，本次增持计划已完成。增持主体包括汪建、华大基因董事孙英俊、控股股东华大控股核心管理团队。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="259" src="http://image.thepaper.cn/www/image/14/34/572.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">增持计划具体实施情况<br/><div class="contheight"></div></span>本次增持计划实施前，汪建直接持有公司华大控股85.30%股权，华大控股直接和间接合计控制公司38.12%的股份，汪建通过华大控股控制华大基因38.12%的股份。截至公告披露日，孙英俊持有华大基因股东深圳前海华大基因投资企业（有限合伙）（下称“华大投资”）0.4507%的合伙份额，华大投资持有华大基因股份比例为16.72%。<br/><div class="contheight"></div>本次增持计划的价格不高于120元/股。公告称，增持主体基于对公司股票价值的合理判断，结合资本市场整体发展趋势，根据公司二级市场股票的市场价格实施本次增持计划。<br/><div class="contheight"></div>公告还提到，增持计划实施期间，华大基因实施了2018年半年度权益分派，向全体股东每10股派2.00元人民币现金红利（含税）。<br/><div class="contheight"></div>此前的2018年7月17日、7月19日、7月23日，华大基因在短短一周内密集宣布增持。汪建、孙英俊、核心管理团队，自宣布增持公告之日起未来6个月内，按照相关法律法规的规定增持公司股份，增持金额累计不低于1.5亿元人民币。<br/><div class="contheight"></div>而在华大基因高管密集宣布增持背后，是华大基因彼时正深陷舆论漩涡、股价持续下跌。<br/><div class="contheight"></div>2018年6月14日，“独孤九剑王德明”在天涯论坛发布文章，实名向江苏省人民政府举报华大基因伪高科技忽悠欺诈涉嫌贿赂官员，大规模套骗国有资产。<br/><div class="contheight"></div>2018年7月13日，虎嗅刊发头条文章《华大癌变》，报道了去年在湖南省长沙市望城区妇幼保健院诞生了一名“13号染色体长臂缺失综合症”男婴，认为该男婴的不幸降临和当时负责产检的医院和提供无创DNA检查的华大基因有关。<br/><div class="contheight"></div>此外，2018年7月16日也是华大基因巨额限售股解禁日，解禁数量为2.06亿股，占公司股本总额的51.6%。按解禁前一天收盘价计算，华大基因解禁股市值约为211亿元。<br/><div class="contheight"></div>自“举报门”至公司高管纷纷宣布增持，华大基因股价在仅1个多月时间内下跌近四成。华大基因总市值也由最高时的突破1000亿元缩水至300亿元左右。<br/><div class="contheight"></div>过去的2018年，华大基因股价从年初的逾200元/股，跌到年末的60元/股左右，累计跌幅70%。2018年10月，华大基因总市值曾一度失守200亿元关口，股价不足50元/股。进入2019年，华大基因股价目前徘徊在60元/股附近。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李跃群<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 华大基因,增持,汪建,澎湃</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827534">
+<div class="nbgbox">
+<a class="zan" contid="2827534" href="javascript:;" onclick="voteCont(this)" praisetimes="13">
+                           12</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 华大基因</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827534&caid=27234",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827534&amp;caid=27234" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

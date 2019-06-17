@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25599">运动家</a>
+</div>
+<h1 class="news_title">武磊肩伤确诊无大碍，但次战菲律宾还是让他轮休吧</h1>
+<div class="news_about">
+<p>澎湃新闻记者 宋承良 发自阿布扎比</p>
+<p>
+							2019-01-08 20:27<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="426" src="http://image.thepaper.cn/www/image/14/45/379.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">里皮和国足需要健康的武磊。</span><br/><div class="contheight"></div>首战2比1逆转击败吉尔吉斯斯坦，这本该是件高兴的事，但多名主力球员在比赛中受伤，这为里皮之后的排兵布阵，增添了一些麻烦。<br/><div class="contheight"></div>赛后混合采访区里，进球功臣于大宝一瘸一拐走路，“龇牙咧嘴”的样子显得有些痛苦。而回到休息室后，他赶紧拿着一袋冰敷着疼痛的伤处。<br/><div class="contheight"></div>还有终场前不久被刘奕鸣替换下场的张呈栋，也是扶着腿慢慢走过混采区，看见相熟的记者，张呈栋也说，“回去赶紧治疗和休息，别影响后面的比赛。”<br/><div class="contheight"></div>但最令人担忧的还是武磊的伤势。武磊在比赛第80分钟被对方球员放倒，直到吉尔吉斯斯坦队完成了一次进攻后，当值主裁哈桑才叫停比赛，允许中国队队医进场。<br/><div class="contheight"></div> <strong>赛后新闻发布会上，国足主帅里皮透露，武磊的锁骨、肩胛骨处出现了错位。队友颜骏凌则说，武磊的伤处鼓起了一个包。</strong><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="426" src="http://image.thepaper.cn/www/image/14/45/378.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">里皮询问武磊伤情。</span><br/><div class="contheight"></div>比赛结束后，中国队立即乘坐大巴返回阿布扎比。但武磊没有和大部队一起出发，而是乘坐了一辆小型商务车径直赶赴阿布扎比的一家大型医院。<br/><div class="contheight"></div> 据了解，武磊在医院接受了全面体检，回到酒店已经是深夜。从目前医院回馈的信息看，武磊的肩锁关节出现了韧带拉伤的情况。队医的初步判断是，武磊的伤势还不算严重，不会影响他参加后面的比赛。<br/><div class="contheight"></div><strong>而在8日上午10点半，国足继续在阿布扎比的瓦赫达学院进行训练，武磊也现身球场，从能够参加训练这个情况来看，武磊的伤势应该不会太严重。</strong><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="410" src="http://image.thepaper.cn/www/image/14/45/376.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">武磊参与国足训练。</span><br/><div class="contheight"></div>但类似这样的伤病，如果遇到激烈对抗或许有加重的风险，因此，武磊能否参加第二场和菲律宾的比赛，现在还存在一些疑问。<br/><div class="contheight"></div> <strong>据澎湃新闻记者了解，国足医疗组已经就伤情给出了“没问题”的结论，但教练组需要做出一个整体评估。<br/><div class="contheight"></div></strong>小组赛首战赢球后，中国队基本上握有出线主动权，第二场比赛老队长郑智即将复出，这也可以提升球队中场的控制力。为了保险起见，11日对阵菲律宾的比赛，教练组完全有可能选择不让武磊首发。<br/><div class="contheight"></div><strong>毕竟，对于底线要进入前八的国足来说，中韩大战和第一场淘汰赛，才是更重要的比赛。</strong></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：腾飞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 武磊,亚洲杯,国足</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2826005">
+<div class="nbgbox">
+<a class="zan" contid="2826005" href="javascript:;" onclick="voteCont(this)" praisetimes="22">
+                           21</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 亚洲杯</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2826005&caid=25599",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2826005&amp;caid=25599" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

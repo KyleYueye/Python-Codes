@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25491">长三角政商</a>
+</div>
+<h1 class="news_title">脚蹬15厘米高跟鞋边走路边看手机，女子摔出脑震荡磕掉门牙</h1>
+<div class="news_about">
+<p>钱江晚报</p>
+<p>
+							2019-01-10 09:29<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="391" src="http://image.thepaper.cn/www/image/14/108/451.jpg" width="550"/></div><span style="color: rgb(128, 128, 128);">这双鞋的鞋跟目测15厘米。钱江晚报 图<br/><div class="contheight"></div></span>高跟鞋是很多女孩的标配。“站在高跟鞋上，我可以看到全世界”——这是《欲望都市》女主人公凯莉的经典台词。<br/><div class="contheight"></div> 但并不是所有人都驾驭得了高跟鞋，因高跟鞋发生的意外层出不穷。1月7日，杭州火车东站一名女子穿着至少15厘米高的高跟鞋，低头玩手机，结果摔出轻微脑震荡。<br/><div class="contheight"></div> 当天11点左右，杭州火车东站到达层，一位男子与一位随行女子出站。女子30多岁，穿了双很高的高跟鞋。出站时，她一直低头看手机，两人来到西B1售票厅门口处时，女子脚一歪，直愣愣地摔倒在地，门牙都摔掉了，血吐了一地，身上、衣服上都是血迹。<br/><div class="contheight"></div> 铁路民警赶来，叫了救护车。幸好抢救及时，女子并无大碍，目前在医院救治，有轻微脑震荡。<br/><div class="contheight"></div> 铁路民警分析，女子摔倒，高跟鞋要“背锅”，但最主要还是低头看手机。东站派出所民警谢警官说：“她那双高跟鞋目测15厘米肯定有的。我特意去出站口观察了一段时间，发现来坐火车的、出站的，边走路边看手机的不在少数。” <br/><div class="contheight"></div> “穿高跟鞋容易崴脚，踝关节受伤最常见。”杭州市红十字会医院骨科胡胜平医师说，反复崴脚还会出现韧带松弛，时间长了易发生骨性关节炎，造成持续疼痛，进而形成骨赘，进一步改变力学特性，甚至丧失行走等能力。”<br/><div class="contheight"></div> “那种又高又细的高跟鞋，对足底组织损伤非常大，极易造成前足关节炎或局部溃疡。长时间穿高跟鞋还可能造成前足畸变，如大脚趾外翻、足趾畸形等。”胡胜平说，有个25岁的女病人穿了六七年高跟鞋，结果双脚拇趾外翻，一走路就疼。此外，穿高跟鞋站立，为保持平衡和体态，骨盆会前倾、腰部会后仰，容易导致腰肌劳损；人的重心前移，脊柱弯曲增大，颈椎受力集中，这种损伤的积累最终将导致颈椎病。 <br/><div class="contheight"></div> 这几年，医院门急诊中因高跟鞋受伤的少了。“可能和流行趋势有关，也可能和健康意识增强有关。”浙大医学院附属杭州市第一人民医院骨科副主任范小良说。“现在那种很夸张的高跟鞋不多见了，姑娘们会选择松糕鞋或鞋跟粗些的高跟鞋，好多潮鞋会把鞋底做得厚些，有些特殊场合需要高跟鞋，女孩子也会备双平底鞋，及时换上。”他建议，穿高跟鞋，鞋跟不要超过5厘米。<br/><div class="contheight"></div> （原题为《脚踩15厘米高跟鞋 女乘客看手机摔出脑震荡》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张军<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 高跟鞋,手机,脑震荡,门牙</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835379">
+<div class="nbgbox">
+<a class="zan" contid="2835379" href="javascript:;" onclick="voteCont(this)" praisetimes="80">
+                           79</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 高跟鞋</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835379&caid=25491",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835379&amp;caid=25491" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（59）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

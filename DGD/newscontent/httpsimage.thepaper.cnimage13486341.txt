@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">张扣扣案二次庭前会议：法院将对庭审图文直播，开庭时间待定</h1>
+<div class="news_about">
+<p>澎湃新闻记者 陈雷柱</p>
+<p>
+							2018-12-25 14:36<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="533" src="http://image.thepaper.cn/www/image/13/486/338.png" width="600"/></div>因为22年前目睹母亲被邻居王家人打死，2018年农历除夕夜，陕西汉中35岁男子张扣扣将王家父子三人当众杀害。<br/><div class="contheight"></div>12月25日，该案在陕西省汉中市中级人民法院进行二次庭前会议。张扣扣的辩护律师邓学平表示，庭前会议中，法院明确将庭审实况在官方微博中进行图文直播。<br/><div class="contheight"></div>据公开报道，在11月16日该案的首次庭前会议中，张扣扣曾向法院提出希望对庭审的全过程进行网络直播，否则将保持沉默。<br/><div class="contheight"></div>“我想这个图文直播的回应基本能满足张扣扣的期待，庭审时，他应该会开口说话。”邓学平说，二次庭前会议中，合议庭主要就管辖、回避、排非、证人出庭以及庭审质证方式等听取了控辩双方的意见，并一一回应。因为主要处理的都是程序问题，张扣扣发言不多，精神状态一般。<br/><div class="contheight"></div>对于该案具体的开庭时间，邓学平说，目前尚未确定，”预计将在2019年1月上旬正式开庭审理，届时，我们将做有罪从轻辩护。“</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王选辉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 张扣扣,陕西,庭审直播</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772527">
+<div class="nbgbox">
+<a class="zan" contid="2772527" href="javascript:;" onclick="voteCont(this)" praisetimes="75">
+                           74</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 张扣扣案</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772527&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772527&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（920）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

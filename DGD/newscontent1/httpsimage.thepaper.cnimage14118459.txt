@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">教育部等多部门：港澳台居民在内地可申请中小学教师资格</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2019-01-10 15:17<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网1月10日消息，据教育部网站消息，近日，教育部办公厅、中共中央台湾工作办公室秘书局、国务院港澳事务办公室秘书行政司联合下发关于港澳台居民在内地(大陆)申请中小学教师资格有关问题的通知，通知称，在内地(大陆)学习、工作和生活的港澳台居民，凡遵守《中华人民共和国宪法》和法律，拥护中国共产党领导，坚持社会主义办学方向，贯彻党的教育方针，根据自愿原则，可申请参加中小学教师资格考试，认定中小学教师资格。<br/><div class="contheight"></div>通知指出，港澳台居民申请参加中小学教师资格考试、认定中小学教师资格的有效证件为港澳台居民居住证、港澳居民来往内地通行证、五年有效期台湾居民来往大陆通行证。<br/><div class="contheight"></div>通知还称，港澳台居民可申请幼儿园、小学、初中、高中、中等职业学校教师资格和中等职业学校实习指导教师资格。港澳台居民申请教师资格需符合《中华人民共和国教师法》规定的学历要求。<br/><div class="contheight"></div>通知提到，港澳台居民申请认定教师资格需提交的无犯罪记录证明由香港特别行政区、澳门特别行政区和台湾地区有关部门开具。如有需要，各省级教育行政部门要为港澳台居民申请无犯罪记录证明提供函件等便利。港澳台居民申请教师资格，应达到国家语言文字工作委员会颁布的相应普通话水平等级标准。<br/><div class="contheight"></div>通知称，港澳台居民持港澳台居民居住证可在内地(大陆)居住所在地申请参加中小学教师资格考试和认定中小学教师资格；港澳居民持港澳居民来往内地通行证、台湾居民持五年有效期台湾居民来往大陆通行证可在内地(大陆)申请参加中小学教师资格考试，在考试所在地认定中小学教师资格。申请中小学教师资格的其他条件、程序和提交材料与内地(大陆)申请人相同。在内地(大陆)就读师范专业的港澳台居民执行就读省份相应师范生政策。<br/><div class="contheight"></div>通知表示，《教育部办公厅 中共中央台湾工作办公室秘书局 国务院港澳事务办公室秘书行政司关于港澳人士和台湾同胞在内地(大陆)高校申请教师资格证有关问题的通知》(教师厅〔2012〕5号)规定的有效证件与本文不一致的，参照本文执行。<br/><div class="contheight"></div>（原题为《港澳台居民在内地(大陆)可申请中小学教师资格》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中小学教师资格,港澳台</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836770">
+<div class="nbgbox">
+<a class="zan" contid="2836770" href="javascript:;" onclick="voteCont(this)" praisetimes="778">
+                           777</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 港澳台</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836770&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836770&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（135）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

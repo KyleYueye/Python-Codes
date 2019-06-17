@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">洋山深水港四期通过竣工验收，核定码头靠泊能力为15万吨级</h1>
+<div class="news_about">
+<p>澎湃新闻记者 何颖晗</p>
+<p>
+							2018-12-25 16:41<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月25日，上海国际航运中心洋山深水港四期工程通过上海市交通委组织的竣工验收。<br/><div class="contheight"></div>经核定，码头靠泊能力为15万吨级。交通运输部水运局进行指导和监督。<br/><div class="contheight"></div>2017年12月10日，洋山深水港四期码头开港试生产，截至目前，已累计安全开靠干线船舶600余艘次、支线船舶3200余艘次，2018年集装箱吞吐量有望超过200万标准箱。<br/><div class="contheight"></div>试生产期间，16台桥吊、88台轨道吊、80台自动导引车已全部投产，生产管理系统功能更加完备，设备性能不断提升，码头昼夜最高吞吐量达到14451标准箱。<br/><div class="contheight"></div>“专家意见核定以后，洋山深水港可以安全可靠地服务大船，15万吨的大船（约一万四千箱）在洋山非常密集。可以说，洋山港深水深用的建设目标全面实现。”上港集团副总裁方怀瑾透露，2019年洋山深水港还会增加一些设备，运行效率再提升，吞吐量更大。<br/><div class="contheight"></div>2018年夏秋季，多个台风密集影响上海，通过严格落实各项防台防汛和综合管理措施，洋山四期的各类设施、设备经受住了恶劣天气的严峻考验。<br/><div class="contheight"></div>试生产期间，中共中央总书记、国家主席习近平，国务院总理李克强先后与洋山四期视频连线，充分肯定了工程建设和码头运营所取得成绩。习近平还要求以勇创世界一流的志气和勇气，把洋山深水港建设好、发展好、管理好，加强软环境建设，不断提高港口运营管理能力与综合服务能力。<br/><div class="contheight"></div>洋山四期工程于2014年12月开工建设，总用地面积223万平方米，共建设7个集装箱泊位、集装箱码头岸线总长2350米，是目前全球一次性建成规模最大的自动化集装箱码头。洋山四期工程竣工验收，标志着码头将步入正式生产阶段，根据后续规划，码头远期设备规模将扩大到26台桥吊、120台轨道吊、130台自动导引车，具备630万标准箱年吞吐能力。<br/><div class="contheight"></div>上海市交通委表示，将以党中央、国务院的重要指示为引领，努力将洋山四期建设成为智慧港口、绿色港口、科技港口、效率港口的典范，助力上海国际航运中心建设，为全面扩大开放、推动“一带一路”和长江经济带建设发挥更大的作用。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王维佳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 洋山四期,上海</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2773037">
+<div class="nbgbox">
+<a class="zan" contid="2773037" href="javascript:;" onclick="voteCont(this)" praisetimes="14">
+                           13</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 洋山四期</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2773037&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2773037&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

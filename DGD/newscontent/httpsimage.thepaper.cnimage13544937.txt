@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">OPPO宣布投10亿元赋能开发者，明年研发投入将升至百亿</h1>
+<div class="news_about">
+<p>澎湃新闻记者 周玲</p>
+<p>
+							2018-12-27 18:14<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月26日，国产手机品牌OPPO在北京召开的开发者大会上宣布，推出“引力计划”，投入10亿元赋能开发者，延揽全球开发者与OPPO共建生态；与此同时，推出面向5G+万物互融时代的智能助理Breeno。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/13/544/934.jpg" width="100%"/></div><span style="color: rgb(128, 128, 128);">OPPO副总裁、研究院院长刘畅在开发者大会上</span><br/><div class="contheight"></div>OPPO副总裁、研究院院长刘畅在会上致辞称，随着5G与人工智能（AI）、云计算、虚拟现实（AR）等技术的深度融合，新入口、新连接、新服务将是未来三大趋势。未来，多种设备实现真正互联互通形成设备网络，基于5G基础网络的多种新技术融合将形成技术网络，而丰富多样的新服务将构成服务网络，三大网络共同构建5G+万物互融的时代。“OPPO将以手机为多智能终端的核心，积极围绕用户核心场景布局新兴入口，携手合作伙伴及开发者共创‘家庭’、及‘健康’场景新服务。”<br/><div class="contheight"></div>据介绍，截至2018年10月底，OPPO已与超过10万个开发者达成合作，透过“引力计划”，OPPO将与开发者共享系统级能力，以技术赋能和内容赋能等方式降低开发成本，让开发者专注提升服务质量。此外，OPPO也与行业合作伙伴展开持续的合作，如成为高通“5G领航”计划合作伙伴，与腾讯游戏联合首发“游戏资源包热更新”等，通过这些深度合作不断优化用户体验。<br/><div class="contheight"></div>刘畅称：“对5G+时代应用场景的探索将最终决定5G的价值。OPPO作为一家科技公司，致力于在基础技术上寻求突破，以用户需求驱动技术布局，携手开发者将革命性、刚需性、简单便捷的体验带给用户，真正带来以用户为中心的5G+万物互融的世界。”<br/><div class="contheight"></div>进入5G时代，OPPO的战略已经发生了很大变化，加大了对基础研发的投入。日前，OPPO创始人兼CEO陈明永对外宣布：“OPPO明年研发资金投入，将从今年的40亿提高到100亿，并在未来逐年加大投入。”陈明永认为，5G对于OPPO来讲是必然要去抓住的趋势，力争成为首批推出5G手机的厂商；此外，陈明永还表示OPPO还将积极探索5G+时代的应用场景，这将最终决定5G的消费者价值。<br/><div class="contheight"></div>12月26日，OPPO在开发者大会上还发布了集感知、决策、学习进化于一体的智能助理Breeno，旨在通过自然的多模交互，让⽤户享受个性化的智能服务。据介绍，Breeno打通了OPPO的硬件、软件和服务平台，构建了一套融合全系统能力的技术框架。通过感知技术和自然交互模态的融合，Breeno能够更好地理解⽤户需求。而以自然语言理解、知识图谱、情境计算、个性化推荐为代表的认知技术，让Breeno能够更全面地认知世界。<br/><div class="contheight"></div>OPPO副总裁、软件工程事业部总裁吴恒刚强调：“作为OPPO面向未来的战略产品，Breeno将打破手机与万物的交互壁垒，为用户带来融合顺畅的智慧生活体验。Breeno将作为语音技能平台和智慧服务平台，开放给开发者和合作伙伴，接入更多设备，融合更多新型服务，成为万物互融的泛生态智慧控制中枢。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙扶<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; OPPO</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2779269">
+<div class="nbgbox">
+<a class="zan" contid="2779269" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: oppo</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2779269&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2779269&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

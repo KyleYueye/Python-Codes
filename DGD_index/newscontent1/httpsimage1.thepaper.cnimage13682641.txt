@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">俄总理梅德韦杰夫签署对乌克兰禁运法令，对乌制裁报复</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-29 21:03<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">俄罗斯总理梅德韦杰夫12月29日在推文中表示，他已经签署了一项政府法令，禁止从乌克兰进口一批产品。<br/><div class="contheight"></div>“我刚刚签署了相应的法令，俄罗斯将禁止进口一些乌克兰商品。这是对乌克兰此前制裁措施的报复措施。”梅德韦杰夫29日在社交媒体上写道。<br/><div class="contheight"></div>据塔斯社29日报道，俄政府部门在相关说明中解释说：“此次禁令中大多数商品属于工业类别，也包括了一些农产品原材料和食品。”<br/><div class="contheight"></div>自2014年以来，乌克兰已经通过多项法令对俄罗斯个人和法人采取经济制裁措施，禁运多项俄罗斯农产品和食品。对此，俄罗斯方面也多次采取了反制措施，俄总理梅德韦杰夫今年11月初签署政府令，对乌克兰322名个人和68个法人实施特别经济措施，冻结其在俄财产和账户。<br/><div class="contheight"></div>据上述报道，俄罗斯政府的声明指出，如果乌克兰取消之前针对俄罗斯特定商品采取的限制措施，俄罗斯可能会考虑取消采取特殊经济措施。<br/><div class="contheight"></div>自2014年克里米亚脱离乌克兰加入俄罗斯以来，俄乌关系长期保持紧张状态，而乌克兰则不断与欧盟走近。在乌克兰与欧盟的经济协议生效后，俄罗斯从2016年1月1日开始暂停与乌克兰的自由贸易区协定。同时，俄罗斯也开始对部分欧洲商品宣布禁运措施，并于2016年初扩大到乌克兰。作为回应，乌克兰从2016年1月10日开始，也对俄罗斯采取了相应的禁运措施。<br/><div class="contheight"></div>令俄乌关系雪上加霜的是，今年11月25日，俄罗斯与乌克兰在刻赤海峡发生冲突，俄方扣留3艘乌海军舰只和24名军人。11月25日，乌克兰宣布对俄罗斯公民入境采取30天的限制措施，该措施原定于近日到期。不过据今日俄罗斯报道，乌克兰边检部门于12月28日宣布，将继续限制16到60岁之间的俄罗斯成年人入境。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 俄乌关系,俄罗斯,乌克兰</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2793100">
+<div class="nbgbox">
+<a class="zan" contid="2793100" href="javascript:;" onclick="voteCont(this)" praisetimes="8">
+                           7</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 俄乌关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2793100&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2793100&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

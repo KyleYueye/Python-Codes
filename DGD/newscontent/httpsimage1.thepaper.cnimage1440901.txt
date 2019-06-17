@@ -1,0 +1,78 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">上海市监局：未接到测评机构对全家的投诉，已赴全家总部调查</h1>
+<div class="news_about">
+<p>澎湃新闻记者 邹娟</p>
+<p>
+							2019-01-08 17:52<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">上海杨浦、静安、普陀三区市场监督管理部门已分赴全家便利店门店和总部核查。<br/><div class="contheight"></div>1月8日，微博用户@蓝莓评测发布视频称，蓝莓评测员发现全国10个城市中的21家全家便利店在售卖过期食品，其中涉及上海的有两家，分别为复旦大学店、静安寺地铁站店，两店均被指售卖过期食品。<br/><div class="contheight"></div>上海市市场监督管理局告诉澎湃新闻（www.thepaper.cn）记者，此前没有接到这家测评机构提交的全家售卖过期食品等违法违规行为的投诉举报，目前已要求相关区市场监管部门核查全家便利店总部和门店。今天（1月8日）静安、杨浦等区市场监管部门对辖区门店开展突击检查，均未发现有销售超保质期食品的违法行为。<br/><div class="contheight"></div>澎湃新闻记者梳理发现，视频曝光的两家门店，一家属于静安市场监管局辖区，一家属于杨浦区市场监管局辖区，与此同时，全家便利店总部位于上海，注册名称为上海福满家便利有限公司，注册地属于普陀市场监管局辖区，但办公地点在闵行区。目前，普陀区市场监管局已上门调查该公司总部。<br/><div class="contheight"></div>静安区市场监督管理局8日下午表示，接到舆情后，该局第一时间赴全家静安寺地铁站店开展现场调查。经查，该店持有有效的食品经营许可证及营业执照。执法人员重点针对食品保质期、过期食品销毁等开展检查，现场未查见销售过期食品情形。同时，该局对辖区“全家”各门店部署了排查工作，一旦查见食品安全违法行为，一律从严查处。<br/><div class="contheight"></div>杨浦区市场监管局当日下午也透露，接到舆情后，该局立即组织执法人员对涉事的复旦大学店开展检查，重点包括是否有销售过期食品，临保食品管理和过期食品销毁等情况。同时，布置开展了覆盖辖区全部 92 家“全家”门店的食品安全检查。<br/><div class="contheight"></div>截止目前，尚未查见“全家”门店有销售过期食品的行为。对于 食品安全违法行为，杨浦区市场监管局始终保持“零容忍”的态度。下一步，杨浦区市场监管局将对其他销售终端开展食品保质期专项检查。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2827867" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">上海杨浦市监局：检查全区92家全家门店，未发现售过期食品</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2827190" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">蓝莓评测称十城全家售过期食品：上海涉2店，市监局介入调查</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2827573" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">全家回应质疑：自查门店未见过期食品，评测人员疑似异常购买</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2827492" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">全家：疑似蓝莓评测人员异常购买，自查所涉门店均无过期食品</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：高文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 全家便利店,食品过期,市场监督管理局</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828064">
+<div class="nbgbox">
+<a class="zan" contid="2828064" href="javascript:;" onclick="voteCont(this)" praisetimes="15">
+                           14</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 食品安全</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828064&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828064&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（53）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

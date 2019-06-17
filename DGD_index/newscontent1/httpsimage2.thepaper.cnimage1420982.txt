@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">乌克兰就24名船员被俄拘留向欧洲人权法院提起诉讼申请 </h1>
+<div class="news_about">
+<p>中国新闻网</p>
+<p>
+							2019-01-08 06:21<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新社阿斯塔纳1月7日消息，据乌克兰司法部副部长伊万·利辛透露，乌克兰政府7日向欧洲人权法院就刻赤海峡事件中24名乌克兰船员被俄罗斯拘留一事提起诉讼申请。<br/><div class="contheight"></div>2018年11月25日，由乌克兰海军两艘炮艇和一艘拖船组成的船队试图通过刻赤海峡大桥从黑海进入亚速海时，与俄罗斯边防军发生冲突。随后，乌方3艘船只及船上24名官兵被俄方扣留。11月27日、28日，克里米亚两家地方法院对在刻赤海峡事件中被扣留的24名乌克兰人均判处拘留两个月。<br/><div class="contheight"></div>据乌通社报道，关于此事，乌克兰司法部副部长伊万·利辛表示，乌克兰政府已根据欧洲人权法院的规定程序于2019年1月7日正式提交了书面申请。乌克兰方面请求欧洲人权法院宣布俄罗斯对乌方3艘船只和24名船员的扣押“纯系非法”，对24名船员的审判和拘留“纯系非法”。<br/><div class="contheight"></div>利辛指出，乌克兰政府认为，俄罗斯的行为违反了《欧洲人权公约》中“保护人权”“禁止酷刑”“保护自由”“公平审判权”等相关条款。<br/><div class="contheight"></div>据国际文传电讯社报道，在基辅看来，24名船员是“战俘”。另据俄新社报道，被扣押的乌克兰船员亦向俄罗斯调查人员表示，他们认为自己是战俘并拒绝接受俄罗斯的审判。但俄方认为，俄罗斯和乌克兰不处于战争状态或军事冲突状态，因此他们不能被视为战俘，其行为系刑事犯罪。<br/><div class="contheight"></div>（原题为《乌克兰就24名船员被俄拘留向欧洲人权法院提起诉讼申请》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 乌克兰,船员,俄罗斯,欧洲人权法院</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2825916">
+<div class="nbgbox">
+<a class="zan" contid="2825916" href="javascript:;" onclick="voteCont(this)" praisetimes="13">
+                           12</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 俄乌冲突</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2825916&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2825916&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">法治课｜公路上到底可不可以骑马？</h1>
+<div class="news_about">
+<p>李国民/检察日报</p>
+<p>
+							2018-09-13 11:02<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="337" src="http://image.thepaper.cn/www/image/10/405/608.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">一名女子在上海东西向主干道延安西路上深夜骑马。  截屏图</span><br/><div class="contheight"></div>深夜骑马穿行于上海闹市，一名穿吊带衫、高筒靴的女子“火了”。9月11日晚上11点多，陆续有网友在微博上发布消息和视频，称看到一名女子在上海东西向主干道延安西路上骑马。此举引发广泛关注，很多网友发声谴责，认为女子的行为影响了交通安全，该罚；也有人开玩笑说，“马路马路，当年就是给马走的呀！不必少见多怪”。12日，上海黄浦公安分局发布警情通报称，已依法对骑马女子胡某作出行政警告的处罚。<br/><div class="contheight"></div>笔者注意到，警方处罚胡某的法律依据，是治安管理处罚法，而非此前网友屡屡提及的道路交通安全法。从警方的通报看，处罚的事实依据，主要有二：其一，胡某违法骑行的动机，是为博取他人关注；其二，胡某在骑行过程中影响了其他车辆正常通行，并造成多名路人围观拍摄，扰乱了公共场所正常秩序。<br/><div class="contheight"></div>把马路当秀场，扰乱公共秩序，因此受到警告处罚，并无不当。但是，仍有一个广大网友普遍关心的问题没有得到回应：假如不是出于吸引眼球的目的，也没有导致公共秩序的混乱，单纯的在公路上骑马的行为，是否具有可罚性？换句话说，公路上到底可不可以骑马？<br/><div class="contheight"></div>这个问题的答案，只能到道路交通安全法中去寻找。遗憾的是，该法对此全无涉及。有人说，法无禁止即可为，既然法律没有禁止性规定，那骑马上路就没有障碍。但问题显然没有这么简单。马的交通法律属性首先就要打个问号。在古代，马无疑是一种重要的交通工具；但在现代，它是否仍属于交通工具的一种，已经存在疑问。这个疑问，直接导致骑马上路算是什么行为具有模糊性。行为性质难以判断，需要遵守何种规则也因此很难说清。<br/><div class="contheight"></div>道路交通安全法有机动车、非机动车和行人之分，其中，非机动车被定义为“以人力或者畜力驱动，上道路行驶的交通工具”。请注意，这里并没有像机动车的定义那般强调必须是“轮式车辆”，而仅是限定为“交通工具”。那么，如果马仍然可以视为交通工具的话，是不是就可认定它属于非机动车的一种？该法第60条还专门针对非机动车中的畜力车上路通行设定了规则：驾驭畜力车，应当使用驯服的牲畜；驾驭畜力车横过道路时，驾驭人应当下车牵引牲畜；驾驭人离开车辆时，应当拴系牲畜。畜力车与马，一个是“车”，一个是“畜”，二者不能等同；但即便如此，它们之间仍有诸多共通之处，那么，骑马上路，是否可以参照畜力车的道路通行规则？<br/><div class="contheight"></div>当然，这些都只是推演，是否符合法律精神，尚待明确。事实上，骑马上路并不罕见，骑马上路引发交通事故的新闻也屡屡见诸报端。法律规定的盲点，给执法、司法、守法都带来难题。希望有关部门重视这个问题，尽早通过修法、出台法律解释或司法解释等方式，把这个并不复杂的问题加以明确，明白告诉公众：公路上到底可不可以骑马？如果可以，需要遵守哪些规则？<br/><div class="contheight"></div>（<strong>原标题：</strong>公路上到底可不可以骑马？）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：朱远祥<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 骑马上路,行政警告,法律盲点</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2435491">
+<div class="nbgbox">
+<a class="zan" contid="2435491" href="javascript:;" onclick="voteCont(this)" praisetimes="35">
+                           34</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 骑马上路</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2435491&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2435491&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（81）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

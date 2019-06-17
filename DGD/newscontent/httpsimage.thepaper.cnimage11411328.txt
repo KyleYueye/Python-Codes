@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">庆祝改革开放40年·数说｜法安天下，守护公平正义</h1>
+<div class="news_about">
+<p>徐隽/人民日报</p>
+<p>
+							2018-10-18 06:41<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">刚刚过去的9月，北京、广州两地相继挂牌成立互联网法院，这是我国继去年在杭州成立全球首家互联网法院之后，在互联网司法领域的又一重大改革举措。<br/><div class="contheight"></div>改革开放以来，我国司法体制迎来多轮改革，公正、高效、权威的社会主义司法制度逐步建立完善。特别是党的十八大以来，司法体制改革步伐大大加快，成为全面深化改革和依法治国的重要组成部分。司法机关啃硬骨头、涉险滩、闯难关，司法公信力不断提升，对维护社会公平正义发挥了重要作用。<br/><div class="contheight"></div>2015年5月1日起，全国法院全面实行立案登记制，对依法应当受理的案件，做到有案必立、有诉必理，当场登记立案率超过95%，让“告状难”问题真正成为历史。党的十八大以来，最高人民法院相继成立6个巡回法庭，实现最高审判机关重心下移，被群众称为“家门口的最高人民法院”。<br/><div class="contheight"></div>检察机关充分发挥审前主导和过滤作用，2013年至2017年，督促侦查机关立案9.8万件、撤案7.7万件，追加逮捕12.4万人、追加起诉14.8万人，对不构成犯罪或证据不足的不批捕62.5万人、不起诉12.1万人。<br/><div class="contheight"></div>呼格吉勒图案、聂树斌案等重大冤错案件被依法纠正，并依法予以国家赔偿，让正义最终得以实现；2013年至2017年，全国法院再审改判刑事案件6747件，对2943名公诉案件被告人和1931名自诉案件被告人依法宣告无罪，确保无罪的人不受刑事追究、有罪的人受到公正惩罚。<br/><div class="contheight"></div>为了从根本上防范冤假错案，努力让人民群众在每一个司法案件中感受到公平正义，全国司法机关全面推进司法责任制改革，实行“让审理者裁判，由裁判者负责”。全国法院从21万名法官中遴选产生12万名员额法官，全国检察机关从原有16万名检察官中遴选产生8.7万名员额检察官，法官检察官对办案质量终身负责，充分激发广大法官检察官的工作积极性和责任感。<br/><div class="contheight"></div>检察机关提起公益诉讼制度改革是党的十八大以来我国在诉讼制度领域推进的重大改革。2015年7月起，最高人民检察院在13个省区市860个检察院开展为期两年的试点，办理公益诉讼案件9053件，覆盖生态环境和资源保护、国有资产保护、国有土地使用权出让、食品药品安全等领域；2017年7月至2018年3月，检察机关又办理公益诉讼案件10925件。3年间，这项改革走出了一条具有中国特色的公益司法保护道路。<br/><div class="contheight"></div>惟改革者进，惟创新者强，惟改革创新者胜。司法体制改革是一场关乎社会公平正义、关乎法治中国建设的重大改革，在以习近平同志为核心的党中央坚强领导下，司法机关坚持正确改革方向，以“明知山有虎，偏向虎山行”的勇气，以“咬定青山不放松”的决心推进改革，必将让公平正义成为新时代的鲜亮底色。<br/><div class="contheight"></div>（原题为《法安天下，守护公平正义》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 冤错案件</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2539979">
+<div class="nbgbox">
+<a class="zan" contid="2539979" href="javascript:;" onclick="voteCont(this)" praisetimes="17">
+                           16</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 冤错案件</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2539979&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2539979&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

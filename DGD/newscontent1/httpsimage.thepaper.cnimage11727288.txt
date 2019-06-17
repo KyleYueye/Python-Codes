@@ -1,0 +1,76 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜送别李咏，不要忘了他对世界的“忠告”</h1>
+<div class="news_about">
+<p>澎湃特约评论员 张丰</p>
+<p>
+							2018-10-29 16:46<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2574772" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">李咏最后微博定格去年感恩节：感恩家人，感恩所有人</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2574668" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">著名主持人李咏因癌症在美国去世，哈文发文：永失我爱</span></a></img></p></div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="422" src="http://image.thepaper.cn/www/image/11/727/292.jpg" width="600"/></div><br/><div class="contheight"></div>主持人李咏的去世让人意外，1968年出生的他，今年才50岁。他留下的最后的一条微博，定格在去年感恩节。微博中他感谢了太太哈文和女儿，看得出对这个世界的不舍。 <br/><div class="contheight"></div>哈文的微博，冷静却深情：在美国，经过17个月的抗癌治疗，2018年10月25日凌晨5点20分，永失我爱……简短的语言背后，是她对李咏默默而坚定的支持、付出。最近一段时间，哈文每天都会在微博上发个早安帖，她肯定希望，这样的帖子能够永远持续下去，但是她多半也做好了准备，把每一天都当成李咏的最后一天。 <br/><div class="contheight"></div>我们无从得知，这17个月来这一家人经历了什么，但是哈文的表现无疑让人尊敬。当初很多不明真相的网友，传李咏移民美国，在网上谩骂，哈文和李咏都没有反驳。对他们来说，这种谩骂无疑是一种双重伤害。李咏承受化疗痛苦的同时，还要承受网友的舆论暴力，这种坚韧让人动容。 <br/><div class="contheight"></div>李咏称得上是中国电视娱乐的探索者，《幸运52》和《非常6+1》，称得上是当下智力节目和选秀节目的先声。在电视的黄金时代，李咏的节目影响了很多人。他致力于为观众提供娱乐，某种程度上称得上“卖力”，有时候也难免用力过度。但在展示快乐和“幸运”的同时，他却忽略了自己的健康。<br/><div class="contheight"></div>最近几年，媒体人、主持人的过早离世，我们已经见过太多太多了。一方面，名人本身自带光环，他们的去世会成为人们关注的事件，但是我们也应该注意到，这个行业本身日夜颠倒、工作超负荷问题，对从业人员的健康损害也高于别的行业。 <br/><div class="contheight"></div>过去20年，中国媒体业高速发展，媒体从业人员超负荷工作成为一种常态。更重要的是，媒体人又赋予这种消耗以特别的意义，把它理想化、崇高化了。没有“加班”的概念，也无法保证正常人的饮食和休息，这几乎是媒体工作的常态，不会因为你是一个著名主持人而有所减轻，相反，这个行业越有名的人，通常也意味着越累，陪家人的时间越少。 <br/><div class="contheight"></div>李咏就是这方面的典型。他的敬业是出了名的，去年底他还主持了一档网络娱乐节目，这是他转型的探索，也是一种工作惯性。但这种“工作至上主义”对健康的损耗，却被忽略了。 <br/><div class="contheight"></div>才50岁的李咏走了。很多人在朋友圈感叹生命无常，要好好珍惜自己、珍惜家人，可又有多少人能不“工作第一”呢？这不仅是很多媒体人，也是很多都市白领的无奈。 <br/><div class="contheight"></div>在送别李咏的同时，我们也需要反省这种高强度、高损耗、低保障的工作方式。“健康第一”当然是一种鸡汤，癌症很多时候时候也会找上那些工作不努力的人。但是，多考虑到自己，考虑到家人，或许是值得考虑的平衡。李咏最后的微博里，感谢妻子和女儿的话，让人读之泪下，其实这也是一种“忠告”。</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 李咏去世</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2575697">
+<div class="nbgbox">
+<a class="zan" contid="2575697" href="javascript:;" onclick="voteCont(this)" praisetimes="454">
+                           453</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 李咏</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2575697&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2575697&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（72）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

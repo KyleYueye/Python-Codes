@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">公安部：一年来破涉枪涉爆案3.7万起，抓获嫌疑人4.3万</h1>
+<div class="news_about">
+<p>澎湃新闻记者 邵克 实习生 高瑜键</p>
+<p>
+							2019-01-08 12:00<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/28/532.jpg" width="100%"/></div><span style="color: rgb(128, 128, 128);">新闻发布会现场。来源：公安部网站</span><br/><div class="contheight"></div>公安部1月8日召开新闻发布会通报，自去年2月开展打击整治枪支爆炸物品违法犯罪专项行动以来，全国共破获涉枪涉爆案件3.7万起，打掉团伙416个，捣毁窝点599个，抓获违法犯罪嫌疑人4.3万人；收缴猎枪1.2万支、气枪4.2万支、火药枪3.8万支、射钉器改制枪和其他枪支5.4万支，收缴各类子弹369万发、炸药416吨、雷管50万枚。<br/><div class="contheight"></div>2018年2月，由公安部牵头，建立了24个部门参加的打击整治枪支爆炸物品违法犯罪部际联席会议机制，国务委员、公安部部长赵克志同志担任总召集人，部署开展为期两年的打击整治专项行动。<br/><div class="contheight"></div>公安部治安管理局局长李京生在发布会上介绍，专项行动开展以来，2018年1月至11月，全国发生持枪犯罪案件42起、爆炸案件39起，同比分别下降27.6%、29%，枪爆犯罪案件保持了多年连续下降的良好态势，中国已成为全世界枪爆犯罪案件最少的国家之一。专项行动工作中，公安部突出境内制贩、网上贩卖、境外走私三个重点，组织开展重大案件破案攻坚，部署在逃人员缉捕会战，开展集中统一收网行动，督导涉案地公安机关广辟线索、合成作战，深挖彻查、追根溯源，形成强大打击震慑声势。2018年，专项行动挂牌督办的103起重大枪爆案件已全部办结，533名部督在逃人员缉捕率达78%，天津、吉林、江苏、浙江、湖北、重庆、四川、贵州等地缉捕率达100%。最高法、最高检、公安部联合发布通告，制定宽严相济的法律政策，敦促主动上缴、投案自首，鼓励踊跃举报。<br/><div class="contheight"></div>李京生说，公安部会同有关部门先后部署开展净网行动、易制爆危险化学品专项整治、寄递物流业大检查大整治、矿山民爆物品专项治理行动、非法生产经营烟花爆竹专项整治，严格落实安全管理制度，严查违法违规行为，对问题突出、屡整屡犯的企业和个人，纳入“黑名单”，予以通报警示。公安部会同有关部门制定出台射钉器、射钉弹防改制安全技术标准和易制爆危险化学品、工业电子雷管等行业标准，部署电子雷管、炸药安检示踪等新技术应用，加强影视烟火特效作业安全管理，不断提升枪爆行业本质安全水平。<br/><div class="contheight"></div>公安部新闻发言人郭林介绍，此次打击整治枪爆违法犯罪专项行动由以往部门组织的专项行动上升为国家层面的专项工作，与以往相比，查处打击针对性更强，重点治理成效更加明显，部门协作联动高效，做了大量卓有成效的工作。各地将边境走私、网络贩卖、非法私制私藏枪爆物品等三类犯罪案件作为主攻方向。天津、内蒙古、安徽、湖北等地建立涉枪涉爆企业“黑名单”制度；黑龙江、广东、广西、云南等地强化边境管控，严厉打击整治涉枪及贩毒、偷渡、赌博、绑架等合流犯罪；河北、山西、山东、河南、陕西、甘肃、青海等地建立民爆物品安全管理协作机制，挂牌整治省际交界制爆贩爆重点地区，形成合力围剿之势。<br/><div class="contheight"></div>郭林说，省、市、县三级都成立了联席会议制度，各地、各部门把宣传工作贯穿于专项行动始终，实现了良好的政治、法律、社会和舆论效果。截至目前，共接到群众举报涉枪涉爆违法犯罪线索5000余条，据此查破案件2200余起，兑现奖励365万元，在全社会形成了人人参与的浓厚氛围。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李寿康<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 公安部 涉枪案</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2826876">
+<div class="nbgbox">
+<a class="zan" contid="2826876" href="javascript:;" onclick="voteCont(this)" praisetimes="52">
+                           51</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 犯罪嫌疑人</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2826876&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2826876&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

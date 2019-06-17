@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">行政规范性文件清理制度未有效落实，报告：立法刻不容缓</h1>
+<div class="news_about">
+<p>澎湃新闻记者 庄岸 实习生 孙小咪</p>
+<p>
+							2018-09-21 11:03<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">地方政府行政规范性文件法治化建设水平仍处低位，立法规制刻不容缓。9月20日，中国政法大学法治政府研究院发布的《中国法治政府评估报告2018》（以下简称《报告》）指出，地方政府尚能有效开展行政规范性文件清理工作，但仍存在认识上的错误，有待进一步改进。<br/><div class="contheight"></div><strong>行政规范性文件清理制度未有效落实</strong><br/><div class="contheight"></div>2018年5月，国务院办公厅印发了《国务院办公厅关于加强行政规范性文件制定和监督管理工作的通知》（国办发〔2018〕37号，以下简称《通知》）。《通知》明确，制发行政规范性文件是行政机关依法履行职能的重要方式，关系群众切身利益，事关政府形象。<br/><div class="contheight"></div>截至2017年底，评估组观测的制度建立情况如下：100个城市均建立了合法性审查制度、备案制度和异议审查制度，97个城市建立了公开听取意见和专家咨询论证制度，95个城市建立了定期或动态清理制度。<br/><div class="contheight"></div>“这反映出地方政府较为重视行政规范性文件基础性程序制度建设的建章立制工作。”报告称，在制度实施层面，过去五年“行政规范性文件清理制度的落实情况”得分率基本一直处于及格线之上，并于今年达到88%，这说明地方政府能够有效开展定期或动态清理活动。<br/><div class="contheight"></div>报告同时指出，相比之下，“行政规范性文件的公开度”、“三统一制度的落实情况”和“行政规范性文件的报备情况”三项指标的得分率仍处较低水平，五年来均未超过45%。<br/><div class="contheight"></div><strong>建议全方位立法规制行政规范性文件</strong><br/><div class="contheight"></div>报告指出，在过去一年中，被评估政府对于规范性文件的概念把握不准、界定不清晰等问题依旧比较突出。<br/><div class="contheight"></div>例如，有的城市将制定的所有文件都视为行政规范性文件，包括党委文件、政府规章等。另外，个别地方政府对行政规范性文件公开征求意见制度还存在认识误区，行政规范性文件监督制度也没有得到严格落实。<br/><div class="contheight"></div>此外，对行政规范性文件公开征求意见的内容、对象、形式和结果还存在一些认识上的错误，行政规范性文件备案审查制度还得不到持续有效的落实，行政规范性文件定期或动态清理制度落实方式还有待进一步改进等。<br/><div class="contheight"></div>报告为此建议，应由国务院制定一部能够对行政规范性文件进行全方位规制的行政法规“刻不容缓”。具体内容应当涵盖行政规范性文件的内涵界定、制定条件、制定主体、制定程序以及监督与问责等方面，这是能够尽快结束当前地方政府“分而治之”的最优路径。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：卫佳铭<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 行政文件,清理,立法</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2462718">
+<div class="nbgbox">
+<a class="zan" contid="2462718" href="javascript:;" onclick="voteCont(this)" praisetimes="22">
+                           21</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 立法</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2462718&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2462718&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

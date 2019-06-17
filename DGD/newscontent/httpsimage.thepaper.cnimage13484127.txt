@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">文学新报《中国青年作家报》今日创刊，系中国青年报社主办</h1>
+<div class="news_about">
+<p>中国青年报</p>
+<p>
+							2018-12-25 12:16<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="589" src="http://image.thepaper.cn/www/image/13/484/120.jpg" width="400"/></div>放飞青春梦想，实现文学理想。一份由共青团中央主管、中国青年报社主办的文学新报——《中国青年作家报》12月25日正式创刊，中国青年作家报官方微博、微信等新媒体同时启动。<br/><div class="contheight"></div> 《中国青年作家报》将按照习近平总书记系列重要讲话精神要求，以“点燃青年创作激情，提高青年文学素养，坚定青年文化自信”为办报宗旨，帮助青年深入体验生活、深刻提炼生活、生动表达生活，将见识、智慧与品质融入学习成长全过程，抒写多彩、进步、和谐的中国。<br/><div class="contheight"></div> 《中国青年作家报》为周报，每期16版。除了生产文字、图片等平面媒体内容外，还将依托中国青年报社“融媒小厨”生产全媒体产品，推动青年创作者与著名作家互动成长平台和传播平台建设，并将其生产的内容接入“融媒小厨”，推动青年创作者纸质和数字化作品出版，同时为相关青年作品转换孵化成影视作品提供支持和支撑。<br/><div class="contheight"></div> 关注现实生活，关心国家命运，记录时代伟大变迁，反映人民群众心声，一直是青年创作者的普遍共识和价值追求。《中国青年作家报》将秉承中国青年报“推动社会进步，服务青年成长”这一理念，陪伴更多青年创作者不断发现更好的自我，陪伴强国一代不断培养塑造人文写作的素养，帮助青年从这里成长为作家、大作家，为新时代中国特色社会主义文学大发展、大繁荣作出贡献。<br/><div class="contheight"></div> 《中国青年作家报》设有对话名家、文艺评论、一封来信、志愿文学、我的亲朋、大好河山等版块。欢迎青年创作者以来稿、来图和音视频等方式与我们一起办好《中国青年作家报》，投稿邮箱：cyw@cyd.net.cn。<br/><div class="contheight"></div>（原标题为《 &lt;中国青年作家报&gt;今日创刊》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：钟煜豪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中国青年作家报，创刊</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772291">
+<div class="nbgbox">
+<a class="zan" contid="2772291" href="javascript:;" onclick="voteCont(this)" praisetimes="25">
+                           24</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 报纸创刊</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772291&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772291&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

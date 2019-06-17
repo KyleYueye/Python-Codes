@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25437">牛市点线面</a>
+</div>
+<h1 class="news_title">中国社科院经济蓝皮书：明年A股不宜过分乐观也不必过分悲观</h1>
+<div class="news_about">
+<p>王恩博/中国新闻网</p>
+<p>
+							2018-12-24 16:05<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新社北京12月24日消息，2018年中国A股市场整体下行，针对其下一步走势，中国社科院24日在北京发布的《经济蓝皮书：2019年中国经济形势分析与预测》预计，在政策面积极因素持续作用下，明年A股市场悲观情绪有望得到缓解。<br/><div class="contheight"></div>蓝皮书认为，2019年，中国股票市场服务实体经济的角色将得到强化，“完备的融资功能、扎实的基础制度、有效的市场监管和得到充分保护的投资者权益”依旧是中国股票市场坚定不移的发展方向。<br/><div class="contheight"></div>与此同时，在“优化交易监管，减少交易阻力，创造条件鼓励回购和并购重组”等政策面积极因素持续作用下，提高流动性水平、改善风险偏好将成为明年中国股市更好服务实体经济的关键。<br/><div class="contheight"></div>值得一提的是，当前中国在法律层面上的股票回购制度已得到完善。今年修改后的《公司法》增加了回购股份的情形，适当简化了股票回购决策程序，提高持有本公司股份数额上限，延长了持有所回购股份期限。<br/><div class="contheight"></div>蓝皮书表示，2018年三季报显示全部A股现金及现金等价物总额达27.35万亿元人民币，占总资产的比重达11.53%，占比是美股上市公司的两倍。A股上市公司拥有充沛自有资金可进行回购，完善后的股票回购制度将有助于上市公司建立常态化回购机制。<br/><div class="contheight"></div>同时，政策实时调整与制度不断完善还将帮助A股市场建立起新的估值体系。社科院研究团队认为，从当前估值分布来看，A股市场已经处于历史底部区域，明年股市结构性机会仍然存在。<br/><div class="contheight"></div>总体来看，蓝皮书称，中国宏观经济运行所面临的内外部风险将对股票市场价值中枢移动产生影响，2019年对中国股市不宜过分乐观，也不必过分悲观，在迎来“政策底”与“估值底”之后，“市场底”也将大概率得到确认。<br/><div class="contheight"></div>（原题为《社科院：明年A股市场悲观情绪有望缓解》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 经济,蓝皮书,A股</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768815">
+<div class="nbgbox">
+<a class="zan" contid="2768815" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中国经济</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768815&caid=25437",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768815&amp;caid=25437" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">海南省人民医院划归海南医学院：助力建成高水平医科大学</h1>
+<div class="news_about">
+<p>澎湃新闻记者 岳怀让</p>
+<p>
+							2018-12-26 22:10<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">通过将公立医院划转本地高校，从而助力本地高校发展的例子又增一例。<br/><div class="contheight"></div>据“南海网”微信公众号消息，12月26日上午，海南医学院附属海南医院揭牌成立。<strong>经海南省委省政府批准，海南省人民医院划为海南医学院直属附属医院，在保留原有名称的同时，加挂“海南医学院附属海南医院”的牌子。</strong><br/><div class="contheight"></div>消息提到，这意味着海南医学教育改革、医学教育研究将翻开崭新的一页，也将推动加快海南培养高层次、高质量医疗卫生人才，带动全省医学水平快速提升。<br/><div class="contheight"></div>官方报道介绍称，海南省人民医院的前身海口福音医院诞生于1881年，叩开了海南现代医学的大门。1988年海南建省办经济特区时，该院成为海南省人民医院，逐步发展为省内规模最大的三级甲等医院。<br/><div class="contheight"></div>今年9月，经海南省委省政府批准，海南省人民医院划为海南医学院直属附属医院，整合优化省内优质医学教育资源和医疗卫生资源。医院行政关系隶属海南医学院管理。省卫生健康委作为卫生行业主管部门，将加强对海南医学院所属各附属医院医疗业务的统筹管理。<br/><div class="contheight"></div>海南省人民医院移交海南医学院管理后，作为海南医学院直属附属医院，在继续承担原有的基本医疗、公共卫生服务和全科医师规范化培训等职能基础上，增加承担医学生临床教学和实习的职能，并成立相应临床医学院。<br/><div class="contheight"></div>整体移交后，海南省人民医院独立事业单位法人地位不变，享有自主经营权和对本院中层及以下干部职工的干部人事管理权，部门主要负责人任免情况报海南医学院党委备案。省人民医院领导班子继续列入省委管理，日常管理由省委组织部负责。<br/><div class="contheight"></div>编制成建制移交后，除省管干部外，其他省人民医院在岗人员(含在编、聘用人员)按照海南医学院现有直属附属医院的同类人员进行管理。<br/><div class="contheight"></div>澎湃新闻记者26日查询发现，目前海南医学院官网已附上“附属海南医院”的网页链接，点开可直接进入海南省人民医院网站。<br/><div class="contheight"></div>海南医学院坐落在素有“椰城”之称的风光旖旎的热带滨海旅游城市——海南省省会海口市，是海南省唯一一所省属公办普通高等医学院校，也是全国唯一一所地处热带地区的医学高等学府。<br/><div class="contheight"></div>海南医学院前身是1947年林筱海先生创立并担任首任校长的私立海强医事职业学校和1948年宋子文先生创建并担任首任董事长的私立海南大学医学院。两校于1951年合并为海南医学专门学校，后更名为海南医学专科学校、海南大学医学部。1993年经国家教育行政主管部门批准正式建立海南医学院，隶属海南省人民政府主管。<br/><div class="contheight"></div>在此之前，地方公立医院通过加挂高校直属附属医院牌子或成建制划转等方式助力高校发展的案例已有多起。<br/><div class="contheight"></div>例如，2017年12月23日，中国科学技术大学生命科学与医学部揭牌成立，安徽省立医院成为中国科学技术大学附属第一医院。<br/><div class="contheight"></div>浙江省绍兴市委常委会5月29日召开扩大会议定调“全力支持绍兴文理学院更名设置绍兴大学”。随后据《绍兴日报》9月21日报道，“昨天（9月20日），记者从有关方面获悉，为加快推进绍兴大学建设，根据市委市政府决策部署，原绍兴文理学院附属医院和绍兴市立医院两院整合，组建新附属医院。合并组建后，新文理学院附属医院实力将更强大。”<br/><div class="contheight"></div>再例如，《深圳特区报》消息：10月8日上午，南方科技大学第一附属医院及第二附属医院相继在深圳市人民医院、深圳市第三人民医院揭牌，这标志着深圳市人民医院、深圳市第三人民医院正式成为南方科技大学直属附属医院。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 人民医院,海南医学院</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2778525">
+<div class="nbgbox">
+<a class="zan" contid="2778525" href="javascript:;" onclick="voteCont(this)" praisetimes="64">
+                           63</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 海南医学院</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2778525&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2778525&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,76 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">法制日报：最高检指导性案例，解决未成年人权益保护疑难问题</h1>
+<div class="news_about">
+<p>秦平/法制日报</p>
+<p>
+							2018-11-20 07:13<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">法制日报11月20日消息，最高人民检察院日前发布第十一批指导性案例，对检察机关办理性侵、虐待未成年人违法犯罪案件进行办案指导。该批指导案例分别是齐某强奸、猥亵儿童案，骆某猥亵儿童案以及于某虐待案。<br/><div class="contheight"></div>这三个指导性案例的适时发布，彰显了司法机关依法维护未成年人合法权益的决心和力度。<br/><div class="contheight"></div>近年来，侵害未成年人案例频发，引起了社会各界高度重视。保护未成年人健康成长是对我国立法和司法工作的基本要求之一。但是现实生活的多样性、多变性与法律规定的原则性之间，显然会有一些模糊地带，导致实践中会出现具体操作的问题。如何认定罪与非罪，不同人的不同理解可能会产生完全相反的结论，造成同案不同判的情况。<br/><div class="contheight"></div>而指导案例要解决的就是这些问题。与一般猥亵儿童案的直接接触不同，骆某猥亵儿童案更具有网络时代的特征，强迫儿童用社交工具发裸照。这种非接触性的行为是否构成猥亵儿童罪，在实践中很多人的认识是不一样的。<br/><div class="contheight"></div>骆某猥亵儿童案的指导意义就在于，明确了通过网络通讯工具，实施非直接身体接触的猥亵行为与实际接触儿童身体的猥亵行为具有相同的社会危害性，构成猥亵儿童罪。指导案例解决了未成年人权益保护中的法律适用疑难问题，有利于统一法律适用标准，提升办案质量。<br/><div class="contheight"></div>我们看到，一段时间以来，司法机关对涉及未成年人侵害案件高度重视。安徽一少女网上发帖称被家人性侵，当地公安机关第一时间介入调查。高铁疑似性侵女孩案发生后，公安机关积极回应社会关切。除了应对被舆论关注的热点案件外，各地的公安机关还脚踏实地做了大量基础性和预防性工作，加大校园及周边治理，让校园更安全，家庭更温暖。<br/><div class="contheight"></div>民众的呼声就是司法机关的行动，而司法机关的有力行动也会赢得民众更大的信任。<br/><div class="contheight"></div>（原题为《最高检指导性案例，让法律实施更精准》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2650085" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">【社论】“非接触猥亵”：用特殊规则斩断性侵儿童的魔爪</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2650175" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">男子谎称招聘童星诱骗31名儿童做淫秽动作，获刑11年</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 最高检,侵害未成年人</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2651656">
+<div class="nbgbox">
+<a class="zan" contid="2651656" href="javascript:;" onclick="voteCont(this)" praisetimes="20">
+                           19</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 侵害未成年人</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2651656&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2651656&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

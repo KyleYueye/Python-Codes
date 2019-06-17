@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">福建龙岩持刀劫持公交车事件已致5死22伤，一人伤势较重 </h1>
+<div class="news_about">
+<p>郑良、陈弘毅/@新华视点</p>
+<p>
+							2018-12-25 19:06<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">@新华视点 12月25日消息，记者从福建省龙岩市政府了解到，25日15时20分许，龙岩市区发生一起公交车被持刀歹徒劫持事件，目前已造成5人死亡、22人受伤。<br/><div class="contheight"></div>据公安机关初步调查，这是一起涉嫌刑事犯罪案件。目前，22名伤员已全部送到医院救治，一名伤员伤势较重。<br/><div class="contheight"></div>记者在龙岩市新罗区现场看到，警察已经封锁了事发现场的两条道路，路面可见多处被冲撞的痕迹，有很多玻璃碎片。一名现场目击者告诉记者，嫌疑人劫持公交车从新罗区登高中路一路冲撞至九一南路，长度约三四百米，行人和车辆被撞。<br/><div class="contheight"></div>事件发生后，龙岩市委市政府主要负责人第一时间赶赴现场指挥处置，目前已成立医疗救助、事件调查、善后、社会稳定、信息发布等工作组，全力开展后续处置工作。<br/><div class="contheight"></div>（原题为《最新消息！福建龙岩发生持刀劫持公交车事件 造成5死22伤》记者）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 龙岩,公交车,持刀劫持</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2773903">
+<div class="nbgbox">
+<a class="zan" contid="2773903" href="javascript:;" onclick="voteCont(this)" praisetimes="98">
+                           97</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 公交劫持</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2773903&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2773903&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（72）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

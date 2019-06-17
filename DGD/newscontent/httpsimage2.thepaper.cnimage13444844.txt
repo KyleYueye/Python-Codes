@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">人民日报评论员：前进路上弥足珍贵的精神财富</h1>
+<div class="news_about">
+<p>本报评论员/人民日报</p>
+<p>
+							2018-12-24 06:28<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">善于总结经验、把握规律，既是中国共产党人的历史自觉，也是我们党推动工作的制胜法宝。<br/><div class="contheight"></div>“改革开放40年积累的宝贵经验是党和人民弥足珍贵的精神财富，对新时代坚持和发展中国特色社会主义有着极为重要的指导意义”。在庆祝改革开放40周年大会上，习近平总书记从历史、全局、战略的高度，深刻总结40年宝贵经验，并将其概括为“九个必须坚持”。这些重要思想，回答了在新时代继续把改革开放推向前进的重大理论和实践问题，必须倍加珍惜、长期坚持，在实践中不断丰富和发展。<br/><div class="contheight"></div>实践是检验真理的唯一标准。从1978年至今，40年的实践充分证明，党的十一届三中全会以来我们党团结带领全国各族人民开辟的中国特色社会主义道路、理论、制度、文化是完全正确的，形成的党的基本理论、基本路线、基本方略是完全正确的；40年的实践充分证明，中国发展为广大发展中国家走向现代化提供了成功经验、展现了光明前景，是促进世界和平与发展的强大力量，是中华民族对人类文明进步作出的重大贡献；40年的实践充分证明，改革开放是党和人民大踏步赶上时代的重要法宝，是坚持和发展中国特色社会主义的必由之路，是决定当代中国命运的关键一招，也是决定实现“两个一百年”奋斗目标、实现中华民族伟大复兴的关键一招。<br/><div class="contheight"></div>“行之力则知愈进，知之深则行愈达。”40年来，我们党带领人民不仅创造了人间奇迹，更积累了宝贵经验。必须坚持党对一切工作的领导，不断加强和改善党的领导；必须坚持以人民为中心，不断实现人民对美好生活的向往；必须坚持马克思主义指导地位，不断推进实践基础上的理论创新；必须坚持走中国特色社会主义道路，不断坚持和发展中国特色社会主义；必须坚持完善和发展中国特色社会主义制度，不断发挥和增强我国制度优势；必须坚持以发展为第一要务，不断增强我国综合国力；必须坚持扩大开放，不断推动共建人类命运共同体；必须坚持全面从严治党，不断提高党的创造力、凝聚力、战斗力；必须坚持辩证唯物主义和历史唯物主义世界观和方法论，正确处理改革发展稳定关系。这“九个必须坚持”，是对40年改革开放规律性认识的成果，把我们对改革开放的认识提升到新的高度，也为我们在更高起点、更高层次、更高目标上推进改革开放提供了系统的认识论和方法论。<br/><div class="contheight"></div>时代是思想之母，实践是理论之源。只有顺应历史潮流，积极应变，主动求变，才能与时代同行。今天，用好“九个必须坚持”这笔弥足珍贵的精神财富，就要深刻认识其现实意义和时代价值。“九个必须坚持”，既总结历史，更指向未来；既是理论指导，更是行动指南。习近平总书记指出，“伟大梦想不是等得来、喊得来的，而是拼出来、干出来的”。贯彻落实“九个必须坚持”，不能囫囵吞枣、一知半解，不能流于表面、上下一般粗，而是要坚持“以改革开放的眼光看待改革开放”，把“九个必须坚持”同新时代推动全面深化改革结合起来，同解决现实矛盾问题结合起来，同提升人民群众获得感结合起来，同推动实现“两个一百年”奋斗目标、实现中华民族伟大复兴的中国梦结合起来，以更大决心、更大勇气、更大力度把改革开放推向深入。<br/><div class="contheight"></div>哲人说过，“经验是永不停歇的播种机。”40年改革开放，我们把不可能变成可能，创造了改变中国、影响世界的人间奇迹。改革开放再出发，坚持好经验、找到新办法，我们有信心创造新的更大奇迹。<br/><div class="contheight"></div>（原题为《前进路上弥足珍贵的精神财富——论学习贯彻习近平总书记在庆祝改革开放四十周年大会重要讲话》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张珺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 改革开放</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2767624">
+<div class="nbgbox">
+<a class="zan" contid="2767624" href="javascript:;" onclick="voteCont(this)" praisetimes="124">
+                           123</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 改革开放40年</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767624&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767624&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

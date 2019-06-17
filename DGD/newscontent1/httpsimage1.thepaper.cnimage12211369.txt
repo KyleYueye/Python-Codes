@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">深观察｜官员非正常死亡后，能否缺席审判？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 金泽刚</p>
+<p>
+							2018-11-13 15:35<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据中科院披露的一项调查数据显示，自2009年至2016年8年间，我国共有248名官员自杀、失踪或疑似自杀。而从公布的自杀原因来看，多半患有抑郁症或者抑郁症倾向。不过，由于以往出现过有的涉贪涉腐官员为了逃避责任，甚至保全他人而自杀的情况，所以这个问题背后的法律规制同样值得重视。<br/><div class="contheight"></div>从近几年曝光的一些重大贪腐案件来看，有的官员拉帮结伙，结党营私，相互包庇，结成特殊利益集团，把地方官场搞得乌烟瘴气。有的腐败案，一查就是一窝，出现集群式、塌方式腐败。“拔出萝卜带出泥”，部分官员在明知自己罪行严重、难逃法网的情况下，为了保全自己不被定罪量刑，也间接保护其他利益相关者，故而选择了付出自己生命的代价。<br/><div class="contheight"></div>的确，根据我国《刑事诉讼法》第16条的规定，对于犯罪嫌疑人、被告人已经死亡的案件，司法机关就不再追究刑事责任，已经追究的，应当撤销案件，或者不起诉，或者终止审理，或者宣告无罪。但是，在涉案官员已经自杀的情况下，若涉及到其他官员的腐败行为，仍然应该继续调查取证，以查明违法犯罪事实。也就是说，对非正常死亡的官员，若有证据证明涉嫌违法犯罪的，不是不可以继续调查，而是不再追究其刑事责任。<br/><div class="contheight"></div>况且，2012年《刑事诉讼法》就增加了“犯罪嫌疑人、被告人逃匿、死亡案件违法所得的没收程序”，如果不查证属实，又怎么能够对犯罪嫌疑人、被告人死亡的案件走违法所得的没收程序呢？<br/><div class="contheight"></div>所以，对于非正常死亡、但确有证据能够证明已经涉嫌贪腐犯罪的官员，可以继续查处其违法犯罪事实，这不仅与我国新的刑事诉讼制度强调“没有口供也可以定罪”的诉讼原理相吻合，而且也是没收涉案违法犯罪所得的需要。<br/><div class="contheight"></div>更值得思考的是，2018年修正的《刑事诉讼法》新增了对于贪污贿赂犯罪案件进行缺席审判的程序，虽然没有规定对于死亡者可以缺席审判，但还是规定了在“有证据证明被告人无罪”的情况下，若被告人死亡则可缺席审判，即第297条第一款规定的“被告人死亡的，人民法院应当裁定终止审理，但有证据证明被告人无罪，人民法院经缺席审理确认无罪的，应当依法作出判决。”<br/><div class="contheight"></div>与此同时，该条第二款规定了“人民法院按照审判监督程序重新审判的案件，被告人死亡的，人民法院可以缺席审理，依法作出判决。”这就存在两种可能，一种是，先前的判决判重了，通过审判监督程序，缺席判决轻罪或者无罪。另一种可能则是，先前的生效判决判轻了，司法机关根据后来搜集到的证据证明生效判决确有错误、进而按照审判监督程序再审的，在这一过程中，若涉案官员自杀身亡，再审法院可以依法进行缺席审判，此时判决不一定是无罪，可能包括判决新罪，并加重对违法所得的追缴和没收（人死亡后不再存在人身处罚）。这也待2018年修订的《刑事诉讼法》出台相关的配套政策。<br/><div class="contheight"></div>（作者金泽刚系同济大学法学教授）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 缺席审判</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2629322">
+<div class="nbgbox">
+<a class="zan" contid="2629322" href="javascript:;" onclick="voteCont(this)" praisetimes="79">
+                           78</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 刑事缺席审判制度</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2629322&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2629322&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

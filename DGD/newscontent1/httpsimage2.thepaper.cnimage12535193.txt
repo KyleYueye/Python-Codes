@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">湖南省法学会筹备成立民营经济法治研究会，关注民企权利保障</h1>
+<div class="news_about">
+<p>澎湃新闻记者 谭君</p>
+<p>
+							2018-11-24 13:15<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“政府要维稳，债权人要钱，企业要解决流动性的问题，这三者如何协调？”11月22日，湖南省法学会民营经济法治研究会成立筹备会上，与会人员抛出了这个问题。澎湃新闻（www.thepaper.cn）从会上获悉，这场由湖南省法学会主办、中南大学法学院承办的筹备会，同时也是一场民营企业权利保障座谈会。<br/><div class="contheight"></div>“习近平总书记日前在民营经济座谈会上提出的为民营企业‘营造公平竞争环境、保护企业家人身和财产安全’等六个方面的政策举措，对释放民营企业活力、促进民营企业发展具有里程碑式的意义。我们湖南省法学会正筹备成立民营经济法治研究会，希望为湖南企业的发展提供帮助。”中南大学法学院院长陈云良说。<br/><div class="contheight"></div>湘潭大学法学院院长肖冬梅说，她曾为上市公司提供风险预警分析，成功帮企业避免了损失，可见企业在向前发展的道路上，确实有专业法律服务方面的需求。她介绍，北京市法学会有69个研究会，湖南省目前只有23个。“学者研究的前沿问题，需要和企业面临的现实问题相结合；企业面临的全局问题，需要有多个学科学者的参与诊断；企业问题的解决路径不只是学者探讨，还需要公检法司实务部门的参与，这些确实是传统研究会解决不了的，针对举国关注的民营企业问题，成立专门的民营经济法治研究会，正好回应这些需求。”<br/><div class="contheight"></div>研讨会中，民营企业代表、湖南九龙经贸集团有限公司董事长肖正滔表示，其企业目前正经历破产重整，面对的问题颇为复杂。作为曾经的全国民企500强，高峰期安置就业2万余人，是典型的劳动密集型企业，但2014年以来由于民间融资问题陷入债务困境。“首先要感谢党的政策的支持，要不然我们早死了。但是现在的实际情况是，政府要维稳，债权人要钱，企业要解决流动性的问题，这三者如何协调？希望专家能建言献策。”<br/><div class="contheight"></div>湖南大学法学院肖海军教授认为，湖南九龙集团目前出现的困难较为典型，一是受经济形势影响，二是银行对民营企业支持缺乏力度。“目前企业资产较为优质，且资产大于债务，是企业资金流动性出现了问题，目前中央各部委陆续出台了鼓励民营企业发展的有利政策，企业拥有重整成功的基础和条件，地方政府和重整管理人应响应中央号召，帮助企业尽快渡过难关，积极支持地方民营经济发展。”<br/><div class="contheight"></div>民进中央委员经济委员会委员、湖南省立法研究会副会长张早平说，湖南民营企业法治研究会成立后，可以此为切入点，如能通过调研、分析，帮助相关企业重整成功，将对优化湖南营商环境、提振企业家信心、防范和化解风险产生巨大意义。<br/><div class="contheight"></div>湖南省高级人民法院研究室案例办主任童飞霜表示，湖南高院十分关注对民营企业的法治保护，目前正采取两个措施：一是正紧锣密鼓地草拟一份关于民营企业司法服务与保障的意见；二是正在搜集与整理一批保护民营经济的典型案例。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陈绪厚<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 湖南 法学会 民企权利</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2666796">
+<div class="nbgbox">
+<a class="zan" contid="2666796" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 民企</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2666796&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2666796&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

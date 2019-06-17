@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">老挝人民革命党中央委员会总书记、国家主席本扬会见王毅</h1>
+<div class="news_about">
+<p>章建华/新华社</p>
+<p>
+							2018-12-16 18:31<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="341" src="http://image.thepaper.cn/www/image/13/241/221.jpg" width="500"/></div>新华社万象12月16日消息，老挝人民革命党中央委员会总书记、国家主席本扬16日在万象会见国务委员兼外长王毅。<br/><div class="contheight"></div>王毅转达了习近平总书记、国家主席对本扬的亲切问候。王毅表示，明年将迎来中老建立全面战略合作伙伴关系10周年，中方愿同老方一道，落实两党两国领导人互访成果，全面推进两国各领域合作，开创两国共同发展、共同繁荣的未来。<br/><div class="contheight"></div>王毅指出，我们愿同老方进一步加强两党两国高层交往，共同抓紧制定构建中老命运共同体行动计划，为两党两国关系的发展合作作出长远规划。中老经济走廊是两国共建“一带一路”的标志性项目，希双方尽快就合作规划达成一致，争取早日签署。双方要共同办好明年中老旅游年，增进两国人民的相互了解和友谊。<br/><div class="contheight"></div>本扬请王毅转达对习近平总书记、国家主席的诚挚问候。本扬表示，老中两党两国关系现在处于最好时期。我本人愿意应邀赴华出席明年举行的第二届“一带一路”国际合作高峰论坛。感谢中方长期以来给予老方的无私帮助和慷慨支持。<br/><div class="contheight"></div>（原题为《老挝人民革命党中央委员会总书记、国家主席本扬会见王毅》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 老挝,本扬,王毅</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2744758">
+<div class="nbgbox">
+<a class="zan" contid="2744758" href="javascript:;" onclick="voteCont(this)" praisetimes="112">
+                           111</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 老挝</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2744758&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2744758&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

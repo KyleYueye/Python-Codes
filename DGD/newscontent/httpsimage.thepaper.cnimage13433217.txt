@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25433">地产界</a>
+</div>
+<h1 class="news_title">携程高调进军短视频领域，它的竞争对手要变成抖音、小红书？</h1>
+<div class="news_about">
+<p>澎湃新闻记者 陶宁宁</p>
+<p>
+							2018-12-23 18:46<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">在线旅行平台“烧钱”抢流量的时代早已过去，而如今，抢流量的方式已然变成了“内容为王”。在线旅行平台中的巨头竟在近日高调宣布要进军短视频领域。<br/><div class="contheight"></div>12月20日晚，在线旅行平台中的巨头携程宣布其App8.0版本上线，同时推出了“旅拍”频道。这看似只是推出了一个全新的业务模块，但却意味着以携程为代表的OTA（在线旅行社）行业正在走上一条与以往完全不同的发展道路：<br/><div class="contheight"></div>OTA与UGC（用户原创内容）之间的边界正越来越模糊；而未来，如抖音、小红书等平台是否将成为在线旅游行业下一场战争的竞争对手？<br/><div class="contheight"></div><strong>老板梁建章亲自为“旅拍”代言</strong><br/><div class="contheight"></div>“我们所赋予旅拍的定义是发现旅行、随手分享、社区互动。” 携程CMO孙波介绍，为了保证优质内容的持续生产，“旅拍”在用户激励方面做了从积分到现金的多种尝试。<br/><div class="contheight"></div>从许多方面可以看出，携程对于“旅拍”的投入和重视度很高：<br/><div class="contheight"></div>首先，携程把旅拍频道放置在了其APP首页的显眼位置，占据着流量“要塞”；<br/><div class="contheight"></div>携程联合创始人、执行董事局主席梁建章注册了“旅拍”账号，发布自己在世界各地的旅途照片，亲自为产品做起了代言人；而除了老板亲自代言之外，携程还找来潘粤明、郑凯、陈妍希等多位明星助阵，推广“旅拍”。<br/><div class="contheight"></div>事实上，这并不是携程第一次做内容社区，但却是投入最大的一次。<br/><div class="contheight"></div><strong>主攻方向在图文和短视频</strong><br/><div class="contheight"></div>早期携程并非没有涉足过UGC领域，携程旗下的驴评网曾经整合了攻略、点评、社区问答互动等多种内容，2011年驴评网独立运营，2013年又重新合并到携程的目的地探索频道。<br/><div class="contheight"></div>不过，在此期间，携程对于内容社区环节的投入力度并不算太大，而是把更多精力投入到了交通、住宿、旅游等各项业务的搜索、比价和交易环节。这一发展战略让携程实现迅速扩张，成为了国内最大的OTA企业。<br/><div class="contheight"></div>而在携程成为OTA“大佬”的同时，UGC领域的版图则被马蜂窝和穷游这两家公司牢牢占据。<br/><div class="contheight"></div>多年之后，携程又意图反攻UGC领域，那么，这一次它要做的与之前有何不同？<br/><div class="contheight"></div>对此，孙波在接受澎湃新闻（www.thepaper.cn）采访时表示，跟原来旅游社区中一些长的行程导航、攻略内容相比，现在旅拍的社交属性更强。“现在应该算是PGC（专业生产内容），由平台建议我玩什么。”孙波说，旅拍团队并没有把历史上的内容拿出来重新包装，而是全新的产品设计。<br/><div class="contheight"></div>不同于马蜂窝、穷游等擅长的旅游攻略板块，图文和短视频成为了携程“旅拍”的主攻方向，而这一定程度上与抖音、小红书等平台的部分内容有相似之处。<br/><div class="contheight"></div>对此，孙波回应，抖音、快手、小红书等平台虽然也带火了一些旅游目的地，但在整个短视频行业里，旅游只是其中一类。抖音、小红书等平台更多的是搞笑内容、美妆等视频，并非主攻旅游，但携程要做的则是主攻旅游类图文、短视频。<br/><div class="contheight"></div>但孙波强调，“我们跟抖音是很好的合作伙伴。”<br/><div class="contheight"></div>不过，虽然目前携程与短视频平台还不是竞争对手，但不同行业之间的跨界发展已成为了大势所趋。当OTA开始把目光投入到内容生产时，一个全新的竞争局面已经打开。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘秀浩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 携程</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766635">
+<div class="nbgbox">
+<a class="zan" contid="2766635" href="javascript:;" onclick="voteCont(this)" praisetimes="82">
+                           81</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 携程</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766635&caid=25433",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766635&amp;caid=25433" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

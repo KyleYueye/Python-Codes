@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25437">牛市点线面</a>
+</div>
+<h1 class="news_title">证券时报头版：美股大跌不可怕，外资流向A股进程或有望加快</h1>
+<div class="news_about">
+<p>吴家明/证券时报</p>
+<p>
+							2018-12-24 07:57<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">美股市场最近过得很不平静，道指在上周创下自2008年金融危机以来的最差单周表现，纳斯达克综合指数上周累计下跌近8%，并自8月29日创下的历史高点以来累计下跌超过20%，成为2008年以来美国三大股指中第一个跨过“熊市门槛”的指数。市场人士担心，对于“牛”了很久的美股来说，熊市终于要来了。<br/><div class="contheight"></div>一直把美股牛市当作自己功劳的美国总统特朗普，这下子当然急了。就在上周，美联储宣布继续加息，特朗普终于忍无可忍，更似乎要动真格“开除”鲍威尔。不过，美国财政部长姆努钦在社交媒体上连发两条讯息表示，特朗普坚决反对美联储的加息行动，但从未建议解雇鲍威尔，也并不认为其有权这样做。<br/><div class="contheight"></div>记得近一年前特朗普宣布美联储提名人选时，曾经大力夸赞鲍威尔，称美联储需要一个强有力、可靠和稳定的领导层，鲍威尔是当之无愧的合适人选。然而一年之后，当时还会用“Jay”这个昵称称呼鲍威尔的特朗普却已经数次毫不留情地直接抨击美联储。<br/><div class="contheight"></div>不过，根据美国央行制度，美国总统有权提名美联储主席，但一旦主席人选确定，总统无权利将其解雇，除非美联储主席有违法之举。在美联储长达百年的历史中，从没有任何一位主席被总统解雇。<br/><div class="contheight"></div>排除美联储这一因素，从近期走势来看，美股市场近10年的牛市格局可能已经被打破，而幕后的推手不仅是特朗普和美联储，贸易摩擦、美国企业利润增长率走低、美债收益率曲线倒挂以及多年宽松货币政策下的隐患、美国政府赤字正在“滚雪球”……这些因素都不容忽视。<br/><div class="contheight"></div>当然，美股剧烈震荡，全球股市也过得很不平静：日本股市东证指数和欧洲斯托克50指数都自高位累计下跌超过20%。不过，虽然美联储继续加息，但却降低了明年加息预期次数，对于新兴市场而言或许是个“机遇”，比如美联储放慢加息步伐会让美元面临下行压力，新兴市场货币将在套息交易支持下以及原油价格稳定回升的前提下获得支撑。随着外部因素趋于稳定，新兴市场股市表现在2019年有望改观。<br/><div class="contheight"></div>上周四，美联储宣布加息后美股市场剧烈震荡，A股市场则走出了相对独立的行情。其实，短期内市场避险情绪难以退潮，A股也可能在美股下跌初期持续受到扰动，但短期的波动无需惊慌。对于A股市场来说，美股的大跌并不可怕，反过来看，我国证券市场开放的大门正进一步打开，而随着美股市场低迷，外资流向A股的进程或有望加快，进而成为推动A股市场上升的重要力量之一。<br/><div class="contheight"></div>（原标题《美股牛转熊 A股不必慌》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：葛佳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2767688">
+<div class="nbgbox">
+<a class="zan" contid="2767688" href="javascript:;" onclick="voteCont(this)" praisetimes="21">
+                           20</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美股</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767688&caid=25437",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767688&amp;caid=25437" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

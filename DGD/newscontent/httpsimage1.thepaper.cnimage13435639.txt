@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">司法部巡视组：燕城监狱干警违纪违法问题突出</h1>
+<div class="news_about">
+<p>司法部网站</p>
+<p>
+							2018-12-23 20:13<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">司法部网站消息，根据司法部党组统一部署，2018年12月20日至21日，部党组第一、第二巡视组向部监狱管理局、燕城监狱、中国法制出版社反馈巡视情况。部党组成员、中央纪委国家监委驻部纪检监察组组长、部巡视工作领导小组副组长兼办公室主任蒲增繁，部党组成员、政治部主任、部巡视工作领导小组副组长冯力军分别出席会议并讲话。第一、第二巡视组组长向部监狱管理局、燕城监狱、中国法制出版社反馈了巡视情况。<br/><div class="contheight"></div>巡视组指出，三家被巡视单位存在学习贯彻习近平新时代中国特色社会主义思想和党的十九大精神不深入、落实习近平总书记等中央领导同志指示精神不坚决、十八届中央巡视整改不彻底、形式主义和官僚主义问题突出等共性问题。部监狱管理局存在适应新时代监狱管理工作需要有差距、履职尽责不到位等问题；<strong>燕城监狱</strong>存在对新时代监狱的<strong>政治属性把握不准、干警违纪违法问题突出、选人用人导向不正</strong>等问题；中国法制出版社存在管党治党责任缺失、意识形态工作责任制压得不实、图书“三审三校”把控不严等问题。<br/><div class="contheight"></div>部领导同志强调，要以习近平新时代中国特色社会主义思想和党的十九大精神为指引，认真学习贯彻习近平总书记在庆祝改革开放四十周年大会上的重要讲话精神，坚定“四个意识”，增强“四个自信”，做到“两个维护”，推进巡视整改；要提高政治站位，强化政治担当，坚持问题导向，对症下药，精准发力，着力补齐“短板”，切实把巡视整改转化为促进改革发展的强大动力；要压实政治责任，以高度负责的精神、求真务实的态度、扎实过硬的措施，落实各项整改任务；要加强组织领导，建立问题清单、任务清单、责任清单，逐一对账销号，及时报告情况，做好巡视“后半篇文章”。<br/><div class="contheight"></div>部监狱管理局、燕城监狱、中国法制出版社主要负责同志分别作表态发言。部党组第一、第二巡视组负责同志和被巡视单位中层以上干部及群众代表参加会议。<br/><div class="contheight"></div>（原题为《司法部党组第一、第二巡视组向部监狱管理局 燕城监狱 中国法制出版社反馈巡视情况》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 司法部,燕城监狱,政治属性,干警违纪违法</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766862">
+<div class="nbgbox">
+<a class="zan" contid="2766862" href="javascript:;" onclick="voteCont(this)" praisetimes="160">
+                           159</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 燕城监狱</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766862&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766862&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

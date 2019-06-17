@@ -1,0 +1,80 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">东方新天地 戌狗迎新春 福旺中国年</h1>
+<div class="news_about">
+<p>苏小艾</p>
+<p>
+							2018-02-09 10:14<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">伴随着各种春节贺岁的悠扬歌声，新年的倒数钟声已经敲响，东方新天地在这辞旧迎新时刻早已率先呈现了一派繁荣景象。喜气洋洋的戌狗齐聚长安街畔，为来往的行人送上新春祝福。不仅如此，东方新天地更以“福迎花开 春旺东方”为主题进行了一系列精彩活动，打造别样有趣的春节。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/6/841/290.jpg" width="600"/></div><strong><div style="text-align: center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/6/841/291.jpg" width="600"/></div>犬守太平世 梅开如意春</strong><br/><div class="contheight"></div>春节作为中国的农历新年，不仅代表着举家团圆，更预示着春暖花开，生机勃勃。东方新天地大喷泉处，两只高耸挺拔的金犬带领着伶俐活泼、萌态可掬的小狗或坐或卧或昂首信步于灿若红霞的梅花间，焕发勃勃生机。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/6/841/292.jpg" width="600"/></div>抽象立体且线条流畅、时尚可爱的吉犬形象，配以铜铃装饰寓意平安吉祥。中国红金边吉祥结在盛放的腊梅中圈出美好的2018字样，为红红火火生机盎然的新一年献上诚挚的祝福，同时也引得大家纷纷驻足拍照留念。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/6/841/293.jpg" width="600"/></div>与此同时，东方新天地将推出一系列的新春钜惠活动，消费集旺返现金券，抢红包赢好礼，双倍积分及免费停车多重好礼大放送，吃喝玩乐全覆盖。悠心购物备年货，开开心心过大年。<br/><div class="contheight"></div><strong>今年流行“集旺” 多重礼遇赢大礼</strong><br/><div class="contheight"></div>往年春节的“集福”为传统的新年增加了乐趣，也增加了亲朋好友之间的互动，今年恰逢狗年，当然要集一个“旺”字，期待新的一年各种旺。从2月9日开始到2月23日，“聚集旺”活动将持续展开。东方新天地会员当日单笔消费每满1000元可获得“旺”券一张，集齐三/六/十个“旺”，可分别兑换100/300/600元现金抵用券，独享一份大红包哦~<br/><div class="contheight"></div>同时，还有“运气旺 抢红包赢好礼”活动，扫描二维码拉福袋，抢红包，赢新春好礼，运气好不好，拉福袋一试便知，快来试一试开年运如何吧。<br/><div class="contheight"></div>而对于“吃货”们来说，除夕至大年初六的春节假期，是货真价实的“福利大放送”。会员不仅可享全天免费停车及全场双倍积分，当日单笔消费满500元/1000元还可获赠100元/200元餐饮现金抵用券，年夜饭及各种聚会Party均可享用，好吃又优惠，吃嗨这个春节。<br/><div class="contheight"></div>再来就是历年春节“热闹”的“迎财神”——从大年初一到初三，财神爷降临，开门迎客为大家送去祝福和开年礼。记住巡游时间：11:00 / 14:00 / 17:00，千万不要错过财神爷给大家带来的新年礼物和好运哦！</div>
+<div class="go_to_topic">
+<p style="line-height: 20px; margin-bottom:5px">
+<img alt="" src="//file.thepaper.cn/www/v3/img/topic.gif" style="float:left">
+<a href="newsDetail_forward_31055" target="_blank">
+<span class="news_topic">
+                              【专题】京沪高端商业地产TOP榜</span>
+</a>
+</img></p></div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李淑平<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="1989451">
+<div class="nbgbox">
+<a class="zan" contid="1989451" href="javascript:;" onclick="voteCont(this)" praisetimes="162">
+                           161</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 商业地产</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=1989451&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=1989451&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

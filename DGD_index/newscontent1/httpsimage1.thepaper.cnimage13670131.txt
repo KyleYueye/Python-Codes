@@ -1,0 +1,77 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">印尼狮航失事客机飞行员家属起诉波音公司</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2018-12-29 16:42<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网12月29日消息，印度尼西亚狮子航空公司一架波音737MAX型客机10月29日起飞后不久坠毁于爪哇海，189人遇难。随着空难原因迟迟未解，如今，失事客机一名飞行员的家属对波音公司提起了诉讼。<br/><div class="contheight"></div>综合美国有线电视新闻网（CNN）、俄罗斯卫星通讯社等外媒消息，一名飞行员的家属指控波音公司制造和出售存在故障的飞机，使飞机在使用时处于不必要危险的状态。但波音公司发言人卡罗琳∙哈奇森表示，公司对有关诉讼的消息不予置评。<br/><div class="contheight"></div>此前有消息称，在飞机坠毁中丧生的乘客家属也对波音公司提起诉讼。CNN15日报道称，一名印尼狮航坠机事故遇难者的家属已经对波音公司提起诉讼，称该公司未就一项可能与此次坠机事故有关的安全功能潜在危险向航空公司及飞行员发出警告。<br/><div class="contheight"></div>2018年10月29日，印尼狮航一架波音737 MAX飞机从首都雅加达起飞前往苏门答腊岛附近的一个岛屿，起飞13分钟后在西爪哇海岸地区坠海，飞机残骸散落在30-40米深处的广阔海底。空难原因尚未查明。<br/><div class="contheight"></div>据悉，失事飞机生产于2018年，并从今年8月起开始使用。据印尼救援人员消息，该事故中无人生还。飞机上共载有189人，包括乘客和机组人员。<br/><div class="contheight"></div>空难发生后，波音公司发布了一份有关迎角传感器出错的公告。据印尼侦查人员消息，从“黑匣子”中获取的消息证实，该飞机飞行员们掌握的速度和高度数据有误。<br/><div class="contheight"></div>（原题为《印尼狮航失事客机飞行员家属起诉波音公司》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2575395" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">印尼官方：失事客机上189人全部遇难，已找到一遇难者遗体</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2749141" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">应乘客家属要求，狮航斥资百万美元重启搜寻失事客机乘客遗体</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2679161" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">印尼今日将公布狮航空难首份报告，美媒披露称事前已现故障</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 狮航失事</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2791941">
+<div class="nbgbox">
+<a class="zan" contid="2791941" href="javascript:;" onclick="voteCont(this)" praisetimes="15">
+                           14</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 狮航失事客机</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2791941&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2791941&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

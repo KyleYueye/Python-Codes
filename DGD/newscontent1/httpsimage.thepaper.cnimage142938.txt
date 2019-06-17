@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">委内瑞拉最高法院一名法官逃往美国，指责马杜罗操纵去年大选</h1>
+<div class="news_about">
+<p>澎湃新闻记者 李佩</p>
+<p>
+							2019-01-07 18:13<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="447" src="http://image.thepaper.cn/www/image/14/2/943.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">塞尔帕<br/><div class="contheight"></div></span>为抗议委内瑞拉总统马杜罗的第二任期，该国最高法院法官塞尔帕（Christian Zerpa）目前已逃往美国。<br/><div class="contheight"></div>据英国广播公司（BBC）当地时间1月6日报道，这位前马杜罗的忠诚者告诉佛罗里达一广播电台称，马杜罗系统地操纵最高法院的事务，去年的选举不是自由选举的结果，因此也不具有竞争性。<br/><div class="contheight"></div>对此，委内瑞拉法院称，塞尔帕先生此举是为了逃避一项正在进行中的性骚扰指控。<br/><div class="contheight"></div>塞尔帕曾是马杜罗在司法领域的重要盟友。2016年，塞尔帕撰写了一份重要的法律意见，为委内瑞拉总统剥夺国会的权力提供了合法性解释。在那之前，马杜罗执政的社会党在当年早些时候的投票中失利，使得马杜罗失去了对立法机关的控制权。<br/><div class="contheight"></div>1月6日，在接受迈阿密广播公司EVTV（Miami broadcaster EVTV）的采访时，塞尔帕称委内瑞拉最高法院已经沦落为“行政部门的附属机构”，称总统可以命令法官对某些案件作出相关的裁决。他指出，此前他之所以没有公开批评2018年的选举结果，是为了确保他和他的家人可以安全逃往美国。<br/><div class="contheight"></div>马杜罗将于今年1月10日正式宣誓就职，开始第二个任期。在去年大选举行之前，美国，加拿大，欧盟和十几个拉丁美洲国家已经表示他们不会认可委内瑞拉的大选结果。去年5月，为了抗议投票结果，有14个国家召回了驻加拉加斯的大使，美国也对该国实施了新的经济制裁。<br/><div class="contheight"></div>BBC报道称，除了塞尔帕，委内瑞拉反对党也抵制了2018年的大选投票，称那场选举是一场骗局，而委内瑞拉政府在那次大选中也禁止了一部分参与大选。<br/><div class="contheight"></div>近年来，由于通货膨胀和长期粮食短缺，委内瑞拉国内局势持续恶化，为了维持生存，数百万人已经逃离了委内瑞拉。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：吴挺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 委内瑞拉,美国,大法官</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2823770">
+<div class="nbgbox">
+<a class="zan" contid="2823770" href="javascript:;" onclick="voteCont(this)" praisetimes="68">
+                           67</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 委内瑞拉危机</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2823770&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2823770&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（34）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

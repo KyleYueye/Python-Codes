@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">加蓬政府称已逮捕4名发动政变的叛乱者，局势已得到控制</h1>
+<div class="news_about">
+<p>王松宇/新华社</p>
+<p>
+							2019-01-07 21:01<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社1月7日报道，利伯维尔消息：据法国国际广播电台7日报道，加蓬政府方面说，当天早些时候占领加蓬国家电台的4名叛乱者已被逮捕。<br/><div class="contheight"></div>法国国际广播电台援引加蓬新闻部长兼政府发言人居伊·贝特朗·马潘古的话报道说，目前已有4名叛乱者被逮捕，另有1人在逃，局势已得到控制。<br/><div class="contheight"></div>马潘古还说，加蓬军方高层不掌握这些叛乱者的身份。<br/><div class="contheight"></div>此前有媒体报道说，一些加蓬军人当天宣称发动政变。他们占领了国家电台，其中一名领导者发表讲话，称总统邦戈的新年讲话令人失望。在社交媒体流传的现场视频中，这名领导者表示，邦戈的健康情况已不允许他继续履行总统职责。<br/><div class="contheight"></div>据报道，现年59岁的邦戈去年10月出访时病重入院，目前在摩洛哥就医。在新年讲话中，邦戈承认自己身体有恙，但正在康复。邦戈2009年当选加蓬总统，2016年连任至今。<br/><div class="contheight"></div>（原题为《加蓬政府称已逮捕4名发动政变的叛乱者》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 加蓬,军人,政变</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2825295">
+<div class="nbgbox">
+<a class="zan" contid="2825295" href="javascript:;" onclick="voteCont(this)" praisetimes="9">
+                           8</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 加蓬政变</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2825295&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2825295&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25436">能见度</a>
+</div>
+<h1 class="news_title">国家能源集团总经理：建议将氢能纳入能源体系，制定发展战略</h1>
+<div class="news_about">
+<p>澎湃新闻记者 卢梦君</p>
+<p>
+							2019-01-10 10:11<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="414" src="http://image.thepaper.cn/www/image/14/109/532.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">凌文</span><br/><div class="contheight"></div>“解决清洁能源很重要的思路，是氢。”全国政协人口资源环境委员会委员，国家能源投资集团有限公司董事、总经理，中国工程院院士凌文1月8日在京表示。<br/><div class="contheight"></div>当天，全国政协第十一届中国人口资源环境发展态势分析会在京召开，围绕“构建清洁低碳、安全高效的能源体系”建言资政。凌文以《加快构建氢能产业体系助力能源生产消费革命》为题，阐述了他对我国氢能开发利用的研究和建议。<br/><div class="contheight"></div>低碳化转型发展是中国应对内外部新形势新挑战的共同要求。凌文认为，氢能开发与利用是能源清洁化发展的重要方向。在优化能源系统方面，氢能作为一种二次能源，可实现多异质能源跨地域和跨季节的优化配置，形成可持续高弹性的创新型多能互补系统；在提高能源安全方面，发展氢能源配合燃料电池技术，有助于大幅度降低交通运输业的石油与天然气等的消费总量，降低二者对外依存度；在提高可再生能源利用率、促进能源革命方面，氢作为能源互联媒介，可通过可再生能源电力制取，通过氢气的存储或气体管网的运输，实现大规模的储能及调峰，实现电网和气网的耦合，增加电力系统灵活性。<br/><div class="contheight"></div>从国外看，已有多国政府出台氢能及燃料电池发展战略路线图，美国、日本、德国、韩国、法国等发达国家更将氢能规划上升到国家能源战略高度。<br/><div class="contheight"></div>凌文引述国际氢能源委员会发布的报告称，至2050年，在全球范围内，氢能产业将创造3000万个工作岗位，减少60亿吨二氧化碳，创造2.5万亿美元的市场价值，氢能汽车将占全世界车辆的20%-25%，承担全球18%的能源需求。<br/><div class="contheight"></div>2018年10月12日，由国家能源集团牵头组建的中国氢能联盟发布了《中国氢能产业研究报告（核心观点）》，认为未来氢能在我国终端能源体系占比至少要达到10%，与电力协同互补，共同成为我国终端能源体系的消费主体。<br/><div class="contheight"></div>凌文分析，我国氢能开发与应用已具备产业化基础，但还面临一些挑战，例如：与发达国家将氢能纳入国家能源体系不同，我国能源生产和消费结构中，还未将氢能纳入其中而将其作为一种具有发展潜力的能源对待；缺少立足长远的国家氢能产业发展顶层设计、政策保障体系与实施路线图；在核心技术、装备、技术标准方面与国外发达国家存在差距，应用基础设施差距巨大。<br/><div class="contheight"></div>此外，氢在我国被列为危化品管理范畴，还未列入能源管理体系。凌文指出，这不利于氢能管理体系构建和相关产业政策的及时出台，也不利于社会公众消除“谈氢色变”的心理误区，容易阻碍“氢能社会”共识的达成和氢经济发展。<br/><div class="contheight"></div>就此，他在发言中提出了相关建议：<br/><div class="contheight"></div>一是建议国家组织相关部委研究将氢能纳入国家能源体系，推动氢能成为国家能源战略的重要组成部分，制定氢能产业发展战略及实施路线图，建立科学长效的产业发展扶持与激励政策。<br/><div class="contheight"></div>二是建议明确氢能产业的行业主管部门并加强行业管理，加强行业发展战略、规范、行业协调与监管，推进氢能产业的科学发展。<br/><div class="contheight"></div>三是建议制定研究设立氢能源及燃料电池国家重大专项工作方案，以氢能国际大科学大工程项目为抓手，积极参与并主导相关国际大科学工程科技创新，加快氢能源等相关领域全球协同科技创新，协同攻关掌握氢能关键核心技术，推动氢能产业的自主核心技术与装备发展。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李跃群<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 氢能,凌文</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835542">
+<div class="nbgbox">
+<a class="zan" contid="2835542" href="javascript:;" onclick="voteCont(this)" praisetimes="61">
+                           60</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 氢能</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835542&caid=25436",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835542&amp;caid=25436" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

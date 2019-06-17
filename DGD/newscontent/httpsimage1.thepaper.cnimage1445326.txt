@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">格力电器再度全员加薪：人均加薪1000元，总薪酬增10亿</h1>
+<div class="news_about">
+<p>澎湃新闻记者 周玲</p>
+<p>
+							2019-01-08 20:32<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新年伊始，格力电器又宣布全员加薪。<br/><div class="contheight"></div>1月8日晚，澎湃新闻记者获悉，格力电器当天下发内部文件，宣布全员涨薪，总增加薪酬在10亿元以内。<br/><div class="contheight"></div>格力电器2017年年报显示，公司当期领取薪酬员工总人数85222名，那么此次加薪人均月薪增加1000元左右。与过去两年全员加薪幅度基本保持一致。<br/><div class="contheight"></div>2016年11月份，格力电器首次宣布全员加薪，当时的方案是所有员工在现有月工资基础上，每人每月增发1000元。发放范围是入职满3个月的员工（特殊议薪人员除外）。该加薪计划自2016年12月起实施。<br/><div class="contheight"></div>2018年春节刚过，2月25日格力电器又宣布全员加薪，这次放弃了平均主义，方案是按照人均每月加薪1000元的总额度，根据绩效、岗位给员工加薪。<br/><div class="contheight"></div>2019年1月8日，格力电器下发的这份内部通知显示：“经公司研究决定，自2019年元月起，根据不同岗位给予薪资调整，总共增加薪酬在10亿元以内。”<br/><div class="contheight"></div>具体实施方案：一，技术类岗位，以专业技术等级评定结果为基础，规范薪酬体系，提高薪资；二，管理类岗位，以岗位的绩效和工作表现为基础，结合专业技术等级评定结果，提高薪资。三，技术类岗位，以技能等级评定结果为基础，提高薪资；四，生产与辅助类岗位，生产岗位通过调整工时单价，辅助类岗位根据绩效，提高薪资。<div style="text-align:center;"><img alt="" height="1086" src="http://image.thepaper.cn/www/image/14/45/314.jpg" width="600"/></div></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙扶<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 格力电器</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828799">
+<div class="nbgbox">
+<a class="zan" contid="2828799" href="javascript:;" onclick="voteCont(this)" praisetimes="403">
+                           402</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 格力电器</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828799&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828799&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（131）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

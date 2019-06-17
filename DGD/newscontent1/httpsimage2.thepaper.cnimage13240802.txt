@@ -1,0 +1,77 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜一次质量事故就是一次信任危机，百年老店更伤不起</h1>
+<div class="news_about">
+<p>澎湃特约评论员 陈禹潜</p>
+<p>
+							2018-12-16 18:33<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">北京同仁堂蜂蜜的代工生产企业盐城金蜂，回收大量过期、临近过期的蜂蜜，宣称“退给蜂农养蜜蜂”，但事实上，回收蜂蜜被倒入大桶，送入原料库。12月16日，同仁堂称涉嫌违规产品已全部封存，向所有消费者郑重致歉。北京市大兴区食药监管部门已介入调查。<br/><div class="contheight"></div>一向被称为百年老店的同仁堂，这次却曝出了令人震惊的食品安全造假行为，引起舆论哗然。随着监管部门的介入，相关企业和责任人必将受到严厉处罚。但更值得反思的是，为何一家所谓的百年老店、行业标杆，也会出问题？<br/><div class="contheight"></div>人们之所以看重、选择百年老店，就在一个信字。“诚信者，天下之结也”。诚信是企业的立身之本，也是维护市场经济秩序的重要原则，一旦失信于民，不仅仅涉事企业难逃惩处，整个行业也有可能被拖累，坠入“塔西佗陷阱”。更何况，事关消费者健康的食品、药品领域，不出事则已，一出事必是大事。<br/><div class="contheight"></div>这次出事的同仁堂蜂蜜，虽然事发“代工企业”盐城金蜂，但既然用了同仁堂的商标，消费者看重的就是同仁堂的质量和品牌。任何一个环节、任何一个流程出事，同仁堂都具有不可推卸的责任。<br/><div class="contheight"></div>为了降低成本，现在很多知名品牌都选择代工生产方式，这是市场经济的正常行为。但要注意，“代工”并不能完全“代责”，出了质量问题，委托方同样要承担相应责任，这也是北京大兴区食药监管部门介入调查的原因。同仁堂在致歉声明承认，“监管不力”“严重失察”，但其在过期蜂蜜事件中扮演的角色以及最终责任，可能不限于此，这需要两地监管部门协同调查，给出权威结论。<br/><div class="contheight"></div>据报道，盐城滨海县市场监管部门表示，已发现盐城金蜂多次类似操作，该公司此前还曾出现篡改同仁堂蜂蜜生产日期的行为；法人代表周金林名下的另一家合作社，也被列入经营异常名录。种种迹象显示，篡改蜂蜜生产日期的行为可能并非偶发。<br/><div class="contheight"></div>一次质量事故，就是一次信任危机。这警示相关企业必须重视质量与品牌，重视食品、药品领域的全流程监管，不能因为是知名品牌、“百年老店”，就有所放松，或者出现“灯下黑”。<br/><div class="contheight"></div>同仁堂门前有一幅对联：“炮制虽繁必不敢省人工，品味虽贵必不敢减物力。”对同仁堂来说，必须切实从过期蜂蜜事件中汲取教训，把好全流程质量关，真正把消费者利益摆在首位，才能在市场竞争中走得更远。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2743623" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">视频｜北京同仁堂蜂蜜生产商被曝回收过期蜂蜜</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2744167" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">同仁堂“蜂蜜门”：代工厂为当地重点项目，投资五千万元</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2744551" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">北京：对北京同仁堂蜂业有限公司开展调查</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 同仁堂,蜂蜜</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2744730">
+<div class="nbgbox">
+<a class="zan" contid="2744730" href="javascript:;" onclick="voteCont(this)" praisetimes="269">
+                           268</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 同仁堂蜂蜜门</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2744730&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2744730&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（113）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

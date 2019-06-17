@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">赵克志：全国开展为期一年打击治理电信网络违法犯罪专项行动</h1>
+<div class="news_about">
+<p>澎湃新闻记者 邵克 实习生 高瑜键</p>
+<p>
+							2018-11-29 22:08<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">国务院打击治理电信网络新型违法犯罪工作部际联席会议决定，从今年12月起到2019年底，在全国范围内组织开展为期一年的新一轮打击治理电信网络违法犯罪专项行动。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）从11月29日在京召开的全国打击治理电信网络新型违法犯罪工作电视电话会议上获得该消息。专项行动将坚持打击、整治、防范同步推进、多管齐下，进一步向电信网络新型违法犯罪发起强大攻势，努力实现电信诈骗发案、群众损失明显下降，破案数、查处违法犯罪人员数明显上升的目标。<br/><div class="contheight"></div>国务委员、公安部部长、国务院打击治理电信网络新型违法犯罪工作部际联席会议总召集人赵克志还要求，要保持严打高压态势，迅速掀起打击电信网络新型违法犯罪高潮。要更加注重追赃挽损，最大限度减少受害群众的经济损失。要压实主体责任，强化整治措施，着力推动重点整治，坚决扭转重点地区案件高发的状况。要加强源头治理，严格落实金融、电信、互联网等领域的整治措施，全面提升部门监管和行业治理能力。要深入开展形式多样的宣传教育活动，不断增强广大群众的识骗防骗意识和能力。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陈雷柱<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 电信诈骗,国务院,打击治理</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2687686">
+<div class="nbgbox">
+<a class="zan" contid="2687686" href="javascript:;" onclick="voteCont(this)" praisetimes="79">
+                           78</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 电信诈骗</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2687686&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2687686&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

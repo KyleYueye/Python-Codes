@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">人民法院报刊文：院庭长办案的数量和质量公开了才有公信力</h1>
+<div class="news_about">
+<p>刘勋/人民法院报</p>
+<p>
+							2018-12-16 10:14<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">最高人民法院日前印发《关于进一步全面落实司法责任制的实施意见》（以下简称《意见》），指出要全面推进院长、庭长办案常态化，科学统筹院领导办案类型，完善配套分案办法，健全院领导主要审理重大疑难复杂案件机制，加强对院长、庭长办案的网上公示和考核监督，充分发挥院长、庭长办案的示范引领作用。<br/><div class="contheight"></div> 最高人民法院此次印发关于落实司法责任制的意见，可以说涉及了近些年司法改革的多个方面，其中社会舆论最关注的仍然是院庭长办案常态化的问题，不少新闻报道的标题把“院庭长办案”当作了关键词，而且这个问题也是司法改革进程中的重要节点，属于焦点性的改革举措。不可否认，不少法院的院庭长是业务能手，可是办案能力并非一成不变、一蹴而就，办案能力与法官的学习能力、身体状况、时间精力等主客观因素紧密相连。因为各种历史因素，院庭长并不会因为行政级别高就天然具备较强的业务能力，还有些院庭长可能因为行政事务繁忙缺乏办案的时间精力。<br/><div class="contheight"></div>    司法改革之所以要推动院庭长办案，主要就是让院庭长发挥引领示范作用，带头办理疑难复杂案件给其他员额法官做好表率，同时也能更好地让资深法官发挥作用服务审判。但是在改革的推进过程中，院庭长办案制度难免会出现些问题，例如有些院庭长多年未办案，业务能力荒疏、法律知识陈旧；还有些院庭长缺乏办案经验，入额之后办案自然会出现不适应；有些院庭长无法胜任疑难复杂案件的办理，就可能发生挂名办案、代理办案等假办案现象；还有些院庭长可能会选择事实清楚、法律关系比较简单的案件。这些假办案、不办案、办易案的现象违背了司法改革的初衷，既没有发挥好院庭长办案的引领示范作用，还起到了负面作用。<br/><div class="contheight"></div>司法改革的要求非常明确，那就是院庭长入额后必须要办案，而且是亲力亲为地办理疑难复杂案件。这次最高法院发布意见，其实就是要进一步夯实司法改革举措的执行，其中对院庭长办案再次进行了重申和细化，《意见》指出要健全院领导主要审理重大疑难复杂案件机制，加强对院长、庭长办案的网上公示和考核监督，充分发挥院长、庭长办案示范引领作用。院庭长办案的数量和质量究竟是怎么样的，这些信息只有公开了才有公信力，考核监督才有抓手，是否办理了疑难复杂案件一目了然，那些假办案、不办案的院庭长自然就无法雪藏办案能力的短处与不足。<br/><div class="contheight"></div>院庭长的办案情况就应该晒出来，既要接受其他员额法官、法官助理的监督，也要接受社会舆论的关注与质疑。相信院庭长办案情况网上公示能够发挥倒逼作用。《意见》指出担任领导职务的法官无正当理由不办案或者办案达不到要求的，应当退出员额，这就说明院庭长并不能当然地成为员额法官。与此同时，考核监督院庭长办案的方式要更加全面具体，深入调查院庭长是否进行了实质性的办案，让院庭长退出员额的机制真正发挥作用。<br/><div class="contheight"></div>（原题为《院庭长办案情况 就应该晒出来》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：邵克<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 司法责任制,院长</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2743766">
+<div class="nbgbox">
+<a class="zan" contid="2743766" href="javascript:;" onclick="voteCont(this)" praisetimes="71">
+                           70</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 司法改革</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2743766&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2743766&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

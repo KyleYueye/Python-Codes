@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">江苏启动本年度南水北调，累计调水量有望破40亿立方米</h1>
+<div class="news_about">
+<p>何磊静/新华社</p>
+<p>
+							2018-12-25 20:55<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社南京12月25日电  记者从江苏省水利厅获悉，江苏省南水北调工程2018-2019年度向山东省调水工作于25日正式启动，本次调水将持续至2019年5月中旬，调水8.44亿立方米，完成本年度调水后，江苏累计跨省调往山东的水量将超过40亿立方米。<br/><div class="contheight"></div>据江苏省水利厅介绍，本年度调水分两阶段实施。第一阶段从2018年12月25日开始，预计至2019年1月底结束，从江苏省扬州市附近的长江干流取水，由江都水利枢纽江都东闸自流入里下河，启用宝应站抽江水入里运河，经金宝航道、淮河入江水道三河段、洪泽湖等河湖，沿途启用金湖站、洪泽站、泗洪站等6个梯级泵站抽水入骆马湖，最后经中运河由台儿庄站抽水出江苏。第二阶段预计从2019年春节后开始，至5月中旬结束。<br/><div class="contheight"></div>据统计，江苏南水北调工程自2013年正式通水以来，已累计向省外调水约31.6亿立方米。本年度调水完成后，江苏累计跨省调水量将破40亿立方米，为缓解北方水资源短缺状况作出贡献。<br/><div class="contheight"></div>（原题为《江苏启动本年度南水北调 累计调水量有望破40亿立方米》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：崔烜<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 南水北调 江苏</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2774320">
+<div class="nbgbox">
+<a class="zan" contid="2774320" href="javascript:;" onclick="voteCont(this)" praisetimes="29">
+                           28</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 南水北调</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2774320&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2774320&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">欧盟称若无协议脱欧，会“中断”与英国的空中交通 </h1>
+<div class="news_about">
+<p>濮阳艺婧/海外网</p>
+<p>
+							2018-12-20 20:19<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="381" src="http://image.thepaper.cn/www/image/13/348/250.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">欧盟委员会主席让-克洛德·容克19日宣布，欧盟已经开始实施关于英国无协议脱欧的计划。<br/><div class="contheight"></div></span>海外网12月20日消息，当地时间12月19日，欧盟威胁称如果无法就脱欧协议达成一致，将会限制英国航班，并对生活在欧盟的英国公民提出一些新的要求。<br/><div class="contheight"></div>据《每日邮报》报道，欧盟委员会主席让-克洛德·容克表示，英国无协议脱欧将是一场“灾难”。一名欧盟官员也警告称，这将是“二战以来”最严重的边境混乱。<br/><div class="contheight"></div>当地时间12月19日，随着欧盟和英国在脱欧协议上僵局的持续，欧盟公布了后续计划的一些细节。<br/><div class="contheight"></div>欧盟称：“为了确保必要的应急措施能在2019年3月30日开始实施，以挽救“无协议脱欧”带来的槽糕局面，委员会认为，现在就开始实施这些计划是必要而紧迫的。”<br/><div class="contheight"></div>欧盟的这份计划涵盖了14个领域。如果英国无协议退出欧盟，将会在这些领域给欧盟其余27个成员国的“公民和企业造成重大干扰”，包括金融服务、航空运输和海关。<br/><div class="contheight"></div>该计划明确表示，如果英国无协议脱欧，那么欧盟和英国之间的空中交通将从明年3月起“中断”。<br/><div class="contheight"></div>但同时欧盟也提出了一项新规定，以便在12个月时间内暂时维持英国和欧盟27个成员国之间的某些航空服务。在此期间内，英国的航空公司可以在不着陆的情况下飞越欧盟领土，可出于非交通目的在欧盟境内停留，并且可以提供定期或非定期的国际客运及货运航空运输服务。<br/><div class="contheight"></div>根据该计划，英国航空公司将获准运营英国和欧洲大陆之间的航班。然而，该公司将被禁止在欧盟成员国的机场之间飞行，以及运营从欧洲到美国的航班。<br/><div class="contheight"></div>除此之外，欧盟委员会还警告称，居住在欧盟成员国的英国公民必须遵守关于“进入、居住和在欧盟成员国工作”的相关规定。<br/><div class="contheight"></div>目前，欧盟委员会已经通过了一项法规提案，在欧盟境内短期逗留(180天内最长可逗留90天)，英国公民无需办理签证。但前提是所有欧盟成员国公民去英国短期逗留也均无需办理英国签证。<br/><div class="contheight"></div>此前，欧盟方面声称对英国的脱欧协议“不再进行重新谈判”。<br/><div class="contheight"></div>18日，英国内阁就“脱欧”问题加紧开会讨论，为无协议“脱欧”做准备。英国政府决定，调派3500名军队人员随时待命，以应对可能发生的“紧急情况”。<br/><div class="contheight"></div>（原题为《欧盟称若无协议脱欧 会“中断”与英国的空中交通》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 欧盟,无协议脱欧,空中交通</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2757510">
+<div class="nbgbox">
+<a class="zan" contid="2757510" href="javascript:;" onclick="voteCont(this)" praisetimes="30">
+                           29</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 英国“脱欧”</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2757510&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2757510&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">92岁英国女王现身伦敦火车站，乘普通列车去过圣诞</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2018-12-21 15:58<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="398" src="http://image.thepaper.cn/www/image/13/370/332.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">92岁的英国女王被拍到独自乘坐火车外出。</span></div><div>海外网12月21日报道，92岁的英国女王伊丽莎白二世日前被拍到独自乘坐火车外出。女王为何独自出行，她到底要去哪里呢？</div>据英国《每日邮报》报道，当地时间21日，年逾九旬的英女王现身伦敦火车站，在安保人员的护送下，和普通民众一起登上了由伦敦开往诺福克郡的一班普通列车，正式开启了她的“圣诞之旅”。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="389" src="http://image.thepaper.cn/www/image/13/370/334.jpg" width="600"/></div>列车到达后缓缓停靠在2号站台。女王系着头巾，穿着一件深驼色大衣，戴着黑色手套，挎着一个黑色包包，走下车厢。除了几名随行的安保人员，再无其他王室成员陪同。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="387" src="http://image.thepaper.cn/www/image/13/370/340.jpg" width="600"/></div>一名随行安保人员提了一个红线黑色的旧皮包，包上挂着一个黄色标签，上面清楚地写着“女王”（THE QUEEN）二字。这名安保人员还提了一个红色皮包，包上放了一束红色的花，节日氛围浓厚。<br/><div class="contheight"></div>英女王当天看起来精神状态很好，边走还边对着一旁拍照的记者微笑，一副泰然自若的样子。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="592" src="http://image.thepaper.cn/www/image/13/370/333.jpg" width="600"/></div>同行的旅客估计也没有想到，女王竟和他们乘坐同一班列车。女王和普通乘客一样走下火车，随后，她走出站台，踏上了王室汽车，期间并没有引起太大轰动。女王此行的目的地是诺福克郡的桑德林汉姆庄园，她将在那里和王室成员共度圣诞节。<br/><div class="contheight"></div>按照传统，每年圣诞节来临之际，王室成员通常会在桑德林汉姆庄园举行庆祝活动，王室成员们会在圣诞节前夕抵达那里，王室大家庭还会一起完成圣诞树的装点。<br/><div class="contheight"></div>女王的丈夫，现年97岁的菲利普亲王由于大部分时间都待在温莎，外界推测，他会像去年一样，单独前往桑德林汉姆庄园。威廉王子一家、哈里王子夫妇等王室成员也会在圣诞节前夕陆续抵达。看来女王对这次的圣诞活动十分期待，所以选择了提前前往桑德林汉姆庄园。<br/><div class="contheight"></div>（原题为《92岁英女王独自现身伦敦火车站 搭普通列车去了这里…》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 英国女王,乘火车,过圣诞节</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2759973">
+<div class="nbgbox">
+<a class="zan" contid="2759973" href="javascript:;" onclick="voteCont(this)" praisetimes="234">
+                           233</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 英国王室</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2759973&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2759973&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（69）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

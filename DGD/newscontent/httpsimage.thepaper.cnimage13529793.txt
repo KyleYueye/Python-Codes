@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">A站运营主体成为快手全资子公司：注册资本升至4亿元</h1>
+<div class="news_about">
+<p>澎湃新闻记者 陈宇曦</p>
+<p>
+							2018-12-26 19:07<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">快手宣布收购A站六个月后，最新的步骤是工商资料变更完成。<br/><div class="contheight"></div>12月24日，AcFun弹幕视频网（A站）运营主体广州弹幕网络科技有限公司股东发生变更，北京弹幕网络科技有限公司退出，广州弹幕网络科技有限公司成为北京快手科技有限公司的全资子公司。<br/><div class="contheight"></div>同时，广州弹幕网络科技有限公司的注册资本由1176.4707万元飙升至4亿元。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="320" src="http://image.thepaper.cn/www/image/13/529/662.jpg" width="600"/></div>2018年6月，快手公司宣布全资收购A站，快手将在资金、资源、技术等方面给予A站支持，A站则保持独立品牌，维持独立运营，保留原有团队。<br/><div class="contheight"></div>2018年6月，快手联合创始人银鑫进入A站董事会，7月，银鑫取代A站CEO刘炎焱成为广州弹幕网络科技有限公司法定代表人。A站在北京设立的北京弹幕网络科技有限公司法定代表人也变更为了银鑫。A站的原股东软银、刘炎焱、蔡东青等陆续退出。<br/><div class="contheight"></div>目前A站工商资料上列出的主要人员有：执行董事兼总经理银鑫，监事贾弘毅。<br/><div class="contheight"></div>快手动作近来频繁，在2018年6月宣布收购了A站，冠名了《声临其境》等热门综艺，其商业化进程也在加速，推出了快手营销平台，发力信息流广告、快手电商等。在产品矩阵上，除了快手和A站，快手公司还推出了主打电音的“蹦迪”和主打各种技能学习教程的“UGet”。<br/><div class="contheight"></div>不过，作为国内最老牌的视频弹幕网站，A站在用户规模上已经落后于其老对手哔哩哔哩（B站），后者已经于2018年3月登陆纳斯达克。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王杰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 快手, A站</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2777500">
+<div class="nbgbox">
+<a class="zan" contid="2777500" href="javascript:;" onclick="voteCont(this)" praisetimes="11">
+                           10</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 快手</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2777500&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2777500&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=56577">齐鲁石敢当</a>
+</div>
+<h1 class="news_title">济南6主播为增加点击率穿“日本军服”招摇过市，被治安拘留</h1>
+<div class="news_about">
+<p>齐鲁石敢当</p>
+<p>
+                            2019-01-08 21:15<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard"><strong>6名男子穿“日本军服”招摇过市引众怒</strong><br/><div class="contheight"></div>1月6日上午，章丘城关派出所接辖区群众报警，在绣惠大集上有五六个年轻人穿日本军服招摇过市态度嚣张，引发群众强烈不满！<div style="text-align:center;"><img alt="" height="1169" src="http://image.thepaper.cn/www/image/14/41/203.jpg" width="750"/></div><strong>警方通报</strong><div style="text-align:center;"><img alt="" height="770" src="http://image.thepaper.cn/www/image/14/41/204.jpg" width="673"/></div>接警后，民警迅速抵达现场，为避免造成群众大量聚集，出警民警将五名着日军军服人员以及其现场指挥带到派出所接受调查。<br/><div class="contheight"></div>经查，毕某辉（20岁，历城孙村人）等六人皆为快手主播，为提升人气，增加点击率，毕某辉网购日军军服，策划由张某（17岁，泰安人）、陶某（18岁，章丘人）、贺某（19岁，贵州人）、刘某（19岁，甘肃人）、潘某（15岁，烟台人）五人穿日军服逛大集，待群众聚集增多后直播跳摇摆舞。<div style="text-align:center;"><img alt="" height="978" src="http://image.thepaper.cn/www/image/14/41/205.jpg" width="747"/></div>毕某辉等人为博人眼球，增加人气，罔顾民族感情，无视公序良俗，在公共场合引发群众强烈不满，极大地伤害了广大人民群众的爱国情怀，违背了中国特色社会主义核心价值观，造成了恶劣的社会影响，其行为已经触犯《中华人民共和国治安管理处罚法》的有关规定，目前，毕某辉等六人涉嫌扰乱社会公共秩序已被治安拘留。<div style="text-align:center;"><img alt="" height="529" src="http://image.thepaper.cn/www/image/14/41/206.jpg" width="741"/></div>警方提醒：网上网下都不是法外之地，公然挑战社会底线，造成严重的社会负面影响，就要接受法律的严惩。<br/><div class="contheight"></div><strong>外长王毅：“精日分子”就是“中国人的败类！”</strong><br/><div class="contheight"></div>2018全国两会期间，外交部部长王毅在全国人大记者会上回应媒体对“精日”行为的提问时，直言所谓“精日分子”就是“中国人的败类！” 这句话引发了众多网友点赞。<div style="text-align:center;"><img alt="" height="291" src="http://image.thepaper.cn/www/image/14/41/207.gif" width="542"/></div>搞怪也要有下限<br/><div class="contheight"></div>民族尊严决不可随意践踏<br/><div class="contheight"></div>任何损害国家利益的行为<br/><div class="contheight"></div>都将被严惩不贷！<br/><div class="contheight"></div>（原标题《全部拘留！》）</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2828396">
+<div class="nbgbox ">
+<a class="zan" contid="2828396" href="javascript:;" onclick="voteCont(this)" praisetimes="340">
+                                    339</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（204）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">国家卫健委：全国已使用医保内进口抗癌药超60万盒</h1>
+<div class="news_about">
+<p>央视网</p>
+<p>
+							2019-01-11 11:16<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="348" src="http://image.thepaper.cn/www/image/14/159/144.png" width="600"/></div><span style="color: rgb(128, 128, 128);">目前，全国已使用60多万盒纳入医保后的进口抗癌药。 截屏图<br/><div class="contheight"></div></span>国家卫健委1月10日在回答记者提问时表示，自去年10月份17种进口昂贵的抗癌药品纳入基本医保目录后，我国采取多种措施确保患者可以实际使用上，目前，全国已使用60多万盒纳入医保后的进口抗癌药，大大减轻癌症患者用药负担。<br/><div class="contheight"></div>从2018年5月1日开始，抗癌药品实行零关税，国家卫生健康委采取相关措施，促进抗癌药降价后能供进医院。首先把临床急需的癌症防治用药纳入国家基本用药目录，以优先配备使用癌症防治药品需求为导向，2018版国家基本药物目录增加了12种抗肿瘤新药和丙肝的治疗药物。研究制定一系列癌症治疗的临床路径和用药指南，明确了对新型抗肿瘤药物在病理、特护用药等方面的指导要求。在医保费用方面，17种国家谈判的抗癌药物费用不纳入总额控制范围，对合理使用的费用按规定单独核算保障。二是在医疗机构使用方面，对供应保障和合理使用药物提出了要求。<br/><div class="contheight"></div><strong>国家卫生健康委新闻发言人 宋树立：</strong>国家卫生健康委员会下发了通知，要求有登记肿瘤科的三级综合医院和各级肿瘤专科医院，根据临床需求及时配备谈判药品，而且要求每周要报送采购和使用进展。这个文件已经从10月下旬，到现在不到三个月的时间，我这里有一个截至1月3日的统计数据，全国31个省份和新疆生产建设兵团一共1386家医院上报了相关数据，绝大部分都根据需要采购了刚才所说的谈判的抗癌药。全国现在已经使用的抗癌药是60多万盒，减轻了癌症患者的用药负担。<br/><div class="contheight"></div>（原题为：《国家卫健委：全国已使用医保内进口抗癌药超60万盒》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 国家卫健委,抗癌药,医保,临床</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2840806">
+<div class="nbgbox">
+<a class="zan" contid="2840806" href="javascript:;" onclick="voteCont(this)" praisetimes="17">
+                           16</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 抗癌药</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2840806&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2840806&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

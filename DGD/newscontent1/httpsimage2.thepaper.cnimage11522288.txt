@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">最高法巡回法庭审案范围拟扩大：不应限于行政、民商事案件</h1>
+<div class="news_about">
+<p>澎湃新闻记者 庄岸</p>
+<p>
+							2018-10-22 18:27<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">最高法巡回法庭受案范围拟扩增。10月22日，人民法院组织法（修订草案）提请十三届全国人大常委会第六次会议三审。全国人大常委会法工委主任沈春耀在作修正草案修改情况汇报时表示，不再将最高法巡回法庭审理案件的范围局限在“跨行政区划重大行政、民商事等案件”，拟扩增至“最高人民法院依法确定的案件”。<br/><div class="contheight"></div>上述修正草案第十九条规定，最高人民法院可以设巡回法庭，审理跨行政区划重大行政、民商事等案件。有的常委会组成人员、社会公众提出，巡回法庭审理案件的范围不应限于行政、民商事案件，实践中巡回法庭还审理了不少刑事申诉案件。<br/><div class="contheight"></div>宪法和法律委员会经研究，建议根据实践和需要，将巡回法庭审理“跨行政区划重大行政、民商事等案件”修改为审理“最高人民法院依法确定的案件”。<br/><div class="contheight"></div>与此同时，最高法院审理案件的范围也拟作出增加。上述草案第十六条规定了最高人民法院审理案件的范围，包括法律规定由其管辖的和其认为应当由自己管辖的第一审案件；对高级人民法院判决和裁定的上诉、抗诉案件；按照审判监督程序提起的再审案件以及高级人民法院报请核准的死刑案件。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）注意到，近几年，最高法院曾在多个场合提出“建立国家层面知产案件上诉审理机制”。沈春耀指出，目前，最高人民法院正在推动完善知识产权案件上诉审理机制，由最高人民法院直接审理知识产权法院和中级人民法院审理的专利等知识产权案件的上诉案件。<br/><div class="contheight"></div>宪法和法律委员会经研究，建议在最高人民法院审理案件的范围中增加一项：按照全国人民代表大会常务委员会的规定提起的上诉、抗诉案件。<br/><div class="contheight"></div>这也意味着，有关知识产权案件的上诉机制，或由全国人大常委会出台相关规定。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：朱远祥<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 巡回法庭 审案范围 人民法院组织法</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2552433">
+<div class="nbgbox">
+<a class="zan" contid="2552433" href="javascript:;" onclick="voteCont(this)" praisetimes="45">
+                           44</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 人民法院组织法</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2552433&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2552433&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

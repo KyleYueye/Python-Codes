@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜一个广东人眼中的“山竹”：是什么让我多了份淡定</h1>
+<div class="news_about">
+<p>澎湃特约评论员 文轩君</p>
+<p>
+							2018-09-17 13:16<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="399" src="http://image.thepaper.cn/www/image/10/522/49.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">台风“山竹”造成深圳、珠海等14个市紧急避险转移和安置95.1万人，4人因灾死亡 视觉中国 图<br/><div class="contheight"></div></span>新闻里说，截至9月17日8时，台风“山竹”造成深圳、珠海等14个市紧急避险转移和安置95.1万人，4人因灾死亡。前一天晚上8点，初步不完全统计的直接经济损失，已超过2亿元。<br/><div class="contheight"></div>新闻画面让人震撼，灾情引人关切，但说实话，我对“山竹”的恐惧感并不深。这个周末，我是这样过的：周六，到超市采购——听说珠三角的很多超市里，食物和用来贴玻璃窗的胶带脱销得特别快。周日“山竹”登陆日，一家人在屋内看雨听风，刷朋友圈里各种台风段子和小视频。<br/><div class="contheight"></div>这也是很多广东人过这个周末的方式。网上有个大热的段子，说：“全国人民都在担心广东人的安危，但广东人只关心放不放假。”眼看“山竹”越来越弱，周一上班已成定局，我的大学微信群里很多人在感叹：山竹弄人啊！<br/><div class="contheight"></div>作为一个广东人，我对台风的记忆是深刻的。曾经，台风是让所有身处其中的人胆战心惊的存在。时至今日，它的威胁已大大降低，甚至“沦落”为段子手的创作素材。是什么让我们面对台风多了一分淡定？<br/><div class="contheight"></div>这要归功于信息传播技术的进步，与规范科学、响应及时的抗灾系统。“山竹”还在菲律宾时，省内媒体就提醒其可能直奔广东。等来势已定，手机上不断收到提示短信。有朋友开玩笑说“原来最关心我的是‘三防办’”。各路新媒体号的信息纷至沓来，让人不看都不行。早到的信息，以时间换来了充足的准备空间。遥想十几年前，要等到台风降临前夜，乡镇干部们才满村子敲锣提醒防风。而在台风登陆前一日，城管、公安、交通、消防、医疗……已经联合运作了起来。<br/><div class="contheight"></div>最不该忘记的，是许许多多暴风雨中的逆行者。我所在的东莞，警察冒着大风上街巡查，有位年轻警员被折断的树木砸倒，也有救灾人员被大风刮起的铁皮割伤，所幸都无性命之忧。每个镇、街道都开放了庇护所，接待无家可归者。深夜，仍有很多人顾不上休息，在清理道路障碍。这座我总觉得略显冷漠的工业城市，在风雨面前变得格外温暖。<br/><div class="contheight"></div>台风考验着政府的应急能力，而这源自日常的管理水准。“山竹”面前，各级政府部门的表现可圈可点。正是有着强有力的保障，普通人才能免于惊惧，在温暖的家里，安心从容地刷朋友圈。<br/><div class="contheight"></div>但在“精细”化上，仍有未尽人意之处。以“台风I级应急响应”为例，东莞仅是“停工、停产、停课”，而隔壁的广州多了“停市”。“四停”显然比“三停”要周全些。<br/><div class="contheight"></div>其次，从一些救灾部门官微的即时播报来看，“停工”“停产”也并未落实到位。I级响应发布了大半天之后，有关部门还接到不少在生产现场被困群众的救助。显然应该有人为之负责。<br/><div class="contheight"></div>另外，在暴风雨中，有些外卖平台仍在做生意。外卖也属于生产劳动，显然应该“停工停产”。一些外卖、快递等从业者的安全问题，并未得到足够重视。<br/><div class="contheight"></div>精细化和人性化，不应是管理中的矛盾，而应是相融合。但愿每年都需要迎战台风的沿海省市，能不断地吸取经验教训，让普通市民更从容地面对天灾。敬畏大自然，同时也当精细化管理，能否在今后最大程度实现“零死亡”？</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 台风“山竹”</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2448079">
+<div class="nbgbox">
+<a class="zan" contid="2448079" href="javascript:;" onclick="voteCont(this)" praisetimes="243">
+                           242</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 台风“山竹”</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2448079&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2448079&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

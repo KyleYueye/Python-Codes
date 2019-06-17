@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">中国广播民族乐团原团长张大森逝世，享年74岁</h1>
+<div class="news_about">
+<p>澎湃新闻记者 岳怀让</p>
+<p>
+							2018-12-23 10:09<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">澎湃新闻（www.thepaper.cn）从中国广播民族乐团及清华大学方面获悉，中国广播民族乐团原团长、清华大学人文学院艺术发展顾问张大森因病医治无效，于2018年12月20日9时41分在北京逝世，享年74岁。<br/><div class="contheight"></div>中国广播民族乐团方面介绍称，张大森系我国著名柳琴、琵琶演奏家、作曲家、指挥家、教育家，中国民族管弦乐学会柳琴专业委员会会长、中国民族管弦乐学会常务理事，享受国务院政府特殊津贴。<br/><div class="contheight"></div>另外，张大森还长期担任清华大学艺术教育中心民族乐团常任指挥、清华大学人文学院艺术发展顾问职务。<br/><div class="contheight"></div>张大森1960年加入中国广播民族乐团，师从中国当代杰出民族音乐大师彭修文以及琵琶专家俞良模。他的代表作品有琵琶曲《春江花月夜》、柳琴曲《幽燕春早》，首演双柳琴协奏曲《春天随想曲》，创作有琵琶与乐队《塞上曲》、古筝与乐队《小河淌水》、民族管弦乐《苏堤散步》、弹拨乐合奏《欢快的边寨》、《赶会》、室内乐《怀乡情》等。<br/><div class="contheight"></div>张大森还改编了大量中外名曲，如《金蛇狂舞》、《翠湖春晓》、《喜讯到边寨》、《坎地德序曲》、《拉德斯基进行曲》等。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 逝世,艺术家</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2765829">
+<div class="nbgbox">
+<a class="zan" contid="2765829" href="javascript:;" onclick="voteCont(this)" praisetimes="13">
+                           12</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 名人逝世</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2765829&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2765829&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

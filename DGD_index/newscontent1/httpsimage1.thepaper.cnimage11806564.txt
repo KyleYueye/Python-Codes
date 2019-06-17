@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">全国律协通报：9月律师维权申请中涉侵犯会见权的占半数以上</h1>
+<div class="news_about">
+<p>澎湃新闻记者 邵克</p>
+<p>
+							2018-10-31 12:07<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">律师会见难问题依然突出。<br/><div class="contheight"></div>10月31日，全国律协举行新闻发布会，全国律协新闻发言人蒋敏通报，9月份，全国各省（区、市）和设区的市律师协会共收到维权申请67件，其中侵犯律师会见权的36件，占53.73%。<br/><div class="contheight"></div>根据蒋敏通报的典型案例，侵犯律师会见权的情形包括，拒绝律师会见涉黑涉恶案件当事人、以案件保密为由拒绝律师会见等等。<br/><div class="contheight"></div>除了侵犯律师会见权，其余侵权类型还包括，侵犯律师立案权、调查取证权，律师人身受到伤害，律师被非法关押、扣留、拘禁或者以其他方式限制人身自由等情形。<br/><div class="contheight"></div>蒋敏还通报了涉嫌侵权的单位，人民法院的6件，占8.96%；人民检察院的1件，占1.49%；公安机关的41件，占61.19%；委托人和对方当事人的15件，占22.39%；人民银行的1件，占1.49%；司法物证鉴定中心的1件，占1.49%；不动产中心的1件，占1.49%；律师事务所的1件，占1.49%。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李寿康<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 律协</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2584792">
+<div class="nbgbox">
+<a class="zan" contid="2584792" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 律师</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2584792&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2584792&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

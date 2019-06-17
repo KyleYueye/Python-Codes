@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">“三北防护林”对沙化土地减少的贡献率约为15% </h1>
+<div class="news_about">
+<p>于文静/新华社</p>
+<p>
+							2018-12-24 16:56<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="355" src="http://image.thepaper.cn/www/image/13/456/906.jpg" width="600"/></div><br/><div class="contheight"></div>新华社北京12月24日电 三北工程建设40年来，我国防风固沙林面积增加154%，对沙化土地减少的贡献率约为15%，2000年后我国土地沙化呈现出整体遏制、重点治理区明显好转态势。<br/><div class="contheight"></div>这是记者从国务院新闻办24日举行的《三北防护林体系建设40年综合评价报告》发布会上了解到的信息。<br/><div class="contheight"></div>国家林业和草原局副局长刘东生在发布会上表示，40年来，三北工程累计完成造林保存面积3014.3万公顷，森林覆盖率由5.05%提高到13.57%，活立木蓄积量由7.2亿立方米提高到33.3亿立方米。<br/><div class="contheight"></div>“我国沙漠化面积从2000年开始大幅度减少，原因一是三北防护林做了贡献，二是在三北防护林工程启动的昭示下，人民生态意识提升，并且国家还启动了其他一些生态工程。”沈阳应用生态研究所所长朱教君在发布会上说。<br/><div class="contheight"></div>他介绍说，沙漠化形成最重要的一个因素是人为干扰，比如在三北地区生态脆弱区的滥砍、滥伐、滥牧等活动。对三北防护林体系建设40年的评估显示，三北工程对沙漠化减少的贡献率约为15%，主要是对减少轻度沙漠化起到作用。沙漠化防治主要受人为干扰和气候影响，三北地区人的生态意识提高对沙漠化防治作用巨大。<br/><div class="contheight"></div>对于公众关心的京津冀地区沙尘暴问题，朱教君表示，沙尘暴的产生至少有两个重要条件，即大风和沙物质来源。根据统计，沙尘暴从1978年平均每年5.1天下降到2015年的0.1天，其中三北防护林通过地面覆盖，使沙物质源得到固定，对减少沙尘暴起了一定作用，更大的原因是大气候环境，全球变暖导致西伯利亚地区的草地、森林温度升高，气压差变小，形成大风的次数就减少。<br/><div class="contheight"></div>“关于沙尘暴的防治，不仅是一个工程就能完成的，应该是全社会乃至全球大环境的问题。”朱教君说。<br/><div class="contheight"></div>（原题为《三北防护林对沙化土地减少的贡献率约为15%》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：崔烜<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 三北防护林 40年</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2769103">
+<div class="nbgbox">
+<a class="zan" contid="2769103" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 三北防护林</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2769103&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2769103&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

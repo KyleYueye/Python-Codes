@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25490">打虎记</a>
+</div>
+<h1 class="news_title">去年全国纪检监察机关处分省部级及以上干部51人</h1>
+<div class="news_about">
+<p>中央纪委国家监委网站客户端</p>
+<p>
+							2019-01-09 07:50<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">2018年，全国纪检监察机关共接受信访举报344万件次，处置问题线索166.7万件，谈话函询34.1万件次，立案63.8万件，处分62.1万人（其中党纪处分52.6万人）。处分省部级及以上干部51人，厅局级干部3500余人，县处级干部2.6万人，乡科级干部9.1万人，一般干部11.1万人，农村、企业等其他人员39万人。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="348" src="http://image.thepaper.cn/www/image/14/60/468.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">全国纪检监察机关处分人员按职级划分图<br/><div class="contheight"></div></span>2018年，全国纪检监察机关运用监督执纪“四种形态”处理173.7万人次。其中，第一种形态110.4万人次，占“四种形态”处理总人次的63.6%；第二种形态49.5万人次，占28.5%；第三种形态8.2万人次，占4.7%；第四种形态5.5万人次，占3.2%。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="358" src="http://image.thepaper.cn/www/image/14/60/469.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">全国纪检监察机关运用监督执纪“四种形态”占比图</span></div>（原题为《中央纪委国家监委通报2018年全国纪检监察机关监督检查、审查调查情况》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 纪检监察</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2830238">
+<div class="nbgbox">
+<a class="zan" contid="2830238" href="javascript:;" onclick="voteCont(this)" praisetimes="67">
+                           66</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中纪委</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2830238&caid=25490",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2830238&amp;caid=25490" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

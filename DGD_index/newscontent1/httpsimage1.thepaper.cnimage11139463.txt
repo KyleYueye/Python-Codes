@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">湖北出台全国首个地方扫黑除恶决定，要求省各级人大完善立法</h1>
+<div class="news_about">
+<p>法制日报</p>
+<p>
+							2018-10-09 08:44<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">如何将党中央开展扫黑除恶专项斗争的重要决策部署转化为体现人民根本要求的国家意志？湖北省人大常委会近日审议通过的《关于深入开展扫黑除恶专项斗争的决定》作了积极探索。据了解，在全国范围内，这是地方人大常委会关于扫黑除恶专项斗争通过的第一个决定。<br/><div class="contheight"></div>今年1月，中共中央、国务院发出《关于开展扫黑除恶专项斗争的通知》。2月初，按照党中央、国务院要求，结合全省实际，湖北省委、省政府制定下发了《湖北省扫黑除恶专项斗争行动方案》。<br/><div class="contheight"></div>根据省委部署和省人大常委会党组书记、常务副主任王玲的要求，湖北省人大内务司法委员会及时与省委政法委、省公安厅等单位沟通,提出了由省人大常委会制定决定和分阶段听取“一府一委两院”关于扫黑除恶专项工作报告的建议。<br/><div class="contheight"></div>3月30日，湖北省十三届人大常委会第二次会议通过了常委会2018年度工作要点，将制定《决定》列入了年度工作计划。7月26日，省人大常委会第四次会议审议通过了《决定》。<br/><div class="contheight"></div>《决定》明确，湖北省各级人大及其常委会要通过完善地方立法、定期听取和审议专项工作报告、开展执法检查、作出决议决定等方式，在深入开展扫黑除恶专项斗争并建立长效机制方面发挥助推和保障作用，加强对同级“一府一委两院”扫黑除恶专项斗争工作的监督与支持。<br/><div class="contheight"></div>《决定》注重充分发挥人大代表督促、支持扫黑除恶专项斗争的重要作用，要求严把人大代表选举入口关，畅通人大代表密切联系群众和及时反映涉黑涉恶问题的渠道。<br/><div class="contheight"></div>针对当前全省扫黑除恶工作开展不平衡及面临的新形势、新任务，《决定》提出各级国家机关要牢固树立以人民为中心的发展思想，坚定深入开展扫黑除恶专项斗争的意志和决心；综合运用多种治理手段齐抓共管，压实扫黑除恶专项斗争的政治责任和法律责任；坚持专门工作与群众路线相结合，努力在全社会形成扫黑除恶的浓厚氛围；大力加强基层基础建设，健全防止黑恶势力滋生的长效机制。<br/><div class="contheight"></div>“省人大常委会依法作出决定，将开展扫黑除恶专项斗争的决策部署转变为国家意志，有利于组织和动员全省各级国家机关特别是各级领导干部进一步提高政治站位、强化‘四个意识’，切实承担扫黑除恶专项斗争职责；有利于组织和动员全社会力量投入扫黑除恶专项斗争，切实铲除黑恶势力滋生土壤，确保专项斗争取得决定性胜利，进一步巩固党的执政基础。”湖北省人大内务司法委员会主任委员张绍明说。（原标题为《湖北省人大常委会出台全国首个地方扫黑除恶决定》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陈雷柱<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 扫黑除恶,湖北,立法</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2509719">
+<div class="nbgbox">
+<a class="zan" contid="2509719" href="javascript:;" onclick="voteCont(this)" praisetimes="41">
+                           40</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 扫黑除恶</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2509719&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2509719&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

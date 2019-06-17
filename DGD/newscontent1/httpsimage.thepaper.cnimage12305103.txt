@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评丨官员漏接电话风波：纪律刚性也不能违背人之常情</h1>
+<div class="news_about">
+<p>澎湃特约评论员 熊志</p>
+<p>
+							2018-11-16 16:47<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2640228" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评丨官员漏接电话风波：纪律刚性也不能违背人之常情" src="//image.thepaper.cn/image/12/303/231.jpg"/>
+</a>
+<div class="atlas_360_txt">安徽全椒县委通报：撤销对扶贫干部张伟处分，原处理不恰当<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">近日，因下班后未接省巡查组电话，安徽全椒县农村公路局副局长、扶贫干部张伟被给予党内警告处分，引起社会广泛关注。今天，全椒县委通报称，全椒县纪委进行了全面复查，认定原处分决定定性不准确，处理不恰当，经研究决定，撤销对张伟同志的党纪处分。<br/><div class="contheight"></div>8月23日19:31至19:35，省巡查组四次拨打张伟手机，张伟未接听电话。在最初的处分通报中，这个怠慢迎检的举动，被视作“给我县（全椒县）脱贫攻坚工作造成严重不良影响”，甚至上纲上线到“急躁、厌战、松劲情绪”、“人浮于事、作风漂浮”的高度。 <br/><div class="contheight"></div>考虑到拨打电话是在下班时间，且中间只隔了4分钟，如此矫枉过正的处分，引起了不小的争议。在为张伟叫屈的同时，不少人批评当地的执纪问责过于简单化。全椒县纪委在复查之后撤销处分决定，是回应舆情，也是尊重事实的应有举动。 <br/><div class="contheight"></div>事实上，张伟在采访中也提到，8月23日晚饭后他遛弯时出了汗，回家洗澡时正巧错过了电话。而且，他的孩子接了电话，并表示会回拨过去，只不过等他回拨时打不进去了。可见张伟并非有意懈怠、消极应对巡查组的迎检，而且事后做了补救的工作。<br/><div class="contheight"></div>作为执纪问责的基础依据，《中国共产党纪律处分条例》第四条明确要求，对党员违反党纪的行为，应当以事实为依据，准确认定违纪性质，区别不同情况，恰当予以处理。如果本着实事求是的问责原则，就该对张伟漏接电话的具体原因充分研判，而非一味“从严”。<br/><div class="contheight"></div>要求党员做好迎检工作可以理解，但也得考虑到，谁都不可能做到手机完全不离身。洗澡、上厕所这些日常场景中，漏接电话在所难免。公职人员也是人，如果对其纪律要求，超越了日常生活的基本常识，这本身相当不近人情。再者，过于苛刻的纪律标准，也不可能彻底贯彻。<br/><div class="contheight"></div>值得一提的是，此事发生在8月，作出处分决定在10月8日，但等到近期舆情发酵，处分决定才撤销。整个事件的纠偏，还是靠外界推动。另一方面，从最初的通报口吻来看，张伟4分钟不接电话，一度被拔高到官僚主义的高度。这种脱离事实、简单粗暴的问责逻辑，所刻意营造出来的零容忍高压势态，很难不让人怀疑，是不是故意做给巡查组看。 <br/><div class="contheight"></div>将迎检的门面工程做足，甚至做过头，说到底，还是“唯上负责”的逻辑。然而，扶贫本身是需要高度投入的工作，如果执纪问责简单化，脱离现实和人之常情，导致一线扶贫工作者人心惶惶，整日战战兢兢，将精力放在迎接检查上，其实是相当不良的导向。 <br/><div class="contheight"></div>眼下全椒县已纠正处分，并表态全面排查整改类似问题。但话说回来，需要纠正的绝不只是张伟被不当处分的个案，而是那种只唯上、不唯理的行事逻辑。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 漏接电话被处分</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2640629">
+<div class="nbgbox">
+<a class="zan" contid="2640629" href="javascript:;" onclick="voteCont(this)" praisetimes="757">
+                           756</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 处分干部</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2640629&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2640629&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（882）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

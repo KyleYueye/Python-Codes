@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25599">运动家</a>
+</div>
+<h1 class="news_title">2018KPL秋季赛总决赛落幕，Hero久竞成功卫冕冠军</h1>
+<div class="news_about">
+<p>澎湃新闻记者 陈均</p>
+<p>
+							2018-12-22 22:33<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="337" src="http://image.thepaper.cn/www/image/13/412/627.jpg" width="600"/></div>12月22日晚，2018王者荣耀KPL秋季赛总决赛在成都打响。<br/><div class="contheight"></div>决赛中，西部头名也是卫冕冠军的Hero久竞与东部头名BA黑凤梨鏖战7局，最终4比3赢得总冠军，春季赛和秋季赛两度封王，Hero久竞也成为KPL2018年最大的赢家。<br/><div class="contheight"></div> 这两支战队都是在今年通过春季赛预选赛升入KPL，并随即成为了联赛里一东一西的两大王者，其中Hero久竞在春季赛笑纳冠军。<br/><div class="contheight"></div>从实力而言，两队平分秋色，都是各自赛区的常规赛头名，尽管BA黑凤梨的常规赛战绩一骑绝尘，拿下创纪录的16连胜，但其中输的两场常规赛就有一场拜Hero久竞所赐，常规赛双方各胜一场。<br/><div class="contheight"></div>而在常规赛评选的5大位置最佳选手中，两支战队囊括了其中的4人，分别是BA黑凤梨的六点六、一诺、770和HERO的久诚，秋季赛总决赛就是最强者之间的对话。<br/><div class="contheight"></div> 因为季后赛采用新规（一场比赛英雄不能重复使用），总决赛悬念骤升，不到最后一刻难以预测银龙杯花落谁家。<br/><div class="contheight"></div>Hero久竞在连下两城的情况下被BA黑凤梨连扳两局，关键的第五局天王山战役，Hero久竞挖掘英雄池，尘夏超水平发挥拿到赛点，但紧接着BA黑凤梨就迎来速胜，KPL总决赛迎来抢七大战，这是一场名副其实的巅峰对决。<br/><div class="contheight"></div> 之前的东决中，BA黑凤梨曾在落后情况下抢7击败EDG.M，0比2、2比2、2比3、3比3……逆转过程也与总决赛前6局完全相似，然而最后一局，开局不利的Hero久竞后期鬼谷子放大招，从被压制10分钟之久的逆境中翻身，抢下战队第二座银龙杯。<br/><div class="contheight"></div> 仅仅三年不到，KPL有超过80%的元老战队被淘汰出局，Hero久竞2018年进入KPL就席卷两冠，此外，Hero久竞的头号明星久诚（曹志顺）表现优异，当选总决赛MVP，其风头已经迅速盖过了8月份扬威王者荣耀冠军杯的猫神。<br/><div class="contheight"></div>从战队到选手，长江后浪推前浪，KPL联赛里竞争之残酷由此可见一斑。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒲垚磊<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 电竞,王者荣耀</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2762075">
+<div class="nbgbox">
+<a class="zan" contid="2762075" href="javascript:;" onclick="voteCont(this)" praisetimes="63">
+                           62</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 电竞</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2762075&caid=25599",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2762075&amp;caid=25599" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（486）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

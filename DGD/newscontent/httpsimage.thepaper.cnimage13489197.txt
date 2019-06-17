@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">高空坠物砸坏奔驰车18户住户涉案，法院判决11户赔偿</h1>
+<div class="news_about">
+<p>澎湃新闻记者 朱奕奕 通讯员 章伟聪</p>
+<p>
+							2018-12-25 16:44<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">停在小区停车位上的一辆奔驰轿车，被从天而降的一根窗帘杆砸坏。<br/><div class="contheight"></div>为此，车主姚先生将怀疑对象告到上海市长宁区人民法院，要求赔偿车辆维修费12973元。法院受理后，依法追加相关住户为被告，并于近日作出判决，涉案的十一户被告，分别补偿姚先生车辆维修费763元。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）记者从法院获悉，2017年3月28日上午10点左右，原告姚先生停在小区内17号楼停车位上的一辆奔驰轿车，被高空坠落的一根2.6米长的窗帘杆砸中，造成前挡风玻璃和引擎盖损坏。小区保安将此情况告知姚先生后，姚先生立即报警。<br/><div class="contheight"></div>警方到现场勘察研判后表示，难以确定此次高空坠物事故的肇事人。当年10月，姚先生依据自己的判断，将该号楼七楼以上五户人家告到法院，要求赔偿车辆维修费12973元。<br/><div class="contheight"></div>长宁法院受理此案后，根据原告申请，委托司法鉴定机构对姚先生车辆受损可能造成损害后果的范围进行鉴定。2018年4月，鉴定机构表示，由于存在较多不确定因素，无法对该案作出正确的判断与计算。<br/><div class="contheight"></div>之后，承办法官到该鉴定机构进行调查，相关人员表示，17号楼三楼以上住户均有可能高空坠物或抛物。<br/><div class="contheight"></div>2018年10月12日，上海长宁法院公开开庭审理这起财产损害赔偿纠纷案。共计十三户32名被告中有四户7人没有到庭。除一户1名被告既没有到庭应诉，也没有提交证据和答辩意见外，其余被告住户都当庭或书面表示不同意原告的诉讼请求。<br/><div class="contheight"></div>有的被告认为自己没有高空抛物，不应承担责任。有的被告表示事发时自己在上班，家里也没有木质窗帘杆，而且任何人都可能到楼顶，从楼顶抛物或坠物。有的被告则表示自己年纪大了，没有力气抛窗帘杆。也有被告要求追加小区物业公司为共同被告，称物业公司应当提供17号楼内有业主装修的记录。<br/><div class="contheight"></div>法庭对原、被告双方提交的所有证据当庭进行质证，认定17号楼901室事发前后较长时间处于空关状态，该户两名被告提供的证据足以证明自己不是侵权人，无需承担责任。除此之外，其余十二户依法均需承担补偿责任。<br/><div class="contheight"></div>庭审中，原告表示，自愿承担其中一户被告应承担的费用。上海长宁法院遂判决涉案的十一户共24名被告，每户补偿原告车辆维修费763元。<br/><div class="contheight"></div>据法官介绍，本案中“可能加害的”是17号楼三楼以上的18户住户，其中901室住户提供的证据足以证明自己不是侵权人，因此，有17户住户应当承担补偿责任，每户应补偿的金额为763元。诉讼期间，有5户住户与原告达成庭外和解，分别支付原告一定的补偿款。其余涉案的13户被告，1户无需担责，1户的责任原告自愿承担，法庭遂判决11户被告分别承担补偿原告车辆维修费763元的责任。<br/><div class="contheight"></div>法官表示，对类似本案从建筑物中抛掷物品或者从建筑物上坠落的物品造成他人损害，同时又难以确定具体侵权人的情况，中国侵权责任法作了举证责任倒置的明确规定，即“除能够证明自己不是侵权人的外，由可能加害的建筑物使用人给予补偿”。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：高文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 高空坠物,侵权责任法,</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772882">
+<div class="nbgbox">
+<a class="zan" contid="2772882" href="javascript:;" onclick="voteCont(this)" praisetimes="91">
+                           90</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 高空坠物</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772882&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772882&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

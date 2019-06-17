@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">世贸组织发言人谈中国“入世”17年的积极影响</h1>
+<div class="news_about">
+<p>凌馨/新华社</p>
+<p>
+							2018-12-11 16:00<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社12月11日消息，2001年12月11日，中国正式加入世界贸易组织，成为该组织第143个成员。世贸组织发言人基思·罗克韦尔近日在位于瑞士日内瓦的世贸组织总部接受新华社记者专访时强调，作为一个坚定支持以规则为基础的多边贸易体制的成员，中国的加入对于世贸组织至关重要。<br/><div class="contheight"></div>时隔17年，罗克韦尔用两个“至关重要”强调中国加入世贸组织的重要意义。他说：“让中国成为世贸组织成员至关重要，拥有像中国这样坚定支持以规则为基础的（多边贸易）体制的成员至关重要。”<br/><div class="contheight"></div>罗克韦尔强调，中国是多边贸易体制的坚定维护者，“世贸组织达成的任何一项协定都少不了中国的支持”。他举例说，2015年，世贸组织50多个成员围绕扩大《信息技术协定》产品范围展开激烈谈判，中国不仅积极参与谈判，更在协议最终达成的过程中，发挥了非常重要的作用。<br/><div class="contheight"></div>罗克韦尔说，“中国始终是多边贸易体制的坚定支持者和捍卫者。这是中国‘入世’以来一直坚持的政策。”<br/><div class="contheight"></div>这位时任世贸组织发言人至今仍清楚地记得，中国入世协议达成后，当时的中国首席谈判代表龙永图对他说，中国加入世贸组织的谈判耗时15年，来之不易，愿世贸组织越来越有活力。<br/><div class="contheight"></div>罗克韦尔认为，中国“入世”对于中国经济和全球经济都有巨大贡献。中国改革开放40年来，尤其是加入世贸组织以来，让8亿人脱贫。“这是历史性的成就，没有别的国家取得甚至接近过这一成就。”<br/><div class="contheight"></div>他认为，中国经济在过去40年里保持了年均约9.5%的增速，这样的成就“引人注目”。他同时强调，目前的经济增速出现放缓是正常现象，基于现在庞大的中国经济体量，即使6%的增速也相当可观。<br/><div class="contheight"></div>罗克韦尔还指出，中国在保持自身增长的同时，也为全球经济繁荣稳定作出了重大贡献。他认为，2008年的金融危机使得全球经济出现衰退，西方国家经济纷纷出现缩水，中国在此期间仍保持开放，对世界经济作出了贡献。“如果中国没有加入世贸组织，如果中国没有保持自身市场开放，全球经济衰退的后果可能会更加严重。”他说。<br/><div class="contheight"></div>中国愿意帮助欠发达国家和地区的发展，罗克韦尔对此也是深有感触。他在肯尼亚出差期间看到了中国承建的蒙内铁路并大加赞赏。他指出，“蒙巴萨是港口城市，内罗毕则是工商业中心，将这两大城市连接起来对于贸易发展十分重要。基础设施对非洲十分必要，如果非洲国家想提升竞争力，就必须改善自己的基础设施条件”。<br/><div class="contheight"></div>（原题为《专访：为全球经济作出巨大贡献——世贸组织发言人谈中国“入世”17年的积极影响》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 世贸组织</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2727183">
+<div class="nbgbox">
+<a class="zan" contid="2727183" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 世贸组织</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2727183&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2727183&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

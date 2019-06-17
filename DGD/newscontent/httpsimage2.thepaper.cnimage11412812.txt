@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">中政委秘书长陈一新：边扫黑除恶“打伞”，边整风肃纪强警</h1>
+<div class="news_about">
+<p>澎湃新闻记者 邵克</p>
+<p>
+							2018-10-18 10:06<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近些年全国政法干警违纪违法现状已敲响警。中央政法委16日在武汉召开政法队伍建设座谈会，中央政法委秘书长陈一新在会上表示，扫黑除恶专项斗争开展以来，一批黑恶势力的“保护伞”受到查处，其中一些是政法干警，要坚持边扫黑除恶边“打伞”，边整风边强警。<br/><div class="contheight"></div>陈一新表示，近些年全国政法干警违纪违法现状已敲响警钟，务必警醒行动。各级政法机关正风肃纪、惩治腐败的力度逐年加大，成效显著。同时，也要看到，反腐败斗争形势依然严峻复杂，政法队伍建设存在的问题还比较突出，人民群众对此深恶痛绝、反映强烈。<br/><div class="contheight"></div>陈一新说，扫黑除恶专项斗争现实强烈警示，务必边“打伞”边整风边强警。扫黑除恶专项斗争开展以来，一批黑恶势力的“保护伞”受到查处，其中一些是政法干警。在深入推进扫黑除恶专项斗争中，要高度重视研究解决政法队伍中存在的突出问题。要坚持边扫黑除恶边“打伞”，边整风边强警，加快建立政法队伍自我净化、自我完善、自我革新、自我提高的长效机制，实现夺取专项斗争新胜利与树立政法队伍新形象相得益彰。<br/><div class="contheight"></div>陈一新对政法队伍建设提出了要求，毫不动摇地贯彻全面从严治党、全面从严治警方针，持续用力、久久为功，努力锻造新时代政法铁军。<br/><div class="contheight"></div>陈一新说要深入开展警示教育活动，组织编写典型案件警示录，建立违纪违法典型案件定期通报制度，用身边人身边事教育引导干警汲取教训、举一反三，慎独慎初慎微慎欲，算好政治账、经济账、亲情账，做到知敬畏、存戒惧、守底线。<br/><div class="contheight"></div>同时要加大政法领导干部交流轮岗力度。探索建立省市县党委政法委和政法各单位“一把手”和重要副职异地交流任职制度，完善执法司法关键岗位、管理人财物重点岗位定期轮岗制度，推进政法领导干部交流轮岗常态化。<br/><div class="contheight"></div>陈一新强调要破解“一把手”监督难和“灯下黑”问题。要盯住执法司法权集中的重点领域、重点环节、重点部位，加强监管，减少自由裁量空间。要运用信息化手段，实时、准确、全程记录执法司法活动，及时预警预防办案风险。要研究健全完善院庭长监督管理机制，规范审委会、检委会把关职能，完善错案责任追究办法，确保放权不放任、有权不任性。<br/><div class="contheight"></div>陈一新表示，要严格落实领导干部干预司法活动、司法机关内部人员过问案件、司法人员不正当接触交往的通报和责任追究规定，筑牢防范司法腐败的“防火墙”。把举报线索查结率和案件查办率作为重要考核指标，发现线索就及时调查、触犯纪律就立即处理，使纪律成为带电高压线。要坚持无禁区、全覆盖、零容忍，严肃查处干警腐败案件。要坚持扫黑除恶与查处黑恶势力“保护伞”同步推进，深挖细查干警涉黑线索，坚决清除害群之马。要推动反腐败向基层延伸，坚决查处基层所队庭室“微腐败”。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：胥辉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 扫黑</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2540277">
+<div class="nbgbox">
+<a class="zan" contid="2540277" href="javascript:;" onclick="voteCont(this)" praisetimes="62">
+                           61</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 扫黑除恶</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2540277&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2540277&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

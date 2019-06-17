@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27234">科技湃</a>
+</div>
+<h1 class="news_title">国家先进计算产业创新中心落户天津，中科曙光牵头</h1>
+<div class="news_about">
+<p>周润健/新华社</p>
+<p>
+							2018-12-25 22:01<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="238" src="http://image.thepaper.cn/www/image/13/505/36.png" width="543"/></div><br/><div class="contheight"></div>新华社天津12月25日电 25日，获国家发改委批复，由中科院旗下高性能计算领域领军企业中科曙光牵头，联合多家产业上下游企业、科研院所和知名高校作为核心单位共同组建的国家先进计算产业创新中心在中科曙光天津产业基地启动建设。<br/><div class="contheight"></div>据悉，该创新中心将以“集约化建设、多元化投资、共享化服务、市场化运作”为特点，致力于先进计算技术研发应用平台、科技成果转移转化平台、知识产权运营平台、公共服务共享平台、双创空间和投融资平台和人才服务平台六大平台建设。<br/><div class="contheight"></div>随着计算技术创新进入新一轮加速期，Ｅ级计算、智能计算、类脑计算、量子计算等为代表的先进计算理念与模式纷纷涌现。作为各国重点布局的战略高地，先进计算平台已成为各国把握新一轮科技革命与产业变革的关键切入点。<br/><div class="contheight"></div>中科曙光总裁历军介绍说，创新中心是集技术研发、人才、资金、成果转化、运营、服务等为一体的科技创新公共服务平台，建成后将重点对接专业领域各级创新研发平台，立足突破先进计算领域核心技术，解决我国信息产业面临的“卡脖子”难题，培育具有国际竞争力的产业集群和区域经济，为信息技术产业的创新驱动发展和网络强国的建设奠定坚实基础。<br/><div class="contheight"></div>记者了解到，国家先进计算产业创新中心预计于2021年建成，并计划逐步在北京、天津等重点核心区域和海外实现多区域布局，共同构建“小核心、多平台、大网络、广覆盖”的紧耦合式政产学研协同创新生态网络。<br/><div class="contheight"></div>（原标题：国家先进计算产业创新中心落户天津）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2774604">
+<div class="nbgbox">
+<a class="zan" contid="2774604" href="javascript:;" onclick="voteCont(this)" praisetimes="24">
+                           23</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 科技创新中心</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2774604&caid=27234",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2774604&amp;caid=27234" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

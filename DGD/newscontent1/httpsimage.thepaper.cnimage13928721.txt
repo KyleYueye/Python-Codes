@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">波兰一“密室逃脱”场所发生火灾，5名女孩死亡</h1>
+<div class="news_about">
+<p>徐明/央视新闻客户端</p>
+<p>
+							2019-01-05 09:00<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">央视新闻客户端1月5日消息，当地时间1月4日下午5点左右，波兰北部城市科沙林（Koszalin）一家“密室逃脱”营业场所发生火灾，目前已导致5人死亡，1人受伤。<br/><div class="contheight"></div>波兰内务和行政部长约阿希姆·布鲁金斯基（Joachim Brudzinski）表示，5名死者均为年仅15岁的女孩，事发当时正在庆祝其中一人的生日。此外，另有一名25岁男子严重烧伤，正在医院接受救治，目前暂时无法接受问询。<br/><div class="contheight"></div>事发地点位于科沙林市一栋居民楼内，布鲁金斯基对当地媒体表示，此类“密室逃脱”场所在投入商业运营之前并不需要得到消防部门的许可，事发后他已下令消防部门对全国所有“密室逃脱”场所进行消防安全检查，并采取一切必要措施阻止此类悲剧再次发生。<br/><div class="contheight"></div>目前，火灾发生原因仍在调查中。<br/><div class="contheight"></div>“密室逃脱”是一种真人体验游戏，参加者会被困在一个封闭的空间，必须在有限的时间内，根据线索找到逃离的方法。<br/><div class="contheight"></div>（原题为《波兰一“密室逃脱”场所发生火灾 5名女孩死亡》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 火灾</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2816844">
+<div class="nbgbox">
+<a class="zan" contid="2816844" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 火灾</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2816844&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2816844&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

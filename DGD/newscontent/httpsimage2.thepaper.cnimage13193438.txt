@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25450">文化课</a>
+</div>
+<h1 class="news_title">东京审判宣判70周年｜王健：这是一场文明的审判</h1>
+<div class="news_about">
+<p>王健</p>
+<p>
+							2018-12-15 09:53<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">【编者按】<u>12月13日，“纪念东京审判宣判70周年——东京审判 · 巨幅长卷油画及影像图片展”在中华艺术宫开幕，分油画展和影像图片展两部分进行展出。本文为上海社会科学院国际问题研究所所长、上海市国际关系学会副会长王健在油画展上的发言。<br/><div class="contheight"></div></u><div style="text-align:center;"><img alt="" height="346" src="http://image.thepaper.cn/www/image/13/193/299.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">《东京审判》（局部）</span><br/><div class="contheight"></div>由于种种原因，世人对东京审判的研究和了解远远不如二战结束后的另一场大审判——纽伦堡审判。根据美国公民权利运动家约翰·刘易斯对战犯审判研究书目进行的索引，研究纽伦堡审判的书目有1290种，而东京审判只有区区231种。事实上，在战后错综复杂的东亚政治格局背景下，主导东京审判的华盛顿当局有意未完整保留审判的卷宗档案，而且直至1977年审判宣布近30年后，许多材料才得以公之于众。保存和传播这份历史记忆是中国有良知的史学工作者的责任。2011年以来，交通大学东京审判研究中心对日本战犯审判的文献作了系统的征集、整理和数据库建设，今天又举办了油画展，非常具有价值。<br/><div class="contheight"></div>1946年5月3日，为了揭露战争罪行，追究战犯责任，更为了伸张正义、惩治邪恶、警醒世人、维护和平，根据《开罗宣言》《波茨坦公告》等一系列国际法律文件和反法西斯盟国的授权，远东国际军事法庭在东京开始对日本甲级战犯进行审理，最终于1948年11月12日判处25名战犯有罪，其中东条英机等7人被处绞刑。 <br/><div class="contheight"></div> 重温这段历史，我们深感东京审判是维护世界和平和人类文明的正义审判，也是维护二战后国际秩序和亚太地区和平的基石。这场审判，自然是胜利者主持的，从一开始日本右翼就有意以所谓的“胜者的正义”，将其诋毁为胜利者对失败者的审判，是所谓的复仇。但是，东京审判严格适用“正当程序”原则，为控辩双方提供权利平等，有罪无罪皆以证据为准。整个审判过程共开庭817次，出庭证人419名，书面证人779名，受理证据在4300份以上，判决书长达1212页。东京审判决不是什么“政治审判”，也不是什么“强权即是真理”，更谈不上“充满了种族主义”，而是一场文明的审判。它超越了一般的战争审判，面向未来，以最终取缔侵略战争，维护世界和平和人类文明为己任。诚如东京审判首席检察官季南在开庭辞中多次重申的：“我们今天进行的不是普通的审判，而是拯救人类文明免遭毁灭之战。” <br/><div class="contheight"></div> 东京审判发展了传统国际法的正当性，将以往国际法中默示的概念首次明确。从法律上讲，它体现了对公平与正义的追求和对国际法体系的完善与发展，绝非胜者对败者的报复。因而，战后国际社会将这些犯罪概念普遍化，国际社会普遍认为东京审判是“为了防止战争的发生而在‘国际法上的革命’”，具有重要的意义。正是通过东京审判，特别是对反和平罪的起诉，否定了日本扩张思想的理论基础，揭露了日本近代国策的侵略本质，促进了日本社会的民主进程，并由此奠定了二战后国际秩序，特别是亚太和平秩序的基础。必须指出，二战后亚太地区和平秩序是建立在东京审判对历史的判定暨日本对和平道路的选择之上的，承认东京审判是日本重归国际社会的前提。东京审判不容否定，维护东京审判的成果事关世界和平和人类文明。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陈诗怀<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2739712">
+<div class="nbgbox">
+<a class="zan" contid="2739712" href="javascript:;" onclick="voteCont(this)" praisetimes="26">
+                           25</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 东京审判</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2739712&caid=25450",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2739712&amp;caid=25450" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

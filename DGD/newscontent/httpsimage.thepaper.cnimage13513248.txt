@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">混合动力车明年将退出新能源行列？深圳市交委：说法有误</h1>
+<div class="news_about">
+<p>徐兴东/深圳特区报</p>
+<p>
+							2018-12-26 08:45<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="367" src="http://image.thepaper.cn/www/image/13/513/270.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">深圳市交委明确，国家发改委新规不会影响深圳新能源车辆增量调控政策。<br/><div class="contheight"></div></span>近日有自媒体称，根据国家发改委相关新规，2019年起混合动力车将正式退出新能源行列，划归为燃油汽车，新政后续将对混动车辆上牌、补贴等造成影响。许多市民咨询，这是否意味着，深圳购买混合动力车也都将像燃油车一样摇号或竞价上牌？对此，市交委昨日明确表示：国家发改委的“规定”不会对深圳新能源车辆增量调控政策造成影响。<br/><div class="contheight"></div>据了解，部分自媒体对混动车将划归燃油车的解读，来源于国家发改委近期发布的《汽车产业投资管理规定》。其内容确认自2019年1月1起，在整车投资项目领域，混合动力汽车、插电式混合动力汽车都将划归燃油汽车一类。电动汽车只针对于由电动机驱动的汽车，主要指增程式电动汽车、燃料电池电动汽车、纯电动汽车等。部分自媒体将此理解为，混动车将划归为燃油车，而不再视为新能源车，目前其可享受的免购置税、上绿牌、政府补贴可能将会逐步减少或取消。但业内人士表示，发改委此次的归类只是针对汽车产业投资层面，而对于新能源车在终端市场的补贴政策，以及上牌等标准并没有做出改变。<br/><div class="contheight"></div>针对市民对混动汽车也即将需要摇号或竞价上牌的担心，市交委昨日也明确表示，新修订的《深圳市小汽车增量调控管理实施细则》是在研究了大量国家新能源汽车调控政策的基层上制定的。基于对政策的深刻研究，市交委发布的《深圳市小汽车增量调控管理暂行规定（征求意见稿）》和《深圳市小汽车增量调控管理实施细则（征求意见稿）》，都明确对混合动力小汽车增量指标和纯电动小汽车增量指标无额度限制。其配置周期、额度、比例以及配置方式与现行的《实施细则》完全保持一致。混合动力小汽车的范围是由国家工信部规定的，是指列入国家工业和信息化部新能源汽车推广应用推荐车型目录的插电式（含增程式）混合动力小汽车。<br/><div class="contheight"></div>深圳市交委称，个别媒体发布的“混动车≠新能源”、“混动车退出新能源行列”的说法是有误的。实际上，《汽车产业投资管理规定》第八条也表明国家对新能源汽车的政策与之前的政策相比没有变化。上述《规定》第八条为：“科学规划新能源汽车产业布局，现有燃油汽车企业应加大研发投入，调整产品结构，发展纯电动汽车、插电式混合动力汽车、燃料电池汽车等新能源汽车……”。<br/><div class="contheight"></div>（原文标题为《深圳市交委就混合动力车是否退出新能源车行列作出回应 新能源车增量调控政策不受影响》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：姚晓岚<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2775464">
+<div class="nbgbox">
+<a class="zan" contid="2775464" href="javascript:;" onclick="voteCont(this)" praisetimes="36">
+                           35</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 新能源车</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2775464&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2775464&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

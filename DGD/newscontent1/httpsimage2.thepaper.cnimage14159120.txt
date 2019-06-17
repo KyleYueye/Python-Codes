@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">广西七旬老母怀疑30多岁残疾儿子偷钱将其杀害，获刑10年</h1>
+<div class="news_about">
+<p>南国早报客户端</p>
+<p>
+							2019-01-11 11:06<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">南宁上林县一名七旬妇女谭某桃将30多岁、患有小儿麻痹症的儿子莫某贤推入河中，致儿子溺水身亡。近日，上林县法院作出一审判决，谭某桃犯故意杀人罪，判处有期徒刑10年。<br/><div class="contheight"></div>谭某桃的三儿子莫某贤自幼患有小儿麻痹症，多年来均由谭某桃照顾。2017年10月，谭某桃因怀疑莫某贤偷了其110元现金，遂向莫某贤质问，在遭到莫某贤的否认后，谭某桃对亲生儿子动了杀机。谭某桃把莫某贤从家中拖拉至一座桥上，并将莫某贤推下河，看着莫某贤在河里挣扎未施救，最终莫某贤沉入河中溺水身亡。案发后，谭某桃于2017年12月被逮捕。<br/><div class="contheight"></div>上林县检察院认为谭某桃非法剥夺他人生命，致一人死亡，其行为应当以故意杀人罪追究其刑事责任，遂向上林县法院依法提起公诉。<br/><div class="contheight"></div>法院庭审中，被告人谭某桃对自己的犯罪行为深感后悔，当庭认罪悔罪。<br/><div class="contheight"></div>经法院审理认为，谭某桃的行为构成故意杀人罪。谭某桃明知他人报警留在案发现场等待警方，归案后如实供述自己的罪行，构成自首，可以从轻处罚。根据谭某桃犯罪的事实、犯罪的性质、情节和对于社会危害程度及悔罪表现，依法判处谭某桃有期徒刑10年。（ 原标题：疑30多岁的儿子偷钱，七旬老母将其杀害，被判刑10年……）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李寿康<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 广西 南宁 杀人</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2840809">
+<div class="nbgbox">
+<a class="zan" contid="2840809" href="javascript:;" onclick="voteCont(this)" praisetimes="28">
+                           27</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 啃老</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2840809&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2840809&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（59）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

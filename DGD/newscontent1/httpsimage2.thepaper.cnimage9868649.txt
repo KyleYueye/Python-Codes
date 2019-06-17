@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜90人的“超级大班”，不怕政策规定就怕媒体曝光？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 胡欣红</p>
+<p>
+							2018-08-24 14:44<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2369935" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜90人的“超级大班”，不怕政策规定就怕媒体曝光？" src="//image2.thepaper.cn/image/9/810/242.jpg"/>
+</a>
+<div class="atlas_360_txt">河北武邑一中学高二每班90人，县委紧急发文责令学校整改<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">“孩子和我说，新班里人太多了，座位窄得都没法弯腰，坐在教室里热得满头大汗。”8月21日，河北武邑宏达中学高二学生家长陈先生向澎湃质量报告投诉平台反映，孩子19日返校上课，发现班里人数过多。另有家长也称，高二班级人数普遍超过90人。（澎湃新闻, 8月23日） <br/><div class="contheight"></div>一间教室塞进90多个学生，拥挤程度可想而知。从家长提供的照片和视频中可以看到，教室里的课桌连在一起，仅有三条狭窄的过道供学生们出入，有的学生前面课桌顶着肚子，后面课桌顶着后背。空间的逼仄，不仅直接影响学生的学习效果，连上个厕所都极其不方便。更让人担忧的是还存在严重的安全隐患。一旦发生火灾、地震等紧急情况，学生根本无法及时脱身。<br/><div class="contheight"></div>为了确保教育质量，教育部早就对小学及初中班级人数作出了明确规定：小学班额不超45人，中学班额不超50人。今年2月，教育部又发布《教育部办公厅关于做好2018年普通中小学招生入学工作的通知》，要求小学、初中、普通高中起始年级应按照不超过国家规定班额标准招生，严格控制存在大班额、大校额学校的招生计划，合理分流学生。河北省教育厅一办公室工作人员也称，河北省在今年5月印发了《河北省教育脱贫攻坚2018-2020年的规划》，根据其要求，今年各地将落实检查高一“严控大班”的执行情况。 <br/><div class="contheight"></div>可见，从教育部到地方政府，都对“超级大班”划了红线，可武邑宏达中学却置若罔闻。高一年级每班人数就在80人左右，到高二竟又升至了90多人。该校底气何在？ <br/><div class="contheight"></div>该校高二年级部主任称是因为“教师不够”“大班教学是一直以来的普遍做法”，且在开学前已经采取妥善安排座位、注意教室通风等措施，不存在“后排学生站着听课”等情况，又强调“班主任和任课教师都有管理90人班级的经验”。前述教育厅人士也表示，目前高二、高三的“超级大班”属于历史遗留问题。因为学校教学资源的限制，目前还没有规定对全校每班人数做出明确限制。“教师不够”、“教育资源限制”或许是现实困难，但强调“班主任和任课教师有管理大班的经验”是想说明什么？难道教育部对“超级大班”的禁止，是因为其他学校老师没有管理大班的经验？这不是偷换概念么？“超级大班”就是违反规定的行为，没有任何前置条件能改变其属性。 <br/><div class="contheight"></div>而且，从事件被报道后，武邑县教育局紧急发文要求武邑宏达中学整改，该校也已拿出初步整改方案的后续看，即便有现实困难，也是可以在短期内克服的。那么，为何在家长已充分表达意愿时无动于衷，面对媒体报道却火速行动。如此前倨后恭，岂不可笑？ <br/><div class="contheight"></div>现实中，类似的“超级大班”并不少见。前不久，媒体就曝光了湖南省新化县的大班额现象，动辄六七十人，甚至有教室挤着99名学生。按理说，有政策规定在，本就应该严格按规矩办事。在已经影响学生学习、家长不满的情况下，更应该知耻而后勇，及时整改。每次非要媒体曝光才行动，到底是在认真办人民满意的教育，还只是被曝光后碍于面子、怕影响来年招生和上级印象而不得不整改？</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 超级大班</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2376794">
+<div class="nbgbox">
+<a class="zan" contid="2376794" href="javascript:;" onclick="voteCont(this)" praisetimes="70">
+                           69</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 超级大班</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2376794&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2376794&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（34）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

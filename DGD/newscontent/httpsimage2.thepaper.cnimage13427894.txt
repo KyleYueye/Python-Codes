@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">日本天皇举行退位前最后记者会：勿忘和平繁荣后的牺牲和努力</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-23 13:26<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="421" src="http://image.thepaper.cn/www/image/13/427/907.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">日本明仁天皇迎85岁生日 东方IC 图<br/><div class="contheight"></div></span>12月23日，日本明仁天皇迎来85岁生日。此前的20日，明仁天皇在皇宫宫殿举行了记者会，在回顾自己半生经历的同时，感谢了来自国民的支持。他还强调称，不要忘记日本战后的和平与繁荣，是建立在大量的牺牲及国民的不懈努力之上的。<br/><div class="contheight"></div>据日本共同社23日报道，在当天持续约20分钟的记者会上，天皇似乎感慨万千，多次声音颤抖，不仅向国民和皇后表示感谢，还就其自己亲身经历的多次大事进行了回忆。<br/><div class="contheight"></div>明仁天皇回顾，自己11岁时日本开始停战；1952年，自己18岁时，日本皇宫举办了“立太子之礼”；在谈到与皇后共同造访了11次的冲绳县时，他表示“心系冲绳人们持续忍耐的牺牲，这一感情我们今后也不会改变”。他还回顾了为祭奠战殁者到访的美属塞班岛以及帕劳、菲律宾，表示“无法忘怀”。<br/><div class="contheight"></div>对于东日本大地震及海啸造成的大量人员遇难，天皇表示“感到无以言表的悲伤”，他还表示“我认为去关心残障人士等遭逢困难之人也是重要工作，一直秉持这一想法度过”。<br/><div class="contheight"></div>在回顾过去的同时，天皇也展望了未来，称自己在明年退位之前，将继续认真履行天皇的职责，而对于将成为新天皇的皇太子，天皇寄予了信赖，表示“希望在继承皇室传统的同时适应变化的社会，继续前进”。<br/><div class="contheight"></div>1989年即位的明仁天皇至今走过了战后50、60、70年代的节点。记者会上他强调道：“我一直认为，勿忘我国战后的和平与繁荣是建立在大量的牺牲及国民的不懈努力之上的，将此正确传递给生于战后的人们很重要”，表示“对于平成（年号）将作为没有战争的时代迎来结束，我由衷感到放心”。<br/><div class="contheight"></div>据日本宫内厅透露，将于明年4月30日退位的明仁天皇今后没有举行记者会的计划，此次是最后一次举行记者招待会。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 日本,明仁天皇,和平</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766012">
+<div class="nbgbox">
+<a class="zan" contid="2766012" href="javascript:;" onclick="voteCont(this)" praisetimes="188">
+                           187</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日本皇室</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766012&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766012&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（383）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

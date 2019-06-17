@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">深观察丨“撞库”挖开信息堰塞湖，除了“自救”还该做什么？</h1>
+<div class="news_about">
+<p>澎湃首席评论员 沈彬</p>
+<p>
+							2018-08-31 11:41<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“华住数据疑似泄露”事件引发广泛关注。8月28日，有科技机构在网上爆料，并传出一张黑客出售疑为华住酒店集团客户数据的截图，其中涉及姓名、身份证号、家庭住址、开房记录等众多敏感信息。<br/><div class="contheight"></div>有媒体记者对已流传出的信息做了随机测试，在16人中，有1人电话为空号，3人表示数据与本人不符，5人表示信息基本一致，7人电话未打通。这份天量级别的个人信息包是从哪里泄露的？目前，上海长宁警方已介入调查，希望能够全面查清此案。<br/><div class="contheight"></div>其实，发生类似的事件并非偶见，相反，近年各大网站、应用乃至医疗等机构的信息泄露不断，用户的信息一再“被裸奔”：<br/><div class="contheight"></div>——2014年12月，12306上的超13万条用户数据，在网上被传播售卖，包括账号密码、身份证、邮箱等。<br/><div class="contheight"></div>——2015年，线上票务营销平台大麦网被发现存在安全漏洞，600余万用户账户密码遭到泄露。<br/><div class="contheight"></div>——2015年，网易163/126邮箱数亿账号信息泄漏。<br/><div class="contheight"></div>——今年6月，著名二次元网站AcFun承认，受黑客攻击致用户数据外泄。<br/><div class="contheight"></div>这并不是中国所独有的问题，而是大数据时代全球的尴尬：<br/><div class="contheight"></div>——2016年，3200多万个Twitter用户登录信息被放到“暗网”上叫卖。<br/><div class="contheight"></div>——2017年3月至7月期间，美国凯悦集团旗下11个国家的41家凯悦酒店支付系统被黑客入侵，大量客户信息泄露。<br/><div class="contheight"></div>——今年7月，新加坡政府公开承认，黑客入侵了新加坡保健服务集团(SingHealth)的系统，盗取了150万名患者的个人信息，其中甚至包括总理李显龙的个人信息。<br/><div class="contheight"></div><br/><div class="contheight"></div><strong>“撞库”挖开了“信息堰塞湖”</strong><br/><div class="contheight"></div>泄露信息数量从万级到千万级，再到亿级，受害者从平民百姓到一国总理，谁都不能免疫于无妄之灾。为什么泄露频率越来越高，数量越来越大，犯罪越来越猖狂呢？<br/><div class="contheight"></div>大数据时代，信息即资产，商业巨头们用户群体广泛，汇集大量用户信息，进行客户特征画像、精准营销。互联网寡头高度集中，他们手中掌握着亿级的用户信息，形成了一个个“信息堰塞湖”，也成为不法分子的首选。<br/><div class="contheight"></div>另一方面，当下以“撞库”为主要手段的盗号方式，使信息泄露像原子链式反应，瞬间呈指数型增长。<br/><div class="contheight"></div>在早些年，盗取他人账号主要靠植入木马，密码字典则靠软件生成，能够盗取的个人信息数量相当有限，针对木马的防范也相对比较简单。但是，近几年频繁出现网站数据库泄漏事件，使“撞库攻击”成为主流。<br/><div class="contheight"></div>何谓“撞库”？黑客入侵A网站后拿到的用户名、密码等数据，再去B网站尝试登录，这是因为很多人在不同网站、信箱会使用相同用户名、密码。而且黑客还会把盗取的数据进行“拖库”，把数据存到自己的所谓“社工库”里，在暗网上出售、交流，这样黑客们掌握的公民个人信息越来越多，“撞库”也就越来越方便。<br/><div class="contheight"></div>事实上，每天都有数以万计被盗QQ号流入黑灰产业链，这些QQ号关联着海量应用账号；2011年，专业IT网站CSDN600万用户数据泄漏，成为网站数据库泄漏的第一声“芝麻开门”；2015年，网易邮箱数亿账号泄漏……这些都给黑客提供了充分的“子弹”去“撞库”。<br/><div class="contheight"></div>因为“撞库”用的是真实的用户名和密码，厂家应对难度被迫提升：真假唐僧都会念紧箍咒，怎么来识别？厂家往往通过手机验证、验证码（字母扭曲、汉字识别、移动滑块），识别是网络攻击，还是用户“自然人”在使用，其实是一个简单的图灵试验。<br/><div class="contheight"></div>结果道高一尺，魔高一丈，网络黑灰产业链又繁衍出一个亚行当——“码工”专门人工通过验证码来“撞库”。今年6月，全国首例“撞库打码案”在杭州宣判，此案中犯罪分子盗取大量用户名和密码之后，又雇佣了上百名“码工”对图片验证码进行打码，从而盗入他人的淘宝账号。<br/><div class="contheight"></div>“撞库”的黑灰产业庞大到什么程度呢？有报告称，2016年机器人流量占全网流量的51.8%，而恶意机器人流量占据了全网流量的28.9%！甚至全球有近百万人充当“码工”，以人肉“撞库”为生。而且从全球攻击流量去向来看，截至2017年3月，中国占了67.62%，美国占据了27.12%，可以说，中国是“撞库攻击”的重灾区。<br/><div class="contheight"></div>一次海量的“撞库”成功，可能引爆另一次天量的撞库；大规模的个人信息泄露，预示着下一次的规模更大。信息泄露，像生物繁殖的逻辑斯蒂曲线一样，一路飙升。反复迭代衍生的“撞库”，像是打开了潘多拉魔盒，对责任的溯源却越来越模糊。<br/><div class="contheight"></div><br/><div class="contheight"></div><strong>信息安全常识应成为“生存技巧”</strong><br/><div class="contheight"></div>空泛地喊一两声网络安全意义不大，针对天量的网络灰产，需有足够强力手段和精准的保护。<br/><div class="contheight"></div>首先，应该认识到“撞库”问题的严重性，公民要关注自己的信息安全。就像进入汽车时代要关注交通安全一样，大数据时代里，信息安全常识应成为必要的“生存技巧”，网民首先要学会“自救”。<br/><div class="contheight"></div>占到全网流量的28.9%的恶意机器人，很多干的就是“撞库”勾当。但是，破解“撞库”说简单也很简单，只需用户在不同网站、APP、电子邮箱，特别是电子银行之间使用不同的密码。那种一套密码走天下的小白思维，会成为撞库的“神助攻”。<br/><div class="contheight"></div>在近年各家网站、应用屡屡发生千万级信息泄露的情况下，你的个人信息已被出卖，其实是一个大概率事件，所以说网民要学会止损，在网络应用上打“密码隔水舱”。<br/><div class="contheight"></div>其次，保护个人信息安全，不仅是企业的社会责任，更是法律义务。网络安全，不仅关乎财产权，还直接关乎公民的生命安全，“徐玉玉案”就直接缘于当地的高招信息被泄露。《网络安全法》规定，“网络运营者在发生或者可能发生个人信息泄露、毁损、丢失的情况时，应当立即采取补救措施”；《消费者权益保护法》也规定：经营者要“确保信息安全，防止消费者个人信息泄露、丢失”。今后强制性的信息保护规范，必须成为企业的硬性标配，全面构建信息安全社会。<br/><div class="contheight"></div>第三，对于网络盗取公民信息、“撞库”的社会危害性，法律应有充分认识。当个人信息数据达到亿级时，它就不是商业安全问题，而是社会安全问题。但是，目前《刑法》规定的“非法获取计算机信息系统数据罪”等罪名都量刑较轻，甚至有时比醉驾还要轻。<br/><div class="contheight"></div>结果，不少技术宅只为了逞强好奇，就强行攻破数据库，结果打开了潘多拉魔盒，自己还不知道。比如，前述的全国首例“撞库打码案”中，三名被告人最终都只被判处了缓刑。<br/><div class="contheight"></div>大数据时代，赛博空间已然降临，它不是存在于科幻小说当中，而是深深地嵌入了我们的生活。原子链式反应式的“撞库攻击”，短时间内会愈演愈烈，治本之道是在全球范围内彻底铲除网络黑灰产业，强化对盗取网络信息犯罪的严惩，强化企业的网络安全责任；但对公民个人来说，还得赶快“自救”改密码！</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈关哲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 华住 撞库 个人信息安全 网络黑灰产</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2396364">
+<div class="nbgbox">
+<a class="zan" contid="2396364" href="javascript:;" onclick="voteCont(this)" praisetimes="64">
+                           63</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 华住酒店售卖用户信息</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2396364&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2396364&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（175）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

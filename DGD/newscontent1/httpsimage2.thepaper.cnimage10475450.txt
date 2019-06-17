@@ -1,0 +1,76 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜向日常“放水”说不，这22名学生零分不冤</h1>
+<div class="news_about">
+<p>澎湃评论员 甘琼芳</p>
+<p>
+							2018-09-15 08:52<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2439420" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">国科大选修课老师给22名学生文章0分：凡抄袭者皆黜落</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2443142" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">国科大老师给22名学生抄袭文章0分，校教务部：坚定支持</span></a></img></p></div>
+<div class="news_txt" data-size="standard">“凡今抄袭者，一经查实，不问考勤，皆黜落，以儆效尤。”近日，选修了中国科学院大学科幻文学与影视创作系列讲座课的22名学生，收到了授课老师苏湛发来的邮件。这些学生都得了零分，原因是期末文章抄袭。苏湛发邮件是强调“此分不可改”。<br/><div class="contheight"></div>这封文言文写就的邮件，看似不近人情，实则有理有据。苏老师对涉嫌抄袭的文章进行了严格鉴定，有实锤后才判零分，不冤枉一人。这对抄袭者实则是一记重锤。<br/><div class="contheight"></div>选修课混着就能拿学分，在大学很常见。一些选修课老师采取“考勤+写文章”的考核模式，并有意提高考勤分，本就有照顾意味。但即便如此，还是被少数学生以考勤找人签到、写文章抄袭等招数轻松化解。一旦成绩被判定为不合格，他们又想方设法找老师求情。老师们多出于心软或爱惜学生，多能放水就放水。<br/><div class="contheight"></div>于是，逃课与抄袭依旧。某种程度上说，在高校屡发的论文抄袭丑闻，与这种日常“放水”被默许不无关系。<br/><div class="contheight"></div>所以，苏湛才能成为新闻。大家惊讶于，原来还有这样较真者，敢于打破人们接受了很久的现状。只是，人们似乎忘了，认真上课、按老师要求完成教学任务，本就是学生的天职；抄袭作业，被判零分，更是常识。这些我们在中小学时就明白的道理，现在却需要反复叙说。<br/><div class="contheight"></div>苏湛老师受到网友赞誉，不是因为多么高尚，而是因为他守住了为人师者的底线。这是当今很多人都缺乏的品质。而在现实中，并不是每一个老师都能如此“任性”。<br/><div class="contheight"></div>前不久，因为质疑学生论文答辩不公，浙江丽水学院中文系副教授凌硕为愤而辞职。虽然辞职有个人性格因素，但在对学生论文评价问题上，凌硕为坚决严格的态度未能获得校方支持，却是主因。不少网友为其感到不平，呼吁校方珍惜这样的好老师。<br/><div class="contheight"></div>“严师出高徒”。老师坚守原则，严格要求学生，才是对教育、对大学生们负责的人。社会有责任为他们预留自主教学的空间，起码确保其不会因此受到委屈。但从根本上说，还需要有一套制度，来保障“严师辈出”。<br/><div class="contheight"></div>改变正在发生。6月21日，教育部部长陈宝生表态，中国教育“玩命的中学、快乐的大学”的现象应该扭转。对大学生要合理“增负”，提升大学生的学业挑战度。9月，教育部印发通知，要求全面整顿本科教育教学秩序，严格过程管理，淘汰“水课”，打造“金课”，坚决取消“清考”制度。最近，清华推出了学生课程作业“查重”……<br/><div class="contheight"></div>未来，本科教育“严进严出”已是大势所趋，细微到老师严格把控每一篇作业是否合格，也是题中之义。大学生们，“混学分”的好日子一去不复返了。<audio controls="controls" style="display: none;"></audio></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 抄袭</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2443276">
+<div class="nbgbox">
+<a class="zan" contid="2443276" href="javascript:;" onclick="voteCont(this)" praisetimes="184">
+                           183</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 抄袭</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2443276&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2443276&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（40）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">法国提高恐袭警戒级别：斯特拉斯堡枪击案已致三死，枪手在逃</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-12 11:44<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/107/112.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">斯特拉斯堡枪击案枪手仍在逃，法国提高恐袭警戒级别 视觉中国 图<br/><div class="contheight"></div></span>当地时间周三凌晨，法国内政部部长卡斯塔纳（Christophe Castaner）宣布提高国家安全警报系统（Vigipirate）警戒级别，斯特拉斯堡一切公共展示类活动暂停举办。<br/><div class="contheight"></div>据下莱茵省政府最新通报，截至当地时间周三凌晨三点（北京时间上午10点），斯特拉斯堡枪击案已造成3人死亡，另有11人受伤，其中5人重伤。<br/><div class="contheight"></div>斯特拉斯堡市政局推特主页消息称，要求民众留在室内的警报已解除，但仍要求每个人保持高度警惕并遵守当局的指示。周三上午斯特拉斯堡的幼儿园和小学全部停课，高中和大学正常运行，有担忧的家长可以让子女留在家中。<br/><div class="contheight"></div>法国24电视台（France 24）最新消息称，已致3人死亡的枪手仍在逃，法国政府宣布提高恐怖袭击警戒级别。另据今日俄罗斯（RT）网站最新报道，法国政府派出350名警员和宪兵追踪犯罪嫌疑人。此外，枪击案发生后，法国政府向斯特拉斯堡向派驻了额外的安全部队，并加强边境管控。<br/><div class="contheight"></div>此前当地警方称枪手的身份已经得到确认，是被列入法国国家安全威胁名单（Fiche S）的极端分子谢里夫（Chekatt Cherif）。现年29岁的谢里夫是斯特拉斯堡本地人，有多项犯罪记录。目前法国检方正在调查事件是否与恐怖主义活动有关。<br/><div class="contheight"></div>当地时间12月11日晚，法国东部城市斯特拉斯堡市一处圣诞集市附近发生枪击案，已至少造成3人丧生，11人受伤。<br/><div class="contheight"></div>2017年11月，法国结束长达700多天的全国紧急状态，但恐怖袭击的阴影一直未完全散去。今年以来，法国政府声称挫败了多起恐怖袭击图谋。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘惠<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 法国,枪击案,恐怖袭击</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2729333">
+<div class="nbgbox">
+<a class="zan" contid="2729333" href="javascript:;" onclick="voteCont(this)" praisetimes="40">
+                           39</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 枪击事件</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2729333&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2729333&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

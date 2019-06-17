@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">德国总理默克尔发表新年致辞：德国须坚守信念，承担更大责任</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-31 15:19<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/754/908.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">德国总理默克尔在录制新年致辞后发布的照片。<br/><div class="contheight"></div></span>当地时间2018年12月30日，德国总理默克尔在总理官邸录制电视新年讲话，发表新年致辞表示：德国将坚守信念，承担更大责任，并继续推动应对挑战的全球性解决方案。<br/><div class="contheight"></div>据英国《每日电讯报》12月31日报道，默克尔发誓德国将继续推动全球性解决方案。回顾2018年，默克尔在新年致辞上重点提到国际问题，其中对于美国总统特朗普的“美国第一”政策以及英国即将退出欧盟的世界观，默克尔表示德国将坚持采取多边主义。<br/><div class="contheight"></div>据《联合早报》12月31日报道，默克尔说，在多边主义面临庞大压力的情况下，德国必须“坚持到底、据理力争并为自身信念而战”，且要承担起更大的责任。法新社报道称，默克尔在向德国民众发表的新年致辞中说，国际合作的必然性正受到考验。她警告，包括气候变迁、移民和对抗恐怖主义在内的全球性挑战，无法通过国家单独行动来解决。<br/><div class="contheight"></div>此外，路透社31日报道称，默克尔在讲话中承认她所领导的德国政府辜负了民众的期望，“我们只有团结起来、通力合作，才能够赢得时代赋予我们的挑战”。<br/><div class="contheight"></div>在谈到德国此前当选联合国安理会非常任理事国并将于2019年1月1日开始两年任期时，默克尔说，德国将倡导"全球性"解决方案。默克尔还表示将于2021年辞任基民党党魁一职，但将争取留任至届时才退休。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：廖婧雯<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 德国，默克尔，新年致辞</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2799686">
+<div class="nbgbox">
+<a class="zan" contid="2799686" href="javascript:;" onclick="voteCont(this)" praisetimes="210">
+                           209</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 新年致辞</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2799686&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2799686&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

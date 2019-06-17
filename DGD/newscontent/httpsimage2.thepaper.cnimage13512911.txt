@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27234">科技湃</a>
+</div>
+<h1 class="news_title">高分五号卫星大气环境载荷通过在轨测试，将提高污染观测水平</h1>
+<div class="news_about">
+<p>吴长锋/科技日报</p>
+<p>
+							2018-12-26 08:19<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="378" src="http://image.thepaper.cn/www/image/13/512/916.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">2018年5月9日凌晨2时28分，中国在太原卫星发射中心用长征四号丙运载火箭成功发射高分五号卫星。 视觉中国 图<br/><div class="contheight"></div></span>科技日报合肥12月25日电 记者从中科院合肥物质科学研究院获悉，由该院安光所研制的搭载在高分五号卫星上的核心载荷——大气痕量气体差分吸收光谱仪（EMI）、大气主要温室气体监测仪（GMI）和大气气溶胶多角度偏振探测仪（DPC）日前通过在轨测试总结评审。<br/><div class="contheight"></div>这三台载荷于2018年5月9日随高分五号卫星成功发射，在5月底前实现了开机成像。其中，大气痕量气体差分吸收光谱仪（EMI）已实现天底、石英漫反射板定标、铝漫反射板定标、灯像元检测等模式切换；大气主要温室气体监测仪（GMI），已完成天底、耀斑和定标模式切换；大气气溶胶多角度偏振成像仪（DPC），已实现海洋工作模式的切换。<br/><div class="contheight"></div>大气痕量气体差分吸收光谱仪（EMI）作为目前国内在轨紫外、可见波段光谱分辨率最高的载荷，为我国首次获取了大气痕量气体二氧化氮等的全球分布状况。大气主要温室气体监测仪（GMI）获取的温室气体光谱数据和国际同类卫星GOSAT等观测结果一致。大气气溶胶多角度偏振探测仪（DPC）获取了多光谱、多角度偏振图像，成功反演了全球陆地、海洋上空气溶胶光学厚度产品及云相态分类产品，是全球唯一可在轨业务化运行的采用偏振技术手段探测气溶胶的卫星遥感器。<br/><div class="contheight"></div>今年11月，作为国内首台大气污染气体卫星遥感载荷，大气痕量气体差分吸收光谱仪（EMI）载荷参与了首届中国国际进口博览会环境空气质量保障工作，为进博会空气质量保障决策提供了科学依据和技术支撑，为进博会空气质量保障做出了积极贡献。<br/><div class="contheight"></div>经过六个多月在轨测试，三台载荷各项指标均满足或优于测试细则技术指标要求，开机工作以来性能稳定，回传数据具备支撑大气相关产品的生产能力。未来，这三台大气探测载荷将快速精确地获取地球大气层敏感成分要素信息，提高我国污染气体、温室气体、颗粒物污染的卫星综合观测水平，在环境、气候变化及相互间关系研究等方面发挥积极作用。<br/><div class="contheight"></div>（原标题 高分五号卫星大气环境载荷通过在轨测试）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张唯<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2775376">
+<div class="nbgbox">
+<a class="zan" contid="2775376" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 高分五号卫星</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2775376&caid=27234",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2775376&amp;caid=27234" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">特朗普因美政府关门风波取消休假计划，多个博物馆将停业</h1>
+<div class="news_about">
+<p>新华网</p>
+<p>
+							2018-12-29 21:45<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">28日，美国白宫办公厅代理主任马尔瓦尼表示，由于预算僵局，特朗普在取消圣诞节休假后又取消了自己前往佛罗里达州海湖庄园过新年的计划。<br/><div class="contheight"></div>据报道，马尔瓦尼说：“整个圣诞节假期总统都留在白宫。他也将在华盛顿迎接新年。总统先取消了自己的圣诞计划，目前又取消了他的新年休假计划。”<br/><div class="contheight"></div>12月28日是特朗普和民主党议员对峙的第7天。特朗普要求拨款50亿美元在美国与墨西哥边界筑墙，以防止非法移民从拉丁美洲入境美国，民主党议员对此表示反对。<br/><div class="contheight"></div>美国联邦政府各部门由于国会与特朗普在支出法案上无法达成一致，而被迫于12月22日停摆或者部分关门。特朗普28日在社交网站发布信息，宣布计划完全关闭美国南部边境全线，并停止向洪都拉斯、危地马拉以及萨尔瓦多提供援助。<br/><div class="contheight"></div>目前，受政府预算支持的史密森尼旗下21个博物馆及动物园，靠着上一财政年度预算、在圣诞假期前后的观光旺季期间维持对外开放，但确定无法支撑到2019年。<br/><div class="contheight"></div>据报道，史密森尼学会在新闻稿中表示，旗下位于华府及纽约的博物馆及动物园，明年1月2日起将“有序关门”，已安排的所有相关节目及活动将暂停、取消或移至非联邦政府机构举行。史密森尼学会表示，华府的动物园饲养员在关闭期间，仍将尽职责照顾所负责的动物。<br/><div class="contheight"></div>政府关门影响史密森尼博物馆运行，这不是第一次。据美国全国公共电台报道，史密森尼学会旗下机构上次因政府预算问题、被迫暂停对外开放是2013年，当时关闭16天，史密森尼学会首席发言人托马斯说，“但愿这次(关门)不会这么久”。<br/><div class="contheight"></div>史密森尼旗下员工有三分之二是联邦政府雇员，2018财政年度获联邦政府预算10亿美元，截至目前，2018年每月平均接待游客造访超过200万人次。托马斯说，幸好圣诞假期这周能靠之前的预算、开门迎接造访的游客，“最重要的是安然度过这一周，我们并不想让访客失望”。<br/><div class="contheight"></div>（原文标题：《美政府关门风波：特朗普取消休假计划 博物馆将停业》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美政府,特朗普,休假</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2793786">
+<div class="nbgbox">
+<a class="zan" contid="2793786" href="javascript:;" onclick="voteCont(this)" praisetimes="77">
+                           76</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 特朗普</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2793786&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2793786&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

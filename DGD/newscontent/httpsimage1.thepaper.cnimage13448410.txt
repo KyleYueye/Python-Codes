@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">杜撰“艾滋病人售卖血液”谣言，男子涉寻衅滋事罪在沪被刑拘</h1>
+<div class="news_about">
+<p>澎湃新闻记者 杨帆</p>
+<p>
+							2018-12-24 11:19<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日，上海公安机关依法查处一起通过网络恶意造谣“贩卖艾滋病血液”案件，犯罪嫌疑人巩某某因涉嫌寻衅滋事罪已被依法刑事拘留。<br/><div class="contheight"></div>今年10月，一篇名为《谁给你的胆子，让你公然售卖HIV患者血液》的文章在微信等网络社交媒体传播，文章内容涉及艾滋病人通过售卖血液和隐瞒病情等方式故意传播艾滋病毒，引起网友转发及热议。<br/><div class="contheight"></div>上海公安机关查明，该文章系巩某某（男，25岁，甘肃人）为博人眼球胡编乱造，并通过其注册的“圈子有套路”微信公众号发布。<br/><div class="contheight"></div>12月14日，上海市公安局宝山分局在上海市一居民小区内将犯罪嫌疑人巩某某抓获。巩某某到案后交代，其从事自媒体工作，经营着一个微信公众号“圈子有套路”。今年10月，为获取更多关注度和点击量，便杜撰一篇关于有人恶意散播艾滋病毒的文章，并在西安家中通过微信公众号发帖。<br/><div class="contheight"></div>现巩某某因涉嫌寻衅滋事罪已被上海市公安局宝山分局依法刑事拘留，案件正在进一步审理中。<br/><div class="contheight"></div>警方提醒：网络空间属于公共空间，网络秩序也是社会公共秩序的重要组成部分。网络并不是法外之地，每个人都要对自己的言论负责，任何利用信息网络编造、传播虚假信息构成违法犯罪的，都将受到法律的严惩。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑浩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 辟谣,寻衅滋事罪,刑拘</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768198">
+<div class="nbgbox">
+<a class="zan" contid="2768198" href="javascript:;" onclick="voteCont(this)" praisetimes="47">
+                           46</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 警方辟谣</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768198&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768198&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

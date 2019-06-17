@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">多种网络黑灰产作案工具曝光：不足百元的设备如何劫持短信</h1>
+<div class="news_about">
+<p>澎湃新闻记者 胥辉 实习生 廖丹</p>
+<p>
+							2018-09-18 07:48<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">信息窃听、薅羊毛、电信诈骗和流量劫持……互联网时代，信息安全事件频发，公民个人信息是如何被泄露、流入黑灰产业链的？<br/><div class="contheight"></div>9月17日，2018国家网络安全宣传周——网络安全博览会揭幕，据中央网信办网络安全协调局综合处调研员、副处长唐鑫介绍，本次展会共有90多家知名互联网企业参展，集中展示网络安全领域的新技术和新理念等内容。<br/><div class="contheight"></div>博览会上，有展馆展示了多种网络黑灰产作案工具：能够同时操控16张电话卡进行虚假注册的猫池，成本不足百元却能悄无声息偷走手机短信的“2G短信嗅探设备”，可以任意修改来电号码的VOIP网络电话设备，还有能对目标主机发起远程物理攻击的BadUSB病毒，用于信息窃听流量劫持的大菠萝Wifi Pineapple和伪基站等。<br/><div class="contheight"></div>展馆所属公司相关负责人介绍，展示网络黑灰产前沿内容，是为了让广大人民群众更深入了解网络安全的复杂形势，提升网络安全的防范意识，避免和减少诈骗等具有严重社会危害的黑灰产案件发生。<br/><div class="contheight"></div>该展馆还展示了AI智能反诈骗技术、中国诈骗地图、人脸识别核身技术以及云安全等技术和内容。<br/><div class="contheight"></div>现场展示人员向澎湃新闻（www.thepaper.cn）展示了反诈侦探小程序的运作。当用户收到疑似诈骗的电话、短信或网址时，可以将电话、短信或网址输入反诈侦探小程序进行查询，即刻就能知道对方是否为诈骗电话。此外，反诈侦探小程序还具有金融平台的风险识别功能，并能定向推送信息安全教育内容给使用者。<br/><div class="contheight"></div>此外，澎湃新闻记者在展会现场了解到的智能线索分析机器人“天蝎”，可在几小时内进行线索分析和挖掘，快速识别和定位犯罪嫌疑人。<br/><div class="contheight"></div><strong>八大网络黑灰产作案工具：</strong><br/><div class="contheight"></div><strong><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/10/540/0.jpg" width="100%"/></div>设备1：猫池</strong><br/><div class="contheight"></div><strong>涉及黑灰产类型：大规模薅羊毛、电信诈骗</strong><br/><div class="contheight"></div>作案方法：在猫池设备上，可以同时管理大规模的电话手机卡，通过配套的软件可以实现同时接收、发送短信，拨打电话的功能。黑灰产的猫池上的电话卡，常为通过黑产渠道拿到的非实名认证的廉价电话卡。猫池常被黑灰产用来在各大电商平台上进行大规模网络手机账号垃圾注册，为薅羊毛提供必须的账号资源。<br/><div class="contheight"></div><strong><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/10/539/997.jpg" width="100%"/></div>设备2：2G短信嗅探设备</strong><br/><div class="contheight"></div><strong>涉及黑灰产类型：电信诈骗、信息窃听</strong><br/><div class="contheight"></div>作案方法：2G短信嗅探设备总材料不足100元，但可以做到获取周边任何人的短信内容，危害非常大。基站以广播方式转发到用户手里的加密短信，可被这套设备所截取并破解还原出来，最终被黑产用于实现信息窃取、资金盗刷和网络诈骗等犯罪。当前此类犯罪只针对移动与联通，不针对电信，同时这种犯罪只针对2G信号。部分手机3G、4G也可被监听，原因是部分信号会降频成2G信号。<br/><div class="contheight"></div><strong>设备3：公民个人信息四件套</strong><br/><div class="contheight"></div><strong>涉及黑灰产类型：电信诈骗、洗钱</strong><br/><div class="contheight"></div>作案方法：黑产人员经常到偏远乡村，以100元到300元不等的低廉价格，购买当地农民的身份证，以及用这些身份证办理的银行卡和手机卡。最终形成了黑产口中的个人信息四件套，即“银行卡，身份证，手机号卡，网银U盾”。购买者多将“四件套”用于电信诈骗、伪卡盗刷、洗钱、销分等犯罪活动中。<br/><div class="contheight"></div><strong>设备4：移动AP+物联网卡</strong><br/><div class="contheight"></div><strong>涉及黑灰产类型：电信诈骗</strong><br/><div class="contheight"></div>作案方法：匿名防追踪是电信诈骗人员最关注的自保措施。近年来，黑产已经远离公共家庭无线、有线网络环境，转向了便携可移动的无线设备，来达到反追踪的效果，便携、低价的移动AP已成为黑产常用移动网络设备。此外，产生的流量卡更多是来自实名制度还未完全覆盖的物联网卡。无固定点位，网络身份未实名，这些特点加大了办案人员的侦察难度。<br/><div class="contheight"></div><strong><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/10/539/998.jpg" width="100%"/></div>设备5：VOIP/GOIP网络电话设备<br/><div class="contheight"></div>涉及黑灰产类型：电信诈骗</strong><br/><div class="contheight"></div>作案方法：根据公安部的资料，近年发生的电信诈骗案中，使用网络改号电话作案的占90%以上。VOIP协议能够将网络语音转成网络数据包，用户收到的存储在该网络数据包中的来电号码可被修改，不法分子正是使用此原理将来电号码进行了任意替换。当前展示的GOIP设备是近年来诈骗电话的另外一个方向，该设备能够将传统电话信号转为网络信号，从而起到不法分子隐藏真实身份反侦察的效果。<br/><div class="contheight"></div><strong>设备6：BadUSB<br/><div class="contheight"></div>涉及黑灰产类型：病毒木马</strong><br/><div class="contheight"></div>作案方法： 2014年，位于柏林的SR安全研究实验室专家发现了一个代号“BadUSB”的重大USB安全漏洞，该漏洞影响全球数十亿设备。使用BadUSB设备，可以对目标主机发起物理攻击，插入U盘后，该设备可以自动运行提前设置好的攻击代码，从而控制被害人的电脑，更为致命的是，由于是硬件发起的攻击，因此当前还没出现一个有效的解决方案。提醒：为了安全起见，日常请勿随意使用你无法确保安全的USB设备。<br/><div class="contheight"></div><strong><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/10/539/999.jpg" width="100%"/></div>设备7: 大菠萝WifiPineapple<br/><div class="contheight"></div>涉及黑灰产类型：信息窃听、流量劫持</strong><br/><div class="contheight"></div>作案方法：大菠萝路由器的原理是网络中间层入侵劫持，这种设备可以伪装出一个免费的WIFI信号，让用户上钩从而达到获取用户个人信息或推送伪装过的后台程序的目的。当任意用户连接上由此设备创建的WIFI时，用户的浏览记录就会被监听，用户访问网页时候的站点也可以随时被修改替换。经过简单配置，此设备也可以强制使附近的客户端连接到自己创建的伪装WIFI ，而不需要用户去主动连接。提醒：请谨慎使用公共场合的WIFI热点。 <br/><div class="contheight"></div><strong>设备8：伪基站<br/><div class="contheight"></div>涉及黑灰产类型：电信诈骗</strong><br/><div class="contheight"></div>作案方法：伪基站设备是嫌疑人私自组装生产的一种违法高科技仪器，能够强制连接用户手机信号，摄取一定半径范围内的手机信息，可以任意冒用手机或公用服务号码强行向用户手机发送短信。伪基站设备实施违法犯罪是一种新型犯罪，涉及地域广、社会危害大，严重危害国家通讯安全，扰乱社会公共秩序，影响人民群众安全感。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：马世鹏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 网络安全 灰产 电信诈骗 短信劫持</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2449971">
+<div class="nbgbox">
+<a class="zan" contid="2449971" href="javascript:;" onclick="voteCont(this)" praisetimes="115">
+                           114</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 网络安全</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2449971&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2449971&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25678">唐人街</a>
+</div>
+<h1 class="news_title">驻法国使馆：示威抗议活动仍可能发生，提醒中国公民注意安全</h1>
+<div class="news_about">
+<p>中国驻法国大使馆网站</p>
+<p>
+							2018-12-22 18:12<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">自11月17日起，黄马甲运动每个星期六均在法国巴黎和外省举行较大规模的示威抗议活动；12月11日，斯特拉斯堡市中心发生枪击事件，造成多人死伤。据了解，虽然黄马甲运动已有所缓和，但示威抗议活动仍可能发生，法国交通安全和社会治安形势仍较为复杂。<br/><div class="contheight"></div>年终岁尾将至，驻法国使馆再次提醒在法中国公民密切关注当地社会治安动态，谨慎合理安排出行，增强安全防范意识，避免陷入困境。<br/><div class="contheight"></div>法国报警电话：0033-17<br/><div class="contheight"></div>外交部全球领事保护与服务应急呼叫中心电话：0086-10-12308或0086-10-59913991<br/><div class="contheight"></div>驻法国使馆领事保护与协助电话：0033-153758840<br/><div class="contheight"></div>驻法国使馆<br/><div class="contheight"></div>2018年12月21日<br/><div class="contheight"></div>（原题为《驻法国使馆就近期法国治安形势提醒中国公民注意安全》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2741925" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">中国驻法使馆：黄马甲运动将再次发起抗议，中国公民谨慎出行</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 黄马甲运动,法国</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2764236">
+<div class="nbgbox">
+<a class="zan" contid="2764236" href="javascript:;" onclick="voteCont(this)" praisetimes="34">
+                           33</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 黄马甲运动</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2764236&caid=25678",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2764236&amp;caid=25678" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

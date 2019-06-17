@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜网约车监管，更应该在“软件”上下硬功夫</h1>
+<div class="news_about">
+<p>澎湃特约评论员 盘和林</p>
+<p>
+							2018-08-15 14:33<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2348669" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜网约车监管，更应该在“软件”上下硬功夫" src="//image.thepaper.cn/image/9/618/921.jpg"/>
+</a>
+<div class="atlas_360_txt">25个重点城市网约车包容度排行榜发布：成都最高，青岛居末<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard"> “网约车新政”迎来发布两周年，但近期多地“打车难”等现象，再度引发关注。人民网舆情数据中心选取25个重点城市，根据当地网约车政策、舆论认可度等进行网约车包容度综合评估，发布了《2018中国25个重点城市网约车包容度排行》。 <br/><div class="contheight"></div>从测评结果来看，成都、三亚、无锡网约车“门槛”相对宽松，青岛、重庆、大连等地则较为严格。报告指出，准入政策相对宽松的城市，合法网约车平台牌照获取数相对越多，舆论反馈整体平稳；准入政策相对严苛的城市，媒体和部分网民中传出放宽准入制的呼声。 <br/><div class="contheight"></div>网约车是2014年才出现在我国的新鲜事物，不过一经出现，便以惊人的发展速度改变了业界生态，在互联网、大数据等技术的支持下，网约车极大方便了人们的出行，并解决了传统“卖方市场”中消费者所遇到的信息不对称、打车难、打车贵等问题。 <br/><div class="contheight"></div>不必讳言，在发展初期，也存在着网约车平台准入门槛过低、监管不严以及大打价格战影响正常市场等行为。正是针对这些问题的存在，2016年7月27日，“网约车新政”发布，为网约车行业量身打造了一套管理办法。 <br/><div class="contheight"></div>从“网约车新政”实施两年的成果来看，确实从一定程度上解决网约车行业不规范的现象，改善了网约车环境，但是部分城市过于严苛的制度却并不利于整个行业的发展，也让普通群众的出行重新遇到了困难。 <br/><div class="contheight"></div>比如在本次测评中排名靠后的哈尔滨等城市，要求网约车必须是新车并且排量不得低于1.8L，这样的要求不仅极大的提高了网约车的准入门槛，也不符合当前环保的要求。再比如青岛，排量、轴距都是准入的要求之一，不少潜在的从业者都因此被淘汰。此外在细则方面，管理要求市县不协同等现象也是存在的问题。 <br/><div class="contheight"></div>实际上，网约车作为新兴行业，确实有不少地方需要更加规范，但是不少城市却存在着“矫枉过正”的嫌疑。要知道，公众才是作为乘车出行的主体，作为具体政策的制定者，更加应该站在市场主体的角度，考虑公众需求，而不是设置过高门槛、在硬件方面“一刀切”。<br/><div class="contheight"></div>公共政策具有制约功能，同时也有导向功能和调控功能，是针对社会利益关系中的矛盾所引发出来的社会问题而制定的行为总则。对网约车、共享单车等新生事物、新兴行业，正如李克强总理所言，应尽量秉持“包容审慎”的监管方式，不能一上来就“管死”。<br/><div class="contheight"></div>网约车的排量、轴距等硬杠杠固然不可或缺，但平台管理是否规范、个人信息能否得到保护等，更是消费者关注的重点。媒体最近就曝光，一些网约车平台通过“外挂”软件让车费翻倍，这类严重侵犯乘客权益的现象应该引起监管重视。<br/><div class="contheight"></div>在互联网和移动支付时代，共享经济的发展对于城市经济建设将会起到极大的促进作用。在未来，网约车一定仍是公众重要的出行方式之一，各地对网约车的监管，也应该审时度势，充分考虑公众的需求，在“软件”上下硬功夫、严加监管，而在“硬件”方面，不妨放宽标准。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 网约车新政</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2349580">
+<div class="nbgbox">
+<a class="zan" contid="2349580" href="javascript:;" onclick="voteCont(this)" praisetimes="63">
+                           62</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 网约车新政</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2349580&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2349580&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

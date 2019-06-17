@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">德国批准建连接丹麦海底隧道，欧洲大陆到北欧时间将大幅缩短</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-29 20:13<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">德国政府28日批准在德国费马恩岛与丹麦洛兰岛之间修建海底隧道。项目总造价大约81亿美元。<br/><div class="contheight"></div>路透社报道，费马恩海底隧道全长19公里，定于2024年完工，但工程建设遭德国环境保护人士反对，一直拖延。<br/><div class="contheight"></div>海底隧道设计4条机动车道和2条铁路轨道，部分项目资金由欧洲联盟提供。<br/><div class="contheight"></div>另据英国网站“未来时间线”发布的信息，费马恩海底隧道最初设计为跨海大桥，但为降低对环境的影响和建筑风险以及对天气因素的制约，项目最终选定为海底隧道。<br/><div class="contheight"></div>设计图显示，海底隧道将在现有海床上建起，周围覆盖沙土层和碎石层，上面将铺设岩石层和新海床。<br/><div class="contheight"></div>费马恩岛目前与德国内陆由公路相连。隧道建成后，将大幅缩减从德国城市汉堡、不来梅和汉诺威前往丹麦首都哥本哈根和瑞典城市马尔默的时间。比如，从汉堡坐火车到哥本哈根的时间从原先4.5小时减至3小时。<br/><div class="contheight"></div>欧洲大陆与北欧斯堪的纳维亚地区的交通时间也将大幅缩短：以往乘坐渡轮渡过波罗的海需要45分钟，今后汽车通过海底隧道只需10分钟，火车至多需要7分钟。<br/><div class="contheight"></div>路透社报道，负责项目规划的丹麦企业2013年首次向德国政府提交开工申请，迄今已在德国接受两轮公众评议。这家企业现有14天评估由德国石勒苏益格－荷尔斯泰因州交通部门发布的项目审批文件，之后决定是否签署文件。<br/><div class="contheight"></div>（原文标题：《 德国批准修建连接丹麦的海底隧道》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 丹麦,德国,隧道</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2793313">
+<div class="nbgbox">
+<a class="zan" contid="2793313" href="javascript:;" onclick="voteCont(this)" praisetimes="65">
+                           64</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 海底隧道</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2793313&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2793313&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

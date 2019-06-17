@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">外媒：美国司法部副部长将离职，曾被传与特朗普不和</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2019-01-09 19:15<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="338" src="http://image.thepaper.cn/www/image/14/78/439.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">罗森斯坦<br/><div class="contheight"></div></span>海外网1月9日消息，在美国前司法部长塞申斯被解职之后的数月间，美国政坛高层人物的“离职潮”有增无减，有关司法部副部长罗森斯坦也将离职的猜测甚嚣尘上，更有美媒传出罗森斯坦与特朗普不和的消息。《纽约时报》还曾爆料称，罗森斯坦曾建议对特朗普秘密录音以“揭示白宫的混乱”，然而这被罗森斯坦本人强烈否认。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="100" src="http://image.thepaper.cn/www/image/14/78/450.png" width="600"/></div><span style="color: rgb(128, 128, 128);">美媒报道截图<br/><div class="contheight"></div></span>据美国abc电视台9日援引多名熟悉内情人士的话称，美国司法部副部长罗森斯坦将在未来几周内离职。罗森斯坦已向美国总统特朗普和白宫官员表示，他计划在特朗普提名的司法部长威廉·巴尔(William Barr)就职前后离开政府。没有迹象表明他是被特朗普逼迫的。<br/><div class="contheight"></div>消息人士称，罗森斯坦希望能和他的继任者平稳过渡，并将满足巴尔的需要。巴尔是一名共和党人和企业法律师，他将取代目前的代理司法部长马修·惠特克(Matthew Whitaker)。<br/><div class="contheight"></div>罗森斯坦的仕途前景曾备受关注，由于时任司法部长的塞申斯(Jeff Sessions)曾与俄方接触，因此必须对“通俄门”调查避嫌，在此情况下，罗森斯坦承担着这项调查的幕后“保卫者”角色。<br/><div class="contheight"></div>在司法部长杰夫·塞申斯去年11月被解职之后，有关罗森斯坦将在不久后离职的猜测甚嚣尘上，但在近几个月来，他仍然一直留任。<br/><div class="contheight"></div>《纽约时报》此前曾报道称，2017年5月，特朗普将FBI前任局长科米解职后，罗森斯坦曾在一次与FBI的会谈中建议对特朗普进行秘密录音以“揭示白宫的混乱”，并启动宪法第25修正案，解除特朗普职务。<br/><div class="contheight"></div>爆料一出，罗森斯坦随即发表声明，强烈否认有关事项。声明表示：“我不会对一个基于匿名消息源的报道做出进一步评论，这些匿名人士显然对司法部有偏见，有自己的个人意图”。他还说，根据他与特朗普的个人交往来看，根本没有理由这样做。不过，CNN却表示，特朗普经常会同罗森斯坦发生争执。<br/><div class="contheight"></div>（原题为《美媒：美国司法部副部长将离职，曾被传与特朗普不和》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国,司法部,离职</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2832542">
+<div class="nbgbox">
+<a class="zan" contid="2832542" href="javascript:;" onclick="voteCont(this)" praisetimes="11">
+                           10</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美国司法部</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2832542&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2832542&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

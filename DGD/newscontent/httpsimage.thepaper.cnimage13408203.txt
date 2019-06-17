@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">专家：朝鲜半岛局势趋缓，东北有望成为向北开放战略高地</h1>
+<div class="news_about">
+<p>澎湃新闻记者 赵实 发自辽宁沈阳</p>
+<p>
+							2018-12-22 20:53<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“朝鲜半岛局势趋缓，为东北地区的发展带来了重要的历史机遇，东北极有可能从我国对外开放的末梢，成为向北开放的战略高地。”12月22日，在东北大学召开的“改革开放40周年与东北振兴——解放思想 深化改革 推进东北全方位振兴专家座谈会”上，与会专家针对朝鲜半岛局势趋缓为东北地区所带来机遇提出了建议。<br/><div class="contheight"></div>今年，朝鲜半岛局势趋于缓和。12月11日，国务委员兼外交部长王毅在出席2018年国际形势与中国外交研讨会时表示，今年朝鲜半岛局势出现重大转机，美朝领导人新加坡会晤打开半岛核问题僵局，朝韩领导人三次会晤推动南北关系解冻。这是各方共同努力的结果，也体现了中国始终如一的坚持。<br/><div class="contheight"></div>“虽然半岛进程还有很长时间，朝鲜如果能与中日韩深化经济合作、重回轨道，与共建‘一带一路’相结合，与俄罗斯的远东地区合作开放相结合，东北地区在对外开放过程中所面临的地缘政治障碍，将会转化为地缘经济的动力。”中国（海南）改革发展研究院院长顾问殷仲义注意到，朝鲜半岛局势趋缓为东北地区的发展带来了重要的历史机遇，东北极有可能从我国对外开放末梢成为向北开放的战略高地，“如果东北的边境经济能够纳入国家自由贸易区、试验区建设的框架之中，将有望成为东北地区打造开放合作高地的现实突破路径。”<br/><div class="contheight"></div>他提出，可以选择几个东北地方机制较好的国家级或省级边境合作区，通过行政区划，使其成为中国辽宁自由贸易试验区新片区，实行自贸区的政策、管理体制的运行机制，吸引对促进朝鲜走上开放发展道路具有共同利益和共同愿望的国家，如韩国、日本、美国、俄罗斯等企业进入，借此打造东北开放的合作高地。<br/><div class="contheight"></div>“如果朝鲜真正集中全面地发展经济，朝鲜的消费需求将会释放出来，大量高素质的劳动力很可能会来到东北寻找就业机会。”殷仲义指出，这既是东北地区所面临的巨大管控压力，同时也是东北针对朝鲜消费市场，在沿边地区建立出口加工区的重要机遇。<br/><div class="contheight"></div>他认为，可以在东北的沿边地区提前布局，针对朝鲜市场，建设以出口加工为主的、以国际贸易为辅的，实行金融贸易试验区政策的出口加工区，以此吸引其他国家关注朝鲜和平发展的资本，再利用朝鲜丰富的劳动力资源，加快发展可满足其消费需求的轻工业，“或将补上东北轻工业发展的短板”。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：钟煜豪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 朝鲜半岛，向北开放</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2764349">
+<div class="nbgbox">
+<a class="zan" contid="2764349" href="javascript:;" onclick="voteCont(this)" praisetimes="213">
+                           212</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 朝鲜半岛</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2764349&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2764349&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（62）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

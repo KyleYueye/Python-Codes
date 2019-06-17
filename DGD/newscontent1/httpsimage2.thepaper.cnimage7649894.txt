@@ -1,0 +1,90 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">问吧直播｜把家变美的方法有百种，整理达人周一妍教你断舍离</h1>
+<div class="news_about">
+<p>澎湃问吧综合</p>
+<p>
+							2018-05-10 14:28<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>“整理术”这门学科现在已不仅局限于日本，在中国和一些欧美国家与地区，也呈现出一种愈加流行的趋势。整理术被越来越多人接受，大家通过去芜存菁的过程，来观察和体会自己的内在感受。学会如何整理、利用居住空间似乎已经成了不少人的必备技能。整理就是把不用的东西扔掉吗？面对拥挤的家为什么我总是不知所措、无从下手？整理与收拾有什么区别？5月10日下午3点，整理达人周一妍教你如何断舍离。</u><br/><div class="contheight"></div>（点击文章下方链接，进入澎湃问吧直播厅。）<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="800" src="http://image.thepaper.cn/www/image/7/649/888.jpg" width="450"/></div><span style="color: rgb(153, 153, 153);">整理达人周一妍</span><br/><div class="contheight"></div>整理达人周一妍，她是日本“怦然心动的人生整理魔法”和“断舍离”最早的受益者，2013年在接触日本的收纳整理术后，就开始清理家当、归位生活。她说，在接触整理术之前，自己一直是一个不会收拾的人。2014年，出于对整理的兴趣，周一妍又阅读了《断舍离》和《断舍离》心灵篇，这两本书对她启发也很大，她开始不再乱买东西，对于家中物品的摆放也开始潜心研究，终于成为了一个会收拾的人。后来，她开始畅想，当日式整理落地中国，会产生怎样的化学反应？于是在2015年，创办了整理爱好者交流互助平台—“第1整理术学院”。<br/><div class="contheight"></div>2016年10月，她专门去了一趟日本，拜访了日本整理收纳界的鼻祖近藤典子。她们共同感叹一个不可思议的事实，在中国，短短1年多时间，整理界已呈现百花齐放的“奇景”。<br/><div class="contheight"></div>为什么整理术在中国会火起来？周一妍觉得可能有以下三个原因：<br/><div class="contheight"></div>首先，是全国一线城市房价飞涨，大部分普通家庭，都存在收纳不足、杂物遍地的问题。人们开始意识到：家里最贵的空间，其实是“露出来的地板”。日本人的“减物智慧”，在这时候，变成了中国人的“刚需”。<br/><div class="contheight"></div>第二，是物质世界极大丰富，加上网络购物的便利，人们开始感觉到被满屋淘宝的便宜货逼得无法生存，急于“剁手”。相对之下，日本太太空空如也的家的背后，是对每件物品的精挑细选，于是，居家用品“少而精”的想法，也开始被中国人接受。<br/><div class="contheight"></div>第三，近藤麻理惠提出的“心动整理”，的确有其独到之处。她的观点是，在整理之前，先树立与万物平等，唤醒惜物的感情，用感恩的心与物品告别，斩断与不适合物品之间的缘分，用“心动”的标准最终与物品和谐相处。这个方法对于我们来说，很新鲜，也很实用。用一句话总结就是：不花钱、不搬家，短时间就能元气满屋，谁不愿试试呢？<br/><div class="contheight"></div>周一妍说，“通过整理术的学习，人们已经意识到，再大的房子，也不能从根本解决你生活的混乱与粗糙。问题不在物品，不在房子，而在于你自己。”<br/><div class="contheight"></div>“在整理的过程中，因为做了断舍离，我才能清晰地了解家里到底有多少东西。通过掌握这些东西，来更好把握自己的生活。我也把自己当初那种比较麻木的生活状态，一股脑地抛掉了，心灵得到了释放。” 周一妍认为，仅把整理当作一门技术来学习，未免枯燥无趣，若将它视作一门生活艺术，通过整理认识自己、了解自己，关照自己，关爱他人，整理术也因此具备了更深远的意义。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_asktopic">
+<div class="news_askuser" onclick="window.open('asktopic_detail_10010450');"><span class="verticalAlign_topic"></span>
+<div class="news_askuser_bd">
+<div class="news_askuser_sort">品位</div>
+<div class="news_askuser_profile">我是周一妍,关于收纳整理的技巧,问我吧!</div>
+</div> <div class="news_askuser_trbs"><span class="trbs">
+<div class="userleft_hdimg">
+<img src="//image.thepaper.cn/publish/interaction/image/2/206/410.jpg"/><div class="hdimg_bg30"><img src="//file.thepaper.cn/www/v3/img/headerimg_ctbg30.png"/></div>
+</div>
+<a class="u_sname">周一妍</a>
+<span>2017-12-19</span>
+<span class="trbs_zan" id="10010450" times="178">178</span>
+<span>进行中...</span>
+</span></div>
+</div>
+</div>
+<div class="news_editor">责任编辑：李淑平<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2121197">
+<div class="nbgbox">
+<a class="zan" contid="2121197" href="javascript:;" onclick="voteCont(this)" praisetimes="16">
+                           15</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 问吧</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2121197&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2121197&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

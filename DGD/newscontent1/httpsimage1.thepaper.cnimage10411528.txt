@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜“营养餐”只有素面条，菜谱里的肉谁吃了？</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-09-13 14:03<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">9月12日晚，网友@Haitaode  发布微博，“我老家，河南某县，一个学校的学生营养餐”，所附视频显示学生在排队领饭。<br/><div class="contheight"></div>视频中，所谓的营养餐只是每人半碗素面条。有学生将面泡在水里吃，不知是否因为难以下咽。而公示栏里的菜谱明明白白地写着，当天的菜品应为鸡丁炒西葫芦、苞菜、蒜苔、大米粥。<br/><div class="contheight"></div>公示栏里是小康，学生饭碗里只有温饱。孩子们正是长身体的年纪，半碗素面不可能提供充足的营养，维生素、蛋白质从哪里来？我更想知道，这中间的差价被谁赚去了？<br/><div class="contheight"></div>这件事的恶劣之处还在于，说一套做一套，一切都是公开的。对于营养餐的“文不对题”，似乎只有拍视频的人感到不解和愤怒。不知道这种情况已经持续了多久。<br/><div class="contheight"></div>一则短短的爆料视频，无法揭露事情的完整真相，但表象已足够惊人。顺藤摸瓜，应该能挖到一些见不得光的勾当。<br/><div class="contheight"></div>这不是第一次有人打学生营养餐的主意。<br/><div class="contheight"></div>今年4月份，河南省虞城县也出现了“学生营养餐沦为问题餐”的事故，原本经公开招投标的知名品牌食品被换成了本地生产的不知名产品，疑似未拿到生产许可证的食品被允许进入校园试吃。<br/><div class="contheight"></div>营养餐有名无实，损害的是农村孩子的身体，损失的是纳税人的钱。把穷孩子的营养餐当唐僧肉，是典型的损不足以奉有余。<br/><div class="contheight"></div>农村义务教育学生营养改善计划在启动时，是站在“维护社会公平”“提高民族素质、建设人力资源强国”高度上的。因此在落地过程中，地方政府必须严肃对待，不能轻忽，更不能容许有人打歪主意。对于弄虚作假、中饱私囊的现象，理应依法严惩。<br/><div class="contheight"></div>如果连孩子嘴里的营养餐都管不好，我们有什么颜面对孩子许诺这样那样的未来呢？</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 学生营养餐</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2436270">
+<div class="nbgbox">
+<a class="zan" contid="2436270" href="javascript:;" onclick="voteCont(this)" praisetimes="327">
+                           326</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 学生营养餐</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2436270&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2436270&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（169）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

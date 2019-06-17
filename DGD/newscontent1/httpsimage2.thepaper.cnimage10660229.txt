@@ -1,0 +1,90 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">检察日报刊文：不能任由高铁霸座闹剧反复上演</h1>
+<div class="news_about">
+<p>党小学/检察日报</p>
+<p>
+							2018-09-21 09:51<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">9月19日，网上传出一段G6078次列车一女乘客“霸座”视频。20日，衡阳铁路公安处发布通报称，根据治安管理处罚法对高铁“霸座”事件女乘客周某某处以罚款200元的行政处罚（9月20日中国新闻网）。<br/><div class="contheight"></div>看了这段视频，这位“霸座女”声称“车票上写我名字啦，没写应该坐在过道呀”。尽管铁路乘务人员一再劝导，她仍强词夺理，就是不让座。“霸座女”与前一段的“霸座男”孙某的行为如出一辙，共同点是蛮横无理。在这两起霸座事件处理上，铁路公安部门这次处理迅速及时。19日事发，20日作出处罚。而在“霸座男”事件中，铁路部门有关人员一开始称“霸座男”“不违法”，在引起舆论广泛关注几天后，才认定违法并处罚。可见，铁路部门对霸座现象的违法认识越来越清晰，处罚更规范。<br/><div class="contheight"></div>一张火车票就是一份铁路运输合同。霸座首先违反合同法，不听劝导继续霸占，继而违反治安管理处罚法第23条第1款之规定，有下列行为之一的，处警告或者二百元以下罚款；情节较重的，处五日以上十日以下拘留，可以并处五百元以下罚款……（三）扰乱公共汽车、电车、火车、船舶、航空器或者其他公共交通工具上的秩序的。轻者罚款，重者拘留。<br/><div class="contheight"></div>火车票是铁路企业与乘客之间的合同，对双方均具约束力。这起事件，乘务人员劝说“霸座女”无效，遂安排合法权益受到侵害的被霸座乘客到隔壁车厢就座。列车方并未遵守合同约定，这顶多算个补救措施。庆幸的是，被霸座乘客保持了克制，否则难以避免更大纠纷。如果列车上没有空余座位，如果被霸座乘客坚持要求坐到自己座位上，列车方并未能维护乘车秩序，不能提供应有的乘车服务，同样违反合同约定，违反合同法。<br/><div class="contheight"></div>强调这一点，只是想说明“霸座女”持续霸座行为不仅自己违法，还导致铁路企业“被违法”。那么，列车方只能任由“霸座女”持续违法吗？运营秩序被持续破坏吗？难道就束手无策吗？其实，这些问题正是公众关注霸座事件的焦点。有网友指出，乘务人员能否采取硬性约束措施？有律师指出，铁路已经改制成企业，没有执法权。<br/><div class="contheight"></div>在笔者看来，依据治安管理处罚法第23条第1款规定，违法情节较轻的罚款，情节较重的拘留。霸座到底是情节较轻还是较重，并不明了，未见有关方面解释。以情节较轻罚款200元，处罚程度相当于一次交通违法停车处理而已，不足以震慑霸座者。对此，中国人民大学法学院教授杨建顺就不认同“情节较轻”的处罚，曾就孙某霸座事件表示：“高铁霸座事件还是比较严重的，我认为可以处罚得更重一些。”<br/><div class="contheight"></div>针对霸座事件，铁路部门有关人士表示，目前只能依靠治安管理处罚法处理，铁路相关法规中无相关规定，这暴露出铁路法规存在欠缺。2017年3月实施的《公共航空旅客运输飞行中安全保卫工作规则》规定，机长在履行飞行中安全保卫职责时，对“强占座位”的扰乱行为可以要求机组成员“采取必要的管束措施”。铁路部门不妨学习借鉴，完善相关法律规范，让“霸座”耍赖绝迹。<br/><div class="contheight"></div>（原题为《不能任由高铁霸座闹剧反复上演》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_asktopic">
+<div class="news_askuser" onclick="window.open('asktopic_detail_10013709');"><span class="verticalAlign_topic"></span>
+<div class="news_askuser_bd">
+<div class="news_askuser_sort">圆桌</div>
+<div class="news_askuser_profile">从“霸座男”到“霸座女”，面对不文明行为，公众真的无解吗？</div>
+</div> <div class="news_askuser_trbs"><span class="trbs">
+<div class="userleft_hdimg">
+<img src="http://image.thepaper.cn/html/image/def_head.jpg"/><div class="hdimg_bg30"><img src="//file.thepaper.cn/www/v3/img/headerimg_ctbg30.png"/></div>
+</div>
+<a class="u_sname"></a>
+<span>2018-09-20</span>
+<span class="trbs_zan" id="10013709" times="1449">1.4k</span>
+<span>提问征集中</span>
+</span></div>
+</div>
+</div>
+<div class="news_editor">责任编辑：顾亚敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 高铁霸座</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2462732">
+<div class="nbgbox">
+<a class="zan" contid="2462732" href="javascript:;" onclick="voteCont(this)" praisetimes="127">
+                           126</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 高铁霸座</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2462732&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2462732&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（153）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

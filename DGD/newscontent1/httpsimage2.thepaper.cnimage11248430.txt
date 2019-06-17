@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜敦煌雅丹的“刺猬阵”，也是扎在每个游客心里的刺</h1>
+<div class="news_about">
+<p>澎湃特约评论员 王钟的</p>
+<p>
+							2018-10-12 08:41<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="449" src="http://image.thepaper.cn/www/image/11/248/427.jpg" width="600"/></div><span style='color: rgb(128, 128, 128); font-family: "Hiragino Sans GB", "Microsoft Yahei", sans-serif; letter-spacing: 0.5px;'>封面新闻 图</span><br/><div class="contheight"></div>在敦煌雅丹国家地质公园3号景点“孔雀回眸”处，密密麻麻地围着黑色钢条，钢条呈竖起状，焊接在钢板上，被网友戏称为“刺猬阵”。“刺猬阵”照片在国庆假期期间刷爆社交平台，有网友认为此举“扎心”。景区管理方回应：布设“刺猬阵”，一是彻底防止人为破坏，二是为游客人身安全着想。<br/><div class="contheight"></div>若干年前，我也游览过该地质公园。当时游客尚少，参观时自由活动空间较大，还没有扎心的“刺猬阵”。近年来，如果有机会到一些景区“故地重游”，经常能发现管理措施在不断加强，过去游客能“零距离”接触的景点，现在恨不得里三重外三重，严严实实地包起来。<br/><div class="contheight"></div>景区加强管理，是职责所在。在刚刚过去的国庆假期，多地爆出游客破坏自然景观、古迹的丑闻。在追究个别游客不文明行为的同时，景区的管理责任也在检讨之列。“刺猬阵”虽然有碍观瞻，却基本上杜绝了游客接近搞破坏的可能性。<br/><div class="contheight"></div>只是，过去能走近看的现在只能远观，过去与周边环境浑然一体的现在布设了“天罗地网”，难免让人心情复杂。很难说清这是管理手段的进步，还是不文明行为倒逼出的不得已行为。但有个事实是明确的：多数人正在为少数人的不文明埋单，每一个普通游客都不得不吞食不文明游览行为的恶果。这是社会管理的无奈，也是文明之痛。<br/><div class="contheight"></div>对于个体之恶行，很多时候确实是防不胜防。谁也无法预料，什么时候会冒出一个“平文涛”，在景点刻字、踩踏。就算一个不文明游客被抓住了，上了景区的黑名单，仍很难阻止效仿者出现。对不文明个体而言，惩罚总归是有限度的；而对景区来说，破坏可能是无法挽回的，或者像甘肃张掖被破坏的丹霞地貌那样，需要60年才能恢复。<br/><div class="contheight"></div>景区布设“刺猬阵”，看似荒诞，实则是用一种“杀敌一千自损八百”的方式自保，有一种无奈和黑色幽默。不过，还有比“刺猬阵”更有效的办法吗？反正，我是想不出。深受不文明行为困扰的景区，想必更是绞尽脑汁。据报道，雅丹景区曾想过许多方法，奈何效果都不好，这才祭出“刺猬阵”。<br/><div class="contheight"></div>“刺猬阵”扎心，也是扎在每一个游客心里的刺，小长假，黄金周，文明旅游不知喊了多少遍，仍然有各种千奇百怪的不文明行为存在，“刺猬阵”防的是不文明游客，打的是我们每一个游客的脸。也许，只有当所有游客的文明素质、规则意识都提升了，现实的“刺猬阵”和心里的刺才能拔除。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2515019" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">敦煌景区设“刺猬阵”被指扎心，管理处：有碍观瞻但效果好</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 敦煌雅丹,刺猬阵,游客</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2521722">
+<div class="nbgbox">
+<a class="zan" contid="2521722" href="javascript:;" onclick="voteCont(this)" praisetimes="81">
+                           80</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 敦煌</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2521722&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2521722&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（43）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

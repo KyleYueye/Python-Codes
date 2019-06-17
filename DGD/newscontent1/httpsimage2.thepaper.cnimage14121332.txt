@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">福建检察晒公益诉讼成果：三年多挽回国家财产损失12.7亿</h1>
+<div class="news_about">
+<p>澎湃新闻记者 王选辉</p>
+<p>
+							2019-01-10 19:22<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">2019年1月10日上午，福建省人民检察院召开新闻发布会，该省院副检察长洪清介绍，自开展公益诉讼工作以来，福建检察机关已督促治理污染水源地面积5.4万亩，督促相关部门清理违法堆放各类生活垃圾5万余吨，同时还挽回国家财产损失12.7亿余元。<br/><div class="contheight"></div>根据全国人大常委会授权和高检院的决定，福建省检察机关从2015年7月开始开展检察机关提起公益诉讼工作。洪清介绍，截止目前，福建检察机关共立案办理各类公益诉讼案件2324件，其中，诉前程序2192件，提起诉讼132件，判决104件，诉讼请求均得到法院的支持。<br/><div class="contheight"></div>洪清介绍，福建检察机关先后办理了一批全省乃至全国有影响的公益诉讼案件：全国首批起诉公益诉讼案件一一清流县检察院诉清流县环境保护局不依法履职行政公益诉讼案；办理全面开展公益诉讼以来全国案值最大的公益诉讼案件一一惠安县检察院督促惠安县国土资源局履行职责案，已追回土地出让金及违约金4.77亿元等。<br/><div class="contheight"></div>据福建省检察院统计，自2015年7月至2018年12月，福建检察机关共督促恢复被污染、破坏的耕地、林地、矿山820余公顷；督促治理恢复被污染水源面积5.4万亩，清理生产类固体废物1万余吨，其中，危险废物390余吨；督促整改污染企业251家。<br/><div class="contheight"></div>此外，福建检察机关还从生活垃圾处理、饮用水安全、食品药品卫生等问题入手，督促相关部门清理违法堆放各类生活垃圾5万余吨，督促行政机关注销109家药品经营企业逾期的《药品经营许可证》，督促开展网络餐饮、餐饮具消毒执法检查123次，督促核查入网餐饮企业5766户。<br/><div class="contheight"></div>在国有财产监督和保护上公益诉讼也发挥着重要作用。洪清介绍，截止目前已督促收回国有财产12.7亿余元，其中，收回国有土地出让金10.3亿余元，收回人防易地建设费1.1亿余元，收回被套取或冒领国家补贴资金2500万余元。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：宋蒋萱<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 福建 检察 公益诉讼</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837093">
+<div class="nbgbox">
+<a class="zan" contid="2837093" href="javascript:;" onclick="voteCont(this)" praisetimes="27">
+                           26</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 公益诉讼</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837093&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837093&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

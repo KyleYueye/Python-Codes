@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">大数据显示：关注离婚冷静期男性显著多于女性，占比超六成</h1>
+<div class="news_about">
+<p>王亦君/中国青年报</p>
+<p>
+							2018-09-18 09:31<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">8月下旬，民法典各分编草案提请十三届全国人大常委会第五次会议审议，其中婚姻家庭编中针对当前离婚率较高及轻率离婚现象，拟增设“离婚冷静期”，即：夫妻双方任何一方不愿意离婚的，可自婚姻登记机关收到离婚登记申请之日起一个月内撤回申请。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="617" src="http://image.thepaper.cn/www/image/10/548/298.jpg" width="502"/></div>网民观点中，认为设置“离婚冷静期”可以“显著避免因冲动离婚造成的感情破裂、增强家庭责任感”的，占比超过五成。<br/><div class="contheight"></div>据了解，从2017年起，四川、陕西、山东、广东等地已陆续试点，此话题持续受到较高关注。此次民法典各分编草案提请审议增设“离婚冷静期”，媒体、网民同样对此关注度颇高。<br/><div class="contheight"></div>腾讯指数监测显示，8月27日至9月12日，民法典提请审议增设离婚冷静期相关话题全网传播总量约为18.3万；各方关注度8月28日即提请审议次日达到峰值；9月5日，民法典各分编草案在中国人大网公布，向社会公开征求意见，社会关注度再度升温。<br/><div class="contheight"></div>舆论普遍认为，设置离婚冷静期对维持婚姻有积极作用。网民中，不少人表示：“离婚冷静期”这一提法的出现，有助于增强夫妻双方的责任感，避免冲动型离婚。<br/><div class="contheight"></div>从人群年龄分布来看，15岁～45岁及以下人群为主要参与讨论人员，占比超过八成。其中以25岁～35岁的青年网民关注度最高，占比高达42%；15岁～25岁网民次之，占比约为24%。分析认为，年龄介于25岁至35岁这一区间的网民，正处于婚恋的关键时期，因此最为关注这一议题。<br/><div class="contheight"></div>从网民的性别看，在关注离婚冷静期的网民中，男性数量显著多于女性，占比超过六成。<br/><div class="contheight"></div>从地域分布来看，全国各地均有网民参与设置“离婚冷静期”相关话题讨论，主要集中在南部地区。其中，广东参与讨论网民数量最多，山东位居第二。此外，北京、浙江、江苏、河南、河北、四川、上海、福建等地区网民也对此积极关注。<br/><div class="contheight"></div>网民“你若安好，便是晴天”认为，设置离婚冷静期很有必要，现在草率离婚的人太多。<br/><div class="contheight"></div>网民“國方”表示，孩子是无辜的，有些女人是气不过才草率离婚，不是真的想离婚，设置离婚冷静期有意义。<br/><div class="contheight"></div>网民“碧海蓝天”建议，进行婚前学习培训，对双方当事人要尽的义务和责任，包括做父母的责任和方法都要进行考试，过关了才能拿结婚证，从源头上控制离婚率。<br/><div class="contheight"></div>网民“分分钟昏睡的苦逼熊”直言，该给结婚增加一个月冷静期，目前结婚的手续太简单，冲动结婚的太多。<br/><div class="contheight"></div>还有观点建议明确适用人群，“离婚冷静期”不可一刀切。网民“敏子”评论，需要明确“离婚冷静期”的适用情况和人群，对那些确实可以证明婚姻矛盾已尖锐到不可调解的，应充分尊重弱势一方的意见。<br/><div class="contheight"></div>（原题为《大数据显示：民法典草案面向公众征求意见 关注离婚冷静期男士居多》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：顾亚敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 离婚冷静期</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2450770">
+<div class="nbgbox">
+<a class="zan" contid="2450770" href="javascript:;" onclick="voteCont(this)" praisetimes="68">
+                           67</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 离婚冷静期</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2450770&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2450770&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

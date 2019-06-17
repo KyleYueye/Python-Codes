@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜烧玉米芯取暖6人死亡，北方农村的冬天太“冷”</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-12-17 13:44<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">2018年12月15日，菏泽市巨野县大义镇程庄村一农户屋内烧玉米芯取暖发生一氧化碳中毒，造成6人死亡。<br/><div class="contheight"></div>山东省政府安委会办公室发布紧急通知，要求各地、各成员单位深刻吸取“12·15”一氧化碳中毒教训，切实做好农村冬季取暖安全工作。<br/><div class="contheight"></div>看到这个新闻，我感到十分悲伤而无奈，却没有多么意外。因为在偌大的北方农村地区，每年冬天都会发生许多类似的悲剧。一次6人死亡的悲剧，会上新闻，会引起上级的重视。可是一次一人、两人死亡的“零星悲剧”，从来都激不起什么波澜。<br/><div class="contheight"></div>我的家乡离巨野县只有一百多公里，村情民情没有太大差异。几乎每次过年回家，都能听说附近哪个村又有人“中煤毒死了”，死者以老年人居多。“中煤毒”就是一氧化碳中毒，通常是因为在屋里烧煤炉却不开窗。<br/><div class="contheight"></div>烧玉米芯引发的事故比较罕见，但也并非不可想象。对很多农村老人来说，别说用电暖气，就是一天多烧一个煤球都觉得奢侈，有什么烧什么是常规做法。每一个冬天都是老人们的“大劫”，经济条件直接决定了室内温度。<br/><div class="contheight"></div>网上常年有所谓“南方人更抗冻，因为北方有暖气”的说法，但许多人并不知道，北方农村没有暖气。暖气不仅以秦岭淮河为界，而且以城乡为界。<br/><div class="contheight"></div>众所周知，集中供暖的房子要交取暖费，但住户交的取暖费覆盖不了全部成本，城里的暖气是有补贴的。<br/><div class="contheight"></div>北方比南方更冷，农村比城市更穷，但这么多年下来，北方农村却享受不到任何形式的取暖补贴。这显然是一种不平等。<br/><div class="contheight"></div>近年来，北方农村的取暖问题开始浮出水面，但是被环保议题倒逼出来的。比如一些地方煤改气、煤改电工作不到位，却盲目禁止烧散煤，导致居民挨冻。有的地方甚至传出“村民烧散煤被拘留”的消息，引得舆论大哗。<br/><div class="contheight"></div>不知道这次农户烧玉米芯取暖与当地的煤改气、煤改电有没有关系。但2017年菏泽市曾下发《冬季清洁供暖气代煤电代煤工程实施方案》，提出“2018年底基本完成气代煤电代煤工程”。<br/><div class="contheight"></div>对农村人来说，环保不是优先议题，以最低成本温暖过冬才是首要的。跟烧玉米芯取暖的人谈PM2.5，是很难取得共识的。但是大气污染治理是全国一盘棋，离不开农村能源结构的改变。只不过在政策制定与实施的过程中，必须充分考虑到农村人的收入水平与消费习惯。<br/><div class="contheight"></div>安全过冬、温暖过冬是第一位的，只能在此前提下去追求环保效果。煤改气、煤改电之后，如果补贴后的成本仍然比烧煤贵出许多，那么这些工作终究归于徒劳。清洁煤推广乏力也是因为价格高，而且不耐烧。<br/><div class="contheight"></div>一氧化碳中毒是因为不开窗，而不开窗不仅是因为缺乏安全常识，更因为农村人穷，不舍得让宝贵的那点热气散出去。有些是真穷，有些是过去穷怕了之后的过度节俭。这就是当下无数北方农村人的真实处境。<br/><div class="contheight"></div>北方农村的冬天太“冷”。空气治理不应该再让农村人承担额外的成本，而应该以煤改气、煤改电为契机，在广大农村建立福利型的供暖机制。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 取暖 北方农村</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2746285">
+<div class="nbgbox">
+<a class="zan" contid="2746285" href="javascript:;" onclick="voteCont(this)" praisetimes="830">
+                           829</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 取暖</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2746285&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2746285&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（106）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

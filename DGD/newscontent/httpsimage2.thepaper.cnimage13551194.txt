@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25435">金改实验室</a>
+</div>
+<h1 class="news_title">银保监会：批准建设银行、中国银行设立理财子公司申请</h1>
+<div class="news_about">
+<p>澎湃新闻记者 陈月石</p>
+<p>
+							2018-12-27 13:18<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">虽然股份制银行在申请上抢了先，但国有大行们是理财子公司最早的尝鲜者。<br/><div class="contheight"></div>12月27日，银保监会发布消息称，12月26日正式批准中国建设银行、中国银行设立理财子公司申请。银保监会同时表示，其他多家商业银行也正在抓紧开展申报理财子公司工作。<br/><div class="contheight"></div>按照《商业银行理财子公司管理办法》规定，银行理财子公司机构设立须经筹建和开业两个阶段。在获得银保监会的批准申请后，银行理财子公司有6个月的筹建期，并在期限届满前提交开业申请，而正式开业，则由作为控股股东的商业银行向银保监会提交申请，由银保监会受理、审查并决定。<br/><div class="contheight"></div>中国银行和建设银行是国有四大行中最早决定成立理财子公司的。<br/><div class="contheight"></div>11月15日晚，中国银行（601988.SH，03988.HK）发布公告称，拟出资不超过人民币100亿元发起设立全资子公司中国银行理财有限责任公司（最终以监管机构认可及工商登记机关核准的名称为准），注册地拟为北京，中国银行持股比例为100%。<br/><div class="contheight"></div>一天之后，中国建设银行（601939.SH，00939.HK）发布公告称，该行拟设立建信理财有限责任公司（建信理财），注册资本不超过150亿元，为建行全资子公司，注册地放在广东省深圳市。<br/><div class="contheight"></div>目前，包括国有五大行（工、农、中、建、交）、8家在A股上市的股份制银行(招商银行、兴业银行、浦发银行、中信银行、光大银行、民生银行、平安银行、华夏银行)以及北京、宁波、南京、杭州等上市城商行都已经公布称拟理财子公司。其中，出资最多的是工行，为160亿元。<br/><div class="contheight"></div>12月2日晚间，银保监会发布《商业银行理财子公司管理办法》，商业银行可以结合战略规划和自身条件，按照商业自愿原则，通过设立理财子公司开展资管业务，也可以选择不新设理财子公司，而是将理财业务整合到已开展资管业务的其他附属机构。商业银行通过子公司展业后，银行自身不再开展理财业务（继续处置存量理财产品除外）。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：胡志挺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780047">
+<div class="nbgbox">
+<a class="zan" contid="2780047" href="javascript:;" onclick="voteCont(this)" praisetimes="38">
+                           37</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 理财子公司</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780047&caid=25435",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780047&amp;caid=25435" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

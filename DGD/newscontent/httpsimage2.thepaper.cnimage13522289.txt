@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">代驾司机夜晚酒驾被扣12分：中午喝少量啤酒，心存侥幸</h1>
+<div class="news_about">
+<p>澎湃新闻记者 杨帆</p>
+<p>
+							2018-12-26 18:02<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">代驾司机也酒驾。<br/><div class="contheight"></div>12月26日，澎湃新闻（www.thepaper.cn）记者从上海警方获悉，代驾司机赵某因酒后驾驶机动车被松江警方处罚，驾驶证记12分、暂扣6个月、罚款1500元的处罚，且因其证照为B照，还将面临被降级的处罚。<br/><div class="contheight"></div>据松江警方介绍，12月18日20时许，松江警方在九亭镇雪家桥路亭场路附近设卡查处酒驾，在对一辆棕色越野车进行例行检查时，发现车内有一股浓重的酒味。此时，一名身穿蓝色马甲的代驾司机赵某摇下车窗自觉配合民警的酒精测试。<br/><div class="contheight"></div>民警对赵某进行检测后，酒精快速检测仪的红灯立即闪烁起来，显示赵某有酒后驾车的嫌疑。随后，民警立即要求赵某下车配合进一步酒精测试，最终结果显示赵某血液酒精含量为33mg/100ml，属于酒后驾驶机动车。<br/><div class="contheight"></div>经询问，赵某自称其中午喝了少量啤酒，心存侥幸，认为时隔七八小时应该没有什么影响，便晚上接起了代驾订单。<br/><div class="contheight"></div>目前，赵某因酒后驾驶机动车，被警方处以驾驶证记12分、暂扣6个月、罚款1500元的处罚，且因其证照为B照，还将面临被降级的处罚。<br/><div class="contheight"></div>车主张先生告诉记者，他也是第一次叫代驾司机碰上喝酒的，“没想到代驾司机也会喝完酒开车，这种代驾行业的工作者更应该做到酒后不驾车。”<br/><div class="contheight"></div>警方提示：时至年末岁初，代驾司机更应具备“开车不喝酒，喝酒不开车”的交通安全意识，杜绝交通违法，确保道路交通秩序安全、文明、有序。同时，代驾企业应加强行业驾驶人交通安全教育，落实企业主体责任。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王维佳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 酒驾,代驾司机,上海</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776735">
+<div class="nbgbox">
+<a class="zan" contid="2776735" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 酒驾</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776735&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776735&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">日本拟于明年派遣海上自卫队舰船访华，外交部回应</h1>
+<div class="news_about">
+<p>刘玲玲/人民日报客户端</p>
+<p>
+							2018-12-26 16:05<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">人民日报客户端消息，12月26日，外交部发言人华春莹主持例行记者会。<br/><div class="contheight"></div><strong>问：据报道，日本政府正考虑于2019年4月派遣海上自卫队舰船访华，参加在青岛举行的中国海军成立70周年海上阅兵，日本政府还可能邀请中国军舰于明年秋季赴日参加日本海上自卫队海上阅兵。请问中方对此有何评论？<br/><div class="contheight"></div>答：</strong>防务关系是中日关系一个重要的组成部分。今年是中日和平友好条约缔结40周年。双方的防务部门加强交流和沟通，<strong>有利于妥善地管控双方的分歧，增进安全互信，推动构建建设性的双边安全关系，可以为中日关系持续改善和长期健康稳定发展注入正能量。我们欢迎双方防务部门加强沟通和交流。</strong><strong>至于你提到的具体的双方舰艇互访的情况，请你向中国的国防部去了解。</strong><br/><div class="contheight"></div>（原题为《日本拟于明年派遣海上自卫队舰船访华，外交部回应》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 日本,海上自卫队,访华</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776612">
+<div class="nbgbox">
+<a class="zan" contid="2776612" href="javascript:;" onclick="voteCont(this)" praisetimes="692">
+                           691</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 外交部例行记者会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776612&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776612&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（213）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

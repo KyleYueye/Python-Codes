@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜电诈人员子女禁读公办学校，是以违法治违法</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-09-21 11:34<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据安溪县广播电视台报道，9月18日上午，安溪县召开扫黑除恶专项斗争暨赴境外诈骗流出地专项整治“百日会战”誓师大会。誓师大会上提出“五个一律”：<br/><div class="contheight"></div>一律拆除赃款建房、追缴涉案款项；一律不允许子女就读公立学校；一律停止城乡居民医保财政补助；一律列入失信人员名单,限制坐动车、坐飞机、住宾馆等高消费行为；一律停止县级所有政策性补贴及向上项目补助申请。<br/><div class="contheight"></div>其中“一律不允许子女就读公立学校”这条引起很大争议。<br/><div class="contheight"></div>2016年震惊全国的“徐玉玉案”破获后，安溪就“扬名”了，6名嫌犯中3名来自安溪县。据媒体报道，当时安溪召开千人大会，以雷霆之势重拳打击电信诈骗犯罪，取得明显成效。但短短一年，安溪又被国务院部际联席会议列为“赴境外诈骗窝点作案人员流出地重点整治地区”。这便是此次誓师大会的背景。<br/><div class="contheight"></div>安溪急于摘掉电信诈骗的帽子，心情可以理解。扫黑除恶既是中央部署也是民心所向。但是禁止电诈人员子女就读公办学校是典型的以违法治违法，不具备任何合理性。<br/><div class="contheight"></div>《义务教育法》规定：“国家、社会、学校和家庭依法保障适龄儿童、少年接受义务教育的权利。” 子女的受教育权利怎能成为惩治父母的手段？这是赤裸裸的株连。<br/><div class="contheight"></div>有人说，电信诈骗人员有那么多不义之财，不能再让他们占社会的便宜，不狠一点怎么行？殊不知，这种歪理如果成立，相当于默认了嫌犯无法抓获，赃款无法追缴。<br/><div class="contheight"></div>此外，关闭公立学校的大门，是逼着这些父母“挣钱”供孩子上私立学校吗？还是逼着这些孩子早早辍学，跟着亲属学做“生意”？真不知道这是铲除犯罪土壤还是培育犯罪土壤。<br/><div class="contheight"></div>一味求狠，不顾法治基本原则，并不能带来善治。早在2004年，就有媒体报道，安溪是我国手机短信诈骗的“大本营”。这些年来，当地搞这种口号震天响的运动式治理，不知有多少回了。结果呢？<br/><div class="contheight"></div>不是反对株连子女的人太天真，而是迷信“狠就是好”的人太天真。<br/><div class="contheight"></div>其实与禁止电诈人员子女就读公立学校相比，一些地方禁止“老赖”子女就读高收费私立学校的做法是更合理的，也不违法治。请安溪县有关部门参考。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 扫黑除恶 电信诈骗 法治</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2463070">
+<div class="nbgbox">
+<a class="zan" contid="2463070" href="javascript:;" onclick="voteCont(this)" praisetimes="500">
+                           499</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 电信诈骗</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2463070&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2463070&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（200）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

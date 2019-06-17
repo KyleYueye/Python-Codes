@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">郭声琨：奋力推动新时代法治中国建设开辟新局面</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-09-08 19:49<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="351" src="http://image.thepaper.cn/www/image/10/286/245.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">座谈会现场。正义网 郝帆 摄</span><br/><div class="contheight"></div>新华社北京9月8日消息，中央全面依法治国委员会办公室当日召开法学法律界专家座谈会，深入学习领会习近平总书记在中央全面依法治国委员会第一次会议上的重要讲话精神。中共中央政治局委员、中央政法委书记、中央全面依法治国委员会办公室主任郭声琨强调，要以习近平总书记全面依法治国新理念新思想新战略为指引，增强“四个意识”、坚定“四个自信”，奋力推动新时代法治中国建设开辟新局面。<br/><div class="contheight"></div>座谈会上，与会法学专家学者畅谈了学习习近平总书记重要讲话精神的体会。<br/><div class="contheight"></div>郭声琨指出，习近平总书记关于全面依法治国的新理念新思想新战略，是习近平新时代中国特色社会主义思想的重要组成部分，创造性地丰富和发展了中国特色社会主义法治理论，是马克思主义法治思想中国化的最新成果，是深化全面依法治国实践的根本遵循。要把学习宣传贯彻习近平总书记关于全面依法治国的新理念新思想新战略作为重要任务，坚持党对全面依法治国的集中统一领导，紧紧围绕习近平总书记提出的全面依法治国七项重点工作，立足新时代、找准着力点、推进新实践，加快建设中国特色社会主义法治国家。广大法学法律工作者要自觉做中国特色社会主义法治道路的践行者、中国特色社会主义法治理论的发展者、新时代法治中国建设的推动者、高素质法治人才的培养者，在全面依法治国伟大实践中创造新业绩、作出新贡献。<br/><div class="contheight"></div>（原题为《郭声琨在与法学法律界代表座谈时强调 学习贯彻习近平总书记全面依法治国新理念新思想新战略 奋力推动新时代法治中国建设开辟新局面》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 郭声琨,法学法律界专家座谈会</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2422409">
+<div class="nbgbox">
+<a class="zan" contid="2422409" href="javascript:;" onclick="voteCont(this)" praisetimes="80">
+                           79</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 郭声琨</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2422409&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2422409&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

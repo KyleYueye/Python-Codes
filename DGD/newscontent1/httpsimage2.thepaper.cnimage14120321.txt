@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25437">牛市点线面</a>
+</div>
+<h1 class="news_title">江西首只纾困基金完成备案：备案规模30亿元，首期已募6亿</h1>
+<div class="news_about">
+<p>证监会江西监管局</p>
+<p>
+							2019-01-10 16:58<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">江西辖区首只纾困基金“江西国资创新发展基金”在江西局指导规范和沟通协调下，于2019年1月8日在中国证券投资基金业协会完成备案，基金备案规模30亿元，首期已完成6亿元的募集，并将于近期投放市场。<br/><div class="contheight"></div>2018年江西省局开展了全面风险排查工作，将股票质押平仓风险和债务风险作为防范金融风险攻坚战的核心，局领导带队深入南昌、赣州等地进行摸排和“把脉”，将实地调研中了解到的实际情况如实向上级部门汇报、积极和地方政府沟通，建立和完善了常态化风险摸排机制，通过定期报告、事后审查为抓手，着重以关注公司经营风险、规范运作风险以及质押平仓风险等作为日常监管工作重点，加强风险跟踪的频度和监管力度，对于暂时遇到困难的上市公司，积极协调政府做好纾困工作，防范和化解金融风险。<br/><div class="contheight"></div>下一步，江西省局将积极指导和帮助纾困基金开展对我省上市企业纾困的工作，在做好内幕信息防控的前提下，持续做好政策、法律法规、业务操作规程等方面的咨询服务，规范信息披露、停复牌等相关事项。积极对接各类投资机构共同参与，发挥他们的资本优势，撬动更多的市场化资金，解决优质企业的流动性问题。<br/><div class="contheight"></div>（原标题为：江西局指导辖区首只纾困基金完成备案）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陈宇曦<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 纾困基金</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837067">
+<div class="nbgbox">
+<a class="zan" contid="2837067" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 纾困基金</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837067&caid=25437",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837067&amp;caid=25437" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

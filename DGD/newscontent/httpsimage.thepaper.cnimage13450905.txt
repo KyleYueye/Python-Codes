@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">发改委：除国家重大战略项目外，全面停止新增围填海审批</h1>
+<div class="news_about">
+<p>杨丽娟 雷崔捷/人民日报客户端</p>
+<p>
+							2018-12-24 13:15<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据人民日报客户端12月24日消息，2018年12月24日上午，十三届全国人大常委会第七次会议在京举行，听取国务院关于发展海洋经济加快建设海洋强国工作情况的报告。<br/><div class="contheight"></div>谈及海洋经济发展和海洋强国建设时，国家发展和改革委员会主任何立峰在报告中指出，严格保护海洋资源，加强海洋生态环境保护和监管，严守生态红线，强化整治修复，坚决打好渤海综合治理攻坚战。积极应对海洋垃圾和塑料问题，提高重大海域污染事件应急处置能力。实施最严格的围填海管控措施，除国家重大战略项目外，全面停止新增围填海审批，加快处理围填海历史遗留问题。加强海岸线保护修复，优化近岸海域开发布局，科学控制开发强度，逐步构建陆海统筹、区域联动的海洋生态环境保护修复和污染联防联控机制，形成绿色可持续的海洋生态环境，努力实现人海和谐。<br/><div class="contheight"></div>（原题为《发改委：全面停止新增围填海审批》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 发改委,围填海</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768481">
+<div class="nbgbox">
+<a class="zan" contid="2768481" href="javascript:;" onclick="voteCont(this)" praisetimes="31">
+                           30</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 发改委</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768481&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768481&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

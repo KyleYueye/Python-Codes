@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25433">地产界</a>
+</div>
+<h1 class="news_title">瑞银：这轮楼市调整周期比之前温和，房企资产负债表比较健康</h1>
+<div class="news_about">
+<p>澎湃新闻记者 计思敏</p>
+<p>
+							2019-01-08 20:50<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月6日，瑞银中国/香港房地产投资研究部主管林镇鸿在“第十九届瑞银大中华研讨会—中国房地产行业展望”媒体见面会上表示，“我们对于房地产行业比较看好。”<br/><div class="contheight"></div>对于一线二线和三四线城市销售的判断，林镇鸿表示，2019年基本上判断三四线销售面积大概会跌5%左右，一二线大概率平稳。对于房价而言，我们预测2019年三四线城市房价大概会跌5个点左右，一二线城市相对比较平稳。从全国的销售，或者一手房的成交量来看，大概是跌四个点左右。<br/><div class="contheight"></div>其指出，上述判断基于两方面，一方面在过去半年，三四线需求主要有两大部分组成，一部分是棚户区改造，另一部分更多的是投资的需求。投资需求在2016、2017、2018年上半年还是比较火爆的，可能基于一二线城市的需求外溢，因为当时一二线城市房价还是往上涨。不过目前来看一二线城市已经没有上涨的动力。所以这种投资需求短期或者近期已经没有了。而投资需求可能在2019年也不太会发生，发生的前提应该是一二线城市房价上涨。因此，三四线城市是比较后周期的市场。<br/><div class="contheight"></div>“全国一二线城市房地产限购政策都非常严。我们看到2016、2017年很多需求都被压下去，需求释放的空间，可能也是从地方政府相对稍微调整了一下地方的楼市政策来拉动需求。另外近期按揭利率有所松动，这对于房地产而言也是利好。总的来讲，这次周期比之前相对温和，开发商资产负债表比较健康，另外行业库存，包括开发商手里的库存压力，也比之前要少一点。因此我们对整个房地产行业包括房地产股票相对看好。” 林镇鸿说道。<br/><div class="contheight"></div>瑞银证券中国/香港中小盘研究主管、房地产及教育行业分析师谌戈则表示，去年影响大家情绪的主要因素是政府对于房地产的态度。但是从地方政府的角度而言，大部分中国的地方政府、地方城市主要依靠土地财政。去年一直到7月份之前，政府对于房地产的口风都很紧，但是从10月份之后，包括年底之前的经济工作会议，可以看到强调房价下降的字眼已经没有了，而是提出“因城施策”，这也是把政策操作的空间留给地方政府，根据实际情况来做改变。<br/><div class="contheight"></div>谌戈指出，2019年从政策环境来讲，即使不是大规模放松，但是边际改善还是有的，我们认为房地产今年还是比较乐观的，房地产股可能会跑赢整个市场。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘秀浩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 房地产,楼市</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828846">
+<div class="nbgbox">
+<a class="zan" contid="2828846" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 房地产市场</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828846&caid=25433",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828846&amp;caid=25433" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

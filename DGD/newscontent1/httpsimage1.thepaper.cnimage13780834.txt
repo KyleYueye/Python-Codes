@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">英国工党领袖新年致辞抨击首相“彻底搞乱了脱欧”</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2019-01-01 11:24<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="444" src="http://image.thepaper.cn/www/image/13/780/844.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">杰里米·科尔宾(Jeremy Corbyn) 视觉中国 图</span><br/><div class="contheight"></div>英国最大的反对党工党领袖杰里米·科尔宾(Jeremy Corbyn)12月31日在新年致辞中，指责特雷莎·梅(Theresa May)政府内阁制造了“英国脱欧的彻底混乱”，将英国拖入危机。<br/><div class="contheight"></div>科尔宾在当日社交媒体上发表新年致辞时称，“执政的保守党把英国拖入了一场危机，把英国脱欧搞得一团糟。”他指责特雷莎·梅试图促成通过一份糟糕的“脱欧协议”。而这份协议令全国民众失望，不管他们是投票赞成“脱欧”的、还是投票赞成留欧的。<br/><div class="contheight"></div>新年伊始，即在新年致辞中向政治对手发出明确尖锐的抨击，英国媒体称为英国政坛近年来不常见。<br/><div class="contheight"></div>科尔宾在新年致辞中警告称，保守党执政八年破坏性的失败，给我们留下了一个分裂的国家，数百万人在艰难维持生计，太多人负担不起家庭基本开支，年长者被剥夺了应有的尊严，低收入者和失业者更是数不胜数。<br/><div class="contheight"></div>“我们不能再这样下去了。工党已准备好提供一个彻底的替代方案，来重建和改造我们的国家。”科尔宾表示，“英国各地人才济济，但我们正被一个长期以来只服务于少数特权阶层的体系所拖累。”<br/><div class="contheight"></div>科尔宾承诺，工党一直致力于创建一个“每个人才华都得到释放的社会”，从而团结这个“分裂”的国家。“我们将与少数权贵对抗，让社会财富公平分享，而不是被特权精英们囤积。”<br/><div class="contheight"></div>英国首相特雷莎·梅主张的“脱欧协议”，原定于12月11日在英国议会投票表决，因预计将遭到国会议员大多数反对，投票表决时间推迟到2019年1月14日。<br/><div class="contheight"></div>（原题为：《英国工党领袖新年致辞抨击首相“彻底搞乱了脱欧”》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：廖婧雯<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 英国，脱欧，新年致辞</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2801716">
+<div class="nbgbox">
+<a class="zan" contid="2801716" href="javascript:;" onclick="voteCont(this)" praisetimes="71">
+                           70</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 英国脱欧</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2801716&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2801716&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

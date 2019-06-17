@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评丨男子因邻居狗吠杀人，悲剧有无避免的可能？</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-10-11 12:30<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">10月10日，宁波市高新区梅墟街道蓝庭花园发生故意杀人案。@宁波高新公安 官方微博发布“警情续报”，所述案件前因后果引发网友激烈讨论。<br/><div class="contheight"></div>据警方介绍，犯罪嫌疑人王某某（男，46岁，江北区人，有固定职业，无犯罪和吸毒前科，尿样检测呈阴性，血液中未检出酒精成分）因邻居陈某家养的狗常吠影响其睡眠，多次交涉未果，心存怨恨，双方均未曾向有关部门反映和报警。10月10日下午18时40分左右，王某某因狗吠再次上门与陈某家交涉，未果后返回自己家长取刀进入陈某家中，捅向陈某及其丈夫、女儿、母亲四人。<br/><div class="contheight"></div>如此看来，这是一场因狗吠引发的命案。对于犯罪嫌疑人王某某，当然要严厉谴责。其行为是残忍、冷血、非理性的，也必将付出法律所要求的代价。<br/><div class="contheight"></div>这起案件的法律定性或许没有太多争论余地，但邻里矛盾激化成恶性杀人案件的过程，以及事后在网络上引发的讨论内容，有太多值得深思之处。<br/><div class="contheight"></div>我绝对无意为犯罪嫌疑人开脱，即便设身处地去想，我也不认为他的行为有任何可取之处。然而我们不得不正视，这起极端个案的背后有一些普遍性、结构性的诱因。为了社会的长治久安，必须思谋化解之道。<br/><div class="contheight"></div>在行凶杀人之前，王某某首先是一名受害者。狗吠影响睡眠说起来不是大事，但休息权也是人的正当权益，更不要说“多次交涉未果”给人精神造成的痛苦。<br/><div class="contheight"></div>“牙疼不是病，疼起来真要命”，何况这“牙”还不是自己的。<br/><div class="contheight"></div>有人说，邻里相处谁能没有个磕磕绊绊？这话没错，我们不是生活在真空中，难免对别人的生活空间产生侵害。但是侵害也分有理与无理，适可而止与得寸进尺，不同情形对人的心理影响是不同的。<br/><div class="contheight"></div>比如许多人都经历过邻居装修带来的噪音污染。假如邻居是在物业允许的时间段施工，那么你只能忍或许躲出去。但是如果邻居在节假日装修，在深夜装修，你就会想要去找对方理论。如果对方道歉、改正，一般人也就算了；如果对方推脱甚至威胁你，你的心态会如何变化，可想而知。<br/><div class="contheight"></div>装修尚属不得已的事。那么狗吠扰民有任何正当原因吗？<br/><div class="contheight"></div>最重要的是，一旦这类矛盾不能“私了”，应该有一个“公了”的渠道。<br/><div class="contheight"></div>警方指出“双方均未曾向有关部门反映和报警”，是指王某某在权益受到侵犯之后，并未穷尽“公了”途径。对于王某某，固然可以追问他为什么不报警。但我们都是有生活经验的人，不妨自问，在大多数地方，这种事报警会有用吗？<br/><div class="contheight"></div>总有人说社会上“戾气太重”，但很多戾气不是一开始就那么重的，而是无法得到有效化解而不断淤积、发酵直到爆炸。看到戾气爆炸的严重后果，就更要重视戾气积累的过程。<br/><div class="contheight"></div>社会矛盾的化解，不能只期待个人修养的提高，而要给当事人一个说理的地方。在那个地方，只要是正当权益都会受到保护，只要是侵犯他人正当权益的行为都会得到制止。不管是大是小，都应该有个是非对错。至少这应该是我们努力的方向。小怨不积，大祸才会减少。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 邻里矛盾 养狗 噪音扰民</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2518218">
+<div class="nbgbox">
+<a class="zan" contid="2518218" href="javascript:;" onclick="voteCont(this)" praisetimes="551">
+                           550</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 邻里矛盾</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2518218&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2518218&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（188）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

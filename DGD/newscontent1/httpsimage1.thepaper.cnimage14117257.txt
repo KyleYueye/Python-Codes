@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">荆门公园雕塑“拍照的狗头人”引争议被拆，官方：本意为有趣</h1>
+<div class="news_about">
+<p>澎湃新闻记者 钟煜豪</p>
+<p>
+							2019-01-10 14:44<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="448" src="http://image.thepaper.cn/www/image/14/117/263.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">荆门社区 图<br/><div class="contheight"></div></span>最近，湖北荆门市龙泉公园的一处雕塑引发关注。<br/><div class="contheight"></div>根据当地网友在论坛“荆门社区”发布的图片及描述，雕塑由三组“狗头人身像”构成，它们手上各持一个相机。有网友发帖称，该雕塑对于拍客们是莫大的侮辱，也有网友指出，拟人化雕塑比比皆是，这点见识和包容心都没有？<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="727" src="http://image.thepaper.cn/www/image/14/117/265.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">荆门社区 图</span><br/><div class="contheight"></div>对此，荆门市园林局在上述论坛回应道，龙泉公园所设立的动物拟人化情景雕塑旨在拉近人与自然的和谐关系，增加市民游园的趣味性。公园本就是一个在自然中活动的场所，里面包含动物、植物等自然因素，这种拟人化的情景雕塑无论是小狗、小熊或者青蛙等，其创作意图是将动物的千姿百态和人物行为相联系，加以夸张化处理，使得雕塑更具趣味性，同时也让市民感受到人与自然的和谐相处。<br/><div class="contheight"></div>荆门市园林局指出，此类情景雕塑并非荆门首创，国内外多有先例，既然部分市民朋友提出不同意见和看法，为避免不必要的争议，目前公园施工方已经将该处雕塑拆除。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王俊<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 荆门，拍照的狗头人，雕塑</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836617">
+<div class="nbgbox">
+<a class="zan" contid="2836617" href="javascript:;" onclick="voteCont(this)" praisetimes="77">
+                           76</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 拍照</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836617&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836617&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（467）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25438">财经上下游</a>
+</div>
+<h1 class="news_title">深圳机构改革：组建市委推进粤港澳大湾区建设领导小组办公室</h1>
+<div class="news_about">
+<p>澎湃新闻记者 韩声江</p>
+<p>
+							2019-01-10 21:45<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月10日，在深圳市委六届十一次全会对全市深化机构改革工作进行动员部署后，《深圳市机构改革方案》正式发布。深圳市设置党政机构53个，组建了市委推进粤港澳大湾区建设领导小组办公室。<br/><div class="contheight"></div>深圳市委推进粤港澳大湾区建设领导小组办公室为深圳市委推进粵港澳大湾区建设领导小组的办事机构，作为市委工作机关，与深圳市政府港澳事务办公室合署办公。<br/><div class="contheight"></div>此次改革，深圳市设置因地制宜的机构包括：市委军民融合发展委员会办公室、市委台湾工作办公室、市委推进粤港澳大湾区建设领导小组办公室、市委老干部局、市委保密委员会办公室、市委机要局、市人才工作局作为市委工作机关；市城市管理和综合执法局、市政府口岸办公室、市扶贫协作和合作交流办公室、市中小企业服务局、市社会组织管理局、市城市更新和土地整备局作为市政府工作部门。<br/><div class="contheight"></div>这次机构改革，深圳市根据城市发展特点和功能定位，聚焦推进粤港澳大湾区建设、精准扶贫等国家重大发展战略，聚焦军民融合发展、中小企业服务等重点领域，打基础、谋长远，因地制宜优化调整机构设置和职能配置，既充分体现中央战略意图，又反映地方需求和特色，不断增强经济特区体制机制吸引力和竞争力，为城市可持续发展提供坚实保障。如：组建市委推进粤港澳大湾区建设领导小组办公室，抢抓粤港澳大湾区建设重大机遇，充分发挥深圳在粤港澳大湾区建设中的核心引擎作用。<br/><div class="contheight"></div>广东省委副书记、深圳市委书记王伟中在2018年参加深圳市推进粤港澳大湾区建设领导小组召开第二次全体会议时强调，要抢抓粤港澳大湾区建设的重大历史机遇，积极谋划、狠抓落实，切实担当好粤港澳大湾区建设的重要职责。<br/><div class="contheight"></div>王伟中还强调，要以更宽广胸怀更大力度推进深港澳更紧密合作，加快建立完善与港澳对接合作机制，抓好重大平台、基础设施等建设，推动便利港澳居民政策措施落地。要对标最高最好最优，以国际视野、世界眼光，结合粤港澳大湾区实际，学习借鉴、深入研究国际一流湾区建设经验和国际通用规则，提升贸易投资自由化便利化水平，努力推动形成全面开放新格局。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李跃群<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2838023">
+<div class="nbgbox">
+<a class="zan" contid="2838023" href="javascript:;" onclick="voteCont(this)" praisetimes="75">
+                           74</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 粤港澳大湾区</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2838023&caid=25438",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2838023&amp;caid=25438" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">法治政府评估报告：八成地方政府及格，官网检索多为“摆设”</h1>
+<div class="news_about">
+<p>澎湃新闻记者 庄岸 实习生 孙小咪</p>
+<p>
+							2018-09-21 10:02<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">9月20日，中国政法大学法治政府研究院发布的《中国法治政府评估报告2018》（以下简称《报告》）披露，100个被评估城市的平均得分为654.34分（总分1000分），八成地方政府得分及格，深圳市、青岛市、广州市位列前三。不过，在政务公开问题上，仍然存在严重的形式化倾向，规范化亦不足。<br/><div class="contheight"></div><strong>八成地方政府评估得分及格，深圳第一</strong><br/><div class="contheight"></div>《报告》显示，排名前十位的城市依次为：深圳市、青岛市、广州市、苏州市、杭州市、上海市、北京市、南京市、宁波市和成都市。<br/><div class="contheight"></div>澎湃新闻注意到，本年度评估中指标调整较大，除了增加营商环境的法治保障作为一级指标外，在具体观测点上也更倾向于实施效果层面的考量，标趋于严格。《报告》称，虽然平均得分率较之2016年和2017年略有降低，但整体看还是小有进步，全国法治政府建设的发展趋势依然是稳步向好。<br/><div class="contheight"></div>《报告》同时指出，全国法治政府建设问题也较为突出：区域不平衡的现象客观存在，东部城市间的差距在加大，中西部城市间的差距出现缩小的迹象。<br/><div class="contheight"></div>根据2018年的评估显示，80个城市得分在600分以上。综合近三年评估的情况，可以得出的基本结论是，在全部被评估的100个城市中，有八成的城市达到了及格水平。<br/><div class="contheight"></div><strong>政务公开形式化严重，“随意化”回复信息公开申请</strong><br/><div class="contheight"></div>在2018年评估中，“政务公开”指标的平均得分为67.51分，有50个城市高于平均分，另有50个城市低于平均分。<br/><div class="contheight"></div>报告指出，我国当前几乎每个政府网站都设有网站检索的栏目，但当前地方政府的网站检索栏目多是“花瓶摆设”，存在严重的形式化倾向，无法进行一些简单的信息检索，从而导致群众查找、获取、检索政府信息的难度极大。<br/><div class="contheight"></div>与此同时，政务公开规范化还存在不足。评估结果显示，被评估城市在依申请公开方面依然存在信息申请回复随意化等问题。<br/><div class="contheight"></div>“随意化”表现之一是没有按照申请人要求的形式提供信息。《报告》显示，测评员在提出政府信息公开申请时，提出行政机关以书面形式回复。但在实际评测中，仍有一些地方行政机关违反《政府信息公开条例》规定，使用随意化的电话、短信等方式进行回复。<br/><div class="contheight"></div>例如，南昌市发改委用电话告知测评员本市无化解过剩产能的任务，无锡市发改委通过短信告知测评员所申请公开的事项。<br/><div class="contheight"></div>国务院办公厅《2017年政务公开工作要点》提出，进一步规范依申请公开答复工作，严格按照法定时限答复，增强答复内容针对性并明示救济渠道，答复形式要严谨规范。但评估结果显示，答复还存在文书没有编号，也没有提示救济途径的问题。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：卫佳铭<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 评估,法治,形式化</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2462714">
+<div class="nbgbox">
+<a class="zan" contid="2462714" href="javascript:;" onclick="voteCont(this)" praisetimes="31">
+                           30</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 法治政府</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2462714&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2462714&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">俄罗斯向谷歌开罚单，作为其未屏蔽要求被禁网页的惩罚</h1>
+<div class="news_about">
+<p>鲁金博/新华网</p>
+<p>
+							2018-12-12 21:31<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">俄罗斯联邦电信、信息技术和大众传媒监督局11日发布声明说，对互联网搜索巨头美国谷歌公司处以50万卢布（约合5.2万元人民币）罚款，作为对其拒绝接受被禁网页目录且未屏蔽被禁信息的处罚。<br/><div class="contheight"></div>俄媒体援引联邦电信、信息技术和大众传媒监督局局长扎罗夫的话说，如果谷歌公司不删除搜索结果中的非法信息，该局将对谷歌公司展开新的诉讼。<br/><div class="contheight"></div>根据俄罗斯法律规定，自今年10月1日起，进入俄市场的搜索引擎要接受一份被禁网页目录，并且屏蔽目录内的所有搜索结果。如违反该法律规定，将被处以50万至70万卢布罚款。<br/><div class="contheight"></div>俄联邦电信、信息技术和大众传媒监督局于10月底向谷歌公司发出信函，要求对方30天内连接俄罗斯联邦国家信息系统，后者包含被禁网页目录。该局要求谷歌在30天期限结束后的3天内开始通过联邦国家信息系统过滤搜索结果，但谷歌没有遵照执行。<br/><div class="contheight"></div>俄联邦电信、信息技术和大众传媒监督局称，将进一步监督谷歌今后在俄的搜索业务。<br/><div class="contheight"></div>（原题为《未屏蔽被禁网页 谷歌被俄罗斯开罚单》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 俄罗斯谷歌</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2732055">
+<div class="nbgbox">
+<a class="zan" contid="2732055" href="javascript:;" onclick="voteCont(this)" praisetimes="62">
+                           61</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 谷歌浏览器</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2732055&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2732055&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

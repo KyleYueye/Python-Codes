@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评丨违规转租的人，到底是怎么拿到公租房的？</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-08-31 15:13<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">一套原租金1700元的一居室公租房，转手往外一租，价格涨到了4900元。在房租上涨成为热议话题的当下，这个消息刺痛了不少人。<br/><div class="contheight"></div>近日，有媒体报道，我爱我家、中天置地存在违规转租公租房现象，通过中介租赁的部分租户却并不知情。事情曝光后，北京市朝阳区房管局责令两家企业涉案门店停业整顿，下一步将对两家企业的违规行为立案调查，一经查实坚决进行高限处罚。<br/><div class="contheight"></div>中介违规代理公租房，自然该罚。但如果误以为中介把房租从1700元涨到4900元“太黑心”，那就错了，因为中介并不能直接拿到公租房。公租房转租的乱象，中介是较不重要的一环。<br/><div class="contheight"></div>转租的责任首先在公租房的承租人。4900元应该是那个区域的市场价，1700元实质是政府补贴之后的优惠价。这些人赚的才是大头，中介赚的只是一笔中介费。<br/><div class="contheight"></div>这些违规转租的承租人当然要付出代价。根据官方通报，他们被解除合同，收回房屋，还要接受5年内不予配租配售保障性住房的处罚，并计入不良信用记录。<br/><div class="contheight"></div>同时有关部门严正声明：公租房严禁转租转借，发现一起，查处一起。但事情至此并不能算圆满解决。因为公租房转租不是新鲜事，2017年北京就严查过一回，事实证明效果有限。<br/><div class="contheight"></div>在我看来，最重要的问题是：这些违规转租的人，到底是怎么拿到公租房的？<br/><div class="contheight"></div>按照规定，只有没房的人才能申请公租房，那么这些人把公租房转之后，去哪儿住了呢？总不会流落街头吧。也就是说，他们的家庭条件很可能不具备申请公租房的资质，但他们还是申请到了。<br/><div class="contheight"></div>本该用来保障困难家庭的公租房，若成了一些人的牟利手段，才是最大的不公。<br/><div class="contheight"></div>严罚中介并不能解决问题，因为还有其他途径把房子转出去，比如租给身边的朋友。如果查得再严一些，他们干脆闲置，那也不代表公租房得到了有效利用。<br/><div class="contheight"></div>问题的源头在于公租房的分配环节。源头如果扭曲了，后面怎么严防死守都于事无补。因此要倒查公租房分配环节有没有疏漏或者猫腻。<br/><div class="contheight"></div>公租房的定位也值得反思。据了解，一些地方的公租房会向国有企业、重点企业倾斜，而这些的企业的职工本来就有较好的待遇。这就导致保障性住房没有流向最需要保障的家庭，成了某种形式的企业内部福利。<br/><div class="contheight"></div>其实用行政手段直接“分房子”，本身就容易出问题，一是近水楼台先得月，二是申请者的家庭条件难以掌握，三是申请者的实际需求千变万化。比如公租房转租可能有一种相对无辜的情况，某人申请到的公租房离单位较远，把公租房转出去再去单位附近租房住。<br/><div class="contheight"></div>因此除了加强资质审核这条路之外，将来的住房保障工作应该多采取货币化补贴的方式，比如给低收入家庭发“租房券”，让他们到市场上自己租房。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 公租房转租 住房保障</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2397704">
+<div class="nbgbox">
+<a class="zan" contid="2397704" href="javascript:;" onclick="voteCont(this)" praisetimes="141">
+                           140</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 公租房转租</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2397704&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2397704&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（40）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

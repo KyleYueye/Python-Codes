@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">加拿大多伦多等城市警方收到炸弹威胁，已紧急疏散人群</h1>
+<div class="news_about">
+<p>张森/央视新闻客户端</p>
+<p>
+							2018-12-14 07:47<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="436" src="http://image.thepaper.cn/www/image/13/181/414.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">收到炸弹威胁后，多伦多一处地铁站关闭。图片来自网络</span><br/><div class="contheight"></div>央视新闻客户端12月14日消息，当地时间13日下午，包括多伦多在内的多个加拿大城市的警方收到炸弹威胁。<br/><div class="contheight"></div>目前关于炸弹威胁的细节，警方还在调查当中，已经披露的信息包括：<br/><div class="contheight"></div>下午三点，多伦多警方在社交媒体上发布有关炸弹威胁的消息，同时开始疏散市中心重要地铁站人群，到下午三点半，紧急疏散完毕。<br/><div class="contheight"></div>加拿大接到炸弹恐吓的城市分别是：多伦多、卡尔加里、坎卢普斯等，从东部到西部多个城市。<br/><div class="contheight"></div>目前尚不确定加拿大发生的这些炸弹威胁是否与美国当天的炸弹威胁有关。<br/><div class="contheight"></div>（原题为《多个加拿大城市警方收到炸弹威胁，已紧急疏散人群》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 炸弹威胁,加拿大</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2738128">
+<div class="nbgbox">
+<a class="zan" contid="2738128" href="javascript:;" onclick="voteCont(this)" praisetimes="290">
+                           289</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 炸弹威胁</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2738128&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2738128&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（43）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

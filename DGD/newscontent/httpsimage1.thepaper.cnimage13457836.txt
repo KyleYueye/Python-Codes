@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25463">港台来信</a>
+</div>
+<h1 class="news_title">香港“保钓”成员遭日本“无理拘捕”，绝食抗议</h1>
+<div class="news_about">
+<p>汪梦唐/海外网</p>
+<p>
+							2018-12-24 16:56<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网12月24日消息，中国香港“保钓行动委员会”24日表示，在东京被拘捕的“保钓”成员正进行绝食，以抗议日本政府对他“无理拘捕”和在拘留中“不合理的待遇”，例如多日未能洗澡。<br/><div class="contheight"></div>据日本NHK早前报道，在纪念南京大屠杀81周年前夕，两名中国香港“保钓人士”12日在日本靖国神社外抗议，手持“勿忘南京大屠杀”横幅，要求日本政府承认罪行并承担责任，期间还焚烧了日本战犯东条英机的道具神主牌。日本警方随后逮捕两人，拘留至今。<br/><div class="contheight"></div>香港《明报》报道称，为两人辩护的日本律师表示，警方虽称两人不法侵入且有“纵火”嫌疑，但抗议行为发生在建筑外，且不具有任何破坏性，不法侵入和“纵火”不成立。“保钓行动委员会”则表示，两人没有违反日本任何法律，只是在展示抗议横幅，表达诉求。<br/><div class="contheight"></div>14日，外交部曾表示，我们注意到了有关情况，已向日方表达关切。中方敦促日方妥善处理此事，确保有关人员合法权益。同时，我们希望日方本着以史为鉴、面向未来的精神，切实正视和反省历史，以实际行动取信于亚洲邻国和国际社会。<br/><div class="contheight"></div>（原标题《香港“保钓”成员遭日本无理拘捕 绝食抗议》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 保钓行动委员会</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2769210">
+<div class="nbgbox">
+<a class="zan" contid="2769210" href="javascript:;" onclick="voteCont(this)" praisetimes="27">
+                           26</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 保钓行动委员会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2769210&caid=25463",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2769210&amp;caid=25463" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

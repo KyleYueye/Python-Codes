@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜家长抱怨就开除学生，到底谁在制造“负面影响”？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 默城</p>
+<p>
+							2018-08-30 15:43<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2393143" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜家长抱怨就开除学生，到底谁在制造“负面影响”？" src="//image1.thepaper.cn/image/10/16/422.gif"/>
+</a>
+<div class="atlas_360_txt">河北一学校宿舍挤30多名学生：家长网上抱怨，学生被开除<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard"> “超级大班”的事刚过，30多人的“超级宿舍”又来了。不过，让河北曲阳实验学校多名学生家长郁闷的是，因为家长在微信群里对学校住宿条件的抱怨，学生们受到“负面言论”影响，被学校开除。（中国青年报，8月30日）<br/><div class="contheight"></div>报道中，被开除的学生仍处于义务教育的阶段。根据我国《义务教育法》的规定，义务教育是一切适龄儿童依法享有平等接受义务教育的权利。在义务教育阶段，学校不得开除学生。这一点是我国基础教育的底线，也是每一个学校必须严格坚守的红线。河北曲阳实验学校开的做法，只怕法律第一个不答应，即便你是民校。<br/><div class="contheight"></div>再来看具体原因。学校称，这些家长在学校群里说了不该说的话，给学校带来了严重的负面影响。家长方则表示，所谓“不该说的话”，就是对学生住宿条件的质疑，毕竟30多名学生挤一个宿舍，生活不便，还有安全隐患。另外，有家长发现家长群里的话，学校都能第一时间知晓，便在群里发布了“群里有学校的奸细”的言论，并骂了几句。 <br/><div class="contheight"></div>若家长方所言属实，第一，质疑学校的学生住宿条件差，期望整改，是家长的正当合理诉求，是在维护学生权益。学校只需正面回应，能整改就整改，有现实困难就主动与家长沟通，争取理解，何谈“负面影响”？反倒是学校开除学生的做法，让自己受到“负面影响”了吧？ <br/><div class="contheight"></div>第二，家长“群里有学校的奸细”的言论，表达上或有不妥，值得商榷，但也是依据现实做出的判断。即便学校真的觉得过分，大可理直气壮地要求家长道歉、消除不利影响。当时沉默，事后却开除学生，只会暴露学校处理此事已失去理性，只会激化矛盾。 <br/><div class="contheight"></div>学校和家长，是教育的重要两级。两者理应是友好合作、互相督促的关系。但现实中，一些学校无视家长的合理诉求不说，甚至都听不得家长一丁点的意见，动辄上升到“对学校有负面影响”“影响学校形象”的高度。更恶劣的是，以开除学生为筹码，逼迫家长就范。很多人大概还记得，去年9月，江西赣州市于都县16岁少年刘文展，因连续投诉学校补课收费之后遭劝退。 <br/><div class="contheight"></div>虽然在媒体报道及公众关注后，刘文展和此次被开除的学生都回到了学校，家长对于宿舍的诉求也正在解决。但学校的态度和做法对相关学生和家长造成的伤害，不容忽视。更要看到，这家学校作为教书育人的场所，本身却做出了很坏的示范，其无视法律、漠视学生合法利益、拒绝与家长良好互动的言行，无一不暴露出其管理的任性和随意。 <br/><div class="contheight"></div>“一切为了学生”从来不是一句空口号。希望那些动不动就祭出“开除学生”大旗的学校能明白，在为学生好的目标上，家长和学校是高度一致的。没有家长会无缘无故地找学校麻烦，抹黑学校。对于家长们的意见建议，有则改之无则加勉即可。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 开除学生</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2394408">
+<div class="nbgbox">
+<a class="zan" contid="2394408" href="javascript:;" onclick="voteCont(this)" praisetimes="164">
+                           163</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 开除学生</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2394408&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2394408&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

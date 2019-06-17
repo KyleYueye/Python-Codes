@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国驻古巴大使馆人员遭“声波攻击”？英美科学家：蟋蟀而已</h1>
+<div class="news_about">
+<p>张霓/海外网</p>
+<p>
+							2019-01-07 11:54<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/997/457.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">当地时间2017年9月29日，古巴哈瓦那，美国驻古巴大使馆。据英国广播公司(BBC)当天报道，美国在遭受“声波攻击”之后，将其大部分工作人员从古巴大使馆撤出。 视觉中国 图<br/><div class="contheight"></div></span>自2016年底开始，美国驻古巴哈瓦那大使馆的大批工作人员称在家中和附近的酒店听到一种强烈噪音，随后抱怨出现了头痛，恶心以及听力丧失等症状，美方认为这些人员遭到了一种“神秘声波武器的攻击”。近日，英国和美国科学家公布了对这种噪音的研究结果，他们表示，“罪魁祸首”其实是一种蟋蟀。<br/><div class="contheight"></div>综合美国《纽约时报》及英国《卫报》报道，美国加州大学伯克利分校和英国林肯大学的科学家早前获得了相关音频文件。在经过分析研究后，他们认为这种引发热议噪音并没有那么神秘，真正来源是一种印度短尾蟋蟀。<br/><div class="contheight"></div>林肯大学感官生物学教授萨帕塔说：“这种声音绝对属于同一群体的蟋蟀。这种加勒比物种的叫声大约是7千赫兹，并且以非常高的速率进行传递，这会给人带来出现连续尖锐颤音的感觉。”<br/><div class="contheight"></div>萨帕塔和加利福尼亚大学教授斯塔布斯在科学数据库中搜索了与这段在古巴录音相匹配的昆虫声。他们发现，印度短尾蟋蟀的叫声与之相似，但并未完全匹配。考虑到美国外交官对噪音的描述因人而异，且这种声音不稳定，因此这两位科学家想到，差异可能是因为数据中的昆虫声是在野外录制，而外交官则是在室内录下了噪音文件。因此，科学家们改在室内播放野外录下的蟋蟀声音文件，鸣叫声经墙壁、天花板和底板反弹后，果然出现了类似的不均匀脉冲声，与美国外交人员在古巴录下的声音非常类似。<br/><div class="contheight"></div>尽管科学家们补充说，这并不意味着外交官就没有受到攻击，但研究结果无疑表明，此前被宣扬为“声波武器”的噪音是否会导致身体不适十分值得怀疑。<br/><div class="contheight"></div>加拿大麦吉尔大学的研究者波拉克认为，有关于神秘噪音来自于蟋蟀的研究结果是一个完全合理的解释。他补充说，虽然没有亲身体验过印度短尾蟋蟀的叫声，但他并没有听说过这种叫声会对人体造成伤害。“据我所知，除了偶尔会被吵得睡不着觉，没有人会因为蟋蟀的叫声而感到身体状况欠佳。”<br/><div class="contheight"></div>（原题为《美国外交官在古巴遇“声波攻击”？科学家：蟋蟀而已》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 古巴,美国,声波</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2823296">
+<div class="nbgbox">
+<a class="zan" contid="2823296" href="javascript:;" onclick="voteCont(this)" praisetimes="93">
+                           92</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 声波攻击</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2823296&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2823296&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（75）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

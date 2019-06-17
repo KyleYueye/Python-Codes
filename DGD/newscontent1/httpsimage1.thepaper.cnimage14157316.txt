@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=27911">健康中国</a>
+</div>
+<h1 class="news_title">国家卫健委：破解“看病贵”，主要要做“三医”联动改革</h1>
+<div class="news_about">
+<p>健康中国</p>
+<p>
+                            2019-01-11 09:39<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard">国家卫生健康委员会1月10日在国家卫生健康委新闻发布厅召开2019年首场例行新闻发布会，介绍2018年度卫生健康工作进展成效及2019年度卫生健康工作重点任务。<br/><div class="contheight"></div>国家卫生健康委新闻发言人、宣传司副司长<br/><div class="contheight"></div>胡强强<div style="text-align:center;"><img alt="" height="600" src="http://image.thepaper.cn/www/image/14/156/869.jpg" width="800"/></div>一是完善药品政策。刚才记者朋友提到，包括怎么样做好降价药品进医院工作，刚才专家也专门提到了这个问题。二是完善国家基本药物制度。三是加强公立医院管理。公立医院管理方面主要有几点，一是以建立现代医院管理制度为目标，更加注重质量效益，提高医疗质量。同时更加注重精细管理，提高效率。要继续扩大公立医院薪酬制度改革试点，综合考虑行业特点和工作付出等综合性的因素，来确定医务人员的薪酬水平。四是配合开展医保支付方式改革，这方面的工作也涉及到很多其他部门。<br/><div class="contheight"></div>来源：国家卫生健康委员会官方网站、中国网<br/><div class="contheight"></div>（原标题《胡强强：破解“看病贵”，主要要做“三医”联动改革》）<br/><div class="contheight"></div><br type="_moz"/></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2840492">
+<div class="nbgbox ">
+<a class="zan" contid="2840492" href="javascript:;" onclick="voteCont(this)" praisetimes="30">
+                                    29</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

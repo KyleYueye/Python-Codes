@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国政府“跨年”关门，民主党提出新预算方案</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2019-01-01 10:05<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">综合报道，当地时间12月31日，美国国会两党议员进行了形式性的会面，并没有就预算法案采取任何行动。因此，美国政府关门迈入2019年。<br/><div class="contheight"></div>美国总统特朗普在接受采访时指出，他将在白宫迎新年。他表示，作出该决定是为政府恢复运行做准备。<br/><div class="contheight"></div>特朗普称：“他们(民主党人)现在就可以来白宫。我作出了决定在白宫过圣诞节，我将在白宫迎新年。”<br/><div class="contheight"></div>特朗普12月31日上午呼吁民主党人士放弃节日休假并就预算进行表决，这可以结束约四分之一联邦部门的停摆。然而，参院和众院仅进行了短暂的形式性会面。<br/><div class="contheight"></div>即将夺回众院控制权的民主党人提出新的方案，计划为国土安全部通过一份2月8日截止的短期预算法案，并包括13亿美元的边境墙拨款。<br/><div class="contheight"></div>联邦政府从12月21日开始部分关门，白宫和议员们正在就特朗普的美墨边境墙拨款一事僵持不下。参院拨款委员会主席谢尔比日前警告说，因为协商仍处于僵局，政府关门可能还会持续非常长的时间。<br/><div class="contheight"></div>特朗普要求为建墙拨款50亿美元，众院共和党人在2月8日截止的短期预算法案中包含了该条款，但法案无法在参院获得通过。而从1月3日开始，新一届国会正式就职，民主党重新夺回众院控制权，这使得特朗普和共和党人损失了一项重要筹码。<br/><div class="contheight"></div>在佩洛西重掌议长议事槌后，民主党人预计会在预算法案上采取新的策略。他们会计划给国安部通过一份单独的、在2月8日截止的短期预算法案，其中对边境墙的拨款将维持现有立法的水平。而对于其他正面临关门的6个联邦机构，新的众院计划为它们通过9月30日截止的全财年预算法案。<br/><div class="contheight"></div>目前仍不清楚依旧由共和党控制的参议院会采取怎样的策略。<br/><div class="contheight"></div>（原题为：《美国政府“跨年”关门 民主党提出新预算方案》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：廖婧雯<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国，国会，民主党</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2801509">
+<div class="nbgbox">
+<a class="zan" contid="2801509" href="javascript:;" onclick="voteCont(this)" praisetimes="38">
+                           37</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美国政府关门</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2801509&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2801509&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

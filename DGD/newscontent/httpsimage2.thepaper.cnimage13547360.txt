@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25437">牛市点线面</a>
+</div>
+<h1 class="news_title">金财互联回应束昱辉参股：仅是财务投资人，与权健业务无交叉</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林倩</p>
+<p>
+							2018-12-27 11:11<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">权健集团遭遇深度质疑之际，权健集团创始人束昱辉参股的上市公司金财互联控股股份有限公司（金财互联，002530）的股价也出现波动。<br/><div class="contheight"></div>12月27日，金财互联开盘即下跌，盘中跌幅逾6%，截至澎湃新闻记者发稿，金财互联报7.27元/股，下跌4.97%。而在12月26日，金财互联也是开盘即下跌，至收盘跌3.16%，报7.65元/股。<br/><div class="contheight"></div>金财互联2018年三季报显示，束昱辉直接、间接持有金财互联的股份，与金财互联的实际控制人、董事长、总经理朱文明为一致行动人。<br/><div class="contheight"></div>12月27日上午，澎湃新闻致电金财互联证券办公室，其办公室工作人员表示：“投资我们公司的是束昱辉个人，而不是权健集团或旗下任何一家子公司，束昱辉以个人身份来投资，是单纯的财务投资人，不参加公司的运营和管理。”<br/><div class="contheight"></div>该工作人员称，如果束昱辉与朱文明在做表决时产生分歧，以朱文明的意见为准，两人是一致行动人，签署过一致行动协议，约定好表决意见是以朱文明的意见为准的。<br/><div class="contheight"></div>据该工作人员介绍：“目前公司有两方面业务，一是热处理业务，一是互联网财税业务，两个板块的任何人员、业务等各方面都与权健集团没有任何交叉。权健集团的一些事情对我们公司是没有任何影响的，目前运营正常。”<br/><div class="contheight"></div>最后该工作人员强调：“他只是财务投资人，我们有那么多的股东，只不过他的持有比例比较高而已。”<br/><div class="contheight"></div>2018年三季报显示，金财互联的控股股东为江苏权健东润投资管理有限公司，持股比例为19.75%，束昱辉个人直接持有金财互联5.43%的股份，束昱辉持有江苏权健东润投资管理有限公司23.99%的股份。<br/><div class="contheight"></div>束昱辉个人对金财互联的持股比例仍为5.43%，朱文明的持股比例为8.35%，两人为一致行动人关系。朱文明为金财互联的实际控制人、董事长、总经理。在金财互联的公告和年报中，并没有束昱辉的任职。<br/><div class="contheight"></div>天眼查数据显示，束昱辉担任法定代表人、高管或股东的公司共有36家，拥有实际控制权的公司有101家，这些公司大多涉及医药健康领域，也有涉足金融、足球、房地产、硬件等行业。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙扶<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 束昱辉、权健</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2779542">
+<div class="nbgbox">
+<a class="zan" contid="2779542" href="javascript:;" onclick="voteCont(this)" praisetimes="4">
+                           3</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 权健集团</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2779542&caid=25437",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2779542&amp;caid=25437" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

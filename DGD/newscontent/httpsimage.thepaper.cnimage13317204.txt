@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">俄男子商店排队时不满前排顾客太慢，将其打死后淡定离开</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2018-12-19 20:42<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网12月19日报道，据俄罗斯共青团报18日消息，俄罗斯莫斯科伊万捷耶夫卡的一家商店里发生了一起杀人案件。一名男子在结账时与女售货员交谈，迟迟不肯给后面排队的顾客让位，后面一个气急败坏的顾客冲上前将他暴打至死，凶手逃离犯罪现场时还从死者身上摸走了1000卢布（约人民币104元）。<br/><div class="contheight"></div><span style="color: rgb(128, 128, 128);"><div style="text-align:center;"><img alt="" height="225" src="http://image.thepaper.cn/www/image/13/317/190.png" width="400"/></div>死者照片</span><br/><div class="contheight"></div>俄罗斯联邦电视频道公布了商店的监控视频，摄像头记录了事件的全过程。死者帕维尔对着售货员喋喋不休，显然并不着急从收银台处离开。后面一个恼火的顾客走上前来，把帕维尔从收银台边推开然后掏出钱结帐。随后两人撕打起来，打斗中帕维尔摔倒了，暴躁的顾客开始用脚踢帕维尔的脸。没有人站出来阻止这场斗殴，帕维尔当场因伤势过重死亡。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="314" src="http://image.thepaper.cn/www/image/13/317/191.gif" width="560"/></div><div style="text-align:center;"><img alt="" height="314" src="http://image.thepaper.cn/www/image/13/317/192.gif" width="560"/></div><div style="text-align:center;"><img alt="" height="316" src="http://image.thepaper.cn/www/image/13/317/193.gif" width="560"/></div>凶手从帕维尔身上拿走了1000卢布，然后淡定离开现场。商店员工叫来救护车，但医生遗憾宣布帕维尔已经死亡。根据过程，该事件被认定为一起抢劫案。现凶手已被逮捕，他被证实是一名42岁的当地居民，来超市是为了买些食物庆祝假期，他的家里还有妻子和一个小女儿。 <br/><div class="contheight"></div>（原题为《暴躁！俄男子排队时因不满前排太慢 怒将其打死淡定离开》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 俄罗斯,排队,打死顾客</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2754055">
+<div class="nbgbox">
+<a class="zan" contid="2754055" href="javascript:;" onclick="voteCont(this)" praisetimes="180">
+                           179</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 俄罗斯</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2754055&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2754055&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（97）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

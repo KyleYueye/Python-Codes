@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">人民日报：中非友好牢不可破，抹黑言论只能落个溃灭结局</h1>
+<div class="news_about">
+<p>人民日报</p>
+<p>
+							2019-01-10 06:41<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">人民日报1月10日消息，“非中关系是团结友好、强劲有力的，也是互利共赢的”“非中双方是相互尊重、互利共赢、并肩前行的关系”“感谢中国在发展经济和改善民生方面给予的帮助”“对于有人抹黑非中合作，非洲朋友心里清楚谁才是真正的朋友”……近日，伴随中国外长新年首访非洲，世界听到非洲国家领导人对中非关系的高度评价和坚定支持。<br/><div class="contheight"></div>连续29年，中国外长开年首次出访选择非洲，这一优良传统体现了中国始终将非洲置于中国外交全局的重要位置，也体现了中非关系的高水平和特殊性。非洲国家对中非友好和中非合作的坚定信心再次表明，无论国际风云如何变幻，中非友好牢不可破。<br/><div class="contheight"></div>中非关系的这种特质，是中非双方在数十年的团结合作中形成的，是中非从来都是命运共同体的性质决定的。在2018年中非合作论坛北京峰会上，双方确定共筑更加紧密的中非命运共同体，为推动构建人类命运共同体树立典范，将中非关系在国际格局中的重要性提到了新的高度。全面落实2015年中非合作论坛约翰内斯堡峰会确定的中非“十大合作计划”后，中方宣布促进中非合作的“八大行动”，中非互利合作不断提质增效。新的一年，中非双方着力量身打造落实峰会成果的国别方案，将不断为中非关系强本固基。<br/><div class="contheight"></div>中非关系的这种特质，也是中非发展关系的特点决定的。“长期以来，中方尊重非洲独立、主权和文化，真心支持非洲发展，在国际舞台坚持多边主义，维护发展中国家利益。”塞内加尔总统萨勒的话颇具代表性。正如非洲国家所感受到的，中国在合作中坚持真诚友好、平等相待，义利相兼、以义为先，发展为民、务实高效，开放包容、兼收并蓄。这样的真实亲诚，让中非关系始终在高位运行，并在当前的国际格局中更具鲜明特征。<br/><div class="contheight"></div>中非关系的这种特质，将在中非加快共建“一带一路”的进程中得到进一步加强。在2018年中非合作论坛北京峰会上，中非双方确认将“一带一路”建设与非盟《2063年议程》和非洲各国发展战略对接。如今，37个非洲国家以及非盟与中国签署共建“一带一路”合作文件，非洲已成为“一带一路”国际合作的重要方向。今年4月，中国将举办第二届“一带一路”国际合作高峰论坛，非洲国家领导人“积极支持‘一带一路’倡议”“很高兴准备赴华出席”的明确态度，充分表明中非将在共建“一带一路”的进程中走得更近。<br/><div class="contheight"></div>根之茂者其实遂，膏之沃者其光晔。中非友好关系的基础不断夯实，友好合作的成果有目共睹。尽管个别国家出于零和博弈思维不时发表抹黑中非合作的无稽言论，但在事实面前只能落个溃灭的结局。非洲国家领导人每每遇到这种情况，都会主动站出来说公道话。卢旺达总统卡加梅日前就一针见血指出那些挑拨言论的伪善性，并明确表示中国与非洲的交往是好事。广袤的非洲大地回荡着这样的心声：欢迎中国，感谢中国！中国才是非洲真正的朋友，是非洲最重要的合作伙伴，是非洲发展最可信赖的伙伴……<br/><div class="contheight"></div>非洲应是各国合作的大舞台，不应是大国博弈的竞技场。正如联合国秘书长古特雷斯所说：“非洲的成功对世界的和平与发展至关重要，而与中国的合作对非洲的成功至关重要。”中非友好合作不断深化，不仅使中非双方受益，还将惠及整个世界。<br/><div class="contheight"></div>（原题为《中非友好牢不可破》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中非关系</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2834590">
+<div class="nbgbox">
+<a class="zan" contid="2834590" href="javascript:;" onclick="voteCont(this)" praisetimes="82">
+                           81</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中非关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2834590&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2834590&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

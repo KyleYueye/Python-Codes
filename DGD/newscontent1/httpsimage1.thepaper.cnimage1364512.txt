@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">沙特内阁“大换血”，王储权力据称未因卡舒吉事件被削弱</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-28 21:33<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="508" src="http://image.thepaper.cn/www/image/13/644/981.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">沙特国王萨勒曼 资料图<br/><div class="contheight"></div></span>三个月前沙特记者卡舒吉被杀一事引起国际社会关注，沙特国王萨勒曼27日宣布更换内阁成员，控制卡舒吉案的政治余波。<br/><div class="contheight"></div>据《华尔街日报》12月28日消息，82岁的沙特国王发布了一系列王室命令，任命王子阿卜杜拉(Abdullah bin Bandar)负责国民卫队，沙特国民卫队是该国安全部队的中坚力量。<br/><div class="contheight"></div>同时，前财政大臣阿萨夫(Ibrahim al-Assaf)将换下外交大臣朱拜尔(Adel al-Jubeir)，阿萨夫是沙特阿拉伯国家石油公司(Saudi Arabian Oil Co.)董事会成员。除此之外，国王还下令改组政治与安全委员会。<br/><div class="contheight"></div>《华尔街日报》认为，尽管卡舒吉被害后国际社会普遍批评沙特，沙特和美国的关系也因此而动摇，但沙特王室仍团结在王储萨勒曼的(Mohammed bin Salman)背后，国王不想削弱王储权力，而是通过为其安排与其关系密切的王子和经验丰富的顾问来巩固其地位。<br/><div class="contheight"></div>美国情报官员称，王储可能是卡舒吉被杀案的幕后主使，但沙特政府坚称，王储并未参与此事。<br/><div class="contheight"></div>兰德公司(Rand Corp.)专注中东的政策分析师Becca Wasser称，“从表面上看，内阁改组的力度似乎很大，但这些举措基本上是公关行为，王储仍然牢牢掌控着权力。”<br/><div class="contheight"></div>土耳其广播电视公司阿拉伯语频道（TRT Arabic）新闻主任阿塔斯持不同看法，他认为王储本来已拔除王室内部多位潜在竞争者，但卡舒吉命案让沙特的国际形象受挫，从内阁和安全机构改组的名单来看，沙特王室正重新建塑家族权力平衡。但阿塔斯强调，“这并不代表王储的政治前途会被牺牲，他还是十分亲近国王。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙语双<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 沙特,卡舒吉,沙特王储</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2789335">
+<div class="nbgbox">
+<a class="zan" contid="2789335" href="javascript:;" onclick="voteCont(this)" praisetimes="110">
+                           109</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 沙特王储</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2789335&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2789335&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

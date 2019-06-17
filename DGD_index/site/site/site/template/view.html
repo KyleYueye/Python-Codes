@@ -1,0 +1,83 @@
+{% include "header.html" %}
+<body>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <nav class="navbar navbar-expand-sm navbar-light bg-light">
+                <button class="navbar-toggler" type="button" data-toggle="collapse"
+                        data-target="#top-navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <a class="navbar-brand" href="/">
+                    <img alt="brand" src="/static/icon/news.svg" height="36"/>
+                    News Crucible
+                </a>
+                <div class="collapse navbar-collapse" id="top-navbar-collapse">
+                    <!--<ul class="navbar-nav">-->
+                    <!--<li class="nav-item active">-->
+                    <!--<a class="nav-link" href="#"><span class="sr-only">(current)</span></a>-->
+                    <!--</li>-->
+                    <!--</ul>-->
+                    <!--<ul class="navbar-nav ml-md-auto">-->
+                    <!--<li class="nav-item active">-->
+                    <!--<a class="nav-link" href="#">打赏<span class="sr-only">(current)</span></a>-->
+                    <!--</li>-->
+                    <!--</ul>-->
+                </div>
+            </nav>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-body">
+                    <div class="jumbotron card card-block">
+                        <h3>新闻标题：{{ news['data']['title'] }}</h3>
+                        <p>新闻来源：{{ news['data']['source'] }}</p>
+                        <div class="row">
+                            <div class="col-md-6 mx-auto">
+                                <p class="text-center">题图</p>
+                                <img class="rounded mx-auto d-block"
+                                     src="{{ static_url('img/' + news['data']['imgpath']) }}">
+                            </div>
+                        </div>
+                        <hr>
+                        <p>
+                            {{ news['data']['contents'] }}
+                        </p>
+                        <hr>
+                        <p>
+                            <span style="color:green">
+                                {{ news['data']['url'] }}
+                            </span>
+                            <a class="btn btn-primary btn-large"
+                               href="{{ news['data']['url'] }}">前往原网页</a>
+                        </p>
+                    </div>
+
+                    <hr style="color:black !important;">
+                    <div class="card">
+                        <h2 class="card-header text-center">相似新闻推荐</h2>
+                        {% for item in news_items[1:] %}
+                        <div class="row">
+                            <div class="col-md-12">
+                                <a href="{{ '/v?handle=' + item['data']['path'] }}">
+                                    <h3>{{ item['data']['title'] }}</h3>
+                                </a>
+                                <p>{{ item['data']['source'] }}</p>
+                                <p>
+                                    <span style="color:green">{{ item['data']['url'] }}</span>
+                                    <a class="btn btn-primary btn-large"
+                                       href="{{ item['data']['url'] }}">前往原网页</a>
+                                </p>
+                            </div>
+                            <hr>
+                        </div>
+                        {% end %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>

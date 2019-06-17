@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25435">金改实验室</a>
+</div>
+<h1 class="news_title">“国家账本”的启示：效率不足导致了中国的宏观杠杆率上升</h1>
+<div class="news_about">
+<p>澎湃新闻记者 蒋梦莹</p>
+<p>
+							2018-12-26 20:52<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2778027" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">“国家资产负债表”社会净财富437万亿，相当于美国的七成</span></a></img></p></div>
+<div class="news_txt" data-size="standard">12月26日，由国家金融与发展实验室、中国社会科学院经济研究所、中国社会科学出版社联合发布了《中国国家资产负债表2018》（下称“国家资产负债表”）。<br/><div class="contheight"></div><strong>产出效率不断下降</strong><br/><div class="contheight"></div>国家资产负债表显示，中国社会净财富与GDP之比自2000年的380%上升到2016年的590%，折射出产出效率不断下降。<br/><div class="contheight"></div>国际比较发现，财富收入比最大差距来自于非金融企业部门。中国非金融企业总资产与GDP之比，自2000年的280%上升到2016年460%。而英德均稳定在250%左右。2000年，中国的这一比例只略高于美英德，但2008年以后大幅攀升。<br/><div class="contheight"></div>非金融企业财富收入比过快上升有两个原因：一是无效投资。大量僵尸企业的存在，过去投资所形成的固定资产并非真正意义上的资产，仅是账面资产。这些无效资产，既推高了企业部门资产占比，也拉低了企业生产效率；二是财富积累方式。高储蓄带来高投资。投资拉动增长模式是中国财富积累主要形式，大量投资的结果只能形成企业部门大量资产存量。<br/><div class="contheight"></div>中国社科院经济研究所副所长张晓晶指出，财富收入比还有一个含义，它能解释为什么中国的宏观杠杆现在如此之高，但微观杠杆率却还比较温和。从公式来看，宏观杠杆就等于是微观杠杆率×财富收入比。如果中国的微观杠杆率跟国外相比处在同等水平，中国的财富收入比越高，宏观杠杆率就会越高，财富收入比是效率的衡量指标。换言之，<strong>最终是因为效率不足导致了中国的宏观杠杆率上升。</strong><br/><div class="contheight"></div><strong>高杠杆之困实为体制之困</strong><br/><div class="contheight"></div>张晓晶还表示，中国广义政府部门财富增速与债务增速基本持平（债务增速略高于财富增速），单从宏观杠杆率角度来谈政府债务风险是有所偏颇的。<br/><div class="contheight"></div>他强调称，中国的高杠杆之困实为体制之困。换言之，中国的高杠杆与以下体制因素有关：1.地方政府、国有企业的软预算约束与隐性担保；2.金融机构的体制偏好及背后的政府兜底幻觉；3.赶超冲动以及央行货币政策独立性不够，银行主导融资结构并非高杠杆的主因。<br/><div class="contheight"></div>政府虽然拥有120万亿净资产，可应对经济金融领域的“惊涛骇浪”。但考虑到地方隐性债务和养老金缺口，资产价格的顺周期性，以及僵尸国企形成的无效资产，需要对当前的政府资产净值持谨慎态度。<br/><div class="contheight"></div>长远看，不能满足于财富规模，存量财富的优化配置才是迈向高质量发展的关键。这包括减少政府对资源的直接配置，创新配置方式，更多引入市场机制和市场化手段，提高资源配置效率和效益。这也是从另一个角度来诠释存量改革。</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑景昕<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2778211">
+<div class="nbgbox">
+<a class="zan" contid="2778211" href="javascript:;" onclick="voteCont(this)" praisetimes="95">
+                           94</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国家资产负债表</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2778211&caid=25435",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2778211&amp;caid=25435" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

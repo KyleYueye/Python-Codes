@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">澎湃评论｜向改革者致敬</h1>
+<div class="news_about">
+<p>澎湃特约评论员 张涛甫</p>
+<p>
+							2018-12-17 18:55<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">人是历史的尺度。在四十年改革历史中，人是改革的尺度。离开人，改革也就失去了意义和方向。<br/><div class="contheight"></div>在改革的合力中，改革者是动力的提供者，引领改革进程，化解各类阻力，一路向前，成就四十年改革辉煌伟业，创造了中国发展奇迹。在此，我们要向四十年来亲历中国改革实践的所有改革者致敬！没有他们的接力推动和合力托举，改革大业就无法持续，辉煌的成就便无法告成。<br/><div class="contheight"></div>在此，我们首先要向总设计师邓小平致敬。正因有邓小平非凡的政治胆魄和智慧，才能把积弊丛生的中国，平稳导入改革的航道，确立了以经济建设为中心的发展战略，把中国引向快速发展的轨道。也正因邓小平的南方谈话，廓清了改革的迷雾。我们感谢邓小平为改革举旗定向，为开放擘画宏伟蓝图，没有他的高瞻远瞩、运筹帷幄，在关键节点上的掌舵把关，四十年的改革传奇也就难以成就。<br/><div class="contheight"></div>这四十年，是需要改革者，同时也成就改革者的伟大时代。时代风云际会，改革者应改革而生。四十年，造就了无数的改革者，他们就像满天星，汇聚成璀璨星河：年广久、步鑫生、张瑞敏、柳传志、马云……这些闪亮的名字，皆是改革所造就的。正因有这些站在不同时间节点和改革路段的改革者，有他们接力传递，各显神通，才把改革的星星之火，燃成燎原之势。<br/><div class="contheight"></div>每一个改革者的背后，都有意味深长的故事，都有各自的创业甘苦，也有各自的人生轨迹。虽然他们背景各异，秉性分殊，但他们有诸多“同类项”：<br/><div class="contheight"></div>他们有敏锐的嗅觉，对社会环境变化有精确的感知，有鹰隼般的洞察力和捕捉能力，善于把握稍纵即逝的机会；他们有强大的内心、超常的意志，具有超强的抗压能力，能逆水行舟，滚石上山，负重前行；他们有非凡的智慧，善于急中生智，化险为夷，长于临场发挥，披荆斩棘；他们视野开阔，思想不僵化，脑子不呆板，他们不拘泥于陈规旧窠，始终保持思想的活性和锐力，保持对未知的好奇。<br/><div class="contheight"></div>改革潮涨潮落，在不同的领域弄潮人也不可能永在潮头。有的改革者如彗星划过天际，有的改革者也曾遭遇挫折非议。各自的亮度不同，光照时间有别，但每一位改革者都不可或缺，他们在各自的位置上点亮自己，照亮他人，泽及社会，众星拱月，成就了中国改革的辉煌与璀璨。<br/><div class="contheight"></div>今天，我们向改革者致敬！为的是，他们为中国的改革大业奉献了光热和力量，为推动改革进程贡献了智慧和动力；我们向改革者致敬！为的是，我们的改革事业尚未完成。今天和明天，仍然需要更多改革者的智慧，改革进入下半场，实现“两个一百年”的目标，需要改革再出发。<br/><div class="contheight"></div>改革进入下半场，改革的海域更加辽远，改革的任务更加艰巨。深水作业，难度更大，对改革者的胆识、意志以及智慧构成极限挑战。改革尚未功成，改革者尚需努力。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2744543" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">澎湃评论｜四十不惑：方向更明确，步伐更坚定</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 改革开放四十年</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2747069">
+<div class="nbgbox">
+<a class="zan" contid="2747069" href="javascript:;" onclick="voteCont(this)" praisetimes="123">
+                           122</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 改革开放四十年</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2747069&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2747069&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

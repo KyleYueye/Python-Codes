@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25450">文化课</a>
+</div>
+<h1 class="news_title">上海三联书店最大实体店在北京开业</h1>
+<div class="news_about">
+<p>宰飞/上观新闻</p>
+<p>
+							2018-12-13 11:07<span> 来源：上观新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">上海三联书店最大实体店12月12日在北京开业。这也是上海三联书店第一次把实体店开到首都。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="338" src="http://image.thepaper.cn/www/image/13/143/611.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">上海三联书店READWAY揭牌仪式</span><br/><div class="contheight"></div>新店名为“上海三联书店READWAY”（下文简称READWAY，寓意为“阅读之道、成长之路” ），坐落于北京朝阳大悦城9层，集文化、艺术、社交于一体，面积近3000平方米。<br/><div class="contheight"></div>书店从青年人的精神需求、物质生活、文化社交、家庭亲子、休闲健康出发，精准提供内容和增值服务，致力于成为中国青年的文化发声平台。<br/><div class="contheight"></div>书店结合对青年人的心理与阅读习惯，将书籍类别细分为：三联荐读、生活美学、经济观察、历史新知、匠心创意、艺术设计、大师书房、青年思潮等，希望能精准筛选和推荐符合青年人调性的书籍。<br/><div class="contheight"></div>READWAY不仅仅是一家书店，更是创新文化场域和生活美学空间。书店启幕季，将呈现近百场文化活动。这里还荟萃了新型艺术零售空间、雪夜访戴文人茶生活空间等诸多艺术、生活和文化品牌。<br/><div class="contheight"></div>书店设计团队中有台湾诚品书店总设计师宋契德，2008年北京奥运会视觉设计师、清华大学博导陈楠教授，亚洲顶级新媒体设计师王之纲。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="398" src="http://image.thepaper.cn/www/image/13/143/612.jpg" width="600"/></div><div style="text-align:center;"><img alt="" height="398" src="http://image.thepaper.cn/www/image/13/143/675.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">上海三联书店READWAY内景</span><br/><div class="contheight"></div>上海三联书店的实体书店布局始于3年前。2015年9月，他们在上海青浦朱家角开出了第一家实体书店，定位为“旅行者的书房”。随后，在上海松江佘山文化绿洲，开了“山脚下的书店”，借助“山”的地理特征，为读者提供回归自然、享受慢生活的“三联之家”。在宁波和义路上开出的上海三联书店·筑蹊生活，被评为“2017中国最美书店”，后又入围“FRAME Awards 2019零售空间大奖”。2018年底12月，第二家READWAY上海三联书店将在上海新天地PLAZA开业，它将以艺术与时尚相结合为主题。<br/><div class="contheight"></div>当下实体书店零售局势并不乐观，而上海三联书店已有8家门店，并在持续扩大版图。每开一家实体书店，上海三联书店都追求与城市气质、读者需求相贴合。他们认为，模式千变万化终究是为了回归到以书为盈利点这条路上。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张喆<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 上海三联书店</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2733994">
+<div class="nbgbox">
+<a class="zan" contid="2733994" href="javascript:;" onclick="voteCont(this)" praisetimes="109">
+                           108</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 三联书店</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2733994&caid=25450",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2733994&amp;caid=25450" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

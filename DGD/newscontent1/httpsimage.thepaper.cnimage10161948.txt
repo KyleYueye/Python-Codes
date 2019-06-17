@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜有什么样的围观，就有什么样的自己</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-09-04 16:12<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近来强热点事件此起彼伏，一个接着一个。对于看热闹不嫌事大的人来说，吃瓜的好日子来了。但有些人的吃瓜姿势，着实令人不敢恭维。<br/><div class="contheight"></div>例言之，刘强东在美国因涉嫌性侵遭警方调查一事，在国内引起一波又一波舆论热潮。现在看来，刘强东会不会受到起诉还是一个未知数。但是与此事相关的各路“细节”“秘闻”以及八卦、段子仍在广泛流传。<br/><div class="contheight"></div>刘强东被舆论消费，在我看来没什么不妥，作为一个知名企业家、公众人物，这是他必须承受的代价。但是令我不解的是，竟然有那么多人津津乐道地编排刘强东的妻子章泽天。<br/><div class="contheight"></div>有人调侃她的身材，有人拿他编段子，有人散布她“不为人知的往事”。不少言论都是赤裸裸的人身攻击与性别歧视。起哄架秧子的人群里，不乏名人与大V。<br/><div class="contheight"></div>章泽天早年以一张照片走红，获得“奶茶妹妹”的网络称呼。而今虽已结婚生子，“奶茶妹妹”仍然与她如影随形。我记得，刘强东与章泽天恋情曝光时，网友就编过一波不友好的段子。而现在舆论狂欢再一次指向了她。<br/><div class="contheight"></div>请问在整件事情中，她做错了什么呢？即便真有什么事情发生，她也是受害者。然而有些吃瓜群众嗨起来之后，便顾不得这许多。你提醒两句，他便青筋暴出“反正不是什么好人”。<br/><div class="contheight"></div>尊重女性、保护弱者的常识，在吃瓜热情面前不堪一击。<br/><div class="contheight"></div>这种趋于下流的围观，虽然不触犯法律，但暴露了围观者的素养，也伤害了公共讨论的价值。这种现象在近来的许多热点事件中都有出现。<br/><div class="contheight"></div>热点事件成了免费的表演，舆论场则成为广大无边的看台，每出戏刚出来便人人争抢。不管台上是什么戏，主角是名人还是普通人，台下都热闹非凡，瓜子果皮遍地。<br/><div class="contheight"></div>有时候，台上的人不堪压力出了事故，台下才猛然惊醒，原来软刀子也能伤人。被观看的和观看的人一样，都是凡人。<br/><div class="contheight"></div>非理性的舆论狂欢没有赢家。在这个时代，每个人都有突然走红的可能，好事坏事就不得而知了。<br/><div class="contheight"></div>公共讨论应该聚焦于公共利益，不该成为脱缰的野马。与公共利益无关的讨论，参与的人再多，公共价值都是零。<br/><div class="contheight"></div>围观有许多种，理性的围观可以推动社会进步，而寻求低级趣味的围观有百害而无一利。如果让猎奇、宣泄的心态喧宾夺主，只会耽搁正经事的解决。<br/><div class="contheight"></div>往大了说，有什么样的围观，就有什么样的当下。往小了说，有什么样的围观，就有什么样的自己。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 围观 吃瓜群众</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2409076">
+<div class="nbgbox">
+<a class="zan" contid="2409076" href="javascript:;" onclick="voteCont(this)" praisetimes="488">
+                           487</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 围观</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2409076&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2409076&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（47）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

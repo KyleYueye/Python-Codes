@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">媒体：家暴引发离婚诉讼宜慎用冷静期，尊重受害方意愿是关键</h1>
+<div class="news_about">
+<p>王心禾/检察日报</p>
+<p>
+							2018-11-26 11:17<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">检察日报11月26日报道，11月25日《新京报》“我们视频”发布的一段视频引发热议：近日，董芳因不堪忍受丈夫家暴，向成都法院提交离婚二审上诉书。去年6月，董芳与丈夫产生争执，被施以暴行。事后她申请到法院的人身安全保护令。后来她提出离婚诉讼，经3次庭审，法院判决不离婚。法官称，要给双方冷静期。视频中，董芳以第一人称讲述了自己的遭遇，呼吁“法治给弱势群体以合理保护”，该视频下留言过万条。<br/><div class="contheight"></div>本想帮助当事人挽救婚姻，不想却被婚姻中的受害方视为不能合理保护自己的障碍，这样的结果一定不是制度设计者想看到的。婚姻状况冷暖自知，不加区别地推行“离婚冷静期”或有标准不明导致的适用偏差。对此，有关部门应重视。尤其是，在民法典分编草案中再提“离婚冷静期”后，如何把握适用的范围和力度，应得到立法意义上的规范。<br/><div class="contheight"></div>客观上讲，“离婚冷静期”对个人离婚自由构成一定程度的干预，这样的干预，初衷在于维护家庭婚姻稳定、子女权益、社会稳定等，被认为是挽救冲动型离婚的一项有效制动。如果从干预自由的正当性上考虑，家庭婚姻稳定和子女权益方面的得失，实际上无法一概而论，需要因案而异、具体分析，而对于社会稳定的意义，或许同样需要一个长期的、综合的和基于心理学角度和个体行为数据的分析才能给出。因遭受家庭暴力提出离婚的情形尤其值得深入分析。<br/><div class="contheight"></div>“家庭成员之间以殴打、捆绑、残害、限制人身自由以及经常性谩骂、恐吓等方式实施的身体、精神等侵害行为”，是家庭暴力的法律定义。如果说精神上暴力需要借助手段才能得出准确判断的话，对身体上的侵害是否构成家庭暴力则一目了然。因此，对家暴离婚案，是否适用离婚冷静期，需要梳理。<br/><div class="contheight"></div><strong>首先，坚持法律效果与社会效果的有机统一。</strong>根据民诉法规定，判决不准离婚与调解和好的离婚案件，没有新情况、新理由，原告在六个月内又起诉的，不予受理。司法实践中此类情况并不少见，这是否与冷静期重复？同时，反家暴法颁布后，有两句口号深入人心：“家暴不是家事”“家暴不能忍，只有零和无数次区别”。在家暴并不罕见，而在求助法律尚不多见的当下，如果证据足够充分，法律上选择将受害人再次推入冷静期，从鼓励反抗暴力和保护受害者尤其是子女角度考虑，并不合适。这可能令受害者度日如年，更加无助和绝望，不符合反家暴法的宗旨。<br/><div class="contheight"></div><strong>其次，司法本质是定分止争。</strong>对于冲动型离婚案而言，通过冷静和调解，或有助于双方重拾守护婚姻的信念，而对家暴情形而言，如果受害方坚持，离婚或是给予受害方最好的保护，对施暴方最有力的教育和惩罚。<br/><div class="contheight"></div><strong>另外，婚姻的本质是契约。双方合意则婚，而暴力已经越过婚姻家庭的底线，如果受害方不愿意原谅对方，解除婚姻的自由应给予保护。</strong><br/><div class="contheight"></div>在家暴离婚案中，尊重受害方的意愿应是关键点。如果法律不加区分地推行离婚冷静期，无法保证受害者人身安全不会再陷危机，法律致力于维护的正义也可能因此而打折扣。<br/><div class="contheight"></div>（原题为《家暴引发离婚诉讼宜慎用冷静期》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：顾亚敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 家暴,离婚冷静期</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2671040">
+<div class="nbgbox">
+<a class="zan" contid="2671040" href="javascript:;" onclick="voteCont(this)" praisetimes="90">
+                           89</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 家暴</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2671040&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2671040&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

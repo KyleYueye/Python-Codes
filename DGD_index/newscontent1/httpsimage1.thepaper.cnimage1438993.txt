@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25435">金改实验室</a>
+</div>
+<h1 class="news_title">银保监会：自媒体平台存虚假营销风险，应提高自我保护意识</h1>
+<div class="news_about">
+<p>陈婷婷/上证报APP·中国证券网</p>
+<p>
+							2019-01-08 18:17<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据上证报APP·中国证券网1月8日报道，继去年银保监会发布了关于防范部分营销人员在微信朋友圈等自媒体平台发布虚假营销信息的风险提示后，由于近期此类情况仍时有发生，中国银保监会消费者权益保护局今日再次提醒广大消费者提高风险意识，谨防误导宣传。<br/><div class="contheight"></div>银保监会指出，自媒体平台惯用误导手法包括：饥饿营销类，宣传保险产品即将停售或限时销售，如使用“秒杀”“全国疯抢”“限时限量”等用语；夸大收益类，混淆保险产品和其他固定收益类理财产品，如发布“保本保息”“保本高收益”“复利滚存”等；曲解条款类，故意曲解政策或产品条款，如宣称“过往病史不用申报”“得了病也能买”“什么都能保”等。<br/><div class="contheight"></div>银保监会提醒，充分了解保险产品信息。保险产品主要功能是提供风险保障，消费者应当树立科学的保险消费理念，通过正规渠道充分了解保障责任、保险金额、除外责任等重要产品信息，根据自身实际需求及风险承受能力选择适当的保险产品。<br/><div class="contheight"></div>银保监会表示，销售人员要增强合规意识。部分保险营销员编造不实信息的行为属于销售误导，严重损害了消费者合法权益。各保险机构应当按照有关要求，加强从业人员合规教育和职业道德培训。<br/><div class="contheight"></div>银保监会提醒，虚假信息请勿轻信及传播，如有疑问可咨询。当前自媒体平台门槛低、发布主体多、缺乏内容审核，消费者在接收此类非官方渠道发布的销售信息时，应提高自我保护意识，避免冲动消费。若遇前文所述的类似情况，请勿轻信，更不要转发；如有疑问，可向相关保险机构咨询或向监管部门反映，以免造成不必要的损失。向银保监会投诉的全国统一电话为12378。 <br/><div class="contheight"></div>（原题为《银保监会再发文提醒自媒体平台存虚假营销风险》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 银保监会,自媒体平台,虚假营销</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828125">
+<div class="nbgbox">
+<a class="zan" contid="2828125" href="javascript:;" onclick="voteCont(this)" praisetimes="25">
+                           24</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 银保监会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828125&caid=25435",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828125&amp;caid=25435" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

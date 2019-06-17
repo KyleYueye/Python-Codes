@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">波兰外长炮轰黄背心运动中的法国：称其国内问题伤害整个地区</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-18 22:04<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">波兰外交部长周一就近日发生在法国的“黄背心”运动及恐袭事件作出评论，称法国是“欧洲病夫”，其国内问题正在对整个地区造成伤害，相反，波兰则是欧洲大陆的“亮点”。<br/><div class="contheight"></div>据法国24电视台报道，周一，波兰外长亚采克·恰普托维奇（Jacek Czaputowicz）对波兰新闻频道Polsat News表示，“法国是欧洲病夫，是欧洲的拖累，而波兰则是一个亮点。”恰普托维奇还补充说，“恐怖袭击事件以及持续数周的抗议活动，都证明有些事情在法国行不通，马克龙放弃对国家的改革，这太令人难过了。”<br/><div class="contheight"></div>截至目前，法国官方尚未就波兰外长的言论做出回应。<br/><div class="contheight"></div>在“黄背心”抗议运动席卷法国各地数周后，该国总统伊曼纽尔·马克龙（Emmanuel Macron）于上周被迫做出让步。<br/><div class="contheight"></div>上周二，一名法国籍圣战分子袭击了位于该国东部斯特拉斯堡的圣诞集市，最终造成5人死亡，其中包括一名波兰公民。上周日，这名波兰公民因伤势过重死亡。<br/><div class="contheight"></div>恰普托维奇的上述言论反映了波兰右翼民粹主义政党法律与公正党（Law and Justice，PiS）上台以来，法国与波兰两国之间长期存在的紧张关系。<br/><div class="contheight"></div>马克龙近日一直对波兰正在进行的改革批评有加，欧盟称这些改革措施对司法独立构成了威胁。但即便在马克龙2017年上台之前，两国之间的关系已然恶化。2016年，波兰终止了与法国空中客车（Airbus）达成的价值约31.4亿欧元（约合246.6亿人民币）的50架卡拉卡尔直升机购买合同。与空中客车的购买协议由中右翼亲欧政党“公民纲领”（ Civic Platform）领导下的前任政府主导进行，法律与公正党上台后取消了上述交易。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：汪伦宇<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 法国 波兰 黄背心</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2751041">
+<div class="nbgbox">
+<a class="zan" contid="2751041" href="javascript:;" onclick="voteCont(this)" praisetimes="149">
+                           148</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 黄背心</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2751041&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2751041&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（34）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

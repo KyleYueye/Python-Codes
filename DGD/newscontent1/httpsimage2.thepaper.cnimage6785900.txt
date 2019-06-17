@@ -1,0 +1,80 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">SIHH2018|万国：150周年的盛大纪念</h1>
+<div class="news_about">
+<p>钟天阳</p>
+<p>
+							2018-02-08 10:01<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+<p style="line-height: 20px; margin-bottom:5px">
+<img alt="" src="//file.thepaper.cn/www/v3/img/topic.gif" style="float:left">
+<a href="newsDetail_forward_30413" target="_blank">
+<span class="news_topic">
+                              【专题】专题｜聚焦2018SIHH日内瓦高级钟表沙龙</span>
+</a>
+</img></p></div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard"><u>IWC万国表创立于1868年，今年正值150周年，在今年的SIHH上，万国表推出的所有新品都围绕此次150周年的纪念主题。这次的纪念版腕表涵盖28 款限量腕表，包括IWC葡萄牙系列，柏涛菲诺系列，飞行员腕表系列和达文西系列。这其中还包括一枚数字显示小时和分钟的腕表，与自1884 年装在波威柏(Pallweber)怀表里的显示方式如出一辙。</u><br/><div class="contheight"></div>值得一提的是，这次的纪念版腕表中，全部采用了白色或蓝色漆面表盘。这种表盘经多层上漆工艺打造而成，实物呈现出相当有层次的、类似珐琅的质感，是所有表款的统一美学元素 。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="293" src="http://image.thepaper.cn/www/image/6/785/894.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">万国 “致敬波威柏（Pallweber）”150周年特别版腕表。铂金款限量25 枚，红金款限量250 枚，精钢款限量500 枚。<br/><div class="contheight"></div></span>在所有的纪念腕表中，这枚“致敬波威柏”颇具意义，因为这是万国历史上首枚在数字式显示中搭载跳时数字的手表。表盘设计沿袭早期的波威柏怀表，上方为跳时窗口，中间为大型分钟显示窗口，下方则是小秒盘，三者呈一直线布局，极具复古美感。<br/><div class="contheight"></div>所搭载的94200型自制机芯的一分钟圆盘则由具备专有发条盒的单独轮系系统提供动力。与手表自身轮系系统相连的释放机构每六十秒释放一次，然后重新锁紧。每10分钟后，一分钟圆盘会带动十分钟圆盘走动一格。每60分钟，小时圆环也会跳到下一小时的数字位置。独立轮系系统的动力不会影响一般轮系系统，可确保精准的运转。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="439" src="http://image.thepaper.cn/www/image/6/785/895.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">限量IWC葡萄牙系列恒定动力陀飞轮腕表，撑起了此次纪念大军中复杂功能的大旗。<br/><div class="contheight"></div></span>IWC葡萄牙系列恒定动力陀飞轮腕表“150 周年”特别版是此系列中对技术要求最高的腕表，首次搭载恒定动力陀飞轮并配有单月相盈亏显示。而另一枚万年历陀飞轮腕表“150 周年”特别版则首次将万年历与陀飞轮一起带入表盘。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="297" src="http://image.thepaper.cn/www/image/6/785/896.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">达文西系列，重新诠释上世纪80 年代的经典圆形设计风格。<br/><div class="contheight"></div></span>IWC万国表于一年前再次推出达文西系列，重新诠释上世纪80 年代的经典圆形设计风格。如今，又有两位新成员加入达文西系列纪念特别版，白色或蓝色表盘，饰以漆面工艺。其中达文西自动腕表“150 周年”特别版于“ 6点钟”位置搭载小秒针，并首次使用全新IWC万国表82200 型自制机芯。除此之外，IWC万国表还推出达文西月相自动腕表36“ 150 周年”特别版，表壳与移动式表耳共镶嵌206 颗钻石，共计2.26 克拉。</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李淑平<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="1973321">
+<div class="nbgbox">
+<a class="zan" contid="1973321" href="javascript:;" onclick="voteCont(this)" praisetimes="4">
+                           3</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日内瓦表展</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=1973321&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=1973321&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">交警救人却被指“收车致司机跳河”，贵州警方：造谣者已被拘</h1>
+<div class="news_about">
+<p>@北京青年报</p>
+<p>
+							2019-01-10 17:35<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">@北京青年报 消息，1月10日16时许，贵州省余庆县公安局官方通报称，9日下午，一网民在朋友圈发布虚假信息称：“今天余庆牛场河有人跳水，因为交警收他车。”引起网友评论和转发，造成不良社会影响。针对发布虚假信息的造谣者，余庆县公安局迅速采取措施，并于当晚22时许，在一副食店内将造谣违法嫌疑人潘某某（男，44岁）成功抓获。其对造谣违法事实供认不讳，目前已被行政拘留。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="591" src="http://image.thepaper.cn/www/image/14/121/519.jpg" width="600"/></div>北青报记者注意到，10日凌晨余庆县公安局曾就有人溺水一事发布通报。通报称，1月9日下午15时15分许，该局交警大队民警张克聪带领辅警叶现刚、余俊、张津铭、文波在县城牛场河大桥处开展常规路查时，通过对讲机收到110指挥中心派警指令：“有一少女在县城牛场河跳河，请特巡警大队及就近警力立即赶往现场开展救援。”接到指令后，张克聪等人迅速赶往事发地点，辅警张津铭、叶现刚立即跳入河中，成功将溺水少女营救。目前，该溺水少女身体已无大碍。<br/><div class="contheight"></div>（本文原题为《交警救人却被指因收车致司机跳河？警方：造谣者已被拘》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 贵州,造谣</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837179">
+<div class="nbgbox">
+<a class="zan" contid="2837179" href="javascript:;" onclick="voteCont(this)" praisetimes="21">
+                           20</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 贵州</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837179&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837179&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">新华社综述：领事保护为旅欧中国公民撑起“平安伞” 　　</h1>
+<div class="news_about">
+<p>潘革平 郑江华/新华社</p>
+<p>
+							2018-12-16 20:48<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社布鲁塞尔12月15日报道，“深夜赶到机场看望滞留同胞，去医院探望生命垂危的侨胞，帮助国内求助者寻找失踪亲友……”<br/><div class="contheight"></div>手机24小时开机，全年无休——这是中国驻外领事官员日常的工作缩影。近年来，前来欧洲旅游、经商、留学、居住的中国公民不断增加。与此同时，受欧洲经济形势不佳和治安环境恶化等影响，因遭遇各种突发困难向中国使领馆求助的中国公民数量也不断增加。<br/><div class="contheight"></div>今年以来，中国驻比利时使馆处理涉中国公民领保案件300余起，几乎每天一起。中国驻比利时大使曹忠明说，这些新情况、新问题对改进领事保护与协助的工作方式、完善服务都提出了更高要求。使馆及时提供更多服务：落实国内统一部署，推出“只跑一次”“一次性告知”等便民惠民措施；实施24小时领保电话值守制度，第一时间响应中国公民求助请求；为丢失护照的中国同胞开通“绿色通道”……<br/><div class="contheight"></div>预防才是最好的保护。在不断改进服务的同时，近年来我国驻欧洲各使领馆不断强化防范预警，在机制建设方面积累了一定经验，为在欧洲的中国公民和机构撑起了一把“平安伞”。<br/><div class="contheight"></div>“前方小偷出没！”“那些号称百分之百能看到极光的公司宣传，肯定是在骗你。追极光就像登泰山看日出，全凭运气。”从去年年末开始，用幽默取代说教的芬兰旅游系列领事保护动画短片登陆航空客机、网络视频平台、领保网站和客户端。此外，包括驻意大利和马耳他使领馆推出的《中国公民旅意指南》《马耳他旅游ABC》领保折页等宣传材料，以及针对留学生的领事保护校园宣讲等各类预防性领事保护宣传构成了一道防线。<br/><div class="contheight"></div>同时，各使领馆还定期对中资机构、中国公民聚集区进行安全巡视，提醒中国在欧洲的企业建立和完善应急处置机制，加强对员工的安全培训。<br/><div class="contheight"></div>为有效应对中国领事保护需求大量增加的状况，比利时、德国、意大利、波兰、马耳他等使领馆都建立了“领保志愿者”制度。领保志愿者主要由侨界、留学生和中资企业代表组成，他们发挥熟悉当地情况的优势，积极主动做好应急处理。2017年9月，在妥善解决滞留比利时列日机场300多名中国游客的过程中，领保志愿者发挥了重要作用。<br/><div class="contheight"></div>驻欧洲使领馆还加强与驻在国相关部门的协调，探索建立各种联动机制。中国驻意大利使馆专门加强了与意大利警方、旅游、医疗、口岸等机构的协调与配合。今年10月底，驻意使馆和罗马机场启动中国旅客应急联系机制，在罗马机场设立中国旅客温馨提示专区，为旅意中国公民出行顺畅安全提供更多保障。<br/><div class="contheight"></div>今年5月开始，我驻波兰使馆陆续推出了四期“领事沙龙”活动，针对波兰领保工作最突出的问题，邀请波兰财政部副部长、知名事务所律师和会计师、警察总局专家、边防局官员等进行专题讲解，收效良好。<br/><div class="contheight"></div>对于身处海外的中国人来说，“有困难找领馆”早已深入人心。然而，中国公民要求提供海外领事保护和协助，也需要注意避免资源和人力浪费。比如，一个来马耳他自驾旅游的女孩因不会自助加油，拨打领保电话求助。有关人士提醒，只有公民对领事保护与协助工作有充分认识，才能形成民众理性求助、外交机构依法协助的良性局面。<br/><div class="contheight"></div>（原题为《综述：领事保护为旅欧中国公民撑起“平安伞”》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 领事保护,中国公民</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2745048">
+<div class="nbgbox">
+<a class="zan" contid="2745048" href="javascript:;" onclick="voteCont(this)" praisetimes="185">
+                           184</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 领事保护</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2745048&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2745048&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

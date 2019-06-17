@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">特斯拉在中国下调Model 3预售价：最大降幅7.6%</h1>
+<div class="news_about">
+<p>澎湃新闻记者 包雨朦</p>
+<p>
+							2018-12-23 19:19<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">美国电动车品牌特斯拉再次在中国降价，这一次轮到了还未开始交付的廉价车型Model 3。<br/><div class="contheight"></div>12月23日，澎湃新闻（www.thepaper.cn）记者从特斯拉官网看到，特斯拉调低了预售车型Model 3的定价。Model 3长续航电池双电机全轮驱动版起售价从54万元下调至49.9万元，降幅为7.6%； Performance高性能全轮驱动版售价从59.5万元降至56万元，降幅为5.9%。<br/><div class="contheight"></div>有预定客户收到的短信显示，此轮Model 3为暂时降价，主要得益于中国针对美国进口车型的暂时性关税政策调整。<br/><div class="contheight"></div>Model 3是特斯拉面向大众市场推出的一款门槛较低的车型，美国定价为3.5万美元（约合24万人民币）。11月上旬，中国的预定车主陆续收到邮件，可以进行车联的选配，预计交付时间为2019年。<br/><div class="contheight"></div>事实上，Model 3的中国定价远远高于市场预期，被评价为并不“亲民”的大众版电动车。再加之，今年特斯拉在华建厂计划正式敲定，未来上海工厂生产的主力车型就是Model 3。业界普遍预期，实现国产化的Model 3价格将比进口版大幅下调。上述因素使得不少特斯拉Model 3的潜在车主持观望态度。<br/><div class="contheight"></div>在过去的一个月时间内，特斯拉已经两度宣布调低中国市场在售车型的定价。11月22日，特斯拉较低配置的Model S 75D目前售价78.29万元，较此前的88.76万元降价约12%。Model S 100D最新售价95.46万元，降价约12%；Model S P100D最新售价109.1万元，降价约26%。<br/><div class="contheight"></div>12月14日，特斯拉再次下调Model S与Model X部分车型的价格。其中Model S 75D目前的中国官网显示价格为74.23万元，价格下调约5%。Model S 100D车型定价84.96万元，下调了10.5万元，降幅约11%。Model X车型仅有最低配置款75D降价，定价为79.68万元，降价6.5万元，降幅为7.5%；其余配置车型售价不变。<br/><div class="contheight"></div>这一降价举措被认为与中国政府降低美国进口车关税有关。12月14日，国务院关税税则委员会办公室发布公告称，决定对原产于美国的汽车及零部件暂停加征关税3个月。这意味着，中国对美国进口汽车的关税幅度将从40%暂时恢复至15%。<br/><div class="contheight"></div>特斯拉在华多次调价，似乎是为了挽回市场颓势。<br/><div class="contheight"></div>根据中国乘联会数据显示，特斯拉第三季度在华销量为3169辆，大幅下滑37%，10月单月销量仅211台，骤降70%。其中，Model X下滑62%至161辆，Model S销量只有50辆，下滑82%。<br/><div class="contheight"></div>不过，特斯拉方面对于在华销量骤降予以驳斥，称该数据不准确，但也没有披露销售数字。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙扶<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 特斯拉</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766636">
+<div class="nbgbox">
+<a class="zan" contid="2766636" href="javascript:;" onclick="voteCont(this)" praisetimes="23">
+                           22</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 特斯拉降价</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766636&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766636&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（47）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜泉港碳九泄漏：充分有效回应关切迫在眉睫</h1>
+<div class="news_about">
+<p>澎湃特约评论员 张丰</p>
+<p>
+							2018-11-08 13:42<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">福建东港石化6.97吨碳九泄漏，看起来没有那么轻描淡写。4日凌晨发生的泄漏，直到8日，仍有当地居民在社交媒体上求助。他们在港口附近闻到了刺鼻气味，这让他们心慌。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="367" src="http://image.thepaper.cn/www/image/12/70/369.jpg" width="550"/></div><span style="color: rgb(128, 128, 128);">受事故影响，不少渔排上的泡沫浮材被腐蚀，造成渔排下沉，当地渔民损失严重。<br/><div class="contheight"></div></span>11月6日，有家属向媒体反映，一位渔民因为抢救渔排晕倒掉到水中，被送到医院抢救。当地政府就此回应说：“暂不能确定其因掉入有污染的海中住院。”<br/><div class="contheight"></div>这个回应看起来天衣无缝，但是却只会助长猜测和怀疑。4日凌晨泄漏发生后，渔民得到消息后去抢救自己的渔排，他掉进水里，到医院被诊断为双肺炎。尽管他发病和污染之间的关联确实需要更深入的调查，但是对民众来说，在两者之间建立联系几乎是本能的反应。<br/><div class="contheight"></div>从另一个角度看，渔民去抢救渔排掉在海里，如果这个事情是成立的，就说明当地在应急处置上存在很大问题。泄漏发生后，专业抢修、清污队伍进入，同时应该做好附近居民的疏散工作。有人能够进入污染领域，足见当时局面的混乱。<br/><div class="contheight"></div>6.97吨碳九泄漏，这个数字看上去没那么可怕，但是公众对碳九所知甚少。化学物品的泄漏，最容易造成公众恐慌，其中一个原因就是公众普遍缺乏相关知识。人们从空气中闻到的异味，让他们做出自然的判断。如果有人因此感到恶心甚至晕倒，在传播过程中，事件注定会发生夸张和变异。这就需要政府相关部门及时、充分、有效地公开信息，向公众作出解释。<br/><div class="contheight"></div>但事发后当地的回应，却是惜墨如金。4日晚上，泉州市泉港区环保局通报，“泉港区已出动船舶100多艘次，人员600多人次，调集近600袋油毡进行吸附回收，碳九泄漏领域清理工作已基本完成。”这个回应，其实没多少人注意。<br/><div class="contheight"></div>这个白天，救援和清污人员肯定在忙碌着，这是毫无疑问的。但是，一整个白天，公众并不知道发生了什么。在互联网上，碳九泄漏被发酵成了“泉州异味事件”，如果你搜索“泉州”，这个关键词就会被自动推荐出来，说明在事件的传播过程中，充满了猜测和恐慌。<br/><div class="contheight"></div>据媒体报道，碳九泄漏的特殊性，在于其清理的难度很大，所以泉州方面的回应也只是说清理“基本完成”，后续对环境、健康的影响，需要持续关注。还有村民反映，碳九泄漏后环保局大楼外有高压水枪喷水，担心空气质量检测受影响。<br/><div class="contheight"></div>泉州方面在危机的处置过程中，信息公开是严重滞后的，而且非常简单。这样的回应不但起不到释疑解惑效果，反而会引起进一步的猜测和质疑，像“暂不能确定其因掉入有污染的海中住院”这样的句子，冷静、谨慎，但是又显得冷漠而不负责任。<br/><div class="contheight"></div>现在地方政府都拥有完善的政务媒体，发布信息的渠道是畅通的，但是，这些信息发布往往是单向的，没有现场发布会，没有互动，也很少回复网友的评论（有时候甚至关闭评论）。类似碳九泄漏这样的突发环境危机，没有交流互动场景的信息公开，注定会产生大量猜测和传言。它们就像空气中的异味一样，难以散去。<br/><div class="contheight"></div>对泉州而言，在加快事故处置、责任调查的同时，如何更及时、有效地回应公众关切，已经成为迫在眉睫的问题。看得见的油污可以吸附，而看不见的，会长久留在人们心头。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 泉港碳九泄漏</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2614290">
+<div class="nbgbox">
+<a class="zan" contid="2614290" href="javascript:;" onclick="voteCont(this)" praisetimes="793">
+                           792</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 化学品泄露</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2614290&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2614290&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（72）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

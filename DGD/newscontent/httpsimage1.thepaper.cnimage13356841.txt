@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">民调显示近八成美国人认为2016年大选结束后国家更加分裂</h1>
+<div class="news_about">
+<p>徐剑梅、邓仙来/新华社</p>
+<p>
+							2018-12-21 06:30<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社华盛顿12月20日电，医保、控枪、边境墙、“通俄门”……美国选民似乎处处意见分歧，但在这一点上他们却压倒性赞同：美国自2016年大选结束以来更加分裂，而不是更加团结。<br/><div class="contheight"></div>20日发布的《今日美国报》和美国萨福克大学联合民调结果显示：78%的受访者认为在过去两年里，美国变得更加分裂，而认为美国分裂程度减轻的人只占11%。<br/><div class="contheight"></div>这项民调显示，民主、共和两党选民关切的优先事项及立场截然不同。在被问及定于1月3日履职的新一届国会首要任务是什么时，六成共和党选民的回答是打击非法移民，包括对总统特朗普在美墨边境建墙的竞选承诺提供财政支持，而赞同他们的民主党选民只占5%。<br/><div class="contheight"></div>反观民主党选民和独立选民的国会优先事项清单，占据首位的是医保问题——扩大民众获得医保的机会并降低医保成本。<br/><div class="contheight"></div>鉴于新一届国会呈现“分裂国会”格局——共和党掌控参议院，而民主党重掌众议院，多数共和党选民担心国会民主党人将在调查特朗普及其政府方面“走太远”。与此同时，多数民主党选民却表示担忧国会民主党人“不会走太远”。相关调查在民主党选民的优先事项清单里列在第二位，而在共和党选民的清单里排名坠尾。<br/><div class="contheight"></div>分析人士指出，尽管如此，两党选民表现出一个共同倾向，即希望华盛顿政客首先关注的不是特朗普的言行和既往，而是普通民众的生活，不管是医保、边境安全还是改善基础设施。<br/><div class="contheight"></div>据悉，这项民调从12月11日至16日在全美范围内抽样调查了1000名注册选民，误差率为3个百分点。<br/><div class="contheight"></div>（原题为《民调显示近八成美国人认为国家更加分裂》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2758418">
+<div class="nbgbox">
+<a class="zan" contid="2758418" href="javascript:;" onclick="voteCont(this)" praisetimes="77">
+                           76</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美国</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2758418&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2758418&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

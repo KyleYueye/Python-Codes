@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25490">打虎记</a>
+</div>
+<h1 class="news_title">山西这名县委书记因作风不实被免职数月后，终告落马</h1>
+<div class="news_about">
+<p>澎湃新闻记者 钟煜豪</p>
+<p>
+							2019-01-10 11:55<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="254" src="http://image.thepaper.cn/www/image/14/110/632.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">山西省纪委监委网站截屏图 <br/><div class="contheight"></div></span>1月9日傍晚，山西省纪委监委网站发布消息称，大同市浑源县委原书记张清河涉嫌严重违纪违法，目前正接受省纪委监委纪律审查和监察调查。<br/><div class="contheight"></div>值得一提的是，根据山西省纪委监委网站配发的简历，2018年7月，张清河因在脱贫攻坚、环境治理等方面作风不实、担当不够被免去县委书记职务。<br/><div class="contheight"></div>张清河，男，汉族，1962年9月出生，山西朔州人，1982年9月参加工作，1988年5月加入中国共产党，在职研究生学历。他1998年4月任阳泉市城区副区长，2002年10月任阳泉市城区区委常委、常务副区长，2006年6月任阳泉市矿区区委副书记、区长，2011年1月开始担任大同市浑源县委书记。<br/><div class="contheight"></div>据微信公号“浑源党建”消息，2018年7月30日上午，浑源全县干部大会在武装部四楼会议室召开。会议宣布省市委决定，赵宇（原大同市矿区区委书记）同志任中共浑源县委书记。报道显示，张清河并未到场。<br/><div class="contheight"></div>另外，山西近期还有一名干部在被免职数月后又接受调查。<br/><div class="contheight"></div>山西省纪委监委网站1月8日消息称，山西省农业科学院现代农业研究中心原主任籍增顺涉嫌严重违法，经省监委指定，目前正接受晋中市监委监察调查。<br/><div class="contheight"></div>籍增顺，男，汉族，1963年3月出生，山西洪洞人，博士研究生学历，研究员职称，无党派人士，1987年11月参加工作。他从2007年3月至2018年5月任山西省农业高新技术园区管理服务中心(2007年12月更名为山西省现代农业研究中心，2010年5月更名山西省农业科学院现代农业研究中心)主任，后于2018年5月被免去山西省农业科学院现代农业研究中心主任职务。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王俊<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 县委书记，免职</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835740">
+<div class="nbgbox">
+<a class="zan" contid="2835740" href="javascript:;" onclick="voteCont(this)" praisetimes="46">
+                           45</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 山西反腐</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835740&caid=25490",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835740&amp;caid=25490" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

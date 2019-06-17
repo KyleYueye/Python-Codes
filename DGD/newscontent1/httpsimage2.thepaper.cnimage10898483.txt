@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">劳力士、百达翡丽和斯沃琪结盟“怼”历峰集团，只为这枚细丝</h1>
+<div class="news_about">
+<p>钟天阳 刘嘉郦</p>
+<p>
+							2018-10-07 13:46<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>据瑞士媒体《NZZ》报道，硅游丝技术专利持有者劳力士，百达翡丽和斯沃琪集团联盟，因为历峰集团涉嫌侵犯硅游丝专利而与之产生法律纠纷。在一篇名为《最佳机芯之争》的报道中，记者Daniel Hug详述了这场因防磁硅游丝技术而引发的法律纠纷。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="474" src="http://image.thepaper.cn/www/image/10/898/476.jpg" width="600"/></div></u><span style="color: rgb(153, 153, 153);">机械表的心脏——游丝是一条比头发丝还要细的弹性线圈，采用硅打造的游丝可以让机芯免受磁场影响。<br/><div class="contheight"></div></span>影响机械表走时不准有很多原因，但是磁场是影响最大的因素。机械表的心脏——游丝是一条比头发丝还要细的弹性线圈。传统金属线圈如果收到磁场影响就会直接变形，严重时磁场可导致游丝粘连，造成走时停顿。现在生活中磁力的东西太多了，手机、磁铁包扣、刷卡器、音响都有磁场，如果没有一定的防磁技术，走时不准几乎难以避免。但这个问题可以由使用硅游丝来解决：材料比钢硬很多，更轻、防磁、摩擦力更小。<br/><div class="contheight"></div>2003年开始，劳力士、百达翡丽和斯沃琪集团联合集中力量与瑞士制表重镇纳沙泰尔的CSEM研究所合作研发硅游丝技术。2005年，摆轮硅游丝技术已准备好进行量产。一年后，第一批使用硅游丝的手表面世。在接下来的几年中，劳力士、百达翡丽及斯沃琪集团旗下品牌如欧米茄和宝玑等都陆续采用硅游丝技术，现在已普及到美度、天梭等中级品牌。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="449" src="http://image.thepaper.cn/www/image/10/898/474.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">采用了硅游丝的名士克里顿系列Baumatic™腕表<br/><div class="contheight"></div></span>在2018年日内瓦表展上，历峰集团旗下的名士表推出了克里顿系列Baumatic™腕表，该系列腕表搭载由历峰集团全新研发的机芯Baumatic™ BM12-1975A机械机芯，机芯的名字便是由“Baume &amp; Mercier（名士）”与“automatic（自动上链机芯）”结合而来。这款新机芯因为采用了硅游丝技术，具备了优异的防磁性能，也成为了此次事件的核心问题。<br/><div class="contheight"></div>“历峰集团的研究团队已经研发了五年。”在《NZZ》的报道中，上任历峰集团名士表首席执行官Geoffroy Lefebvre表示，“目前正与劳力士、百达翡丽及斯沃琪团讨论中。”Lefebvre强调名士没有触犯专利，因为从技术上来说，这一系列腕表使用的硅摆轮游丝采用的是双层结构的独特构造，与其他产品并无相同之处，但劳力士、百达翡丽及斯沃琪集团对这一说法并不认可。<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="375" src="http://image.thepaper.cn/www/image/10/898/480.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">欧米茄至臻同轴机芯中的硅游丝（右上白色线圈）。<br/><div class="contheight"></div></span>CSEM研究所和斯沃琪集团、劳力士和百达翡丽的专利权联盟，在不同的国家，到期时间不同。在瑞士，该专利期到2022年，在日本则到2023年。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李淑平<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2486683">
+<div class="nbgbox">
+<a class="zan" contid="2486683" href="javascript:;" onclick="voteCont(this)" praisetimes="9">
+                           8</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 腕表</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2486683&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2486683&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

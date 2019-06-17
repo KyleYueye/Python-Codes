@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜“网红”虐杀动物并贩卖视频，平台不能听之任之</h1>
+<div class="news_about">
+<p>澎湃特约评论员 史洪举</p>
+<p>
+							2018-11-26 16:53<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">穿着丝袜、高跟鞋的女孩，口中念念有词，将一只小兔子置于高跟鞋下活活踩死……类似这种虐杀动物视频，被人在网上以每部数十元至数万元的价格贩卖，内容血腥残忍，甚至还可以付钱“定制”。 <br/><div class="contheight"></div>据媒体报道，网络上订购、制作、贩卖“美女虐杀动物”视频，居然成为一个黑色的产业链。比如一个化名阿佳的女性：用高跟鞋踩踏虐杀乌龟，开价500元；用阉割、剥皮等方法虐杀驴，开价15000元。另一名女孩近几年拍摄的162部视频中，就涉嫌虐杀4只小鸟、8只小猫、33只兔子、58只小狗，以及几十只仓鼠和小鸡。 <br/><div class="contheight"></div>虽说“网红经济”越来越受人关注，但这样的“网红”，显然突破了三观极限。在吸引流量、博取关注、获取收益等因素刺激下，不排除一些人无视道德和法律，靠贩卖奇葩、粗俗、恶俗、残忍的“网络表演”来牟取利益。 <br/><div class="contheight"></div>更值得注意的是，一些网络平台听之任之，甚至变相为之张目。去年就曝出，多家直播平台出现“打野主播”，他们边深入田野、山林捕捉野生动物，边直播猎捕过程，部分主播甚至拥有数十万粉丝。拍摄并贩卖更血腥、更暴力的“美女虐杀动物”视频，有过之而无不及，监管部门理当及时介入，严查这些节目并追责涉事人员。<br/><div class="contheight"></div>虽然我国没有相关法律明确禁止“虐杀”动物，但根据民法总则，任何民事行为均不能违反法律，不得侵害公序良俗和公共利益。网络安全法也规定，任何个人使用网络均应遵守法律、公共秩序以及社会公德，不得传播暴力、淫秽色情等信息。 <br/><div class="contheight"></div>从行为上说，虐杀动物显示出一些人粗鄙、残忍、野蛮、缺乏悲悯心，属于病态、扭曲乃至反人类的现象。这显然突破了普通人的心理承受能力和道德底线。而互联网是一个开放的空间，如果放任此类视频通过互联网传播，更会恶化网络传播生态，颠覆公众朴素的善恶观，制造社会戾气。<br/><div class="contheight"></div>对这些变态“网红”，不妨从多方面入手治理。如果“虐杀”的动物属于国家保护的“三有动物”，即有益的或者有重要经济、科学研究价值的陆生野生动物，这些“网红”的行为就属于非法狩猎，即违反狩猎法规。情节较轻的，将受到行政处罚，情节严重的，可能承担刑事责任。 <br/><div class="contheight"></div>另一方面，网络平台理当主动作为，及时采取技术措施，删除、屏蔽相关视频和“贩卖”渠道，不充当违法失德行为的帮凶。网络监管部门也应查处这种变态、扭曲的“网红”，揪出黑产业链背后的元凶，进而有效净化互联网生态，构造和谐有序的网络空间。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 网红虐杀动物</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2672098">
+<div class="nbgbox">
+<a class="zan" contid="2672098" href="javascript:;" onclick="voteCont(this)" praisetimes="151">
+                           150</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 网红</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2672098&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2672098&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（480）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

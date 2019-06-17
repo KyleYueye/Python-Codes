@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">北京市广播电视局：遏制追星炒星、收视率造假、对赌协议等</h1>
+<div class="news_about">
+<p>张漫子/新华社</p>
+<p>
+							2018-12-25 12:12<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京12月25日消息，记者日前从北京市广播电视局获悉，北京将进一步加强广播电视和网络视听文艺节目管理，切实纠正一些文艺节目中出现的影视明星过多、追星炒星、泛娱乐化、高价片酬、收视率（点击率）造假等问题，净化行业生态。<br/><div class="contheight"></div>北京市近日出台了关于进一步加强广播电视和网络视听文艺节目管理的实施细则，聚焦社会广泛关注的节目管控、内容创新、备案审批、网台联动等十二个方面内容，对文艺节目的内容管理、行业管理与机构管理作出具体要求。<br/><div class="contheight"></div>在遏制明星片酬方面，北京将严格执行电视剧、网络剧（含网络电影）成本配置比例行业自律规定，每部电视剧、网络剧（含网络电影）全部演员片酬不超过制作总成本的40%，其中主要演员片酬不超过总片酬的70%。<br/><div class="contheight"></div>在加强节目调控方面，北京市将严控偶像养成类节目、影视明星子女参与的综艺娱乐和真人秀节目，进一步减少明星参与的娱乐游戏、真人秀、歌唱选拔类节目，鼓励扩大新闻、经济、文化、科教、生活服务、动画和少儿、纪录片、对农等公益节目播出量，支持制作播出更多优质原创节目。<br/><div class="contheight"></div>为了严把文艺节目的内容关、导向关、片酬关，北京将坚持台网同一标准，确保网络视听和广播电视文艺节目在导向、题材、内容、尺度、嘉宾、片酬等方面执行同一标准，同等管理。<br/><div class="contheight"></div>北京还将建立行业准入和退出机制，实行“红黑名单”动态管理。对提出收视率承诺要求、签订收视率对赌协议、哄抬价格购买播出电视剧网络剧（含网络电影）、违反片酬规定等的机构和个人进行严惩，对造成严重社会影响者依法予以查处，吊销其相关许可证。<br/><div class="contheight"></div>（原题为《北京：遏制追星炒星、收视率造假、对赌协议等行为》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 北京,追星炒星,收视率造假</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772253">
+<div class="nbgbox">
+<a class="zan" contid="2772253" href="javascript:;" onclick="voteCont(this)" praisetimes="241">
+                           240</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 网络视听节目</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772253&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772253&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

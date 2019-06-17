@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">瑞士瑞银集团“掌门人”今晤李强，谋求在沪更大发展</h1>
+<div class="news_about">
+<p>澎湃讯</p>
+<p>
+							2019-01-08 18:03<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="399" src="http://image.thepaper.cn/www/image/14/38/922.jpg" width="600"/></div>上海市委书记李强今天上午（1月8日）会见了瑞士瑞银集团董事会主席魏柏昂一行。<br/><div class="contheight"></div>李强说，金融业是中国和上海深化改革、扩大开放的重要领域。去年11月，习近平主席在首届中国国际进口博览会开幕式上宣布交给上海三项新的重大任务，这为新时代上海改革发展、为上海加快国际金融中心建设提供了重大机遇。我们将按照中央决策部署，在防范金融风险、确保金融安全的前提下，加大金融业对外开放力度，积极吸引外资金融机构集聚。瑞银集团是上海金融业发展的见证者、参与者和贡献者，集团战略同上海国际金融中心建设高度契合。欢迎瑞银集团进一步发挥自身优势，围绕上海金融业发展的重点领域，分享国际先进经验，开展更多深度合作。上海将提供更优服务、营造更好环境，支持瑞银集团在沪取得更大发展。<br/><div class="contheight"></div>魏柏昂表示，自1989年在上海设立办事处以来，瑞银集团见证了上海这座城市取得的巨大进步，十分看好未来发展前景。将继续加大在中国和上海的投入，积极推动外资进入中国市场，更好帮助中国企业“走出去”，为上海国际金融中心建设作出更大贡献。<br/><div class="contheight"></div>市委常委、市委秘书长诸葛宇杰参加会见。<br/><div class="contheight"></div><span style="color: rgb(128, 128, 128);">（本文图片 陈正宝 摄）</span></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 上海,李强,会见瑞银集团董事会</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2828121">
+<div class="nbgbox">
+<a class="zan" contid="2828121" href="javascript:;" onclick="voteCont(this)" praisetimes="52">
+                           51</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 李强会见</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2828121&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2828121&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

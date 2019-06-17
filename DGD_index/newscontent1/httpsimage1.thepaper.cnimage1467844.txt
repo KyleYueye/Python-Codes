@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">媒体：仅靠爸爸的一片天，顶得住校园欺凌吗</h1>
+<div class="news_about">
+<p>北京青年报</p>
+<p>
+							2019-01-09 10:41<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据报道，近日一段郑州爸爸的视频在网上走红，其女儿在学校被人欺负不愿回家，他说：“已经给老师打了电话，我叫他们家长都过来，天塌了爸爸给你顶着。”原来，女孩是班里的体育委员，因为听老师的话记录了不达标同学的名字，被人记恨辱骂。她说，那天有人用qq聊天软件从9点多骂到了11点多。<br/><div class="contheight"></div>截至目前，这名爸爸的一番话，引来点赞数超过200万个，评论超过10万条，这些点赞和评论，本身就是一种社会态度的集中表达。在点赞的人中，也有很多家长，从留言中可以看出，他们的孩子在学校里也不同程度地受到过同学的欺凌。<br/><div class="contheight"></div>作为家长，虽然是成年人，而且自己都有着丰富的社会阅历和对是非的基本判断，但是，却对未成年人的世界显示出了极大的无奈。在不少家长的心目中，校园欺凌已经成了他们心头挥之不去的阴影。<br/><div class="contheight"></div>而这名郑州爸爸对女儿的一番言语，似乎让诸多家长找到了开解孩子心灵之锁的钥匙，甚至是找到了医治孩子心理创伤的灵丹妙药。进而，很多家长都在跟帖中表达了对这位爸爸的钦佩和对自己孩子在受到欺负之后的心有余而力不足的叹惜。<br/><div class="contheight"></div>然而，点赞归点赞，在现实的校园中，所发生的一些问题并不是这样简单。因为校园本身也是一个小社会，其中总会有一些所谓的“熊孩子”欺负别人，从这类新闻报道的结果来看，不但一些学校对这样的“熊孩子”没办法，很多家长也是毫无办法，即使是派出所也大多无能为力。<br/><div class="contheight"></div>所以，对于这名郑州爸爸的这番言语，虽然应当给予点赞，但同时也引发了人们的广泛担心。这名爸爸说，“已经给老师打了电话，我叫他们家长都过来”，这其实是一种处理校园问题的常规办法，但很多时候，这种办法似乎起不到根本作用，即使有些作用，那也是暂时的，过段时间之后，一切可能变本加厉。<br/><div class="contheight"></div>校园欺凌虽然是发生在孩子的世界里，但本质上也是一种社会综合性的问题。对于这种令人揪心的现象，社会不应当简单化解读，更不应当简单化解决，而让孩子家长以“爸爸给你顶着”这种方式来解决，其实，表现出的更是相关部门治理不力的无奈和家长莫名的无助与失望。<br/><div class="contheight"></div>这起发生在郑州的女生遭同学辱骂不愿回家的事件，让女生的爸爸无比揪心，类似的事在各地都有发生，也是让人揪心不已。虽然天下的父母心都是一样的温暖，父爱更是如山，都想为自己的孩子撑起一片不受欺凌的晴朗天空，但现实的严峻问题是，仅靠爸爸的一片天，能顶得住校园欺凌吗？<br/><div class="contheight"></div>（原题为：《仅靠爸爸的一片天 顶得住校园欺凌吗》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 父爱,辱骂,校园欺凌,点赞</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831040">
+<div class="nbgbox">
+<a class="zan" contid="2831040" href="javascript:;" onclick="voteCont(this)" praisetimes="40">
+                           39</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 校园欺凌</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831040&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831040&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（40）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

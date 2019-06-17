@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">日本欲提高官邸厨师待遇，打造以“食”为媒介的软实力</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-07 13:32<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="346" src="http://image.thepaper.cn/www/image/13/999/654.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">日本外务省决定开始改善官邸厨师的待遇。<br/><div class="contheight"></div></span>为了给来到日本各驻外公馆的要客带来更好的体验，提升以“食”为媒介的外交力，日本外务省决定开始改善官邸厨师的待遇并加强相关的信息发布。<br/><div class="contheight"></div>日本共同社1月6日报道称，除了计划2019年度起提高官邸厨师的薪酬水平外，外务省也开始在社交网站（SNS）上介绍相关的活动。报道称，日本外务省官员指出，日本大使和总领事邀请当地政治家和政府高官在官邸聚餐，是收集信息和建立人脉的“重要外交手段”，而专门负责烹饪的官邸厨师也在这一过程中扮演重要角色。<br/><div class="contheight"></div>为此，日本外务省已经在2019年度预算案中，列入了7.1亿日元（约合人民币4490万元）作为人事费和招募的相关费用，这比2018年度多了约6500万日元。一般来说，官邸厨师的薪酬由大使或总领事的私费和国费共同构成。按照新的预算，其中国费的上限额度将从现行的每月17万日元逐渐上涨至20万日元。<br/><div class="contheight"></div>与此同时，在信息发布方面，外务省早在去年10月就在推特和脸书上开设了专用账号，用以介绍用有限的食材结合客人的喜好创作日式料理的方法，相关轶事如被乌克兰总统波罗申科等政要夸赞手艺等，也被放在了推特和脸书上。<br/><div class="contheight"></div>据外务省介绍，由于目前在日本境内获得烹饪执照的人越来越少，他们也在考虑如何确保官邸厨师这一队伍。因此，除了宣传和食文化，以上一系列举措对宣传官邸厨师这一职业的魅力也有益处。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 日本,大使馆,厨师</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2823507">
+<div class="nbgbox">
+<a class="zan" contid="2823507" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日本软实力</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2823507&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2823507&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

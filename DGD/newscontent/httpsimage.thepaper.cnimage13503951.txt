@@ -1,0 +1,86 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">248公里/小时！男子深夜高架上飙车，涉危险驾驶罪被刑拘</h1>
+<div class="news_about">
+<p>澎湃新闻记者 杨帆</p>
+<p>
+							2018-12-25 21:08<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<script src="//file.thepaper.cn/www/v3/js/jwplayer7.1.4.js" type="text/javascript"></script>
+<script type="text/javascript">jwplayer.key="JYFbHxc36sStM1VSc1vvyI42CCrHFlTZcWEYUA==";</script>
+<div class="news_video_name">
+<style type="text/css">
+							#player_wrapper{width:669px;height:377px;}
+							#player_wrapper .player_err_tip{width:669px;height:377px;display: none;vertical-align: middle;background-color: black;color: white; text-align: center;}
+							.jw-tab-focus:focus{outline:none;}
+						</style>
+<div id="player_wrapper">
+<div class="player_err_tip" id="Text">抱歉!<br/>您的浏览器可能不支持此视频播放器，请用更高版本的浏览器试试！</div>
+</div>2018年10月18日，一辆沪牌小轿车在上海高架上严重超速行驶。司机周某因涉嫌危险驾驶罪，已被警方依法刑拘。来源：上海警方 剪辑：周毅 王佳晨(01:28)
+					</div>
+<div class="news_txt" data-size="standard">涉嫌危险驾驶的周某说，开车时脑子一热，速度就起来了， “人生中最快的一次，当时就想保留下来”。<br/><div class="contheight"></div>12月24日下午，一段在高架道路超速行驶的视频开始在网上流传。上海浦东警方获悉后，立即对此展开调查， 5个小时后，视频中的涉事驾驶员周某被传唤到案。目前，周某因涉嫌危险驾驶罪被浦东警方依法刑事拘留。<br/><div class="contheight"></div>视频中，一辆机动车在高架道路上高速行驶，车速在短时间内从80公里/小时迅速提高，最高至248公里/小时。根据网友提供的线索及画面分析比对，浦东警方确认视频中车辆行驶路段为浦东中环进度假区高架，并迅速锁定嫌疑车辆为牌号沪A64***的小轿车，该车登记车主信息是一周姓驾驶员。浦东警方依法将周某传唤到案。<br/><div class="contheight"></div>周某供述10月18日晚，他从宝山区赶往浦东新区，在驾车行至浦东中环高架转度假区高架处，加大马力超速行驶。周某承认自己当时观测到车辆仪表盘最高时速曾显示240公里/小时。事后，周某将这段行车记录仪记录下的视频发在了微信群内。<br/><div class="contheight"></div>到案后，周某十分后悔，连称“不是有意发在群里的”。那么这段视频究竟是如何上传到网上的？周某解释，这条路线他比较熟悉，正好所在的车友群有人问“哪条路能开快点躲避电子警察”，所以他就把视频发到了群里。<br/><div class="contheight"></div>周某奉劝开快车的驾驶员一定要引以为戒，不要拿自己和他人的生命开玩笑。目前，周某因涉嫌危险驾驶罪被浦东警方依法刑事拘留，案件正在进一步审理中。<br/><div class="contheight"></div>警方提示：驾驶机动车应遵守交通法规，在任何情况下都应严格控制车速，杜绝超速、危险驾驶等交通违法行为。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="402" src="http://image.thepaper.cn/www/image/13/504/38.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">涉案车辆。上海市公安局 供图</span></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = 'http://cloudvideo.thepaper.cn/video/be549fef2a454c4895facea0709edcf8/hd/df8d5144-7efc-4fc6-876c-9cbedf747509-8bb9b452-b4c1-b566-1156-1beed25f2e57.mp4',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'//image1.thepaper.cn/image/13/504/18.jpg',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 高架,飙车，拍视频炫耀,危险驾驶罪</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2774052">
+<div class="nbgbox">
+<a class="zan" contid="2774052" href="javascript:;" onclick="voteCont(this)" praisetimes="91">
+                           90</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 危险驾驶罪</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2774052&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2774052&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（56）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

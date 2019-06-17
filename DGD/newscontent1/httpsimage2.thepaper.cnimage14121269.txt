@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">韩流海外粉丝明年将超过1亿，韩媒：女性忠诚度高</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2019-01-10 20:01<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网1月10日报道，韩国某机构近日发布的数据显示，2020年，韩流海外粉丝有望突破1亿大关。<div style="text-align:center;"><img alt="" height="500" src="http://image.thepaper.cn/www/image/14/121/54.jpg" width="500"/></div><font color="#808080">人气男团EXO  本文图片均来自海外网</font><div style="color: rgb(128, 128, 128); text-align: center;"><img alt="" height="324" src="http://image.thepaper.cn/www/image/14/121/57.jpg" width="540"/></div><font color="#808080">参加韩流演唱会的外国粉丝，激动到流泪。<div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/121/55.jpg" width="100%"/></div></font><span style="color: rgb(128, 128, 128);">参加韩流庆典KCON的外国粉丝<br/><div class="contheight"></div></span>据韩联社10日报道，韩国外交通商部旗下国际交流财团（KF）发布的《2018地球村韩流现状》显示，2018年年底，海外113个国家的韩流同好会数量达到1843个，会员共计8919万人，较前年增长22%。照此趋势，2020年韩流海外粉丝将超过1亿。<div style="text-align:center;"><img alt="" height="314" src="http://image.thepaper.cn/www/image/14/121/53.jpg" width="540"/></div><font color="#808080">韩国人气女团Black pink<br/><div class="contheight"></div></font>韩国国际交流财团表示，所谓“韩流同好会”，指的是韩国艺人的粉丝俱乐部、韩国文化、韩餐、跆拳道同好会，以及大学里的韩流社团。<br/><div class="contheight"></div>报道指出，去年韩流粉丝猛增的主要原因是（BTS）的人气高涨，其次是中国“萨德”风波和日本嫌韩情绪有所收敛。<br/><div class="contheight"></div>报道说，作为韩流主力军的亚洲韩流，保持着蓬勃发展的趋势。<div style="text-align:center;"><img alt="" height="747" src="http://image.thepaper.cn/www/image/14/121/52.jpg" width="560"/></div><span style="color: rgb(128, 128, 128);">防弹少年团登上《时代》封面。<br/><div class="contheight"></div></span>韩国国际交流财团指出，女性韩流粉丝忠诚度高，正在崛起为化妆品、旅游等多领域的消费生力军，韩国政府需为她们制定政策。<br/><div class="contheight"></div>防弹少年团成立于2013年，由7名21至25岁少年组成，其经纪公司为Big Hit娱乐。2018年，防弹少年团不仅受邀赴联合国演讲，知名度大增。还登上美国《时代周刊》杂志最新一期封面，配文是“下一代领袖”。 <br/><div class="contheight"></div>（原题为《韩流海外粉丝明年将超过1亿 韩媒：女性忠诚度高》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 韩流,海外粉丝规模,女性粉丝</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837091">
+<div class="nbgbox">
+<a class="zan" contid="2837091" href="javascript:;" onclick="voteCont(this)" praisetimes="41">
+                           40</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 韩流</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837091&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837091&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

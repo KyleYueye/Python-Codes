@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">民政部去年审核报批设立山西怀仁、陕西彬州等13个县级市</h1>
+<div class="news_about">
+<p>澎湃新闻记者 王俊</p>
+<p>
+							2019-01-09 10:55<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">民政部区划地名司近日介绍2018年民政部区划地名与界线管理工作时披露，2018年民政部先后审核报批设立山西怀仁、陕西彬州等13个县级市。<br/><div class="contheight"></div>据《中国社会报》2019年1月3日发布的报道《积极服务国家战略 助推区划地名和界线管理事业新发展》，介绍了民政部区划地名司2018年工作情况。<br/><div class="contheight"></div>报道称，2018年，民政部区划地名与界线管理工作以习近平新时代中国特色社会主义思想为指导，全面贯彻落实党的十九大和十九届二中、三中全会精神，紧紧围绕贯彻落实习近平总书记等中央领导同志重要指示批示精神和党中央国务院决策部署，积极服务脱贫攻坚、京津冀协同发展等国家战略，推动地名普查、行政区划、地名管理和界线管理各项业务取得新成绩。<br/><div class="contheight"></div>行政区划工作取得重大进展方面，上述报道透露了2018年民政部先后审核报批设立了13个县级市：“一是推动出台《行政区划管理条例》，认真学习贯彻习近平总书记重要指示精神，制订民政部学习贯彻意见和条例宣传舆论工作方案，起草贯彻落实情况报告并报党中央国务院，配合国新办召开政策例行吹风会。二是着力抓好党中央国务院部署的重大事项办理落实。服务京津冀协同发展，牵头制订京津冀民政事业协同发展分工方案及具体落实措施；助力脱贫攻坚战略实施，办理22个有扶贫任务省份的行政区划调整19项（占全年调整总数的79%）。三是稳妥推进行政区划调整，<strong>先后审核报批设立山西怀仁、陕西彬州等13个县级市</strong>，开展深圳、大同等8地市辖区调整，办理北京市、山西泽州县人民政府驻地迁移，进一步优化了城市空间结构，促进了新型城镇化建设，服务了区域协调发展。四是大力规范行政区划管理，印发《民政部办公厅关于进一步规范行政区划调整申报审核工作的通知》，规范开展行政区划调整专家论证，加强各级人民政府驻地管理，组织开展党的十八大以来行政区划调整效果评估。五是加强行政区划公共服务，及时维护更新行政区划信息查询平台，实施中华人民共和国行政区划图集和县级以上行政区划沿革数据整理项目，编辑出版行政区划简册。”<br/><div class="contheight"></div>在大规模“县改市”已尘封20年之后，国务院2017年“解冻”了撤县设市的审批，当年，河北省平泉县、浙江省玉环县、陕西省神木县、四川省隆昌县、湖南省宁乡县、贵州省盘县6个县获批撤县设市。<br/><div class="contheight"></div>2018年，地方官方媒体先后披露，陕西彬县、江苏海安县、湖北京山县、黑龙江漠河县、山西怀仁县、贵州兴仁县、安徽潜山县、广西荔浦县、山东邹平县、甘肃华亭县、云南水富县、河北滦县等12地“撤县设市”获批的消息，达到了2017年一整年获批数量的两倍。<br/><div class="contheight"></div>撤县设市之外，青海省海西州还合并建立了一个新的县级市。2018年2月22日，经国务院批准，民政部批复，同意撤销茫崖行政委员会和冷湖行政委员会，设立县级茫崖市。<br/><div class="contheight"></div>上述《中国社会报》的报道称，2019年，民政部区划地名与界线管理工作将坚决贯彻落实党中央国务院决策部署，按照全国民政工作会议要求，全面加强党对区划地名工作的领导，贯彻实施《行政区划管理条例》，稳妥有序开展行政区划调整，进一步优化行政区划设置。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋子文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 区划调整，民政部，县级市</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831167">
+<div class="nbgbox">
+<a class="zan" contid="2831167" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 区划调整</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831167&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831167&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">韩将删除“将朝鲜视为敌人”表述，中方：支持朝韩良好互动</h1>
+<div class="news_about">
+<p>“外交部发言人办公室”公众号</p>
+<p>
+							2018-12-26 16:40<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“外交部发言人办公室”公众号（xws4_fmprc）消息，在12月26日外交部例行记者会上，有记者问：据报道，消息人士称，韩国国防部决定，在预定于明年1月发行的《2018年国防白皮书》中删除“将朝鲜政权和朝鲜军队视为敌人”的表述。中方对此有何评论？<br/><div class="contheight"></div>华春莹：我也注意到有关报道。近段时期以来，在朝韩双方的共同努力下，半岛北南双方积极落实双方领导人会晤共识和《板门店宣言》、《平壤共同宣言》精神，推进和解合作，取得一系列积极进展。我注意到，就在刚才，朝韩跨境铁路和公路对接项目开工仪式成功举行，这对朝韩双方都是利好消息，对半岛和平进程也具有积极意义。中方支持半岛北南双方继续延续目前良好互动势头，继续互释善意、巩固互信，改善关系，相信这将有利于半岛问题政治解决进程持续推进，符合半岛双方和地区国家的共同利益。（本文原题为《华春莹：支持朝韩继续良好互动》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 外交部,朝韩关系</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776702">
+<div class="nbgbox">
+<a class="zan" contid="2776702" href="javascript:;" onclick="voteCont(this)" praisetimes="29">
+                           28</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 朝韩关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776702&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776702&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

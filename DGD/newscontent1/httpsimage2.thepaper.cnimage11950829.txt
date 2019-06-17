@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜90后任千亿国企高管，让我们惊讶的是什么？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 于平</p>
+<p>
+							2018-11-04 20:07<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2600428" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜90后任千亿国企高管，让我们惊讶的是什么？" src="//image.thepaper.cn/image/11/949/261.jpg"/>
+</a>
+<div class="atlas_360_txt">“国企任用年轻董事”续：西安高新区纪工委介入，3人已停职<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">西安高新，一家总资产超过1000亿元的国企，近期的一次人事调整引起广泛关注和讨论：该公司法人、董事长兼总经理由一名“80后”担任，而两位新任董事皆为“90后”，一名出生于1993年，另一名出生于1995年——后者大学毕业仅一年。<br/><div class="contheight"></div>面对舆论质疑，西安高新区财政局昨晚回应称，对3名管理人员的相关问题，经调查了解，未发现影响公司正常运营的社会关系。今天下午，该局再发声明，却“画风突变”，称已决定对该三人停职并启动相关法律程序。<br/><div class="contheight"></div>一家大型国企，董事长兼总经理是80后，两名新晋董事，一个前年毕业，一个去年毕业。董事会七名成员，一水的80后、90后，平均年龄只有二十多岁，岂不怪哉？<br/><div class="contheight"></div>虽说国企管理层年轻化是近几年的趋势，但如此“年轻”，未免过了头。这些从业经验缺乏，管理履历空白，甚至是刚刚走出校门的“娃娃兵”，何以能一步登天？由他们管着千亿资产的国企，能让人放心吗？<br/><div class="contheight"></div>退一步说，即便这些年轻高管没有“背景”，那么对于他们任命也是草率的，涉嫌违规。《西安市国有企业领导人员管理暂行办法》明确规定，担任国企领导人员应“具有在大中型企业中层及其以上管理岗位任职的经历，或具有在相应层次国家机关、事业单位中层及其以上岗位任职的经历。”担任国企董事会成员，要“能把握企业的发展方向，有较强的战略决策能力、改革创新能力、风险防范能力和知人善任能力。”显然，这些“娃娃兵”们，离国企领导人任职的标准，相去甚远。<br/><div class="contheight"></div>对于“娃娃兵”任国企高管，另一种分析是，这些人不过是“花瓶”。因为西安有规定要求企事分离，即事业单位员工不得在企业兼职——高新区财政局的回应也提到这点。所以，就找了这几个年轻人来出面挂名，实质上仍由原来的领导掌管企业的运营。<br/><div class="contheight"></div>这样的分析似乎更符合逻辑。一方面这些“娃娃兵”显然不能胜任其职务，另一方面，在一年时间里，西安高新把所有董事会成员全换光，全由80后、90后掌舵，即便管理层年轻化，也不可能如此激进。<br/><div class="contheight"></div>如果上述分析成立，那无疑说明，在西安高新，所谓“企事分离”基本形同虚设。事业单位领导身兼两职，既当裁判员，又当运动员，权力与市场关系犬牙交错。如此，很容易出现灰色地带，破坏公平竞争的市场环境。<br/><div class="contheight"></div>一步登天的“娃娃兵”，一步到位的年轻化，西安高新的人事任免，背后玄机重重。涉事的三名高管虽已被停职，但真相依然不明，希望相关部门深入调查此事，早日给出一个令人信服的结论。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：黎凡<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 澎湃评论</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2600702">
+<div class="nbgbox">
+<a class="zan" contid="2600702" href="javascript:;" onclick="voteCont(this)" praisetimes="1208">
+                           1207</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 澎湃评论</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2600702&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2600702&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（361）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

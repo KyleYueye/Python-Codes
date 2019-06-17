@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">青海打掉盘踞海东、西宁一特大赌博团伙，抓获涉赌人员55名</h1>
+<div class="news_about">
+<p>青海公安微信公众号</p>
+<p>
+							2018-11-12 12:53<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">在省市公安机关的大力支持下，青海省海东市平安区公安局经过缜密侦查，于11月3日破获了一起聚众赌博案件，成功打掉了一个盘踞在海东、西宁等地的赌博团伙，抓获涉赌人员55名。<br/><div class="contheight"></div>11月2日，平安区公安局通过前期深入摸排，掌握了辖区内一赌博团伙多次在西宁、海东等地聚众赌博，11月3日，该团伙将以庆祝某装潢店开业为名，在平安区某生态园聚众赌博。获得线索后，警方连夜分析线索情况，研究制定侦查方案，部署抓捕行动。11月3日16时许，在省公安厅和市公安局的大力支持下，警方对在平安区高铁新区某生态园、某装潢店聚众赌博团伙分别展开抓捕行动，当场抓获涉案人员55人，缴获涉赌资金21万余元。为尽快查明案件事实，当天20时许，平安区公安局全体民警分组对涉赌人员连夜开展调查取证工作，经过40多个小时的连续侦查工作，警方基本查清了案件事实。<br/><div class="contheight"></div>经查，11月3日，犯罪嫌疑人熊某某、黄某某等人组织多人在平安区高铁新区某生态园及某装潢店内以摇骰子取单双方式进行赌博，犯罪嫌疑人熊某某伙同他人出资4万元坐庄，黄某某负责摇骰，其他参赌人员以押单双点数的方式进行赌博。犯罪嫌疑人于某某等人在现场使用现金“放水”，每1万元每三天抽取利息为500元。<br/><div class="contheight"></div>目前，涉嫌聚众赌博的犯罪嫌疑人熊某某、万某某等8人已被刑事拘留，犯罪嫌疑人黄某某等5人被取保候审，其他参赌人员被行政拘留，案件仍在进一步侦查中。<br/><div class="contheight"></div>（原标题：平安警方打掉盘踞海东西宁一特大赌博团伙 抓获涉赌人员55名）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李寿康<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 青海 警方</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2625566">
+<div class="nbgbox">
+<a class="zan" contid="2625566" href="javascript:;" onclick="voteCont(this)" praisetimes="29">
+                           28</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 赌博</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2625566&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2625566&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

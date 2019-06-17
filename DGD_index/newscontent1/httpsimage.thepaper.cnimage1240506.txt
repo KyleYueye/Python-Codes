@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">最高法：依法维护土地承包关系长久不变，保护农民人格权</h1>
+<div class="news_about">
+<p>澎湃新闻记者 庄岸 实习生 帕孜丽娅</p>
+<p>
+							2018-11-07 15:03<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">最高法院进一步强化了对于农民权利的司法保护力度。<br/><div class="contheight"></div>11月7日，最高人民法院发布《关于实施乡村振兴战略提供司法服务和保障的意见》（以下简称《意见》）。最高法院副院长江必新表示，对于“三农”工作来说，法院提供服务和保障的核心内容就是要维护好农民的合法权益，“对农民来说，土地承包经营权、宅基地使用权和集体收益分配权是需要重点保护的财产权利”。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）注意到，上述《意见》还专门对农民的人格尊严、人身自由和身体健康保护作了规定。此外，《意见》还要求防止简单以村民自治为由损害村民基本的财产权利，并强调了对农民工、空巢老人、留守儿童等特殊群体合法权益的保护。<br/><div class="contheight"></div>近年来，最高法院通过制定司法解释和司法政策指导各级法院依法妥善审理各类涉农案件，通过多种形式参与乡村矛盾纠纷化解。<br/><div class="contheight"></div>“目前，大量涉农案件统计在侵权责任纠纷、借款合同纠纷、婚姻家庭继承纠纷等案由下。”江必新表示，就单列的涉农案件案由看，2013年至2017年，全国法院受理农村承包合同纠纷民事一审案件109787件，审结108943件。<br/><div class="contheight"></div>前述《意见》要求，依法妥善审理农村土地承包纠纷案件，保护农村承包地的土地经营权依法有序流转。按照物权法、农村土地承包法等法律规定保护农民对承包土地享有的占有、使用、收益等法定权利。依法依规调处农村宅基地“三权分置”、集体经营性建设用地入市等纠纷，大力支持农村土地制度改革试点工作，保障农村土地制度改革。解放生产力，要加强产权保护。<br/><div class="contheight"></div>《意见》还要求，依法妥善处理乡村邻里纠纷。通过司法审判引导农村摒弃高额彩礼、干预婚姻自由、不赡养老人等不良风气。推进家事审判方式和工作机制改革，促进乡村和谐家庭、美好家风建设。推动扫黑除恶专项斗争不断向纵深发展，坚决依法从严从快惩处黑恶势力以及黑恶势力“保护伞”，增强农村群众的安全感和幸福感。<br/><div class="contheight"></div>值得关注的是，《意见》特别明确，依法保护农民人格权，保护农民人身自由、人格尊严和身体健康，着力保护农村空巢老人、留守儿童的合法权益以及农村适龄儿童的受教育权，加大乡村地区人权司法保护力度。依法妥善处理集体经济组织成员资格纠纷，防止简单以村民自治为由剥夺村民的基本财产权利。依法依规保护农村外嫁女、入赘婿的合法权益。依法保护农民工合法权益，让农民工既入得了城、扎得下根，又回得了村、稳得住心。<br/><div class="contheight"></div>《意见》同时要求，依法保护农村土地集体所有权、农村基本经营制度，依法维护土地承包关系稳定并长久不变。“落实集体所有权、稳定农户承包权，农民的生活就有了根，就能稳住心。”江必新说，对农民来说，土地承包经营权、宅基地使用权和集体收益分配权是需要重点保护的财产权利。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李寿康<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 最高法</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2610845">
+<div class="nbgbox">
+<a class="zan" contid="2610845" href="javascript:;" onclick="voteCont(this)" praisetimes="130">
+                           129</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国有土地</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2610845&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2610845&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

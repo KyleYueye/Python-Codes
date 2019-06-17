@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25490">打虎记</a>
+</div>
+<h1 class="news_title">打爆下属头的安徽村书记被撤职，涉事的6名村干部亦受处理</h1>
+<div class="news_about">
+<p>“安徽商报”微信公众号</p>
+<p>
+							2018-12-26 20:32<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">为给同事庆祝生日，枞阳县浮山村多名村干部晚上聚餐，不想酒后乐极生悲，村书记和一名下属发生口角，一玻璃杯砸破了对方的头，当场血流满面。<br/><div class="contheight"></div>12月25日，安徽商报融媒体记者从枞阳县浮山镇纪委获悉，为严肃党纪，涉事的8名村干部都受到处理，其中村书记被撤销党内职务，被打的村委委员被党内严重警告并免职。<br/><div class="contheight"></div>据了解，被撤职的村书记，今年8月才上任。<br/><div class="contheight"></div>今年10月30日下午，扶贫工作结束后，枞阳县浮山村党委委员鲍观祥接到同事邀请，晚上在枞阳县浮山开发区一饭店为一名村后备干部庆祝生日。酒过三巡，村书记胡兴刚和鲍观祥为琐事发生了口角，胡兴刚突然拿起桌上的玻璃杯打破了鲍观祥的头，当场血流满面。当晚鲍观祥被家人送往枞阳县医院紧急救治。<div style="text-align:center;"><img alt="" height="451" src="http://image.thepaper.cn/www/image/13/530/910.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">本文图片均来自“安徽商报”微信公众号<br/><div class="contheight"></div></span>2018年11月30日，经枞阳县公安司法鉴定中心鉴定，鲍观祥的人体损伤程度属轻微伤，枞阳县公安局遂依法给予胡兴刚行政拘留七日并处罚款300元的处罚。<br/><div class="contheight"></div>昨天下午，浮山镇纪委王书记告诉记者，12月18日浮山镇党委召开了党委会，对涉事8名村干部进行了处理。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="800" src="http://image.thepaper.cn/www/image/13/530/895.jpg" width="600"/></div>据了解，胡兴刚于2018年8月任浮山村党委书记兼村委会主任。<br/><div class="contheight"></div>经镇纪委调查，胡兴刚存在两个违纪违法行为，一是违反生活纪律，在公共场所有不当行为，被媒体曝光，造成恶劣的社会影响；二是违反《治安管理处罚法》被公安机关行政拘留并罚款。<br/><div class="contheight"></div>浮山镇党委研究认为：胡兴刚身为共产党员、村党委书记，理应严格遵守党纪国法，但其工作日接受他人宴请，席间饮酒并与鲍观祥在公共场所发生冲突，致使鲍观祥头部受伤流血，为严肃党纪，教育本人，警示他人，根据《中国共产党纪律处分条例》的有关规定，决定给予胡兴刚同志撤销浮山村党委书记职务。<br/><div class="contheight"></div>而鲍观祥工作日接受他人宴请，席间饮酒并与他人发生冲突，被多家媒体曝光，造成不良社会影响。给予其党内严重警告处分并免去其浮山村党委委员职务。<br/><div class="contheight"></div>对另外涉事的许某、方某某等6名村干部，因工作日饮酒，并在胡兴刚和鲍观祥发生口角、产生冲突时，作为在场人员未及时制止，导致事态扩大，进行诫勉谈话。 <br/><div class="contheight"></div>（原题为《打爆下属头的安徽村书记被撤职！另涉事的6名村干部亦受处理！》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 撤职,爆头</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2777733">
+<div class="nbgbox">
+<a class="zan" contid="2777733" href="javascript:;" onclick="voteCont(this)" praisetimes="110">
+                           109</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 官员被撤职</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2777733&caid=25490",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2777733&amp;caid=25490" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（31）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">贵州铜仁一青年因怕苦怕累拒服兵役，被纳入严重失信名单</h1>
+<div class="news_about">
+<p>“中国陆军”微信公号</p>
+<p>
+							2018-12-22 21:34<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">关于对拒服兵役新兵张欣处理的通报<br/><div class="contheight"></div>各乡（镇、街道），区征兵工作领导小组各成员单位：<br/><div class="contheight"></div>张欣，男，身份证号：52222119990205****，碧江区河西街道办事处青年，铜仁市第十五中学往届毕业生。在2018年征兵过程中，该青年自愿在全国征兵网报名应征，通过了碧江区征兵办公室组织的体格检查和政治考核，并审批定兵。入伍前，碧江区征兵办公室集中136名（含张欣）拟定兵应征青年反复进行了针对性思想教育，安排其参加了为期4天的役前集训，并按上级要求签订了《入伍承诺书》。入伍后不久，张欣以怕苦怕累为由拒服兵役，所在部队及时组织新兵连干部、班长、骨干进行教育引导。区人武部领导及河西街道武装部部长、干事会同其家长多次到部队与张欣本人沟通，宣讲兵役政策，鼓励其积极适应新训期间部队管理要求，安心部队生活、立志岗位成才。同时将拒服兵役有关处罚规定，向张欣晓以利害，但均无济于事，最终被部队依据《中国人民解放军纪律处分条例》（试行）予以除名。<br/><div class="contheight"></div>张欣拒服兵役问题，干扰了兵役机关的工作精力，给所在部队的管理带来了负担，其行为严重违反了《中华人民共和国兵役法》《贵州省征兵工作条例》。为切实维护兵役制度的严肃性，警示教育全社会适龄青年，根据《关于进一步加强新形势下征兵工作的意见》（黔党发[2012]34号）和《关于印发〈解决入伍新兵拒服兵役问题暂行办法〉的通知》（军动〔2018〕238号）之规定，并报请区人民政府批准，<strong>决定对张欣进行以下处罚</strong>：<br/><div class="contheight"></div>1对张欣本人因思想原因拒绝服兵役，对其进行1周以上的封闭式兵役法规教育和军事训练，由区人武部指导河西街道武装部具体组织实施；<br/><div class="contheight"></div>2责成其家庭承担体格检查、政治考核费用1600元，到广西部队驻地做思想工作费用8000 元，共计9600元；由区民政局实施，收缴经费纳入新兵征集优抚优待和大学生入伍奖励工作经费；<br/><div class="contheight"></div>3对张欣按照文件规定不低于2018年碧江区优待金2倍标准，处以4倍罚款32000元，由区民政局实施，收缴经费纳入新兵征集优抚优待和大学生入伍奖励工作经费；<br/><div class="contheight"></div>4区人力资源和社会保障部门不得将其录用为公务员或参照公务员法管理单位工作人员和事业单位工作人员，由区委组织部、区人社局和各相关单位共同实施；<br/><div class="contheight"></div>5两年内不得出国（境）或者升学，由区公安局、区教育局实施；<br/><div class="contheight"></div>6三年内不予办理经商手续，由区市场监管局实施；<br/><div class="contheight"></div>7三年内不得给予信贷优惠政策支持和利率优惠支持，纳入履行国防义务严重失信主体名单，区人武部协调中国人民银行铜仁市中心支行指导碧江区各家银行共同实施。<br/><div class="contheight"></div>8其本人和家庭成员不得纳入困难补助及保障性安居工程保障范围，由区民政局、区住房和城乡建设局组织实施。<br/><div class="contheight"></div>以上条款中涉及负责进行处罚实施的相关单位，一定要不折不扣抓好处罚工作的落实，切实起到惩前毖后警示教育的效果，防止类似问题再次发生。各单位处罚落实情况务必于12月28日前报送区征兵办（联系电话5736128），区征兵办将情况收集汇总后上报区人民政府备案。<br/><div class="contheight"></div>碧江区人民政府征兵办公室<br/><div class="contheight"></div>2018年12月12日<br/><div class="contheight"></div>（原题为《贵州铜仁碧江区一青年拒服兵役被通报》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 拒服兵役</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2764520">
+<div class="nbgbox">
+<a class="zan" contid="2764520" href="javascript:;" onclick="voteCont(this)" praisetimes="426">
+                           425</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 拒服兵役</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2764520&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2764520&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（251）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

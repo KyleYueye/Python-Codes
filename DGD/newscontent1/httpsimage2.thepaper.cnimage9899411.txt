@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜所有人的疑问：滴滴顺风车，还能坐吗？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 舒圣祥</p>
+<p>
+							2018-08-25 14:47<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2379586" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜所有人的疑问：滴滴顺风车，还能坐吗？" src="//image1.thepaper.cn/image/9/894/802.jpg"/>
+</a>
+<div class="atlas_360_txt">温州20岁女孩乘滴滴顺风车遇害，司机落网交代强奸杀人事实<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">郑州空姐遇害案后，滴滴顺风车又出事了！而且这一次，案发时间不是深夜，而是在光天化日之下。<br/><div class="contheight"></div>据浙江乐清警方通报，昨天下午13时许，20岁的女孩赵某在虹桥镇乘坐滴滴顺风车前往永嘉，14时许赵某向朋友发送“救命”讯息后失联。今天凌晨，犯罪嫌疑人钟某被抓获。经初步侦查，滴滴司机钟某交代了强奸、杀人的犯罪事实。<br/><div class="contheight"></div>三个多月前的空姐遇害案，让滴滴深陷舆论漩涡，影响不可谓不大。滴滴随后进行整改，剥离了滴滴顺风车的社交功能，使其回归互助性交通工具的本原。都以为滴滴顺风车这下不会出事了吧，谁曾想到，悲剧重演的速度竟然如此之快。<br/><div class="contheight"></div>对不幸遇害的女孩，以及她的家人来说，这是天塌了般的可怕灾难；而对所有的顺风车乘客来说，这更是无法接受的现实。为什么？为什么？——所有人心中都有一个可怕的疑问，所有人也都想知道一个明确的答案。<br/><div class="contheight"></div>为什么丧心病狂的恶魔，可以继续藏身顺风车司机里？为什么保护乘客的机制，没能发挥任何效用？是好了伤疤忘了疼，还是那些原本就是纸糊的假把式？如果说，种种“潜在罪犯”，因为客观限制难以甄别；但只要滴滴平台投诉机制健全，警惕意识到位，这起悲剧原本能够避免。<br/><div class="contheight"></div>报道披露，就在案发前一天，乐清林女士也曾坐过犯罪嫌疑人的车，司机将其带至偏僻处图谋不轨，林女士打开车门跑了，结果司机马上掉头来追，还好路上有几辆车经过，林女士才躲过一劫，还拍下了涉事车辆。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="442" src="http://image.thepaper.cn/www/image/9/899/409.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">事后林女士拍下了涉事车辆</span><br/><div class="contheight"></div>今天早上，听到女孩遇害的新闻，林女士一方面感到阵阵后怕，一方面又感到深深自责，“当时如果不畏缩去报警，这姑娘会不会就没有事了。”<br/><div class="contheight"></div>可真正该自责的，显然不是林女士。遭遇可怕经历后，林女士立马投诉到了滴滴平台。让人无法理解的是，接到情节如此严重的投诉，该司机为何依然能够继续接单，继续祸害其他女孩？<br/><div class="contheight"></div>出于谨慎，平台不听信乘客一面之词，可能需要有个调查的过程，这个可以理解。但是，平台的谨慎显然谨慎错了方向。要知道，林女士所投诉的，可不是一般的服务恶劣，那是可怕的犯罪未遂啊！三个多月前才有过郑州空姐遇害案的惨痛教训，怎能不对之高度警惕，怎么能不第一时间锁定司机、暂停其服务资格？<br/><div class="contheight"></div>要是滴滴这样做了，女孩也许就不会遇害了。可惜，并没有。空姐遇害悲剧发生后，公众都以为，滴滴会建立更为完善的监管，在司机准入时更严格，在考评时更重视乘客评价，屡遭差评的司机会被及时清理。可惜，并没有。<br/><div class="contheight"></div>信任越多，失望越多。悲剧的重演，让我们目瞪口呆。人们不得不质问：滴滴顺风车，到底还能坐吗？</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 滴滴顺风车</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2380015">
+<div class="nbgbox">
+<a class="zan" contid="2380015" href="javascript:;" onclick="voteCont(this)" praisetimes="376">
+                           375</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 滴滴顺风车</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2380015&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2380015&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（332）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

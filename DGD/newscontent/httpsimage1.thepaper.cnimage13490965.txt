@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">温医大大四女生失联2天：自称去买早饭，监控显示最后现海边</h1>
+<div class="news_about">
+<p>都市快报微信公众号</p>
+<p>
+							2018-12-25 17:29<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">这两天，一个20岁的女大学生牵动了许多象山人的心。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="742" src="http://image.thepaper.cn/www/image/13/490/949.jpg" width="539"/></div><span style="color: rgb(128, 128, 128);">本文图片均来自都市快报微信公众号</span><br/><div class="contheight"></div>女孩姓刘，河南人，温州医科大学大四学生，今年9月来到象山实习。<br/><div class="contheight"></div>12月23日上午8时40分，她跟室友说出去买早饭，一去未归。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="456" src="http://image.thepaper.cn/www/image/13/490/945.jpg" width="586"/></div><span style="color: rgb(128, 128, 128);">@象山卫计微博截图</span><br/><div class="contheight"></div>目前的线索是监控，画面内容显示，她打了一辆网约车来到象山松兰山旅游度假区，下车之后，她就沿着景区内的游步道走。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="408" src="http://image.thepaper.cn/www/image/13/490/958.jpg" width="600"/></div>监控定格的最后画面是在一段游步道上，最后，女孩不见了。<br/><div class="contheight"></div>女孩长发，身穿橘红色上衣，黑色半裙及黑色打底裤，黑色方跟皮鞋。<br/><div class="contheight"></div>当天下午16点左右，象山雄鹰救援队以及当地另一支救援队参与救援，总计200人进行联合搜救，暂时未找到小刘。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="397" src="http://image.thepaper.cn/www/image/13/490/995.jpg" width="600"/></div>救援队伍对沙滩、水库等地进行搜寻，一直搜索到次日凌晨。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="479" src="http://image.thepaper.cn/www/image/13/490/948.jpg" width="600"/></div>今日上午，救援队又带上专业的潜水装备、冲锋舟、摩托艇、无人机等，对事发地附近海域进行了搜寻。<br/><div class="contheight"></div>目前，仍然没有失联女孩的消息。<br/><div class="contheight"></div>据了解，女孩的父亲和亲属已经赶到了象山。<br/><div class="contheight"></div>16：30，象山人民医院工作人员告诉记者，为了找到小刘，目前医院、警方、救援组织等当地9个部门介入救援。<br/><div class="contheight"></div>（原题为《温医大大四女生失联2天！自称去买早饭，最后出现在象山松兰山景区海边》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：崔烜<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 大学生 失联</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2773124">
+<div class="nbgbox">
+<a class="zan" contid="2773124" href="javascript:;" onclick="voteCont(this)" praisetimes="33">
+                           32</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 女生失联</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2773124&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2773124&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

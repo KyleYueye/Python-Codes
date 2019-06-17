@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25437">牛市点线面</a>
+</div>
+<h1 class="news_title">证券日报：科创板走增量改革路，为增强市场包容性提供突破口</h1>
+<div class="news_about">
+<p>择远/证券日报</p>
+<p>
+							2018-12-24 08:06<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“推动在上交所设立科创板并试点注册制尽快落地。”日前召开的中央经济工作会议指出。<br/><div class="contheight"></div>与此同时，证监会党委日前召开会议，进一步深入学习领会习近平总书记重要讲话精神，对全系统学习贯彻落实工作作出部署。会议提出，当前最重要的是把习近平总书记关于在上海证券交易所设立科创板并试点注册制的重要指示，作为新时代资本市场深化改革的头等大事，抓紧落实落地。<br/><div class="contheight"></div>上海证券交易所表示，全面落实总书记关于在上海证券交易所设立科创板并试点注册制的重要指示，在中国证监会的统一部署下，高效平稳推进设立科创板并试点注册制的重大改革工程，向世界展示新时代中国资本市场改革开放的新力量、新形象。<br/><div class="contheight"></div>在上海证券交易所推出科创板并试点注册制，是我国资本市场改革的新举措。我们看到， 经过28年的发展，我国资本市场从无到有、从小到大，成为服务经济发展的重要力量。如今，随着新经济的不断发展，资本市场如何提高服务新经济的能力，成为一个必须考虑的问题。<br/><div class="contheight"></div>在这种情况之下，推出科创板，无疑为新经济企业提供了一个良好的平台。当然，推进科创板，必须要与主板、中小板、创业板、新三板有良好的衔接、配合。<br/><div class="contheight"></div>同时，设立科创板走的是增量改革的路径。这一点，证监会和上交所早已经明确。证监会称：科创板旨在补齐资本市场服务科技创新的短板，是资本市场的增量改革，将在盈利状况、股权结构等方面做出更为妥善的差异化安排，增强对创新企业的包容性和适应性。<br/><div class="contheight"></div>上交所方面则称，设立科创板并试点注册制是提升服务科技创新企业能力，增强市场包容性，强化市场功能的一项资本市场重大改革举措。通过发行、交易、退市、投资者适当性、证券公司资本约束等新制度以及引入中长期资金等配套措施，增量试点、循序渐进，新增资金与试点进展同步匹配，力争在科创板实现投融资平衡、一二级市场平衡、公司的新老股东利益平衡，并促进现有市场形成良好预期。<br/><div class="contheight"></div>设立科创板并试点注册制，为上交所发挥市场功能，弥补制度短板，增强包容性提供了至关重要的突破口和实现路径。虽然目前科创板的相关方案并未面世，我们也无从得知什么样的企业最终能上科创板，但可以肯定的一点是，科创板主要针对尚未进入成熟期但具有成长潜力、且符合战略新兴产业发展方向及具有科技型、创新型特征的中小和初创型企业。<br/><div class="contheight"></div>也正因为如此，科创板一旦推出，一方面将进一步完善多层次资本市场体系，让各个板块共同发展；另一方面，将是增强我国资本市场服务创新企业发展能力的一个突破口，为发展潜力大、带动作用强、成长性高的科创企业注入“活水”，成为我国发展新业态、新模式、新产业、新技术等新经济和战略性新兴产业的重要场所。<br/><div class="contheight"></div>科创板要承担中国资本市场改革创新的重任，要聚焦国家创新驱动和科技发展战略。笔者认为，推出科创板，是对科创企业直接融资的有力支持；是提升市场价值发行功能，促进上市公司良性竞争的重要举措。<br/><div class="contheight"></div>（原标题《科创板走增量改革路 为增强市场包容性提供突破口》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：葛佳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2767698">
+<div class="nbgbox">
+<a class="zan" contid="2767698" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 科创板</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767698&caid=25437",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767698&amp;caid=25437" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

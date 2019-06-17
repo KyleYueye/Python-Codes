@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">打游戏被拒，衢州两男生带10包榨菜20个馒头“寻找自由”</h1>
+<div class="news_about">
+<p>盛伟 郑璐/钱江晚报</p>
+<p>
+							2018-12-26 11:02<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“我要去寻找自由，开始新生活！”12月23日晚，衢州江山市坛石镇14岁男孩小博（化名）和小飞（化名）从学校翻墙出走，留下了这样一张字条。<br/><div class="contheight"></div>12月24日早上，两名男孩在附近的山上被找到。<br/><div class="contheight"></div>而两个熊孩子离家出走的原因让人唏嘘：打游戏被拒，觉得学校家长管得太严。<br/><div class="contheight"></div><strong>留下字条<br/><div class="contheight"></div>两个少年出走找“自由”</strong><br/><div class="contheight"></div>12月23日是学生周末返校的日子，小博和小飞却没有像往常一样出现在教室。老师与家长联系后发现，两个孩子都和家里说返校上课了。意识到情况不对，老师和家长也着急了起来，立即开始分头寻找。老师在寝室里发现两个孩子的被子、行李都已经被拿走。小博的妈妈也在家中发现了小博留下的“寻找自由”的字条。<br/><div class="contheight"></div>家长和老师四处寻找，把小博和小飞的亲戚、同学处都找遍了，依然一无所获，焦急万分地赶到了坛石派出所报警求助。当时已是晚上11点，值班民警当即兵分两路，一路和老师家长继续外出寻找，一路查看监控。<br/><div class="contheight"></div>通过查看监控发现，两个孩子当晚背着书包、拿着三四袋行李沿着205国道走到了坛石镇新叶村，之后便跑上山消失了。寻找人员又前往新叶村附近的山坡进行搜寻，终于在24日上午10点找到了小博和小飞。<br/><div class="contheight"></div><strong>买了10包榨菜、20个馒头<br/><div class="contheight"></div>打算长住野外</strong><br/><div class="contheight"></div>小博和小飞是江山某中学初二学生。自升初中以来，两人都迷上了王者荣耀这款手机游戏。因为玩游戏，两人和父母经常争吵，学习成绩也不断下降。<br/><div class="contheight"></div>小博和小飞认为家长和老师管得太严，学习压力大，生活不快乐，于是就有了离家找自由的想法。为此，两人做了周密的准备，从家里带了打火机、充电台灯、暖宝宝、水果刀等工具，到寝室里拿走了被子、毛毯、衣服、毛巾等行李，又采购了4瓶矿泉水、10包榨菜、20个馒头。准备好物资和行李后，两人又商量了下，决定跑到山上躲一段时间，好避开街道上的监控。<br/><div class="contheight"></div>当天晚上，两人在山上一个废弃水塔内，用毛毯、松树枝铺成床睡了一晚。早上起来，两人又就着榨菜吃了几个馒头当早饭，正准备下山探探情况，就被找来的民警和家长、老师带回了学校。<br/><div class="contheight"></div>民警对小博和小飞离家出走的行为进行了批评教育，并对家长的沟通教育方式进行了劝诫。<br/><div class="contheight"></div>调查显示，大多数离家出走的孩子都与家长存在沟通不畅的问题，还有部分的孩子出走是由于和家里发生了直接的矛盾冲突。<br/><div class="contheight"></div>民警也提醒广大家长，平时要加强和孩子之间的沟通，注意教育的方式、方法。<br/><div class="contheight"></div>（原题为：《带着10包榨菜20个馒头 衢州两男生要“寻找自由”》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 游戏,家长,学校,出走</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2775623">
+<div class="nbgbox">
+<a class="zan" contid="2775623" href="javascript:;" onclick="voteCont(this)" praisetimes="81">
+                           80</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 打游戏</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2775623&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2775623&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（596）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

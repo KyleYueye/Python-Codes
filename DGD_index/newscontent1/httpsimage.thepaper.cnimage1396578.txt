@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">日媒：为加强反恐，日本政府正探讨在铁路车站检查行李</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-06 16:17<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">为了更好地保障2020年东京奥运会的平稳举行，日本政府正在探讨未来如何在铁路车站开展行李检查。<br/><div class="contheight"></div>据日本共同社1月6日报道，有相关人士透露，鉴于2020年将举办东京奥运会和残奥会以及2018年6月发生了东海道新干线死伤案，日本政府为加强铁路的反恐对策，正在探讨在车站实施以乘客为对象的手提行李检查实证试验。<br/><div class="contheight"></div>目前，包涵日本新干线以及市内地铁在日常运行时并不对乘客所携带行李进行任何常规安全检查。<br/><div class="contheight"></div>据共同社报道，目前位于东京都千代田区的东京Metro地铁公司霞关站被列为候选，正朝着最快2月实施检查的方向进行协调。日本政府也将通过试验找出问题点，看清可否实施，若安检可以实现，则将探索具体的检查方法、时间和导入线路。对于这一计划，日本铁路公司以乘客出入站耗时太多、有损便捷性以及难以确保新设备的空间等为由，反对意见强烈。<br/><div class="contheight"></div>另据日本相关人士透露，日本国土交通省已向安保公司及检查机器制造商呼吁提出试验方案，还要求日本各大型私营铁路等公司提供协助。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 日本社会</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2820429">
+<div class="nbgbox">
+<a class="zan" contid="2820429" href="javascript:;" onclick="voteCont(this)" praisetimes="60">
+                           59</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日本社会问题</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2820429&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2820429&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

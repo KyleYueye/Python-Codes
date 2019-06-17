@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">有航企增安全红线：无关人员不得进驾驶舱，航空器内不得吸烟</h1>
+<div class="news_about">
+<p>澎湃新闻记者 姚晓岚</p>
+<p>
+							2019-01-10 21:04<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">东海航空的航空安全事件发生后，国内部分航空公司开始调整安全红线。<br/><div class="contheight"></div>1月10日，澎湃新闻（www.thepaper.cn）记者从接近国内一家航空公司的知情人士处了解到，该航空公司于今日下发了《关于调整公司飞行系统“安全红线”的通知》（下简称《通知》）。<br/><div class="contheight"></div>《通知》中将“飞行中，允许无关人员进入驾驶舱”和“所有运行阶段，在航空器内吸烟（包括吸电子烟）”作为新增的第3、4条安全红线。<br/><div class="contheight"></div>第1、2条安全红线为“着陆跑道接地区150米（500英尺）以下，未建立着陆形态并强行落地”和“航前酒精检测超标”。这2条安全红线在此次调整前已存在。<br/><div class="contheight"></div>《通知》还明确，对于触碰第1-3条红线的飞行机组的处理，取消机长现任技术岗位聘用资格3年，延长副驾驶转升3年。<br/><div class="contheight"></div>对于触碰第4条红线的飞行机组的处理为，暂停派遣不少于1年。对于发现吸烟行为但未予以制止的其他飞行机组成员，暂停派遣不少于半年。<br/><div class="contheight"></div>据东海航空此前通报，2018年7月28日，B-1533号飞机执行DZ6286、DZ6206次航班时，机长陈某擅自允其妻子进入驾驶舱，违反了运行规章及空防安全相关规定，构成一起安全运行作风松懈、严重违规违章事件。东海航空已于2018年8月2日对该航班机组人员进行严肃处理并给予内部通报。给予机长陈某暂停飞行6个月，取消教员资质，给予人民币12000元经济处罚，同时按票价原价补回后续航段票款。分别给予副机长、乘务长和安全员停飞和经济处罚。<br/><div class="contheight"></div>上述《通知》称，《通知》内容将在下次修订公司《航空安全奖惩规定》时纳入。<br/><div class="contheight"></div>澎湃新闻记者看到，上述《通知》的对象包括该航空公司各地分公司、下属航空公司在内。<br/><div class="contheight"></div>此外，该航空公司还于同日作出安全风险管控警示称，在所有运行阶段，全面禁止驾驶舱吸烟行为，机组相互监督，共同抵制此类违章行为。同时，严禁一切无关人员进入驾驶舱，全程锁闭驾驶舱门，谨慎按规开启驾驶舱门。<br/><div class="contheight"></div>安全风险管控警示中明确，此类违章无后果事件，严重违反《运行手册》、《飞行运行作风》、《大型飞机公共航空运输承运人运行合格审定规则》等各项条款。如发生，将严重影响公司和飞行部集体声誉，严重影响飞行人员家庭经济收入与生活，严重影响飞行人员个人职业生涯。依据相应事件处罚标准，将按照人为不安全事件就高处理。<br/><div class="contheight"></div>为强调安全风险管控警示力度，该航空公司在文件中还作出三点表态：<br/><div class="contheight"></div>一是责任机长负有最终管控责任，发生公司明令禁止的违章行为，加大力度处罚。<br/><div class="contheight"></div>二是不仅对吸烟人员实施高于公司规定的处罚，对于未及时制止的机组人员同样进行处罚。<br/><div class="contheight"></div>三是远离一切红线，坚守安全底线。如发生触碰“安全红线”的事件， 一定严肃加重处罚。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王杰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837742">
+<div class="nbgbox">
+<a class="zan" contid="2837742" href="javascript:;" onclick="voteCont(this)" praisetimes="100">
+                           99</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 航空安全</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837742&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837742&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

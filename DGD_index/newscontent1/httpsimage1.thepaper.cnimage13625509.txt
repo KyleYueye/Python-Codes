@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">张明大使：中欧已形成“你中有我、我中有你”的利益交融格局</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-28 13:17<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="399" src="http://image.thepaper.cn/www/image/13/625/507.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">中国驻欧盟使团团长张明。国际在线 资料图</span><br/><div class="contheight"></div>中国驻欧盟使团团长张明27日在接受新华社记者专访时说，今年是中欧全面战略伙伴关系建立15周年。当前中欧关系保持稳中向好势头，合作领域日益广泛、利益融合渐趋深入、彼此需求有增无减，中欧已形成“你中有我、我中有你”的利益交融格局。<br/><div class="contheight"></div>张明说，中欧关系在2018年取得重要进展，首先体现在战略互信不断巩固。今年，第二十次中欧领导人会晤成功举行，就继续深化中欧合作发表了重要联合声明。一年来，双方高层往来频密，增进了双方互信，也为中欧关系的发展注入新的政治动力。<br/><div class="contheight"></div>在经贸方面，中欧双边贸易额快速增长。张明说，中欧贸易额今年有望创出新高，双方就双边投资协定谈判交换了清单出价，同意尽快结束地理标志协定谈判，并就循环经济、蓝色伙伴、海关合作等签署了新合作文件。<br/><div class="contheight"></div>张明表示，中欧关系的全球意义也更加突出。他说，中欧在支持多边主义方面有更多共同语言，双方携手改善全球治理，就气候变化问题发表联合声明，就伊朗核问题、叙利亚问题等国际与地区热点保持密切沟通。<br/><div class="contheight"></div>另外，张明说，今年也是中欧围绕“一带一路”开展交流对接持续走深走实的一年，欧方对共建“一带一路”的认知和了解更为客观，正面的声音不断增强，参与其中的意愿更加强烈。究其原因，主要是因为中欧政治共识进一步深化，双方发展战略对接有了新的切入点以及双方合作取得了更多实实在在的成果。<br/><div class="contheight"></div>在今年先后举行的第二十次中欧领导人会晤和第十二届亚欧首脑会议期间，中欧就推动“一带一路”建设与欧方倡议对接，共同促进亚欧互联互通达成重要共识。不少中欧企业联手合作在亚洲、非洲等第三方市场开展基础设施、能源、环保、金融等领域重大项目，取得了务实成果。<br/><div class="contheight"></div>张明强调，中方赞赏欧方对发展中欧关系的积极立场，愿与欧方相向而行，希望欧方言行一致，尊重中方核心利益和重大关切，以公平公正、开放共赢的态度发展对华关系。<br/><div class="contheight"></div>张明说，在新的一年里，中国和欧盟更有责任发展好双边关系，在提升互利合作给双方人民带来的获得感的同时，不断释放中欧共同坚持多边主义的积极信号，以中欧关系的稳定性应对国际形势的不确定性。<br/><div class="contheight"></div>（原标题 《专访：中欧已形成“你中有我、我中有你”的利益交融格局——访中国驻欧盟使团团长张明》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中欧关系</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2787324">
+<div class="nbgbox">
+<a class="zan" contid="2787324" href="javascript:;" onclick="voteCont(this)" praisetimes="18">
+                           17</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中欧关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2787324&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2787324&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

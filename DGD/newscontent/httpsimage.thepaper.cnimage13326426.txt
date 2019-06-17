@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美方将15名俄情报总局人员列入制裁名单</h1>
+<div class="news_about">
+<p>张敏/海外网</p>
+<p>
+							2018-12-20 08:14<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="293" src="http://image.thepaper.cn/www/image/13/326/424.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">美国总统特朗普会见俄罗斯总统普京 视觉中国 图</span></div><div>海外网12月20日消息，当地时间19日，美国财政部发布声明称，将15名俄罗斯情报总局人员列入制裁名单。</div>据俄罗斯卫星通讯社报道，美国财政部的声明称：“已将15名俄情报总局人员列入制裁名单，因为他们参与各类恶意活动，包括试图干预美国2016年大选、入侵国际组织网络系统以及在英国谋杀未遂。”<br/><div class="contheight"></div>报道称，美国财政部在提交国会的文件中表示，俄罗斯商界大亨杰里帕斯卡将继续被列入美国的制裁名单。文件指出，“杰里帕斯卡将继续受到制裁，其所有权超过50%的资产将继续冻结，持股超过50%的企业也将继续受到封锁。”<br/><div class="contheight"></div>今年3月，前俄英双重间谍斯克里帕尔及其女儿尤利娅在英国索尔兹伯里被发现失去意识。英国政府方面称，导致斯克里帕尔父女中毒的是“诺维乔克”神经毒剂。以英美为首的西方国家指责俄罗斯与此事有关。事发后，美国扬言因俄罗斯违反国际法，对其进行制裁。今年8月，美方宣布，确定俄罗斯政府是双面间谍案的幕后黑手，并对其开启新一轮制裁。<br/><div class="contheight"></div>针对美国就双面间谍案对俄罗斯发起制裁的做法，俄方也几次表态。俄罗斯驻美使馆此前对其进行抨击，称美国没有任何证据证明俄罗斯与这一事件有关。对于美方有关俄罗斯干涉选举的指控，俄罗斯也多次驳斥。俄总统新闻秘书佩斯科夫曾表示，这些指控毫无依据。<br/><div class="contheight"></div>（原题为《又来！美方将15名俄情报总局人员列入制裁名单》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国,俄罗斯,制裁</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2754977">
+<div class="nbgbox">
+<a class="zan" contid="2754977" href="javascript:;" onclick="voteCont(this)" praisetimes="21">
+                           20</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美俄关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2754977&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2754977&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

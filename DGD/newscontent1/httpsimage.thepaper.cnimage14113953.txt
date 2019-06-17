@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">2019年第一期上海政务新媒体传播影响力排行榜出炉</h1>
+<div class="news_about">
+<p>“网信上海”微信公号</p>
+<p>
+							2019-01-10 12:51<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“网信上海”微信公号1月10日消息，2019年第一期上海市政务新媒体传播影响力排行榜新鲜出炉啦！<br/><div class="contheight"></div>本期榜单共分为8个榜单，分别对2018年12月各区、委办局、人民团体政务微博、微信公众号的传播力和影响力进行排行。<br/><div class="contheight"></div><strong>综合传播力方面：</strong><br/><div class="contheight"></div>“上海宝山”、“上海松江”、“上海黄浦”分列各区微信公众号前三；市公安局“警民直通车上海”、市文旅局“乐游上海”、市检察院“上海检察”分列委办局微信公众号前三。<br/><div class="contheight"></div>“上海静安”、“上海宝山发布”、“上海杨浦”分列各区微博前三 ；“警民直通车上海”、“乐游上海”、“绿色上海”分列委办局微博前三。<br/><div class="contheight"></div><strong>综合影响力方面：</strong><br/><div class="contheight"></div>“上海松江”、“上海宝山”、“上海黄浦”分列各区微信公众号前三；“警民直通车上海”、“乐游上海”、“上海检察”分列委办局微信公众号前三；<br/><div class="contheight"></div>“上海宝山发布”、“上海静安”、“上海普陀”分列各区微博前三；“警民直通车上海”、“乐游上海”、“上海交通”分列委办局微博前三。<br/><div class="contheight"></div>（完整排行榜请见附表）<br/><div class="contheight"></div>敲黑板！<br/><div class="contheight"></div>日前，国务院办公厅印发《关于推进政务新媒体健康有序发展的意见》（国办发〔2018〕123号）。根据《意见》精神，各级政务新媒体按照主管主办和属地管理原则，接受宣传、网信部门的有关业务统筹指导和宏观管理。各地区、各部门要将政务新媒体工作情况列入年度绩效考核，制定考核评价办法。<br/><div class="contheight"></div>上海市互联网信息办公室按照中央精神，积极推动本市各地区、各部门政务新媒体内容建设，依托自主研发的“政务新媒体传播影响力评估系统”，对全市首批纳入统计的16个区、28家市级委办局和3家人民团体的政务微信、政务微博，进行综合传播力、影响力排名。每月10日统一发布政务新媒体传播影响力排行榜。<br/><div class="contheight"></div><strong>政务新媒体综合传播力榜单（前十）</strong><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/113/942.jpg" width="100%"/></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/113/943.jpg" width="100%"/></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/113/944.jpg" width="100%"/></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/113/945.jpg" width="100%"/></div><strong>政务新媒体综合影响力榜单（前十）</strong><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/113/946.jpg" width="100%"/></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/113/947.jpg" width="100%"/></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/113/948.jpg" width="100%"/></div><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/113/949.jpg" width="100%"/></div>（原题为《来了！2019年第一期上海政务新媒体传播影响力排行榜出炉！》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 政务,新媒体</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836212">
+<div class="nbgbox">
+<a class="zan" contid="2836212" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 新媒体</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836212&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836212&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25433">地产界</a>
+</div>
+<h1 class="news_title">社科院：房价现暂时性下跌，不宜出台刺激政策使调控前功尽弃</h1>
+<div class="news_about">
+<p>澎湃新闻记者 计思敏</p>
+<p>
+							2018-12-27 18:03<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月27日，中国社会科学院财经战略研究院发布2018年12月《中国住房市场发展月度分析报告》，报告显示，一旦外部经济环境有所改善，一线城市楼市可能会率先缓慢复苏，二三线城市仍将继续调整。<br/><div class="contheight"></div>报告建议，应保持政策定力，即使房价出现暂时性下跌，也不宜出台剌激或鼓励购房政策，避免房地产调控前功尽弃。但部分房价下跌的城市，可以因地制宜地调整一些不合时宜的房地产政策，如限售、限价等，使得房地产政策体系更为科学合理。<br/><div class="contheight"></div>房价下跌城市增多，跌幅增大是当前住房市场运行状况。报告显示，房地产调控政策保持了延续性与稳定性，部分开发商及住房投资者关于房地产调控全面放松的预期一再落空，开始逐步降价售房。货币化棚改政策的调整，对二三四线城市房地产热起到了釜底抽薪的作用。复杂的国内外经济形势，使得部分家庭推迟了购房决策。这也使得房价下跌的城市较快增加。<br/><div class="contheight"></div>按照大数据房价指数监测显示，2018年11月142个样本城市房价平均环比下跌0.802%，跌幅比上月扩大0.5个百分点。房价环比下跌的城市为113个，比上月增加29个，占样本数的80%。环比持平城市1个。<br/><div class="contheight"></div>2018年11月，不仅一二线城市房价继续调整，三四线城市也总体进入房价下调阶段。<br/><div class="contheight"></div>大数据房价指数监测显示，2018年11月一线城市房价环比平均下跌1.49%，跌幅比上月收窄0.37个百分点。广州、北京、深圳、上海四个一线城市房价均环比下跌。其中11月深圳环比下跌1.39%，北京环比下跌1.64%，广州环比下跌1.51%，上海环比下跌1.43%。与上年同期相比，2018年11月一线城市平均同比下跌0.675%，其中上海同比下跌12.04%，广州仍同比上涨8.19%。<br/><div class="contheight"></div>2018年11月二线城市房价环比下跌1.306%，跌幅比上月进一步扩大0.193个百分点。除了大连、沈阳环比微涨外，其余二线城市房价均不同程度下跌。其中西安、青岛、成都、武汉等曾经的热点二线城市房价下跌相对较快。<br/><div class="contheight"></div>对于三四线城市而言，三四线城市房价环比下跌0.678%，跌幅比上月扩大0.572个百分点。118个样本城市中，下跌的城市达91个，下跌城市占比77%。温州、湖州、西双版纳、上饶、嘉兴等三四线城市房价下跌速度相对较快。<br/><div class="contheight"></div>报告指出，2017年下半年以来，一线城市已经经历了一波房价调整，北京房价较2017年4月高点的最大跌幅曾接近20%。但是只要外部经济环境有所改善，市场随时有可能重新复苏。三四线城市上半年正经历了一波较快上涨，多数城市房价同比涨幅仍较高。由于目前才刚进入阶段性调整，距离再次复苏仍需时日。二线城市的市场状况则居于一线及三四线之间。<br/><div class="contheight"></div>展望2019年，报告认为，一线城市已经进入存量房市场，受开发市场波动及商品房库存变动因素的影响较小，市场变动主要取决于政策特别是融资条件的变化，但政策进一步趋紧的可能性并不大。另一方面，经历了2017年以来的持续调整，一线城市房价风险已经得到一定释放。市场复苏目前主要受制于严厉的调控政策及复杂多变的外部经济环境。一旦外部经济环境有所改善，一线城市楼市可能会率先缓慢复苏。2019年虽然国际资本市场仍将继续动荡，但中美贸易摩擦可能会有所缓和。这或将在一定程度上改善房地产市场所处的外部经济环境，减弱市场观望情绪。<br/><div class="contheight"></div>对于二三四线城市而言，则仍将继续调整。二三四线城市大多仍处于增量房市场阶段，当销售不畅时，住房库存将再度增加，并反过来进一步增强房价下降压力。2017-2018年，二三四线城市房价大都累积了不小的涨幅，客观上也有调整的需要。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘秀浩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 房地产市场,楼市,房企</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780820">
+<div class="nbgbox">
+<a class="zan" contid="2780820" href="javascript:;" onclick="voteCont(this)" praisetimes="24">
+                           23</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 房地产市场</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780820&caid=25433",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780820&amp;caid=25433" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

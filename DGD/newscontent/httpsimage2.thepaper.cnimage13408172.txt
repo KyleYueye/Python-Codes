@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25438">财经上下游</a>
+</div>
+<h1 class="news_title">李克强签署国务院令，公布修订后的《个人所得税法实施条例》</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-22 19:02<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京12月22日消息，国务院总理李克强日前签署国务院令，公布修订后的《中华人民共和国个人所得税法实施条例》。<br/><div class="contheight"></div>2018年8月31日，第十三届全国人大常委会第五次会议通过了新修改的《中华人民共和国个人所得税法》。此次个人所得税法修改，建立了综合与分类相结合的个人所得税制，对部分劳动性所得实行综合征税，优化调整了税率结构，提高了综合所得基本减除费用标准，设立了专项附加扣除项目，并相应健全了个人所得税征管制度。<br/><div class="contheight"></div>为保障新个人所得税法顺利实施，国务院对1994年制定的个人所得税法实施条例作了修改。修改的主要内容包括：加大对符合居民个人标准的境外人士税收优惠力度，以更好吸引境外人才；为支持鼓励自主创业，对个体工商户等经营主体在计算经营所得时给予家庭生计必要支出减除；明确个人缴付符合国家规定的企业年金、职业年金，购买符合国家规定的商业健康保险、税收递延型商业养老保险的支出，以及国务院规定的其他项目可以依法扣除；优化与专项附加扣除政策相关的纳税服务，明确工资、薪金所得可以由扣缴义务人在扣缴税款时减除专项附加扣除，其他综合所得在汇算清缴时减除专项附加扣除，纳税人可以委托扣缴义务人或者其他单位和个人办理汇算清缴。<br/><div class="contheight"></div>修订后的个人所得税法实施条例自2019年1月1日起与新个人所得税法同步施行。<br/><div class="contheight"></div>（原题为《李克强签署国务院令 公布修订后的＜中华人民共和国个人所得税法实施条例＞》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2764358" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">修订后的《中华人民共和国个人所得税法实施条例》公布</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 《中华人民共和国个人所得税法实施条例》,修订</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2764343">
+<div class="nbgbox">
+<a class="zan" contid="2764343" href="javascript:;" onclick="voteCont(this)" praisetimes="1228">
+                           1227</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 个人所得税改革</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2764343&caid=25438",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2764343&amp;caid=25438" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

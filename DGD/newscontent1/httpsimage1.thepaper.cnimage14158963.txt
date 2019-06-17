@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">陕西省委常委班子集体观看央视专题片《一抓到底正风纪》</h1>
+<div class="news_about">
+<p>陕西发布</p>
+<p>
+							2019-01-11 11:06<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月10日，陕西省委常委班子召开“讲政治、敢担当、改作风”专题教育警示教育会议，集体观看中央电视台新闻专题片《一抓到底正风纪》，结合学习习近平总书记重要指示批示和中央办公厅关于秦岭北麓西安境内违建别墅问题《通报》，开展学习交流。 <br/><div class="contheight"></div>省委书记胡和平主持并讲话。省长刘国中，省政协主席韩勇，省委常委张广智、梁桂、徐新荣、王永康、庄长兴、姜锋、牛一兵、杨志斌，省人大常委会副主任刘小燕出席。 <br/><div class="contheight"></div>会上，与会同志逐一发言，交流观看新闻专题片的心得体会。<br/><div class="contheight"></div>大家一致认为，秦岭北麓西安境内违建别墅问题中违建别墅是表象，不讲政治是根本，严重违反政治纪律、政治规矩是实质，反映出我们没有把习近平总书记重要指示批示的落实当作党内重要的政治规矩，贯彻部署态度不坚决、认识不到位、措施不得力，形式主义、官僚主义严重，管党治党严重宽松软。<br/><div class="contheight"></div>大家深刻认识到，专项整治取得了良好的政治效果、纪法效果和社会效果，根本在于习近平总书记重要指示批示产生了强大的政治威力，根本在于习近平总书记对突出问题始终扭住不放、亲力亲为、一抓到底，集中体现了习近平总书记不解决问题绝不放手的鲜明政治品格和执政风格。大家深刻体会到，坚决做到“两个维护”是党的政治命脉，必须真正铭记在头脑里、全面落实在行动上、时时处处体现在工作中；敢于担当是党员领导干部必备的品格操守，必须强化斗争精神、敢于攻坚克难，以求真务实作风把习近平总书记要求和中央决策部署落到实处；作风建设事关人心向背事业成败，必须坚决防止和克服形式主义、官僚主义；反腐败斗争形势依然严峻复杂，必须持续正风肃纪、营造良好政治生态。<br/><div class="contheight"></div>大家一致表示，一定要深刻汲取教训、知错认错改错、坚持举一反三，巩固和拓展秦岭北麓西安境内违建别墅专项整治成效，推动全面从严治党向纵深发展。 <br/><div class="contheight"></div><strong>胡和平在学习中强调</strong><br/><div class="contheight"></div>要严明政治纪律和政治规矩，着力加强政治建设，深入学习贯彻习近平新时代中国特色社会主义思想，始终树牢“四个意识”、坚定“四个自信”，坚决做到“两个维护”。<br/><div class="contheight"></div>要敢于担当负责、勇于动真碰硬，紧盯追赶超越目标和发展中的突出问题，扭住不放、一抓到底，不彻底解决绝不放手。<br/><div class="contheight"></div>要认真落实中央八项规定实施细则精神，持续转作风改作风，扎实开展违规收送礼金问题专项整治，坚决破除“四风”问题特别是形式主义、官僚主义。<br/><div class="contheight"></div>要切实扛起管党治党政治责任，认真开展“讲政治、敢担当、改作风”专题教育，以魏民洲、冯新柱、钱引安为反面典型，深刻汲取教训，加强警示教育，严查腐败问题，巩固发展反腐败斗争压倒性胜利。 <br/><div class="contheight"></div>（原题为《省委常委班子召开“讲政治、敢担当、改作风”专题教育警示教育会议 集体观看央视专题片》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 陕西,秦岭</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2840765">
+<div class="nbgbox">
+<a class="zan" contid="2840765" href="javascript:;" onclick="voteCont(this)" praisetimes="93">
+                           92</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 秦岭拆违</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2840765&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2840765&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

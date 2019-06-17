@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25678">唐人街</a>
+</div>
+<h1 class="news_title">越南翻船事故目击者：当时正下毛毛雨，船开得非常快</h1>
+<div class="news_about">
+<p>翟佳琦/@红星新闻</p>
+<p>
+							2018-12-27 09:22<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">​​​据中国驻胡志明市总领事馆消息，12月26日下午4时许，一艘载有21名中国公民的游船在越南中南部庆和省芽庄市附近海域发生翻船事故，造成一名中国公民遇难，另有一名落水的中国公民目前生命垂危，正在医院接受抢救。其他中国公民全部安全获救。根据现场图片可以看到，游船呈360度翻转，底部朝上，漂浮在海面上。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="293" src="http://image.thepaper.cn/www/image/13/542/958.jpg" width="440"/></div>红星新闻记者随即联系到多名在现场目睹了救援经过的中国游客，了解事发当时情况。<br/><div class="contheight"></div><strong>目击者：医护人员在抢救小女娃娃，大人已一动不动</strong><br/><div class="contheight"></div>一名来自四川的男生对红星新闻回忆，下午四点多时，他们从蚕岛乘船回市中心，正在码头休息时，刚坐了几分钟时，就看到一名小女娃娃和一位大概30岁左右的女子被送到岸边上。<br/><div class="contheight"></div>”当时救起来的时候，我看到医护人员在抢救小女娃娃，大人则脸色发白 ，嘴皮乌青，当时很多人在围观。大人在现场嘴巴是张开的，一动不动，”这名游客回忆到。在记者询问他们是否穿了救生衣时，他表示，救起来的时候看到的都是穿了救生衣的，黄色的。<br/><div class="contheight"></div>另一名该团的女游客也证实，二人救上来的时候，看到旁边有救生衣。“但是，我没敢仔细看，因为遇难者的状态已经（很不好）……”<br/><div class="contheight"></div><strong>事发地当时正下毛毛雨 多名游客证实：“当地的船开得非常快”</strong><br/><div class="contheight"></div>这名男生介绍，当时事发快艇的路线是从蚕岛往返市中心，路程只有“大概不到十分钟”。但是，包括他本人在内的多名游客均表示，当地的船速度开得非常快。<br/><div class="contheight"></div>他回忆当时的情景时称，当时下午4点左右，他们的团在蚕岛集合准备回市区，结果等了20多分钟都没有人来接，游客们一直在追问原因，”后面导游给我们打电话说，我们之前坐的那个船出事了，换了艘船来接我们。”<br/><div class="contheight"></div>他表示，当地的往返船只分大船和小船 ，大船最多坐40多个人，小船估计最多就20来个。”那边的船不停地在接送游客，基本上都是中国人，“<br/><div class="contheight"></div>另一名女游客告诉红星新闻的记者，最近芽庄一直下雨，只有25日短暂出太阳，事发当天也是毛毛雨，风浪不算大，“但是快艇确实开得挺快的。”<br/><div class="contheight"></div>“现在心里真的不是滋味，就发生在身边，下午我们到码头就看到在抢救一个大人和一个小孩，当时看到他们躺在那里，情绪一下就很低落了，很难受……”这名女生告诉红星新闻。<br/><div class="contheight"></div>“明天我们也要回国了，我们现在想的就是尽快回来。”男生最后表示。<br/><div class="contheight"></div>据通报，截至北京时间26日23时，落水中国公民有1人死亡，另1人生命垂危，医院正在全力抢救中，其他中国公民全部安全获救。事故原因及有关后续工作正在进一步调查处理中。<br/><div class="contheight"></div>（原题为《越南翻船事故 21名中国游客1死1伤，目击者：当天下毛毛雨，风浪不算大》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2778741" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">越南一艘载21名中国公民游船翻船：一人死亡，一人生命垂危</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 翻船事故,越南</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2779026">
+<div class="nbgbox">
+<a class="zan" contid="2779026" href="javascript:;" onclick="voteCont(this)" praisetimes="28">
+                           27</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 翻船事故</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2779026&caid=25678",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2779026&amp;caid=25678" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

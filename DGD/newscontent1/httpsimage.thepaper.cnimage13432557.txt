@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">高空坠物侵权之责如何认定？全国人大：继续研究，暂不作修改</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林平</p>
+<p>
+							2018-12-23 18:16<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">高空“飞”来的横祸，由谁“埋单”？有关“抛掷坠落物品致害责任”的认定问题未有新变化，拟继续沿用侵权责任法相关规定。<br/><div class="contheight"></div>12月23日，十三届全国人大常委会第七次会议再次审议《民法典合同编（草案）》。全国人大宪法和法律委员会副主任委员沈春耀在作修改情况汇报时指出，草案第一千零三十条规定，从建筑物中抛掷物品或者从建筑物上坠落的物品造成他人损害，难以确定具体侵权人的，除能够证明自已不是侵权人的外，由可能加害的建筑物使用人给予补偿。该规定延续了侵权责任法第八十七条的规定，未作修改。<br/><div class="contheight"></div>这就意味着，高空抛物致人损害的责任或继续沿用侵权责任法的规定：难以确定具体侵权人的，由可能加害的建筑物使用人给予补偿。<br/><div class="contheight"></div>有的常委委员、部门和社会公众提出，本条规定在实践中争议较大，执行难度也较大，建议删除或者修改该条规定。<br/><div class="contheight"></div>宪法和法律委员会经反复研究认为，高空抛物致人损害的责任问题是侵权责任立法中的一个突出问题，争议较大，各方也高度关注。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）注意到，近年来，高空坠物致人伤亡的案例并不鲜见，这不仅拷问着城市管理，也拷问着立法部门，事后赔偿、追责问题也给法院审执工作带来了挑战。此前，还有观点认为，民法总则出台后不排除会取消侵权责任法第87条。<br/><div class="contheight"></div>“对该规定是否修改，如何修改，还需要结合实际情况，综合考虑侵权法理、保护受害人、维护社会和谐稳定等因素后慎重决策。”据此，宪法和法律委员会建议对草案的规定暂不作修改，继续研究。<br/><div class="contheight"></div>“侵权责任法第87条的规定，本身就是一个权宜之计。”西南政法大学民商法学院教授吴春燕在接受法制网采访时坦言，从立法表述上可以看出，规定的是“由可能加害的建筑物使用人给予补偿”，而不是承担侵权责任。立法目的上是基于对受害人救济的考虑，而规定与侵权责任法救济受害人优先的理念吻合，这是立法上平衡各方利益的结果。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：胥辉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 高空坠物 责任 侵权责任法</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766536">
+<div class="nbgbox">
+<a class="zan" contid="2766536" href="javascript:;" onclick="voteCont(this)" praisetimes="26">
+                           25</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 高空坠物</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766536&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766536&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

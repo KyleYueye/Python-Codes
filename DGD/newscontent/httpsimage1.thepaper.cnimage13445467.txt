@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">学习时报评论员：变压力为动力加快推动经济高质量发展</h1>
+<div class="news_about">
+<p>胡敏/学习时报</p>
+<p>
+							2018-12-24 08:25<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="391" src="http://image.thepaper.cn/www/image/13/445/476.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">工人在唐山市一家停产的钢厂拆除炼钢设备（7月12日摄）。  新华社 图<br/><div class="contheight"></div></span>学习时报12月24日消息，刚刚闭幕的中央经济工作会议认真总结2018年经济工作，深刻分析当前经济形势，对2019年经济工作作出全面部署。会议在充分肯定成绩的同时，也指出了当前我国经济运行中遇到的矛盾和问题，号召全党全国人民既要增强忧患意识，又要坚定发展信心，继续紧紧抓住我国发展的重要战略机遇期，变压力为加快推动经济高质量发展的动力，为全面建成小康社会收官打下决定性基础。<br/><div class="contheight"></div>今年以来，在以习近平同志为核心的党中央坚强领导下，全党全国落实党的十九大作出的战略部署，坚持稳中求进工作总基调，按照高质量发展要求，有效应对外部环境深刻变化，迎难而上、扎实工作，保持了经济持续健康发展和社会大局稳定，朝着实现全面建成小康社会的目标迈出了新的步伐。成绩来之不易。但也要看到，这一年来，世界政治经济格局发生深刻变化，不确定性因素明显增多；国内经济运行稳中有变、变中有忧，周期性、结构性、体制性因素交织叠加，经济下行压力加大，地区走势分化，社会预期谨慎。为此，我们对明年经济工作的困难要有充分估计，对做好明年经济工作要有充分准备。<br/><div class="contheight"></div>做好经济工作，必须准确研判大势，科学把握大势，应时抓主动，顺势善布局，谋定而后动。尽管当今世界面临百年未有之大变局，我国发展的外部环境复杂严峻，国内经济运行面对诸多发展变化中的问题，但变局中总是危和机同生并存、挑战与机遇相伴同在。中央经济工作会议作出重要判断：当前我国发展仍处于并将长期处于重要战略机遇期；我国发展拥有足够的韧性、巨大的潜力，经济长期向好的态势没有改变也不会改变。这就是说，我国发展的机遇仍然大于挑战，时和势仍在我们这一边。这是我们保持战略定力、坚定发展信心的现实基础。<br/><div class="contheight"></div>对这一重要战略机遇期我们要有全面正确认识，并紧扣重要战略机遇的新内涵，从长期大势看待和认识当前形势，从问题的本质把握当前形势，准确认清我国长期向好的发展前景，充分抓住并切实用好加快经济结构优化升级、提升科技创新能力、深化改革开放、加快绿色发展、参与全球经济治理体系变革等五大机遇；要牢固树立战略思维、辩证思维、创新思维、法治思维和底线思维，始终坚持把发展作为党执政兴国的第一要务，切实提高党领导经济工作能力和水平，善于化危为机、转危为安；要深化对做好新形势下经济工作的规律性认识，努力掌握主动，抓住主要矛盾，加强政策协同，稳定市场预期，有针对性地解决现实问题，从而变压力为加快推动经济高质量发展的动力，形成全局工作的强大合力。<br/><div class="contheight"></div>2019年是全面建成小康社会关键之年，做好经济工作至关重要。中央经济工作会议已作出总体部署、明确重点工作任务，我们要深刻领会并在实践中创造性地贯彻落实，紧密团结在以习近平同志为核心的党中央周围，上下同心，迎难而上，埋头苦干，以经济社会发展的优异成绩迎接中华人民共和国成立70周年。<br/><div class="contheight"></div>（原题为《变压力为动力加快推动经济高质量发展》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 经济发展</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2767718">
+<div class="nbgbox">
+<a class="zan" contid="2767718" href="javascript:;" onclick="voteCont(this)" praisetimes="15">
+                           14</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 经济发展</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767718&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767718&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

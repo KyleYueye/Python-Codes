@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">北京西城教委：20名伤童均获有效救治，全区学校已强化安防</h1>
+<div class="news_about">
+<p>王海燕/“北京日报”微信公众号</p>
+<p>
+							2019-01-10 13:05<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/14/114/80.jpg" width="600"/></div>“我刚刚从宣师一附小回来，目前，学校教育教学秩序良好。”在今天（10日）上午举行的西城区第十六届人代会发布会上，西城区教委主任赵蓬欣在接受北京日报客户端记者提问时介绍，截至目前20名受伤孩子都得到了及时、有效治疗。<br/><div class="contheight"></div>1月8日晚8点，西城区政府就宣师一附小学生受伤害事件召开了首次新闻发布会。在发布会上，西城区相关负责人介绍，一共有20名孩子受到伤害，其中有4名急需手术。<br/><div class="contheight"></div>“我们没有保护好孩子们，深感愧疚和自责。我们会加倍努力做好后续的各方面工作。“赵蓬欣说，目前，全区中小学、幼儿园都已强化了各项安全防范措施，校园秩序良好。“如果有新的进展情况，会及时对外发布。”<br/><div class="contheight"></div>（原题为：《宣师一附小：20名孩子均有效救治 学校秩序良好》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 北京西城区,受伤,学生,安防</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836230">
+<div class="nbgbox">
+<a class="zan" contid="2836230" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 校园安全</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836230&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836230&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

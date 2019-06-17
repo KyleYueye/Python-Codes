@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜KTV正版行动来袭：版权要保护，也不能没歌唱</h1>
+<div class="news_about">
+<p>澎湃特约评论员 聂夫</p>
+<p>
+							2018-11-06 18:41<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">陈奕迅的《十年》《K歌之王》，张惠妹的《听海》《我可以抱你吗》，信乐团的《离歌》《死了都要爱》……K歌爱好者们注意了！今后在KTV，这些歌曲的相关版本不能再想唱就唱了。<br/><div class="contheight"></div>近日中国音像著作权集体管理协会（简称“音集协”）发出公告，要求KTV设备和系统服务商及KTV经营者，删除或者不向消费者提供6000多首音乐电视作品，其中绝大多数是粤语歌，包括不少人心中的“KTV必唱曲目”。此举引起了舆论热议。 <br/><div class="contheight"></div>音乐电视及音乐作品的侵权是个老大难的问题。由于维权渠道闭塞、维权成本高企，侵权使用的情况曾普遍性存在，严重侵害了作品权利人的经济权利，也打击了创作的积极性。近些年，不断有知名音乐人起诉KTV侵权。但必须承认，版权保护在实操层面的确存在诸多困难，比如由于作品权利人群体庞大而分散，KTV经营者即便有心合法使用，也难以一一获得授权，只能“被动”侵权使用。 <br/><div class="contheight"></div>音集协的成立，起到了牵线搭桥的作用。一方面，它扮演着作品权利人“娘家”的角色，使权利人摆脱了以往“单兵式维权”的孤立处境，降低了维权的成本；另一方面，也能方便KVT经营者合法使用音像作品。 <br/><div class="contheight"></div>这次大规模删歌引起广泛关注，一来事发突然，二来所删歌曲恐怕也并非如音集协所说，“大部分年代久远点击率不高”“对KTV曲库的广泛性的基数影响有限”。根据媒体统计，在要求删除的全部6609首作品中，英皇娱乐旗下作品高达3813首，占比过半。其中TWINS被删381首，陈奕迅被删154首，谢霆锋被删243首。其他还包括容祖儿、古巨基、张信哲、伍佰、王杰、叶倩文的部分作品。<br/><div class="contheight"></div>那么问题来了，为何这么多听众耳熟能详的作品，不在音集协或音著协授权的范围内？音集协为何没能和版权方达成协议？ <br/><div class="contheight"></div>依据《著作权集体条例》的相关规定，音集协只能代表音著协、音集协“两会”的会员所授权的作品发放许可。然而这并不是说，非“两会”管理的作品就都不在许可范围内。如果权利人或其委托的代理公司向KTV经营者提起侵权诉讼，作为我国唯一管理音像权利人的著作权集体管理组织，音集协有义务配合权利人，要求侵权KTV删歌。但如果反过来，仅仅因为版权方不是音集协会员，就要求KTV删歌，似乎有待商榷。<br/><div class="contheight"></div>举个例子，如果一首歌的版权方不是音集协会员，但人家对KTV侵权唱这首歌没意见（这一逻辑在营销推广上是成立的），那么音集协是否有权要求KTV删歌呢？或许比较好的方式是，一方面积极配合权利人起诉维权，另一方面向权利人说明利害，并畅通渠道、简化手续，鼓励更多版权方加入音著协。 <br/><div class="contheight"></div>事实上，维护著作权人的利益，不是只有删歌这“华山一条路”。KTV曲库的版权问题有长期的历史原因，尽管一些歌曲的确未被授权，但早已成为歌友“必点曲目”，这种情况如何处理，可能也考验规范的智慧。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; KTV下架歌曲</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2606763">
+<div class="nbgbox">
+<a class="zan" contid="2606763" href="javascript:;" onclick="voteCont(this)" praisetimes="94">
+                           93</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: KTV被诉侵权</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2606763&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2606763&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（34）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

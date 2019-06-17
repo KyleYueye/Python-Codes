@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">传媒湃｜北斗新闻“杀入”新闻资讯市场</h1>
+<div class="news_about">
+<p>澎湃新闻记者 岳怀让</p>
+<p>
+							2019-01-08 15:54<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="427" src="http://image.thepaper.cn/www/image/14/35/95.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">北斗新闻App 澎湃新闻记者 李晶昀 图<br/><div class="contheight"></div></span>媒体转型风潮在这个岁末年初引发行业强烈关注。<br/><div class="contheight"></div>澎湃新闻记者查询发现，1月8日下午，辽宁广播电视集团（辽宁广播电视台）旗下微信公众号“LRTV辽宁号”认证信息正式变更为“北斗新闻 辽宁号”。<br/><div class="contheight"></div>根据腾讯官方记录的公众号变更信息显示，这个微信号为“lrtv110820”的公众号曾在2016年12月1日由“辽宁广播电视台辽宁号”更名为“LRTV辽宁号”。<br/><div class="contheight"></div>值得注意的是，该微信公众号新名字当中出现的“北斗新闻”正是辽宁广播电视台官方App的名称。这次更名意味着辽宁广电方面已开始将旗下新媒体资讯平台做进一步整合，开始“杀入”新闻资讯市场。<br/><div class="contheight"></div>澎湃新闻记者注意到，“北斗新闻”App目前在苹果App store和国内各大安卓应用商店均能找到下载。官方对该软件介绍称：北斗新闻App是辽宁广播电视台推出的官方手机客户端。<br/><div class="contheight"></div>软件介绍还提到：“北斗新闻App内容汇聚全网优质视频音频资源。北斗新闻App集宣传、交互、信息服务、电子商务等功能于一体。简便操作随时随心，贴身服务尽善尽美，抢滩移动互联新时代。”<br/><div class="contheight"></div>就在不久前的2018年12月底，“北斗新闻”App官方进行了最新一次更新，进行了优化和性能提升。<br/><div class="contheight"></div>事实上，辽宁广播电视集团（辽宁广播电视台）是一家刚组建不久的媒体集团。<br/><div class="contheight"></div>2018年7月19日上午，新组建的辽宁广播电视集团（辽宁广播电视台）在沈阳市和平区文化路79号辽宁电视大厦举行揭牌仪式。集团党委书记、台长张本刚在致辞中指出，辽宁广播电视集团（辽宁广播电视台）揭牌成立，标志着辽宁广电在壮大主流舆论阵地、加快媒体融合发展方面迈出了坚实一步，在辽宁广电发展史上具有里程碑式的重要意义。<br/><div class="contheight"></div>目前，辽宁广播电视台共有10套省内模拟电视频道(其中辽宁卫视已实现高清播出)、9个广播信号、18套省内数字视频点播电视节目、10套数字音乐节目以及5套向全国传送的数字付费电视节目。<br/><div class="contheight"></div>另外，澎湃新闻记者注意到，近年来各省级广电系统推出的新闻App已有多款。<br/><div class="contheight"></div>例如，贵州广播电视台旗下的“动静”新闻客户端，重庆广电集团旗下的新闻客户端“第一眼”，山东广播电视台旗下的融媒体新闻产品“闪电新闻”客户端，浙江广电集团新媒体产品“中国蓝”新闻客户端，江苏广电集团旗下的“荔枝新闻”客户端，河南广播电视台旗下的“映象新闻”客户端，广东广播电视台旗下的“触电新闻”客户端。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 北斗新闻,传媒湃</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2827605">
+<div class="nbgbox">
+<a class="zan" contid="2827605" href="javascript:;" onclick="voteCont(this)" praisetimes="44">
+                           43</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 传媒湃</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2827605&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2827605&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

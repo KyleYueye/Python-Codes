@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">沈阳中院成立专门合议庭，负责审理涉黑涉恶案件</h1>
+<div class="news_about">
+<p>沈阳日报</p>
+<p>
+							2018-09-10 22:05<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">自扫黑除恶专项斗争开展以来，沈阳市中级人民法院成立涉黑涉恶专门合议庭和专项斗争办公室，具体负责审理和指导沈阳市辖区法院涉黑涉恶案件，确保每一起案件都经得起历史和法律的检验。<br/><div class="contheight"></div> <strong>设专门合议庭审案</strong><br/><div class="contheight"></div> 为开展扫黑除恶专项斗争提供坚强组织保障，市法院制定《扫黑除恶专项斗争实施方案》，成立了以市法院院长段文龙为组长，副院长朱晓光为副组长，市法院多部门为成员单位的专项工作领导小组，负责协调全市法院扫黑除恶专项行动，并就具体工作进行统一部署和监督检查，为专项斗争工作的顺利开展提供了有力保障。<br/><div class="contheight"></div> 市法院成立涉黑涉恶专门合议庭和专项斗争办公室，具体负责审理和指导沈阳市辖区法院涉黑涉恶案件，设置专项行动社会监督电话，选派“政治过硬、业务精通、纪律严明、作风优良”的骨干力量承担审判任务，要求全市各基层法院应当比照上述要求和规格，成立本单位扫黑除恶专项斗争领导小组及办公室。<br/><div class="contheight"></div><strong>建立案件台账制度</strong><br/><div class="contheight"></div>市法院严格按照省委政法委、省高级人民法院以及市委政法委的具体工作要求，建立涉黑涉恶刑事案件管理台账。建立畅通的信息沟通机制，将案件性质、案由、犯罪事实、涉案金额等具体情况进行统计。<br/><div class="contheight"></div>要求全市各基层法院扫黑除恶领导小组要准确掌握辖区内案件情况和审理进度，根据案件台账定期清查，督促审限内结案，防止久拖不决。<br/><div class="contheight"></div>全市两级法院要把握好案件事实关，掌握好证据关、程序关和法律适用关，确保涉黑涉恶犯罪案件的审判质量。近日，市法院申报的“扫黑除恶专项斗争适用法律问题研究”调研课题获省法院立项。<br/><div class="contheight"></div><strong>完善对外宣传制度</strong><br/><div class="contheight"></div>市法院要求各基层法院要结合对黑恶势力犯罪案件的审判工作，通过公开审判、法官说法、以案释法、发布典型案例等方式大力开展法治宣传教育，加强政策宣传，加强裁判文书说理和释疑解惑工作，使推进扫黑除恶专项斗争的过程成为向群众全面普法的过程，促进公民增强法治意识，综合运用传统媒体和新媒体，提供权威信息，回应公众关切，充分展示扫黑除恶专项斗争取得的良好成效，充分展示人民法院和广大法院干警在扫黑除恶专项斗争中的良好形象，让群众了解扫黑除恶工作的重要意义，从而积极参与、支持这项工作。 <br/><div class="contheight"></div>（原题为《选派骨干力量承担审判任务 市法院：设专门合议庭审涉黑涉恶案》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：马世鹏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 沈阳 法院 扫黑除恶</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2426055">
+<div class="nbgbox">
+<a class="zan" contid="2426055" href="javascript:;" onclick="voteCont(this)" praisetimes="43">
+                           42</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 扫黑除恶</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2426055&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2426055&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

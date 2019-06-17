@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">“邀美军建基地”是媒体误读？巴西媒体：新总统决定任内不建</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-09 14:18<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">巴西官员透露，巴西总统博尔索纳罗已决定在其任期内，巴西境内不建美军基地。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/14/70/952.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">巴西总统博尔索纳罗 资料图<br/><div class="contheight"></div></span>新加坡《联合早报》援引巴西《圣保罗报》8日消息称，巴西国防部长席尔瓦向军方人员透露，巴西总统博尔索纳罗已决定在其任期内，巴西境内不建美军基地。<br/><div class="contheight"></div>另据巴西《环球报》同日报道，巴西总统府机构安全办公室主任埃莱诺同一天也告诉媒体，博尔索纳罗从未说过会在巴西建立美军基地。“他只是在谈到俄罗斯拟在委内瑞拉建立军事基地时做了一句评论，然后突然就被说成了巴西要建立美军基地。这是没有的事。”埃莱诺说道。<br/><div class="contheight"></div>博尔索纳罗3日在接受巴西电视系统公司专访时表示，对允许美国在巴建立军事基地的可能性持开放态度。巴西军方得知此消息后，表示了不满与反对，认为外国驻军是对国家主权的侵犯。<br/><div class="contheight"></div>被誉为“巴西特朗普”的巴西总统博尔索纳罗,是巴西新入主总统府“高原宫”的新一任总统。凭借极右翼政党——社会自由党人的背景，此前不少媒体报道称,在他当政期间,巴西的外交政策可能会发生一些重要变化，包括奉行亲美政策，与特朗普走得更近。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李佩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 巴西,美军基地,政治</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831526">
+<div class="nbgbox">
+<a class="zan" contid="2831526" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 巴西总统</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831526&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831526&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

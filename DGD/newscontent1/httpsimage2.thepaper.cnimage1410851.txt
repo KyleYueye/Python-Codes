@@ -1,0 +1,86 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国军舰驶入黑海“巡逻”，俄军派护卫舰密切监控</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-07 19:55<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<script src="//file.thepaper.cn/www/v3/js/jwplayer7.1.4.js" type="text/javascript"></script>
+<script type="text/javascript">jwplayer.key="JYFbHxc36sStM1VSc1vvyI42CCrHFlTZcWEYUA==";</script>
+<div class="news_video_name">
+<style type="text/css">
+							#player_wrapper{width:669px;height:377px;}
+							#player_wrapper .player_err_tip{width:669px;height:377px;display: none;vertical-align: middle;background-color: black;color: white; text-align: center;}
+							.jw-tab-focus:focus{outline:none;}
+						</style>
+<div id="player_wrapper">
+<div class="player_err_tip" id="Text">抱歉!<br/>您的浏览器可能不支持此视频播放器，请用更高版本的浏览器试试！</div>
+</div>美军“麦克亨利堡垒”号登陆舰驶入黑海画面(00:49)
+					</div>
+<div class="news_txt" data-size="standard">在俄罗斯与乌克兰关系因刻赤海峡事件持续僵化之际，美军1月6日再次向黑海派出一艘大型登陆舰。俄方则派出了一艘护卫舰作为回应。<br/><div class="contheight"></div>俄罗斯国防部1月7日发布消息称，莫斯科时间1月6日晚9点30分，“麦克亨利堡垒”号（USS Fort McHenry LSD 43）登陆舰驶入黑海海域。截至7日上午9点30分的情况是，美军舰在黑海西岸的罗马尼亚康斯坦察港内逗留。俄方表示，黑海舰队“求知”号护卫舰正在密切关注“麦克亨利堡垒”号的一举一动。<br/><div class="contheight"></div>据俄罗斯新闻门户网站Lenta消息，有网友拍到了美军舰趁夜闯入黑海的视频，并将它发布在YouTube账户Alfred rich的主页。<br/><div class="contheight"></div>美海军第六舰队则在6日的声明中表示，隶属于佛罗里达州基地的“麦克亨利堡垒”号正在执行第六舰队推进的定期部署任务，目的是“与盟友和合作伙伴开展行动，推进欧洲安全与稳定”。声明强调，美国海军在黑海的行动符合国际法。<br/><div class="contheight"></div>美国第六舰队指挥官弗兰切蒂海军中将（Lisa Franchetti）称：“‘麦克亨利堡垒’号登陆舰的抵达，体现我们共同维护黑海安全的决心，加强了我们与该地区北约盟国和伙伴的牢固关系。”<br/><div class="contheight"></div>据俄新社7日报道，美国海军驻欧洲司令部发布消息称，“麦克亨利堡垒”号驶入黑海海域的任务是“进行巡逻”。此外，美国驻乌克兰特使库尔特·沃尔克（Kurt Volker）不久前曾敦促美国与土耳其或欧盟合作，增强在黑海的存在感，并透露美国将向乌克兰提供杀伤性武器。<br/><div class="contheight"></div>2018年11月25日，3艘乌克兰海军舰艇在黑海向刻赤海峡方向行驶中被俄方扣留，船上的24人先后被俄法院批准逮捕，俄乌冲突由此加剧。俄媒今日俄罗斯（RT）指出，刻赤海峡事件不仅导致俄乌关系僵化，也令美俄关系紧张。据RT盘点，美国海军2018年先后派出6艘军舰在黑海地区执行任务，包括“罗斯”号导弹驱逐舰，“卡尼”号驱逐舰，“波特”号驱逐舰，“惠特尼山”号指挥舰，“橡树山”号船坞登陆舰，以及“卡森城”号远征快速运输舰。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = 'http://cloudvideo.thepaper.cn/video/478eef1692224899aea82ea51e08f58d/hd/7e024c43-db97-40fa-a300-a684a1c7d9f4-773e0d11-4b1d-29d7-cd1d-f9f154bd9cc2.mp4',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'//image2.thepaper.cn/image/14/10/848.jpg',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘惠<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美俄,俄乌关系,刻赤海峡</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2824748">
+<div class="nbgbox">
+<a class="zan" contid="2824748" href="javascript:;" onclick="voteCont(this)" praisetimes="21">
+                           20</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 刻赤海峡冲突</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2824748&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2824748&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

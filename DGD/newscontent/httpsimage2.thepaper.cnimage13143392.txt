@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">加拿大民众致电中国驻加使馆：为政府错误行为向中国致歉</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2018-12-13 11:18<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网12月13日消息，据中国驻加拿大使馆消息，12月12日，一位加拿大市民专程来到中国驻加使馆，送来一段他亲手砍伐的云杉木。他说，我是一名伐木工人，对加方日前在温哥华无理拘押中国公民孟晚舟女士感到愤慨。这段云杉木外形酷似象征加拿大的“北极熊”，希望以此表达我对中国人民的友好感情。作为一个加拿大人，我为加政府的错误行为向中国人民致歉。<br/><div class="contheight"></div>连日来，许多富有正义感的加拿大普通民众不断给中国驻加使馆打来电话、发来邮件或在网上发帖，批评加方应美方要求无理拘押中国公民，呼吁加政府立即释放孟晚舟女士。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="662" src="http://image.thepaper.cn/www/image/13/143/389.png" width="501"/></div>（原题为《加拿大民众致电中国驻加使馆：为加政府错误行为向中国致歉》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：薛冬霞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 加拿大,中国</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2733968">
+<div class="nbgbox">
+<a class="zan" contid="2733968" href="javascript:;" onclick="voteCont(this)" praisetimes="886">
+                           885</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 加拿大</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2733968&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2733968&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（144）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

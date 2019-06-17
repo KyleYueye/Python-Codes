@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">广西来宾昔日首富制贩毒品被判死刑：为偿债制冰毒188公斤</h1>
+<div class="news_about">
+<p>广西新闻网</p>
+<p>
+							2018-12-27 13:39<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="376" src="http://image.thepaper.cn/www/image/13/551/61.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">庭审现场。中国长安网 图<br/><div class="contheight"></div></span>广西新闻网-南国今报来宾12月27日消息，12月26日，来宾市检察院对外公布了来宾市昔日首富兰永固制造、贩卖毒品案的判决结果：经来宾市中级法院一审判决，被告人兰永固犯贩卖、制造毒品罪，被判处死刑。同案被告人覃英犯贩卖毒品罪，判处有期徒刑15年，并处没收个人财产7万元。<br/><div class="contheight"></div>12月13日，由来宾市检察院提起公诉的兰永固涉嫌制造、贩卖毒品案，覃英涉嫌贩卖毒品案在金秀县法院开庭审理，来宾市人民检察院检察长王荐以国家公诉人身份出庭支持公诉，来宾市中级法院院长黄洪波担任该案的审判长。<br/><div class="contheight"></div>今年59岁的兰永固，系来宾市兴宾区人，既是昔日的来宾县首富，也是当地名人。一审法院审理查明，2012年，被告人兰永固为躲避巨额债务，在金秀县承包经营的林场集体林地上自建木板房，意图研制甲基苯丙胺（俗称冰毒）用于偿还债务，并于2017年8月成功制造出冰毒。2018年1月19日，兰永固从制毒点携带制造的冰毒，前往蒙山县新圩镇与男子覃英交易，途中被警方抓获，警方随后抓获了携带毒资等待交易的覃英。警方从覃英车上查获毒资7万元，从兰永固车上查获冰毒可疑物68.19公斤，从其制毒窝点查获冰毒可疑物12.29公斤及制毒原料、配剂、工具一批，从其租用的仓库内查获冰毒可疑物108.4公斤，被查获的上述冰毒可疑物均检出甲基苯丙胺成分。<br/><div class="contheight"></div>根据我国《刑法》规定，制造、贩卖甲基苯丙胺50克以上，依法应处15年有期徒刑、无期徒刑或者死刑，并处没收财产。法院认为，兰永固和覃英已经着手实施贩卖毒品的行为，因意志以外的原因而未得逞，属贩卖毒品犯罪未遂，可比照既遂犯从轻或者减轻处罚。但兰永固制造甲基苯丙胺共计188.89公斤，远超法律规定的甲基苯丙胺毒品数量大的起点标准，且实施了贩卖毒品的行为，情节特别严重，当严惩不贷，不能对其适用从轻或者减轻处罚。覃英在刑罚执行完毕后5年内，又故意犯应当判处有期徒刑以上刑罚之罪，系累犯，应当从重处罚。<br/><div class="contheight"></div>为此，法院一审作出判决：被告人兰永固犯贩卖、制造毒品罪，判处死刑，剥夺政治权利终身，并处没收个人全部财产。被告人覃英犯贩卖毒品罪，判处有期徒刑15年，剥夺政治权利4年，并处没收个人财产7万元。<br/><div class="contheight"></div>（本文原题为《来宾：兰永固制贩毒品案一审判决 昔日首富领死刑》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：周子静<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 广西,制毒贩毒</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2780022">
+<div class="nbgbox">
+<a class="zan" contid="2780022" href="javascript:;" onclick="voteCont(this)" praisetimes="33">
+                           32</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 制毒贩毒</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2780022&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2780022&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">日本官方公布9所医学院校不当录取调查结果：对女性考生扣分</h1>
+<div class="news_about">
+<p>姜俏梅、王可佳/新华社</p>
+<p>
+							2018-12-14 20:54<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社东京12月14日消息，日本文部科学省14日公布其对全国拥有医学系的81所大学进行紧急调查的结果：9所医学院校的入学考试存在不当录取问题。<br/><div class="contheight"></div>这9所大学分别是<strong>东京医科大学、顺天堂大学、昭和大学、日本大学、岩手医科大学、金泽医科大学、北里大学、神戸大学、福冈大学。</strong><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="344" src="http://image.thepaper.cn/www/image/13/205/264.jpg" width="600"/></div>根据调查结果，上述医学院校的入学考试存在<strong>为特定考生不正当加分，对女性考生及多次复读生进行扣分</strong>，女性考生录取分数线高于男性考生，给予毕业生亲戚特别优待等问题。<br/><div class="contheight"></div>日本文部科学大臣柴山昌彦对此结果表示遗憾。他说，考虑到考生立场必须快速认真地采取对策和制定规则，确保2020年大学入学考试的公平性。<br/><div class="contheight"></div><strong>文部科学省在调查报告中对不当录取进行了定义，其中包括无理由录取特定考生或提高考生分数；因性别年龄、应届或复读、出生地或居住地等特定条件进行区别对待。</strong>文部科学省要求国内大学今后在招生简章里尽量明确入学考试方法和录取标准。<br/><div class="contheight"></div>这次调查结果首次公开了日本部分知名医学院校存在入学考试不公平现象。由于日本高校2019年春季新生入学考试已经开始，这一调查结果将给今年的考生带来影响，录取结果公布后很可能会有考生追究校方责任。<br/><div class="contheight"></div>此次调查源于东京医科大学招生丑闻曝光，一名文部科学省前官员的儿子在获得不正当加分后入学。文部科学省8月初要求对全国其他医学院校是否存在类似不当录取现象展开紧急调查。<br/><div class="contheight"></div>（原题为《日本9所医学院校被曝升学考试存在不当录取问题》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 日本,医学院校,不当录取</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2740986">
+<div class="nbgbox">
+<a class="zan" contid="2740986" href="javascript:;" onclick="voteCont(this)" praisetimes="114">
+                           113</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 女性歧视</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2740986&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2740986&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

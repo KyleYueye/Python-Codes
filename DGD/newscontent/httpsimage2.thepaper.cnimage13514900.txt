@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25463">港台来信</a>
+</div>
+<h1 class="news_title">国台办奉劝台当局回头：台民众加深对“九二共识”认识</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2018-12-26 11:01<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网12月26日电，在26日的国台办例行新闻发布会上，发言人马晓光表示，越来越多的台湾民众认识到“九二共识”与他们发展经济、改善民生的愿望息息相关，就像水和空气一样重要。奉劝台湾民进党当局，放弃分裂立场，停止破坏两岸关系的言行，回到“九二共识”的共同政治基础上来。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="360" src="http://image.thepaper.cn/www/image/13/514/892.jpg" width="540"/></div><span style="color: rgb(128, 128, 128);">资料图：台湾民众呼吁台当局坚持“九二共识”。 中新社记者 陈小愿 摄<br/><div class="contheight"></div></span>有记者提问，台湾陆委会日前称，大陆要求台湾接受“九二共识”，就是要消灭所谓的“中华民国”。请问发言人对此有何回应？<br/><div class="contheight"></div>马晓光指出，1992年11月，大陆海协会和台湾海基会受权达成了各自以口头方式表述海峡两岸均坚持一个中国原则的共识，这就是“九二共识”。这是经过两岸双方确认的共识，不是谁强加给谁的所谓“政治前提”。<br/><div class="contheight"></div>马晓光强调，1949年以来，尽管两岸分隔对立，存在着政治分歧，但是双方均长期坚持一个基本立场，那就是：大陆和台湾同属一个中国，中国的主权和领土完整没有分割。“九二共识”的核心，就是确定了坚持一个中国原则这一共同认知，清晰界定了两岸关系的性质。这不仅符合客观事实，也符合双方各自规定，同时得以暂时搁置难以解决的分歧，构建彼此间最基本的互信，进而在平等协商基础上打开两岸交往和对话的大门。<br/><div class="contheight"></div>马晓光称，民进党当局上台后，拒绝接受一个中国原则，以各种说辞和诡辩来歪曲诬蔑“九二共识”，致使两岸协商大门关闭，两岸和平发展成果受损，台湾同胞的切身利益受到严重的伤害。台湾地区“九合一”选举后，越来越多的台湾民众认识到“九二共识”与他们发展经济、改善民生的愿望息息相关，就像水和空气一样重要；认识到民进党当局破坏“九二共识”，制造两岸紧张对立，完全是出于一党之私。<br/><div class="contheight"></div>马晓光表示，奉劝台湾民进党当局，放弃分裂立场，停止破坏两岸关系的言行，回到“九二共识”的共同政治基础上来，不要再与两岸同胞改善发展两岸关系的民意为敌，不要再与台湾同胞改善经济民生、追求美好生活的愿望为敌。<br/><div class="contheight"></div>（原题为《国台办奉劝台当局回头：台民众加深对“九二共识”认识》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 国台办</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2775765">
+<div class="nbgbox">
+<a class="zan" contid="2775765" href="javascript:;" onclick="voteCont(this)" praisetimes="34">
+                           33</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 国台办</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2775765&caid=25463",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2775765&amp;caid=25463" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">最高法：积极参与扫黑除恶专项斗争，让农村路不拾遗夜不闭户</h1>
+<div class="news_about">
+<p>中国新闻网</p>
+<p>
+							2018-11-07 10:56<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新网11月7日消息，在今日的最高人民法院新闻发布会上，最高人民法院审判委员会委员、研究室主任姜启波指出，人民法院要积极参与正在开展的扫黑除恶专项斗争，通过发挥刑事审判的职能作用维护好农村的社会治安，让农村重新兴起路不拾遗、夜不闭户的良好社会风气。<br/><div class="contheight"></div>会上有记者问：党中央对乡村振兴战略提出了五项总要求，提出到2050年实现农村美的长远目标，《意见》对服务和保障农村全面进步、实现农村美的目标有什么举措？<br/><div class="contheight"></div>姜启波表示，中共中央、国务院决定实施乡村振兴战略，到2050年全面实现农业强、农村美、农民富的目标。农村美，不仅包括经济发展这一个方面，还包括了自然环境美、道德文化美和社会治安好这三个方面的内容。人民法院为实施乡村振兴战略提供司法服务和保障，要围绕着这三个目标持续发力。<br/><div class="contheight"></div>首先，要审理好农村的涉环保案件和环保公益诉讼案件，使发生在农村的环境污染得到有效遏制，真正地实现农村绿色发展，保护好农村的青山绿水。我们将通过继续加强环境司法审判工作来保障和实现农村的自然环境美。<br/><div class="contheight"></div>其次，要在司法审判工作当中大力提倡社会主义核心价值观。特别是在审理发生在农村的各类民事案件时，要倡导尊老爱幼、家庭和睦、邻里和谐的优良传统，让农村的社会风气变得越来越好，从而实现农村的道德文化美。<br/><div class="contheight"></div>第三，要充分发挥刑事审判的职能作用，严厉打击发生在农村的常见、多发，对人民群众的人身和财产安全构成威胁的刑事案件，比如入室盗窃、入室抢劫、虐待老人和儿童以及利用封建迷信进行的犯罪，包括要严厉打击组织和利用邪教组织罪。我们还要积极参与正在开展的扫黑除恶专项斗争，通过发挥刑事审判的职能作用维护好农村的社会治安，让农村重新兴起路不拾遗、夜不闭户的良好社会风气。<br/><div class="contheight"></div>（原题为《最高法：积极参与扫黑除恶斗争 让农村路不拾遗夜不闭户》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 最高法,扫黑除恶</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2610236">
+<div class="nbgbox">
+<a class="zan" contid="2610236" href="javascript:;" onclick="voteCont(this)" praisetimes="201">
+                           200</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 扫黑除恶</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2610236&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2610236&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（119）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

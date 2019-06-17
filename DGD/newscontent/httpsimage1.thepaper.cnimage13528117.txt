@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">京东宣布规模10亿美元的股票回购计划，盘前股价大涨近5%</h1>
+<div class="news_about">
+<p>澎湃新闻</p>
+<p>
+							2018-12-26 18:34<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月26日晚间，京东商城（Nasdaq:JD）盘前股价上涨超过4%，报23.93美元。就在前一天，京东宣布10亿美元股票回购计划。<br/><div class="contheight"></div>在过去一个月时间里，受刘强东在美事件的影响，京东股价已经累计下跌近30%，12月21日报收于22.81美元。<br/><div class="contheight"></div>12月25日，京东宣布了一项股票回购计划，将在未来两年时间里最多回购10亿美元的美国存托股（ADS）。此次股票回购计划的规模大致相当于京东市值的3%。当天京东股价上涨5%。<br/><div class="contheight"></div>京东称，此次股票回购将依据相关法规，通过公开市场、私下协商交易、大宗交易或其他合法形式不定期进行，具体的回购价格和规模将根据市场情况而定。京东将根据市场条件，在符合公司股东利益的前提下进行股票回购。京东董事会将阶段性评估该股票回购计划，并可能调整回购条件和规模。京东计划利用手中的现金来资助该股票回购计划。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：包雨朦<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 京东,回购</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2777394">
+<div class="nbgbox">
+<a class="zan" contid="2777394" href="javascript:;" onclick="voteCont(this)" praisetimes="29">
+                           28</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 京东回购</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2777394&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2777394&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

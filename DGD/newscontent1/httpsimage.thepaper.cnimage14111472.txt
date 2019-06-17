@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25424">一号专案</a>
+</div>
+<h1 class="news_title">“张扣扣案”观察：现代法治必须彻底摒弃私力复仇</h1>
+<div class="news_about">
+<p>检察日报微信公众号</p>
+<p>
+							2019-01-10 11:38<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" src="http://image.thepaper.cn/www/image/14/111/468.jpg" width="100%"/></div>在我国现行刑事法治框架内，已经不存在私力报复的制度空间；有限的私力救济，主要体现在正当防卫和紧急避险中，同时规定了严格的限制条件，确保其不被滥用。也就是说，在制度层面，私力复仇已被彻底摒弃，标题中所说“彻底摒弃”，指的是观念。“观念是行动的先导”，它很重要。具体到私力复仇问题，有人认为它仍具有某种正当性，一旦这种观念误导更多人，那么，目前制度层面没规定，将来却可能有空间。<br/><div class="contheight"></div>想起说这些，缘于张扣扣案件。除夕夜“为母报仇”连杀三人，本案令人震惊和关注。1月8日，陕西省汉中市中级法院作出一审判决，被告人张扣扣犯故意杀人罪，判处死刑，剥夺政治权利终身；犯故意毁坏财物罪，判处有期徒刑四年；决定执行死刑，剥夺政治权利终身。法院认为，本案虽然事出有因，张扣扣系初犯且有自首情节，但是依法不足以对其从轻处罚。<br/><div class="contheight"></div>宣判后，张扣扣当庭表示上诉，其最终命运仍有变数。目前可探讨也值得探讨的是，辩护律师在辩护词中提出的一些观点以及法院的认定。辩护词分五部分（“这是一个血亲复仇的故事”“张扣扣没有更好的仇恨排遣通道”“复仇有着深刻的人性和社会基础”“国家法应该适当吸纳民间正义情感”“尾声：张扣扣是一个什么样的人”）提出辩护意见，“用最诚恳的态度，恳求法庭能够刀下留人”。我认真读了辩护词，从文采角度堪称范本。不过，从法院判决看，它并未实现“刀下留人”的效果。当然，这不说明辩护是失败的，毕竟，被告人获得怎样的刑罚，辩护会起一定作用，但根本上取决于被告人犯了怎样的罪行。<br/><div class="contheight"></div>律师辩护的核心，是论证被告人“为母报仇”具有一定正当性。为了支持其观点，律师引用了不少中外法学家的观点，也举了一些古代私力复仇被宽宥的事例。学术观点无非一家之言，有这么说的，找相反的也不难，不足为据，倒是举的那些历史上的事例，可以一说。这些事例都是事实，曾经真实发生，但现代法治之所以摒弃私力复仇，是因为其存在严重弊端，和现代法治已经格格不入。我们固然不能用现代法治眼光否定历史上的合理性，但用历史上曾经存在论证现在仍具有合理性，同样缺乏说服力。<br/><div class="contheight"></div>古代私力复仇具有一定正当性，基础在于当时公力救济的不及时、不充分。当国家不能让被害人充分实现公正、感受公正的时候，给私力救济一定空间就是必要的。而在现代法治环境下，被害人的公正可以通过国家追诉的方式得到最大程度的实现，私力救济也就不再必要。<br/><div class="contheight"></div>国家可以最大限度给被害人公正，这是就总体而言的。具体到个案，不排除出现公正不及时甚至不公正的情况（根据法院对张扣扣父亲申诉的复查结论，张扣扣母亲案不属于这种情况），但即使这种时候，私力救济仍不被法律认可。这是因为，私力救济存在严重弊端，会产生巨大危害。同样的事件，每个人心中的“公正”不一样。任由当事人判断并根据自己的判断私力救济，将导致无休止的“复仇”，社会将处于无序和混乱中，而包括当事人在内的每个人，都将是无序和混乱的受害者。本案中，三名被害人是受害者自不待言，而张扣扣如果能够对私力复仇的性质、后果有充分认识，而不是头脑一热不管不顾，或能避免走上犯罪的道路。有人说“他毕竟出了一口气”，但用一生的代价“出一口气”，代价太大了。<br/><div class="contheight"></div>彻底摒弃私力复仇，是现代法治的要求，是公民安全、社会稳定的需要；对私力复仇似是而非的肯定甚至褒扬，需要警惕。（ 原标题：“张扣扣案”观察：现代法治必须彻底摒弃私力复仇）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李寿康<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 陕西 汉中 杀人</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2835873">
+<div class="nbgbox">
+<a class="zan" contid="2835873" href="javascript:;" onclick="voteCont(this)" praisetimes="137">
+                           136</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 张扣扣案</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2835873&caid=25424",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2835873&amp;caid=25424" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（185）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

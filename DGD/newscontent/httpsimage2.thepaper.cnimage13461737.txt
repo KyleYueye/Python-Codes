@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">加拿大拉盟友对中方拘押2名加公民表达关切，华春莹强势回应</h1>
+<div class="news_about">
+<p>“外交部发言人办公室”微信公号</p>
+<p>
+							2018-12-24 18:32<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“外交部发言人办公室”公众号消息，在12月24日外交部例行记者会上，有记者问：加拿大外长周末称，加方将推动其盟友对中方任意拘押2名加公民表达关切，并已向中方提出了被关押加公民的待遇问题。上周，英国、欧盟也就2名加公民被拘押事表达了关切。请问中方对此有何回应？<br/><div class="contheight"></div>华春莹：<strong>中方对加拿大以及美国等个别国家发表的相关言论表示强烈不满和坚决反对。加拿大公民康明凯、迈克尔涉嫌从事危害中国国家安全活动，中方有关部门理所当然依法对其采取强制措施。</strong>中方相关部门依法保障了他们的正当权益，并为加方正常履行领事职务提供了必要协助。我们敦促有关国家切实尊重中国司法主权。<br/><div class="contheight"></div>关于英国、欧盟就加公民被拘押表达关切，<strong>我觉得很奇怪，这件事和英国、欧盟有什么关系？</strong><strong>当初加方应美方要求非法拘押中国企业高管时，他们又在哪里呢？</strong>他们声称的所谓人权其实是对不同国家的公民有着不同的标准。<br/><div class="contheight"></div>我还想问问加方，<strong>加方当初应美方要求非法拘押连加方都承认没有违反任何加拿大法律的中国企业高管，这种行为才是名副其实的任意拘押，于法不顾，于理不合，于情不容。</strong>加方口口声声称对美方履行双边引渡条约的所谓法律义务，难道加方就可以无视和践踏《国际法》基本准则和国际关系基本准则吗？就可以不履行保护中国公民合法权益的责任和义务吗？<br/><div class="contheight"></div><strong>我们看到，美加有关行为已在加拿大、美国国内和国际上遭到许多正义人士的批评和反对。</strong>大家都对此案的严重性质和恶劣影响一清二楚。<strong>我们再次敦促加方纠正错误，立即释放孟晚舟女士，切实保障她的合法、正当权益。我们也强烈敦促美方立即撤销对孟晚舟女士的逮捕令。</strong><br/><div class="contheight"></div>（原题为《加拿大推动盟友对中方拘押2名加公民表达关切 华春莹：尊重中国司法主权》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 加拿大公民,拘押,外交部</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2769671">
+<div class="nbgbox">
+<a class="zan" contid="2769671" href="javascript:;" onclick="voteCont(this)" praisetimes="3776">
+                           3775</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 外交部例行记者会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2769671&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2769671&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（342）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

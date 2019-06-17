@@ -1,0 +1,90 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25491">长三角政商</a>
+</div>
+<h1 class="news_title">杭州日均处置生活垃圾万余吨，立法后评估建议推垃圾袋实户制</h1>
+<div class="news_about">
+<p>澎湃新闻记者 姚似璐</p>
+<p>
+							2018-12-24 16:46<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">今年1~10月，杭州累计收运处置生活垃圾381.05万吨，日均12534吨，比去年同期增长1.89%；全市对垃圾分类违法行为实施拒运18例，累计办理行政处罚案件1978件，其中个人（含个体工商户、居民）1008件，与去年同期相比增长300.4%……<br/><div class="contheight"></div> 12月24日下午，杭州十三届人大常委会第十五次会议分组审议了《关于&lt;杭州市生活垃圾管理条例&gt;的立法后评估报告（书面）》。<br/><div class="contheight"></div> 于2015年12月开始实施的《杭州市生活垃圾管理条例》是浙江省最早关于生活垃圾管理的地方条例。 <br/><div class="contheight"></div> 澎湃新闻（www.thepaper.cn）从会议获悉，根据《评估报告》，在立法制约下，截至今年11月，杭州已更新更换分类垃圾桶9万余只，规范垃圾桶分类标识5万余个，增设有害垃圾、可回收物收集容器300余处，全市推行垃圾分类小区2754个，垃圾分类总体覆盖率达88.88%。但日常具体实施中，仍存在生活垃圾源头减量执行力度不足、生活垃圾配套设施设置不完备、垃圾分类质量有待提高、个人执法刚性不足、部分地区生活垃圾分类处置难以实现、企业信息公开要求未全面落实等问题。 <br/><div class="contheight"></div> 如住宿、旅游、餐饮经营者免费提供一次性用品仍十分普遍；果蔬批发市场、集贸市场未在《条例》实施起三年内实现果蔬菜皮就近就地处理；市区垃圾分类质量普遍不高，错分错投现象常见；对居民个人未按规定投放生活垃圾的罚款处罚较少；现有生活垃圾处置单位未全面履行定期向社会公开年度环境报告书义务等。 <br/><div class="contheight"></div> 对此，《评估报告》建议，在低价值物回收处置、净菜上市、洁净农副产品进城、一次性不可降解塑料制品管理等方面加大政策引导和监管力度，明确部门职责分工；细化对单位和居民生活垃圾分类的指导，推广示范小区、样板小区的有效经验，普及垃圾袋实户制等做法；对个人生活垃圾混装、错投等行为加大执法力度；要求生活垃圾处置单位建立环境信息公开制度，定期向社会公开年度环境报告书；加大再生资源回收利用的政策支持，加快回收网络建设等。 <br/><div class="contheight"></div> 此外，针对电子商务和物流快递业的发展，《评估报告》认为需对快递过度包装问题加以规范，建议与邮政管理等部门加强协同管理，推进快递业包装简化、回收管理。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_asktopic">
+<div class="news_askuser" onclick="window.open('asktopic_detail_10011573');"><span class="verticalAlign_topic"></span>
+<div class="news_askuser_bd">
+<div class="news_askuser_sort">焦点</div>
+<div class="news_askuser_profile">我是清华环境学院教授刘建国,推动垃圾分类难在哪儿,问我吧!</div>
+</div> <div class="news_askuser_trbs"><span class="trbs">
+<div class="userleft_hdimg">
+<img src="//image.thepaper.cn/publish/interaction/image/2/437/745.jpg"/><div class="hdimg_bg30"><img src="//file.thepaper.cn/www/v3/img/headerimg_ctbg30.png"/><span></span></div>
+</div>
+<a class="u_sname">刘建国</a>
+<span>2018-04-16</span>
+<span class="trbs_zan" id="10011573" times="1228">1.2k</span>
+<span>进行中...</span>
+</span></div>
+</div>
+</div>
+<div class="news_editor">责任编辑：谢春雷<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 杭州，生活垃圾，立法后评估。垃圾袋实户制</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768772">
+<div class="nbgbox">
+<a class="zan" contid="2768772" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 生活垃圾处理</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768772&caid=25491",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768772&amp;caid=25491" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

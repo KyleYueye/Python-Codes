@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">“缺席审判”条款引关注，有委员建议将涉黑犯罪纳入适用范围</h1>
+<div class="news_about">
+<p>澎湃新闻记者 庄岸</p>
+<p>
+							2018-10-24 09:42<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">刑诉法草案中有关缺席审判的内容引发关注。10月23日，十三届全国人大常委会第六次会议对刑诉法三审草案进行分组审议。有委员认为，将“潜逃”作为缺席审判前提条件有待商榷。还有委员建议将涉黑犯罪也纳入适用范围。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）注意到，刑诉法草案在第三章缺席审判程序中拟规定“对于贪污贿赂犯罪案件，以及需要及时进行审判，经最高人民检察院核准的严重的危害国家安全犯罪、恐怖活动犯罪案件，犯罪嫌疑人、被告人潜逃境外，监察机关、公安机关移送起诉。”<br/><div class="contheight"></div>在分组审议过程中，委员们对把“潜逃”行为作为缺席审判的前提条件提出了质疑。全国人大监察和司法委员会委员谢勇指出，事实上，在危害国家安全犯罪、恐怖犯罪的案件中，可能没有“潜逃行为”，对方本来就身在境外，或者长期住在境外，“遇到这种情况时，本条现有规定就会成为障碍。”<br/><div class="contheight"></div>谢勇建议，将前述条款的“潜逃”表述修改为“未到案”，“不一定要有潜逃行为，只要是未到案，就可以考虑缺席审判。”<br/><div class="contheight"></div>对于“潜逃”的使用，江小涓委员也有异议，认为上述言辞用得过早。“他是犯罪嫌疑人，但也许并未犯罪，‘潜逃’有提前定性之嫌，建议使用中性词。”<br/><div class="contheight"></div>此外，在此次分组审议中，委员们再次建议拓宽缺席审判案件的适用范围。<br/><div class="contheight"></div>“目前的缺席审判适用范围还是有点过窄。”李巍委员认为，对那些社会危害性极大、人民群众反映强烈的严重刑事犯罪案件，必须依法予以严惩。比如毒品犯罪案件、电信诈骗案件，还有当前开展的扫黑除恶专项斗争，这些犯罪案件对社会危害性极大，严重危害了人民群众的根本利益。<br/><div class="contheight"></div>李巍建议，在充分保障诉讼权利的前提下，可根据实际需要，适当扩大缺席审判的适用范围，将上述犯罪案件纳入其中。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李寿康<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 缺席审判</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2559652">
+<div class="nbgbox">
+<a class="zan" contid="2559652" href="javascript:;" onclick="voteCont(this)" praisetimes="24">
+                           23</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 涉黑</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2559652&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2559652&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜守护好疫苗安全，所有环节都要打起十二分精神</h1>
+<div class="news_about">
+<p>澎湃特约评论员 杨于泽</p>
+<p>
+							2019-01-10 19:30<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2835745" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜守护好疫苗安全，所有环节都要打起十二分精神" src="//image1.thepaper.cn/image/14/110/693.jpg"/>
+</a>
+<div class="atlas_360_txt">江苏金湖通报疫苗过期三大主因，县疾控中心领导班子已全免职<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">从去年12月11日到今年1月7日，近一个月内，145名婴幼儿在江苏淮安市金湖县的一家卫生院接种（口服）了过期脊灰疫苗。根据最新通报，调查显示疫苗接种、监管等环节存在“管理混乱、工作失职、监管失灵”三大问题，已对相关责任人员作出初步处理。<br/><div class="contheight"></div>在长生疫苗案后不到半年，竟又见过期疫苗！这不能不让人震惊。讽刺的是，发生如此大范围的接种过期疫苗现象，首先发现的不是卫生院疫苗管理员或接种员，不是作为上级主管单位的金湖县疾控中心，而是孩子家长。要问一句，涉事的医卫人员、卫生院和疾控中心到底失职到了什么程度？<br/><div class="contheight"></div>按照《疫苗流通和预防接种管理条例》与《预防接种工作规范》的要求，接种疫苗前，医卫人员要记录所接种疫苗的品种、生产企业、最小包装单位的识别信息、有效期、接种时间等信息。如果严格按规则办事，疫苗过期而不被发现的可能性等于零。所以，在追责上，第一板子就要打在卫生院疫苗管理员或接种员身上。他们作为疫苗被注入婴幼儿体内的最后把关者，却疏忽懈怠，这是导致过期疫苗事件的直接原因。 <br/><div class="contheight"></div>第二板子，要打卫生院和作为上级主管部门的金湖县疾控中心。卫生院作为疫苗的使用单位，一方面没有督促医务人员严格规范操作，另一方面，对待上级部门的整改要求阳奉阴违，拖而不决。金湖县疾控中心则是监管但不彻底：在去年两次督查中也发现了问题，下发了整改通报，但发现卫生院未按要求整改后，并未督促，也未上报。<br/><div class="contheight"></div>这些暴露的问题，没有哪一个是不可避免或无法解决的难事。只要工作稍微负点责、监管上再更进一步，就不至于闹到现在这个地步。涉事的卫生院及其医务人员，县疾控中心，找不到任何理由为自己辩解。他们被免职，乃至受到更严厉的惩罚，都不值得同情。<br/><div class="contheight"></div>如果说工作失职、监管失灵还属偶发性、个体性原因外，那么此次事件暴露出的另一个共性问题则更具有探讨意义，那就是疫苗的管理制度。据多位业内人士介绍，此次涉及的过期疫苗为一类疫苗，这类疫苗是由国家免费提供及回收的。所以，卫生院没有动机故意使用过期疫苗，之所以还会使用，管理上的混乱可见一斑。 <br/><div class="contheight"></div>疫苗安全，事关千万婴幼儿的健康，这不仅是家事，也是国家大事。确保疫苗安全，是不可挑战的底线。对此，既要有发现一起违法违规事件就依法严格追责、打击的决心与魄力，也要从源头上扎紧制度笼子，让身处这一链条的每一份子都能时刻紧绷安全之弦，让失职懈怠与监管失灵无处现形。<br/><div class="contheight"></div>这起接种过期疫苗事件发生在长生生物事件之后，它给全社会提了个醒，如何严格监管，特别是如何把写在纸上的相关操作、监管原则落到实处，做到全链条、全流程安全，所有环节都该打起十二分精神了。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 疫苗</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837473">
+<div class="nbgbox">
+<a class="zan" contid="2837473" href="javascript:;" onclick="voteCont(this)" praisetimes="38">
+                           37</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 疫苗</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837473&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837473&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

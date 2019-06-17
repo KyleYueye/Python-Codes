@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜1公里路连发8起事故，改下洒水时间是有多难？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 张田勘</p>
+<p>
+							2018-12-25 13:36<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月24日，陕西渭南市区一条1公里多长的路上，发生8起事故。交警部门初步判断，事故均为路面湿滑引起，正对洒水方进行查找。（华商报，12月25日）<br/><div class="contheight"></div>也就是说，事故是洒水车作业导致路面结冰引发。近几年，几乎每个冬天，都有类似新闻发生。<br/><div class="contheight"></div>洒水车作业，当然是城市道路清洁的必需。管理部门也对洒水车的作业时间、路线、路段等，出台了具体规定。普遍而言，作业时间为清晨，因为这时车少，路面空旷。 <br/><div class="contheight"></div>但规定之外还有现实。在北方多数城市，冬季清晨气温很低。如果洒水车仍按规定作业，可能导致或加剧路面结冰。车辆经过结冰路面，不是打滑相撞，就有撞上路沿、树木，更有可能撞向行人，后果不堪设想。  <br/><div class="contheight"></div>这本来是一个常识性的问题，但并未引起足够重视。洒水车清洁路面的任务完成了，却为交通安全挖了一个“大坑”，屡屡引发公众吐槽。不少人质疑，就不能灵活点，调整洒水车作业时间吗？<br/><div class="contheight"></div>比如，北方城市可以在正午，或晚上气温还未低到结冰时作业。晚上车辆少，洒水对交通影响小；正午气温高，路面不容易结冰。更长远点考虑，可以根据气象预报合理安排未来一天或几天的洒水作业时间，保证路面清洁，又不诱发交通事故。<br/><div class="contheight"></div>另外，洒水车除了造成路面结冰，还有别的安全隐患。有些城市洒水车是在白天车多时进行的，例如上午9点和下午3点，这同样容易造成交通事故。因为洒水车喷出的水雾会影响其左右和后面车辆驾驶员的视觉，导致追尾或车辆相撞。<br/><div class="contheight"></div>这些都是洒水车作业时的基本问题，需要相关部门在制定规则制度时统筹考虑。硬性规定是一方面，但更要因地制宜、因季节制宜，而非沿用一年四季都雷打不动的时间点作业。<br/><div class="contheight"></div>古人以“刻舟求剑”来讽刺那些墨守陈规、不懂变通的人永远都达不到目的。固守死规定，不知随时节变通的洒水车作业，对道路安全构成巨大隐患，同样是每个人不愿意见到的。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 洒水车</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772459">
+<div class="nbgbox">
+<a class="zan" contid="2772459" href="javascript:;" onclick="voteCont(this)" praisetimes="117">
+                           116</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 洒水车</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772459&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772459&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（62）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

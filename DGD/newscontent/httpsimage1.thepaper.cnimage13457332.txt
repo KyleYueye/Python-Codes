@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">今日头条与时尚集团启动战略合作</h1>
+<div class="news_about">
+<p>李淑平</p>
+<p>
+							2018-12-24 16:29<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>今日头条将在时尚内容方面再加码。</u><br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="444" src="http://image.thepaper.cn/www/image/13/457/321.jpg" width="600"/></div>近日，在“2018今日头条时尚盛典”活动上，今日头条宣布与时尚集团正式达成战略合作，同时宣布将在流量和资金方面继续鼓励优质时尚内容创建。<br/><div class="contheight"></div>盛典现场，今日头条内容生态总经理洪绯宣布了上述消息。他认为，未来用户将会更看重个性化、多触点以及场景化的时尚内容消费体验，因此持续为用户提供优质的时尚内容，是今日头条与时尚集团共同的目标。未来，双方将在重大事件内容营销、垂直行业大数据、跨界IP定制孵化、MCN体系共建等方面一同发力。<br/><div class="contheight"></div>时尚集团副总裁、新媒体负责人樊百乐则表示，非常期待时尚集团旗下产品在今日头条打通全新的流量入口，与更多的时尚用户对话，让更多人了解时尚集团的时尚态度和生活方式。<br/><div class="contheight"></div>盛典现场，洪绯介绍了新一年在时尚领域的发力方向。基于时尚领域内容资讯的总阅读量高企，用户画像特点以及时尚内容生态的建设现状，未来一年，今日头条将持续发力，投入10亿流量扶持100位优质时尚内容创作者、与100家时尚品牌和100位时尚导师深度合作，共享共赢共同助力时尚IP打造，推动行业合作，深耕粉丝生态。<br/><div class="contheight"></div>当天盛典还举行了三场主题秀。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="445" src="http://image.thepaper.cn/www/image/13/457/325.jpg" width="600"/></div>以Fusion为主题的开场大秀，融合了鬼才设计师胡社光从伦敦带来的高定大秀——《丝路|风水》，以中国独有的风水、刺绣元素、京剧文化为设计灵感，演绎中国民族文化的时尚气质。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="474" src="http://image.thepaper.cn/www/image/13/457/327.jpg" width="600"/></div>中场大秀则以CHIC为主题，通过简约舒适和优雅精致的风格，向大家传递成都独有的时尚生活态度。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="368" src="http://image.thepaper.cn/www/image/13/457/329.jpg" width="600"/></div>以Grace为主题的压轴大秀的模特造型延续了四川元素，熊猫妆配上竹叶，赋予传统文化时尚新鲜力。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈关哲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2769104">
+<div class="nbgbox">
+<a class="zan" contid="2769104" href="javascript:;" onclick="voteCont(this)" praisetimes="28">
+                           27</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 时尚</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2769104&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2769104&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

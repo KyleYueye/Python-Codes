@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">脱欧前英女王最后一份圣诞致辞概要：强调和平善意，呼吁团结</h1>
+<div class="news_about">
+<p>中新网</p>
+<p>
+							2018-12-25 09:32<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="439" src="http://image.thepaper.cn/www/image/13/480/466.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">当地时间2018年12月24日，英国伦敦，英国女王伊丽莎白二世在白金汉宫录制了一年一度的圣诞致辞。视觉中国 图</span><br/><div class="contheight"></div>据中新网12月25日报道，英国定于2019年3月29日正式脱离欧盟，但英国议会现在仍未能就“脱欧”协议达成共识。在社会陷入严重分歧之际，英女王伊丽莎白二世将发表“脱欧”前最后一份圣诞致辞，强调社会和谐以及尊重他人的重要性，寄语民众团结一致。她还称，较以往任何时刻，世界此时更需要和平和善意。<br/><div class="contheight"></div>据报道，92岁的伊丽莎白二世在本月12日预先拍摄了圣诞致辞，将在12月25日播出，白金汉宫24日首先发布内容概要。<br/><div class="contheight"></div>在位66年的伊丽莎白二世一直避免过问政事，虽然在此次讲话中并未直接提及“脱欧”，但外界普遍认为，她是通过讲话，勉励对“脱欧”前景感到迷茫的人。<br/><div class="contheight"></div>伊丽莎白二世王表示，提倡和平及善意的信息“从不过时”，而且任何人都需要，也应放在心上，即使双方存在重大分歧，仍可尊重对方，这永远是促进互解的首要一步。<br/><div class="contheight"></div>伊丽莎白二世同时回顾英国过去一年发生的大事，包括英格兰在世界杯晋级四强，以及哈里王子大婚。她还说，多年来看到不少变化，但信仰、家庭和友谊对她而言始终如一，而且是她个人慰藉及安心之源。<br/><div class="contheight"></div>伊丽莎白二世发表圣诞讲话时，桌上放有一张1949年拍摄的黑白家庭照片，照片中的伊丽莎白二世与菲利普亲王，抱着当时仅6个月大的查尔斯王储。<br/><div class="contheight"></div>（原标题 英女王圣诞致辞概要：强调和平与善意 呼吁团结）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 英国女王</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2771772">
+<div class="nbgbox">
+<a class="zan" contid="2771772" href="javascript:;" onclick="voteCont(this)" praisetimes="91">
+                           90</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 英国女王</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2771772&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2771772&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

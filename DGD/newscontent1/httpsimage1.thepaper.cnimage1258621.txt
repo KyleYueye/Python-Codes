@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜县城路边车位被买断：岂能肥了个人亏了公共利益</h1>
+<div class="news_about">
+<p>澎湃特约评论员 邱风</p>
+<p>
+							2018-11-26 15:22<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2669588" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜县城路边车位被买断：岂能肥了个人亏了公共利益" src="//image2.thepaper.cn/image/12/565/628.jpg"/>
+</a>
+<div class="atlas_360_txt">隆回县城车位费被质疑：1年一百租给企业，每小时允许收5元<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">近日，一则“一年18万买断县城路边车位”的帖子引发关注。说的是湖南邵阳市隆回县，将城区1805个停车位以100元/个/年的价格，租给东莞一家物业管理公司，后者以每小时5元的价格，向停车者收费。有网友戏称“两天回本，第三天开始盈利”。 <br/><div class="contheight"></div>该县政府网站上的公告证实了此事。不过，关于收费，更准确地说，停车前30分钟免费，超出按每小时5元收费。隆回县城管部门介绍，收费是为了改善城区停车难的问题。<br/><div class="contheight"></div>尽管此举会增加民众支出，但能提高车辆停放周转率，督促驾驶员规范有序停车，相信民众普遍也能接受。<br/><div class="contheight"></div>但问题是，承租价格与收费标准之间的巨大落差，让人质疑。虽然租赁企业的盈利不会像网友所说的那样离谱，毕竟除了租金，还要前期设备投入、后期管理以及人员工资等费用，但一个车位一年100元的租金，难免给人以“贱卖”之感。<br/><div class="contheight"></div>据报道，邵阳市的停车泊位招租价格为200元/年/位。隆回当地称，降价出租是考虑到县城经济较市区相对落后等因素。但邵阳市的停车收费标准为15分钟内免费，超出部分每小时收费5元。也就是说，在给予租赁企业“半价”优惠的同时，对民众停车的优惠却仅仅放宽了15分钟。这种明显不是一碗水端平的优惠，也难怪引发公众不满。政府部门想以优惠吸引租赁企业可以理解，但也不能忽视5块钱停车费对落后地区普通民众的影响。<br/><div class="contheight"></div>当地称，停车泊位招租价格和停车服务费收费标准的核定严格遵守相关程序规定，组织了问卷调查，召开了听证会。既如此，为何民众反应仍如此强烈？最大的可能是，问卷调查、听证会只是走走过场，或者覆盖面过窄，无法反映群众意见。 <br/><div class="contheight"></div>最大的争议在于，停车位招标过程是否存在猫腻？中标价格如此之低，起拍价显然更低，这经过科学的核算吗？普通民众都觉得低，难道其他参与竞拍的公司觉得这个价格已经足够高，无人愿意再加价？ <br/><div class="contheight"></div>既然有争议，不妨先将项目缓一缓。一方面组织更加深入细致的问卷调查与覆盖面更广的听证会，认真听听民意诉求。另一方面，加大对定价程序、竞拍详情、中标公司后续运营成本及营收情况的披露力度，用透明公开回应质疑的考验。<br/><div class="contheight"></div>支出一部分停车费换取城区的井然有序，民众自然会支持，可如果让渡自己利益换来的是部分企业及个人牟取暴利，显然让人无法接受。当地回应民意是好，但不能限于自说自话，必须要有更加详实的数据与证据，方能驱散人们心中的疑虑。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 车位价格</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2671892">
+<div class="nbgbox">
+<a class="zan" contid="2671892" href="javascript:;" onclick="voteCont(this)" praisetimes="160">
+                           159</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 车位价格</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2671892&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2671892&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（62）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

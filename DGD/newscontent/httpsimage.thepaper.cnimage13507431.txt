@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">潍坊“捆绑征收社会抚养费”追踪：做法不合理，涉事村已整改</h1>
+<div class="news_about">
+<p>澎湃新闻记者 张家然</p>
+<p>
+							2018-12-26 07:59<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2760115" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">山东一村委通知“未缴社会抚养费缓办证明”？回应：依据村规</span></a></img></p></div>
+<div class="news_txt" data-size="standard">澎湃新闻（www.thepaper.cn）报道山东潍坊一村委通知“未缴社会抚养费缓办证明”后，该村作出回应。<br/><div class="contheight"></div>12月25日，潍坊市临朐县辛寨镇河北村村民委员会回复澎湃新闻称，“河北村根据上级安排，于近期开展‘三清’工作，在这项工作中，该村将社会抚养费与开证明捆绑起来是不合理的，也是错误的，对此，辛寨镇对该村干部进行了批评教育，并要求村里立即进行整改。”<br/><div class="contheight"></div>河北村村民委员会承诺，“河北村将根据本村实际情况立即进行整改，确保不再有类似情况发生。”<br/><div class="contheight"></div>据澎湃新闻此前报道，河北村村委会12月11日出具通知称，“因刘某某夫妇于2016年2月8日违法生育3孩，根据《山东省人口与计划生育条例》规定，需交纳社会抚养费81636元，请接知后于2018年12月15日到辛寨镇计生办足额交纳社会抚养费。”<br/><div class="contheight"></div>同时，该通知内容称，“到期交不清，按照河北村《村规民约》的规定，将暂缓办理一切证明手续。并根据山东省卫生和计划生育委员会（鲁卫指导字〔2016〕5号）文件规定：未足额或拒不缴纳社会抚养费的将移交法院执行并录入山东省社会信用体系。”</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：钟煜豪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 潍坊，社会抚养费，整改</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2774809">
+<div class="nbgbox">
+<a class="zan" contid="2774809" href="javascript:;" onclick="voteCont(this)" praisetimes="24">
+                           23</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 社会抚养费</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2774809&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2774809&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

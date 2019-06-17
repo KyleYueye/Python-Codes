@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜这个上下铺不换就真不道德了吗？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 熊志</p>
+<p>
+							2018-09-18 16:40<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2449610" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜这个上下铺不换就真不道德了吗？" src="//image.thepaper.cn/image/10/537/311.jpg"/>
+</a>
+<div class="atlas_360_txt">想上铺换下铺被拒、发文批评又被指道德绑架，律师称用法维权<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">近日，一篇“火车换铺有感”的文章引来网友围观。该文出自知名律师易胜华之手，讲述了他和家人乘火车时，想用上铺车票交换其他乘客的下铺车票，却屡遭拒的经历。易胜华本想呼吁年轻人多一份理解，不料却引来网友“讨伐”。他回应称，不理解年轻人的道德观念，并表示将就某些网友的恶意诋毁和诅咒诉诸法律，以维护名誉权。<br/><div class="contheight"></div>易胜华受到几乎一边倒的批评在意料之中。换不换铺不单是个道德议题，“帮你是情分，不帮你是本分”也绝非他所言是毒鸡汤。现代社会得以正常运转，一个基本逻辑就是产权观念——谁付费，谁使用。 <br/><div class="contheight"></div>火车不是公交车，后者座位开放，没有谁对哪个座位有明确的权属，所以公共舆论鼓励给弱势群体让座，不让座会被视为违背公德，受到批评。尊老爱幼的社会美德由此得以维护。 <br/><div class="contheight"></div>火车票有座无座、上下铺有差价、有明确的使用权。花钱买来的权利，当然没有必须出让的义务。在此前的一些案例中，比如2016年5月3日动车D5185上，女大学生因为没给老人让座遭其女儿指责，公众也是一边倒支持女大学生。 <br/><div class="contheight"></div>更要明确的是，不管是在火车上，还是在公交、地铁上，一般情况下，让座也不是绝对的义务，底线是尊重个人意愿，不能搞道德绑架。一些老人强制要求年轻人让座，同样会引起舆论的反感。 <br/><div class="contheight"></div>作为一个律师，易胜华应该比任何人都明白权利和义务的关系，明白道德义务要服从法律安排。在吐槽年轻人时，他其实忘了反躬自省：为什么带着孩子出行，却没有把行程安排妥当？呼吁换位思考前，有没有想过，别人为了抢下铺票，也付出了不少精力？认为别人为自己的失误买单理所当然，这种心态被批道德绑架当然不冤。  <br/><div class="contheight"></div>需要重申一句，道德更多时候是用来律己的。拿来律他，很容易沦为道德绑架。当然，这并不妨碍我们呼吁换位思考、爱心互助。毕竟，过度冷漠不是好事。只是所有美好的道德呼吁，前提是尊重个人权利，分清公德适用的场合。 <br/><div class="contheight"></div>在火车这个权利关系明确的空间中，换铺位是美德，不换未必是自私。易胜华律师可以在内心抱怨，诉诸公共讨论，就得做好接受舆论讨伐的准备，坦然面对舆论的板砖。当然话说回来，一个开放有序的社会，对当事人应该止步于理性的批评，如果就此上升到恶意诋毁和攻击，真被告上法庭，那也是自食其果了。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 道德绑架</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2452417">
+<div class="nbgbox">
+<a class="zan" contid="2452417" href="javascript:;" onclick="voteCont(this)" praisetimes="685">
+                           684</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 社会道德</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2452417&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2452417&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（153）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

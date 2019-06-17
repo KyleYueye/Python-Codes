@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国众院通过政府支出法案，含57亿美元美墨边境“修墙”钱</h1>
+<div class="news_about">
+<p>汪梦唐/海外网</p>
+<p>
+							2018-12-21 09:52<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="405" src="http://image.thepaper.cn/www/image/13/358/763.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">当地时间2018年12月20日，美国华盛顿，美国众议院议长、共和党人保罗-瑞安与众议院多数党领袖凯文-麦卡锡（Kevin McCarthy）就边境墙问题答记者问。 东方IC 图</span><br/><div class="contheight"></div>海外网12月21日消息，当地时间20日晚些时候，美国众议院通过了包含57亿美元边境墙融资的政府短期支出法案。<br/><div class="contheight"></div>据美国福克斯新闻网消息，美国众议院20日批准了一项法案，将在明年2月初为联邦政府提供资金，其中包含为特朗普长期承诺的“美墨边界隔离墙”提供57亿美元修建费。<br/><div class="contheight"></div>据报道，此次投票，有8名共和党人加入了177名的民主党人阵营，反对这项法案。最后众议院以217比185通过了这次支出法案。该法案现在提交给参议院，由于参议院的49名民主党人不会同意在“边界墙”上支出，所以肯定达不到通过所需的60票，这反过来将大大增加部分联邦政府机构在21日午夜关门的风险。<br/><div class="contheight"></div>在众议院投票前，特朗普曾告诉共和党众议院领袖，他不会同意民主党在参议院提出的其他形式的支出法案。<br/><div class="contheight"></div>（原标题《美众议院通过政府支出法案 含57亿美元“修墙”钱》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美墨边境墙</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2758736">
+<div class="nbgbox">
+<a class="zan" contid="2758736" href="javascript:;" onclick="voteCont(this)" praisetimes="57">
+                           56</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美墨边境墙</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2758736&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2758736&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

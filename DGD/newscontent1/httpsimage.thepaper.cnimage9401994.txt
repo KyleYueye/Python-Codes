@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜规划局“半价团购房”，集体腐败就应集体问责</h1>
+<div class="news_about">
+<p>澎湃评论员 西坡</p>
+<p>
+							2018-08-06 16:17<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">普通人半价团购一顿饭、一件衣服、一张电影票就很开心了，有人却能半价团购房子，这是怎样一种“本事”？<br/><div class="contheight"></div>据华商报报道，西安市规划局在长庆坊二期“团购”191套住房，价格不到周边商品房售价的一半。业主跟开发商发生纠纷，维权时在开发商办公室发现并拍摄到一张规划局关系房表格，进而向媒体爆料。记者拿到的一份法院判决书显示，这批团购房的销售均价为4495元/平方米，而周边商品房销售价格普遍在一万元以上。<br/><div class="contheight"></div>记者还拿到了一份该小区的车位目录，对照住宅目录和车位目录，参考西安市规划局网站上公布的人员信息，发现至少有十多位局领导、区县分局领导及相关单位负责人与名单上的姓名一致。其中多人都是两个连号车位，既有西安市规划局前任领导，也有现任领导。<br/><div class="contheight"></div>最新消息，西安市纪委监委已成立专项调查组介入调查，将根据调查情况，及时发布有关信息。相信这起“半价团购房”事件，很快就会水落石出。<br/><div class="contheight"></div>需要指明的是，一旦查实，这就是赤裸裸的集体腐败。买卖超低价团购房，就是行贿受贿，不能拿“内部福利”进行遮掩，也没必要说什么“隐性腐败”。腐败就是公职人员利用手中职权非法收受好处，不管参与者是一个人还是一个部门，收受的是房子还是现金，性质都是一样的。<br/><div class="contheight"></div>“半价团购房”固然不是白送房子，但如此“优惠”的价格仅仅是因为“量大从优”吗？买一半送一半跟直接送房并没有本质区别。必须明明白白地当做腐败来查处，才能打消参与者的侥幸心理。<br/><div class="contheight"></div>公务员低价团购房本来就是腐败现象，但是长期以来被许多地方当做内部住房福利。因为团购房往往人人有份，所以会给参与者法不责众的预期，组织者甚至会赢得“体贴下属”的美名。这种有意无意的认知偏差早就应该纠正了。集体腐败就应集体问责，而领导者、组织者、得利更多者理应承担更大责任。<br/><div class="contheight"></div>房价是每个家庭都会面临的难题，公职人员没有任何权利近水楼台先得月。因为他们拿来与开发商交换的“资源”都是公共资源，不能监守自盗。<br/><div class="contheight"></div>在调查“半价团购房”背后腐败的过程中，要重点关注西安市规划局给开发商提供了怎样的“帮助”，才换回这么多实打实的好处。其中是否存在滥用职权，有没有给第三方造成危害，都应该调查清楚。报道显示，因工商部门通过登记住所或者经营场所无法联系，开发商于2017年4月5日就被列入经营异常名录。要谨防因开发商“失联”使这件事烂尾。<br/><div class="contheight"></div>“半价团购房”极大伤害了公众内心的公平感，是地方政府权力异化的产物。严查其中的腐败，才能重塑地方政府的公信。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：程仕才<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 政府团购房 房价 腐败</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2323757">
+<div class="nbgbox">
+<a class="zan" contid="2323757" href="javascript:;" onclick="voteCont(this)" praisetimes="582">
+                           581</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 政府团购房</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2323757&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2323757&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（172）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">福建省委就歹徒劫车撞人事件批示：全力救治伤员，查明案情</h1>
+<div class="news_about">
+<p>微信公众号“闽西日报”</p>
+<p>
+							2018-12-26 06:17<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="413" src="http://image.thepaper.cn/www/image/13/511/876.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">医护人员正在全力抢救伤员。</span><br/><div class="contheight"></div>微信公众号“闽西日报”12月26日消息，12月25日下午，龙岩市中心城区发生一起歹徒持刀杀人并劫持龙岩公交公司公交车（闽FY6998）冲撞致多人伤亡事件。经现场搜救核实，截至25日22时造成8人死亡、22人受伤（其中1人尚未脱离生命危险，其余伤员生命体征正常）。事件发生后，省委、省政府主要领导分别作出批示指示；龙岩市、区两级全力以赴开展应急处置和伤员救治工作。<br/><div class="contheight"></div>25日下午3:03，市公安局110指挥中心接到群众报警，新罗区新陂居委会有人持刀杀人，公安干警立即赶赴现场处置，随后将犯罪嫌疑人控制。经公安机关初步侦查，犯罪嫌疑人邱某，男，1970年1月出生，龙岩市新罗区人，无业人员。因与当地居委会干部有积怨，事发当日居委会干部到嫌疑人家中，向其父亲采集优抚对象信息，产生矛盾，犯罪嫌疑人持刀杀人，而后劫持公交车撞人。案件具体情况正在进一步侦查中。<br/><div class="contheight"></div>事件发生后，省委书记于伟国、省长唐登杰高度重视，立即作出批示指示，要求省卫健委和龙岩市全力救治伤员，妥善做好善后工作；公安部门尽快查明案情，依法处置；各地要加强基层治理、源头管控，及早发现隐患，排查问题，切实保障“两节”安全。省领导梁建勇、王洪祥、田湘利也分别提出具体要求。省委常委、政法委书记王洪祥当即赶赴龙岩看望慰问伤员，指导事件处置工作。<br/><div class="contheight"></div>龙岩市委、市政府主要领导第一时间分头赶赴事发现场和医院，组织开展应急处置和伤员救治工作，并立即成立事件处置领导小组，由市委书记任组长、市长任副组长，下设医疗救治组、事件调查组、善后工作组、社会稳定组、信息发布组5个工作小组，每个小组分别由一位市领导担任组长。<br/><div class="contheight"></div>目前，各小组按分工有序开展工作。医疗救治方面，市区相关医院已组建伤员救治工作专班，省卫健委协调兄弟市组织医疗专家来岩支援救治工作；事件调查方面，市、区公安部门案件专班正深入开展调查工作；善后工作方面，每位死者都安排一个专门小组做好对应善后工作；社会稳定方面，市、区各有关部门和政法机关已分头落实维稳措施；信息发布方面，及时、持续发布权威信息，回应社会关切。<br/><div class="contheight"></div>（原题为《龙岩发生歹徒持刀杀人并劫持公交车撞人事件》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王建亮<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 福建,龙岩,劫持事件</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2775289">
+<div class="nbgbox">
+<a class="zan" contid="2775289" href="javascript:;" onclick="voteCont(this)" praisetimes="55">
+                           54</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 公交劫持</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2775289&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2775289&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（270）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

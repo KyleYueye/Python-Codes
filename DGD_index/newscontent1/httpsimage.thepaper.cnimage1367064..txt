@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">克里米亚和乌克兰间“边境墙”竣工，配振动传感器夜视摄像头</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-29 16:40<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="399" src="http://image.thepaper.cn/www/image/13/670/78.jpeg" width="600"/></div><br/><div class="contheight"></div>就在美国总统特朗普因为“建墙预算案”遭到国内反对者的抵制，迟迟拿不到拨款而心塞之际，俄罗斯12月27日宣布，乌克兰与克里米亚的“边境墙”已经建设完成。<br/><div class="contheight"></div>据《莫斯科时报》28日报道，俄联邦安全局克里米亚边境管理局新闻处发布消息称，他们在乌克兰边界附近建设的围栏已经顺利完工。报道称，这项工程于2015年开始建设，修筑地点为克里米亚与乌克兰接壤的边界地带，设施长达60公里，高约2米，配有振动传感器与夜视摄像头等高科技监控设备。<br/><div class="contheight"></div>今日俄罗斯（RT）的报道称，“边境墙”的花费还不到300万美元，且建造迅速。有俄罗斯网友调侃称，“特朗普总统肯定会对此印象深刻。”<br/><div class="contheight"></div>对于“边境墙”的建成，克里米亚议会发言人叶菲姆·菲克斯29日告诉俄罗斯新闻社，这一举措是为了“保护当地居民免受乌克兰方面疯狂和滑稽行为”的必要措施。俄罗斯媒体进一步指出，​之所以要大费周章建墙，其目的是为了阻止乌克兰侦查小组及破坏小组向克里米亚进行渗透，同时预防走私者在克里米亚和乌克兰之间自由活动。尽管这些围栏表面上看起来非常普通，但是围栏上每隔一段距离便安装了振动、热量传感器和带有夜视摄像功能的无线电传感器，这些传感器不受天气状况影响，边境管理局的工作人员可以24小时不间断地对克里米亚与乌克兰的交界地带进行监控，通过各种类型的传感器识别潜在入侵者。<br/><div class="contheight"></div>半岛电视台报道称，对于这一消息，乌克兰边防局发言人安德烈·登琴科（Andriy Demchenko）28日回应称，“这可能是俄罗斯为了展示其加强安全的努力与宣示克里米亚已脱离乌克兰的一项宣传行动。”“我们希望这些栅栏不会限制乌克兰公民访问克里米亚半岛的权利。”<br/><div class="contheight"></div>2014年3月以来，因克里米亚全民公投后并入俄罗斯以及乌克兰东部地区冲突问题，乌克兰和俄罗斯关系急剧恶化。2018年11月25日，俄罗斯与乌克兰在刻赤海峡发生冲突，俄方扣留3艘乌海军舰只和24名军人，导致冲突进一步恶化。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 俄罗斯,克里米亚,乌克兰</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2791854">
+<div class="nbgbox">
+<a class="zan" contid="2791854" href="javascript:;" onclick="voteCont(this)" praisetimes="22">
+                           21</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 俄乌关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2791854&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2791854&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

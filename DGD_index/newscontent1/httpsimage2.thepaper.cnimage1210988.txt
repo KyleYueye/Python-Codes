@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">新警察法要求无条件配合查身份证？专家辟谣：解读文章造假</h1>
+<div class="news_about">
+<p>蒲晓磊/法制日报</p>
+<p>
+							2018-11-06 21:36<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“法制日报”微信公号11月6日消息， 当您喝酒之前，一定要明确自己的酒后状态，如果您有酒后失忆并闹事的光辉历史，一定要提前做好防范自己失态的措施。否则新警察法第二十八条会将您像抓猪一样捆起来并塞进笼子里，被“强制”而导致的身体伤害是小，您的伟大的颜面将会荡然无存。<br/><div class="contheight"></div>因为酒后失态，就要被警察像抓猪一样抓起来——看到这个对新警察法的解读，惊不惊吓？意不意外？<br/><div class="contheight"></div>先别慌，《法制日报》记者告诉你<strong>，这个看起来有理有据的解读文章，是“报了个假警”</strong>。也可以说，你看到了一个<strong>假的新警察法解读文章</strong>。<br/><div class="contheight"></div>昨天，一篇名为《新警察法出台: 向警察索要执法证或被拘留》的文章在网络上热传，文章不仅取了一个抓人眼球的标题，更是用了一些调侃和耸人听闻的语言，对所谓的“新警察法”进行了解读。<br/><div class="contheight"></div>“这篇<strong>文章之前就有过，但角度理解有些偏激！</strong>文章用<strong>‘新警察法’替换‘警察法修订草案稿’，并用不恰当的语言作出解读，容易丑化警察和法律，可能导致警民关系紧张</strong>。”中国人民公安大学教授詹伟11月6日接受《法制日报》记者采访时指出。<br/><div class="contheight"></div>事实上，该文今年6月就已经见诸网络，那时候的文章多为《新警察法即将来袭，普通群众要注意！别稀里糊涂摊上大事！》这样的标题，时隔4个多月，换了个标题继续在各大平台热转。<br/><div class="contheight"></div>记者注意到，文章专门讨论了查身份证、警察开枪等备受关注的话题，还配上了“新警察法第XX条规定”这样的法条，让解读看起来特别“专业”。<br/><div class="contheight"></div>然而，<strong>这些法条并不是出自所谓的“新警察法”。</strong><br/><div class="contheight"></div>2016年12月1日，公安部网站发布了警察法修订草案稿公开征求意见的公告。至今，警察法的修改工作尚未完成，而这一文章中提到的规定，正是出自警察法修订草案稿。<br/><div class="contheight"></div>例如，文章称：“当你悠闲的走在大街上，有警察突然上来查验你的身份证件，请记住，一定要毫无条件毫无借口的配合呦。因为新警察法第十六条规定，人民警察查验您的身份证件不需要任何理由任何解释。”<br/><div class="contheight"></div>对照警察法修订草案稿关于身份证件查验的规定发现，草案稿第十六条规定，人民警察因履行职责的需要，可以依法查验居民身份证或者其他证明身份的证件。<br/><div class="contheight"></div>记者注意到，今年9月7日，十三届全国人大常委会立法规划公布，其中，修改警察法被列入第二类项目，也就是属于“需要抓紧工作、条件成熟时提请审议的法律草案”。也就是说，警察法要想走完修改、审议、通过这一系列的程序，仍然需要一些时日，而不是文章开头所说的“新鲜出炉的警察法来袭”。<br/><div class="contheight"></div>但这篇借用“新警察法”名字的文章，让一些公众号收获“十万加”阅读量的同时，也让一些公众号遭了秧。<br/><div class="contheight"></div>因为转载这篇文章，<strong>江西省上饶开发区公安分局的官方微信公众号就火了一把</strong>，随后，负责舆情的工作人员称，<strong>这篇公号文章是转载的，因为用词不当，现在已经删除。</strong>然而，该公众号转发的文章已经“覆水难收”，被多家网站转载，例如，大众网转载的《新警察法出台:向警察索要执法证或被拘留》一文，来源标明的就是“上饶开发区公安分局”。<br/><div class="contheight"></div>“一个消息出来后，一定要从最权威的渠道来核实其真实性。尤其是一些官方媒体在进行转发报道时，一定要认真核实，否则不仅会给自己的信誉带来损害，还会进一步造成不良的社会影响。”詹伟说。<br/><div class="contheight"></div>（原题为《辟谣！网传新警察法解读文章内容造假！》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 新警察法,辟谣</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2607652">
+<div class="nbgbox">
+<a class="zan" contid="2607652" href="javascript:;" onclick="voteCont(this)" praisetimes="32">
+                           31</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 辟谣</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2607652&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2607652&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（40）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

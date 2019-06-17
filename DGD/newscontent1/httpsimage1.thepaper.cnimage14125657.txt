@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=27976">贵州发布</a>
+</div>
+<h1 class="news_title">贵州新规出台：“存在问题论文”的指导老师1年不得招生</h1>
+<div class="news_about">
+<p>贵州发布</p>
+<p>
+                            2019-01-10 19:34<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard">1月10日，贵州省教育厅网发布消息，贵州出台《贵州省全面落实研究生导师立德树人职责的实施意见》(以下简称《意见》)。其中明确，对论文抽检被认定为“存在问题论文”的指导教师至少1年不得招生，对有学术不端行为的研究生导师，一票否决，取消研究生导师资格。<br/><div class="contheight"></div><strong>首要任务：</strong><br/><div class="contheight"></div>该意见围绕培养什么人、怎样培养人、为谁培养人这一根本问题，把立德树人作为研究生导师队伍建设的首要任务，全面落实研究生导师是研究生培养第一责任人的要求，坚持教书和育人相统一，坚持言传和身教相统一，坚持潜心问道和关注社会相统一，坚持学术自由和学术规范相统一，以德立身、以德立学、以德施教，努力建设一支师德高尚、学养深厚、术业精进、治学严谨、指导有方的高素质研究生导师队伍。<br/><div class="contheight"></div><strong>关于研究生导师：</strong><br/><div class="contheight"></div>意见提出，研究生导师需有过硬的政治素质、有良好的师德师风、有较强的业务能力等基本能力。同时，规范了研究生导师选聘，提出严格遴选标准、开展分类遴选、实行评聘分离。在保障研究生导师基本权利中，意见提出研究生导师享有招生参与权、培养自主权、育人推荐权及管理建议权。<br/><div class="contheight"></div><strong>责任追究方面：</strong><br/><div class="contheight"></div>在责任追究方面，培养单位对不认真履行导师岗位职责并产生不良后果的，应视情况及时予以严肃处理。其中，因研究生导师履职不力，研究生出现学术不端行为或违反学术道德的，按照相关规定进行处理。对论文抽检被认定为“存在问题论文”的指导教师至少1年不得招生，不得参与当届“贵州省优秀博士硕士生导师”评选。<br/><div class="contheight"></div><strong>采取一票否决：</strong><br/><div class="contheight"></div>意见提出，对聘期内无项目、无经费、无成果的研究生导师原则上暂停招生，有学术不端行为的研究生导师，一票否决，取消研究生导师资格。造成研究生培养质量出现问题的，可视情况分别采取约谈、限招、停招等方式予以处理；情节严重的，可取消研究生导师资格。<br/><div class="contheight"></div>来源：多彩贵州网<br/><div class="contheight"></div>记者：应腾</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2837694">
+<div class="nbgbox ">
+<a class="zan" contid="2837694" href="javascript:;" onclick="voteCont(this)" praisetimes="61">
+                                    60</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

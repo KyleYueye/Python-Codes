@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25425">绿政公署</a>
+</div>
+<h1 class="news_title">黑龙江：10日夜间起部分城市或将出现中度至重度污染</h1>
+<div class="news_about">
+<p>迟嵩 吴殿峰/国家应急广播网</p>
+<p>
+							2019-01-09 12:55<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="372" src="http://image.thepaper.cn/www/image/14/69/883.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">2019年1月7日，黑龙江省哈尔滨市，今早城区空气质量指数持续在200以上，为重度污染，城区灰蒙蒙一片。 东方IC 图</span><br/><div class="contheight"></div>记者从黑龙江省生态环境厅获悉，由于扩散条件转差，预计10日夜间至13日，该省西南部地区及东部部分城市易发生中度至重度空气污染过程。14日，伴随新一股冷空气来袭，全省大部空气质量好转。<br/><div class="contheight"></div>据了解，10日夜间至13日，黑龙江省高空受暖脊控制，高空气流较弱，近地面风力较弱，边界层高度较低，大气污染物扩散条件较为不利，夜间至次日凌晨时段易发生逆温现象，将出现大面积静稳区域，造成污染物累积。西南部地区及东部部分城市易发生中度至重度空气污染过程。<br/><div class="contheight"></div>具体预报：1月10日夜间，哈尔滨、绥化、大庆、齐齐哈尔等西南部城市可能出现局地中度及以上污染。1月11日至13日，上述西南部城市及佳木斯、鹤岗、双鸭山、七台河、鸡西、牡丹江等东部城市可能出现中度至重度污染过程，首要污染物为PM2.5或PM10。1月14日，新一股冷空气将进入黑龙江，大气污染物扩散清除条件逐渐转好。<br/><div class="contheight"></div>（原题为：《10日夜间起黑龙江部分城市或将出现中度至重度污染》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 重度污染,黑龙江,大气污染物扩散</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831412">
+<div class="nbgbox">
+<a class="zan" contid="2831412" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                           0</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 空气污染</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831412&caid=25425",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831412&amp;caid=25425" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

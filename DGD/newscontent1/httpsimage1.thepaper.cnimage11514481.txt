@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜牙膏止血全靠处方药？监管、厂商能否给个回应</h1>
+<div class="news_about">
+<p>澎湃特约评论员 于平</p>
+<p>
+							2018-10-22 12:28<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">日前，有三甲医院医师在网络曝光称，某名牌中草药牙膏中含有西药成分氨甲环酸，这种药物主要作用是止血凝血，属于处方药。调查发现，很多宣称能防止牙龈止血的牙膏里都有氨甲环酸，许多网友表示，自己使用这类牙膏刷牙不出血，可能就是因为添加了止血药。<br/><div class="contheight"></div>处方药属于严格控制使用的药品，这种药一般都具有一定的毒性及其他潜在的影响，所以必须在医生指导下使用。我国法律是禁止将处方药成分添加入食品和保健品的，近几年来，国内破获多起保健品偷偷添加处方药的大案，许多人因此被追究刑责。<br/><div class="contheight"></div>但根据爆料，受到严厉管制的处方药，竟然出现在许多热销的名牌牙膏里，成为防止牙龈止血的秘密武器，这实在令人震惊。如果爆料属实，这种对于处方药的滥用，就绝非小事一桩。<br/><div class="contheight"></div><strong>其一，相关厂商涉嫌虚假宣传，将消费者生命健康视为儿戏。</strong>这些牙膏大多冠以中草药的名号，打着“安全无副作用”噱头。但实际上，这些牙膏既不是单纯的中草药成分，安全性也是个大大的问号。<br/><div class="contheight"></div>公开资料显示，氨甲环酸有着很多副作用，如药物过量可能致颅内血栓形成和出血，其他副作用包括腹泻、恶心及呕吐、经期不适等等。包括孕妇及哺乳期妇女，有凝血倾向者，曾经有血栓形成、心绞痛、心肌梗死、脑缺血病史者等人群，是禁止服用此药的。但牙膏制造厂商们却涉嫌隐瞒这些真相，导致许多人可能“用命在刷牙”。<br/><div class="contheight"></div><strong>其二，相关监管形同虚设，导致处方药失控。</strong>虽然现在尚不知这些牙膏添加氨甲环酸，有没有经过监管部门的许可。倘若监管部门没有批准，这些牙膏制造厂商却擅自使用，这是监管的严重失职。毕竟，这些牙膏在市面上公开销售这么多年，如此明显的违法线索都发现不了，无论如何都说不过去。<br/><div class="contheight"></div>倘若牙膏添加氨甲环酸，得到了监管部门的批准，那么监管部门批准的依据是什么？牙膏虽然并非食品，但毕竟是“入口”的，安全要求比一般日用品高很多。而且，有些人群如儿童等，可能会在刷牙过程中误食牙膏。不少医生在微博上称，即便是在手术过程中，他们对于氨甲环酸的使用也极为谨慎。然而，<strong>医生都不敢轻易使用的氨甲环酸，如果添加进了牙膏，被消费者长期、高频率使用，对于人体健康会不会造成潜在威胁？对此，有没有进行过相关的药理毒理测试评估？</strong><br/><div class="contheight"></div>牙膏的安全性，与每个人的健康都息息相关。对于网络上的质疑，目前相关厂商尚无回应，期待监管部门尽快介入调查，给消费者一个说法。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 牙膏,处方药</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2551606">
+<div class="nbgbox">
+<a class="zan" contid="2551606" href="javascript:;" onclick="voteCont(this)" praisetimes="285">
+                           284</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 处方药</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2551606&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2551606&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（72）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

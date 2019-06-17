@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25482">逝者</a>
+</div>
+<h1 class="news_title">纪念｜出版人：二月河的历史小说是没人能超越的高峰</h1>
+<div class="news_about">
+<p>澎湃新闻记者 杨宝宝</p>
+<p>
+							2018-12-15 13:43<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">【编者按】<u>@河南日报 12月15日消息，#权威豫报# 文坛泰斗二月河(凌解放)于15日凌晨在北京逝世。另据微信公号“大河报”消息，记者刚刚获悉，著名作家二月河于今日凌晨病逝于北京，享年73岁。</u><br/><div class="contheight"></div>“在当代，二月河写的长篇历史小说至今是没人能超越的高峰，从艺术性、流传性的角度，没有什么人可以超越他。”长江文艺出版社社长尹志勇告诉澎湃新闻记者，“他500万字的‘帝王三部曲’达到了相当高的成就，《雍正皇帝》还入选了《亚洲周刊》评选的20世纪中文小说100强。可惜两次与茅盾文学奖失之交臂。”<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="600" src="http://image.thepaper.cn/www/image/13/219/328.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">《康熙大帝》《雍正皇帝》《乾隆皇帝》合集，长江文艺出版社有限公司</span><br/><div class="contheight"></div>二月河1995年左右就开始与长江文艺出版社合作，他的最重要作品《康熙大帝》《雍正皇帝》《乾隆皇帝》都在长江文艺出版社出版。合作20多年，尹志勇对二月河的评价是“一个真正的君子”。二月河的历史小说销量巨大，仅仅长江文艺出版社就已经销售了上千万册，码洋达到四五亿元，但在尹志勇印象中，二月河很少与他们谈到版税，“他是个淡泊名利的人。”<br/><div class="contheight"></div>作为中国销量最大的历史小说作家之一，二月河生活非常朴素。尹志勇回忆，出版社每年都要去看他几次，“他现在还住在农家小院里，吃的东西也很朴素低调。年轻编辑找他照相合影，他都很随和，对人亲和。”<br/><div class="contheight"></div>尹志勇说，这两年二月河身体一直不太好，之前也去北京看过病，“最近出版社正在出他的新文集，准备邀请他参加发布会，他也答应了。没想到这次病情突然恶化。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：张喆<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 逝者</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2742490">
+<div class="nbgbox">
+<a class="zan" contid="2742490" href="javascript:;" onclick="voteCont(this)" praisetimes="115">
+                           114</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 逝者</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2742490&caid=25482",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2742490&amp;caid=25482" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（53）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25462">中国政库</a>
+</div>
+<h1 class="news_title">航空工业与北航签约共建航空总医院</h1>
+<div class="news_about">
+<p>“航空工业”微信公众号</p>
+<p>
+							2018-12-26 21:11<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="353" src="http://image.thepaper.cn/www/image/13/536/89.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">本文图均为 航空工业微信公众号 图<br/><div class="contheight"></div></span>12月26日上午，中国航空工业集团有限公司与北京航空航天大学共建航空总医院签约仪式在北航如心会议中心举行。航空工业董事长谭瑞松、总经理罗荣怀、副总经理吴献东、总会计师李耀，北航党委书记曹淑敏、校长徐惠彬、副校长房建成、副校长刘树春、党委副书记李军锋等出席仪式。徐惠彬主持签约仪式，李耀、房建成分别代表双方签署共建航空总医院协议。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="509" src="http://image.thepaper.cn/www/image/13/536/86.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">北航党委书记曹淑敏出席仪式并讲话<br/><div class="contheight"></div></span>曹淑敏对双方共建航空总医院签约仪式的举行表示祝贺，对航空工业长期以来对北航的大力支持表示感谢。她指出，学校确立了“顶尖工科、一流理科、精品文科、优势医工”的学科建设方针，积极深化具有航空航天特色的医工交叉研究，并取得了一系列科研成果。她表示，北航与航空工业共建航空总医院，将充分发挥双方特色优势，开展更高水平、更深层次的紧密合作，培养一流人才，开展产学研协同创新，推进重大科研成果转化应用，为建设航空强国、科技强国做出新的贡献。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="471" src="http://image.thepaper.cn/www/image/13/536/87.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">航空工业董事长谭瑞松出席仪式并讲话<br/><div class="contheight"></div></span>谭瑞松对北航一直以来对航空工业在人才培养、科研攻关、产业协同等方面的支持表示感谢。他指出，航空工业与北航60余年风雨同舟，“基因相同”“血脉相通”“筋骨相连”，有着深厚的感情基础、事业基础和奋斗基础。为深入贯彻党中央精神，推动实施健康中国战略，航空工业与北航共建航空总医院，迈出了双方深化重大战略合作的重要一步。他强调，希望双方能更加务实开展工作，进一步强化航空优势，助力一流学科建设、一流企业发展，为实现“两个一百年”奋斗目标，建设航空强国、科技强国做出更大的贡献。<br/><div class="contheight"></div>近年来，北航确立了“顶尖工科、一流理科、精品文科、优势医工”的学科建设方针。围绕国家重大战略需求，深化具有航空航天特色的医工交叉，是学校积极拓展的学科方向。2017年全国第四轮学科评估中，学校生物医学工程学科入选A类学科。2016年，学校获批生物医学工程、大数据精准医疗两个北京市高精尖创新中心。近年来，学校在飞行员飞行生命保障、跳伞防护、失重及大过载生命监控、人机工效等领域取得了大量科研成果。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="246" src="http://image.thepaper.cn/www/image/13/536/88.jpg" width="600"/></div>航空工业综合管理部、规划发展部、计划财务部、资本管理部、人力资源部、科技质量部、产业拓展部、防务工程部、航空工业资产、航空总医院等相关部门负责人，北京航空航天大学党政办公室、科学技术研究院、人事处、财务处、校园规划建设与资产管理处、研究生院、医工交叉创新研究院、机械工程及自动化学院、生物与医学工程学院、大数据精准医疗高精尖创新中心、校医院等相关部门负责人参加签约仪式。 <br/><div class="contheight"></div>（原题为《航空工业与北航签约共建航空总医院》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋晨锐<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 航空工业,北航</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2778299">
+<div class="nbgbox">
+<a class="zan" contid="2778299" href="javascript:;" onclick="voteCont(this)" praisetimes="39">
+                           38</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 航空总医院</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2778299&caid=25462",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2778299&amp;caid=25462" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

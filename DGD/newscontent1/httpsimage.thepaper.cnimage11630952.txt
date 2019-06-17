@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜加油站限时加油，空气监测岂能玩如此套路？</h1>
+<div class="news_about">
+<p>澎湃特约评论员 郑薛飞腾</p>
+<p>
+							2018-10-25 18:02<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2563191" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜加油站限时加油，空气监测岂能玩如此套路？" src="//image1.thepaper.cn/image/11/617/804.jpeg"/>
+</a>
+<div class="atlas_360_txt">河南平顶山“环保新套路”：监测点附近加油站只能夜间营业<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">据中国之声报道，河南平顶山今年5月份下发通知，要求加油站营业时间改为每日19时至次日8时，其余时间都不能营业，并通过远程监控、规定“白天加油就要罚款封站”等手段强化落实。加油站无奈，市民也深感不便。 <br/><div class="contheight"></div>据报道，“限时加油”的规定，与这些加油站地处国控空气监测点有关。当地环保等部门担心，加油站挥发的油气和加油车辆排放的尾气，会影响附近国控监测点的监测数据，这才想出了缩减加油站营业时间的办法。 <br/><div class="contheight"></div>得承认，治理空气污染、提升空气质量，是近年来很多地方的重要工作。一些地方及基层政府，为此做了很多努力和尝试，也承担了较大的压力。但在此过程中，也出现了一些盲目、功利乃至跑偏的情况，比如打起空气质量监测点的主意，先有篡改监测数据，后有在附近禁止货车通行、给监测器喷水等奇葩招数。平顶山的做法，不客气地说，仍属于这一类“昏招”。 <br/><div class="contheight"></div>原因很简单。规定加油站限时加油，只是做表面文章，短期内或许可以让监测点的数据更好看，但对改善空气质量没有丝毫帮助。反而，因为这一举动，导致监测数据失实，直接影响上级部门准确掌握真实信息，进而干扰下一步治理措施的科学性和针对性。如此，岂非与治理工作的初衷背道而驰？ <br/><div class="contheight"></div>当然，苦的还是当地群众。他们正常的生活因为这一规定而被打乱，不得不在休息时间耗费精力排队加油，一些临时有加油需求的群众可能更要抓狂。 <br/><div class="contheight"></div>这些，规定的制定者不会想不到。那奇葩规定为何仍出台了呢？原因也不难理解——比起空气质量的真正改善与群众生活的便利和幸福感，一些部门可能更热衷于空气监测表上那一串串漂亮的数据。因为后者，直接关系到上级部门对自己工作的评价，关系到他们的政绩，最终关系自身仕途。 <br/><div class="contheight"></div>这背后，不排除一些地方在环境治理过程中忽视现实条件，不顾治理的客观规律与循序渐进原则，过度追求成效，大搞压力传导。治理措施通过层层加码，传导到基层时已变形走样，导致末端的执行者不得不将精力用在应付上级检查上。但也不能忽视，一些政府部门不正确的政绩观在作祟，唯数据是论、弄虚作假。 <br/><div class="contheight"></div>同时，屡屡被爆的空气监测数据直接或间接造假，还与环保评测标准单一有关。其实，这是个全球性的问题。为了打造多元化的环保监测标准，一些国家已积累了成功经验。将政府、科研机构、社会团体及个人共同纳入测评体系，所有环境监测站由第三方社会机构运营管理，减少地区政府炮制假数据的可能性；强调监管与经济激励并举。在保护环境的同时，为遭受损失和不便的企业、个人提供补贴和替代性方案。这些，都值得酌情借鉴。 <br/><div class="contheight"></div>平顶山下发的通知里指出，未来，四个国控空气质量监测点周边2公里内的加油站将搬迁。这意味着，“限时加油”只是过渡性的规定。但不得不强调的是，再小的事，只要事关民生，都是政府部门时刻要放在心头的大事。无论何时，百姓冷暖疾苦都不能让路于官员的政绩。没有特殊情况、前置条件。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 空气检测造假</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2564892">
+<div class="nbgbox">
+<a class="zan" contid="2564892" href="javascript:;" onclick="voteCont(this)" praisetimes="88">
+                           87</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 空气监测</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2564892&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2564892&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

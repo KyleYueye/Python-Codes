@@ -1,0 +1,77 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国国会两院再度休会，政府关门将延续至明年1月</h1>
+<div class="news_about">
+<p>沙晗汀/中国新闻网</p>
+<p>
+							2018-12-28 14:52<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中新社华盛顿12月27日消息，美国国会众议院和参议院在27日短暂复会后再度宣布休会。由于未能通过任何议案，约1/4的美国政府部门将继续关门至2019年1月。<br/><div class="contheight"></div>27日，众议院民主党议员试图提议表决一项不包含美国总统特朗普建墙费用的议案以维持政府运转，遭共和党议员拒绝。而参议院仅有一名参议员帕特·罗伯茨到场。他在安排完下周日程后宣布休会。<br/><div class="contheight"></div>就目前形势而言，两院对于尽快结束政府关门并没有表现出足够的热情。27日的会议在没有任何实质讨论的情况下结束。众议院议员瑞安·科斯特罗表示，他认为政府关门一事将持续到明年1月新一届国会履职。<br/><div class="contheight"></div>众议院少数党领袖佩洛西的发言人称，在明年民主党重新控制众议院后，会“快速采取行动，结束特朗普导致的政府关门”。他同时称，民主党将不会支持特朗普建设“不合情理、无效以及昂贵的墙”。<br/><div class="contheight"></div>白宫发言人桑德斯27日发表声明称，是民主党人不接受白宫提议从而导致政府关门。声明说，特朗普不希望政府关门，但他不会签署任何不把“国家安全当作首要任务”的法案。<br/><div class="contheight"></div>特朗普27日在社交媒体发文称，造成目前局面的原因是“民主党人不想让特朗普和共和党人成功”。<br/><div class="contheight"></div>有消息人士称，近日来，白宫和民主党之间少有商议，双方似乎比一周前存在更大分歧。<br/><div class="contheight"></div>参议院民主党领袖舒默发言人称，特朗普一直在要求批准建墙费用，但该要求将不会在参议院通过。他认为，白宫和参议院距离达成一致“还有非常遥远的距离”。<br/><div class="contheight"></div>（原题为《美国会两院再度休会 政府关门将延续至明年》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2777128" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">美国政府关门数十万员工被拖欠薪水，有人变卖家产应急</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2751983" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">特朗普命令联邦政府关门？只是圣诞多放一天假</span></a></img></p><p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2763616" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">边境墙拨款未达成一致，美国政府将在22日凌晨部分关门</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国,政府关门,特朗普</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2787605">
+<div class="nbgbox">
+<a class="zan" contid="2787605" href="javascript:;" onclick="voteCont(this)" praisetimes="60">
+                           59</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美国政府关门</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2787605&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2787605&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

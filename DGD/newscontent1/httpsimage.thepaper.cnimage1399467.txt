@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">阿富汗金矿坍塌事故已造成至少40人死亡，10余人受伤</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2019-01-06 23:44<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网1月6日消息，据外媒报道，阿富汗东北部一金矿于6日早些时候发生坍塌事故，目前已造成至少40人死亡，10余人受伤。<br/><div class="contheight"></div>据美国有线电视新闻网（CNN）消息，当地时间6日早些时候，一名阿富汗官员称，阿富汗东北部巴达赫尚省科希斯坦区一座金矿倒塌。事故发生时，矿井中仍有多名矿工在进行掘金作业。目前，事故已造成至少40人死亡。阿富汗警察总督鲁斯塔姆拉吉表示，另有10余人在这起事故中受伤。<br/><div class="contheight"></div>矿井坍塌的原因目前尚不清楚，但该省省长表示，这些矿工均为当地村民、并非专业人士，金矿也并非官方批准开采。卡塔尔半岛电视台在报道中披露细节称，坍塌的矿井深约60米，为当地村民在河床所挖。<br/><div class="contheight"></div>巴达赫尚省是阿富汗东北部一个偏远的山区省份，分别与中国、塔吉克斯坦和巴基斯坦接壤。据了解，在资源丰富的阿富汗，非法采矿非常常见，塔利班的大部分收入来源甚至依赖于此。但由于局势动荡和监管不足，该国大部分矿藏仍未得到开发。<br/><div class="contheight"></div>（原题为《阿富汗金矿坍塌事故已造成至少40人死亡，10余人受伤》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王建亮<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 阿富汗,矿难,安全生产事故</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2822790">
+<div class="nbgbox">
+<a class="zan" contid="2822790" href="javascript:;" onclick="voteCont(this)" praisetimes="15">
+                           14</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 阿富汗矿难</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2822790&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2822790&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

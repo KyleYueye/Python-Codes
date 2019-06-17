@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25444">社论</a>
+</div>
+<h1 class="news_title">【社论】取消“备付金”，对第三方支付正本清源</h1>
+<div class="news_about">
+<p></p>
+<p>
+							2018-12-05 17:50<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="250" src="http://image.thepaper.cn/www/image/12/928/202.jpg" width="600"/></div>近日，央行支付结算司下发《关于支付机构撤销人民币备付金账户有关工作通知》的特急文件，要求各备付金银行网络金融部、各支付机构等相关方，确保支付机构客户备付金集中交存工作平稳、有序开展。<br/><div class="contheight"></div>这不是央行第一次在备付金领域发“特急文件”。其实，早在去年1月，央行就发布了要求集中存管的通知。而6月29日，央行发布了一份特急通知，宣布自2018年7月9日起，每月逐步提高支付机构客户备用金的缴存比例，到2019年1月14日实现100%交存。<br/><div class="contheight"></div>这无疑是进一步响应国务院互联网金融风险专项整治工作部署，备付金存管制度落实不断迎来“特急”，意味着在互联网金融领域监管层的风控之网，开始进一步收紧。<br/><div class="contheight"></div>所谓备付金，简单说就是指消费者在网购时预付的货款，这笔货款在你确认收货之前，是存放在第三方存管机构的，直到交易完成，支付软件再将这笔货款转入商家的账户。在电商发展初期，这一模式能够有效解决网络购物中的买卖契约信任问题；但是，在电商行业空前发达的今天，大量的备付金滞留在支付软件的账户中，哪怕仅仅是利息，毫无疑问都是一笔巨款。而这笔巨款一直是以第三方存管机构在银行开设的备付金账户的形式存在。<br/><div class="contheight"></div>如今，央行连发“特急文件”要求备付金集中存管，首先动了的是第三方支付机构的奶酪。集中交存后，备付金利息收入将不再是第三方支付机构的收入来源之一。对于微信、支付宝这些相对大规模的支付机构来说，或许影响不大，但是对于包括网贷在内的小型第三方支付机构来说，这一“存管”，意味着以往通过监管空白套利的空间彻底宣告消失。<br/><div class="contheight"></div>对于消费者来说，这当然是有直接好处的。此前，挪用、占用备付金，造成备付金资金缺口的情况屡见不鲜，许多支付机构通过扩大客户备付金规模赚取利息收入，偏离了提供支付服务的主业，导致支付服务市场出现一定程度的混乱，也为互联网金融的风险留下了漏洞。如今备付金央行存管，这一可能性就不复存在，用户的资金安全能够得到进一步保障。<br/><div class="contheight"></div>不过，也有专家认为，取消了备付金账户之后，银行无法获得存款权益之后，可能会提升支付交易费率。前不久微信支付与民生银行的“掐架”，可以看作提现费率上升的苗头。<br/><div class="contheight"></div>对于支付行业来说，监管收紧固然是“痛”，但从长远来看，这未尝不是一次正本清源。也只有真正告别以往这种挣“快钱”的思维，互联网金融机构才有可能沉下心来开发更多助力实业发展的金融产品，回归普惠金融的初衷。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：沈彬<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 备付金 普惠金融</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2709473">
+<div class="nbgbox">
+<a class="zan" contid="2709473" href="javascript:;" onclick="voteCont(this)" praisetimes="63">
+                           62</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 央行撤销客户备付金账户</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2709473&caid=25444",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2709473&amp;caid=25444" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

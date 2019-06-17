@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜考研“直接发答案”，高校别打烂了“自主”的好牌</h1>
+<div class="news_about">
+<p>澎湃特约评论员 任然</p>
+<p>
+							2018-12-24 11:31<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2767268" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜考研“直接发答案”，高校别打烂了“自主”的好牌" src="//image.thepaper.cn/image/13/440/939.jpg"/>
+</a>
+<div class="atlas_360_txt">山东通报山东师大和青岛理工考研试题错装：系严重责任事故<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">每个考生估计都憧憬过，考试时有一份标准答案摆在面前，那该多好。可当这样的事真实发生时，注定只能是闹剧。<br/><div class="contheight"></div>12月23日，有网友爆料，山东师范大学2019年硕士研究生招生自主命题的《外语教学理论基础》科目考试过程中，校方出现失误，有考生称考场上发的不是试卷，而是答案。更诡异的是，此事还不只一起。山东教育厅官方微博称，2019年全国硕士研究生招生考试期间，山东师范大学自命题科目《外语教学理论基础》、青岛理工大学自命题科目《城乡规划理论综合》都发生了试题错装，并将之定性为“严重的责任事故，影响了考生正常考试，造成了恶劣影响。” <br/><div class="contheight"></div>真是段子都不敢这么写。虽然涉事学校和当地教育主管部门连夜作了回应，并称将安排重新补考，并报销补考考生的相关费用。但这样的事，绝不能以“工作失误”来轻描淡写，问题的处置也不能仅仅是重新补考这么简单。 <br/><div class="contheight"></div>目前涉事方面有必要回应几大疑点：<br/><div class="contheight"></div>一是，试卷为何会发生统一性的错装？按照常识，考试答案不至于要印刷试卷那么多份，这是否意味着在印刷环节就已经开始出错，而不仅仅是错装？由此，从试卷印刷、装袋、密封，是否做到了每个环节都有监督审查机制？只要任何一个环节能够发现问题，也不至于将错误闹到“把答案发到考生手里才发现问题”这一步。这种全链条式的失守，让人震惊。<br/><div class="contheight"></div>二是，涉事学校回应称，将为考生提供免费补考，这也算是一种无奈的事后补救。但是，补考的试卷如何选择，应该慎重。如果依然是按原有试卷，在如此多考生看到答案的情况下，还是否妥当，应该予以评估。进一步言之，此次考试是否有备用试卷？ <br/><div class="contheight"></div>三是，一个省同时有两起高校犯同样的错误，到底是纯粹的偶然，还是另有共性原因，涉事高校及有关部门，有必要向社会公布更详细的答案。 <br/><div class="contheight"></div>值得关注的是，这样的低级错误时有发生。12月23日，电子科技大学发布通知称，该校2019年全国硕士研究生招生考试自命题科目《固体物理》，试题内容与考试大纲出现偏差，无法考核考生真实水平，考试未能正常进行，将组织补考。2016年，中国传媒大学汉语国际教育专业试卷上，一道 25 分的题目要求翻译文言文并分析划线部分，但卷面上并没有标注划线；中国地质大学发布通知，称由于工作失误，《普通地质学》（自命题）科目考试使用了错误的试卷。 <br/><div class="contheight"></div>这些发错或者出错题的试卷，基本上都属于学校自主命题的专业科目。换言之，相较于英语、数学等全国统一命题的科目，专业科目的命题、组考权都下放到学校，这本来是好事。但从屡屡出现的问题来看，是否也说明随着管理权限的下降，组考的严肃性出现了衰减？ <br/><div class="contheight"></div>说到底，组考是一项高度专业性的工作，每一个环节都应该有严格而标准化的把关，容不得一点漫不经心。一而再地出现问题，既是对研究生考试权威性和公信力的损伤，也折射出组考工作的专业性缺乏及责任疏漏。 <br/><div class="contheight"></div>据山东省教育厅称，目前已成立调查组开展调查，下一步将根据调查结果，依法依规严肃处理。希望这一次的“严肃处理”，能真正让学校组考工作变得走心和专业起来。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 考研直接发答案</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768202">
+<div class="nbgbox">
+<a class="zan" contid="2768202" href="javascript:;" onclick="voteCont(this)" praisetimes="289">
+                           288</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 考研试题出错</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768202&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768202&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（59）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

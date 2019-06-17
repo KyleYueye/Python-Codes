@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">马尔代夫一知名豪华度假酒店突发大火，岛上人员顺利撤离</h1>
+<div class="news_about">
+<p>张敏、周宸伊/海外网</p>
+<p>
+							2019-01-04 09:40<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="338" src="http://image.thepaper.cn/www/image/13/880/793.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">火灾现场<br/><div class="contheight"></div></span>海外网1月3日消息，马尔代夫著名的豪华度假酒店于周三（2日）晚上突发大火，当局正在对起火原因进行调查，目前暂未发现有游客和工作人员受伤。<br/><div class="contheight"></div>据今日俄罗斯报道，当地时间周三（2日）晚上11点左右，马尔代夫的姬丽兰坎芙希酒店（Gili Lankanfushi）大火肆虐。目击者拍摄的视频显示，现场火势凶猛。从视频可以看出，曾被蓝色海水环绕的酒店豪华大门已经面目全非，海岸也完全被火焰吞没。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="351" src="http://image.thepaper.cn/www/image/13/880/794.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">姬丽兰坎芙希酒店官方推特截图<br/><div class="contheight"></div></span>火灾发生后，该酒店在官方推特上发布声明称，引发大火的原因目前尚不明确，所有的客人和工作人员都已顺利从岛上撤离。在进行“全面调查”之前，尚不能评估大火对度假村造成的破坏程度。<br/><div class="contheight"></div>酒店在3日发布的最新声明中表示，当地消防队员在今天上午5点前已将大火扑灭，前来度假的游客也已得到妥善安置。目前已确认有七座水上别墅和一家餐馆在大火中被毁，所幸无人受伤，起火原因目前还在调查中。预计酒店在未来一段时间将关闭，进行灾后修复，等到修复完成再重新开放。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="238" src="http://image.thepaper.cn/www/image/13/880/795.png" width="599"/></div><span style="color: rgb(128, 128, 128);">姬丽兰坎芙希酒店</span><br/><div class="contheight"></div>姬丽兰坎芙希酒店坐落于马尔代夫一个私人岛屿上，是一个屡获殊荣的豪华度假圣地。该酒店在2018年被旅游网站猫途鹰网（TripAdvisor）评为全球五大最佳酒店之一，同时它也是马尔代夫首屈一指的豪华度假酒店，其住宿条件、酒店风格和优越的地理位置一再受到国际旅游评论家的赞扬。英国《每日电讯报》将其称为“忘忧天堂”，美国有线电视新闻网（CNN）旅游指南也称其为“超级富豪和名人的首选热带度假胜地之一”。<br/><div class="contheight"></div>（原题为《马尔代夫豪华度假酒店突发大火 曾获评全球5大最佳酒店》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 马尔代夫,度假酒店</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2811903">
+<div class="nbgbox">
+<a class="zan" contid="2811903" href="javascript:;" onclick="voteCont(this)" praisetimes="3">
+                           2</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 马尔代夫</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2811903&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2811903&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

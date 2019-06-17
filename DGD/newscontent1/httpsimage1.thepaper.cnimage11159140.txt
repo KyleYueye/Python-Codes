@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜更多的人较真才不会轻易“冰释前嫌”</h1>
+<div class="news_about">
+<p>澎湃特约评论员 斯远</p>
+<p>
+							2018-10-09 18:00<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2510351" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜更多的人较真才不会轻易“冰释前嫌”" src="//image.thepaper.cn/image/11/144/877.jpg"/>
+</a>
+<div class="atlas_360_txt">河南鲁山县“未成年强奸案冰释前嫌”嫌疑人被提起公诉<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">此前引发强烈舆情的河南鲁山“冰释前嫌”强奸案，重新回到了正道。河南省人民检察院10月9日发布情况通报称，10月9日，鲁山县人民检察院依法将被告人赵某强奸一案向鲁山县人民法院提起公诉。<br/><div class="contheight"></div>通报同时还称，9月19日，办案程序尚在进行，鲁山县人民检察院官微就对该案进行报道是错误的，且“报道中多处表述错误、用语明显不当，造成十分不良的社会影响”。<br/><div class="contheight"></div>河南省人民检察院的情况通报给犹疑、愤怒的公众吃下了一颗“定心丸”。这就对了，强奸犯罪当然需要提起公诉、接受法律的审判。 <br/><div class="contheight"></div>鲁山案能有现在这样一个向好的进展，舆论监督功不可没。当鲁山县检察院官微将一起恶劣的未成年人强奸案涂抹上温润的色彩时，公众并没有跟着抹眼泪，也没有如其所愿“冰释前嫌”，而是发出了强烈的质疑，并最终推动了事件的逆转。 <br/><div class="contheight"></div>一者，促使案情进展情况更加公开透明，公众获得了更多的知情权。如果没有“冰释前嫌”的由头，当地检方很难把鲁山案的办案脉络披露清楚：2018年7月17日，鲁山县公安局提请逮捕；7月24日，鲁山检察院以涉嫌强奸犯罪批准逮捕；8月27日，案件移送鲁山县人民检察院审查起诉；9月19日，鲁山县人民检察院官微公开报道。这样，各个时间节点清晰了，问题也就明明白白。 <br/><div class="contheight"></div>再者，舆论关注的诸如“和解”“取保候审”等法律问题，也越辩越明。此前河南省检察院说，鲁山案“释法说理不充分”，而最大的“不充分”，恐怕就是鲁山县检察院促成双方父母“冰释前嫌”了。 <br/><div class="contheight"></div>根据《刑事诉讼法》相关条款，强奸犯罪性质和影响均十分恶劣，社会危害性极大，并不适用于“和解”。鲁山检察院将嫌疑人李某的强制措施变为取保候审，并协调教育部门把李某转入另一所高中就读，此举对嫌疑人而言，固然有情有义，但对受害者利益乃至社会的公共利益而言，却无疑意味着极大的损害。 <br/><div class="contheight"></div>“冰释前嫌”的闹剧，公众非但没能从中读出“感动”“温暖”，反倒感受到一股彻骨冰凉。而在鲁山检察院“温情脉脉”的背后，公众更担心这中间会不会存在利益关联、利益输送。 <br/><div class="contheight"></div>试问，鲁山县检察院官微推出的报道，仅仅是闹个笑话那么简单吗？如果没有舆论的狙击，没有媒体的监督，强奸罪这样恶劣的“前嫌”，会不会真的就“冰释”了呢？ <br/><div class="contheight"></div>可见，公众舆论的参与，并不仅仅在于“把事情闹大”，引发更多关注，而同时也在于激发出更多人的理性思考。从一开始的“冰释”笑话，到越来越多的网友展开法律分析，乃至媒体跟进报道，质疑鲁山县检察院的处置方式，整个事件也不再只是一个吸引注意力的漩涡，也成为一个公开透明的普法平台。<br/><div class="contheight"></div> 说到底，较真的人多了，才不会轻易放过每一次“冰释前嫌”。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 鲁山“冰释前嫌”案</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2511655">
+<div class="nbgbox">
+<a class="zan" contid="2511655" href="javascript:;" onclick="voteCont(this)" praisetimes="151">
+                           150</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 冰释前嫌</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2511655&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2511655&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（43）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

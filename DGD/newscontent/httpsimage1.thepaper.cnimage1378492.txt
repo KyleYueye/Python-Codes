@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美媒：“俄罗斯女特工”布京娜已承认几项控罪将与美检方合作</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-11 10:58<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="347" src="http://image.thepaper.cn/www/image/13/78/499.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">布京娜（Maria Butina） 东方IC 资料</span><br/><div class="contheight"></div>被指控为俄罗斯特工，代表俄政府渗透美国政治网络的俄罗斯女子布京娜（Maria Butina）被曝已达成认罪协议，将与美国联邦检察官进行合作。<br/><div class="contheight"></div>美国有线电视新闻网（CNN）10日报道称，布京娜的律师和联邦检察官早些时候提交了一份两页的请求，要求在联邦法官面前“改变申诉”。华盛顿联邦法院周一宣布各方已就此事完成协商，辩护听证会将于当地时间周三下午3:15举行。<br/><div class="contheight"></div>此举被外界解读为布京娜与检方达成认罪协议，她将通过承认部分指控，换取检方减刑处理或直接释放。CNN援引未被公布的协议内容称，布京娜将承认与一名俄罗斯政府官员以及至少另一名人员共同密谋，且布京娜在该俄罗斯官员的指导下采取行动，并未告知美国司法部。<br/><div class="contheight"></div>布京娜的“合作”将主要体现在告诉调查人员其男友埃里克森（Paul Erickson）的角色以及她与俄方联系人的互动。<br/><div class="contheight"></div>截至目前，在所有正式表态中，30岁的布京娜坚称自己只是一名有兴趣改善美俄关系的在美外国学生。<br/><div class="contheight"></div>今年7月15日，美国司法部在华盛顿拘捕俄罗斯女子布京娜，指控她涉嫌合谋渗透包括全国步枪协会（NRA）在内的美国政治机构，并以“自己与俄罗斯政府有联系”为由，屡次试图与美国总统特朗普接触。<br/><div class="contheight"></div>根据公布的相关法庭文件，这名刚刚从美利坚大学国际关系学院毕业的女子出生于1988年11月，持学生签证旅居美国，与50多岁的美国保守派政治活动家埃里克森同居，称其为自己的男朋友。<br/><div class="contheight"></div>《纽约时报》此前报道称，埃里克森与布京娜在2016年合办了一家公司。2017年特朗普宣誓就职时，布京娜曾和埃里克森一起出席了仪式。此外，布京娜与俄罗斯银行家托尔申（Alexander Torshin）关系密切，两人曾一同与特朗普的儿子小特朗普（Donald Trump Jr.）见面。<br/><div class="contheight"></div>据英国《卫报》7月17日报道，自称在俄罗斯西伯利亚长大的布京娜说，她父亲教她学会了射击。《卫报》援引一对拥枪的俄罗斯夫妇的回忆称，布京娜的导师是俄罗斯中央银行高级官员托尔申，他们四人曾在2013年莫斯科的一场"持枪权"大会上共进晚餐。此前，托尔申已因涉嫌干预美国大选被调查。今年4月，他是美国财政部制裁的23名俄罗斯公民之一，在美国的资产被冻结，并被禁止进入美国。<br/><div class="contheight"></div>就在布京娜被捕的前一天，特别检察官穆勒（Robert Mueller）指控12名俄罗斯情报官员以黑客手段干预美国大选。但据CNN等媒体报道，布京娜受华盛顿联邦检察官指控，与“通俄门”调查无关。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘惠<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 俄罗斯特工,美俄关系</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2726324">
+<div class="nbgbox">
+<a class="zan" contid="2726324" href="javascript:;" onclick="voteCont(this)" praisetimes="51">
+                           50</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 俄罗斯特工</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2726324&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2726324&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（21）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

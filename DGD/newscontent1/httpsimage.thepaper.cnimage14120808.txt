@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25428">直击现场</a>
+</div>
+<h1 class="news_title">三亚一官员涉骗取征地补偿款潜逃10年，警方悬赏30万缉捕</h1>
+<div class="news_about">
+<p>刁明康/封面新闻</p>
+<p>
+							2019-01-10 18:16<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">封面新闻1月10日消息，1月10日下午，封面新闻记者从三亚市公安局获悉，警方正加大力度抓捕原三亚市海棠区政府干部、科员陈愈愈，截至1月10日15时，暂未抓到。<br/><div class="contheight"></div>去年12月27日，三亚警方发布通告，悬赏30万元对陈愈愈进行抓捕，其涉嫌骗取巨额征地补偿款后逃逸。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="600" src="http://image.thepaper.cn/www/image/14/120/775.jpg" width="450"/></div>警方通告显示，2008年，犯罪嫌疑人陈愈愈在三亚市政府明令禁止在海棠湾区抢建抢种的情况下，伙同他人在海棠湾地区弄虚作假，抢建养殖池，骗取巨额国家征地补偿款后潜逃至今。<br/><div class="contheight"></div>犯罪嫌疑人陈愈愈(男，52岁，汉族)，原系三亚市海棠区政府干部、科员职务，原籍系海南省乐东县黄流镇黄西村委会，户籍住址：三亚市海棠区林旺社区居委会林旺政府大院182-2号。<br/><div class="contheight"></div>警方通告表明，对提供线索协助公安机关抓获陈愈愈的，公安机关将给予30万元奖励。<br/><div class="contheight"></div>（原题为《三亚一区干部涉嫌骗取征地补偿款潜逃10年 警方悬赏30万》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 三亚,区干部,骗取征地补偿款,悬赏通缉</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2837087">
+<div class="nbgbox">
+<a class="zan" contid="2837087" href="javascript:;" onclick="voteCont(this)" praisetimes="53">
+                           52</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 悬赏通缉</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2837087&caid=25428",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2837087&amp;caid=25428" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

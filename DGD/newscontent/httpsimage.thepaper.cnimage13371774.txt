@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">外媒：美从叙利亚撤军后或将停止对极端组织“IS”的空袭</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-21 17:06<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">美国国务院宣布将撤走叙利亚境内美军后，美国将很可能停止对叙利亚境内的极端组织“伊斯兰国”（下称IS）残余势力的空袭。<br/><div class="contheight"></div>据路透社20日报道，四名匿名的美国高级官员当日透露，在美国从叙利亚撤走地面部队后，美军或将停止在叙利亚境内针对IS武装分子的空袭行动。其中一人补充称，停止空袭的最后决定尚未作出。撤离叙利亚后，美军继续对联军提供某种形式的支持的可能性仍然存在。<br/><div class="contheight"></div>自从2015年美军开始在叙利亚境内和伊拉克本部的空中行动以来，美国空军已在两地针对极端组织目标倾泻了超过10万枚导弹和各式炸弹。<br/><div class="contheight"></div>美国作出从叙利亚撤军的决定后，法德等欧洲盟国已公开表达了对此举的不解。路透社报道称，两国已告知美国政府，撤军决定恐将影响对ISIS等极端组织的斗争。<br/><div class="contheight"></div>20日，法国外交部高级官员和国防部部长先后表示，法军在叙利亚现有的1100人地面军事力量将继续其使命，不会撤出。此外，以色列总理内塔尼亚胡当日也表态，称以军将继续在叙利亚境内的行动，以反制“伊朗对叙利亚局势的介入”。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：汪伦宇<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 叙利亚局势，美军，“伊斯兰国”</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2760125">
+<div class="nbgbox">
+<a class="zan" contid="2760125" href="javascript:;" onclick="voteCont(this)" praisetimes="18">
+                           17</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美军撤出叙利亚</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2760125&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2760125&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

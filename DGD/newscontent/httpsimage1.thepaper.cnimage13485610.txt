@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25599">运动家</a>
+</div>
+<h1 class="news_title">吴敏霞顺利产女，她曾羡慕“郭晶晶一儿一女，好幸福”</h1>
+<div class="news_about">
+<p>澎湃新闻综合报道</p>
+<p>
+							2018-12-25 13:09<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/485/542.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">吴敏霞微博晒图。</span><br/><div class="contheight"></div>中国体坛的好消息再次传来。<br/><div class="contheight"></div>25日中午，奥运“五金王”吴敏霞在微博宣布，自己的女儿已在18日出生。“感谢大家的祝福，我们喜迎西西小千金。”<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="666" src="http://image.thepaper.cn/www/image/13/485/541.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">在吴敏霞的微博里，全是和丈夫晒出的满满幸福。</span><br/><div class="contheight"></div>在退役后，吴敏霞创立了自己的泳衣品牌，还与郭晶晶一起尝试转型国际跳水裁判，此前又当选上海团市委兼职副书记。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/485/538.jpg" width="600"/></div>吴敏霞也说，她一直计划为小家庭增添一位新成员，“生宝宝一直是计划之内的事，总是希望‘1+1可以等于更多’。”<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="345" src="http://image.thepaper.cn/www/image/13/485/543.jpg" width="600"/></div>“我们也不年轻了，肯定会往这方面去考虑，但一切还是要顺其自然，有了（宝宝）也不会去隐瞒。”她还透露，自己偶尔会与老搭档、另一位“跳水皇后”郭晶晶交流“育儿经”。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="271" src="http://image.thepaper.cn/www/image/13/485/544.jpg" width="600"/></div>“我跟她虽然不常见面，但她会跟通过微信和我讲带宝宝的（经验），她有两个孩子，一男一女，我觉得（她）好幸福，每天都过得很充实。”<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/485/539.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">水中拍摄孕照。</span><br/><div class="contheight"></div>结束了堪称完美的职业生涯，又有了甜蜜的家庭生活，但吴敏霞并不打算要一个安逸的人生下半场。<br/><div class="contheight"></div>骨子里还是“女强人”的她并不像外表显现得那样柔弱纤细，而为新的事业打拼也是吴敏霞与丈夫的约定。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="900" src="http://image.thepaper.cn/www/image/13/485/540.jpg" width="600"/></div>“我们俩还是各有各的事情要做，他在创业，我也有自己的事情。其实也会有时不时分开的时候，这种短期的分开，大家会更加珍惜彼此在一起的时间。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：腾飞<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 吴敏霞</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2770915">
+<div class="nbgbox">
+<a class="zan" contid="2770915" href="javascript:;" onclick="voteCont(this)" praisetimes="147">
+                           146</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 吴敏霞</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2770915&caid=25599",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2770915&amp;caid=25599" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

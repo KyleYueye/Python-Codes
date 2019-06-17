@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">人民日报钟声：更加坚定地选择走开放合作之路</h1>
+<div class="news_about">
+<p>人民日报</p>
+<p>
+							2019-01-03 06:32<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">人民日报1月3日消息，世界各地，人们满怀憧憬迎来新一年的时刻，总有令人怦然心动的美好。<br/><div class="contheight"></div>在法国巴黎，以“博爱”为主题的跨年声光和焰火表演绚丽无比，“国际化的巴黎”“向世界开放”“共同生活”等画面依次展示；在美国纽约，时报广场的新年许愿墙贴满五颜六色的心愿纸，钟声敲响的那一刻，千万张写着“和平”“幸运”的纸条飞向天空；在印度尼西亚万丹，小丑表演队在临时避难所为海啸灾区的孩子们表演节目，驱散萦纡多日的惊惧，让欢笑点亮童心……这些温情画面，满载人们内心深处的殷殷期盼。<br/><div class="contheight"></div>各国领导人发表的新年贺词，也是时代足音的回响。“中国维护世界和平、促进共同发展的诚意和善意不会变”的宣示，“法国不能妥协，要为了更好的未来，改革下去”的告白，德国“必须为自己的利益承担更多责任”、推动“全球解决方案”的表态，朝鲜半岛北南双方领导人新年对和平的重申……国际社会传来的积极信息，汇聚成促和平、谋发展、助合作的潮声。<br/><div class="contheight"></div>当然，2018年的种种乱象无可避免地依然沉淀在人们的记忆里。贸易保护主义和单边主义对国际秩序构成威胁，政治和社会极化扩大凸显隐忧，民粹主义扩散催生破坏性影响，移民问题带来多样困窘，全球股市突发剧烈振荡，国际油价超乎寻常探底……当形形色色的不稳定性不确定性搅起愁云之时，尤其需要“不畏浮云遮望眼”的定力，需要透过阴霾洞彻希望和美好的预见力、判断力。不久前丹麦哥本哈根商学院教授比约恩·隆堡在《一个更美好的世界已经来临》中写道：“地球上有很多事情是值得我们担忧的，但一味地注重恐怖故事则意味着，我们就错过了更大的画面。”<br/><div class="contheight"></div>“更大的画面”，在于那些传递着正能量的积极面。2018年，当一碗碗冷面获得“和平的冷面”之誉时，朝鲜半岛形势趋向和缓稳定，绽放了新希望；叙利亚政治进程曙光初现；也门的历史性谈判为和平创造了机会；卡托维兹气候大会完成《巴黎协定》实施细则谈判……人类追求和平与发展的进程从未停滞，机遇犹在，世界有理由对未来抱有希望。<br/><div class="contheight"></div>世界继续大发展大变革大调整，新兴市场国家和发展中国家整体力量上升之势愈加清晰，各国担负着推动全球治理体系朝着更加公正合理方向发展的重要使命。世界怎么办？瞩望发展繁荣的未来，答案就是开放合作。正如联合国秘书长古特雷斯在新年贺词中所指出，“当国际社会进行有效合作时，世界将取得胜利”。<br/><div class="contheight"></div>2019年，密集的国际多边活动颇为引人注目。世界经济论坛年会主题将聚焦“全球化4.0：打造第四次工业革命时代的全球架构”，继续助力构建更加开放合作的世界。中国将举办第二届“一带一路”国际合作高峰论坛，“一带一路”合作为各国携手发展贡献更多机遇。智利确认将“互联互通”定为亚太经合组织第二十七次领导人非正式会议的关键词之一。毫无疑问，越来越多的国家认识到加强国际合作的必要性，更加坚定地选择走开放合作之路。<br/><div class="contheight"></div>各国命运休戚与共的时代，只有开放合作才能创造共同发展繁荣的美好未来。新的一年，以开放合作方式打开，互利共赢的乐章自然更动听、更欢畅。<br/><div class="contheight"></div>（原题为《更加坚定地选择走开放合作之路》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李琪<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 开放合作</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2807010">
+<div class="nbgbox">
+<a class="zan" contid="2807010" href="javascript:;" onclick="voteCont(this)" praisetimes="9">
+                           8</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 开放合作</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2807010&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2807010&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

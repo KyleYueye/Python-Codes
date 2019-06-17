@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">最高法：加大监督指导地方法院审理好涉产权申诉案的工作力度</h1>
+<div class="news_about">
+<p>澎湃新闻记者 林平</p>
+<p>
+							2018-12-04 13:53<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">在保护产权和企业家合法权益上，最高法将继续加大监督指导地方各级法院审理好涉产权和企业家权益的各类申诉案件的工作力度。<br/><div class="contheight"></div>12月4日，最高人民法院发布第二批人民法院充分发挥审判职能作用保护产权和企业家合法权益典型案例。最高法研究室主任姜启波表示，全国法院在司法审判中应按照罪刑法定、疑罪从无原则以发展的眼光看待民营企业发展中的不规范问题。<br/><div class="contheight"></div>2016年11月，中共中央、国务院发布《关于完善产权保护制度依法保护产权的意见》（简称《意见》），明确了产权保护的十大任务。<br/><div class="contheight"></div>澎湃新闻注意到，此次典型案例系直接对应民营企业家所关心的《意见》要求的具体落实问题，具体涉及：妥善处理历史形成的产权案件、完善政府守信践诺机制、完善财产征收征用制度、加大知识产权保护力度、严格规范涉案财产处置的法律程序等问题。<br/><div class="contheight"></div>在“张某强虚开增值税专用发票案”中，被告人张某强与他人合伙成立个体企业某龙骨厂，张某强负责生产经营活动。因某龙骨厂系小规模纳税人，无法为购货单位开具增值税专用发票，张某强遂以他人开办的鑫源公司名义对外签订销售合同。<br/><div class="contheight"></div>2006年至2007年间，张某强先后与六家公司签订轻钢龙骨销售合同，购货单位均将货款汇入鑫源公司账户，鑫源公司并为上述六家公司开具增值税专用发票共计53张，价税合计445万余元，税额64万余元。<br/><div class="contheight"></div>基于此，某州市检察院指控被告人张某强犯虚开增值税专用发票罪。<br/><div class="contheight"></div>某州市法院一审认定张某强构成虚开增值税专用发票罪，判处张某强有期徒刑三年，缓刑五年，并处罚金人民币五万元。此后，某州市法院依法逐级报请最高法院核准。<br/><div class="contheight"></div>最高法院经复核认为，被告人张某强以其他单位名义对外签订销售合同，由该单位收取货款、开具增值税专用发票，不具有骗取国家税款的目的，未造成国家税款损失，其行为不构成虚开增值税专用发票罪，某州市法院认定张某强构成虚开增值税专用发票罪属适用法律错误。<br/><div class="contheight"></div>据此，最高法院裁定：不核准并撤销某州市法院一审刑事判决，将本案发回重审。该案经某州市法院重审后，依法宣告张某强无罪。<br/><div class="contheight"></div>“最高法院基于刑法的谦抑性要求认为，本案不应定罪处罚，故未核准一审判决，并撤销一审判决，将本案发回重审。最终，宣告张某强无罪，切实保护了民营企业家的合法权益。”姜启波表示，本典型案例对于指导全国法院在司法审判中按照罪刑法定、疑罪从无原则以发展的眼光看待民营企业发展中的不规范问题，具有重要的指导意义。<br/><div class="contheight"></div>最高法院还表示，将继续加大监督指导地方各级法院审理好涉产权和企业家权益的各类申诉案件的工作力度，通过定期检查、定期报告等制度，要求全国各级法院在推动产权保护和企业家合法权益保护工作方面要出实策、想实招、干实事、求实效。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李寿康<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 最高法 监督 地方法院</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2704327">
+<div class="nbgbox">
+<a class="zan" contid="2704327" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 产权申诉案</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2704327&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2704327&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

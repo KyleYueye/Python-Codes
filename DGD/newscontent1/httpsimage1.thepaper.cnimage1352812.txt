@@ -1,0 +1,86 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评丨有人气到跳楼住建局还否认一房多卖，大写的掩耳盗铃</h1>
+<div class="news_about">
+<p>澎湃特约评论员 李勤余</p>
+<p>
+							2018-12-26 18:48<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<script src="//file.thepaper.cn/www/v3/js/jwplayer7.1.4.js" type="text/javascript"></script>
+<script type="text/javascript">jwplayer.key="JYFbHxc36sStM1VSc1vvyI42CCrHFlTZcWEYUA==";</script>
+<div class="news_video_name">
+<style type="text/css">
+							#player_wrapper{width:669px;height:377px;}
+							#player_wrapper .player_err_tip{width:669px;height:377px;display: none;vertical-align: middle;background-color: black;color: white; text-align: center;}
+							.jw-tab-focus:focus{outline:none;}
+						</style>
+<div id="player_wrapper">
+<div class="player_err_tip" id="Text">抱歉!<br/>您的浏览器可能不支持此视频播放器，请用更高版本的浏览器试试！</div>
+</div>周口女子为房服毒，住建局否认一房多卖。 澎湃新闻记者 闫海龙 视频编辑 张无为 视频来源 相关人士(03:30)
+					</div>
+<div class="news_txt" data-size="standard">河南商水的张二梅在花了38万元全款购房后，被告知合同无效。原来开发商中阳地产涉嫌“一房二卖”。张二梅一气之下，跳楼不成，又服毒自杀，目前仍昏迷不醒。<br/><div class="contheight"></div>对这名购房者寄予同情之余，相信每个人都满腹疑问，在有合同、一切凭契约说话的当下，怎么还会发生如此不合法理的惨剧？更要命的是，据记者调查，“一房二卖”甚至“一房多卖”现象，在当地并不鲜见，有套房子先后被卖给了三个家庭。 <br/><div class="contheight"></div>违规售房，无非为利，无良商家当然该为张二梅及更多购房者负责。值得追问的是，当地监管部门干什么去了？<br/><div class="contheight"></div>当地住建局副局长在面对购房者询问时的表现，或许能说明一些问题。这位领导的发言，可以概括为几点。一是，针对“一房多卖”现象，当地成立过调查组，并已经把调查结果上报。二是，举报“一房多卖”现象，需要确实的证据。三是，只有售房合同在住建局备案，才能称得上“一房多卖”。 <br/><div class="contheight"></div>言下之意就是，是不是“一房多卖”，购房者说了不算，需要住建局来查。据其介绍，调查组查了整整三个月——看来问题相当复杂，很伤脑筋。可是，在新闻视频里，多名购房者出示的合同显示，同一处公寓卖给了不同业主，可谓一目了然、一清二楚。不知，调查组到底被什么难题难倒了？ <br/><div class="contheight"></div>“一房多卖”在当地已不是个例，造成了严重的负面影响，而这位副局长还在要求购房者来提供证据。那么，是要等购房者将所有证据都摆在自己面前，才开始来论证是否是“一房多卖”？ 对当地住建局来说，当务之急到底是为业主维权，还是解释“一房多卖”的定义？  <br/><div class="contheight"></div>至于备案问题，就更可笑了。既是不法行为，开发商又怎可能主动到住建局备案？<br/><div class="contheight"></div>在接到市民反馈后，第一时间介入调查取证，不是作为监管部门的住建局自身的职责吗？<br/><div class="contheight"></div>据报道，有购房者首付10万分期购买中阳地产房屋，随后却发现房屋已被法院依法查封。也就是说，该楼盘长期非法销售。11月6日，商水住建局曾经张贴“温馨提示”，告知楼盘五证不全。但匪夷所思的是，该楼盘的售楼处未被查封。上当受骗的购房者，只怕感受不到丝毫“温馨”。<br/><div class="contheight"></div>不法商家的伎俩算不得高明，违法情况也摆在眼前。可以说，其屡屡得逞，离不开监管部门的“衬托”。当地有关部门宁愿把时间花费在旷日持久的“调查”“汇报”上，也不愿回应关切、迅速解决问题，不知是出于何种考虑？<br/><div class="contheight"></div>张二梅服毒自杀，让观者心情沉重。要知道，购房对一个中国普通老百姓来说，都是人生中的大事。面对已经造成的不幸，及可能发生的更多潜在不幸，当地有关部门还要继续掩耳盗铃吗？</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = 'http://cloudvideo.thepaper.cn/video/8deb1c207dd541cfba52f02a51e8f8f6/hd/e1d7c344-1f22-4136-92e2-fdc6d081f2a5-48c265d1-d74e-870d-2ea2-8340c20bbbc2.mp4',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'//image.thepaper.cn/image/5/405/14.jpg',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 一房多卖</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2777329">
+<div class="nbgbox">
+<a class="zan" contid="2777329" href="javascript:;" onclick="voteCont(this)" praisetimes="2563">
+                           2562</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 一房多卖</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2777329&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2777329&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（178）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

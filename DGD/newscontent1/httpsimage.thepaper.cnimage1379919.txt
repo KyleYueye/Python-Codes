@@ -1,0 +1,86 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">土耳其曝光卡舒吉案新录像：遗体疑被分数次运入沙特领事住所</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-02 09:15<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<script src="//file.thepaper.cn/www/v3/js/jwplayer7.1.4.js" type="text/javascript"></script>
+<script type="text/javascript">jwplayer.key="JYFbHxc36sStM1VSc1vvyI42CCrHFlTZcWEYUA==";</script>
+<div class="news_video_name">
+<style type="text/css">
+							#player_wrapper{width:669px;height:377px;}
+							#player_wrapper .player_err_tip{width:669px;height:377px;display: none;vertical-align: middle;background-color: black;color: white; text-align: center;}
+							.jw-tab-focus:focus{outline:none;}
+						</style>
+<div id="player_wrapper">
+<div class="player_err_tip" id="Text">抱歉!<br/>您的浏览器可能不支持此视频播放器，请用更高版本的浏览器试试！</div>
+</div>土耳其曝光沙特记者卡舒吉案新录像：尸体疑被搬进领事住所。视频来源：环球时报(01:17)
+					</div>
+<div class="news_txt" data-size="standard"><p>沉寂多日的沙特记者卡舒吉（Jamal Khashoggi）遇害一案在2018年的最后一天再爆猛料，对于至今没有发现卡舒吉遗体的问题，土耳其亲政府媒体放出一段视频，指出其遗体疑被搬进沙特领事住所。<br/><div class="contheight"></div>据半岛电视台12月31日报道，土耳其A Haber电视台当天放出一段关于卡舒吉案的监控录像。视频中，几名男子提着数个箱包进入了沙特驻伊斯坦布尔总领事的住所，且是分数次运入。土耳其媒体推测，包内装的可能是卡舒吉的遗体。视频中显示的时间为10月2日，也就是卡舒吉入沙特驻土耳其伊斯坦布尔领事馆的当天。<br/><div class="contheight"></div>一名土耳其官员表示，发布视频的电视台有着亲政府的背景，暗示该视频信息的真实性，但没有提供进一步的细节。<br/><div class="contheight"></div>不过包括《纽约时报》、美国全国广播电视台等西方媒体认为，目前还没有办法核实该段画面的真实性，尽管其符合土耳其方面此前一直坚称掌握有该案视频和录音证据的说法。<br/><div class="contheight"></div>沙特当局没有立即回应对视频的评论请求。<br/><div class="contheight"></div>上述媒体的分析指出，虽然卡舒吉遇害被外界普遍认为与沙特王储萨勒曼（Mohammed bin Salman）有关，但是沙特方面始终坚决否认与王储有关，以维护其声誉。因此，沙特方面不仅没有按照土耳其政府的要求，将沙特政府已经逮捕的多名涉嫌杀害卡舒吉的嫌犯引渡至土耳其，还一再敦促土方不要继续就这个案件过多发声。 <br/><div class="contheight"></div>不过，从土耳其方面的最新举动可以看出，土耳其对沙特“低调处理”的要求置之不理，双方的矛盾必然将因此升级。<br/><div class="contheight"></div>报道还指出，目前美国政府也在极力维护沙特政府的利益，虽然特朗普政府已经掌握大量涉案证据，美国联邦调查局等政府机构也都认为王储萨勒曼就是案件主使，白宫方面依然坚决否认王储萨勒曼参与了卡舒吉的遇害案件。 </p></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = 'http://cloudvideo.thepaper.cn/video/9d1c275f5ae24ac0ab8b27376a39a858/hd/db3b1f2e-4dc9-4f3a-92fc-8aa998f3e738-9872bc30-2193-289c-9b87-e20fa211bd4a.mp4',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'//image1.thepaper.cn/image/13/799/29.jpg',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘栋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 卡舒吉,土耳其,沙特</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2803119">
+<div class="nbgbox">
+<a class="zan" contid="2803119" href="javascript:;" onclick="voteCont(this)" praisetimes="64">
+                           63</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 卡舒吉案</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2803119&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2803119&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

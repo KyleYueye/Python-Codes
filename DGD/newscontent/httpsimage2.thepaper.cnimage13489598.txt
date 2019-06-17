@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25423">人事风向</a>
+</div>
+<h1 class="news_title">中国驻保加利亚大使张海舟即将离任，曾任北京市外办副主任</h1>
+<div class="news_about">
+<p>澎湃新闻记者 钟煜豪</p>
+<p>
+							2018-12-25 16:45<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/13/489/602.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">张海舟大使<br/><div class="contheight"></div></span>据中国驻保加利亚大使馆消息，12月20日晚，驻保加利亚使馆在馆内举行张海舟大使夫妇离任招待会，旅保华人华侨、在保中资机构、留学师生代表等约180人出席。<br/><div class="contheight"></div>招待会上，张海舟大使和来宾一起简短回顾了上任两年多以来的工作片段。他表示，近年来中保两国关系发展势头强劲，传统友好关系进一步巩固，政治互信进一步加强，务实合作不断深化，特别是今年7月李克强总理访问保加利亚并参加第七次中国-中东欧国家领导人会晤，推动中保全面友好合作关系再上新的台阶。<br/><div class="contheight"></div>报道称，现场来宾高度评价张大使夫妇在任内为推动中保两国各领域务实合作、促进中保友好关系发展所做出的不懈努力和重要贡献，感谢大使夫妇对旅保华侨华人的关心支持，对大使夫妇离任表达惜别之情，祝张大使夫妇在新的岗位上取得更大成就。<br/><div class="contheight"></div>官方简历显示，张海舟，男，1962年6月生，大学毕业，他曾在1986年至1988年担任中华人民共和国驻苏维埃社会主义共和国联盟大使馆职员、随员。<br/><div class="contheight"></div>2000年后，张海舟历任外交部欧亚司一秘、参赞、副司长等职，2005年任中国驻阿塞拜疆共和国特命全权大使，2008年任中国驻俄罗斯联邦大使馆公使，并在2012年出任北京市人民政府外事办公室（港澳事务办公室）副主任，直至2016年调任中国驻保加利亚大使。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王俊<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 驻保加利亚，外交人事</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772927">
+<div class="nbgbox">
+<a class="zan" contid="2772927" href="javascript:;" onclick="voteCont(this)" praisetimes="20">
+                           19</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 外交人事</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772927&caid=25423",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772927&amp;caid=25423" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

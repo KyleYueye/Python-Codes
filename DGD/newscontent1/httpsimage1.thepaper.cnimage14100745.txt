@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25437">牛市点线面</a>
+</div>
+<h1 class="news_title">人民日报刊文：只要严格执行，A股任性停牌的空间将不复存在</h1>
+<div class="news_about">
+<p>午言/人民日报</p>
+<p>
+							2019-01-10 08:43<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">连续停牌两三年，无真实重大事项就停牌，上市公司股票大面积停牌……A股市场上这些“随意停”“任性停”“长期停”现象，严重扰乱股市正常秩序和健康成长。随着不久前沪深交易所正式发布上市公司停复牌指引，上市公司再添一道制度“红线”。<br/><div class="contheight"></div>上市公司遇到重大事项先停牌，这本是一项必要安排。股票停复牌制度是资本市场的基础制度，很多重大事项有较高敏感性，不同投资者获取信息的渠道各异，先暂停交易再公告相关事项，能够保障及时、公平的信息披露，以解决市场各主体间的信息不对称、不对等问题。<br/><div class="contheight"></div>然而，凡事过犹不及。实践中，股票停牌曾被过多赋予信息保密、防控内幕交易、交易锁价等功能，有些公司遇到市场波动，首先想到的应对之策就是停牌；有些股票一停好几年，定期公告基本是毫无信息量的重复，投资者的资产被长期锁定却一头雾水，正常的知情权和交易权都受到了损害；还有一些上市公司及其大股东，利用了原有制度的漏洞，滥用停牌权利，以服务于其自身利益，这种故意侵害其他股东利益的行为，更是被市场尤其是中小投资者所诟病。此外，过多随意性的停牌，还对A股市场国际化的进程带来一些影响。<br/><div class="contheight"></div>正是基于市场运行中的这些问题，针对股票任性停牌的监管力度在不断加大，成效也相当显著。到2018年12月中旬，A股市场停盘“顽疾”明显改观，一批长期停牌公司先后复牌，两市停牌公司已降至20家左右。<br/><div class="contheight"></div>而从2018年11月证监会发布《关于完善上市公司股票停复牌制度的指导意见》，再到年底交易所出台停复牌指引，则让监管有了明确制度依托。比如，在停复牌的基本原则上，明确以不停牌为原则、停牌为例外，短期停牌为原则、长期停牌为例外，间断性停牌为原则、连续性停牌为例外。在具体规则上，大方向是减少停牌事由，缩短停牌时限，不同事项的停牌时间确定了相应期限。有了这些“写在纸上”的制度，今后对停复牌的监管将更加规范、更加有力，也减少了随意性。<br/><div class="contheight"></div>可以预期，“红线”划出之后，只要严格执行，任性停牌的空间将不复存在。这是A股市场制度完善向前迈出的又一步。当然，这其中值得深思的是，原本一项有助于市场公平公正的制度，却一度衍生出各种乱象，也反映出上市公司治理薄弱等更为深层的情况。停牌制度并非孤立存在，而是与很多重要市场基础制度息息相关。因此，在强化监管的同时，进一步打牢市场的制度基础，才是解决各种“任性”的根本之道。<br/><div class="contheight"></div>（原文题为《 为任性停牌划“红线”（人民时评）》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙扶<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 快讯</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2834685">
+<div class="nbgbox">
+<a class="zan" contid="2834685" href="javascript:;" onclick="voteCont(this)" praisetimes="39">
+                           38</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 快讯</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2834685&caid=25437",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2834685&amp;caid=25437" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

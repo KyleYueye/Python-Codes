@@ -1,0 +1,75 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">中国男子靖国神社前烧纸，驻日使馆：向日方了解情况要求探视</h1>
+<div class="news_about">
+<p>@领事之声,海外网</p>
+<p>
+							2018-12-12 13:26<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">外交部领事保护中心官方微博@领事之声 12月12日消息，驻日本使馆得知相关消息后即向日方了解情况，并提出探视要求。 <br/><div class="contheight"></div>此前海外网消息，据日本NHK电视台报道，当地时间12日早晨7点左右，位于日本东京都千代田区的靖国神社神门附近有报纸燃烧。日本警方以入侵建造物为由，逮捕了一名中国男子。<br/><div class="contheight"></div>东京警视厅表示，现场有男女两人被靖国神社的警卫控制住，其中的男性为郭姓中国人，55岁，目前被日本警方以入侵建造物为由逮捕。<br/><div class="contheight"></div>该男子手持“抗议南京大屠杀”的旗帜，点火时的样子也被拍下。目前警方正在调查详细情况。<br/><div class="contheight"></div>据东京消防厅消息，火很快熄灭，建筑物未受损。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2729476" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">日媒：中国男子在靖国神社门前烧报纸，持抗议南京大屠杀旗帜</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：柴敏懿<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 南京大屠杀,靖国神社</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2730389">
+<div class="nbgbox">
+<a class="zan" contid="2730389" href="javascript:;" onclick="voteCont(this)" praisetimes="200">
+                           199</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 南京大屠杀</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2730389&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2730389&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（163）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

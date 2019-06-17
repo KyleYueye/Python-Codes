@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">王毅：半岛局势出现重大转机，中国作用始终如一</h1>
+<div class="news_about">
+<p>澎湃讯</p>
+<p>
+							2018-12-11 13:53<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月11日，国务委员兼外交部长王毅出席2018年国际形势与中国外交研讨会开幕式并发表演讲。<br/><div class="contheight"></div>王毅表示，今年朝鲜半岛局势出现重大转机，美朝领导人新加坡会晤打开半岛问题僵局，韩朝领导人三次会晤推动南北关系解冻。这是各方共同努力的结果，也体现了中国始终如一的坚持。几十年来，中方为推进半岛无核化进程、维护半岛和平稳定发挥着不可替代的建设性作用。面对朝鲜半岛新形势，我们鼓励半岛南北双方抓住机遇改善关系，支持美朝两国相向而行启动解决问题进程，致力于维护半岛得来不易的缓和势头。同时，着眼半岛长治久安，兼顾各方安全关切，我们不断思考和设计解决半岛核问题的根本思路，提出并推动半岛无核化与建立和平机制“双轨并进”。只有两个轮子一起转，问题才能解决，和平才有希望。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘惠<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 韩朝关系,王毅,中国外交</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2726925">
+<div class="nbgbox">
+<a class="zan" contid="2726925" href="javascript:;" onclick="voteCont(this)" praisetimes="30">
+                           29</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 王毅</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2726925&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2726925&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

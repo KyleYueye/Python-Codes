@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25436">能见度</a>
+</div>
+<h1 class="news_title">文献军：铝工业供给侧结构性改革未像钢铁等行业获得改革红利</h1>
+<div class="news_about">
+<p>澎湃新闻记者 贺梨萍</p>
+<p>
+							2018-12-25 19:30<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">2017年之后，中国供给侧结构性改革由煤炭、钢铁领域扩大至电解铝等行业。然而，对比钢铁行业的整体性回暖，电解铝企业并没有尝到多少甜头，仍面临大面积亏损的局面。<br/><div class="contheight"></div>据中国有色金属工业协会官方网站信息，12月17日，山东省滨州市铝行业协会2019年工作会议在山东省滨州市召开，中国有色金属工业协会副会长文献军，中国有色金属工业协会党委副书记、中国有色金属加工工业协会理事长范顺科等人应邀出席。<br/><div class="contheight"></div>文献军在致辞中重点阐述了两个观点。首先，中国铝工业目前正处于爬坡过坎的关键时期，但未来仍具有良好发展前景。文献军认为，造成中国铝工业眼前困难的主要原因有三个方面，一是宏观经济下行，传统领域铝消费下降，新兴领域铝消费尚未形成一定规模，造成铝消费出现“换档”；二是中美贸易摩擦及其连锁反应造成国际市场形势恶化；三是铝工业供给侧结构性改革得到了深入推进，但并未像钢铁、煤炭等其它传统行业收获价格上涨的供给侧结构性改革的红利。<br/><div class="contheight"></div>其次，文献军提到，要继续扎实推进铝工业供给侧结构性改革。行业供给侧结构性改革取得了一定成果，但主要体现为规模的减量，产业结构仍有待优化。当前正处于铝工业强国建设的关键时期，为此，中国有色金属工业协会正与国家有关部委正在制定中国铝工业发展的长期战略。<br/><div class="contheight"></div>实际上，电解铝行业目前的日子和供给侧结构性改革之前相比，并没有太多起色，行业不得不倡议联合减产。据行业资讯网站安泰科消息，此前的12月21日，中国有色金属工业协会在广西南宁召开部分电解铝骨干企业座谈会，就当前国内外氧化铝、电解铝行业形势，未来铝消费发展趋势等方面展开研讨。<br/><div class="contheight"></div>中铝集团、中国宏桥、信发集团、杭州锦江集团、东方希望等20家骨干电解铝企业参加了座谈会。有代表在座谈会上反映，当前国内铝价已经触及行业平均现金成本线，企业经营压力接近极限，甚至超过2015年四季度最差水平。<br/><div class="contheight"></div>自今年二季度以来，部分企业陆续开始采取弹性生产措施，特别是下半年减产规模进一步扩大。据估计，截至目前，中国电解铝关停产能已超过320万吨/年，其中约80%的关停集中在下半年，未来一段时间内国内拟停产规模或将超过80万吨/年。<br/><div class="contheight"></div>目前，上述减产计划执行细节尚不清楚。中信期货研究在12月24日的一份研究报告中提到，行业主动减产往往发生在会议发布联合减产倡议之前，由市场调节产生，会议对产业发展的约束力有待商榷。<br/><div class="contheight"></div>此外，尽管从减产规模看，2018年确实产生了超300万吨的减产，但新增产能投放稀释了部分减产效果，国内在产产能从8月高点3756.7万吨到11月低点3704.5万吨，仅减去52.2万吨，幅度1.39%，较2015年及2008年铝价反转见底的去产能力度仍有一定差距。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李跃群<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 电解铝,供给侧结构性改革,联合减产,澎湃</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2773883">
+<div class="nbgbox">
+<a class="zan" contid="2773883" href="javascript:;" onclick="voteCont(this)" praisetimes="43">
+                           42</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 电解铝产能过剩</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2773883&caid=25436",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2773883&amp;caid=25436" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

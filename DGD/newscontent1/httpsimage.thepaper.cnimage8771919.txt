@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜过千科研项目过期被清，打破“勤申请、懒完成”怪圈</h1>
+<div class="news_about">
+<p>澎湃特约评论员 文轩君</p>
+<p>
+							2018-07-10 15:54<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2251673" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜过千科研项目过期被清，打破“勤申请、懒完成”怪圈" src="//image2.thepaper.cn/image/8/762/657.jpg"/>
+</a>
+<div class="atlas_360_txt">教育部清理1453个超期科研项目：追回经费并追究责任<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">教育部放大招了！7月7日，教育部社科司官网发布 " 通知 " 称，将对研究超期未完成的1453个项目进行集中清理。对至今未开展任何研究工作的项目，由学校追回已拨经费；对违反规定滥用课题经费者追究责任；被撤销项目责任人3年内不得申报教育部人文社科研究各类项目。 <br/><div class="contheight"></div>要不是这条新闻，很多“吃瓜群众”大概想不到，原来象牙塔里的学者们“拖延症”也如此严重。是这些学者对自己能力估算过高，以至于无法完成计划吗？肯定不然。根据披露的名单，这1400多个项目涉及的学者里，既有地方普通院校初出茅庐的青年教师，也有国内顶尖高校里成果丰厚、成名已久的学者。显然，除了一些学者可能在这几年里转移了学术兴趣、更换了研究方向等因素外，“被清理”不能完全归结为个人原因。<br/><div class="contheight"></div>这1453项被清理项目，反映出的，其实是高校科研体制中“项目激励”存在的问题。在比拼学术GDP的年代，高校将职称待遇与项目直接挂钩。一个普通教师，课上得再好、学问再渊博，没有项目，就升不上职称、提不了待遇，更有可能被扫地出门。因此，有没有项目，就真真正正是“存亡之别，高下之分”了。<br/><div class="contheight"></div>每年到了教育部、国家基金委项目申布的关键节点，高校里大多数老师“不是在写项目，就是在拉关系跑项目的路上”。但问题的另一面来了：高校只管有没有项目，每年项目申请季，很多高校都面向老师开“申请培训班”，各级领导个个用心督促、引导、推动，但对后继事项毫不介意。毕竟，项目完成与否、质量如何，只关乎相关学者的声誉评价利益，对本院系、本校领导的业绩报告没有任何影响。 <br/><div class="contheight"></div>更有一个负面影响因素，是日益严苛的经费使用、申报制度，令很多学者无所适从，干脆就在项目到手、职称解决之后，将项目置之高阁算了。如我认识的一位学者，在最近五年里出了数篇高质量的文章，写了两本学界评价良好的书，却与项目都无关，显然不是他“懒”或者没有了学术激情，而只是他凭着项目晋升了教授，“上了岸”，不再担忧被学校开除了。于是，与大学生“严进宽出”异曲同工的是，高校老师们的项目也是“勤申请、懒完成”。 <br/><div class="contheight"></div>这种情况无疑是不妥的。一方面，项目被清理，在项目申报和筹备的过程中，从学者到学校、教育部等各个层级所耗费的资源白白浪费掉了。另一方面，由于项目申请的排他性，真正需要资助的学者和项目，可能因为种种原因（不一定是学术水准问题）申报不上，从而失去了机会，社会也因此失去了一份可能的宝贵财富。这完全违背了国家设立社科项目资助的本意。从更高的层面来讲，学者们如此大规模地“拖延”，也是学术责任感不强、学术风气不正的体现。 <br/><div class="contheight"></div>从这个角度讲，此次“清理”行动，应该对各方都起到警醒作用。于教育部而言，应进一步理清项目申报、经费管理等工作思路，探究如何既保护学者的学术创作自由，又能更好地发挥激励作用。于高校而言，职称待遇的评价标准，不能停留在学术成果的“量”上，更应提升到“质”的层面。于学者而言，如何平衡学术研究与个人名利、个人爱好与学术责任的关系，也应当深思。否则，愈演愈烈的高校科研项目中的乱象，恐怕难有减弱的势头。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 高校科研项目乱象</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2253104">
+<div class="nbgbox">
+<a class="zan" contid="2253104" href="javascript:;" onclick="voteCont(this)" praisetimes="18">
+                           17</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 高校科研经费乱象</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2253104&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2253104&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

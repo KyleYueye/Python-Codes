@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">日韩就疑似火控雷达照射问题进行局长级对话，目前互不相让</h1>
+<div class="news_about">
+<p>澎湃新闻记者 廖婧雯</p>
+<p>
+							2018-12-25 12:21<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="415" src="http://image.thepaper.cn/www/image/13/484/125.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">日本外务省亚洲大洋洲局长金杉宪治 东方IC 资料</span><br/><div class="contheight"></div>日韩关系上空的乌云更渐浓密。此前韩国最高法院针对日本二战时期强制征用劳工一事判决日本“战犯企业”进行赔偿一事，已使韩国总统文在寅访日之行迟迟无法开展。日前，两国又在日本海因疑似雷达照射风波险酿冲突。<br/><div class="contheight"></div>据共同社12月24日报道，日本外务省亚洲大洋洲局长金杉宪治与韩国外交部东北亚局长金容吉在首尔举行会谈。围绕韩国海军驱逐舰日前疑似以火控雷达照射日本海上自卫队P-1军用巡逻机一事，金杉宪治透露消息称，日方已向韩方表达遗憾之意，并要求防止再发生。<br/><div class="contheight"></div>韩国外交部负责人金容吉也表达了韩方的不满，双方互不让步。韩国外交部相关人士对媒体表示：“日本方面在未明确核对事实关系的情况下（单方面）发表自己的主张，我方（在局长级会谈上）对此表示了遗憾。”<br/><div class="contheight"></div>12月20日，韩国海军“广开土大王”号驱逐舰在距离独岛东北部200公里的大和堆渔场（位于公海）搜救漂流中的朝鲜小型渔船。根据韩方说法，由于海面浪高，韩国军舰打开电子光学追踪设备(EOTS)、而非STIR 180舰载火控雷达进行搜索。火控雷达是引导舰炮和导弹进行射击瞄准的关键设备，舰机一旦遭火控雷达瞄准，则意味着身处非常危险的境地，因此可能做出激烈反应。<br/><div class="contheight"></div>EOTS在光学相机的基础上搭载红外线设备，专门用于在恶劣天气条件下和夜间识别远处的物体。韩方强调，在韩国“广开土大王”号驱逐舰上，EOTS是附着在火控雷达STIR 180上的。因此当日本巡逻机靠近时，韩方将EOTS对准日本海上巡逻机进行识别时，STIR 180的天线也会跟着移动，但STIR 180火控雷达并未开启，也没有发射任何电波。<br/><div class="contheight"></div>但是，日本P-1军用巡逻机可能通过机上搭载的EOTS捕捉到了韩国军舰STIR 180火控雷达的移动。日本《读卖新闻》报道称，“当时P-1机组人员(通过国际商船通信系统)向‘广开土大王’号询问 ‘我们捕捉到了武器控制雷达(火控雷达)，是怎么回事？’，但没有得到回应”。对此，韩国海军相关人士承认，“日本巡逻机通过国际商船通信系统呼叫了韩国海警，但通信状态非常不佳”。 <br/><div class="contheight"></div>目前，日本方面尚未接受韩国方面的说法。尽管事件发生后双方已进行了初步协调，但日本防卫省21日高调抗议称这是“极其危险的行为”，坚称韩国驱逐舰在公海上打开了战斗时使用的火控雷达，对本国的巡逻机进行了瞄准。目前，金杉宪治已向日本防卫省转达了韩方的说明，表示将继续与韩方进行磋商。<br/><div class="contheight"></div>据日本广播协会NHK报道12月25日报道，正在摩洛哥访问的日本外相河野太郎对记者团表示了他希望等待两国防务部门进行事实确认之后的结果，河野表示，“在局长级会议上，韩国国防部和包括日本防卫驻在官（相当于别国驻外武官）在内的日方官员共同举行了技术性对话。我认为双方之间会做好事实确认，我想等待这个结果。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：杨一帆<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 日本,韩国,火控雷达</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2772242">
+<div class="nbgbox">
+<a class="zan" contid="2772242" href="javascript:;" onclick="voteCont(this)" praisetimes="382">
+                           381</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 日韩关系</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2772242&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2772242&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

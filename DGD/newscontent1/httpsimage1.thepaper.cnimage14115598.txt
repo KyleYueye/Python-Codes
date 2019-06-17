@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25464">澎湃质量报告</a>
+</div>
+<h1 class="news_title">中消协发布去年十大消费维权舆情热点：顺风车安全问题居首</h1>
+<div class="news_about">
+<p>邱宇/中新网</p>
+<p>
+							2019-01-10 13:35<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">中国消费者协会10日发布“2018年十大消费维权舆情热点”，其中顺风车安全问题、个人信息保护缺失、大数据杀熟普遍、共享出行押金难退、网购平台售假问题排名前五。<br/><div class="contheight"></div>中国消费者协会联合人民网舆情数据中心，基于大数据平台数据与舆情社会影响力测算结果，共同梳理出“2018年十大消费维权舆情热点”。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="295" src="http://image.thepaper.cn/www/image/14/115/595.jpg" width="500"/></div><span style="color: rgb(128, 128, 128);">滴滴顺风车。中新网资料图<br/><div class="contheight"></div></span>其中，顺风车安全问题成为2018年消费维权最大热点。<br/><div class="contheight"></div>2018年，相继发生“郑州空姐滴滴顺风车遇害案”和“乐清女孩滴滴顺风车遇害案”，滴滴出行及其旗下的顺风车业务因此被推上舆论的风口浪尖，其运营理念与管理方式遭到舆论诟病。顺风车安全也引发舆论担忧与质疑，成为消费者关注与讨论的热点话题。<br/><div class="contheight"></div>个人信息保护缺失也是十大消费维权舆情热点之一。消费者个人信息泄露成为网络安全领域的关键词，网络时代的个人信息保护问题受到广泛关注。<br/><div class="contheight"></div>2018年6月，圆通被曝10亿条快递个人信息被挂到外网上公开售卖。8月，华住酒店被曝出集团数据泄露，事件涉及1.3亿个人信息与5亿开房数据。11月，中消协报告显示，在测评的100款手机App中，91款App存在过度收集用户个人信息的问题，近半数App的隐私条款内容不达标。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="375" src="http://image.thepaper.cn/www/image/14/115/593.jpg" width="500"/></div><span style="color: rgb(128, 128, 128);">某款视频类APP显示有“监听电话”的权限。中新网 图<br/><div class="contheight"></div></span>总体来看，2018年十大消费维权舆情热点按照社会影响力评分排名分别为：顺风车安全问题、个人信息保护缺失、大数据杀熟普遍、共享出行押金难退、网购平台售假、预付式消费现“套路贷”、移动支付安全漏洞、销售广告诚信问题、高额机票退改签费乱象以及首例惩罚性赔偿公益诉讼胜诉。<br/><div class="contheight"></div>中消协方面表示，2018年各种消费现象的巨变不仅是消费者观念和行为转变的结果，也是商家对消费场景升级再造的过程。然而，新经济下的消费维权仍然面临多重挑战，虚假促销、伪劣商品、支付安全、信息泄露、霸王条款等损害消费者权益的情况时有发生。面对挑战，需要协同共治，营造安全放心的消费环境。<br/><div class="contheight"></div>（原题为：《2018十大消费维权舆情热点：顺风车安全问题等上榜》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中消协,消费维权,舆情,顺丰车</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2836253">
+<div class="nbgbox">
+<a class="zan" contid="2836253" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 消费维权</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2836253&caid=25464",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2836253&amp;caid=25464" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

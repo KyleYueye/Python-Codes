@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美媒：卫星图像显示伊朗正持续推进遥感卫星发射工作</h1>
+<div class="news_about">
+<p>澎湃新闻记者 李怡清 实习生 汪梦雪</p>
+<p>
+							2019-01-09 14:51<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">不惧美方警告，伊朗遥感卫星发射前的准备工作正在持续推进中。<br/><div class="contheight"></div>据美国有线电视新闻网（CNN）1月9日报道，该媒体此前一天获得的最新图片显示，伊朗正准备向太空发射一颗遥感卫星。尽管此前美国国务卿迈克·蓬佩奥（Mike Pompeo）已向伊朗发出警告，但这一最新迹象表明，伊朗仍在推进卫星发射计划。 <br/><div class="contheight"></div>报道称，位于蒙特雷的米德尔伯里国际研究所的研究人员透露，根据前NASA（美国国家航空航天局）科学家创办的美国卫星成像初创公司Planet Labs于1月4日、6日和7日拍摄的高分辨率卫星图像显示，伊朗伊玛目霍梅尼国家航天中心的活动与2017年伊朗发射卫星前的准备活动一致。<br/><div class="contheight"></div>根据新的卫星图像，伊朗使用运载火箭“凤凰”（Simorgh）将卫星送入轨道的准备工作正在进行中。“卫星运载火箭‘凤凰’是一种两级太空运载火箭，在其第一级使用四个‘流星-3’（Shahab-3）导弹发动机，在其上部分使用相对更小的转向发动机。”米德尔伯里国际研究所杰弗里·路易斯（Jeffrey Lewis）说。<br/><div class="contheight"></div>据报道，一张摄于1月4日的卫星图像中出现了一个大型白色集装箱，位于发射现场的组装和检测大楼外，相关分析人士称，它很可能用于在发射台重新组装运输火箭的第一级。<br/><div class="contheight"></div>路易斯称，在伊朗2017年发射卫星前，组装和检测大楼外也出现了类似的箱子。“这个箱子的出现是火箭已被运送到现场的有力证据，发射行动可能将在未来几周内开展。”<br/><div class="contheight"></div>此外，分析人士表示，这些图像中出现的停放在移动式发射架上的大型车辆和现场的加油车显示出组装和检测大楼周边异常的交通流量。<br/><div class="contheight"></div>伊朗的这一卫星发射准备工作，是在美方的警告后继续进行的。<br/><div class="contheight"></div>就在上周的1月3日，美国国务卿蓬佩奥警告伊朗不得用运载火箭发射卫星，认为这一做法违反联合国安全理事会决议。<br/><div class="contheight"></div>在当天的一份声明中，蓬佩奥指出，伊朗打算在今后数月内发射三枚运载火箭，使用与洲际弹道导弹“几乎相同”的技术。按照他的说法，伊朗最终目标是研制可以打到美国本土的洲际导弹。<br/><div class="contheight"></div>但伊朗外交部长贾瓦德·扎里夫随即否认发射运载火箭和导弹试验违反安理会决议，并称美国退出伊朗核问题全面协议才是“实质性违约”，“没有资格教训任何人”。<br/><div class="contheight"></div>目前尚不知晓，伊朗运用运载火箭发射卫星的行为，是否将遭致美国对其进一步制裁。<br/><div class="contheight"></div>围绕蓬佩奥关于伊朗发射运载火箭是为研制出可以打到美国本土的洲际导弹的言论，路易斯向CNN表示，这一说法具有误导性。“运载火箭‘凤凰’并非洲际弹道导弹，即便用作弹道导弹，也无法打到美国本土。”<br/><div class="contheight"></div>2018年5月8日，美国总统特朗普宣布退出伊朗核问题全面协议，并宣布将重启对伊朗制裁。两周后，蓬佩奥一边威胁将对伊朗实施“有史以来的最强制裁”，一边以“停止重启制裁”为名向伊朗提出了12项要求，包括要求伊朗放弃核项目、撤出叙利亚、停止参与也门内战等。去年11月5日，美国正式全面恢复了对伊朗的制裁。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：吴挺<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国,伊朗,卫星,制裁</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831656">
+<div class="nbgbox">
+<a class="zan" contid="2831656" href="javascript:;" onclick="voteCont(this)" praisetimes="24">
+                           23</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 伊朗发射卫星</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831656&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831656&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

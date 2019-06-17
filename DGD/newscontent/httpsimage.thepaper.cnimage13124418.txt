@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">中方是否已恢复购买美国大豆？外交部回应</h1>
+<div class="news_about">
+<p>外交部网站</p>
+<p>
+							2018-12-12 20:56<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="334" src="http://image.thepaper.cn/www/image/13/124/415.jpg" width="500"/></div><span style="color: rgb(128, 128, 128);">记者提问<br/><div class="contheight"></div></span>外交部网站消息，2018年12月12日，外交部发言人陆慷主持例行记者会。以下为部分实录。<br/><div class="contheight"></div><strong>问：特朗普总统还称中美之间即将进行一次访问，以便推进经贸谈判。你能否确认访问安排？你能否证实中国已恢复购买美国大豆，如果是，购买的规模是多大？<br/><div class="contheight"></div>答：</strong>我们说过，中美元首阿根廷会晤的共识包括指示双方经贸团队加紧磋商，尽快解决中美经贸领域分歧，达成双方都满意的结果。据我所知，<strong>现在双方工作团队确实正在加紧磋商。</strong>我们希望，双方能够相向而行，为达成一个好的结果营造必要的气氛和条件。前两天，<strong>中国商务部发布了刘鹤副总理同美国财政部长姆努钦和贸易代表莱特希泽通话的情况，双方就下步如何加紧磋商制定了路线图和时间表。</strong><br/><div class="contheight"></div>具体情况，我建议你还是向中国商务部了解。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 特朗普,中美经贸,美国大豆</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2731834">
+<div class="nbgbox">
+<a class="zan" contid="2731834" href="javascript:;" onclick="voteCont(this)" praisetimes="92">
+                           91</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 外交部例行记者会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2731834&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2731834&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

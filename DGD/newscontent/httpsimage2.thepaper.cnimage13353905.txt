@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">普京年度记者会丨前特工中毒后俄被制裁，卡舒吉死后西方沉默</h1>
+<div class="news_about">
+<p>澎湃新闻记者 刘惠 朱郑勇</p>
+<p>
+							2018-12-20 20:37<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">莫斯科当地时间12月20日中午，俄总统普京举行年度记者会。<br/><div class="contheight"></div>在新闻发布会上，普京将西方国家在俄罗斯前特工斯克里帕尔中毒案与沙特记者卡舒吉遇害案发生后的不同反应做了比较。<br/><div class="contheight"></div>“第一种情况是制裁，第二种情况是沉默。” 普京表示，“卡舒吉被杀了，但斯克里帕尔还活着。”<br/><div class="contheight"></div>普京认为，斯克里帕尔中毒案被英国用作攻击俄罗斯的借口。他强调，这是一种政治化的狭隘方法，是组织对俄罗斯进行攻击的一个借口。“没有斯克里帕尔，他们会拿出别的东西。”<br/><div class="contheight"></div>今年3月4日，66岁的斯克里帕尔和其女儿在伦敦的一家商场内接触不明物质后当场倒下，生命垂危。英国事后宣布斯克里帕尔系遭人为下毒谋害，并指责俄罗斯为幕后凶手。俄罗斯对此予以坚决否认。<br/><div class="contheight"></div>普京将此归因为西方世界的“恐俄情绪”，称欧美视俄罗斯为竞争对手，意在遏制俄罗斯的发展。<br/><div class="contheight"></div>尽管如此，普京强调俄罗斯仍希望全面恢复和英国以及欧洲的关系。他回忆在阿根廷G20峰会期间，与英国首相特雷莎·梅进行了简短交流。<br/><div class="contheight"></div>普京还强调，英俄在经济上的合作并未因此停止。他表示，英国石油公司（BP）和俄石油公司一直在进行合作。BP在俄罗斯市场一直占有稳定的份额。因此，俄英关系的波折应该不会对俄英贸易产生什么影响。事实上，英国是对俄罗斯直接投资排名第一的国家。2018年，英国向俄罗斯投资220亿美元，高于其后的德国和新加坡。<br/><div class="contheight"></div>对于英国脱欧事宜，普京打趣道，“如果对公投结果不满意，可以重新投票嘛。”普京表示，不管结果怎么样，总会有人不满意。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：杨一帆<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 普京,斯克里帕尔,卡舒吉</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2757664">
+<div class="nbgbox">
+<a class="zan" contid="2757664" href="javascript:;" onclick="voteCont(this)" praisetimes="168">
+                           167</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 普京年度记者会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2757664&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2757664&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

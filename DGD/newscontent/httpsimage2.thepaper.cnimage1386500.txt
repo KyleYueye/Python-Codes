@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">欧盟将很快同伊朗建立新支付渠道以绕开美国制裁</h1>
+<div class="news_about">
+<p>魏雪巍/海外网</p>
+<p>
+							2018-12-11 16:41<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网12月11日消息，距离美国11月5日宣布正式重启对伊朗在能源、银行等领域的制裁，已过去1个多月时间，这段时间内，欧盟同伊朗的金融交易受到很大限制，而欧盟也一直在考虑如何绕过美国继续同伊朗开展正常的商业合作。当地时间11日，欧盟高级官员表示，欧盟将很快同伊朗建立新的支付渠道以绕开美国的制裁措施。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="401" src="http://image.thepaper.cn/www/image/13/86/498.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">欧盟外交与安全政策高级代表莫盖里尼  视觉中国 图<br/><div class="contheight"></div></span>据今日俄罗斯网报道，10日，欧盟外交与安全政策高级代表莫盖里尼（Federica Mogherini）宣布，欧盟将创建一种新的支付渠道，以促进欧盟同伊朗正在进行和将要展开的商业交易，这一支付将绕开美国的制裁措施。莫盖里尼周一告诉记者：“我希望这项措施将在年底前的几周内达成，以促进和保护合法的商业交易。”<br/><div class="contheight"></div>报道称，其实，在美国宣布退出伊核协议并重启对伊朗制裁之后，欧盟就一直在寻找新的途径，试图绕过美国的制裁继续同伊朗做生意。11月，欧盟官员们提议过建立一个新的清算机制——SPV，以促进同伊朗之间的交易。但由于没有成员国愿意主动站出来主持这一机制，同时也担心美国会对欧盟施加经济惩罚，提议并未达成一致。<br/><div class="contheight"></div>虽然美国此前公布的对伊朗制裁豁免名单中包含希腊、意大利这样的欧洲国家，但欧盟却受到了普遍限制。目前，许多欧盟的企业因为担心美国实施二次经济制裁，而放弃了同伊朗的业务。比如大众、标致、西门子和戴姆勒等知名公司。<br/><div class="contheight"></div>（原题为《绕开美国做生意？欧盟：很快同伊朗建立新支付渠道》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 美国,欧盟,伊朗</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2727344">
+<div class="nbgbox">
+<a class="zan" contid="2727344" href="javascript:;" onclick="voteCont(this)" praisetimes="180">
+                           179</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 美国制裁伊朗</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2727344&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2727344&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（15）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

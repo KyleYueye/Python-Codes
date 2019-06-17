@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">人口出生率长期低迷，韩国提高男性陪产假待遇</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-26 15:30<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">韩国有关机构26日说，作为提高人口出生率措施的一部分，将从明年1月1日起提高男性陪产假待遇。<br/><div class="contheight"></div>据韩联社报道，依照新规，父亲在3个月带薪陪产假期间，每个月可享受最高250万韩元（约合1.53万元人民币）的待遇，先前这一数字为200万韩元（1.22万元人民币）。<br/><div class="contheight"></div>韩国人口出生率长期低迷。韩国统计局数据显示，韩国女性终生生育子女平均数从2008年的1.19降至2017年的1.05。该机构预计，今年韩国整体生育率将跌至1.0以下，远远低于为保证人口稳定所需的2.1。<br/><div class="contheight"></div>近年来，为鼓励生育，韩国政府鼓励男性休陪产假。事实上，的确有越来越多男性请陪产假，但数量仍明显少于休产假女性数量。韩国统计局数据显示，2008年仅有355名男员工请陪产假，2017年人数增至12043人；而2008年有28790名女员工休产假，2017年休产假女员工人数为78080人。<br/><div class="contheight"></div>为鼓励生育，韩国政府计划从明年1月25日起，凡是有6岁以下儿童的家庭，每个孩子补贴10万韩元（613元人民币）。其他鼓励政策也在酝酿中。<br/><div class="contheight"></div>（原标题《对抗低出生率，韩国提高陪产假待遇》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：辛恩波<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 韩国,人口,产假</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2776463">
+<div class="nbgbox">
+<a class="zan" contid="2776463" href="javascript:;" onclick="voteCont(this)" praisetimes="62">
+                           61</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 人口问题</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2776463&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2776463&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

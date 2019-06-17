@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">最高法：去年网约车司机服务中犯罪的案件，超六成为临时起意</h1>
+<div class="news_about">
+<p>澎湃新闻记者 庄岸 实习生 孙小咪</p>
+<p>
+							2018-09-20 21:02<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">9月20日，最高法发布的一项统计数据显示，2017年，全国各级人民法院一审审结的被告人为网络约车司机且在提供服务过程中实施犯罪的案件量不足20件，约4成涉故意伤害罪。相比之下，传统出租车司机发案量更高，多达170余件。<br/><div class="contheight"></div>这份《网络约车与传统出租车服务过程中犯罪情况》显示，2017年，网络约车司机每万人案发率为0.048，其中，77.78%案件的侵害对象为乘客。<br/><div class="contheight"></div>上述犯罪排名靠前的罪名分别为：故意伤害罪 (38.89%)，交通肇事罪(16.67%)，强奸罪和强制猥亵罪(16.67%)。<br/><div class="contheight"></div>数据显示，在提供服务过程中，由网络约车司机实施犯罪的案件，61.11%的案件为网约车司机临时起意。犯罪的时间段为夜间的，占比 50%。<br/><div class="contheight"></div>同时，网络约车司机实施犯罪，有犯罪前科记录的司机占比 11.11%，侵害乘客的有犯罪前科记录的司机占比14.29%。<br/><div class="contheight"></div>另一组数据显示，2017年，全国各级人民法院一审审结的被告人为传统出租车司机且在提供服务过程中实施犯罪的案件量为170余件，46.26%案件的侵害对象为乘客。其中，司机暴力犯罪和涉毒犯罪占比高，合计超四成。<br/><div class="contheight"></div>此外，在提供服务过程中，由传统出租车司机实施犯罪的案件，15.43%的案件中有醉酒情节。在网络约车司机案件中，暂无醉酒情节。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：马世鹏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 网约车 出租车</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2461004">
+<div class="nbgbox">
+<a class="zan" contid="2461004" href="javascript:;" onclick="voteCont(this)" praisetimes="62">
+                           61</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 网约车</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2461004&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2461004&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

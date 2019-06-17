@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">年度答问刚刚结束，克宫宣布普京明年继续与民众“直接连线”</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-24 14:55<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">继去年举办“与普京直接连线”之后，俄罗斯总统普京今年将继续主持类似活动。<br/><div class="contheight"></div>据俄罗斯卫星通讯社12月24日报道，俄罗斯总统新闻秘书德米特里•佩斯科夫称，2019年“与普京直接连线”电视节目将在2019年五一节前举行，筹备工作将于近期启动。<br/><div class="contheight"></div>2018年的直接连线节目于6月7日举行，持续4小时20分，一共收到200多万个问题，普京总统回答了其中73个。另外，俄罗斯8个地区领导人和8位内阁成员参与讨论。<br/><div class="contheight"></div>12月20日，普京的年度答记者问活动刚刚结束，在活动中他接受了包括来自乌克兰国籍记者在内的多国记者提问，问题涉及他本人以及俄罗斯内政外交的方方面面。<br/><div class="contheight"></div>在评价今年这次活动的成果时，佩斯科夫表示，“普京总统不害怕任何问题，他对任何严肃的问题都是开放的，也准备好严肃认真的回答这些问题。”佩斯科夫拿乌克兰国籍记者举例说，“普京总统同意让来自乌克兰的记者提问本身就是证明，他显然知道对方不会提出‘俄罗斯经济获得了什么样的成就’类似的问题。”</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 普京记者会</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768713">
+<div class="nbgbox">
+<a class="zan" contid="2768713" href="javascript:;" onclick="voteCont(this)" praisetimes="42">
+                           41</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 普京记者会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768713&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768713&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

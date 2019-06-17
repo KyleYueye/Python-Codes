@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">司法部：社区服刑人员矫正期间再犯罪率约0.2%</h1>
+<div class="news_about">
+<p>澎湃新闻记者 胥辉</p>
+<p>
+							2018-09-15 09:40<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="403" src="http://image.thepaper.cn/www/image/10/475/892.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">会议现场。 </span><br/><div class="contheight"></div>9月14日，第一次全国司法所工作会议在成都召开。司法部部长傅政华在会上，要求司法所要规范执法程序，提高矫正管理质量。<br/><div class="contheight"></div>傅政华说，近年来，全国司法所认真做好社区服刑人员的监督管理、教育矫正、社会适用性帮扶等社区矫正日常工作。今年截至2018年7月底，全国司法所累计接收社区服刑人员402万人，解除矫正332万人，矫正期间再犯罪率约0.2%。目前全国在册社区服刑人员70万。<br/><div class="contheight"></div>他表示，司法所承担社区服刑人员日常监管、调查评估和教育矫正工作，任务十分繁重。一定要认真研究新时代社区矫正工作规律，规范执法程序，创兴矫正模式，丰富矫正教育内容和形势，提高矫正管理质量。同时要进一步做好刑满释放人员衔接、教育、安置、帮扶工作，积极预防和有效减少重新违法犯罪，维护社会和谐稳定。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="390" src="http://image.thepaper.cn/www/image/10/475/965.jpg" width="600"/></div>傅政华还就司法所社区矫正中存在和需要完善的问题提出要求，他说，各地要根据工作需要，配备必要的执法设备和必需的交通工具，保障司法所依法规范安全开展工作。<br/><div class="contheight"></div>傅政华提出，要健全司法所各项管理制度，包括岗位目标责任制度、廉政勤政制度、执法监督与执法过错责任追究，考评奖惩、档案管理、重大事项报告和应急情况处预案等制度，形成系统完备、内容科学、预备性有效的制度体系。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：马世鹏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 司法部 社区矫正 服刑人员</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2443321">
+<div class="nbgbox">
+<a class="zan" contid="2443321" href="javascript:;" onclick="voteCont(this)" praisetimes="5">
+                           4</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 社区矫正</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2443321&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2443321&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

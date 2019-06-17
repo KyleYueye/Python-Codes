@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">埃尔多安称土军随时可能在叙利亚境内发动军事行动</h1>
+<div class="news_about">
+<p>中国新闻网</p>
+<p>
+							2018-12-18 18:39<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="362" src="http://image.thepaper.cn/www/image/13/284/530.jpg" width="600"/></div><br/><div class="contheight"></div>土耳其总统埃尔多安17日表示，随时可能对叙利亚境内幼发拉底河东岸发起反恐军事行动。<br/><div class="contheight"></div>报道称，埃尔多安在科尼亚市(Konya)的一项开幕仪式中表示：“我们将随时对叙利亚境内任何地方展开军事行动，尤其是500公里长的边界地区，而且不会伤及美军。”<br/><div class="contheight"></div>他说，军方已完成该行动计划的准备工作，强调捣毁幼发拉底河东岸的恐怖走廊，是土耳其将来“必须做的事”。<br/><div class="contheight"></div>“我们告诉(美国总统)特朗普，那些恐怖分子必须离开幼发拉底河东岸。如果他们不离开，我们将会把他们处决，因为他们令我们不安。”<br/><div class="contheight"></div>埃尔多安重申，土耳其不会允许两国边界处有恐怖走廊的存在。他警告：“我不只是说说而已，现在是对幼发拉底河东岸地区发起行动的时候了。在那个地区保护恐怖分子的人听好，你们正在犯错，放弃(保护他们)吧。”<br/><div class="contheight"></div>他表示，土耳其会继续在叙利亚打击恐怖主义，直到当地举行换届选举，通过政治手段全面解决叙利亚问题为止。<br/><div class="contheight"></div>继代号“幼发拉底河之盾行动”(Operation Euphrates Shield)和“橄榄枝行动”(Operation Olive Branch)两项在叙利亚境内的军事任务取得成功后，土耳其高层提出在幼发拉底河东岸展开作战任务已有数月之久。<br/><div class="contheight"></div>据报道，美国不顾土耳其反对，与叙利亚境内库尔德武装(YPG)并肩作战，讨伐激进武装团体伊斯兰国恐怖组织(IS)。土耳其认为YPG是库尔德工人党(PKK)的分支；其中PKK被土耳其、美国和欧盟认定为恐怖组织。<br/><div class="contheight"></div>在埃尔多安12日宣布将很快会对YPG采取行动后，美国国防部发出警告，表示在叙利亚北部片面发动任何军事行动，都是无法接受的。 <br/><div class="contheight"></div>（原标题为《埃尔多安：随时在幼发拉底河东岸发动军事行动》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：汪伦宇<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 叙利亚局势 埃尔多安 土耳其</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2750009">
+<div class="nbgbox">
+<a class="zan" contid="2750009" href="javascript:;" onclick="voteCont(this)" praisetimes="14">
+                           13</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 埃尔多安</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2750009&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2750009&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

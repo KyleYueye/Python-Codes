@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜5天能办成的证用了77天，办事群众咋能没怨气</h1>
+<div class="news_about">
+<p>澎湃特约评论员 敬一山</p>
+<p>
+							2018-08-23 13:36<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2372665" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜5天能办成的证用了77天，办事群众咋能没怨气" src="//image.thepaper.cn/image/9/831/411.jpg"/>
+</a>
+<div class="atlas_360_txt">江西上饶一居民更换不动产证，按规定只需5天实际耗费77天<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard"> “证是办下来了，但我对他们这种办事拖拉、不负责任的工作作风很不满意！”说起自己的办证经历，李水娥就气不打一处来。<br/><div class="contheight"></div>据中国纪检监察报报道：江西上绕市民李水娥，打算将自己一处房屋的房产证更换为不动产证。今年3月6日，她将所需材料递交到县房地产登记中心督查股。按照规定，5个工作日内即可办好手续。可匪夷所思的是，两个月过去了，李水娥都没有接到任何通知。<br/><div class="contheight"></div>5月7日，她来到换证窗口咨询，工作人员才把4月17日出具的告知书交给她。又三天后，李水娥才开始正式按告知书办理业务。到了5月14日，办事人员刘瑞珍称缺少缴费发票复印件，李水娥只好再次去登记中心，将银行缴存单存根放进档案袋。本以为接下来该办证了，没想到刘瑞珍又说李水娥丈夫死亡证明复印件公章不清晰，要重新提交。李无奈去相关部门去重新盖章，却遭到拒绝，只能又找刘瑞珍协商……<br/><div class="contheight"></div>就这样来回折腾，如果不是被上饶市纪委监委察访组碰见，不知道还会出什么幺蛾子。本来5天就该办成的事，折腾了77天，这还是在有纪委“盯着”的情况下。<br/><div class="contheight"></div>之所以不厌其烦地复述这件“小事”，是为了呈现整个过程的荒谬。门难进、脸难看、话难听、事难办，窗口人员动动嘴、办事群众跑断腿，这算了比较典型的了。<br/><div class="contheight"></div>国务院印发的《2018年政务公开工作要点》，要求提升政务大厅服务能力，群众必须要现场办理的事项尽量“只进一扇门”“最多跑一次”。数数李水娥为了换个证，进了几扇门，跑了多少次呢？出了告知书不及时通知办事人、材料缺失不在第一时间告知、材料齐了又挑出盖章不清晰的问题……甚至都让人怀疑，办事人员是真的责任心不强、业务不熟练，还是变相刁难？<br/><div class="contheight"></div>就这件事来说，县纪委监委跟进调查之后，及时得到处理。具体办事人员以及部门领导，分别被政务警告、党内警告，算是有了圆满结局。但不得不看到，这种拖沓、不负责的办事风格是普遍现实，被纪委察访组撞见则是“偶然”。<br/><div class="contheight"></div>治理类似乱象，公务问责必须常态化。既然“只进一扇门”“最多跑一次”是原则，那违背这种原则的，就要有及时问责。要实现问责常态化，就要给办事民众畅通的举报监督通道，对举报要有及时到位的回复。公务系统的办事之所以普遍的傲慢、拖沓，关键在于问责缺席或者偏软。现实中，无论是公务员还是事业编制人员，基本是有进不出，干好了可能升迁，干坏了最差也不会辞退。有了“安全兜底”，具体办事人员当然就不会谨小慎微。<br/><div class="contheight"></div>说到底，要真正做到让公务人员敬畏手中的权力、善待群众，就要给他们戴上常态化的“紧箍咒”。要根据所犯错误的程度、性质，施以相应的问责手段，辞退、开除等都应在选项之内。<audio controls="controls" style="display: none;"></audio></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 公职人员失职</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2373257">
+<div class="nbgbox">
+<a class="zan" contid="2373257" href="javascript:;" onclick="voteCont(this)" praisetimes="198">
+                           197</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 公职人员失职</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2373257&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2373257&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（119）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

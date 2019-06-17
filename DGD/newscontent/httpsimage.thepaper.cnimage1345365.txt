@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25490">打虎记</a>
+</div>
+<h1 class="news_title">郑振涛和邓海光因社会救助工作领导不力被问责</h1>
+<div class="news_about">
+<p>新华社</p>
+<p>
+							2018-12-24 14:09<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华社北京12月24日电日前，经中共中央批准，中央纪委国家监委对中央纪委驻审计署原纪检组组长、审计署原党组成员郑振涛和广东省政协党组成员、副主席邓海光失职失责问题立案审查调查。<br/><div class="contheight"></div> 经查，郑振涛同志作为时任广东省韶关市市长、市委书记，主体责任落实不到位，对广东省韶关市新丰县练溪托养中心受助人员死亡事件的发生负有重要领导责任；邓海光同志作为时任广东省政府分管民政工作的副省长，对社会救助工作重视不够，对上述事件的发生负有领导责任。郑振涛、邓海光同志在推进社会救助工作中领导不力，出现重大失误，给党的事业和人民利益造成严重损失，产生恶劣影响，应予严肃问责。<br/><div class="contheight"></div> 依据《中国共产党问责条例》《中国共产党纪律处分条例》《中华人民共和国监察法》等有关规定和郑振涛、邓海光同志的违纪事实，经中央纪委常委会会议研究并报中共中央批准，决定给予郑振涛同志党内严重警告处分，由国家监委给予其政务记大过处分；由国家监委给予邓海光同志政务记过处分。<br/><div class="contheight"></div>（原标题《中央纪委驻审计署原纪检组组长、审计署原党组成员郑振涛和广东省政协党组成员、副主席邓海光因社会救助工作领导不力被问责》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李丽<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 托养中心虐待被托养人员案</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768645">
+<div class="nbgbox">
+<a class="zan" contid="2768645" href="javascript:;" onclick="voteCont(this)" praisetimes="254">
+                           253</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 托养中心虐待被托养人员案</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768645&caid=25490",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768645&amp;caid=25490" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

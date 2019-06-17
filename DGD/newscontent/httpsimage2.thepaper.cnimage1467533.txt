@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25423">人事风向</a>
+</div>
+<h1 class="news_title">共青团山西省委书记黄巍任山西焦煤党委副书记，提名总经理</h1>
+<div class="news_about">
+<p>澎湃新闻记者 蒋子文</p>
+<p>
+							2019-01-09 10:35<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/14/67/526.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">黄巍 </span><br/><div class="contheight"></div>“80后”厅级干部黄巍已于近日职务调整，重回煤炭领域国企。<br/><div class="contheight"></div>据山西焦煤集团有限责任公司（以下简称“山西焦煤集团”）官网消息，2019年1月8日，山西焦煤集团召开干部大会，省委组织部副部长齐海斌宣布省委、省政府任免文件并讲话。王茂盛同志担任山西焦煤集团党委书记、董事长；黄巍同志担任山西焦煤集团党委副书记、副董事长，提名黄巍同志担任山西焦煤集团总经理。武华太同志不再担任党委书记、董事长职务；金智新同志不再担任党委副书记、副董事长、总经理职务。<br/><div class="contheight"></div>消息称，齐海斌对新任职的王茂盛、黄巍提出希望。他指出，此次调整是山西省委省政府从全省干部队伍建设实际出发，根据工作需要通盘考虑、慎重研究作出的决定。当前，企业改革发展稳定任务很重，希望山西焦煤集团上下以高度的政治责任感，切实把思想和行动统一到省委省政府的决定上来，带头讲政治、顾大局、守纪律，全力支持配合新一届领导班子，齐心协力推进企业各项工作。<br/><div class="contheight"></div>据山西焦煤集团官网介绍，该集团组建于2001年10月，属山西省国有独资企业，总部位于山西省会太原市，是全国最大的炼焦煤生产加工企业，也是全国最大的炼焦煤市场供应商。<br/><div class="contheight"></div>此次履新山西焦煤集团党委书记、董事长的王茂盛此前担任山西晋城无烟煤矿业集团有限责任公司总经理。<br/><div class="contheight"></div>而出任山西焦煤集团党委副书记、副董事长、提名担任总经理的黄巍出生于1980年9月，此前担任共青团山西省委书记。<br/><div class="contheight"></div>公开资料显示，黄巍山西原平人，研究生学历，2003年1月加入中国共产党，2004年7月参加工作。黄巍曾任中国神华煤制油化工有限公司神华陶氏榆林煤化工总协调人兼技术经理、神华俄罗斯煤制油一体化项目经理，2011年4月任山西潞安矿业（集团）有限责任公司副总经理。<br/><div class="contheight"></div>2017年7月，时年37岁的黄巍获任共青团山西省委书记，成为继共青团河南省委书记王艺（1980.5）后，全国第二名“80后”省级团委书记。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王俊<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 山西人事，山西焦煤，黄巍</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831046">
+<div class="nbgbox">
+<a class="zan" contid="2831046" href="javascript:;" onclick="voteCont(this)" praisetimes="70">
+                           69</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 山西人事</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831046&caid=25423",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831046&amp;caid=25423" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

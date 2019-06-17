@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27234">科技湃</a>
+</div>
+<h1 class="news_title">火疗包治百病，鞋垫能治O型腿？科学性上绝无可能</h1>
+<div class="news_about">
+<p>张景阳/科技日报</p>
+<p>
+							2018-12-27 07:26<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">近日，权健自然医学科技发展有限公司的几种“专利”疗法和产品被社交媒体推向了风口浪尖，其中以火疗法、骨正基鞋垫和负离子磁卫生巾尤为突出。这些一直被很多人推崇的疗法和产品真的像经销商说得那么神奇？对此，有专家称：虚假大于真实。<br/><div class="contheight"></div>在内蒙古自治区从事50多年中医药研究治疗的杨晓东指出，权健的火疗法声称可以施用于头、面、腹、背、臂、腿、足等各个人体部位，并可包治百病，从科学角度来讲，是绝无可能的。<br/><div class="contheight"></div>“骨正基鞋垫可以治疗O型腿，还可通过外用治疗心脏病和前列腺炎，我们认为这是一种荒唐的说法。”杨晓东介绍，医学上称为“膝内翻”的O型腿，是由韧带松弛或紧绷造成的，与中医的“正骨”无关，治疗O型腿，还需靠科学的治疗方法，非一副鞋垫能够解决。<br/><div class="contheight"></div>国内某研究院电化学专家何剑博士认为，三种商品效果宣传中最离谱的就是负离子磁卫生巾。推销者称，这款产品中的芯片可以生成高浓度银离子、负氧离子，从而可治疗女性生理疾病，甚至治疗男性前列腺炎。<br/><div class="contheight"></div>“按照产品说明，芯片生成了银离子，而银离子是正离子，那么他们所说的负氧离子又是怎么来的呢？”何剑质疑说。医学研究证明，只有小负离子（离子迁移率大于0.4cm2/VS）才可进入生物体，发挥保健、治疗作用。而目前生成这种负离子的技术应用成本极高。<br/><div class="contheight"></div>“一包30元不到的卫生巾安装同时生成银离子和小负离子生成芯片，基本是天方夜谭。”何剑说，“传统负离子生成技术虽然已经广泛应用于家电领域，家用负离子生成器所生成的大、中负离子有净化空气的良好效果，但是并没有生态级小负离子的治疗作用。”<br/><div class="contheight"></div>（原标题 火疗包治百病，鞋垫能治O型腿？专家斥其“荒唐”）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：杨漾<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2778834">
+<div class="nbgbox">
+<a class="zan" contid="2778834" href="javascript:;" onclick="voteCont(this)" praisetimes="140">
+                           139</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 保健帝国权健</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2778834&caid=27234",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2778834&amp;caid=27234" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（56）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

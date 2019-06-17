@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25489">舆论场</a>
+</div>
+<h1 class="news_title">新华网评：总书记的“一抓到底”警示我们什么</h1>
+<div class="news_about">
+<p>李洁琼/新华网</p>
+<p>
+							2019-01-10 09:34<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">据新华网消息，一部长达四十分钟的新闻专题片《一抓到底正风纪》，让“秦岭违建”事件再次引发社会关注和讨论。这部专题片中提到，从2014年5月到2018年7月，习近平总书记先后六次就“秦岭违建”作出重要批示指示，并强调“对此类问题，就要扭住不放、一抓到底，不彻底解决、绝不放手”。<br/><div class="contheight"></div>2018年7月31日起，一场雷厉风行的专项整治行动在秦岭北麓西安境内展开，违法建设别墅清查一栋拆一栋，然后复绿复耕。总书记“一抓到底”的工作作风给我们以深刻的警示。<br/><div class="contheight"></div>在事关党和国家事业发展、事关人民群众切身利益的问题上，必须旗帜鲜明讲政治。能否把讲政治的要求落实到党的领导、党的建设、党和国家各项工作中去，是检验和衡量领导干部是否对党忠诚、有无政治担当的重要标尺。一段时间以来，党中央虽然三令五申，秦岭违建别墅这一沉疴顽疾却始终得不到解决，一个重要原因在于部分领导干部不讲政治，不遵守政治纪律、政治规矩。这些领导干部对相关指示不传达不学习，表态的调门很高，落实的效果却很差。即便“高度重视”，也往往只是表面文章，对问题清查不实，整治不实，督查检查也不实，导致实际工作在“文来文往”里空转，让“国家公园”变为“私家花园”，严重破坏了生态环境。对于这种不讲政治的问题，必须一抓到底。<br/><div class="contheight"></div>在面对错综复杂的形势和艰巨繁重的任务时，必须真抓实干，杜绝形式主义。形式主义实质是主观主义、功利主义，根源是政绩观错位、责任心缺失，用轰轰烈烈的形式代替了扎扎实实的落实，用光鲜亮丽的外表掩盖了矛盾和问题。在“秦岭违建”事件中有一个数据“202”反复被提及。这个数据是2014年当地政府对秦岭别墅区违建别墅数量的一个清查结果，一直沿用了四年，直到2018年7月中央派出工作组专项整治前。事实上，后来陆续被整治的违建别墅多达1194栋，与之前的数据形成了巨大反差。整治弄虚作假，监督走马观花，材料不加辨别，对发生在眼皮子底下的严重问题全然不知，却热衷于造声势出风头，这显然就是典型的形式主义。对于这种形式主义的问题，必须一抓到底。<br/><div class="contheight"></div>在解决群众反映强烈、矛盾比较集中、问题比较突出的问题时，必须有担当精神，杜绝官僚主义。不敢担当难作为，不愿在解决问题抓落实上花心思、下功夫，遇见困难就拖，碰到矛盾就躲，对群众反映强烈的问题久拖不决、放任不管，现实中，一些社会痼疾积重难返、一些矛盾冲突常治不绝、一些公共服务迟迟不到位，无不与此息息相关。“秦岭违建”事件中就处处可见官僚主义的影子，比如部分领导干部对问题视而不见、搞整改避重就轻、摆功绩夸大其词，会议一场接着一场开，文件一份接着一份传，却是表态多、行动少、说一套做一套。省市领导的这种做法致使部分区县更加胆大妄为，户县、长安区甚至将别墅建设当成年度重点项目大力推进，产生边整治、边违建、禁而不绝的破窗效应。对于这种官僚主义的问题，必须一抓到底。<br/><div class="contheight"></div>最好的落实就是一抓到底，最大的公信就是说到做到。同党中央保持高度一致，不是空喊口号，而是重实效、出实招、办实事，在贯彻执行中央决策部署上不打折扣、不搞变通，以钉钉子精神担当尽责，真正做到对历史和人民负责。<br/><div class="contheight"></div>（原题为《新华网评：总书记的“一抓到底”警示我们什么》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王卉<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 一抓到底正风纪</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2834958">
+<div class="nbgbox">
+<a class="zan" contid="2834958" href="javascript:;" onclick="voteCont(this)" praisetimes="175">
+                           174</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 秦岭</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2834958&caid=25489",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2834958&amp;caid=25489" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（50）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

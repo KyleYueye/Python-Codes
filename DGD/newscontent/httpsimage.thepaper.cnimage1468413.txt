@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25434">10%公司</a>
+</div>
+<h1 class="news_title">滴滴内部反腐：去年83人涉腐败舞弊被解聘，8人被移送司法</h1>
+<div class="news_about">
+<p>澎湃新闻记者 欧阳李宁</p>
+<p>
+							2019-01-09 11:15<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月9日消息，滴滴出行通过其风控合规部官方微信号“滴滴清风”发布公告，公布滴滴2018年内部反腐败、反舞弊事件的相关情况。公告显示，滴滴在2018年内部查处各类腐败、舞弊等违规事件60余起，共查处违规人员83人。<br/><div class="contheight"></div>公告称，有83人因严重违规被解聘，其中8人因涉嫌违法被移送司法。而违规事件主要集中在弄虚作假、收受不当利益、侵占和信息安全违规等方面。此外，滴滴已将相关违规信息通报给“阳光诚信联盟”以及“中国企业反舞弊联盟”。<br/><div class="contheight"></div>滴滴方面表示，“为明确规范，预防舞弊事件发生，滴滴坚持推进制度建设，针对诚信合规、信息保护、安全运营等公司各管理维度，建立了系列制度规范，规范员工行为和提供工作指引，并通过签收、培训、宣贯和考核等方式提升全员的制度意识。”<br/><div class="contheight"></div>2017年，滴滴对外发布了《滴滴出行合作伙伴廉正合规奖励试行方案》，对外部合作方举报滴滴内部违规人员的行为进行现金奖励，奖金最高达到人民币50万元。2018年初，滴滴出行在公司内部发布了《廉正行为奖励方案》，对于内部举报或者拒收贿赂的员工进行奖励，给予荣誉激励并可给予现金奖励，最高将可达到10万元，目前已经对数十人进行了奖励。<br/><div class="contheight"></div>滴滴方面表示，公司自成立以来，对内部腐败、舞弊等触犯公司红线的不合规行为一直采取高压态势，对出现的问题秉承“发现一起，查处一起”态度，着力打造“风清气正”的组织环境。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙扶<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 滴滴 反腐</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831207">
+<div class="nbgbox">
+<a class="zan" contid="2831207" href="javascript:;" onclick="voteCont(this)" praisetimes="18">
+                           17</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 滴滴出行</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831207&caid=25434",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831207&amp;caid=25434" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">加拿大逮捕5名美国公民：在边境地区非法捕捞龙虾</h1>
+<div class="news_about">
+<p>海外网</p>
+<p>
+							2018-12-19 16:58<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网12月19日报道，美国和加拿大边境地区近日再生事端！据加拿大广播公司（CBC）18日报道，5名美国渔民日前在美加边境加拿大一侧被捕，其中4人来自缅因州帕萨马科迪部落。<br/><div class="contheight"></div>报道称，这5名美国公民于被捕后第二天承认，他们在加拿大新伯伦瑞克省和美国缅因州边界的帕萨马科迪湾非法捕捞龙虾。<br/><div class="contheight"></div>报道指出，加拿大法律禁止外国公民在该国水域从事商业捕捞活动，但一些帕萨马科迪原住民认为，他们有权在任何一方水域捕鱼，理由是他们传统意义上的领土横跨了美加两国。<br/><div class="contheight"></div>帕萨马科迪渔民亚当·纽厄尔（Adam Newell）说，“我认为它（帕萨马科迪湾）不是加拿大水域，也不是美国水域，它只是一个海湾，我们的祖先在那里进行捕捞已超一万年。我们为什么要因为新的制度而停止捕捞、停止利用帕萨马科迪湾的资源呢？”<br/><div class="contheight"></div>纽厄尔表示，他不会特意在加拿大水域捕捞龙虾，但因为他居住的地方离美加边境只有一英里远，如果他不偶尔越过边境，就无法谋生。<br/><div class="contheight"></div>据了解，帕萨马科迪湾（Passamaquoddy Bay）是大西洋芬迪湾西部的一个小海湾，地处美国缅因州与加拿大新不伦瑞克省之间，圣克洛伊河河口处。海湾内有罕见的巨大潮汐流，每天两次的潮起潮落约有20亿立方米的流量进出海湾，平均潮高约5.5米。<br/><div class="contheight"></div>自18世纪末以来，美加两国在关于帕萨马科迪湾边界确切划分问题上一直存在争议。近年来，随着该地区龙虾产量的飙升，渔民之间的竞争也随之加剧。不久前有加拿大媒体报道指出，美国海关和边境保护局的执法人员近来屡在两国有争议的海域拦截盘问加拿大渔船。加拿大政府随后回应说，将调查相关事件。 <br/><div class="contheight"></div>（原题为《美加边境再生事端！加方一口气逮捕5名美国公民》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘恋<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 加拿大,美国,捕捞,美加边境</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2752973">
+<div class="nbgbox">
+<a class="zan" contid="2752973" href="javascript:;" onclick="voteCont(this)" praisetimes="89">
+                           88</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 加拿大</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2752973&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2752973&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25436">能见度</a>
+</div>
+<h1 class="news_title">化工巨头巴斯夫与广东省签署框架协议：在湛江新建一体化基地</h1>
+<div class="news_about">
+<p>澎湃新闻记者 杨漾</p>
+<p>
+							2019-01-10 21:52<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div>德国化工巨头巴斯夫公司在华首个独资一体化基地项目继续推进。澎湃新闻从巴斯夫方面获悉，1月10日，巴斯夫与广东省政府签署框架协议，进一步明确巴斯夫在中国广东建立智慧一体化（Verbund）基地的规划细节。这是自2018年7月双方签订谅解备忘录后，巴斯夫正式宣布在广东省湛江市新建在华第二个一体化基地。湛江一体化项目总投资额将达100亿美元，是巴斯夫迄今最大的投资项目，由该公司独立建设运营，并将分阶段实施。 </div>巴斯夫是全球最大化工企业之一，2017年全球销售额超过600亿欧元。新建的湛江一体化基地将包括一个由巴斯夫全资运营、年产100万吨乙烯的蒸汽裂解装置，和数个面向消费市场的产品和解决方案生产装置。巴斯夫称，根据此份框架协议，新的湛江一体化基地将从根本上运用循环经济理念，以可持续的生产方式，为华南地区客户提供支持。该项目将占地约9平方公里。<br/><div class="contheight"></div>湛江项目是去年国务院总理李克强访德期间，在中德两国总理见证下签署的重大产业项目。当地时间2018年7月9日，巴斯夫欧洲公司执行董事会主席薄睦乐博士与广东省常务副省长林少春在德国柏林共同签署巴斯夫新型一体化石化基地合作备忘录。根据备忘录，巴斯夫将在广东湛江经济技术开发区东海岛石化产业园投资建设一体化石化项目。但该备忘录属于非约束性合作谅解备忘录，并非最终商务合同，因此仍需经过框架协议、正式合同等步骤敲定更多项目细节。<br/><div class="contheight"></div>湛江市地处广东西南中心，正致力于将湛江东海岛石化园区打造成为世界级石化园区。2016年12月，一期总投资400多亿元的中科（中国、科威特）合资广东炼化一体化项目在东海岛全面动工，预计将于2019年底将建成投产，投产后具备年产1000万吨炼油、80万吨乙烯和其他精细化工产品的能力。<br/><div class="contheight"></div>湛江一体化基地将是巴斯夫在中国的第二个一体化生产基地。所谓一体化石化基地，是指上下游产品共享生产流程，通过共有的基础设施来降低各种生产设施的管理费用，而且一个工厂的副产品往往被用作其他工厂的原料，这样既降低废物产出，又提高了效益。此前，巴斯夫和中国石化按50:50股比组建扬子石化－巴斯夫有限责任公司，共同出资52亿美元建设了南京一体化生产基地。该基地成立于2000年，一期工程2005年6月投入商业运行。<br/><div class="contheight"></div>除南京外，巴斯夫目前在全球范围内运营的一体化基地还包括：两个在欧洲（德国路德维希港，比利时安特卫普），两个在北美（美国德克萨斯州自由港，美国路易斯安那州盖斯玛）。在亚洲，位于马来西亚关丹的一体化基地成立于1997年，是巴斯夫与马来西亚国家石油公司（Petronas）按60:40股比建立的合资企业。<br/><div class="contheight"></div>湛江一体化基地也将是巴斯夫在中国首个独资的一体化基地。之所以采取独立建设运营模式而非合资模式，是由于《外商投资产业指导目录（2011年修订）》删除了2007年修订版中“年产80万吨及以上规模乙烯生产（中方相对控股）”等相关限制。除南京一体化基地外，巴斯夫在中国的主要生产基地还包括上海漕泾基地、重庆基地、上海浦东科技创新园。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李跃群<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2838189">
+<div class="nbgbox">
+<a class="zan" contid="2838189" href="javascript:;" onclick="voteCont(this)" praisetimes="101">
+                           100</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 巴斯夫</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2838189&caid=25436",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2838189&amp;caid=25436" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

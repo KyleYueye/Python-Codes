@@ -1,0 +1,64 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="gov_publish.jsp">问政</a>
+                &gt;     <a href="govAffairs_index.jsp?nodeId=27911">健康中国</a>
+</div>
+<h1 class="news_title">国家卫健委：破解“看病难”，主要依靠整合医疗卫生资源</h1>
+<div class="news_about">
+<p>健康中国</p>
+<p>
+                            2019-01-11 09:41<span>  
+                         
+                                 来源:澎湃新闻 问政</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="go_to_topic">
+</div>
+<div class="top_word_relation">
+</div>
+<div class="news_txt" data-size="standard">国家卫生健康委员会1月10日在国家卫生健康委新闻发布厅召开2019年首场例行新闻发布会，介绍2018年度卫生健康工作进展成效及2019年度卫生健康工作重点任务。<br/><div class="contheight"></div>国家卫生健康委新闻发言人、宣传司副司长<br/><div class="contheight"></div>胡强强<div style="text-align:center;"><img alt="" height="600" src="http://image.thepaper.cn/www/image/14/156/909.jpg" width="800"/></div>一是推进医联体建设。我们的总思路是：规划发展、分区包段、防治结合、行业监管，为构建整合型医疗服务模式打下制度基础。二是一定要加强县医院建设。因为提升县医院的能力是实现农民看病不出县的关键。按照新一轮的县级医院服务能力提升工程的要求，我们要重点发展肿瘤、心脑血管、感染性疾病等诊疗能力，力争农民90%的疾病在县医院得到解决。三是要发展远程医疗。我们要深入开展“互联网+医疗健康”的便利惠民活动，落实《远程医疗服务管理规范（试行）》，重点是“完善政策，规范发展”。四是要做实家庭医生签约服务。重点是要提高签约质量，尤其是提高对常见病、多发病的诊疗服务能力，保障对重点人群、重点病种提供签约服务。这是在看病难的问题上，我们今年准备采取的几个措施。<br/><div class="contheight"></div>来源：国家卫生健康委员会官方网站、中国网<br/><div class="contheight"></div>（原标题《胡强强：破解“看病难”，主要依靠整合医疗卫生资源》）<br/><div class="contheight"></div><br type="_moz"/></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+                </script>
+<div class="news_editor">发送邮件至zhengwu@thepaper.cn申请加入澎湃政务号或媒体团</div>
+<div class="disclaimer">
+<div class="disclaimer_title">特别声明</div>
+                    本文为政务等机构在澎湃新闻上传并发布，仅代表该机构观点，不代表澎湃新闻的观点或立场，澎湃新闻仅提供信息发布平台。</div>
+<div class="news_love detail_gov">
+<input id="hidden_contid" type="hidden" value="2840499">
+<div class="nbgbox ">
+<a class="zan" contid="2840499" href="javascript:;" onclick="voteCont(this)" praisetimes="1">
+                                    0</a>
+</div>
+<div class="nbgbox "><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+</input></div>
+<div class="news_tit3">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

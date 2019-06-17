@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">全国扫黑办将聘请一批督导专员，结合中央督导进行专项督导</h1>
+<div class="news_about">
+<p>澎湃新闻记者 邵克</p>
+<p>
+							2018-10-18 10:28<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">扫黑除恶督导工作机制将进一步强化。10月17日，中央政治局委员、中央政法委书记郭声琨在全国扫黑除恶专项斗争推进会上表示，全国扫黑办将聘请一批政治坚定、敢于碰硬、工作能力强的同志担任扫黑除恶督导专员，与中央督导组进驻督导相结合进行专项督导。<br/><div class="contheight"></div>根据中央统一部署，目前中央10个督导组已完成第一轮督导任务，接下来将开展第二轮、第三轮督导。郭声琨要求，要深入总结中央第一轮督导的经验做法，力争明年上半年实现中央督导工作全覆盖。各地要借鉴中央做法，组织好各层级督导组，加强常态化督导。<br/><div class="contheight"></div>郭声琨还要求，要建立督导问题整改机制。被督导地区要对照整改问题清单和问责清单，做好督导“后半篇文章”，推动整改工作落实到位。各督导组对发现的问题，要盯紧不放、一督到底，推动扎实整改、逐一销账，真正把督导成果转化为深入推进专项斗争的实际成效。对一些问题反复的重点地区，要适时开展督导“回头看”，巩固好督导成果。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李寿康<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 督导</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2540240">
+<div class="nbgbox">
+<a class="zan" contid="2540240" href="javascript:;" onclick="voteCont(this)" praisetimes="74">
+                           73</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 扫黑除恶</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2540240&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2540240&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

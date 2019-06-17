@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">科技日报：端给公费师范生的“铁饭碗”必须看得见、摸得着</h1>
+<div class="news_about">
+<p>杨仑/科技日报</p>
+<p>
+							2019-01-10 09:15<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新年伊始，师范院校中等待就业的大四公费师范生们迎来了又一项利好政策：教育主管部门下发通知，明确要求保障部属师范大学公费师范生的就业事宜。通知特别指出，严禁学校“有编不补”，落实公费师范生入编入岗，在离校前确保90%的公费师范生通过双向选择的方式，落实任教学校。<br/><div class="contheight"></div>2007年施行免费师范生制度以来，十年间为基层教师队伍注入了大量高素质、新鲜的血液，为基层教育质量的提升打下了坚实基础。<br/><div class="contheight"></div>过去的一年里，免费师范生计划迎来了诸多改变。首先是名称。从原来的“免费”改为现在的“公费”。虽然只有一字之差，但这是在告知每一名学子，这是在以国家的名义，对学生进行培养。这无疑增强了学生、家庭的荣誉感和自豪感；其次是服务期限。从十年下调至六年，让公费师范生有了更多选择的权力。即便服务期满后有更新的人生规划，也可以再次进行选择。<br/><div class="contheight"></div>免除学费、免缴住宿费、并补助生活费，加之最新出台的就业保障政策，足以让公费师范生成为学子心目中的“香饽饽”。实实在在的入编入岗、双向选择等政策，也有利于提升教师的社会地位。<br/><div class="contheight"></div>教师是教育改革在基层的实践者，也是改革成功与否的关键因素。为投身于教育事业的学子提供优越条件，让教师成为令人艳羡的职业，既能将优质教育资源输送至全国各地，也有益于吸引更多优秀的“后来人”。<br/><div class="contheight"></div>尤其是在教育改革走入深水区的今天，减负、高考改革、多元化的教学方式，都对基层教师的素质、学习能力提出了更高要求。能否培养出新时期需要的苗子、能否吸引优秀教师到基层任教，事关改革成败，必须得到足够的重视。<br/><div class="contheight"></div>在这方面，公费师范生计划就起到了榜样的作用。我国师范生免费教育政策从2007年实施以来，已经招收公费师范生10多万人。有媒体统计，其中超过90%到中西部省份中小学任教。基层教育的实力得到了进一步增强，也给未来省属公费师范生计划的推广提供了详实的参考资料。<br/><div class="contheight"></div>过去的十年里，社会各界对公费师范生计划给予了大量的关注，针对出现的若干问题也提出了建议。此次教育主管部门再次重申保障公费师范生的利益，无疑是对各界呼吁做出的积极回应。<br/><div class="contheight"></div>出于这个原因，端给公费师范生的“铁饭碗”必须看得见、摸得着。当然，保障编制、保障工资收入对有些地方的确存在难度，但拿到手里的实惠，才能让人安居乐教，实现师范生免费教育计划设计之初的目的。<br/><div class="contheight"></div>（原题为：《公费师范生的“铁饭碗” 必须看得见摸得着》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李敏<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 公费师范生,免费师范生,免学费</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2834981">
+<div class="nbgbox">
+<a class="zan" contid="2834981" href="javascript:;" onclick="voteCont(this)" praisetimes="35">
+                           34</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 公费师范生</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2834981&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2834981&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

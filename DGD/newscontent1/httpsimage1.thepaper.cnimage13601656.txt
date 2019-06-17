@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">奥地利维也纳一教堂发生严重袭击事件，十多名僧侣受重伤</h1>
+<div class="news_about">
+<p>侯兴川/海外网</p>
+<p>
+							2018-12-28 06:29<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">海外网12月28日电，当地时间27日下午奥地利首都遭到前所未有的入室盗窃抢劫案。2名不明身份嫌疑人袭击并抢劫了维也纳北部的一座修道院，造成10数名僧侣受伤。<br/><div class="contheight"></div>据《今日俄罗斯》（RT）消息，维也纳警方在一份声明中表示，该犯罪行为发生在光天化日之下。当地时间13:30（北京时间20:30），肇事者闯入维也纳弗洛里茨多夫区的玛利亚·伊马库拉塔（Maria Immaculata）教堂。<br/><div class="contheight"></div>声明表示，该犯罪行为持续了数个小时。3小时后警方发现数名“被捆绑并受重伤”的僧侣。事件发生后，随着大队警察部署到现场，教堂周围地区被封锁，大规模搜捕行动随即开始。警方还要求当地群众避免前往该地区，并表示“精干的同僚们正认真履行其职责”。<br/><div class="contheight"></div>在一份后续声明中，警方称，至少有一名袭击者“向僧侣索要贵重物品和现金”。调查人员还表示，暂未将此事件视为恐怖袭击事件，同时表示抢劫背后的确切动机“尚不清楚”。<br/><div class="contheight"></div>（原题为《维也纳一教堂发生严重袭击事件，十多名僧侣受重伤》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：伍智超<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 维也纳</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2784991">
+<div class="nbgbox">
+<a class="zan" contid="2784991" href="javascript:;" onclick="voteCont(this)" praisetimes="52">
+                           51</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 维也纳</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2784991&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2784991&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（37）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25436">能见度</a>
+</div>
+<h1 class="news_title">中国石化：为骑摩托车返乡的在粤务工者送1万个免费加油名额</h1>
+<div class="news_about">
+<p>澎湃新闻</p>
+<p>
+							2018-12-26 19:19<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">12月26日，澎湃新闻记者从中国石化新闻办获悉，2019年“情暖驿站 满爱回家——中国石化关爱春节返乡务工人员公益活动”即日起至2019年1月17日全面接受社会报名，1月21日正式启动。今年春运期间，中国石化将为骑摩托车返乡的在粤务工人员送出1万个免费加油名额，开通8条“爱心大巴线路”，248座加油站将为返乡人员提供10余项免费服务。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="392" src="http://image.thepaper.cn/www/image/13/530/850.jpg" width="600"/></div><br/><div class="contheight"></div>据了解，自2013年起，中国石化连续6年开展“情暖驿站”活动，累计服务超过250万摩托车返乡人员以及3600万春运人员。今年将继续送出1万份“免费加油礼包”，礼包除了1次免费加油资格，还包括1份太平短期意外保险、1份安全三件套（安全反光背心、雨衣、护膝）、1份易捷福袋（卓玛泉、面包、八宝粥、能量饮料等）。<br/><div class="contheight"></div>不仅如此，中国石化今年进一步升级了活动，联合粤运交通公司，开通8条“爱心大巴线路”，从佛山、中山等地出发，开往广西梧州、柳州、桂林、贵港、玉林、南宁、昭平等七个地市，免费帮助老人、孩子、孕妇及经济困难的在粤务工人员返乡。<br/><div class="contheight"></div>1月21日至3月1日春运期间，中国石化广东、广西、江西、贵州四省248座加油站将变身“情暖驿站”，为返乡人员提供“1+10+X”免费服务。“1”即针对春运途中老人、儿童、孕妇等弱势群体，“10+X”即10项免费基础服务，包括应急药品、道路指引、热水、热食、充电器、暖手宝、简易维修工具、便民油桶、食品加热设备、休息椅。部分驿站还将提供洗澡房或休息室，免费为摩托车车主代换机油、代缴罚款，提供免费WIFI、城区旅游图等个性化服务。活动期间，中国石化与共青团广东省委将组织超过5000名青年志愿者投入“情暖驿站”春运服务点，为返乡人员送开水、姜茶、热粥等。<br/><div class="contheight"></div>此外，中国石化与广东邮政EMS联手推出了“行李免费送回家”，1万份摩托车返乡人员的行李可以免费邮寄回家，进一步减轻骑行负担，提高长途行车过程中的安全系数。成功申领到“免费加油礼包”的摩托车返乡人员，可以在广州、佛山、肇庆等地的20座加油站，就近预约20公斤以内的行李寄送，提前将行李邮寄回家。<br/><div class="contheight"></div>即日起至2019年1月17日，凡是户籍在广西、贵州、云南、四川、湖南、江西六个省（区）的在粤务工人员，可登录活动官网（www.gdoil.cn）、官方微信（“中国石化广东石油分公司”或gd_oil）、“加油广东”APP报名申领，也可在广东省内所有中国石化加油站现场报名。成功报名的人员可以2019年1月21日-1月27日期间选择任意一天，到预约的地点领取“免费加油礼包”。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：杨漾<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2777208">
+<div class="nbgbox">
+<a class="zan" contid="2777208" href="javascript:;" onclick="voteCont(this)" praisetimes="32">
+                           31</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 春节</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2777208&caid=25436",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2777208&amp;caid=25436" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（25）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">多国批评美贸易政策，外交部：望美虚心倾听呼声切实承担责任</h1>
+<div class="news_about">
+<p>“外交部发言人办公室”公众号</p>
+<p>
+							2018-12-19 16:36<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="325" src="http://image.thepaper.cn/www/image/13/307/173.jpg" width="482"/></div><br/><div class="contheight"></div>“外交部发言人办公室”公众号12月19日消息，在19日外交部例行记者会上，有记者问：世贸组织正在对美国进行第14次贸易政策审议。我们注意到，在首日会议上，已有40个成员向美国提出了1700多个书面问题；64个成员发言，对美国阻挠世贸组织上诉机构成员遴选，以“国家安全”为名提升钢、铝、汽车等产品的关税等一系列政策措施表示关注，并要求美国以建设性态度参与多边贸易体制，发挥积极作用。欧盟常驻世贸组织代表表示世贸组织陷入深度危机，而美国正处于震源。中方对此有何评论？<br/><div class="contheight"></div>华春莹：关于世贸组织正在对美国进行的贸易政策审议，中国常驻世贸组织代表张向晨大使已经作了十分精彩和有力的发言，阐述了中方的鲜明立场和态度。<br/><div class="contheight"></div>正如你所说，这次贸易政策审议中，许多世贸组织成员代表都表达了对美国奉行单边主义和保护主义贸易政策的关切、担忧和批评。<strong>希望美方能认真虚心地倾听广大世贸组织成员的呼声，切实承担责任，忠实履行对多边贸易体制的义务。</strong><br/><div class="contheight"></div>（原题为《多国批评美贸易政策　华春莹：希美切实承担责任》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：文聪玲<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; WTO,美国,贸易政策审议</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2752809">
+<div class="nbgbox">
+<a class="zan" contid="2752809" href="javascript:;" onclick="voteCont(this)" praisetimes="27">
+                           26</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 外交部例行记者会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2752809&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2752809&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25435">金改实验室</a>
+</div>
+<h1 class="news_title">审计署：9家国有银行收回违规向地产业提供的融资款219亿</h1>
+<div class="news_about">
+<p>澎湃新闻记者 胡志挺</p>
+<p>
+							2018-12-24 14:55<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div>12月24日上午，国家审计署审计长胡泽君在十三届全国人大常委会第七次会议上作《2017年度中央预算执行和其他财政收支审计查出问题的整改情况的报告》。</div>胡泽君表示，在金融风险防控问题上，审计署对国有银行违规向房地产行业提供融资和个人消费贷款流入楼市股市问题，住房城乡建设部、人民银行、银保监会等部门开展专项整治，有关金融机构通过收回贷款、调账等整改219.83亿元，其余141.04亿元已制定清收计划。<br/><div class="contheight"></div>上述问题正是胡泽君6月20日在第十三届全国人民代表大会常务委员会第三次会议上作《国务院关于2017年度中央预算执行和其他财政收支的审计工作报告》时指出的。胡泽君当时提到，发现9家大型国有银行违规向房地产行业提供融资360.87亿元，抽查的个人消费贷款中也有部分实际流入楼市股市。抽查的个人消费贷款中也有部分实际流入楼市股市；一些金融机构通过发行短期封闭式理财产品吸收资金，用于投资长期项目等，存在期限错配风险。<br/><div class="contheight"></div>关于违规决策和经营问题，胡泽君在报告中指出，审计署对违规办理业务、向“两高一剩”行业融资、虚增存款规模等问题，有关国有银行通过收回贷款、调账等整改1488.66亿元，其余724.72亿元正按计划逐步清收。<br/><div class="contheight"></div>除此之外，在期限错配风险问题上，胡泽君指出，有关金融机构依照资管新规调整业务模式，优化产品结构，定期开展流动性压力测试，压降错配程度。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑景昕<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2768334">
+<div class="nbgbox">
+<a class="zan" contid="2768334" href="javascript:;" onclick="voteCont(this)" praisetimes="101">
+                           100</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 审计署</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2768334&caid=25435",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2768334&amp;caid=25435" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（6）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

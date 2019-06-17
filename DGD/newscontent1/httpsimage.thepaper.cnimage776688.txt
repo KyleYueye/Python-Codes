@@ -1,0 +1,80 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25769">生活方式</a>
+</div>
+<h1 class="news_title">新表试戴| 这枚钛合金的真力时腕表，把镂空玩出了未来感</h1>
+<div class="news_about">
+<p>文/钟天阳 图/王辰</p>
+<p>
+							2018-03-30 10:13<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><u>2017年，真力时推出精确到百分之一秒的DEFY EL PRIMERO 21计时码表和第一代DEFY LAB腕表。后者作为全球精确度领先的腕表，配备极具突破性的新型单晶硅振荡器。充满未来色彩的DEFY系列现也增添了更为丰富的产品线，其机械复杂程度更上一层楼。此次推出的全新三针日历DEFY系列CLASSIC经典腕表，表壳由超轻钛合金制成，不论是烟熏黑色镂空机芯还是星形镂空表盘，都重新演绎了高级运动腕表的定义。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/7/76/686.jpg" width="600"/></div></u><span style="color: rgb(153, 153, 153);">三针日历DEFY系列CLASSIC经典腕表<br/><div class="contheight"></div></span>DEFY系列CLASSIC经典腕表由高性能精准机芯提供动力，时针、分针、中央秒针和日期的基本功能实用而不累赘，让表盘全面展现镂空的机械美感。宽大的荧光巴顿式时针和分针以及带有星星标记的纤细秒针，抚过真力时五角星型标志，深蓝色的分钟刻度圈采用刻面镶贴时标，成为点睛之笔。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="450" src="http://image.thepaper.cn/www/image/7/76/685.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">三针日历DEFY系列CLASSIC经典腕表<br/><div class="contheight"></div></span>超轻钛合金表壳内搭载的是真力时自产机芯——将著名的Elite 670型自动基础机芯在DEFY模式下进行改良。这也是该机芯首次以超现代的镂空设计被呈现在外，且配备了硅制擒纵叉和擒纵轮。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="900" src="http://image.thepaper.cn/www/image/7/76/684.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">为向这个系列早年的传奇腕表致敬，这枚腕表采用与1969 EL PRIMERO杰出腕表完全相同的色调。<br/><div class="contheight"></div></span>镂空款烟熏黑色的表盘在6点钟位置配备了一个日期盘，采用白色圆点显示，振频为4赫兹，动力储备超过50个小时。对于崇尚古典主义的粉丝而言，除了镂空腕表，也可选择另一个复古款式：配备蓝色闭合表盘，日期窗口位于3点钟位置。DEFY系列CLASSIC经典腕表配备由柔软链接组成的集成金属表带，另有外包鳄鱼皮的橡胶表带和单结构橡胶表带可供选择，散发出别具一格的现代魅力。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="414" src="http://image.thepaper.cn/www/image/7/76/683.jpg" width="600"/></div><span style="color: rgb(153, 153, 153);">三针日历DEFY系列CLASSIC经典腕表</span></div>
+<div class="go_to_topic">
+<p style="line-height: 20px; margin-bottom:5px">
+<img alt="" src="//file.thepaper.cn/www/v3/img/topic.gif" style="float:left">
+<a href="newsDetail_forward_31826" target="_blank">
+<span class="news_topic">
+                              【专题】专题｜直击巴塞尔2018</span>
+</a>
+</img></p></div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘嘉郦<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; </div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2042547">
+<div class="nbgbox">
+<a class="zan" contid="2042547" href="javascript:;" onclick="voteCont(this)" praisetimes="6">
+                           5</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 巴塞尔表展</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2042547&caid=25769",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2042547&amp;caid=25769" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

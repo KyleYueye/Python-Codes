@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">山东一高校考研直接发答案？校方：可能是答案，系严重失误</h1>
+<div class="news_about">
+<p>澎湃新闻记者 喻琰</p>
+<p>
+							2018-12-23 21:02<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="816" src="http://image.thepaper.cn/www/image/13/434/958.jpg" width="600"/></div>山东师范大学2019年硕士研究生招生自主命题的《外语教学理论基础》科目考试过程中校方出现失误，12月23日下午有微博爆料，有同学称考场上没发试卷，直接发的答案。<br/><div class="contheight"></div>对此，12月23日晚，山东师范大学研招办的老师告诉澎湃新闻（www.thepaper.cn），“确实是发错了，发的有可能是答案”，此次系工作严重失误，现已安排学生于12月27日下午2:00—5:00重新补考，学校为参加补考的考生报销城市间往返交通费、住宿费及餐费，尽最大努力协助考生解决由此而造成的困难。 <br/><div class="contheight"></div>事发后，有学生接受新京报采访时称，其所在考场所有人都发到了答案，没有试卷，怕之后没有补考，只能赶紧抄答案，半小时之后，有一位监考老师来到考场中称，考试失误将进行补考，把答案和试卷一起收走了。另一名考生则称，他们收到答案后，监考老师马上就把答案收掉了，随后宣布将补考。<br/><div class="contheight"></div>12月23日18:41，山东师范大学在研究生院官网上发表《山东师范大学关于2019年硕士研究生招生自主命题考试〈外语教学理论基础〉科目补考的公告》，公告称，12月23日下午，山东师范大学2019年硕士研究生招生考试自命题科目《外语教学理论基础》（科目代码908），由于工作严重失误，试题印刷封装错误，致使考试无法正常进行。在此，山东师范大学真诚向考生道歉，并将认真调查、严肃追究相关责任人的责任。 <br/><div class="contheight"></div>公告称，为尽快弥补失误，确保把考生损失降至最低，根据国家研究生招生相关规定，经学校研究生招生工作领导小组研究，决定对该科目进行补考。现将有关意见通知如下： <br/><div class="contheight"></div>（一）补考时间、地点，将由学校工作人员通过电话、短信、邮件等方式与考生联系，请考生保持通讯畅通； <br/><div class="contheight"></div>（二）学校为参加补考的考生报销城市间往返交通费、住宿费及餐费，尽最大努力协助考生解决由此而造成的困难。 <br/><div class="contheight"></div>（三）补考按照2019年全国硕士研究生考试有关规定执行，相关考生均需参加本次补考，成绩以本次补考为准。 <br/><div class="contheight"></div>针对网友微博中称发的是答案不是试卷一事，12月23日晚，山东师范大学研招办的老师向澎湃新闻表示“确实是发错了，发的有可能是答案。”<br/><div class="contheight"></div>这名老师称，此事系工作严重失误，现已安排学生于12月27日下午2:00——5:00重新补考。并表示，23日下午考试不算入研究生考试成绩中，之前考试的三门成绩依然算在内，只有《外语教学理论基础》这门科目重新补考。 <br/><div class="contheight"></div>这名老师还说，23日晚研究生院将会一一发送补考信息给考生，学校将为参加补考的考生报销城市间往返交通费、住宿费及餐费，请广大考试及时关注校研究院官网，后续通知将会一一发放。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：何利权<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 考研,山东师大,试题错误,补考</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766812">
+<div class="nbgbox">
+<a class="zan" contid="2766812" href="javascript:;" onclick="voteCont(this)" praisetimes="399">
+                           398</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 2019年考研</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766812&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766812&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（734）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

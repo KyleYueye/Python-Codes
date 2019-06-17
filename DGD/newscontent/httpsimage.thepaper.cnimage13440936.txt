@@ -1,0 +1,82 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25487">教育家</a>
+</div>
+<h1 class="news_title">山东通报山东师大和青岛理工考研试题错装：系严重责任事故</h1>
+<div class="news_about">
+<p>@山东省教育厅</p>
+<p>
+							2018-12-24 06:26<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2767151" target="_blank">
+<span class="p_time">01:52</span>
+<img alt="山东通报山东师大和青岛理工考研试题错装：系严重责任事故" src="//image1.thepaper.cn/image/13/438/906.jpg"/>
+</a>
+<div class="atlas_360_txt">山东高校考研乌龙：拆开试卷信封是答案<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">@山东省教育厅 12月23日消息，2019年全国硕士研究生招生考试期间，山东师范大学自命题科目《外语教学理论基础》、青岛理工大学自命题科目《城乡规划理论综合》发生了试题错装，这是严重的责任事故，影响了考生正常考试，造成了恶劣影响。对此，我厅高度重视，已敦促两校依据国家有关规定，妥善安排补考各项工作，坚决维护考生合法权益，确保招生考试公平公正。<br/><div class="contheight"></div>同时，我厅迅速成立调查组开展调查，已对相关责任人作停职处理。下一步将根据调查结果，依法依规严肃处理。<br/><div class="contheight"></div>2018年12月23日<br/><div class="contheight"></div>（原题为《山东省教育厅关于山东师范大学 青岛理工大学自命题科目考试有关情况的通报》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+<p style="line-height: 20px;margin-bottom:5px;">
+<img alt="" src="//file.thepaper.cn/www/v3/img/article.gif" style="float:left"><a href="newsDetail_forward_2766812" style="text-indent: 20px;padding-left:6px;" target="_blank"><span style="color: #00a5ec; font-size: 16px; font-family: Microsoft YaHei">山东一高校考研直接发答案？校方：可能是答案，系严重失误</span></a></img></p></div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王建亮<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 考研,考场事故,山东师大,青岛理工</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2767268">
+<div class="nbgbox">
+<a class="zan" contid="2767268" href="javascript:;" onclick="voteCont(this)" praisetimes="1089">
+                           1088</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 山东考研试题错装</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2767268&caid=25487",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2767268&amp;caid=25487" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（920）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

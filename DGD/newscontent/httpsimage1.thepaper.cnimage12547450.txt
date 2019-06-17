@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">重庆南川监狱民警刘彦勇斗歹徒牺牲，最高法派员慰问其家属</h1>
+<div class="news_about">
+<p>微信公众号”最高人民法院“</p>
+<p>
+							2018-11-25 10:14<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">11月23日晚，勇斗歹徒的重庆市南川监狱人民警察刘彦经抢救无效牺牲。最高人民法院派员专程看望慰问了见义勇为的监狱民警刘彦同志家属，代表全国法院干警表达对刘彦同志的崇高敬意和深切哀思。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="287" src="http://image.thepaper.cn/www/image/12/547/448.jpg" width="240"/></div><span style="color: rgb(128, 128, 128);">见义勇为的重庆南川狱警刘彦。来源：重庆市司法局微信公众号</span><br/><div class="contheight"></div>11月22日12时20分，重庆市南川区人民法院刑庭审判员、四级高级法官田晓在重庆市南川区西城街道文体路附近，被蹲守的刑满释放人员曾川持刀刺伤。重庆市南川监狱民警刘彦路过，见状奋力追击。歹徒持刀将刘彦腹部、胸部刺伤后逃离现场。11月23日，刘彦同志因抢救无效牺牲，年仅30岁。<br/><div class="contheight"></div>面对持刀歹徒，刘彦同志将个人安全置之度外，用生命践行入警誓言，保护身处险境的法官和其他群众，以实际行动展示社会正能量，弘扬社会主义核心价值观，是政法战线的骄傲和楷模。<br/><div class="contheight"></div>全国法院干警深深为刘彦同志的英雄事迹所感染，纷纷表示要以刘彦同志见义勇为、敢于担当精神为榜样，在深入推进司法体制改革进程中，牢记职责使命，公正司法，司法为民，坚持人民利益高于一切，无畏艰难险阻，切实维护社会公平正义，努力实现“让人民群众在每一个司法案件中感受到公平正义”。<br/><div class="contheight"></div>（原题为《最高人民法院派员慰问见义勇为监狱民警刘彦同志家属》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：陈绪厚<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 监狱民警 牺牲 慰问</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2668072">
+<div class="nbgbox">
+<a class="zan" contid="2668072" href="javascript:;" onclick="voteCont(this)" praisetimes="110">
+                           109</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 警察牺牲</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2668072&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2668072&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（28）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

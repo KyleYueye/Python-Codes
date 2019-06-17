@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜按揭到80岁？警惕“接力贷”传承几代人的负担</h1>
+<div class="news_about">
+<p>澎湃特约评论员 盘和林</p>
+<p>
+							2019-01-03 15:08<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2807046" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜按揭到80岁？警惕“接力贷”传承几代人的负担" src="//image.thepaper.cn/image/13/836/165.jpg"/>
+</a>
+<div class="atlas_360_txt">杭州某银行规定房屋贷款最长可贷到80岁，两代人接力还款<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">近日，杭州某银行调整了房贷政策，规定房屋按揭贷款最长可贷到80周岁，一举打破了贷款人最高年龄纪录。<br/><div class="contheight"></div>按照目前多数银行的规定，房屋按揭贷款最长可贷到65周岁，少数银行可贷到70周岁。杭州这家银行原先的规定也是70周岁，此次足足延长了10年，自然引人关注。 <br/><div class="contheight"></div>根据国家卫健委发布的《2017年我国卫生健康事业发展统计公报》报告显示，2017年，中国大陆人均预期寿命已由2016年的76.5岁提高到76.7岁。所以，贷款年限超过了人均寿命，真的是为购房者考虑吗？  <br/><div class="contheight"></div>我倒认为，这恰恰表现了个别银行饥不择食，吃相太难看。2017年被称为“金融监管元年”，2018年由于金融去杠杆、房地产去杠杆等原因，更是有过之而无不及。监管趋严，银行的日子自然不好过。同时，房市的强监管也使得银行贷款业务不断紧缩。因此，个别银行才想出了大跨度放宽贷款年龄限制来激发人们贷款积极性的法子，以期实现贷款业务的增长。 <br/><div class="contheight"></div>不过，银行方面表示，其实这种放宽属于一种“接力贷”，体现的是财产继承的权利义务对等关系。说白了，一旦贷款人丧失还款能力，其子女就要承担相应的还款义务。从这个意义上说，不管是放宽到70岁还是80岁，好像都没有那么重要了。   <br/><div class="contheight"></div>但如此说辞还是难掩其吸引更多贷款业务的目的。据报道，该政策的更多受益者是借父母之手买房的人。报道中提到有全家摇号父母摇中，由于父母年龄原因不能享受长期贷款，因此背负了很大的还款压力，此举可以为这类买房人带来福利，还有什么家里房子太小，卖掉换新不划算，借用父母名义享受首套贷啊等等。但遗憾的是，我并未在这些案例中看到有真正的刚需群体。  <br/><div class="contheight"></div>如果将视野范围缩小，该举措的目的性更是可见一斑。由于该政策出自杭州某银行，我们不妨先以杭州房市为背景来看待这个问题。杭州房市历经了2014年至2016年的去库存阶段后，又经历了近两年的调整期，从之前的供过于求变为如今的一房难求，二手房倒挂现象普遍。可以说，杭州的房市需求是过热的，像贷款年龄限制的延长等明显提高购房需求的政策，并不能缓解如今房市供给需求不匹配的现状，更不能很好的识别刚需与非刚需的性质。此举只会扩大住房的需求量，进一步加剧房市的供需不平衡。<br/><div class="contheight"></div>因此，其实施效果可能会像之前各类“接力贷”一样，但其舆论影响却不容小觑。该项业务或许释放出房市放松的烟雾弹，从而改变购房者预期，激发人们购房热情。此外，“接力贷”还有可能模糊房地产金融调控手段的边界，比如子女由于限购限贷之后，已经没有贷款资格，而以父母的名义购房，一是使得一部分人有了炒房的空间，这违背了“房住不炒”的原则。二是增加了金融风险，“接力贷”假如最终落在已经有多套房贷的子女身上，实际上增加了房市的金融风险。 <br/><div class="contheight"></div>曾几何时，家和房是合二为一的，是人们的归宿和躲避风险的温暖港湾，而如今，家和房逐渐分离，房成了多少人的负担，要警惕“接力贷”在传承财产的同时，也传承了几代人的负担。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 按揭贷到80岁</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2808196">
+<div class="nbgbox">
+<a class="zan" contid="2808196" href="javascript:;" onclick="voteCont(this)" praisetimes="27">
+                           26</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 个人按揭贷款</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2808196&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2808196&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（56）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

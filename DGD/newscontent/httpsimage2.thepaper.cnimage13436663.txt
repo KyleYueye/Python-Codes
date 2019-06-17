@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">携程：海啸发生地距巴厘岛约千公里，暂未发现中国游客在灾区</h1>
+<div class="news_about">
+<p>澎湃新闻记者 于潇清</p>
+<p>
+							2018-12-23 21:07<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">当地时间12月22日晚，印尼巽他海峡附近的万丹省遭海啸袭击。<br/><div class="contheight"></div>携程公司23日向澎湃新闻（www.thepaper.cn）表示，本次（海啸发生）在爪哇岛的最西部，未涉及主要的旅游区域。“截至目前，无我们的旅游团队或自由行客人在该区域。离主要旅游目的地巴厘岛大概有1000公里。”<br/><div class="contheight"></div>据携程方面透露，海啸事发地万丹省附近并无机场，在携程网站的酒店页面中也未搜到万丹省的酒店产品。<br/><div class="contheight"></div>据《环球时报》23日报道，灾情发生后，中国驻印尼使馆即通过各种渠道了解核实灾区中国公民情况。截至目前，尚未收到中国公民在海啸中伤亡的报告。外交部领事司和中国驻印尼使领馆再次提醒在印尼的中国公民和企业提高风险意识，注意防范地震海啸灾害，密切关注印尼官方发布的海啸预警，勿在海啸预警期间出海活动，远离近海海岸，保持通讯畅通，做好应急准备。<br/><div class="contheight"></div>新华社此前消息，海啸发生时当地没有监测到地震活动，初步怀疑海啸是由喀拉喀托火山喷发引发海底岩层滑坡和月圆引发涨潮共同所致。法新社最新消息称，印尼抗灾署官员公布最新伤亡人数：截至目前，至少有222人遇难，843人受伤，28人失踪。随着救援人员赶赴现场，和更多医疗中心报告伤亡人数，这一数字将有可能再增加。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李怡清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 印尼海啸,火山,游客</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2766921">
+<div class="nbgbox">
+<a class="zan" contid="2766921" href="javascript:;" onclick="voteCont(this)" praisetimes="58">
+                           57</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 印尼海啸</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2766921&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2766921&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

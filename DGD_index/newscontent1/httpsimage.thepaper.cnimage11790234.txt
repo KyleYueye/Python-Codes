@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25426">法治中国</a>
+</div>
+<h1 class="news_title">郭声琨：严防发生个人极端暴力犯罪等案事件，增强群众安全感</h1>
+<div class="news_about">
+<p>新华网</p>
+<p>
+							2018-10-31 00:19<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新华网北京10月30日消息，中共中央政治局委员、中央政法委书记郭声琨30日主持召开中央政法委员会全体会议暨中央司法体制改革领导小组专题会议，学习贯彻习近平总书记关于全面深化改革的重要指示精神，审议司法体制改革有关文件，研究部署当前工作。<br/><div class="contheight"></div>郭声琨指出，当前，司法体制改革已进入系统性、整体性变革的新阶段。要从增强“四个意识”、践行“两个维护”的高度，认真贯彻落实党中央改革决策部署，以庆祝改革开放40周年为契机，对照全面深化司法体制改革推进会作出的部署，细化任务清单，排出重点问题，以敢于担当的精神啃硬骨头、闯难关，不断取得突破性进展。要加快推进政法口机构改革，抓紧完善新的工作体制和运行机制，确保相关工作运转高效、保障有力。<br/><div class="contheight"></div>郭声琨强调，维护社会安宁是人民福祉所在，政法机关肩负重任。要针对当前社会治安形势特点，深入推进反恐防暴、扫黑除恶、社会矛盾排查化解等工作，认真落实困难帮扶、教育疏导、安全防范等措施，严防发生个人极端暴力犯罪等案事件，增强群众安全感。要坚持围绕大局履行职责，依法保护产权、保障投资，平等保护各类市场主体和公民个人合法权益，为经济金融持续健康发展创造良好环境。要扎实开展警示教育活动，打造忠诚干净担当的政法队伍。<br/><div class="contheight"></div>赵克志、周强、张军出席会议。<br/><div class="contheight"></div>（原题为《郭声琨在中央政法委员会全体会议暨中央司法体制改革领导小组专题会议上强调 狠抓司法体制改革和维护安全稳定措施落实 进一步增强人民群众获得感幸福感安全感》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：王晓峰<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 郭声琨,司法体制改革,安全感</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2582701">
+<div class="nbgbox">
+<a class="zan" contid="2582701" href="javascript:;" onclick="voteCont(this)" praisetimes="50">
+                           49</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 司法体制改革</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2582701&caid=25426",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2582701&amp;caid=25426" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（69）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

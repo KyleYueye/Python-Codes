@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">印度政府邀华为明年进行5G测试，还有诺基亚、爱立信和三星</h1>
+<div class="news_about">
+<p>澎湃新闻记者 廖婧雯</p>
+<p>
+							2018-12-19 18:18<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">正处于多事之秋的华为，近日收到了来自印度的5G测试邀请。<br/><div class="contheight"></div>据《环球时报》12月19日援引《印度时报》消息称，中国高科技企业华为已被邀请在印度参加5G测试。<br/><div class="contheight"></div>对此，华为印度分公司人士18日对《环球时报》记者表示，华为从未收到印度政府有关安全问题的关切。公司承诺向客户提供可信赖和安全的产品解决方案，隐私和安全始终是华为的优先事项。《印度时报》也援引华为印度公司的声明表示，“华为在印度拥有良好的业务记录，将继续与印度政府和其他行业相关方保持密切合作”。<br/><div class="contheight"></div>据《环球时报》19日报道，印度电信部今年9月宣布将设立专门的工作小组，在2019年前实现带有印度特色的5G技术。之后，关于是否允许中国企业参加5G核心设备建设的争论此起彼伏。报道援引印度《经济时报》17日的消息称，负责促进印度电信设备出口的“印度设备与服务出口促进委员会”（TEPC）计划致信印度国家安全顾问多瓦尔，要求政府基于“国家安全”考虑，禁止进口华为等中国公司生产的电信设备。该委员会主任纳迦对媒体称，“华为的设备可以在印度以外被操控，而且有些设备已经被用在十分敏感的两国有边界争议的东北部地区”。<br/><div class="contheight"></div>而当地行业组织印度电信运营商协会则公开力挺华为。《经济时报》称，该协会在给电信部的信中呼吁政府不要根据TEPC提出的“所谓问题”就匆忙作出决定，“任何根据传闻排除某些企业的做法都可能会损害整个国家的数字通信前景”。协会总干事拉吉那·马修表示，“华为有能力帮助运营商和整个行业进行筹备工作，以便在运营、组织及最重要的生态系统中构建5G服务，并能确保完全符合政府所有的要求”。<br/><div class="contheight"></div>据《印度时报》18日报道，起初印度政府向全球通信设备商发出5G邀请的时候，中国的华为和中兴公司都没有收到邀请。此举随后遭到华为抗议，印度政府随即软化态度，在向华为发出邀请时，印度电信部长还赞扬了华为在印度发展电信业务的举措。<br/><div class="contheight"></div>除了华为，受邀参加印度5G测试的还有诺基亚、爱立信和三星等企业。但中兴仍未收到邀请。<br/><div class="contheight"></div>有印度分析人士18日告诉《环球时报》记者，印度政府重新将华为列入5G测试名单，有出于维系两国当前良好双边关系的政治考虑，但同样出于地缘政治、国家安全和国内民意等多方面考虑，现在断言华为一定能够参与印度的5G网络建设还为时尚早。<br/><div class="contheight"></div>据华为轮值董事长胡厚崑12月18日在公司发布会上透露，华为迄今已获得超过25份5G商业合同，规模排名全球首位，并已出货了逾1万个5G基站。<br/><div class="contheight"></div>而今，拥有全球第二大人口的印度也向华为伸出了橄榄枝。<br/><div class="contheight"></div>对此，《印度时报》援引消息人士评论称，印度政府允许华为参与5G测试实际上标志着“两国领导层之间新的、善意的政治气氛”。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李怡清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 印度,华为,5G</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2752851">
+<div class="nbgbox">
+<a class="zan" contid="2752851" href="javascript:;" onclick="voteCont(this)" praisetimes="157">
+                           156</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 华为5G</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2752851&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2752851&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（18）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

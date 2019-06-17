@@ -1,0 +1,81 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_27224">澎湃评论</a>
+</div>
+<h1 class="news_title">马上评｜200块卖自习座位的人，理解不了努力和梦想的可贵</h1>
+<div class="news_about">
+<p>澎湃特约评论 胡欣红</p>
+<p>
+							2018-08-22 18:10<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="atlas_360">
+<a href="newsDetail_forward_2369287" target="_blank">
+<span class="p_time"></span>
+<img alt="马上评｜200块卖自习座位的人，理解不了努力和梦想的可贵" src="//image1.thepaper.cn/image/9/801/733.jpg"/>
+</a>
+<div class="atlas_360_txt">合肥一高校自习座位被人转租给考研生谋利：200元能用半年<span style="font-weight:bold;font-size:16px;">【点击图片查看详情】</span></div>
+</div>
+<div class="news_txt" data-size="standard">近日，有网友爆料称，自己准备考研，发帖说想在合肥某高校教室内自习，没想到有一位自称是该校学生的人主动找上门来，称能将其先前占好的自习座位转租给自己，收费200元，用半年。这位网友十分诧异。“既然自己用不着，为什么不把座位留给其他人，而是要拿来赚钱呢？”（人民网，8月22日） <br/><div class="contheight"></div>转租自习座位谋利，与眼下特殊的时间节点有关。暑期留校准备考研的学生多，但正值天气炎热，学校开放的带空调、风扇的阴凉场所有限。另外，还有一些准备考研的校外人士认为大学里的氛围更适合备考，也进一步抢占了资源。供需矛盾，必然导致一部分人抢不到座位。这是一些人想出转租自习座位的现实基础。如果在平时，转租不太会有市场。 <br/><div class="contheight"></div>但一个常识是，无论何时，自习室座位不是商品，不能完全按照市场那一套来玩。它是公共资源，抢来不坐，已属不该，是一些人对另一些人正当学习权利的无视和粗暴践踏；转租谋利，更是匪夷所思，是部分人利用另一部分人努力学习的热情谋利，可谓毫无公共道德意识。这种举动及背后支撑这种举动的思维，不可轻视。 <br/><div class="contheight"></div>按照报道，该大学转租自习座位的现象并非个例，学校贴吧里已出现多条转租帖，甚至形成了“精细化”的运作模式，座位按照租赁时间的长短和位置，价格在200元到400元不等。一些考研族在权衡之下，只得接受宰割。虽然目前不能确定转租者都是大学生，但至少有一些大学生参与了此事。 <br/><div class="contheight"></div>无论转租者是谁，既然发生在校内，校方的管理都不该缺位。校方表态称，学校的教室座位在非上课时间面向社会开放，任何人都有权使用，不允许学生进行私自转租。这固然体现了大学的开放包容心态，值得肯定。但在具体做法上，校方表示每隔一段时间就会清场，一个自习室座位很难保持半年的时间不变，因此网上转租的传言很有可能是骗局，提醒考研学子不要轻信。这姑且算是一种解释，但还是过于模糊笼统，且有急于自我辩解和撇清责任的嫌疑，没有看到正在发生的现实与学生呼声。 <br/><div class="contheight"></div>要维持校园正常秩序、维护考研族的切身利益，还是要在管理强度和细节上下功夫。比如，在暑期开放的自习室醒目位置张贴禁止恶意占座、转租座位的标志，发动学生群体监督，鼓励被转租者收集证据向校方举报，校方调查属实对转租者实行一定程度的惩戒等。 <br/><div class="contheight"></div>当然，根本原因还在于改变一些人脑子里唯利是图的意识。现在的大学生，成长于市场经济较发达的年代，古话也说“君子爱财，取之有道”，但这有一个前提，就是不违背法律道德、不损害他人利益。赚钱就该通过自身的努力或创造，正正当当地获取，而不是放弃底线原则，做“精致的利己主义者”。对于进校备考的校外人员，同样应该自觉遵守校方各项规定制度，珍惜现有的学习环境，认真学习备考，而不是把他人对知识的追求，当成自己薅羊毛的良机。 <br/><div class="contheight"></div>要做到这些，固然需要学校的教育与引导，但作为成年人的大学生与校外人士也要自我警醒。树立基本的公共道德意识，并不是什么过高的要求，而是现代人最起码的素质之一。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：甘琼芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 转租自习座位</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2370858">
+<div class="nbgbox">
+<a class="zan" contid="2370858" href="javascript:;" onclick="voteCont(this)" praisetimes="155">
+                           154</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 自习座位</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2370858&caid=27224",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2370858&amp;caid=27224" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（62）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

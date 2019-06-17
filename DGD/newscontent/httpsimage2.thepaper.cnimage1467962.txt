@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25422">浦江头条</a>
+</div>
+<h1 class="news_title">第二届进博会企业商业展布局图发布，总展览面积超首届规模</h1>
+<div class="news_about">
+<p>澎湃新闻记者 俞凯</p>
+<p>
+							2019-01-09 11:10<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">1月9日，距离第二届中国国际进口博览会开幕进入倒计时300天！广受参展商、采购商和专业观众关注的第二届进博会企业商业展布局图也正式发布。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）从进口博览局获悉，根据首届进博会的实际情况和展区特点，第二届进博会对企业商业展展区进行了调整，适当扩大部分展区规模和题材。<br/><div class="contheight"></div>其中，装备展区增加大型机械，并扩大室外面积；科技生活展区增加AR/VR题材；品质生活展区增加高端消费品题材；医疗器械及保健品展区增加养老概念题材等，以满足展商多样化的展览需求。 <br/><div class="contheight"></div>另外，本次进博会还调整了部分展区的展品类别，使各个展区内容更加专业化，并优化了展区结构，能够更好满足不同领域的消费者的需求。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="690" src="http://image.thepaper.cn/www/image/14/67/959.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">1月9日，距离第二届中国国际进口博览会开幕进入倒计时300天。图片由进口博览局提供<br/><div class="contheight"></div></span>进口博览局透露，目前第二届进口博览会的筹办工作正在紧锣密鼓进行中。在基本框架方面，第二届进博会主办单位、合作单位、承办单位、举办时间、举办地点均与首届保持一致。在展览布局和规模方面，继续包括国家综合展、企业商业展和虹桥论坛。<br/><div class="contheight"></div>进博局表示，第二届进博会总展览面积会超过首届规模。其中，国家综合展展览面积3万平方米，展示贸易投资领域有关情况，包括货物贸易、服务贸易、产业状况、投资旅游，以及各国有特色的产品，只展示不成交。企业商业展展览面积根据展商需求会比首届增加，设装备、消费、食品、健康、服务等5个板块7个展区。<br/><div class="contheight"></div>论坛仍然包括主论坛和若干分论坛，参会嘉宾规格、规模力争超过首届。在政策支持方面，保持首届支持力度不减，并根据新形势和新要求，推动有关部门出台新的支持政策措施。<br/><div class="contheight"></div>目前，已经有众多企业报名第二届进博会。进博局表示，第二届进博会企业商业展的报名将在今年4月底全面截止。<br/><div class="contheight"></div><div style="text-align:center;"><img alt="" height="4475" src="http://image.thepaper.cn/www/image/14/67/958.jpg" width="600"/></div><div><span style="color: rgb(128, 128, 128);">第二届进博会企业商业展展区布局图。</span></div></div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：郑浩<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 进博会,企业商业展,展区调整</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2831146">
+<div class="nbgbox">
+<a class="zan" contid="2831146" href="javascript:;" onclick="voteCont(this)" praisetimes="2">
+                           1</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 进博会</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2831146&caid=25422",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2831146&amp;caid=25422" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

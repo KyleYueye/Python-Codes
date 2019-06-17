@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25491">长三角政商</a>
+</div>
+<h1 class="news_title">南京高淳首办国瓷发展论坛，曾独家承制APEC峰会晚宴用瓷</h1>
+<div class="news_about">
+<p>澎湃新闻记者 袁杰</p>
+<p>
+							2018-12-23 09:17<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">因大闸蟹闻名的南京高淳，同样因国瓷名满天下。<div style="text-align:center;"><img alt="" height="357" src="http://image.thepaper.cn/www/image/13/412/331.jpg" width="550"/></div><span style="color: rgb(128, 128, 128);">论坛现场  本文图片均来自中新网<br/><div class="contheight"></div></span>12月22日，首届中国国瓷发展论坛在南京市高淳区举办，“中国日用陶瓷设计中心华东分中心”也同时在高淳挂牌。<div style="text-align:center;"><img alt="" height="321" src="http://image.thepaper.cn/www/image/13/412/322.jpg" width="550"/></div><span style="color: rgb(128, 128, 128);">“中国日用陶瓷设计中心华东分中心”揭牌<br/><div class="contheight"></div></span>江苏省原副省长李全林在开幕式上表示，改革开放以来，江苏陶瓷行业积极创新，加快发展，宜兴紫砂艺术得到进一步弘扬，高淳陶瓷则是异军突起。<br/><div class="contheight"></div>陶瓷已成高淳“名片”之一。2014年，高淳陶瓷独家承制了北京APEC峰会招待晚宴用瓷，打造出“盛世如意”珐琅彩国宴用瓷。<br/><div class="contheight"></div>此后，高淳陶瓷还独家承制了“丝路国宴”国宴餐瓷，呈现于北京“一带一路”国际合作高峰论坛领导人午餐宴会。<br/><div class="contheight"></div>澎湃新闻（www.thepaper.cn）注意到，今年已是高淳陶瓷创业的整整第60年。<br/><div class="contheight"></div>江苏高淳陶瓷股份有限公司董事长孔德双介绍称，1958年，第一代高淳陶瓷人在固城湖畔利用当地陶土生产日用粗陶，开始了创业旅程。<br/><div class="contheight"></div>但由于工艺落后和体制的影响，厂子两度停产、转产，到1978年，也就是改革开放之初，高淳陶瓷还是个产值不足百万元的山区小厂。<br/><div class="contheight"></div>改革开放之后，高淳陶瓷先后完成三次技术改造，实现产品提档升级。公司也于2003年在上海证券交易所上市，成为核准制条件下，中国日用陶瓷行业首家上市公司。<br/><div class="contheight"></div>孔德双表示，面对新挑战，高淳陶瓷如今以创新推动企业核心竞争能力的提升，初步实现了市场结构从单纯依赖外贸出口，向国际国内两个市场的拓展。同时，企业核心竞争力也实现从主要依靠低成本竞争，向主要依靠科技创新、文化创意和品牌影响力的提升。<br/><div class="contheight"></div>澎湃新闻从高淳区获悉，依托当代国瓷的文化内涵和国际影响力，高淳已打造出占地1.08平方公里的“国瓷小镇”，这也是江苏省、南京市首批创建的特色小镇。<br/><div class="contheight"></div>目前，“国瓷小镇”已聚集有国际著名陶瓷设计师、陶艺家20多位，并和中国陶瓷工业协会共建了中国陶瓷文化创意产业示范基地，与江苏省文联共建了江苏省文艺家创作基地。<br/><div class="contheight"></div>未来三年，“国瓷小镇”将融陶瓷产业、文化体验、休闲旅游等于一体，目标打造中国当代陶瓷创意之都和高技术陶瓷研发基地。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：李克诚<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 高淳陶瓷，国瓷，行业协会</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2764743">
+<div class="nbgbox">
+<a class="zan" contid="2764743" href="javascript:;" onclick="voteCont(this)" praisetimes="15">
+                           14</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 陶瓷</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2764743&caid=25491",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2764743&amp;caid=25491" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（0）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

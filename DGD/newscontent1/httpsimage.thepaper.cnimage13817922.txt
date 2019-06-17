@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">美国政府在边境使用催泪瓦斯，中美洲移民在动乱中迎来新年</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2019-01-02 20:42<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">新年伊始，美国政府向美墨边境的中美洲移民投掷催泪瓦斯。<br/><div class="contheight"></div>据路透社报道，大约150名移民在当地时间2018年12月31日夜晚，试图翻越墨西哥蒂华纳边检站附近的围栏进入美国，并从围栏顶部将儿童转移过境。美国安全官员在（2019年1月1日）午夜过后朝墨西哥境内移民投掷催泪瓦斯，并逮捕25名移民，其中包括2名青少年。<br/><div class="contheight"></div>美国移民问题近日风波不断。去年12月，美国发生两起被拘移民儿童死亡事件。此外，由于白宫与国会在美墨边境建隔离墙的经费问题上相持不下，自去年12月22号部分美国联邦政府机构“停摆”，至今已经快两周了。<br/><div class="contheight"></div>据《纽约时报》报道，美国海关和边境保护局表示，在墨西哥边境对移民使用催泪瓦斯是为了自卫。他们只是在移民向美国安全人员投掷石块后才使用胡椒喷雾和催泪瓦斯。但路透社援引目击者称，没有看到任何移民向美方投掷石块。<br/><div class="contheight"></div>美国海关和边境保护局发言人安德鲁·米汉指出，移民的举动可能会伤及儿童，“这有关警官的安全，而实际上这也关系到移民本身的安全。”<br/><div class="contheight"></div>虽然此前曾有报道称，美方使用了特种设备，导致妇女和儿童受伤。但美国海关和边境保护局对此表示否认，并在声明中称没有移民因催泪瓦斯而受伤。<br/><div class="contheight"></div>与美国接壤的墨西哥边陲小镇蒂华纳目前滞留着约6000到9000名洪都拉斯、危地马拉和萨尔瓦多移民，他们乘坐“大篷车”穿越墨西哥，希望前往美国寻求庇护。美国政府将数千名士兵调往边境，以确保边境安全。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：孙语双<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 中美洲移民,美墨边境</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2805227">
+<div class="nbgbox">
+<a class="zan" contid="2805227" href="javascript:;" onclick="voteCont(this)" praisetimes="53">
+                           52</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 中美洲移民</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2805227&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2805227&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（9）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

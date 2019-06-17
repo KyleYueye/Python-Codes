@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25490">打虎记</a>
+</div>
+<h1 class="news_title">为躲交党费，云南两名党员工作变动后不转组织关系：已被除名</h1>
+<div class="news_about">
+<p>云南省纪委监委网站</p>
+<p>
+							2018-12-24 17:03<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">“以为不转组织关系就躲得了交党费，省下的不过是蝇头小利，但失去的是组织的信任和党员的资格。”云南省临沧市临翔区司法局干部宋清龙、王富贵在接受调查中后悔地说道。<br/><div class="contheight"></div>经查，临翔区司法局干部宋清龙、王富贵二人因工作变动、未按规定及时办理党组织关系转接手续，长期未缴纳党费，其行为已违反相关规定。根据《党章》第九条规定，今年11月29日，临翔区区直机关党工委对宋清龙、王富贵给予党内除名处置。<br/><div class="contheight"></div><strong>【执纪者说】</strong><br/><div class="contheight"></div>交纳党费非小事，一分一毫见党性。尽管如此，仍有个别党员欠下了“陈年旧账”。“一室之不治，何以天下家国为？”试想，如果连这项最基本的义务都尽不到，还谈什么做合格党员、体现先进性，谈什么平时工作看得出、关键时刻站得出，更谈不上“随时准备为党和人民牺牲一切”。千里之堤，毁于蚁穴。如果不及时明职责、尽义务、强党性，小错可能会酿成大错，甚至违规违纪走向违法犯罪。党费是一面镜子，可以照见党员内心的忠诚、信念、使命和担当。每一名党员都要怀着感恩之心、敬畏之心、赤胆之心，把交纳党费当作党性锤炼和具体考验，切实当好一名合格党员，真正发挥党费制度凝聚党的力量、规范党的组织、坚定党的信仰的重要作用。<br/><div class="contheight"></div>（原题为《【问责进行时】两名党员长期不交纳党费被除名》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：蒋子文<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 党费，云南临沧，党内除名</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2769102">
+<div class="nbgbox">
+<a class="zan" contid="2769102" href="javascript:;" onclick="voteCont(this)" praisetimes="35">
+                           34</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 党费</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2769102&caid=25490",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2769102&amp;caid=25490" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

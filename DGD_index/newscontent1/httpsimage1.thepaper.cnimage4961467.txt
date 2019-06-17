@@ -1,0 +1,92 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25427">澎湃人物</a>
+</div>
+<h1 class="news_title">“白帽黑客”的隐秘江湖：多转型为工程师，对手来自世界各地</h1>
+<div class="news_about">
+<p>澎湃新闻见习记者 袁璐 发自北京</p>
+<p>
+							2016-06-06 13:56<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align: center;"><img alt="" height="870" src="http://image.thepaper.cn/www/image/4/961/466.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">曾颖涛今年19岁，读完初二，他就直接去念了中专。他想玩电脑，家人不让，他干脆报了计算机专业。</span><br/><div class="contheight"></div>5月30日上午11点，曾颖涛对着电脑屏幕，在键盘上敲出一行行黑色的英文代码，试图通过这一串串代码对汽车进行远程遥控。他上身一件黑色T恤搭配一条浅蓝色牛仔裤，看上去很疲惫，但双眼没有离开过电脑屏幕。<br/><div class="contheight"></div> 曾颖涛花了半年多时间，专门研究在无钥匙的情况下启动一辆汽车。“没有钥匙，我也可以远程控制这辆车。”他的办公桌上杂乱堆放着一些电子芯片，各种线缠绕在一起。<br/><div class="contheight"></div> 在离曾颖涛办公桌十米远的另一边，是“天眼”团队负责人李越（化名）。<strong>他正盯着6台电脑屏幕，追踪全球范围内黑客组织对中国的网络攻击情况。</strong><br/><div class="contheight"></div> 电脑屏幕上，数个光点从世界各地像流星一样划过天际，最后落到中国的版图上。“看到没，这就<a>是境外的黑客组织在攻击咱们的国内网络，我要负责防御。”李越平静地对澎湃新闻（</a>www.thepaper.cn）记者说，他已经把这种检测当成一份工作。<br/><div class="contheight"></div> 李越目前是国内某大型互联网安全公司的产品技术负责人，他和同一公司攻防实验室的主任林伟，硬件安全工程师简云定、曾颖涛，安全漏洞挖掘和研发团队的负责人郑文彬都被称为<strong>“白帽黑客”——与“黑帽黑客”相反，在虚拟的网络江湖里，他们是用黑客技术维护网络安全的力量。林伟和郑文彬是顶级黑客，他们的对手来自世界各地。</strong><br/><div class="contheight"></div> 智能生活安全社区GeekPwn等机构2015年发布的中国首份《白帽黑客调查报告》显示，90后在白帽黑客中的比例已达61%，80后只占30%的比例。1988年出生的李越已经算是黑客中的老人。<br/><div class="contheight"></div> 在几位年轻黑客面前的，是不见硝烟的战争。<br/><div class="contheight"></div><strong>攻防对抗</strong><br/><div class="contheight"></div> 和李越在同一座大楼的郑文彬最近一直很紧张。他邀请了10支黑客团队到中国参加黑客大师赛。“其中有5个团队排名世界前5。”郑文彬说。他身材微胖，头发卷曲，戴着黑框眼镜。<br/><div class="contheight"></div>这10支战队将互相出题让对方破解。24岁的时候，郑文彬曾经出过一道题目。黑客入侵某台电脑之后，如何让电脑桌面右下角的小电脑图标不闪烁，但仍可以把电脑里面的数据传走。“这道题过了很久才被人破解了。”郑文彬回忆。<br/><div class="contheight"></div> 今年3月，郑文彬带着团队在温哥华参加了Pwn2Own黑客比赛。<br/><div class="contheight"></div> 现场，只有一张桌子和一台电脑，他将自己的电脑通过网络连上被攻击的电脑。11秒过后，他们攻破了谷歌chrome和Adobe Flash Player并获取系统最高权限。<br/><div class="contheight"></div> 随后，他被人带到一间小黑屋里面，把攻击的过程告诉给厂商，直到对方评估通过，他才离开小屋。“我们关注的是微软、谷歌、苹果等一些国际主流厂商。”<br/><div class="contheight"></div> 这之前，郑文彬和队员准备了3个月的时间，他内心一直不安。“因为离比赛不到1个月才公布目标，我们只能做一些预测。”<br/><div class="contheight"></div> 这个比赛对郑文彬来说很重要。当下世界上最炙手可热的黑客查理·米勒便是2008年借由这个比赛成名，他用两分钟时间破解了当时刚发布的苹果MacBook Air电脑。“那是黑客的黄金时代。七八年前，这比赛刚刚出来的时候，厂商没有那么重视，针对系统的黑客也少，攻破相对简单。但今天很多黑客都在盯着同一个目标，所以比赛挑战性越来越高。黑客都想在这个比赛里面拿第一，这是证明黑客实力的方式。”郑文彬说。<br/><div class="contheight"></div> 郑文彬有着黑客天生的敏感。前几天，他家小区换光纤，电信公司在他家里装了一个光锚，连上之后，他觉得不安全，害怕被入侵。于是他花了一下午把光锚破解了，进去更改了一些设置，“这样感觉更安全。”<br/><div class="contheight"></div><strong>郑文彬从来不让人拍他的电脑桌面或手机界面的照片，“拍电脑屏幕就能知道平时用什么软件，对入侵是一种帮助。”</strong>他严肃地对澎湃新闻记者说。<br/><div class="contheight"></div> 和郑文彬一样，同在一家公司的林伟也带着同样的敏感天性。<strong>前几天，林伟收到一个车检的短信，“但信息不是人保财险发的，而是北京保险协会给发的。”他提高警觉。下班之后，他开始去挖保险公司和保险协会的漏洞，最后发现里面有几亿的保单信息和数据。</strong>“我对生活中细节有好奇感，然后猜想我能把它黑下来，会发现很多漏洞。”林伟说话的时候声音清亮，语速较快，他面庞清瘦，双眼有神。<br/><div class="contheight"></div> 大部分时候，林伟的做法是主动出击，把漏洞先挖出来，在受到攻击之前解决问题。2014年的一天，某知名国际汽车名牌的CEO和360公司董事长周鸿祎在北京会面。饭桌上，两人聊起了该名牌汽车的安全问题。该CEO告诉周鸿祎，其团队拥有世界最顶级的黑客，“绝对不会存在漏洞。”<br/><div class="contheight"></div> 周鸿祎一回到公司，马上让攻防实验室专门研究该品牌汽车是否有漏洞。整个团队研究了一个月，进展不大。后来林伟加入。他冷静思考后，理出一套清晰简洁的思路：“操控汽车一共需要三步：打开车门，把车发动，把车开走。”他笃定地说。<br/><div class="contheight"></div> 依次按这三步，很快，该品牌汽车被攻破，同时做到了让汽车在行驶过程中偏航和在充电过程中烧掉电池。“我就是想要这种成就感，挑战一个很难的东西，或者别人没有挑战过的，我第一个挑战，成功之后会很有成就感。”<br/><div class="contheight"></div> 如果林伟是负责攻，李越主要是负责防。<br/><div class="contheight"></div> 2015年，李越在全球网络攻击检测系统上发现境外黑客组织“海莲花”，该黑客组织从2012年4月起针对中国政府的海事机构、海域建设部门、科研院所和航运企业，展开了网络攻击。“至今这个组织还在持续活跃。如果抓不了，只有防着。”<br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="402" src="http://image.thepaper.cn/www/image/4/961/465.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">林伟是顶级黑客，他和自己团队的雇主来自政府、企业，他们的对手来自世界各地。</span><br/><div class="contheight"></div><strong>技术崇拜</strong><br/><div class="contheight"></div> 2006年，夏天，李越在福建一所学校读大一。<br/><div class="contheight"></div> 学校不让带电脑，他悄悄在寝室藏个笔记本电脑。没事的时候，他就侵入学校的网站，看看有什么漏洞。“当时傻，把发现的漏洞直接公布在学校论坛上。”李越希望学校各个部门都知道学校网络存在很多安全隐患。<br/><div class="contheight"></div> 但帖子发出没多久，就被管理员删掉了。李越不服，随后发了条更强烈评论，质问管理员为什么删了他的帖子。“我特气愤，他们在隐藏问题，我想着报更多的洞。每一个黑客刚开始都有很强的正义感。”<br/><div class="contheight"></div> 第二天早上，李越手机上有未接电话，他回过去才知道是学校网络中心的电话。他很害怕，室友让他去“自首”。他在学校网络中心门口蹲了一下午，直到学校网络创新实验室的老师给他打电话，请他喝茶，邀请他加入实验室，负责维护整个校园网络。“我答应了，每天可以在办公室吹着空调，研究技术，那时候心里有一堆满足。”<br/><div class="contheight"></div> 林伟和李越同龄。2005年，林伟买了电脑学技术。白天上课，晚上11点回家，直到凌晨3点钟是他玩电脑的时间，睡4个小时后又起来上课。父母不让他玩电脑，酷热的夏天，林伟裹着棉被，躲在被窝里玩电脑。<br/><div class="contheight"></div> 那年，林伟做了一个校园社区。后来被竞争对手恶意攻击，他花两周时间去“复仇”，把对方的网站“黑”下来。那是他第一进行黑客攻击。“我觉得很有快感。”有了第一次的攻击之后，林伟开始控制对方站长的电脑，“有种进阶的成就感。”<br/><div class="contheight"></div> 2007年，林伟大学二年级。凭着网络攻防大赛第一名的成绩，他来北京参加中国IT技术精英年会，收到了许多公司的面试邀请。<br/><div class="contheight"></div> 他开始对大学生活感到不满。上课的时候，他总是躲在教室后面抱着电脑写程序。<br/><div class="contheight"></div> 林伟不想耗下去了。他办了休学，和朋友远赴内蒙古，共同经营黑客论坛吐司（Tools）。在这个社区，林伟认识了同样酷爱黑客技术的简云定。“我们在同一个技术社区的小组里面，专攻不同的技术。”<br/><div class="contheight"></div> 林伟的吐司黑客社区最多的时候有2000人左右。“里边是比较纯粹的技术分享。”黑客必须要贡献漏洞或者技术文章才能够进去，如果长时间不发东西，也会被清理出去。<br/><div class="contheight"></div> 那会儿，他们入侵的对象包括网易、搜狐、新浪和facebook等国内外比较火的互联网公司。<br/><div class="contheight"></div> 相比早期的“绿色兵团”等黑客联盟，林伟的吐司论坛活跃于2007年至2010年之间。“那时我们属于新秀，和黑鹰等黑客联盟没太多交集，但都互相认识。”<br/><div class="contheight"></div> 各联盟之间相互独立，又相互攻击。<br/><div class="contheight"></div> 当时，很多黑客向林伟的吐司发起挑战。有黑客直接找到域名提供商的漏洞，利用这个漏洞入侵吐司黑客论坛，并在吐司的网站上面留下了自己的网名、QQ和博客。<br/><div class="contheight"></div> “这是公然挑衅。”林伟发现以后，带着26名黑客，花了一下午的时间，先把对方博客的服务器攻下来，进而控制其本地的电脑。这样他们能够监视到这个黑客一举一动。“我们监控他大概一个月时间，然后把他的服务器和本地电脑全部格式化。这是一个被别人黑了之后进行反击的过程。” <br/><div class="contheight"></div><div style="text-align: center;"><img alt="" height="400" src="http://image.thepaper.cn/www/image/4/961/464.jpg" width="600"/></div> <span style="color: rgb(128, 128, 128);">简云定喜欢写程序，不凡的技术水平让他上大学时就成为班里的红人。</span><br/><div class="contheight"></div><strong>孤独行者</strong><br/><div class="contheight"></div> 2005年至今，林伟当了11年的黑客。他给自己起了个代号“陆羽”。<br/><div class="contheight"></div> 很少有人知道这个代号的含义。“我是福建人，别人都以为我喜欢茶，所以起了个茶圣的名字。”林伟笑了笑对澎湃新闻记者说，“其实是早年间我看上了一个妹子，她的网名叫茶。那会儿周杰伦有句歌词是‘陆羽泡的茶’。”<br/><div class="contheight"></div> 和林伟一样，简云定喜欢独来独往。“黑客需要承受孤独，像独行侠很多事情不能跟别人讲。”简云定笑着说。<br/><div class="contheight"></div> 混迹黑客论坛的时候，<strong>很多年轻黑客在攻击网站后，会把自己的名字和QQ留下来，“一定要把自己的名字挂出来，漏了谁都不行。从黑客精神的角度来说，这是追求个人主义的表现。”</strong><br/><div class="contheight"></div> 和专门做黑色产业的黑客不同，林伟和简云定在吐司黑客社区的时候，他们会把发现的漏洞免费提交给厂商。“那时我们应该算是灰帽黑客，很多攻击未被授权。”<br/><div class="contheight"></div>2010年，李越毕业后来到北京，在公司负责检测外来攻击。私下里，李越和同事聚在一起。一次，<strong>李越分析了北京公交卡里面的程序，然后自己编写了一个小程序，把卡里的钱从几十元改为几百元，他带着卡跑到楼下的便利店刷了一次，发现可以消费，他们又跑到地铁站自动售货机试了一下，发现可以空刷。</strong><strong>“我们伪造出了钱，但没有恶意消费。”同事把改后的数字拍了张照，发到微博上留作纪念，结果就被抓了。</strong>“这是代价，年轻的代价。”<br/><div class="contheight"></div>后来，他在同事介绍下认识了简云定。<br/><div class="contheight"></div>简云定皮肤黝黑，相貌普通，但在大学的时候，他喜欢写程序，不凡的技术水平让他成为班里的红人。周围的同学总夸他，“一群不懂技术的人夸我，那时候有点飘飘然。”<br/><div class="contheight"></div> 大二的时候，他意识到不能活在别人的吹捧中，于是给自己取名“孤独小白”，“我提醒自己不要装逼，只是一个什么也不懂的小白。”<br/><div class="contheight"></div> 至今，经常有人因为QQ被盗找他帮忙，他会无奈地拒绝。“黑客在电脑键盘面前，在网络上可能是神，但在现实中，就是手无缚鸡之力之人。”<br/><div class="contheight"></div> 曾颖涛和简云定在同一个团队。之前泡黑客论坛的时候，他经常看到前辈简云定写的技术帖子。曾颖涛今年19岁，在团队成员里年龄最小。读完初二，他就直接去念了中专。他想玩电脑，家人不让，他干脆报了计算机专业。<br/><div class="contheight"></div> 玩游戏的时候，遇到账号被盗的情况，他转而研究电脑技术。后来，他迷恋黑客技术，于是入侵了学校的网络，就被学校开除了。<br/><div class="contheight"></div> 同一时间，林伟还在内蒙古那座闲适的小城里，带领一帮黑客攻击与防守，一待就是一年多。时间越久，他危机感越强。“那几年里，我挖出过一大把漏洞，每一个都堪称利器。很多人在这种情况下会轻轻松松坐着挣钱了，可我担心这会让人不思进取，最终被行业淘汰。”<br/><div class="contheight"></div> 于是，林伟再次“出走”。<br/><div class="contheight"></div><strong>由黑到白</strong><br/><div class="contheight"></div> 林伟来到北京后，一直干到现在。他当时迈进公司的时候，带着这家公司的漏洞一起出现，“我直接搞定它的重要网站，这让我特别有成就感。”<br/><div class="contheight"></div> 同年，简云定毕业后来到北京，去了中国福利彩票的一家下属公司做彩票系统开发。他做硬件研究很烧钱，需要买各种仪器设备。单位发的工资，他除了寄给家里，剩的钱全部花在硬件设备上。<br/><div class="contheight"></div> 2014年，简云定带着自己做的硬件样品，来到现在的公司。和林伟、郑文彬、李越待在同一座大楼的同一个部门。<br/><div class="contheight"></div> 初进公司，简云定租不起房，每天住在公司，写代码，调硬件，忙到晚上12点，困了躺在沙发上，睡到早上五六点，再起来继续干活。<br/><div class="contheight"></div> 一有新的技术出来，简云定就想研究有没有漏洞，但有些设备由国家控制。“我想试，但没机会。那种感觉特别憋屈。”<br/><div class="contheight"></div> 真正进入到这一行业的时候，简云定的感受发生了变化。“过去黑了某个网站只是纯粹地为了证明自己的实力，渴望被别人认可。现在能够从行业层面保护更多人，这时候成就感会更强。攻击是以点破面，哪里有漏洞就补哪里，但防守是要防所有漏洞。这是一个不停地攻防对抗的过程。”这几年，简云定积攒了1000多篇技术笔记，都只放在自己电脑的文件夹里。<br/><div class="contheight"></div> “（上世纪）九几年的时候，国家对网络安全的管控不严，相对比较自由。那时想学什么技术，网上都能找到，也都比较公开。”简云定回忆。<br/><div class="contheight"></div> 2002年4月，中国互联网协会明文禁止黑客行为。中国三大黑客组织——中国红客联盟、中国鹰派联盟、中国黑客联盟相继土崩瓦解。2006年，国家开始打击在线的网络安全培训，关于黑客攻击技术的教程一律被下架，并出台政策认定传播黑客工具都是违法。<br/><div class="contheight"></div>很多黑客开始从地面转到地下。“他们尝到了黑钱的甜头，就不愿意再出来了。很多国家通过立法形式限制黑客行为，不仅限制了黑帽黑客，也限制白帽黑客的发展，因为法律严格，就不会有人去研究这方面东西了。”郑文彬对澎湃新闻记者说。<br/><div class="contheight"></div> <strong>像世界头号黑客凯文·米特尼克一样，在黑客论坛风生水起一阵之后，他们最终转型成为一名网络安全工程师，供职于大型互联网安全公司。</strong><br/><div class="contheight"></div> 到了互联网公司之后，他们的角色发生转变，从攻击者到防御者的转变。为了保护公司，他们会去攻击自己的公司。“在做灰帽黑客和黑帽黑客的时候，攻陷了别人就很有成就感。但作为白帽黑客，或作为企业的防御者的时候，需要挡住外来攻击，提前知道所有可能的攻击，这会比纯粹攻击更有成就感。”林伟说。<br/><div class="contheight"></div> 当年吐司黑客社区的2000多人现在都分散在国内的各大互联网安全公司，负责网络安全。“中国黑客经历的一个过程，过去是一种很疯很松散的状态，黑白不分。后来，很多黑客直接去做黑色产业，导致很多黑客团体瓦解。”简云定笑着说。<br/><div class="contheight"></div> <strong>据国家计算机网络应急中心估算，2015年中国“黑客产业”的年产值已超过2.38亿元。</strong><br/><div class="contheight"></div> 后来，林伟和团队人员搭建了一个白帽黑客平台。让很多在二三线城市的一些企业上班或待在家里没有上班的人，可以通过挖掘漏洞赚到额外的钱，“偶尔挖个洞，也会有成就感。有些人挖了洞不提交，但自己心里知道，也很有成就感，总比有黑客为了钱去做黑产强。” <br/><div class="contheight"></div> <strong>“在中国，黑客的定义更狭窄，分为黑帽、白帽、灰帽。有好的坏的，我们现在属于白帽黑客，帮企业发现漏洞和修复漏洞，研究成果对外公开。”</strong>郑文彬说。<br/><div class="contheight"></div> 和林伟一样，2005年，郑文彬刚上大学几个月后就退学了——他把图书馆计算机相关的书看了一遍之后，觉得再没什么可看的了。<br/><div class="contheight"></div> 他一直盯着互联网安全，经常在一些论坛里帮别人解决技术问题。后来现在公司的人主动找到他，让他加入。<br/><div class="contheight"></div> 郑文彬喜欢一边专研黑客技术一边听摇滚乐，他享受音乐震击耳膜时过电般的感觉。那样能让他与外界隔绝，沉浸于技术研究。<br/><div class="contheight"></div> 如今，28岁的郑文彬和27岁的林伟、李越都各自带着一个200多人团队。“我现在就想把我的经验和资源，分享给团队里的年轻人。”<br/><div class="contheight"></div> 过去的黑客联盟，更多的是知识分享社区，“我现在也愿意做更多的分享。”林伟说。“但是到一个阶段之后，技术实力可能就不再往上，更多的时间和精力花在带团队上面。”<br/><div class="contheight"></div> <strong>黑客单打独斗的时代已经过去。很多个加班的夜晚，李越会怀念那样的过去。</strong>最近，他看了一部叫《黑客军团》美剧，男主角艾略特是居住在纽约市的一名网络安全工程师。晚上，他化身一名黑客，动动手指，用一串代码就能掀起一场战争。“没准儿现实中也有这样的黑客，只是你不知道。”（应采访对象要求，文中部分人物为化名）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_asktopic">
+<div class="news_askuser" onclick="window.open('asktopic_detail_10004690');"><span class="verticalAlign_topic"></span>
+<div class="news_askuser_bd">
+<div class="news_askuser_sort">探索</div>
+<div class="news_askuser_profile">我曾经是“白帽黑客”,关于网络安全问题,问我吧！</div>
+</div> <div class="news_askuser_trbs"><span class="trbs">
+<div class="userleft_hdimg">
+<img src="//image.thepaper.cn/publish/interaction/image/1/230/955.jpg"/><div class="hdimg_bg30"><img src="//file.thepaper.cn/www/v3/img/headerimg_ctbg30.png"/></div>
+</div>
+<a class="u_sname">孤独大白</a>
+<span>2016-06-07</span>
+<span class="trbs_zan" id="10004690" times="66">66</span>
+<span>已关闭提问</span>
+</span></div>
+</div>
+</div>
+<!-- 审稿人字段 -->
+<!-- 空格分隔后的作者列表-->
+<div class="news_editor">责任编辑：黄芳<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 黑客 网络工程师 海莲花</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="1479515">
+<div class="nbgbox">
+<a class="zan" contid="1479515" href="javascript:;" onclick="voteCont(this)" praisetimes="75">
+                           74</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 黑客</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=1479515&caid=25427",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=1479515&amp;caid=25427" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（69）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

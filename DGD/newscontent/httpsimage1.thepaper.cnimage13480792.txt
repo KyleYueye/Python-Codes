@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25429">澎湃国际</a>
+</div>
+<h1 class="news_title">以色列将于明年4月9日提前举行大选，以媒：与政局变动有关</h1>
+<div class="news_about">
+<p>澎湃新闻记者 南博一</p>
+<p>
+							2018-12-25 10:03<span> 来源：澎湃新闻</span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard"><div style="text-align:center;"><img alt="" height="371" src="http://image.thepaper.cn/www/image/13/480/790.jpg" width="600"/></div><span style="color: rgb(128, 128, 128);">以色列将于明年4月提前举行议会选举。视觉中国 图</span><br/><div class="contheight"></div>据央视新闻客户端12月25日报道，当地时间24日，以色列执政联盟各党派领导人发布联合声明，一致决定解散以色列议会，并将于明年4月提前举行议会选举。这比原定选举日期提前了近7个月。<br/><div class="contheight"></div>执政联盟在声明中称，此举是出于对国家和预算负责。但有以媒体认为，提前选举与近期以政局变动，及以总理内塔尼亚胡受贪腐指控有关。<br/><div class="contheight"></div>2015年以色列举行议会选举，在全部120个席位中，以色列最大政治党派利库德集团赢得30个席位，随后与其他5个党派组成执政联盟，由内塔尼亚胡出任联合政府总理。然而今年11月份，以色列前国防部长利伯曼由于同总理意见不一而辞职，其领导的“以色列家园党”也退出联盟。这使得执政联盟在议会中的席位减少到61个，仅仅超过绝对半数1个席位。与此同时，以总理内塔尼亚胡在国内持续受到贪腐指控。这均给其领导的执政联盟带来负面影响。<br/><div class="contheight"></div>另据英国《金融时报》25日报道，决定举行选举之际，以色列司法部长阿维查伊•曼德尔布利特(Avichai Mandelblit)仍在考虑警方提出的针对三起腐败案件起诉内塔尼亚胡的建议。<br/><div class="contheight"></div>尚不清楚的是，如果内塔尼亚胡被起诉，他依法是否可以担任总理。在宣布举行选举后不久，以色列财政部长、内塔尼亚胡的执政联盟盟友之一摩西•卡隆(Moshe Kahlon)向其全民党(Kulanu)表示，“在法院审理后被控犯罪的总理不能任职”。</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：于潇清<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 以色列大选</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2771830">
+<div class="nbgbox">
+<a class="zan" contid="2771830" href="javascript:;" onclick="voteCont(this)" praisetimes="15">
+                           14</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 以色列</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2771830&caid=25429",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2771830&amp;caid=25429" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（3）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>

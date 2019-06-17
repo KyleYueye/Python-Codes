@@ -1,0 +1,74 @@
+<div class="newscontent">
+<div class="news_path">
+<a href="/">首页</a>
+					&gt; <a href="list_25433">地产界</a>
+</div>
+<h1 class="news_title">修法并不意味小产权房会转正，对农村宅基地管控依然严厉</h1>
+<div class="news_about">
+<p>乔金亮/经济日报</p>
+<p>
+							2018-12-27 08:42<span> </span>
+</p>
+<div class="font_size">
+<span>字号</span>
+<ul class="size_level" style="display:none;">
+<li id="super">超大</li>
+<li id="large">大</li>
+<li class="on" id="standard">标准</li>
+<li id="small">小</li>
+</ul>
+</div>
+</div>
+<div class="news_txt" data-size="standard">日前，土地管理法、城市房地产管理法修正案草案提请十三届全国人大常委会审议。草案删去了现行土地管理法关于从事非农业建设使用土地的，必须使用国有土地或者征为国有的原集体土地的规定。笔者认为，非农建设用地将不再“必须国有”，扫清了集体经营性建设用地直接入市的法律障碍，意味着政府将不再是唯一的非农建设用地供应者。但是，建设用地入市仍然要遵循符合土地利用规划和用途管制的前提，修订并不意味着小产权房会转正。<br/><div class="contheight"></div>长期以来，政府主导征地是我国农村建设用地“农转非”的“华山一条路”。按照现行法律，集体经营性建设用地不能直接入市，如果要入市交易，必须变更为国有土地之后才行。除农村集体和村民用于兴办乡镇企业、建设村民住宅和乡（镇）村公共设施、发展公益事业外，其他任何建设不能直接使用集体土地，都要通过征收程序将集体土地变为国有建设用地。<br/><div class="contheight"></div>所谓农村集体经营性建设用地入市，即在符合规划和用途管制前提下，允许农村集体经营性建设用地使用权出让、租赁、入股，与国有建设用地使用权同地同权同价。这一改革思路自十八届三中全会首次提出。2015年，在33个县开始试点。前提是经全国人大授权暂停在上述地方实施有关法律。此后，浙江德清敲响全国“第一槌”，改革试点逐步开花结果。近年来，试点地区积极开展入市探索，建立健全市场交易规则和服务监管制度，形成了一批制度创新成果。<br/><div class="contheight"></div>很多人关心对房地产市场的影响。值得注意的是，此次法律修订的主要目的是推动依法改革农村土地制度。草案明确指出土地规划和用途属性必须为工业、商业等经营性用途，因此仅对非住宅类经营性土地有影响，对住宅类经营性建设用地没有直接影响。即使直接入市也要符合规划和用途管制，所以也不意味着国家允许小产权房转正，政策对农村宅基地管控依然严厉。直接在农村集体土地上建设的房子，只有该村村民才能合法占有，不允许对市民上市交易，即使私下授受也拿不到房产证。<br/><div class="contheight"></div>从目前试点的情况来看，集体经营性建设用地入市后的用途主要是工商业、服务业、旅游业，一些地方在获得许可后试点利用集体建设用地建设租赁住房，即使是试点地区目前还没有允许集体经营性建设用地建设商品房。可见，集体建设用地入市要有一系列的条件和规范。对此，此次草案明确了集体经营性建设用地入市条件及管理措施。<br/><div class="contheight"></div>法律修订的目的，是完善农村集体经营性建设用地产权制度，明确入市主体、范围和途径，建立健全市场交易规则和服务监管制度，建立兼顾国家、集体、个人的土地增值收益分配机制，最终实现城乡统一的建设用地市场。改革试点的目标是释放土地红利，增加农民收益，繁荣乡村经济。这对于盘活农村集体资产、提高用地保障，无疑是件好事。<br/><div class="contheight"></div>（原题：《修法并不意味小产权房会转正》）</div>
+<div class="go_to_topic">
+</div>
+<div class="bottom_word_relation">
+</div>
+<script>
+                    var newsFontSize = wwwstore.getItem("fontSize");
+                    if (newsFontSize!=null && newsFontSize!=""){
+                        $(".news_txt").addClass(newsFontSize).attr("data-size",newsFontSize);
+                        $("#"+newsFontSize).addClass("on").siblings().removeClass("on");
+                    }
+                    var play = function(divId, url , defImg, w, h){
+                        jwplayer(divId).setup({
+                            flashplayer: "//file.thepaper.cn/www/v3/js/jwplayer.flash.swf",
+                            file: url,
+                            image: defImg,
+                            width: w,
+                            height: h
+                        });
+                    }
+                    var playUrl = '',wrapperId='player_wrapper',$wrapper = $('#'+wrapperId);
+                    if(playUrl){play(wrapperId,playUrl,'',$wrapper.width(),$wrapper.height())}
+				</script>
+<div class="news_editor">责任编辑：刘畅<span>澎湃新闻报料：4009-20-4009   澎湃新闻，未经授权不得转载</span></div>
+<div class="news_keyword">关键词 &gt;&gt; 小产权房,土地管理法,城市房地产管理法</div>
+<div class="news_love">
+<input id="hidden_contid" type="hidden" value="2778946">
+<div class="nbgbox">
+<a class="zan" contid="2778946" href="javascript:;" onclick="voteCont(this)" praisetimes="23">
+                           22</a>
+</div>
+<div class="nbgbox"><a class="shoucang" href="javascript:favoriteCont2(false);" id="shoucang">收藏</a></div>
+<div class="nbgbox">
+<a class="genzong" href="javascript:trackCont(false);" id="genzong">跟踪: 小产权房</a>
+</div>
+</input></div>
+<div class="news_imgad" style="background-color:#FFFFFF">
+<script type="text/javascript">adJax("//adpai.thepaper.cn/s?c=51&WD-CLIENT-TYPE=05&op=2&arid=2778946&caid=25433",".news_imgad")</script>
+</div>
+<div class="news_txtad" id="adWord">
+<script src="//adpai.thepaper.cn/s?c=52&amp;WD-CLIENT-TYPE=05&amp;arid=2778946&amp;caid=25433" type="text/javascript"></script>
+</div>
+<div class="news_tit2">
+<h2>相关推荐</h2>
+</div>
+<div class="ctread_bd">
+</div>
+<div class="news_tit3" style="">
+<h2 id="comm_span">评论<span>（12）</span></h2>
+</div>
+<div id="aq_commt"></div>
+<div class="jGrowl bottom-right" id="one"></div>
+</div>
